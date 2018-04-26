@@ -1,19 +1,30 @@
 # This hosts file is a merged collection of hosts from reputable sources.
-# AdAway Energized 
-# Version: Porn_0.1 Date: April 25 2018
-# Extensions added to this file: fakenews, gambling, porn and more ads blocking.
+# Energized
+# Version: Porn_0.3 Date: April 26 2018
+# Extensions added to this file: porn and more ads blocking.
 # Number of unique domains: 60,000+
 # ==================================================================================================================
 # Hosts contributed by Nayem Ador
 # https://adroitadorkhan.github.io
-
 127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
 ::1 localhost
-
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
 # Thanks to-
 # Steven Black (http://stevenblack.com) Src: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 # PornAway (https://github.com/mhxion/pornaway) Src: https://github.com/mhxion/pornaway/tree/master/hosts
-# ==================================================================================================================
+# Pornhosts -- a consolidated anti porn hosts file (https://github.com/Clefspeare13/pornhosts) Src: https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
+# ===================================================================================================================
 #
 # Energized Starts
 0.0.0.0 m.hqporner.com
@@ -1810,23 +1821,22 @@
 # This hosts file is brought to you by Dan Pollock and can be found at
 # http://someonewhocares.org/hosts/zero/
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
-# 
+# as long the original URL and attribution is included.
 # See below for acknowledgements.
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 # Last updated: Fri, 20 Apr 2018 at 10:23:40 GMT
 # Use this file to prevent your computer from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, reduces bandwidth use, blocks certain pop-up 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, reduces bandwidth use, blocks certain pop-up
 # traps, prevents user tracking by way of "web bugs" embedded in spam,
 # provides partial protection to IE from certain web-based exploits and
-# blocks most advertising you would otherwise be subjected to on the 
-# internet. 
-# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0 
+# blocks most advertising you would otherwise be subjected to on the
+# internet.
+# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0
 # available at http://someonewhocares.org/hosts/.
 # On some machines this may run minutely faster, however the zero version
-# may not be compatible with all systems. 
+# may not be compatible with all systems.
 # This file must be saved as a text file with no extension. (This means
 # that the file name should be exactly as below, without a ".txt" appended.)
 # Let me repeat, the file should be named "hosts" NOT "hosts.txt".
@@ -1849,7 +1859,7 @@
 # On a Netware system, the location is System\etc\hosts"
 # For Macintosh (pre OS X) place it in the Mac System Folder or Preferences
 #    folder and reboot. (something like HD:System Folder:Preferences:Hosts)
-#    Alternatively you can save it elsewhere on your machine, then go to the 
+#    Alternatively you can save it elsewhere on your machine, then go to the
 #    TCP/IP control panel and click on "Select hosts file" to read it in.
 #    ------------------
 #    | As well, note that the format is different on old macs, so
@@ -2070,12 +2080,12 @@
 #74.125.127.105	g        # google.com
 #</shortcut-examples>
 #<hijack-sites>
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
-# and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&D, AdAware or HijackThis to remove this 
-# nasty parasite. It's possible that blocking these sites using a hosts file 
+# The sites ads234.com and ads345.com -- These sites hijack internet explorer
+# and redirect all requests through their servers. You may need to use spyware
+# removal programs such as SpyBotS&D, AdAware or HijackThis to remove this
+# nasty parasite. It's possible that blocking these sites using a hosts file
 # may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot 
+# file and try the tools listed above immediately. Don't forget to reboot
 # after a scan.
 0.0.0.0 ads234.com
 0.0.0.0 ads345.com
@@ -2087,32 +2097,32 @@
 # By entering domains here, it will prevent certain companies from
 # gathering information on your surfing habits. These servers do not
 # necessarily serve ads, instead some are used by certain products to
-# "phone home". Others use web cookies to gather statistics on surfing 
-# habits. Among other uses, this is a common tactic by spammers, to 
-# let them know that you have read your mail. 
+# "phone home". Others use web cookies to gather statistics on surfing
+# habits. Among other uses, this is a common tactic by spammers, to
+# let them know that you have read your mail.
 # Uncomment (remove the #) the lines that you wish to block, as some
 # may provide you with services you like.
 #<maybe-spy>
 #0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
-#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
+#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game
 #0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
-					# URLs to their site. 
+					# URLs to their site.
 					# May break iOS Game Center.
-#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
+#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming
 				# video on sites such as cbc.ca
 #0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
-				# and potentially other sites. 
+				# and potentially other sites.
 0.0.0.0 media.fastclick.net
 0.0.0.0 cdn.fastclick.net
 #0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
 #0.0.0.0 google-analytics.com			# breaks some sites
 #0.0.0.0 ssl.google-analytics.com
 #0.0.0.0 www.google-analytics.l.google.com
-#0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
+#0.0.0.0 stat.livejournal.com		# There are reports that this may mess
  					# up CSS on livejournal
-#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
+#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause
 					# problems with NPR.org
 #0.0.0.0 www.google-analytics.com		# breaks some sites
 #0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
@@ -2147,7 +2157,7 @@
 0.0.0.0 adelogs.adobe.com
 0.0.0.0 ademails.com
 0.0.0.0 adlog.com.com
-  # ads and track users across 
+  # ads and track users across
   # the com.com family of sites
 0.0.0.0 ad-logics.com
 0.0.0.0 admanmail.com
@@ -14533,7 +14543,7 @@
 0.0.0.0 www.yourfuckbook.com
 #</popup-traps>
 #<ecard-scam-sites>
-# malicious e-card -- these sites send out mass quantities of spam 
+# malicious e-card -- these sites send out mass quantities of spam
 	# and some distribute adware and spyware
 0.0.0.0 123greetings.com
 0.0.0.0 2000greetings.com
@@ -14572,7 +14582,7 @@
 0.0.0.0 www.ivwbox.de
 #</IVW-sites>
 #<wiki-spam-sites>
-# message board and wiki spam -- these sites are linked in 
+# message board and wiki spam -- these sites are linked in
 	# message board spam and are unlikely to be real sites
 0.0.0.0 10pg.scl5fyd.info
 0.0.0.0 21jewelry.com
@@ -15383,7 +15393,7 @@
 0.0.0.0 zyrtec.4.p2l.info
 #</wiki-spam-sites>
 #<Windows10>
-# Windows 10 reporting domains. 
+# Windows 10 reporting domains.
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 adnexus.net
 0.0.0.0 aidps.atdmt.com
@@ -29704,7 +29714,7 @@
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
 # This list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
-# The Nginx Ultimate Bad Bot Blocker at: 
+# The Nginx Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 # and the Apache Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
@@ -29713,8 +29723,8 @@
 ### Version: V1.2018.04.6108
 ##### Version Information ##
 # Use this file to prevent your computer or server from connecting to selected
-# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
-# bandwidth use. 
+# many types of spyware, adware, malware, click-jacking and porn sites and reduces
+# bandwidth use.
 # The file should be named "hosts" NOT "hosts.txt"
 # For Linux based Operating systems place this file at "/etc/hosts"
 # For Windows based systems this is placed either at
@@ -70487,3 +70497,7 @@
 0.0.0.0 zuzandra.com
 0.0.0.0 zzcartoon.com
 0.0.0.0 zzgays.com
+# Steven Black Hosts Ends.
+# AntiPorn Hosts Starts
+0.0.0.0 www.deathaddict.com
+# AntiPorn Hosts Ends.
