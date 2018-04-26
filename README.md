@@ -2,7 +2,7 @@
 
 This repository consolidates several reputable `hosts` files, and merges them into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last updated: **25 April, 2018**.
+* Last updated: **26 April, 2018**.
 * Containing 200K+ entries.
 
 
