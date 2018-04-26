@@ -13,7 +13,7 @@ The **Non GitHub mirror** is the link to use for some hosts file managers which 
 Host file recipe | Blocking(s) | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
 Energized | Adware, Malware and Fakenews | [link](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 200K+ | [link](http://energized.eu5.net/Energized)
-Energized Malware | Malware | [link](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 20K+ | [link](http://energized.eu5.net/EnergizedMalware)
+Energized Malware | Malware | [link](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 150K+ | [link](http://energized.eu5.net/EnergizedMalware)
 Energized Porn | PornSites and PornAds | [link](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 60K+ | [link](http://energized.eu5.net/EnergizedPorn)
 
 ## Compatibility 
