@@ -1,5 +1,9 @@
 ## DNS66 Energized Changelog -
 
+### Energized 1.1
+
+- Changed Host Source to a better host service. Thanks to HelioHost.
+
 ### Energized 1.0
 
 - Added Energized Hosts Source. (Ads, Malware, YouTube Ads and Porn Protection)
