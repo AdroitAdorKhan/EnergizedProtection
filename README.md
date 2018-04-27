@@ -22,7 +22,7 @@ These unified hosts files should serve all devices, regardless of OS.
 
 ## Clients: Android
 
-Unofficial AdAway Reborn(ROOT) and DNS66 Reborn(UN-ROOT) Clients include **Energized** built-in.
+Unofficial AdAway Reborn(ROOT) and DNS66 Reborn(UN-ROOT) Clients include **Energized** built-in. Just install apply and forget!
 
 Client | Description | Download | Root | Changelog |
 -----------------|-------------|:---------:|:---------:|:---------:|
