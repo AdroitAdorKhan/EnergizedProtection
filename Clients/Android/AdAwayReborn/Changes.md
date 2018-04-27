@@ -1,5 +1,11 @@
 ## AdAway Energized Changelog -
 
+### Energized 1.5
+
+- Changed Host Source to a better host service. Thanks to HelioHost.
+- Typo Fixes.
+- Fixed bugs related to Energized changes.
+  
 ### Energized 1.3
 
 - EnergizedHosts Source Updated.
