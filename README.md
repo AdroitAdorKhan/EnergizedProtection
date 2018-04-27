@@ -20,6 +20,15 @@ Energized Porn | PornSites and PornAds | [link](https://raw.githubusercontent.co
 
 These unified hosts files should serve all devices, regardless of OS.
 
+## Clients: Android
+
+Unofficial AdAway Reborn(ROOT) and DNS66 Reborn(UN-ROOT) Clients include **Energized** built-in.
+
+Client | Description | Download | Root |
+-----------------|-------------|:---------:|:---------:|
+AdAway Reborn | Everyone's fav Rooted Adblocker! |[DOWNLOAD](https://tiny.cc/adaway_energized) | REQUIRED |
+DNS66 Reborn | UnRooted Adblocker and DNS Service |[DOWNLOAD](https://tiny.cc/dns66_energized) | NOT-REQUIRED |
+
 ## Sources of hosts data unified in this variant
 
 Updated `hosts` files from the following locations are always unified and
