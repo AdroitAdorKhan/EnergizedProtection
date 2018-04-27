@@ -14,7 +14,7 @@ Host file recipe | Blocking(s) | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
 Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 230K+ | [LINK](http://ador.heliohost.org/Energized)
 Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 230K+ | [LINK](http://ador.heliohost.org/EnergizedMalware)
-Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 600K+ | [LINK](http://energized.eu5.net/EnergizedPorn)
+Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 600K+ | [LINK](http://ador.heliohost.org/EnergizedPorn)
 
 ## Compatibility 
 
@@ -41,11 +41,13 @@ MVPS hosts file | The purpose of this site is to provide the user with a high qu
 Malware Domains | Malware Domains Blocking. |[LINK](https://mirror.cedia.org.ec/malwaredomains/) | [RAW](https://mirror.cedia.org.ec/malwaredomains/justdomains) |
 Malware Immortal Domains | Malware Domains Blocking. |[LINK](https://mirror.cedia.org.ec/malwaredomains/) | [RAW](https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt) |
 YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) |
-
-
-## Thanks -
-
-### [Steven Black](https://github.com/StevenBlack/hosts) - amazing work!
+AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) |
+Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) |
+CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
+Spam404 | Frauds Blocking. |[LINK](http://www.spam404.com/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) |
+Ransomware Domain Blocklist | Malware Blocking Filter. |[LINK](https://ransomwaretracker.abuse.ch/blocklist/) | [RAW](https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt) |
+PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
+Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
 
 **Note** This is for personal usage and practising only.
 
