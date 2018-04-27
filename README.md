@@ -24,10 +24,10 @@ These unified hosts files should serve all devices, regardless of OS.
 
 Unofficial AdAway Reborn(ROOT) and DNS66 Reborn(UN-ROOT) Clients include **Energized** built-in.
 
-Client | Description | Download | Root |
------------------|-------------|:---------:|:---------:|
-AdAway Reborn | Everyone's fav Rooted Adblocker! |[DOWNLOAD](https://tiny.cc/adaway_energized) | REQUIRED |
-DNS66 Reborn | UnRooted Adblocker and DNS Service |[DOWNLOAD](https://tiny.cc/dns66_energized) | NOT-REQUIRED |
+Client | Description | Download | Root | Changelog |
+-----------------|-------------|:---------:|:---------:|:---------:|
+AdAway Reborn | Everyone's fav Rooted Adblocker! |[DOWNLOAD](https://tiny.cc/adaway_energized) | REQUIRED | [Changes](https://github.com/AdroitAdorKhan/Energized/blob/master/Clients/Android/AdAwayReborn/Changes.md)
+DNS66 Reborn | UnRooted Adblocker and DNS Service |[DOWNLOAD](https://tiny.cc/dns66_energized) | NOT-REQUIRED | [Changes](https://github.com/AdroitAdorKhan/Energized/blob/master/Clients/Android/DNS66Reborn/Changes.md)
 
 ## Sources of hosts data unified in this variant
 
