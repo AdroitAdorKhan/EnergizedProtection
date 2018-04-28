@@ -1,9 +1,0 @@
-{
-    "name": "RansomwareDomainBlocklist",
-    "description": "Malware Domain Blocking.",
-    "homeurl": "https://ransomwaretracker.abuse.ch/blocklist/",
-    "frequency": "frequently",
-    "issues": "https://github.com/AdroitAdorKhan/Energized/issues",
-    "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
-    "license": "GPLv3"
-}
