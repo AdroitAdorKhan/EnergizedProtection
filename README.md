@@ -12,9 +12,9 @@ The **Non GitHub mirror** is the link to use for some hosts file managers which 
 
 Host file recipe | Blocking(s) | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
-Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 230K+ | [LINK](http://ador.heliohost.org/Energized)
-Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 230K+ | [LINK](http://ador.heliohost.org/EnergizedMalware)
-Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 600K+ | [LINK](http://ador.heliohost.org/EnergizedPorn)
+Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 340K+ | [LINK](http://ador.heliohost.org/Energized)
+Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 80K+ | [LINK](http://ador.heliohost.org/EnergizedMalware)
+Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 590K+ | [LINK](http://ador.heliohost.org/EnergizedPorn)
 
 ## Compatibility 
 
