@@ -5,16 +5,20 @@ This repository consolidates several reputable `hosts` files, and merges them in
 * Last Updated: **29 April, 2018**.
 * Unique Entries: 1,191,399
 
+## Maintainer
+
+**Nayem Ador** - [Facebook](https://facebook.com/adroitadorkhan) | [Twitter](https://twitter.com/adroitadorkhan) | [Telegram](https://t.me/adroitadorkhan)
 
 ### List of all hosts file variants
 
 The **Non GitHub mirror** is the link to use for some hosts file managers which don't work with Github download links.
 
-Host file recipe | Blocking(s) | Raw hosts | Unique domains | Non Github mirror
----------------- |:------:|:---------:|:--------------:|:-------------:
-Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 355,783 | [LINK](http://ador.heliohost.org/Energized)
-Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 412,295 | [LINK](http://ador.heliohost.org/EnergizedMalware)
-Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 594,371 | [LINK](http://ador.heliohost.org/EnergizedPorn)
+Host File Recipe | Blocking(s) | Raw Hosts | Unique Domains | Build Status | Non Github mirror | Size
+---------------- |:------:|:---------:|:--------------:|:-------------:|:-------------:|:-------------:
+Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 355,783 | WEEKLY | [LINK](http://ador.heliohost.org/Energized) | 10.3 MB
+Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 412,295 | WEEKLY | [LINK](http://ador.heliohost.org/EnergizedMalware) | 11.8 MB
+Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 594,371 | MONTHLY | [LINK](http://ador.heliohost.org/EnergizedPorn) | 15.8 MB
+Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedUnified) | 1,191,399 | OCCASIONALLY | [LINK](http://ador.heliohost.org/EnergizedUnified) | 33.3 MB
 
 ## Compatibility 
 
@@ -24,10 +28,10 @@ These unified hosts files should serve all devices, regardless of OS.
 
 Unofficial AdAway Reborn(ROOT) and DNS66 Reborn(UN-ROOT) Clients include **Energized** built-in. Just install apply and forget!
 
-Client | Description | Download | Root | Changelog |
------------------|-------------|:---------:|:---------:|:---------:|
-AdAway Reborn | Everyone's fav Rooted Adblocker! |[DOWNLOAD](https://tiny.cc/adaway_energized) | REQUIRED | [CHANGES](https://github.com/AdroitAdorKhan/Energized/blob/master/Clients/Android/AdAwayReborn/Changes.md)
-DNS66 Reborn | UnRooted Adblocker and DNS Service |[DOWNLOAD](https://tiny.cc/dns66_energized) | NOT-REQUIRED | [CHANGES](https://github.com/AdroitAdorKhan/Energized/blob/master/Clients/Android/DNS66Reborn/Changes.md)
+Client | Description | Download | Root | Changelog | Size |
+-----------------|-------------|:---------:|:---------:|:---------:|:---------:|
+AdAway Reborn | Everyone's fav Rooted Adblocker! |[DOWNLOAD](https://tiny.cc/adaway_energized) | REQUIRED | [CHANGES](https://github.com/AdroitAdorKhan/Energized/blob/master/Clients/Android/AdAwayReborn/Changes.md) | 4.9 MB
+DNS66 Reborn | UnRooted Adblocker and DNS Service |[DOWNLOAD](https://tiny.cc/dns66_energized) | NOT-REQUIRED | [CHANGES](https://github.com/AdroitAdorKhan/Energized/blob/master/Clients/Android/DNS66Reborn/Changes.md) | 2.8 MB
 
 ## Thanks to -
 
