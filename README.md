@@ -12,19 +12,19 @@ This repository consolidates several reputable `hosts` files, and merges them in
 
 ### Features
 
-[x] Based on [Hosts](http://lmgtfy.com/?q=what+is+hosts+file) file, all the bad stuff blocked with [0.0.0.0](http://lmgtfy.com/?q=what+is+0.0.0.0)
+- [x] Based on [Hosts](http://lmgtfy.com/?q=what+is+hosts+file) file, all the bad stuff blocked with [0.0.0.0](http://lmgtfy.com/?q=what+is+0.0.0.0)
 
-[x] Compatible with all devices, regardless of OS.
+- [x] Compatible with all devices, regardless of OS.
 
-[x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
+- [x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
 
-[x] Reduces page loading times.
+- [x] Reduces page loading times.
 
-[x] Reduces data consumptions. Saves data expenses.
+- [x] Reduces data consumptions. Saves data expenses.
 
-[x] Increases privacy.
+- [x] Increases privacy.
 
-[x] No extra abracadabra! 
+- [x] No extra abracadabra! 
 
 
 ### List of all hosts file variants
