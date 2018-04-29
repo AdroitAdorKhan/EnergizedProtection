@@ -18,6 +18,8 @@ This repository consolidates several reputable `hosts` files, and merges them in
 
 - [x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
 
+- [x] YouTube Ads Blocking.
+
 - [x] Reduces page loading times.
 
 - [x] Reduces data consumptions. Saves data expenses.
