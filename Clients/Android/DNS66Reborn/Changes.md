@@ -1,5 +1,9 @@
 ## DNS66 Energized Changelog -
 
+### Energized 1.2
+
+- Changed Host Source to a better host service. Thanks to <a href="https://chorompotro.com">Chorompotro (Nirjhor Bhai).</a>
+
 ### Energized 1.1
 
 - Changed Host Source to a better host service. Thanks to HelioHost.
