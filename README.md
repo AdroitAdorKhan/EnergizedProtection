@@ -77,7 +77,7 @@ YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/an
 CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
 PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
 Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
-Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [raw](http://someonewhocares.org/hosts/zero/hosts) |
+Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
 yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
 Mitchell Krog's - Badd Boyz Hosts | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) |
@@ -97,3 +97,10 @@ add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.ht
 [Steven Black's Python Script Method.](https://github.com/StevenBlack/hosts/#generate-your-own-unified-hosts-file) 
 
 Huge thanks for this! I'm currently using this both on my pc and android to generate hosts file even on-the-go!
+
+## Special Thanks to -
+
+[@fakeid30](https://github.com/fakeid30) - Fake ID for sharing his hosting.
+
+[@StevenBlack](https://github.com/StevenBlack) - Steven Black for his amazing work with the Unified Hosts and Tools.
+
