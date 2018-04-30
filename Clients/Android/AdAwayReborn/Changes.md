@@ -1,5 +1,12 @@
 ## AdAway Energized Changelog -
 
+<h3>Energized 1.6</h3>
+<ul>
+  <li>Changed Host Source to a better host service. Thanks to <a href="https://chorompotro.com">Chorompotro (Nirjhor Bhai).</a></li>
+  <li>Merged with latest changes.</li>
+  <li>Copyable Porn Blocking Source changed to <b>Energized</b>.</li>
+</ul>
+
 ### Energized 1.5
 
 - Changed Host Source to a better host service. Thanks to HelioHost.
