@@ -4,6 +4,12 @@ This repository consolidates several reputable `hosts` files, and merges them in
 
 * Last Updated: **29 April, 2018**.
 * Unique Entries: 1,191,399
+## Server Status
+![alt text](https://img.shields.io/badge/Hosts_Server_Status-DOWN-red.svg?longCache=true&style=flat)
+
+![alt text](https://img.shields.io/badge/RAW_Status-UP-green.svg?longCache=true&style=flat)
+
+
 
 ## Maintainer
 
@@ -72,7 +78,7 @@ CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW
 PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
 Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
 Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[link](http://someonewhocares.org/hosts/) | [raw](http://someonewhocares.org/hosts/zero/hosts) |
-MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[link](http://winhelp2002.mvps.org/) | [raw](http://winhelp2002.mvps.org/hosts.txt) |
+MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[link](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
 yoyo.org | Blocking with ad server and tracking server hostnames. |[link](https://pgl.yoyo.org/adservers/) | [raw](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
 Mitchell Krog's - Badd Boyz Hosts | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[link](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [raw](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) |
 CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[link](https://github.com/ZeroDot1/CoinBlockerLists) | [raw](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) | 
