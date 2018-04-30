@@ -5,7 +5,7 @@ This repository consolidates several reputable `hosts` files, and merges them in
 * Last Updated: **29 April, 2018**.
 * Unique Entries: 1,191,399
 ## Server Status
-![alt text](https://img.shields.io/badge/Hosts_Server_Status-DOWN-red.svg?longCache=true&style=flat)
+![alt text](https://img.shields.io/badge/Hosts_Server_Status-MAINTENANCE-blue.svg?longCache=true&style=flat)
 
 ![alt text](https://img.shields.io/badge/RAW_Status-UP-green.svg?longCache=true&style=flat)
 
