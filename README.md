@@ -2,7 +2,7 @@
 
 This repository consolidates several reputable `hosts` files, and merges them into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last Updated: **30 April, 2018**.
+* Last Updated: **May 1, 2018**.
 * Unique Entries: 1,247,156
 ## Server Status
 ![alt text](https://img.shields.io/badge/Hosts_Server_Status-UP-green.svg?longCache=true&style=flat)
