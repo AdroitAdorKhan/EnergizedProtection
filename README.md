@@ -3,7 +3,7 @@
 This repository consolidates several reputable `hosts` files, and merges them into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
 * Last Updated: **May 1, 2018**.
-* Unique Entries: 1,247,156
+* Unique Entries: 1,208,779
 ## Server Status
 ![alt text](https://img.shields.io/badge/Hosts_Server_Status-UP-green.svg?longCache=true&style=flat)
 
@@ -24,7 +24,7 @@ This repository consolidates several reputable `hosts` files, and merges them in
 
 - [x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
 
-- [x] YouTube Ads Blocking.
+- [x] YouTube, Spotify, UC and Shareit Ads Blocking.
 
 - [x] Reduces page loading times.
 
@@ -41,10 +41,10 @@ The **Non GitHub mirror** is the link to use for some hosts file managers which 
 
 Host File Recipe | Blocking(s) | Raw Hosts | Unique Domains | Build Status | Non Github mirror | Size
 ---------------- |:------:|:---------:|:--------------:|:-------------:|:-------------:|:-------------:
-Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 418,193 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/Energized) | 11.9 MB
-Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 432,348 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/EnergizedMalware) | 12.3 MB
+Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 422,335 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/Energized) | 12.0 MB
+Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 427,110 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/EnergizedMalware) | 11.9 MB
 Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 594,375 | MONTHLY | [LINK](https://ador.chorompotro.com/energized/EnergizedPorn) | 15.8 MB
-Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedUnified) | 1,247,156 | OCCASIONALLY | [LINK](https://ador.chorompotro.com/energized/EnergizedUnified) | 34.8 MB
+Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedUnified) | 1,207,779 | OCCASIONALLY | [LINK](https://ador.chorompotro.com/energized/EnergizedUnified) | 33.5 MB
 
 ## Compatibility 
 
