@@ -165,7 +165,8 @@
 0.0.0.0 js.gleam.io
 0.0.0.0 gleam.io
 0.0.0.0 www.gstatic.com
-0.0.0.0 gstatic.com
+0.0.0.0 analytics.suggestv.io
+0.0.0.0 suggestv.io
 0.0.0.0 diodxcszlbmwk.cloudfront.net
 0.0.0.0 edgesuite.net
 0.0.0.0 time.hls.ak.o.brightcove.com.edgesuite.net
@@ -178,4 +179,11 @@
 0.0.0.0 tqn.com
 0.0.0.0 fthmb.tqn.com
 0.0.0.0 smashseek.com
+0.0.0.0 pycvhwxtqhknb.com
+0.0.0.0 digitotal.xyz
+0.0.0.0 bet365.com
+0.0.0.0 newsmaxfeednetwork.com
+0.0.0.0 s.newsmaxfeednetwork.com
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 contentabc.com
 # Energized Ends.
