@@ -10,11 +10,11 @@ This repository consolidates several reputable `hosts` files, and merges them in
 ![alt text](https://img.shields.io/badge/RAW_Status-UP-green.svg?longCache=true&style=flat)
 
 
-
 ## Maintainer
 
 **Nayem Ador** - [Facebook](https://facebook.com/adroitadorkhan) | [Twitter](https://twitter.com/adroitadorkhan) | [Telegram](https://t.me/adroitadorkhan)
 
+### Check Your Ad Blocker - [Energized ⚡ | Secure](https://ador.chorompotro.com/energized/secure/)
 
 ### Features
 
@@ -104,4 +104,6 @@ Huge thanks for this! I'm currently using this both on my pc and android to gene
 [@fakeid30](https://github.com/fakeid30) - Fake ID for sharing his hosting.
 
 [@StevenBlack](https://github.com/StevenBlack) - Steven Black for his amazing work with the Unified Hosts and Tools.
+
+[@fivefilters](https://github.com/fivefilters/block-ads) - FiveFilters for ad test javascripts.
 
