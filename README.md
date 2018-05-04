@@ -77,57 +77,57 @@ DNS66 Reborn | UnRooted Adblocker and DNS Service |[DOWNLOAD](https://tiny.cc/dn
 Updated `hosts` files from the following locations are always merged and
 included:
 
-Host file source | Description | Home page | Raw hosts |
------------------|-------------|:---------:|:---------:|
-AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[LINK](https://adaway.org/) | [RAW](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) |
-add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | 
-add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) |
-add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | 
-add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
-AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) |
-Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) |
-Badd Boyz Hosts - Mitchell Krog's | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) |
-BarbBlock | Blacklists sites which have used DMCA takedowns. |[LINK](http://bblck.me/) | [RAW](https://ssl.bblck.me/blacklists/hosts-file.txt) |
-The Big List - Mitchell Krog's | A list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans. |[LINK](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list) |
-Cameleon | A free system that helps Internet users or administrators to blocks web-adverts. |[LINK](http://sysctl.org/cameleon/) | [RAW](http://sysctl.org/cameleon/hosts.win) |
-CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
-CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
-Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) |
-Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) |
-Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) |
-DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) |
-Global Advert Servers Blocklist - Personal Edition | Advert Blocking. |[LINK](https://hostsfile.mine.nu/) | [RAW](https://hostsfile.mine.nu/hosts0.txt) |
-hpHosts ATS | This file contains ad/tracking servers listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/ad_servers.txt) |
-hpHosts EMD | This file contains malware sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/emd.txt) |
-hpHosts EXP | This file contains exploit sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/exp.txt) |
-hpHosts GRM | This file contains sites involved in spam (that do not otherwise meet any other classification criteria) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/grm.txt) |
-hpHosts HJK | This file contains hijack sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/hjk.txt) |
-hpHosts MMT | This file contains sites involved in misleading marketing (e.g. fake Flash update adverts) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/mmt.txt) |
-hpHosts PSH | This file contains phishing sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/psh.txt) |
-hpHosts WRZ | This file contains warez/piracy sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/wrz.txt) |
-HRSK - RLWPX | Dangerous Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hrsk.7z) |
-HSEX - RLWPX | Adult Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hsex.7z) |
-HTRC - RLWPX | Intrusive Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/htrc.7z) |
-KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
-Malware Domain List | Malware Domain List is a non-commercial community project. |[link](http://www.malwaredomainlist.com/) | [raw](http://www.malwaredomainlist.com/hostslist/hosts.txt) |
-Malware Domain Immortal | Malware Domain List is a non-commercial community project. |[link](http://malwaredomains.lehigh.edu/) | [raw](http://malwaredomains.lehigh.edu/files/immortal_domains.txt) |
-MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
-No Tracking - Hosts Bloclist | Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage. |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | 
-PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
-Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
-Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
-Shallalist | Shalla's Blocklists. |[LINK](http://www.shallalist.de/) | [RAW](http://www.shallalist.de/Downloads/shallalist.tar.gz) | 
-someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
-Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 
-StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
-UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
-Vokin's YHosts | AD hosts block. |[LINK](https://github.com/vokins/yhosts/) | [RAW](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) |
-WaLLy3K_Blacklist | Adblock, Hosts, Dansguardian, etc |[LINK](https://v.firebog.net/hosts/) | [RAW](https://v.firebog.net/hosts/static/w3kbl.txt) |
-YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) |
-yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
-Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) |
-YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) |
-ZeuS Tracker | Domain and IP-Bloclists. |[LINK](https://zeustracker.abuse.ch/) | [RAW](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist) |
+Host file source | Description | Home page | Raw hosts | License |
+-----------------|-------------|:---------:|:---------:|:---------:|
+AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[LINK](https://adaway.org/) | [RAW](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | MIT |
+add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | GPLv3+ |
+add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | GPLv3+ |
+add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | GPLv3+ |
+add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | GPLv3+ |
+AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) | FREE OF CHARGE |
+Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) | WTFPLv2 |
+Badd Boyz Hosts - Mitchell Krog's | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) | Non-commercial with attribution |
+BarbBlock | Blacklists sites which have used DMCA takedowns. |[LINK](http://bblck.me/) | [RAW](https://ssl.bblck.me/blacklists/hosts-file.txt) | MIT |
+The Big List - Mitchell Krog's | A list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans. |[LINK](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list) | Non-Commercial with Attribution |
+Cameleon | A free system that helps Internet users or administrators to blocks web-adverts. |[LINK](http://sysctl.org/cameleon/) | [RAW](http://sysctl.org/cameleon/hosts.win) | UNKNOWN |
+CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) | AGPLv3 |
+CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) | AGPLv3 |
+Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) | UNKNOWN |
+Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | GPLv3 |
+Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) | GPLv3 |
+DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) | Non-Commercial with Attribution |
+Global Advert Servers Blocklist - Personal Edition | Advert Blocking. |[LINK](https://hostsfile.mine.nu/) | [RAW](https://hostsfile.mine.nu/hosts0.txt) | LGPL |
+hpHosts ATS | This file contains ad/tracking servers listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/ad_servers.txt) | FREE OF CHARGE |
+hpHosts EMD | This file contains malware sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/emd.txt) | FREE OF CHARGE |
+hpHosts EXP | This file contains exploit sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/exp.txt) | FREE OF CHARGE |
+hpHosts GRM | This file contains sites involved in spam (that do not otherwise meet any other classification criteria) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/grm.txt) | FREE OF CHARGE |
+hpHosts HJK | This file contains hijack sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/hjk.txt) | FREE OF CHARGE |
+hpHosts MMT | This file contains sites involved in misleading marketing (e.g. fake Flash update adverts) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/mmt.txt) | FREE OF CHARGE |
+hpHosts PSH | This file contains phishing sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/psh.txt) | FREE OF CHARGE |
+hpHosts WRZ | This file contains warez/piracy sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/wrz.txt) | FREE OF CHARGE |
+HRSK - RLWPX | Dangerous Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hrsk.7z) | CC BY-NC 3.0 |
+HSEX - RLWPX | Adult Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hsex.7z) | CC BY-NC 3.0 |
+HTRC - RLWPX | Intrusive Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/htrc.7z) | CC BY-NC 3.0 |
+KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | GPLv3 |
+Malware Domain List | Malware Domain List is a non-commercial community project. |[LINK](http://www.malwaredomainlist.com/) | [RAW](http://www.malwaredomainlist.com/hostslist/hosts.txt) | FREE OF CHARGE |
+Malware Domain Immortal | Malware Domain List is a non-commercial community project. |[LINK](http://malwaredomains.lehigh.edu/) | [RAW](http://malwaredomains.lehigh.edu/files/immortal_domains.txt) | FREE OF CHARGE |
+MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) | CC BY-NC-SA 4.0 |
+No Tracking - Hosts Blocklist | Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage. |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | UNKNOWN |
+PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) | GPLv3 |
+Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts) | MIT |
+Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | GPLv3 |
+Shallalist | Shalla's Blocklists. |[LINK](http://www.shallalist.de/) | [RAW](http://www.shallalist.de/Downloads/shallalist.tar.gz) | FREE OF CHARGE |
+someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) | Non-Commercial with Attribution |
+Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | MIT |
+StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) | MIT |
+UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) | UNKNOWN |
+Vokin's YHosts | AD hosts block. |[LINK](https://github.com/vokins/yhosts/) | [RAW](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) | CC BY-NC-ND 4.0 |
+WaLLy3K_Blacklist | Adblock, Hosts, Dansguardian, etc |[LINK](https://v.firebog.net/hosts/) | [RAW](https://v.firebog.net/hosts/static/w3kbl.txt) | GPL |
+YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) | CC BY 4.0 |
+yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | MCRAE GENERAL PUBLIC LICENSE (version 4.r53) |
+Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) | MIT |
+YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) | WTFPL |
+ZeuS Tracker | Domain and IP-Bloclists. |[LINK](https://zeustracker.abuse.ch/) | [RAW](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist) | UNKNOWN |
 
 **Note** This is for personal usage and practising only.
 
