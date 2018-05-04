@@ -113,6 +113,7 @@ Malware Domain List | Malware Domain List is a non-commercial community project.
 Malware Domain Immortal | Malware Domain List is a non-commercial community project. |[link](http://malwaredomains.lehigh.edu/) | [raw](http://malwaredomains.lehigh.edu/files/immortal_domains.txt) |
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
 No Tracking - Hosts Bloclist | Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage. |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | 
+PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
 Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
 Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
 Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
@@ -122,14 +123,12 @@ Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |
 StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
 UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 Vokin's YHosts | AD hosts block. |[LINK](https://github.com/vokins/yhosts/) | [RAW](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) |
+WaLLy3K_Blacklist | Adblock, Hosts, Dansguardian, etc |[LINK](https://v.firebog.net/hosts/) | [RAW](https://v.firebog.net/hosts/static/w3kbl.txt) |
 YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) |
+yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
 Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) |
 YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) |
-
-PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
-yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
-
-
+ZeuS Tracker | Domain and IP-Bloclists. |[LINK](https://zeustracker.abuse.ch/) | [RAW](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist) |
 
 **Note** This is for personal usage and practising only.
 
