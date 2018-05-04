@@ -79,11 +79,19 @@ included:
 
 Host file source | Description | Home page | Raw hosts |
 -----------------|-------------|:---------:|:---------:|
+AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[LINK](https://adaway.org/) | [RAW](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) |
+add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | 
+add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) |
+add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | 
+add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
+AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) |
+Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) |
+Badd Boyz Hosts - Mitchell Krog's | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) |
+BarbBlock | Blacklists sites which have used DMCA takedowns. |[LINK](http://bblck.me/) | [RAW](https://ssl.bblck.me/blacklists/hosts-file.txt) |
 Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) | 
 RLWPX | Accelerate and secure Internet browsing |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAWs](http://rlwpx.free.fr/WPFF/hosts.htm) |
 hpHosts | Ad, Tracking and Malicious websites  blocking. |[LINK](https://hosts-file.net/) | [RAW](https://hosts-file.net/?s=Download) |
-AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) |
 YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) |
 Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) |
 YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) |
@@ -93,15 +101,11 @@ Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. 
 Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
 yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
-Mitchell Krog's - Badd Boyz Hosts | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) |
 CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) | 
 UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
-AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[LINK](https://adaway.org/) | [RAW](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) |
-add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | 
-add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | 
-add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) |
-add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
+
+
 
 **Note** This is for personal usage and practising only.
 
