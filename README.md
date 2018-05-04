@@ -52,10 +52,10 @@ Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.github
 
 Package | Sources |
 ---------------- |:------:|
-**Energized** | *AdAway, add.2o7Net, add.Dead, Ador, AdZHosts, antipopads, Badd-Boyz-Hosts, Global Advert Server PE, Streaming Ads, hpHosts Ads, KADhosts, MVPS.ORG, Shallalist Adv, Gamble, Drugs & Alcohol, someonewhocares, StevenBlack, UncheckyAds, YousList, YoYo.org, YTAds and YTVideoAds* |
-**Malware** | *add.Risk, add.Spam, Barblock, Biglist, Cameleon, CoinBlockerList, Dawsey Spam404, DisconnectME, DShield, hpHosts EMD, EXP, HJK, MMT, PSH & WRZ, RLWPX RSK & TRC, Malware Domain List, Malware Domains Immortal, No Tracking, Quidship No Track, Shallalist Track, VokinsysHosts, Wally3K_Blacklist and ZeusTracker* |
+**Energized** | *AdAway, add.2o7Net, add.Dead, Ador, AdZHosts, Anti-PopAds, Badd-Boyz-Hosts, Global Advert Server PE, Streaming Ads, hpHosts Ads, KADhosts, MVPS.ORG, Shallalist Adv, Gamble, Drugs & Alcohol, someonewhocares, StevenBlack, UncheckyAds, YousList, YoYo.org, YTAds and YTVideoAds* |
+**Malware** | *add.Risk, add.Spam, Barblock, Biglist, Cameleon, CoinBlockerList, Dawsey Spam404, DisconnectME, DShield, hpHosts EMD, EXP, HJK, MMT, PSH & WRZ, RLWPX RSK & TRC, Malware Domain List, Malware Domains Immortal, No Tracking, Quidsup No Track, Shallalist Track, VokinsysHosts, Wally3K_Blacklist and ZeusTracker* |
 **Porn** | *Energized Porn, RLWPX SEX, PornAway and Porn Hosts* |
-**Lite** | *Ador, antipopads, Badd-Boyz-Hosts, CoinBlockerList, Global Advert Server PE, Streaming Ads, hpHosts Ads & EXP, someonewhocares, StevenBlack, YTAds, YTVideoAds and ZeusTracker* |
+**Lite** | *Ador, Anti-PopAds, Badd-Boyz-Hosts, CoinBlockerList, Global Advert Server PE, Streaming Ads, hpHosts Ads & EXP, someonewhocares, StevenBlack, YTAds, YTVideoAds and ZeusTracker* |
 **Ultimate** | *Energized and Energized Malware* |
 **Unified** | *Energized, Malware and Porn* |
 
@@ -116,8 +116,7 @@ No Tracking - Hosts Bloclist | Automatically updated, moderated and optimized li
 PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
 Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
 Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
-Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
-Shalllist | Shalla's Blocklists. |[LINK](http://www.shallalist.de/) | [RAW](http://www.shallalist.de/Downloads/shallalist.tar.gz) | 
+Shallalist | Shalla's Blocklists. |[LINK](http://www.shallalist.de/) | [RAW](http://www.shallalist.de/Downloads/shallalist.tar.gz) | 
 someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
 Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 
 StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
