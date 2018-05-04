@@ -105,23 +105,29 @@ hpHosts HJK | This file contains hijack sites listed in the hpHosts database. |[
 hpHosts MMT | This file contains sites involved in misleading marketing (e.g. fake Flash update adverts) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/mmt.txt) |
 hpHosts PSH | This file contains phishing sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/psh.txt) |
 hpHosts WRZ | This file contains warez/piracy sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/wrz.txt) |
-StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
+HRSK - RLWPX | Dangerous Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hrsk.7z) |
+HSEX - RLWPX | Adult Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hsex.7z) |
+HTRC - RLWPX | Intrusive Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/htrc.7z) |
+KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
+Malware Domain List | Malware Domain List is a non-commercial community project. |[link](http://www.malwaredomainlist.com/) | [raw](http://www.malwaredomainlist.com/hostslist/hosts.txt) |
+Malware Domain Immortal | Malware Domain List is a non-commercial community project. |[link](http://malwaredomains.lehigh.edu/) | [raw](http://malwaredomains.lehigh.edu/files/immortal_domains.txt) |
+MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
+No Tracking - Hosts Bloclist | Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage. |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | 
+Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
+Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
+Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | 
+Shalllist | Shalla's Blocklists. |[LINK](http://www.shallalist.de/) | [RAW](http://www.shallalist.de/Downloads/shallalist.tar.gz) | 
+someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
 Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 
-MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) | 
-RLWPX | Accelerate and secure Internet browsing |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAWs](http://rlwpx.free.fr/WPFF/hosts.htm) |
-hpHosts | Ad, Tracking and Malicious websites  blocking. |[LINK](https://hosts-file.net/) | [RAW](https://hosts-file.net/?s=Download) |
+StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
+UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
+Vokin's YHosts | AD hosts block. |[LINK](https://github.com/vokins/yhosts/) | [RAW](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) |
 YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) |
 Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) |
 YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) |
 
 PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
-Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
-Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
-MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
 yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
-
-UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
-KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
 
 
 
