@@ -42,7 +42,7 @@ The **Non GitHub mirror** is the link to use for some hosts file managers which 
 Host File Recipe | Blocking(s) | Raw Hosts | Unique Domains | Build Status | Non Github mirror | Size
 ---------------- |:------:|:---------:|:--------------:|:-------------:|:-------------:|:-------------:
 Energized | Adware, Malware and Fakenews | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/Energized) | 368,028 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/Energized) | 10.2 MB
-Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 330,086 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/EnergizedMalware) | 13.5 MB
+Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedMalware) | 471,629 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/EnergizedMalware) | 13.5 MB
 Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedPorn) | 594,375 | MONTHLY | [LINK](https://ador.chorompotro.com/energized/EnergizedPorn) | 15.8 MB
 Energized Lite | Adware and Malware Basic | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedLite) | 201,128 | DAILY | [LINK](https://ador.chorompotro.com/energized/EnergizedLite) | 5.71 MB
 Energized Ultimate | Adware and Malware Unified | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedUltimate) | 697,577 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/EnergizedUltimate) | 19.7 MB
