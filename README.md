@@ -48,6 +48,17 @@ Energized Lite | Adware and Malware Basic | [LINK](https://raw.githubusercontent
 Energized Ultimate | Adware and Malware Unified | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedUltimate) | 697,577 | WEEKLY | [LINK](https://ador.chorompotro.com/energized/EnergizedUltimate) | 19.7 MB
 Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedUnified) | 1,219,021 | OCCASIONALLY | [LINK](https://ador.chorompotro.com/energized/EnergizedUnified) | 33.8 MB
 
+### Package Details
+
+Package | Sources |
+---------------- |:------:|
+**Energized** | *AdAway, add.2o7Net, add.Dead, Ador, AdZHosts, antipopads, Badd-Boyz-Hosts, Global Advert Server PE, Streaming Ads, hpHosts Ads, KADhosts, MVPS.ORG, Shallalist Adv, Gamble, Drugs & Alcohol, someonewhocares, StevenBlack, UncheckyAds, YousList, YoYo.org, YTAds and YTVideoAds* |
+**Malware** | *add.Risk, add.Spam, Barblock, Biglist, Cameleon, CoinBlockerList, Dawsey Spam404, DisconnectME, DShield, hpHosts EMD, EXP, HJK, MMT, PSH & WRZ, RLWPX RSK & TRC, Malware Domain List, Malware Domains Immortal, No Tracking, Quidship No Track, Shallalist Track, VokinsysHosts, Wally3K_Blacklist and ZeusTracker* |
+**Porn** | *Energized Porn, RLWPX SEX, PornAway and Porn Hosts* |
+**Lite** | *Ador, antipopads, Badd-Boyz-Hosts, CoinBlockerList, Global Advert Server PE, Streaming Ads, hpHosts Ads & EXP, someonewhocares, StevenBlack, YTAds, YTVideoAds and ZeusTracker* |
+**Ultimate** | *Energized and Energized Malware* |
+**Unified** | *Energized, Malware and Porn* |
+
 ## Compatibility 
 
 These unified hosts files should serve all devices, regardless of OS.
