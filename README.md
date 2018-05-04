@@ -97,6 +97,14 @@ Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | 
 Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) |
 DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) |
 Global Advert Servers Blocklist - Personal Edition | Advert Blocking. |[LINK](https://hostsfile.mine.nu/) | [RAW](https://hostsfile.mine.nu/hosts0.txt) |
+hpHosts ATS | This file contains ad/tracking servers listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/ad_servers.txt) |
+hpHosts EMD | This file contains malware sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/emd.txt) |
+hpHosts EXP | This file contains exploit sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/exp.txt) |
+hpHosts GRM | This file contains sites involved in spam (that do not otherwise meet any other classification criteria) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/grm.txt) |
+hpHosts HJK | This file contains hijack sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/hjk.txt) |
+hpHosts MMT | This file contains sites involved in misleading marketing (e.g. fake Flash update adverts) listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/mmt.txt) |
+hpHosts PSH | This file contains phishing sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/psh.txt) |
+hpHosts WRZ | This file contains warez/piracy sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/wrz.txt) |
 StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
 Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) | 
