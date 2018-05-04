@@ -88,6 +88,16 @@ AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https:
 Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) |
 Badd Boyz Hosts - Mitchell Krog's | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) |
 BarbBlock | Blacklists sites which have used DMCA takedowns. |[LINK](http://bblck.me/) | [RAW](https://ssl.bblck.me/blacklists/hosts-file.txt) |
+The Big List - Mitchell Krog's | A list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans. |[LINK](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list) |
+Cameleon | A free system that helps Internet users or administrators to blocks web-adverts. |[LINK](http://sysctl.org/cameleon/) | [RAW](http://sysctl.org/cameleon/hosts.win) |
+CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
+CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
+Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) |
+Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) |
+Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) |
+DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) |
+Global Advert Servers Blocklist - Personal Edition | Advert Blocking. |[LINK](https://hostsfile.mine.nu/) | [RAW](https://hostsfile.mine.nu/hosts0.txt) |
+StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) |
 Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | 
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) | 
 RLWPX | Accelerate and secure Internet browsing |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAWs](http://rlwpx.free.fr/WPFF/hosts.htm) |
@@ -95,13 +105,13 @@ hpHosts | Ad, Tracking and Malicious websites  blocking. |[LINK](https://hosts-f
 YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) |
 Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) |
 YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) |
-CoinBlocker Hosts | Mining Blocking. |[LINK](https://github.com/ZeroDot1) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
+
 PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) |
 Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts)
 Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) |
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) |
 yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |
-CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) | 
+
 UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
 
