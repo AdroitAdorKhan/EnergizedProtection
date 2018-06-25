@@ -78,6 +78,7 @@ androidforums.com
 angelfire.com
 ap.spotify.com 
 api-global.netflix.com 
+api.facebook.com
 api.ipify.org 
 api.pinterest.com
 api.twitter.com 
@@ -105,6 +106,7 @@ ask.com
 askmen.com
 askubuntu.com 
 aspnetcdn.com
+assets.adobedtm.com
 assets.tumblr.com
 attestation.xboxlive.com
 attestation.xboxlive.com 
@@ -116,6 +118,7 @@ ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 ax.phobos.apple.com.edgesuite.net 
 b-api.facebook.com 
+b-graph.facebook.com
 b.scorecardresearch.com 
 baidu.com
 baltimore.cbslocal.com 
@@ -125,10 +128,8 @@ bbc.com
 bedbathandbeyond.com 
 bestbuy.com
 bestbuy.com 
-bet365.com
 betanews.com 
 bgr.com 
-bharattimes.com
 bialystok.tvp.pl 
 biglistofwebsites.com
 bireysel-zîraat.com
@@ -138,7 +139,6 @@ bitbucket.org
 bitcoin.com
 blackberry.com
 bleacherreport.com 
-blocklist.de
 blocklist.kowabit.de 
 blogs.discovermagazine.com 
 blogspot.com
@@ -170,6 +170,7 @@ cdn.cloudflare.net
 cdn.edgesuite.net 
 cdn.embedly.com
 cdn.embedly.com 
+cdn.fbsbx.com
 cdn.mplxtms.com 
 cdn.optimizely.com 
 cdn.rawgit.com
@@ -217,6 +218,7 @@ cpms35.spop10.ams.plex.bz
 cracked.com
 cracked.com 
 crateandbarrel.com 
+creative.ak.fbcdn.net
 crisp.chat
 crl.microsoft.com 
 crl.verisign.net 
@@ -226,6 +228,8 @@ ctldl.windowsupdate.com
 ctldl.windowsupdate.com 
 customerevents.netflix.com 
 cvs.com 
+cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com 
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
@@ -238,13 +242,17 @@ dell.com
 denis-ovs.narod.ru 
 dev.twitter.com 
 dev.virtualearth.net
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 device.auth.xboxlive.com
 device.auth.xboxlive.com 
 dictionary.cambridge.org
 digg.com 
 digitalassetlinks.googleapis.com
 digitaltrends.com 
+directvapplications.hb.omtrdc.net
 directvapplications.hb.omtrdc.net 
+directvnow.com
 directvnow.com 
 discovermagazine.com 
 discussions.apple.com 
@@ -304,26 +312,42 @@ eds.xboxlive.com
 eds.xboxlive.com 
 embed.spotify.com 
 en.bab.la 
+entitlement.auth.adobe.com
 eonline.com
 ep3.performfeeds.com
 espn.com 
+events.gfe.nvidia.com
 ew.com 
+external-lhr0-1.xx.fbcdn.net
 external-lhr0-1.xx.fbcdn.net 
+external-lhr1-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net 
+external-lhr10-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net 
+external-lhr2-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net 
+external-lhr3-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net 
+external-lhr4-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net 
+external-lhr5-1.xx.fbcdn.net
 external-lhr5-1.xx.fbcdn.net 
+external-lhr6-1.xx.fbcdn.net
 external-lhr6-1.xx.fbcdn.net 
+external-lhr7-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net 
+external-lhr8-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net 
+external-lhr9-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net 
 extratorrent.cc
 extratorrent.com
+facebook.com
 facebook.com 
+facebook.net
 familydollar.com 
-fb.me
+fbcdn-creative-a.akamaihd.net
+fbcdn.net
 feedly.com 
 filament.io
 filters.adtidy.org 
@@ -347,6 +371,7 @@ forums.sonarr.tv
 forums.sonarr.tv 
 forums.techguy.org 
 forums.whirlpool.net.au 
+fpdownload.adobe.com
 fr.osdn.net 
 freenom.link
 frys.com 
@@ -366,6 +391,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com 
 geo3.ggpht.com
 get.adobe.com 
+gfwsl.geforce.com
 gfycat.com 
 ghostery.com
 gigaom.com 
@@ -400,6 +426,7 @@ googlesyndication.com
 googleusercontent.com 
 googlevideo.com 
 gq.com
+graph.facebook.com
 graph.facebook.com 
 gravatar.com 
 groupon.com 
@@ -475,6 +502,7 @@ jdownloader.org
 jobs.lifehacker.com 
 joewein.net 
 jquery.com
+js.maxmind.com
 js.maxmind.com 
 jsdelivr.net
 katowice.tvp.pl 
@@ -505,6 +533,7 @@ linuxtracker.org
 live.com 
 live.net 
 livefilestore.com 
+livepassdl.conviva.com
 lodz.tvp.pl 
 login.aliexpress.com
 login.live.com
@@ -539,7 +568,6 @@ m.baidu.com
 m.banggood.com
 m.bbc.com
 m.bestbuy.com
-m.bharattimes.com
 m.bitcoin.com
 m.blackberry.com
 m.bostonglobe.com
@@ -628,7 +656,6 @@ manifest.googlevideo.com
 margevicius.lt 
 marketwatch.com 
 mashable.com 
-media.licdn.com
 medium.com
 mega.nz 
 mensfitness.com
@@ -654,7 +681,6 @@ minnesota.cbslocal.com
 mirror.co.uk
 mirror1.malwaredomains.com 
 mix1065fm.cbslocal.com 
-mobile.bet365.com
 movies.netflix.com 
 mozillazine.org 
 mqtt-mini.facebook.com
@@ -802,7 +828,6 @@ real-debrid.com
 reddit.com
 reddit.com 
 redfin.com 
-redirector.googlevideo.com
 redirector.gvt1.com
 reebok.com 
 reg.ru
@@ -825,6 +850,7 @@ s.yimg.com
 s.youtube.com
 s.youtube.com 
 s.ytimg.com 
+s.zkcdn.net
 s.zkcdn.net 
 s0.2mdn.net
 s1.symcb.com 
@@ -841,7 +867,10 @@ safelinking.net
 samsung.com 
 sanfrancisco.cbslocal.com 
 science.howstuffworks.com
+scontent-lhr3-1.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net 
+scontent.fgdl5-1.fna.fbcdn.net
+scontent.xx.fbcdn.net
 scontent.xx.fbcdn.net 
 screenshots.firefox.com 
 scribol.com
@@ -872,7 +901,6 @@ sina.com.cn
 skyhook.sonarr.tv
 skyhook.sonarr.tv 
 skype.com 
-smartlock.google.com
 softonic.com
 sohu.com
 someonewhocares.org 
@@ -897,7 +925,6 @@ star.facebook.com
 starbucks.com 
 state.gov
 static.kickstarter.com 
-static.licdn.com
 static.www.odcdn.com.edgekey.net 
 status.plex.tv
 status.plex.tv 
@@ -1065,8 +1092,6 @@ www.baidu.com
 www.banggood.com
 www.bbc.com
 www.bestbuy.com
-www.bet365.com
-www.bharattimes.com
 www.bit.ly
 www.bitcoin.com
 www.blackberry.com
