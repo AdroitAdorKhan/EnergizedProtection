@@ -9,22 +9,40 @@
 -traffic.com
 -xtcore.js
 # Porn
+chaturbate.com
+h2porn.com
+hanime.tv
+hardsextube.com
 livejasmin.com
 m.playboy.com
 m.pornhub.com
+m.porntube.com
 m.spankbang.com
 m.xhamster.com
 m.xvideos.com
 playboy.com
+pornerbros.com
 pornhub.com
+porntube.com
+redtube.com
+sexlist.com
 spankbang.com
+st.stripcdn.com
+stripchat.com
 thisav.com
+vixen.com
+www.hardsextube.com
+www.livejasmin.com
 www.playboy.com
 www.pornhub.com
+www.porntube.com
 www.thisav.com
 www.xvideos.com
+www.vixen.com
 xhamster.com
+xnxx.com
 xvideos.com
+youporn.com
 # Porn Whitelisting
 0-edge-chat.facebook.com
 0.0.0.0
@@ -33,6 +51,7 @@ xvideos.com
 123movies.to
 1337x.to
 1drv.com
+1fgqfml.oloadcdn.net
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
 3-edge-chat.facebook.com
@@ -102,6 +121,7 @@ apis.google.com
 apkmb.com
 app-api.ted.com
 app.plex.tv
+app.snapchat.com
 appboot.netflix.com
 appldnld.apple.com
 appleid.apple.com
@@ -123,6 +143,7 @@ assets.adobedtm.com
 assets.tumblr.com
 attestation.xboxlive.com
 audible.com
+auth.snapchat.com
 avsforum.com
 ax.init.itunes.apple.com
 ax.itunes.apple.com
@@ -173,6 +194,7 @@ c.msn.com
 c.s-microsoft.com
 cafemom.com
 cbsistatic.com
+cdc.gov
 cdn.adf.ly
 cdn.betrad.com
 cdn.clearload.bid
@@ -187,9 +209,12 @@ cdn.sstatic.net
 cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
+cdnapi.kaltura.com
 cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
 cex.io
+cfvod.kaltura.com
+chat-gateway-prod.chat.snapchat.com
 chatenabled.mail.google.com
 chicago.cbslocal.com
 chrome.google.com
@@ -230,6 +255,7 @@ crunchbase.com
 csdn.net
 cse.google.com
 ctldl.windowsupdate.com
+curiosity.com
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
@@ -284,6 +310,7 @@ e3489.cd.akamaiedge.net
 ea.co
 ea.com
 easylist-downloads.adblockplus.org
+easylist.club
 easylist.to
 ebay.co.uk
 ebay.com
@@ -404,6 +431,7 @@ gravatar.com
 groupon.com
 gs.apple.com
 gstatic.com
+gtq.sct.sc-prod.net
 harpercollins.com
 hbo.com
 help.ui.xboxlive.com
@@ -439,11 +467,14 @@ icloud.com
 id.sonyentertainmentnetwork.com
 ikea.com
 image.ibb.co
+image.prntscr.com #prnt.sc/8wazka
+images.bitmoji.com
 images.performgroup.com
 imagesak.secureserver.net
 img.alicdn.com
 img.vidible.tv
 img1.blogblog.com
+img1.gtimg.com #zhenjiang.auto.qq.com
 img2.blogblog.com
 imgbox.com
 imgix.net
@@ -453,6 +484,7 @@ inc.com
 indeed.com
 indiatimes.com
 instagram.com
+instalog-prod.sc-prod.net
 intercom.io
 investopedia.com
 ipla.tv
@@ -471,8 +503,11 @@ joewein.net
 jquery.com
 js.maxmind.com
 jsdelivr.net
+jwpcdn.com
+kaltura.com
 katowice.tvp.pl
 keystone.mwbsys.com
+kickass.to
 kickstarter.com
 kidsfootlocker.com
 kmart.com
@@ -492,6 +527,7 @@ lh6.google.com
 licdn.com
 licensing.xboxlive.com
 lifehacker.com
+link.theplatform.com
 linkbucks.com
 linkedin.com
 linuxtracker.org
@@ -620,6 +656,7 @@ manifest.googlevideo.com
 margevicius.lt
 marketwatch.com
 mashable.com
+mcaf.ee
 media.licdn.com
 medium.com
 mega.nz
@@ -646,12 +683,14 @@ mix1065fm.cbslocal.com
 mobile.bet365.com
 movies.netflix.com
 mozillazine.org
+mps.nbcuni.com
 mqtt-mini.facebook.com
 mqtt.facebook.com
 msftncsi.com
 msg.edit.yahoo.com
 msn.com
 mtalk.google.com
+mvm.snapchat.com
 my.plexapp.com
 myètherwället.com
 mzstatic.com
@@ -665,6 +704,7 @@ netdna.bootstrapcdn.com
 netflix.com
 newjobs.com
 newsday.com
+newsroom.fb.com
 newyork.cbslocal.com
 nexus.passport.com
 nexusrules.officeapps.live.com
@@ -679,6 +719,7 @@ nk.pl
 no-ip.com
 node.plexapp.com
 notify.xboxlive.com
+notlong.com
 ns1.dropbox.com
 ns2.dropbox.com
 nsatc.net
@@ -715,11 +756,14 @@ oscp.apple.com
 ouo.io
 outlook.live.com
 outlook.office365.com
+overstock.com
 ow.ly
 p.imgur.com
 pando.com
 pastebin.com
 people.com
+performfeeds.com
+performgroup.com
 pgl.yoyo.org
 philadelphia.cbslocal.com
 phobos.apple.com
@@ -763,16 +807,22 @@ pubsub.plex.tv
 px.spiceworks.com
 qph.ec.quoracdn.net
 qq.com
+rakuten.co.jp #(Japanese electronic commerce and Internet company based in Tokyo)
 ransomwaretracker.abuse.ch
 rapidgator.net
+rapidvideo.com
 raw.github.com
 raw.githubusercontent.com
+rawgit.com
 real-debrid.com
+real.com
 reddit.com
 redfin.com
+rediff.com
 redirector.googlevideo.com
 redirector.gvt1.com
 reebok.com
+reference.com
 reg.ru
 res.apk.vidmate.net
 res.cloudinary.com
@@ -787,6 +837,7 @@ s-media-cache-ak0.pinimg.com
 s-passets-cache-ak0.pinimg.com
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.sc-jpl.com
 s.shopify.com
 s.yimg.com
 s.youtube.com
@@ -810,6 +861,7 @@ scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribol.com
+sdmaid.darken.eu
 search.twitter.com
 sears.com
 secret.É¢oogle.com
@@ -827,13 +879,16 @@ sendspace.com
 services.sonarr.tv
 settings-win.data.microsoft.com
 sharepoint.com
+shockwave.com
 shop.samsung.com
 siatka.org
+simplyhired.com
 sina.cn
 sina.com
 sina.com.cn
 skyhook.sonarr.tv
 skype.com
+skyrock.com
 smartlock.google.com
 softonic.com
 sohu.com
@@ -866,7 +921,9 @@ storage.msn.com
 store.apple.com
 store.sony.com
 strefa.fm
+suntimes.com
 support.microsoft.com
+support.mozilla.org
 surveymonkey.com
 swcdn.apple.com
 sync.pocketcasts.com
@@ -888,10 +945,12 @@ teamviewer.com
 techguy.org
 tedcdn.com
 thechive.com
+thedailybeast.com
 thehill.com
 themoviedb.com
 thenextweb.com
 thepiratebay.org
+thepiratebay.se
 thetvdb.com
 theverge.com
 timesofindia.indiatimes.com
@@ -905,6 +964,7 @@ tmall.com
 tofukko.r.ribbon.to
 tomshardware.com
 torrentfreak.com
+touch.facebook.com
 toysrus.com
 track.spiceworks.com
 tucows.com
@@ -930,6 +990,7 @@ upload.twitter.com
 uptobox.com
 usa.gov
 usaid.gov
+use.adserver.snapads.com
 use.fontawesome.com
 userstream.twitter.com
 v.firebog.net
@@ -951,6 +1012,7 @@ vod.tvp.pl
 void.gr
 vox.com
 vupload2.facebook.com
+w.org
 walgreens.com
 walmart.com
 wap-master.xtgem.com
@@ -1029,6 +1091,7 @@ www.dot.tk
 www.ebay.co.uk
 www.ebay.fr
 www.ebay.it
+www.eonline.com
 www.extratorrent.cc
 www.extratorrent.com
 www.funnyordie.com
@@ -1063,16 +1126,19 @@ www.mensfitness.com
 www.menshealth.com
 www.mirror.co.uk
 www.modapkdown.com
+www.mozilla.org
 www.msftncsi.com
 www.namecheap.com
 www.no-ip.com
 www.openlibrary.org
 www.oprah.com
 www.phonearena.com
+www.pinterest.com
 www.piwik.org
 www.playstation.com
 www.plex.tv
 www.primewire.ag
+www.qq.com
 www.rapidgator.net
 www.reg.ru
 www.revdl.com
@@ -1088,6 +1154,7 @@ www.state.gov
 www.store.apple.com
 www.store.sony.com
 www.tencent.com
+www.thedailybeast.com
 www.tucows.com
 www.tumblr.com
 www.turkishạirlines.com
@@ -1118,6 +1185,7 @@ xmpp-server.l.google.com
 xsts.auth.xboxlive.com
 yahoo.com
 yandex.ru
+yimg.com
 youtu.be
 youtube-nocookie.com
 youtube.com
