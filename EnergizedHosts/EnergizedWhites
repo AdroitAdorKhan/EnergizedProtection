@@ -47,13 +47,16 @@ youporn.com
 0-edge-chat.facebook.com
 0.0.0.0
 0.client-channel.google.com
+0.gravatar.com
 1-edge-chat.facebook.com
+1.gravatar.com
 123movies.to
 1337x.to
 1drv.com
 1fgqfml.oloadcdn.net
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
+2.gravatar.com
 3-edge-chat.facebook.com
 360.cn
 3p.ampproject.net
@@ -64,6 +67,7 @@ youporn.com
 9gag.com
 a1014.g.akamai.net
 a2zapk.com
+a57.foxnews.com
 abc.com
 abcnews.go.com
 about.com
@@ -117,6 +121,7 @@ api.facebook.com
 api.ipify.org
 api.pinterest.com
 api.twitter.com
+api.xda-developers.com
 apis.google.com
 apkmb.com
 app-api.ted.com
@@ -139,7 +144,9 @@ ask.com
 askmen.com
 askubuntu.com
 aspnetcdn.com
+assets-jpcust.jwpsrv.com
 assets.adobedtm.com
+assets.pinterest.com
 assets.tumblr.com
 attestation.xboxlive.com
 audible.com
@@ -214,6 +221,7 @@ cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
 cex.io
 cfvod.kaltura.com
+chart.googleapis.com
 chat-gateway-prod.chat.snapchat.com
 chatenabled.mail.google.com
 chicago.cbslocal.com
@@ -228,6 +236,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+cloud.typography.com
 cloudflare.com
 cloudfront.net
 cnbc.com
@@ -353,6 +362,7 @@ extratorrent.com
 facebook.com
 facebook.net
 familydollar.com
+farm4.staticflickr.com
 fb.me
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
@@ -475,6 +485,7 @@ img.alicdn.com
 img.vidible.tv
 img1.blogblog.com
 img1.gtimg.com
+img1.gtimg.com #zhenjiang.auto.qq.com
 img2.blogblog.com
 imgbox.com
 imgix.net
@@ -504,6 +515,7 @@ jquery.com
 js.maxmind.com
 jsdelivr.net
 jwpcdn.com
+jwpsrv.com
 kaltura.com
 katowice.tvp.pl
 keystone.mwbsys.com
@@ -516,7 +528,10 @@ kotaku.com
 krakow.tvp.pl
 kroger.com
 l.betrad.com
+labs-dl.xda-cdn.com
+labs-lb.xda-developers.com
 labs-mqtt.xda-developers.com
+labs-public-dl.xda-cdn.com
 ladyfootlocker.com
 lastfm-img2.akamaized.net
 lasvegas.cbslocal.com
@@ -808,6 +823,7 @@ px.spiceworks.com
 qph.ec.quoracdn.net
 qq.com
 rakuten.co.jp
+rakuten.co.jp #(Japanese electronic commerce and Internet company based in Tokyo)
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
@@ -837,6 +853,7 @@ s-media-cache-ak0.pinimg.com
 s-passets-cache-ak0.pinimg.com
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.pinimg.com
 s.sc-jpl.com
 s.shopify.com
 s.yimg.com
@@ -844,6 +861,7 @@ s.youtube.com
 s.ytimg.com
 s.zkcdn.net
 s0.2mdn.net
+s0.wp.com
 s1.symcb.com
 s1.wp.com
 s2.symcb.com
@@ -1154,6 +1172,7 @@ www.state.gov
 www.store.apple.com
 www.store.sony.com
 www.tencent.com
+www.theblaze.com
 www.thedailybeast.com
 www.tucows.com
 www.tumblr.com
