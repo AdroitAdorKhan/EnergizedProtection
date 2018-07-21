@@ -30,6 +30,7 @@ spankbang.com
 st.stripcdn.com
 stripchat.com
 thisav.com
+upornia.com
 vixen.com
 www.hardsextube.com
 www.livejasmin.com
@@ -45,7 +46,6 @@ xvideos.com
 youporn.com
 # Porn Whitelisting
 0-edge-chat.facebook.com
-0.0.0.0
 0.client-channel.google.com
 0.gravatar.com
 1-edge-chat.facebook.com
@@ -63,6 +63,7 @@ youporn.com
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
 6-edge-chat.facebook.com
+6pm.com
 70i.net
 9gag.com
 a1014.g.akamai.net
@@ -72,9 +73,11 @@ abc.com
 abcnews.go.com
 about.com
 accounts.google.com
+accounts.soundcloud.com
 accuweather.com
 acehardware.com
 adage.com
+adameve.com
 adaway.org
 adb.juvander.net
 adblock.dk
@@ -120,6 +123,7 @@ api-global.netflix.com
 api.facebook.com
 api.ipify.org
 api.pinterest.com
+api.soundcloud.com
 api.twitter.com
 api.xda-developers.com
 apis.google.com
@@ -136,6 +140,7 @@ appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 apresolve.spotify.com
 apt.sonarr.tv
+argos.co.uk
 arstechnica.com
 articles.chicagotribune.com
 articles.latimes.com
@@ -146,6 +151,7 @@ askubuntu.com
 aspnetcdn.com
 assets-jpcust.jwpsrv.com
 assets.adobedtm.com
+assets.getpocket.com
 assets.pinterest.com
 assets.tumblr.com
 attestation.xboxlive.com
@@ -161,8 +167,11 @@ b.scorecardresearch.com
 baidu.com
 baltimore.cbslocal.com
 banggood.com
+barnesandnoble.com
 bbc.com
+bebe.com
 bedbathandbeyond.com
+benefitcosmetics.com
 bestbuy.com
 bet365.com
 betanews.com
@@ -184,13 +193,17 @@ blogspot.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
+bol.com
 books.google.com
+bootbarn.com
 boston.cbslocal.com
 bostonglobe.com
 boxrec.com
 brightcove.net
+brooksbrothers.com
 btstatic.com
 bufferapp.com
+buscape.com.br
 business.officedepot.com.edgekey.net
 business.opera.com
 businessfinder.nj.com
@@ -216,6 +229,8 @@ cdn.sstatic.net
 cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
+cdn5.bigcommerce.com
+cdn6.bigcommerce.com
 cdnapi.kaltura.com
 cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
@@ -248,6 +263,8 @@ cnn.com
 collegehumor.com
 community.spiceworks.com
 computer.howstuffworks.com
+conduit.mailchimpapp.com
+connect.soundcloud.com
 content.logmein.com
 content.production.cdn.art19.com
 cookie.monster.com
@@ -261,6 +278,7 @@ crisp.chat
 crl.microsoft.com
 crl.verisign.net
 crunchbase.com
+crutchfield.com
 csdn.net
 cse.google.com
 ctldl.windowsupdate.com
@@ -338,6 +356,7 @@ edge.api.brightcove.com
 edge.quantserve.com
 edgesuite.net
 eds.xboxlive.com
+elkjop.no
 embed.spotify.com
 en.bab.la
 entitlement.auth.adobe.com
@@ -368,6 +387,7 @@ fbcdn-creative-a.akamaihd.net
 fbcdn.net
 feedly.com
 filament.io
+filson.com
 filters.adtidy.org
 finance.yahoo.com
 fontawesome.com
@@ -391,6 +411,8 @@ forums.whirlpool.net.au
 fpdownload.adobe.com
 fr.osdn.net
 freenom.link
+freshdirect.com
+frontgate.com
 frys.com
 fthmb.tqn.com
 funnymp4.net
@@ -401,13 +423,16 @@ gameloft.com
 gap.com
 garena.com
 gawker.com
+ge.tt
 gekko.spiceworks.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 get.adobe.com
+getpocket.com
 gfwsl.geforce.com
 gfycat.com
 ghostery.com
+gigantti.fi
 gigaom.com
 giphy.com
 git.io
@@ -419,6 +444,7 @@ gizmodo.com
 gizmodo.com.au
 gleam.io
 gmail.com
+golfgalaxy.com
 goo.gl
 google-analytics.com
 google.co.in
@@ -436,15 +462,19 @@ googlesyndication.com
 googleusercontent.com
 googlevideo.com
 gq.com
+grainger.com
 graph.facebook.com
 gravatar.com
 groupon.com
 gs.apple.com
 gstatic.com
 gtq.sct.sc-prod.net
+gumtree.co.za
+harborfreight.com
 harpercollins.com
 hbo.com
 help.ui.xboxlive.com
+henrys.com
 hidemyass.com
 hindustantimes.com
 history.com
@@ -462,6 +492,7 @@ houston.cbslocal.com
 howtogeek.com
 huffingtonpost.co.uk
 hulu.com
+hunkemoller.com
 i.imgur.com
 i.s-microsoft.com
 i.ytimg.com
@@ -477,7 +508,8 @@ icloud.com
 id.sonyentertainmentnetwork.com
 ikea.com
 image.ibb.co
-image.prntscr.com 
+image.prntscr.com
+image.prntscr.com
 images.bitmoji.com
 images.performgroup.com
 imagesak.secureserver.net
@@ -497,6 +529,7 @@ indiatimes.com
 instagram.com
 instalog-prod.sc-prod.net
 intercom.io
+interflora.co.uk
 investopedia.com
 ipla.tv
 ipleak.net
@@ -541,6 +574,7 @@ lh5.google.com
 lh6.google.com
 licdn.com
 licensing.xboxlive.com
+lids.com
 lifehacker.com
 link.theplatform.com
 linkbucks.com
@@ -548,8 +582,10 @@ linkedin.com
 linuxtracker.org
 live.com
 live.net
+liveaquaria.com
 livefilestore.com
 livepassdl.conviva.com
+loccitane.com
 lodz.tvp.pl
 login.aliexpress.com
 login.live.com
@@ -705,6 +741,7 @@ msftncsi.com
 msg.edit.yahoo.com
 msn.com
 mtalk.google.com
+musiciansfriend.com
 mvm.snapchat.com
 my.plexapp.com
 myètherwället.com
@@ -776,6 +813,7 @@ ow.ly
 p.imgur.com
 pando.com
 pastebin.com
+paulfredrick.com
 people.com
 performfeeds.com
 performgroup.com
@@ -798,6 +836,7 @@ play.app.goo.gl
 play.google.com
 play.spotify.com
 play.spotify.edgekey.net
+player.cnevids.com
 player.performgroup.com
 player.pl
 player.vimeo.com
@@ -811,6 +850,7 @@ pricelist.skype.com
 primewire.ag
 prnt.sc
 products.office.com
+proflowers.com
 proxy.novafusion.ea.com
 proxy.plex.bz
 proxy.plex.tv
@@ -822,6 +862,7 @@ pubsub.plex.tv
 px.spiceworks.com
 qph.ec.quoracdn.net
 qq.com
+rakuten.co.jp
 rakuten.co.jp
 ransomwaretracker.abuse.ch
 rapidgator.net
@@ -839,10 +880,12 @@ redirector.gvt1.com
 reebok.com
 reference.com
 reg.ru
+rei.com
 res.apk.vidmate.net
 res.cloudinary.com
 revdl.com
 rink.hockeyapp.com
+riverisland.com
 road.adblock.ro
 roku.com
 rover.ebay.com
@@ -889,6 +932,7 @@ secure.dshield.org
 secure.gravatar.com
 secure.logmein.com
 secure.netflix.com
+secure.soundcloud.com
 secure.surveymonkey.com
 securemecca.com
 senate.gov
@@ -910,14 +954,18 @@ smartlock.google.com
 softonic.com
 sohu.com
 someonewhocares.org
+soundcloud.com
 southfreak.com
 spaces.live.com
 spapps.co
 spapps.spotify.edgekey.net
 spclient.wg.spotify.com
+spencersonline.com
 spiceworks.com
 sport.onet.pl
+sportrx.com
 sports.yahoo.com
+sportsmansguide.com
 ssl-images-amazon.com
 ssl.google-analytics.com
 ssl.gstatic.com
@@ -931,6 +979,7 @@ starbucks.com
 state.gov
 static.kickstarter.com
 static.licdn.com
+static.soundcloud.com
 static.www.odcdn.com.edgekey.net
 status.plex.tv
 steamcommunity.com
@@ -961,6 +1010,8 @@ tawk.to
 teamviewer.com
 techguy.org
 tedcdn.com
+tesco.com
+thebrick.com
 thechive.com
 thedailybeast.com
 thehill.com
@@ -973,6 +1024,7 @@ theverge.com
 timesofindia.indiatimes.com
 tiny.cc
 tinyurl.com
+tirebuyer.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tlc.com
@@ -1030,6 +1082,7 @@ void.gr
 vox.com
 vupload2.facebook.com
 w.org
+w.soundcloud.com
 walgreens.com
 walmart.com
 wap-master.xtgem.com
@@ -1066,6 +1119,7 @@ wt.logmein.com
 www.123movies.to
 www.9apps.com
 www.about.com
+www.adameve.com
 www.adfoc.us
 www.adfocus.ru
 www.alexa.com
@@ -1095,6 +1149,7 @@ www.bit.ly
 www.bitcoin.com
 www.blackberry.com
 www.bostonglobe.com
+www.buscape.com.br
 www.business.opera.com
 www.cafemom.com
 www.collegehumor.com
@@ -1145,6 +1200,7 @@ www.mirror.co.uk
 www.modapkdown.com
 www.mozilla.org
 www.msftncsi.com
+www.musiciansfriend.com
 www.namecheap.com
 www.no-ip.com
 www.openlibrary.org
@@ -1211,6 +1267,7 @@ yt3.ggpht.com
 ytimg.com
 ytimg.l.google.com
 yts.ag
+zappos.com
 zeustracker.abuse.ch
 zippyshare.com
 zoso.ro
