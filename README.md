@@ -1,16 +1,16 @@
-![Cover](https://ador.chorompotro.com/energized_cover.svg)
+![Cover](https://nayemador.com/assets/covers/energized_cover.svg)
 
-<h1 align="center">Energized - Hosts ⚡</h1>
+<h1 align="center">Energized - block ⚡</h1> 
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-18.06.180-blue.svg?longCache=true&style=flat-square"
-      alt="18.06.180" />
+    <img src="https://img.shields.io/badge/Version-18.07.208-blue.svg?longCache=true&style=flat-square"
+      alt="18.07.208" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Jun 29, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Jul 27, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
-    <img src="https://img.shields.io/badge/Status-beta-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
 </div>
 
@@ -35,7 +35,7 @@
       alt="CodeAnyWhere" />
   </a>
   <!-- License -->
-  <a href="https://github.com/EnergizedProtection/EnergizedBlu/blob/master/LICENSE">
+  <a href="https://github.com/EnergizedProtection/block/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"
       alt="MIT" />
   </a>
@@ -43,20 +43,12 @@
 
 <div align="center">
   <h3>
-    <a href="https://ador.chorompotro.com">
+    <a href="https://nayemador.com/energized">
       Website
     </a>
     <span> | </span>
-    <a href="http://adroit.heliohost.org">
-      Backup Server
-    </a>
-    <span> | </span>
-    <a href="https://github.com/AdroitAdorKhan/Energized">
-      Energized Repo
-    </a>
-    <span> | </span>
-    <a href="https://ador.chorompotro.com/energized/secure/">
-      Test Adblock
+    <a href="https://nayemador.com/energized/secure/">
+      Test Energized
     </a>
     <span> | </span>
     <a href="https://t.me/EnergizedProtection">
@@ -71,7 +63,7 @@
 
 <div align="center">
   <sub>The Best Yet Energized Protection! Built with ❤︎ by
-    <a href="https://adroitadorkhan.github.io"><strong>Ador</strong></a> in <strong>Bangladesh</strong>.
+    <a href="https://nayemador.com"><strong>Ador</strong></a> in <strong>Bangladesh</strong>.
   </a>
 </div>
 
@@ -94,68 +86,65 @@ This Energized System is designed for Unix-like systems, gets a list of domains 
 ### List of all hosts file variants
 
 The **Non GitHub mirror** is the link to use for some hosts file managers which don't work with Github download links.
-
-Host File Recipe | Blocking(s) | Raw Hosts | Unique Domains | Mirror | Size
+ 
+Host File Recipe | Blocking(s) | RAW Hosts | Unique Entries | Mirror | Size
 ---------------- |:------:|:---------:|:--------------:|:-------------:|:-------------:
-Energized | Adware | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/hosts) | 432852 | [LINK](https://ador.chorompotro.com/energized/Energized) | 12M
-Energized Malware | Malware | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/hosts) | 522396 | [LINK](https://ador.chorompotro.com/energized/EnergizedMalware) | 15M
-Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/hosts) | 336688 | [LINK](https://ador.chorompotro.com/energized/EnergizedPorn) | 8.5M
-Energized Blu | Lightweight Energized | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) | 242704 | [LINK](http://adroit.heliohost.org/energized/blu) | 6.2M
-Energized Blu Go | Lightweight Energized GO | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go) | 85171 | [LINK](http://adroit.heliohost.org/energized/blu_go) | 2.3M
-Energized Lite | Adware and Malware Basic | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/hosts) | 350836 | [LINK](https://ador.chorompotro.com/energized/EnergizedLite) | 9.5M
-Energized Porn Lite | Porn Basic | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/hosts) | 31025 | [LINK](https://ador.chorompotro.com/energized/EnergizedPornLite) | 788K
-Energized Ultimate | Adware and Malware Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/hosts) | 834632 | [LINK](https://ador.chorompotro.com/energized/EnergizedUltimate) | 24M
-Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/hosts) | 1152395 | [LINK](https://ador.chorompotro.com/energized/EnergizedUnified) | 32M
+Energized Basic | Adware & Malware Basic | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts) | 519660 | [LINK](https://nayemador.com/energized/basic) | 15M
+Energized Blu | Lightweight Energized | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts) | 265668 | [LINK](https://nayemador.com/energized/blu) | 7.1M
+Energized Blu Go | Lightweight Energized GO | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts) | 122469 | [LINK](https://nayemador.com/energized/bluGo) | 3.2M
+Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts) | 332588 | [LINK](https://nayemador.com/energized/porn) | 8.4M
+Energized Ultimate | Adware and Malware Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts) | 619710 | [LINK](https://nayemador.com/energized/ultimate) | 17M
+Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts) | 933644 | [LINK](https://nayemador.com/energized/unified) | 25M
 
 **Expectation**: These unified hosts files should serve all devices, regardless
 of OS.
 
-## Extra Variants
+## Extensions
 
-More variants to match your choices. Ex. `All-In-One Magisk Installer, Windows Uninstaller`
+`Liteweight Porn` and `Social` Blocking Extensions are available now. But atm, they will be tagged as `W.I.P`.
 
-Package | **Energized Magisk** | **Windows Uninstaller** | 
----------:|:---------:|:---------:|
-Detail | All-In-One Energized Hosts Magisk Module. | Windows Hosts Uninstaller. |
-Repo | [LINK](https://github.com/EnergizedProtection/EnergizedMagisk) | - |
-Download | Magisk Manager | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Uninstaller/EnergizedUninstaller_Windows.zip) (1KB) |
+## [Porn Lite](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-porn-hosts.txt) | [Social](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-hosts.txt)
+
+## Best Use
+
+You can use any `practical` way you want to use Energized on your devices, if you know what you are doing. But if you are clueless, there are few suggestions.
+
+- __rooted android:__ `All-In-One Magisk Module` makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use `AdAway` with Energized Mirror (Non-Github) Source. 
+- __non-rooted android:__ If you are not using any root solution, then you can use `DNS66`, `BLOKADA` or `Perosnal DNS Filter` with any of the Energized Source.
+- __ios:__ Use any `Adblocking Client` app with Energized Source.
+- __windows:__ On Windows, you can use `Hostsman` to get the best Windows Hosts Usage Experience.
+- __linux:__ You are a `pro`, you know better yourself, how to use this on Linux(s)! 
 
 ## Formats
 
 Different formats for various devices.
 
-Package | Entries | RAW | TXT | Domains| Compressed | Flashable | Magisk | Windows BAT | DNSMasq | DNSMasq IPV6 | Unbound
-----------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Ad | **432852** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/hosts) (12M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (12M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (9.0M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.zip) (27M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd_Android.zip) (3.2M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd_Magisk.zip) (2.8M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd_Windows.zip) (2.8M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.conf) (16M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-ipv6.conf) (15M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-unbound.conf) (15M)
-Malware | **522396** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/hosts) (15M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware.txt) (15M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware-domains.txt) (12M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware.zip) (42M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware_Android.zip) (4.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware_Magisk.zip) (3.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware_Windows.zip) (3.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware.conf) (20M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware-ipv6.conf) (18M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/EnergizedMalware-unbound.conf) (18M)
-Porn | **336688** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/hosts) (8.5M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn.txt) (8.5M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn-domains.txt) (6.3M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn.zip) (18M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn_Android.zip) (2.3M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn_Magisk.zip) (1.8M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn_Windows.zip) (1.8M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn.conf) (12M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn-ipv6.conf) (11M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/EnergizedPorn-unbound.conf) (11M)
-Blu | **242704** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) (6.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt) (6.2M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-domains.txt) (6.2M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.zip) (3.1M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_android.zip) (2.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_magisk.zip) (1.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_windows.zip) (1.6M) | [CONF](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu.conf) (8.5M) | [CONF IPV6](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu-ipv6.conf) (7.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-unbound.conf) (7.6M)
-Blu go | **85171** |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt) (2.3M) | - | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.zip) (615K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_magisk.zip) (621K) | - | - | - | -
-Lite | **350836** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/hosts) (9.5M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite.txt) (9.5M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite-domains.txt) (7.1M) |  [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite.zip) (21M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite_Android.zip) (2.7M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite_Magisk.zip) (2.2M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite_Windows.zip) (2.2M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite.conf) (13M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite-ipv6.conf) (12M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/EnergizedLite-unbound.conf) (12M)
-Porn Lite | **31025** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/hosts) (788K) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite.txt) (788K) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite-domains.txt) (574K) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite.zip) (2.2M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite_Android.zip) (668K) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite_Magisk.zip) (179K) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite_Windows.zip) (174K) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite.conf) (1.1M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite-ipv6.conf) (968K) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/EnergizedPornLite-unbound.conf) (968K)
-Ultimate | **834632** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/hosts) (24M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate.txt) (24M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate-domains.txt) (18M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate.zip) (52M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate_Android.zip) (5.9M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate_Magisk.zip) (5.4M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate_Windows.zip) (5.4M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate.conf) (32M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate-ipv6.conf) (28M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/EnergizedUltimate-unbound.conf) (28M)
-Unified | **1152395** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/hosts) (32M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified.txt) (32M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified-domains.txt) (24M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified.zip) (68M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified_Android.zip) (7.5M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified_Magisk.zip) (7.1M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified_Windows.zip) (7.1M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified.conf) (43M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified-ipv6.conf) (38M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/EnergizedUnified-unbound.conf) (38M)
+Package | Entries | RAW | TXT | Domains | DNSMasq | DNSMasq IPV6 | Unbound | RPZ
+----------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+Basic | **519660** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts) (15M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts.txt) (15M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt) (11M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/dnsmasq.conf) (20M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/dnsmasq-ipv6.conf) (18M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/unbound.conf) (44M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/rpz.txt) (44M) |
+Blu | **265668** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts) (7.1M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts.txt) (7.1M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt) (5.3M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/dnsmasq.conf) (9.6M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/dnsmasq-ipv6.conf) (8.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/unbound.conf) (22M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/rpz.txt) (22M) |
+Blu Go | **122469** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts) (3.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts.txt) (3.2M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/domains.txt) (2.4M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/dnsmasq.conf) (4.4M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/dnsmasq-ipv6.conf) (3.9M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/unbound.conf) (10M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/rpz.txt) (10M) |
+Porn | **332588** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts) (8.4M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts.txt) (8.4M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/domains.txt) (6.2M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/dnsmasq.conf) (12M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/dnsmasq-ipv6.conf) (11M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/unbound.conf) (27M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/rpz.txt) (27M) |
+Ultimate | **619710** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts) (17M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts.txt) (17M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/domains.txt) (13M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/dnsmasq.conf) (23M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/dnsmasq-ipv6.conf) (21M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/unbound.conf) (53M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/rpz.txt) (53M) |
+Unified | **933644** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts) (25M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts.txt) (25M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/domains.txt) (19M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/dnsmasq.conf) (34M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/dnsmasq-ipv6.conf) (31M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/unbound.conf) (78M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/rpz.txt) (78M) |
 
 ## Package Details
 
 Package | Sources |
 --------|:-------:|
-**Energized** | *AdAway, add.2o7Net, add.Dead, AdGuard Ads & Spyware, Ador, AdZHosts, Anti-PopAds, Badd-Boyz-Hosts, Disconnectme Ads, EasyPrivacy 3RD Party & Specific, Global Advert Server PE, hpHosts ADS & GRM, KADhosts, LightSwitch, MoaAB, MVPS.ORG, NeoHosts, NSABlocklist, R-A-Y Mobile Hosts, Shallalist Adv, someonewhocares, StevenBlack, Streaming Ads, UncheckyAds, YousList, YoYo.org, YTAds and YTVideoAds* |
-**Malware** | *add.Risk, add.Spam, BarbBlock, Biglist, Cameleon, CoinBlockerList & Browser, Dawsey Spam404, Disconnectme Malvertising & Malware, DShield, hpHosts EMD, EXP, HJK, MMT, PSH & WRZ, Airelle RSK, Malware Domain List, Malware Domains Immortal, No Tracking, Quidsup No Track, Shallalist Malware, Spyware & Tracker, VokinsysHosts, Wally3K_Blacklist, WebETC Tracking, Windows 7,8 & 10 Spy Blocker and ZeusTracker* |
-**Porn** | *Energized Porn, Airelle SEX, PornAway and Porn Hosts* |
-**Blu** | *add.2o7Net, add.Dead, Risk & Spam, Adguard Filters, Ador, Anti-PopAds, Coin Blocker, Disconnectme Ads, Malware & Malvertising, EasyPrivacy Specific, hBlock, Lightswitch Ads & Tracking, Spam404, KADhosts, MoaAB, No Tracking, NSABlocklist, someonewhocares, StevenBlack, Wally3K_Blacklist & Zeus Tracker* |
-**Blu go** | *Adguard Filters, Ador, EasyPrivacy Specific, No Tracking, someonewhocares & StevenBlack* 
-**Lite** | *1Hosts.cf, Adguard Ads & Spyware, Ador, Anti-PopAds, Badd-Boyz-Hosts, CyberCrime, CoinBlockerList, EasyPrivacy 3RD Party & Specific, Global Advert Server PE, hBlock, MoaAB, NSABlocklist, hpHosts Ads & EXP, Malware Domain List, someonewhocares, StevenBlack, Streaming Ads, YTAds, YTVideoAds and ZeusTracker* |
-**Porn Lite** | *Ador, PornAway, Porn Hosts and StevenBlack Porn* |
-**Ultimate** | *Energized, Energized Malware and hBlock* |
-**Unified** | *Energized, Malware, Porn and hBlock* |
+**Basic** | *1Hosts.cf, AdAway, Adblock No Coin List, add.2o7Net, add.Dead, AdGuard DNS & Spyware, Ador Energized, AdZHosts, Anti-PopAds, Airelle RSK, CK Ad & WEB RTC, Disconnect.me Ad & Malware, DShield.org LOW, Easylist & Adservers, EasyPrivacy, hBlock, hpHosts ATS, EMD to & WRZ, KADhosts, LightSwitch Extended, MalwareDomains.com - Immortal & Just Domains, MoaAB, MVPS.ORG, NeoHosts, Notracking, NSABlocklist, someonewhocares, Spam404.com - Ad, Steven Black Unified & Fakenews-Gambling, Streaming Ads, UncheckyAds, Vokins YHosts, Windows Spy Blocker, YoYo.org, ZeroDot1 CoinBlockerList and Zeus Tracker* |
+**Blu** | *1Hosts.cf, AdAway, Adblock No Coin List, add.2o7Net, add.Dead, AdGuard DNS, Spyware & Tracking, Ador Energized, Anti-PopAds, CK Ad & WEB RTC, Disconnect.me Ad & Malware, DShield.org LOW, Easylist & Adservers, EasyPrivacy, ETH Phising Detect, hBlock, hpHosts ATS & WRZ, KADhosts, LightSwitch Extended, MalwareDomainList.com, MalwareDomains.com - Immortal & Just Domains, MoaAB, MVPS.ORG, NeoHosts, Notracking, NSABlocklist, someonewhocares, Spam404.com - Ad, Steven Black Unified & Fakenews-Gambling, Streaming Ads, UncheckyAds, Vokins YHosts, YousList, YoYo.org, ZeroDot1 CoinBlockerList and Zeus Tracker* |
+**Blu go** | *1Hosts.cf, AdAway, add.2o7Net, add.Dead, AdGuard Spyware & Tracking, Ador Energized, Anti-PopAds,  Easylist Adservers, EasyPrivacy, ETH Phising Detect, MVPS.ORG, Notracking, NSABlocklist, someonewhocares, Spam404.com - Ad, Steven Black Unified & Fakenews-Gambling, Streaming Ads, UncheckyAds, YoYo.org, ZeroDot1 CoinBlockerList and Zeus Tracker* |
+**Porn** | *Ador Energized Porn, Airelle SEX, Easylist Adult Ads, Specific & Thirdparty, Porn Top1Million, PornAway, Porn Hosts & Sinfonietta Porn* |
+**Ultimate** | *Energized Basic, Bad Boyz Hosts, Blockzilla, CK Barbblock, Cybercrime, Disconnect.me Tracking, DShield.org High & Medium, EasyPrivacy Specific, Thirdparty & Tracking, Fanboy Annoyance & Enhanced Stats, hpHosts EXP, GRM, HJK & MMT, Matomo.org Spammers, Quidsup NoTrack, Ransomware Tracker, Sinfonietta Snuff, Spam404.com Main Blacklist, Squidblacklist DG Ad & Malicious, Stopforumspam.com and ZeroDot1 CoinBlockerList Browser & Optional* |
+**Unified** | *Energized Ultimate and Porn* |
 
 ## Thanks to -
 
 Updated `hosts` files from the following locations are always merged and
 included:
 
-Host file source | Description | Home page | Raw hosts | License |
+Hosts Source | Description | Home Page | RAW Hosts | License |
 -----------------|-------------|:---------:|:---------:|:---------:|
 1Hosts | A merged hosts file from a variety of other lists. | [LINK](https://forum.xda-developers.com/android/general/badmojr-one-host-file-to-block-t3713360) | [RAW](http://1hosts.cf/) | All Rights Reserved |
 AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[LINK](https://adaway.org/) | [RAW](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | MIT |
@@ -164,21 +153,23 @@ add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile
 add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | GPLv3+ |
 add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | GPLv3+ |
 add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | GPLv3+ |
-AdZHosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) | FREE OF CHARGE |
+AdZ Hosts | Massive Blocking Filter. |[LINK](https://adzhosts.fr/) | [RAW](https://adzhosts.fr/hosts/adzhosts-android.txt) | FREE OF CHARGE |
 Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) | WTFPLv2 |
 Badd Boyz Hosts - Mitchell Krog's | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[LINK](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) | Non-commercial with attribution |
 BarbBlock | Blacklists sites which have used DMCA takedowns. |[LINK](http://bblck.me/) | [RAW](https://ssl.bblck.me/blacklists/hosts-file.txt) | MIT |
 The Big List - Mitchell Krog's | A list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans. |[LINK](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) | [RAW](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list) | Non-Commercial with Attribution |
 Cameleon | A free system that helps Internet users or administrators to blocks web-adverts. |[LINK](http://sysctl.org/cameleon/) | [RAW](http://sysctl.org/cameleon/hosts.win) | UNKNOWN |
 CK's Filterlist | Ad, Tracking & Malware | [LINK](https://github.com/CHEF-KOCH/CKs-FilterList) | [RAWs](https://github.com/CHEF-KOCH/CKs-FilterList) | UNKNOWN |
-CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [RAW](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | AGPLv3 |
-CoinBlocker Hosts | Mining Blocking. |[LINK](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [RAW](https://zerodot1.gitlab.io/CoinBlockerLists/hosts) | AGPLv3 |
-Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) | UNKNOWN |
-Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | GPLv3 |
-Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) | GPLv3 |
-DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) | Non-Commercial with Attribution |
+CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications | [LINK](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [RAW](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | AGPLv3 |
+CoinBlocker Hosts | Mining Blocking. | [LINK](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [RAW](https://zerodot1.gitlab.io/CoinBlockerLists/hosts) | AGPLv3 |
+Dawsey - Spam404 | Spam404 Lists. | [LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) | UNKNOWN |
+Disconnect.me Ad | Simple Ad. | [LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt) | GPLv3 |
+Disconnect.me Malvertising | Simple Malvertising. | [LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | GPLv3 |
+Disconnect.me Malware | Simple Malware. | [LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) | GPLv3 |
+Disconnect.me Tracking | Simple Tracking. | [LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt) | GPLv3 |
+DShield High, Low & Medium | Suspicious domains on the internet. | [LINK](https://www.dshield.org/suspicious_domains.html) | [RAWs](https://www.dshield.org/suspicious_domains.html) | Non-Commercial with Attribution |
 Easylist | Easylist Ad, Privacy & Tracking Blockings. | [LINK](https://easylist.to/) | [RAWs](https://github.com/easylist/easylist) | All Rights Reserved
-Global Advert Servers Blocklist - Personal Edition | Advert Blocking. |[LINK](https://hostsfile.mine.nu/) | [RAW](https://hostsfile.mine.nu/hosts0.txt) | LGPL |
+Global Advert Servers Blocklist - Personal Edition | Advert Blocking. | [LINK](https://hostsfile.mine.nu/) | [RAW](https://hostsfile.mine.nu/hosts0.txt) | LGPL |
 hBlock | Improve your security and privacy by blocking ads, tracking and malware domains. | [LINK](https://hblock.molinero.xyz/) | [RAW](https://hblock.molinero.xyz/hosts) | MIT |
 hpHosts ATS | This file contains ad/tracking servers listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/ad_servers.txt) | FREE OF CHARGE |
 hpHosts EMD | This file contains malware sites listed in the hpHosts database. |[LINK](https://hosts-file.net/?s=Download) | [RAW](https://hosts-file.net/emd.txt) | FREE OF CHARGE |
@@ -191,7 +182,8 @@ HRSK - RLWPX | Dangerous Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.
 HSEX - RLWPX | Adult Content Block. |[LINK](http://rlwpx.free.fr/WPFF/hosts.htm) | [RAW](http://rlwpx.free.fr/WPFF/hsex.7z) | CC BY-NC 3.0 |
 KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | GPLv3 |
 Malware Domain List | Malware Domain List is a non-commercial community project. |[LINK](http://www.malwaredomainlist.com/) | [RAW](http://www.malwaredomainlist.com/hostslist/hosts.txt) | FREE OF CHARGE |
-Malware Domain Immortal | Malware Domain List is a non-commercial community project. |[LINK](http://malwaredomains.lehigh.edu/) | [RAW](http://malwaredomains.lehigh.edu/files/immortal_domains.txt) | FREE OF CHARGE |
+Malware Domains Immortal | Malware Domain List is a non-commercial community project. |[LINK](http://malwaredomains.lehigh.edu/) | [RAW](http://malwaredomains.lehigh.edu/files/immortal_domains.txt) | FREE OF CHARGE |
+Malware Domains Just Domains | Malware Domain List is a non-commercial community project. |[LINK](http://malwaredomains.lehigh.edu/) | [RAW](http://malwaredomains.lehigh.edu/files/justdomains) | FREE OF CHARGE |
 MoaAB: Mother of All AD-BLOCKING |  Hosts file to block advertisements and trackers designed for Android | [LINK](https://forum.xda-developers.com/showthread.php?t=1916098) | [RAW](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/adblock.mahakala.is/master/output/hosts/ACTIVE/hosts) | RESTRICTED |
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[LINK](http://winhelp2002.mvps.org/) | [RAW](http://winhelp2002.mvps.org/hosts.txt) | CC BY-NC-SA 4.0 |
 NeoHosts | Freedom, Responsibility, Restraint to Advertise Hosts Project https://hosts.nfz.moe |[LINK](https://github.com/neoFelhz/neohosts) | [RAW](https://hosts.nfz.moe/full/hosts) | MIT |
@@ -200,8 +192,7 @@ NSABlocklist | HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying
 PornAway | Porn Ads and Sites Blocking. |[LINK](https://github.com/mhxion/pornaway) | [RAW](https://github.com/mhxion/pornaway/tree/master/hosts) | GPLv3 |
 Pornhosts -- a consolidated anti porn hosts file | Porn Ads and Sites Blocking. |[LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts) | MIT |
 Quidsup No Tracking | Blocks Tracking Sites. |[LINK](https://github.com/quidsup/notrack/) | [RAW](https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt) | GPLv3 |
-R-A-Y Mobile Hosts | HOSTS files converted or sourced from various filter lists to prevent ads and tracking. |[LINK](https://github.com/r-a-y/mobile-hosts) | [RAWs](https://github.com/r-a-y/mobile-hosts) | GPLv3 |
-Shallalist | Shalla's Blocklists. |[LINK](http://www.shallalist.de/) | [RAW](http://www.shallalist.de/Downloads/shallalist.tar.gz) | FREE OF CHARGE |
+Ransomware Tracker | Block Ransomware botnet C&C traffic. | [LINK](https://ransomwaretracker.abuse.ch/) | [RAW](https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt) | GPLv3 |
 someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) | Non-Commercial with Attribution |
 Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | MIT |
 StreamingAds | Streaming services ads sources. | [LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts) | MIT |
@@ -211,17 +202,7 @@ WaLLy3K_Blacklist | Adblock, Hosts, Dansguardian, etc |[LINK](https://v.firebog.
 Windows Spy Blocker | Block spying and tracking on Windows. |[LINK](https://github.com/crazy-max/WindowsSpyBlocker) | [RAWs](https://github.com/crazy-max/WindowsSpyBlocker/tree/master/data/hosts) | MIT |
 YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https://github.com/yous/YousList/raw/master/youslist.txt) | CC BY 4.0 |
 yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | MCRAE GENERAL PUBLIC LICENSE (version 4.r53) |
-Youtube Ad Block | YouTube Ad Blocking. |[LINK](https://github.com/arthurgeron/blockYTAds) | [RAW](https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt) | MIT |
-YouTube Video ads Blocklist | YouTube Ad Blocking. |[LINK](https://github.com/anudeepND/youtubeadsblacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt) | WTFPL |
 ZeuS Tracker | Domain and IP-Blocklists. |[LINK](https://zeustracker.abuse.ch/) | [RAW](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist) | UNKNOWN |
-
-## Special Thanks to -
-
-[@fakeid30](https://github.com/fakeid30) - Fake ID for sharing his hosting.
-
-[@StevenBlack](https://github.com/StevenBlack) - Steven Black for his amazing work with the Unified Hosts and Tools.
-
-[@fivefilters](https://github.com/fivefilters/block-ads) - FiveFilters for ad test javascripts.
 
 ## Disclaimer
 
@@ -236,7 +217,7 @@ Energized Hosts are basically `hosts` files to block access to domains. If you d
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
 </div>
 
-<p align="center"><sub>A project by <a href="https://github.com/AdroitAdorKhan" target="_blank">Ador</a> with ❤<p>
+<p align="center"><sub>A project by <a href="https://nayemador.com target="_blank">Ador</a> with ❤<p>
 
 <p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
 
