@@ -21,11 +21,11 @@
 # -------------------------------------------
 # Package: Energized Porn Whitelist
 # Format: domains
-# Version: 18.08.214
-# Release: 214
-# Entries: 1672
+# Version: 18.08.215
+# Release: 215
+# Entries: 1676
 # Pack Code: EWH173-P
-# Updated: Fri, 03 Aug 18 02:58:23
+# Updated: Fri, 03 Aug 18 11:21:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedWhites-Porn
 # -------------------------------------------
 # -------------------------------------------
@@ -89,9 +89,11 @@ adf.ly
 adfoc.us
 adfocus.ru
 adidas.com
+adobe.com
 adollo.com
 adv.sec.miui.com
 advanceautoparts.com
+ajax.cloudflare.com
 ajax.googleapis.com
 akadns.net
 akamai.net
@@ -129,6 +131,7 @@ api-global.netflix.com
 api.coinbase.com
 api.facebook.com
 api.getpocket.com
+api.github.com
 api.hotstar.com
 api.ipify.org
 api.medium.com
@@ -602,6 +605,7 @@ gumtree.co.za
 hackaday.com
 harborfreight.com
 harpercollins.com
+hash.github.com
 hbo.com
 hbogo.com
 hbogo.pl
@@ -1703,10 +1707,6 @@ ziprecruiter.com
 zoso.ro
 É¢oogle.com
 ɢoogle.com
-adobe.com
-ajax.cloudflare.com
-api.github.com
-hash.github.com
 # -------------------------------------------
 # E N E R G I Z E D  E N D S
 # -------------------------------------------
