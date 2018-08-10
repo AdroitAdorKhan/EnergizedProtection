@@ -130,6 +130,7 @@
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics.jabong.com
 0.0.0.0 ads.alphonso.tv
+0.0.0.0 adservice.google.co.za
 0.0.0.0 api.alphonso.tv
 0.0.0.0 tvads.alphonso.tv
 0.0.0.0 alog.umengcloud.com
@@ -444,9 +445,58 @@
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 c.adsco.re
+0.0.0.0 vuckle-analytics.appspot.com
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 tk.kargo.com
+0.0.0.0 krk.kargo.com
+0.0.0.0 analytics.htmedia.in
+0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 script.crazyegg.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 outcome.supersonicads.com
+0.0.0.0 rt.applvn.com
+0.0.0.0 a.applvn.com
+0.0.0.0 d.applvn.com
+0.0.0.0 in.wzrkt.com
+0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 rtbcdn.andbeyond.media
+0.0.0.0 tracking.zeotap.com
+0.0.0.0 fast.cbsi.demdex.net
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 mobileads.indiatimes.com
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 ads.blogherads.com
+0.0.0.0 s.pubmine.com
+0.0.0.0 s.skimresources.com
+0.0.0.0 adserver.pressboard.ca
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 clck.idealmedia.com
+0.0.0.0 counter.idealmedia.com
+0.0.0.0 analytics.idealmedia.com
+0.0.0.0 a.idealmedia.com
+0.0.0.0 autocounter.idealmedia.com
+0.0.0.0 adserver.xpanama.net
+0.0.0.0 www.sdad.guru
+0.0.0.0 sdad.guru
+0.0.0.0 metric-agent.i10c.net
+0.0.0.0 c.betrad.com
+0.0.0.0 us-ads.openx.net
+0.0.0.0 s.ntv.io
+0.0.0.0 s0.2mdn.net
 # Analytics, Ads & Tracking
 
 # Android Track Blockings
+0.0.0.0 data.camscanner.com
+0.0.0.0 event.ksosoft.com
+0.0.0.0 counter.kingsoft.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
@@ -1668,6 +1718,11 @@
 0.0.0.0 zemanta.com
 0.0.0.0 zergnet.com
 # Clickbaits 
+
+# Cricbuzz Blockings
+0.0.0.0 a.cricbuzz.com
+0.0.0.0 a.cric.bz
+# Cricbuzz Annoyances
 
 # Facebook Blockings
 # 0.0.0.0 graph.facebook.com [Breaks FB Messenger]
@@ -3067,6 +3122,50 @@
 0.0.0.0 open.skeinplay.com
 0.0.0.0 ropkrhilt.com
 0.0.0.0 tfqexqeldxjvet.com
+0.0.0.0 ad2ad.ir 
+0.0.0.0 adad.ir
+0.0.0.0 adprime.ir
+0.0.0.0 adsfarsi.com
+0.0.0.0 ads-rain.com
+0.0.0.0 adtooapp.com
+0.0.0.0 adwords20.com
+0.0.0.0 agahi.naz.ir
+0.0.0.0 anetwork.ir
+0.0.0.0 arshika.com
+0.0.0.0 artamarketing.com
+0.0.0.0 bestit.co
+0.0.0.0 c1sys.com
+0.0.0.0 click.parsnil.ir
+0.0.0.0 clickyab.com
+0.0.0.0 dgad.ir
+0.0.0.0 didogram.com
+0.0.0.0 eads.ir
+0.0.0.0 googletabligh.ir
+0.0.0.0 hikasb.com
+0.0.0.0 ictiran.ir
+0.0.0.0 irantableegh.org
+0.0.0.0 magnetadservices.com
+0.0.0.0 memarket.biz
+0.0.0.0 mobodid.com
+0.0.0.0 mojrianweb.com
+0.0.0.0 mr-clix.com
+0.0.0.0 novin.com
+0.0.0.0 onlinestudio.ir
+0.0.0.0 parstabligh.org
+0.0.0.0 play.tapsell.me
+0.0.0.0 raykaad.com
+0.0.0.0 romansonn.ir
+0.0.0.0 saranco.ir
+0.0.0.0 seosazi.ir
+0.0.0.0 shayegan.net
+0.0.0.0 tablighatnovin.com
+0.0.0.0 tablighgram.com
+0.0.0.0 talab.org
+0.0.0.0 tapsell.ir
+0.0.0.0 uprock.net
+0.0.0.0 utop.ir
+0.0.0.0 virlan.co
+0.0.0.0 visitsaz.com
 # Normal Ads & Stuffs
 
 # Energized Ends.
