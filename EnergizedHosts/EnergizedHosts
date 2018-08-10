@@ -451,6 +451,8 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 tracking.lenzmx.com
+0.0.0.0 uop.umeng.com
 0.0.0.0 app-measurement.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
@@ -1612,6 +1614,11 @@
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 phonedeviceverification-pa-prod.samdbox.googleapis.com
 0.0.0.0 safebrowsing-googleapis.com
+0.0.0.0 log.isnssdk.com
+0.0.0.0 track.performancegenie.mobi
+0.0.0.0 query.yahooapis.com
+0.0.0.0 tracking.m6r.eu
+0.0.0.0 trk.stroeermediabrands.de
 # Android Ads & Tracking
 
 # Apple Blockings
@@ -1798,6 +1805,7 @@
 
 # MX Player Blockings
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 evt.mxplay.com
 # MX Player Ads & Trackings
 
 # OnePlus Blockings
@@ -3041,6 +3049,24 @@
 0.0.0.0 cl96rwprue.com
 0.0.0.0 s9kkremkr0.com
 0.0.0.0 www.usfmwydo.com
+0.0.0.0 uclylhzwg.com
+0.0.0.0 yobaby.club
+0.0.0.0 aayaknbn.com
+0.0.0.0 collector.cloudmosa.net
+0.0.0.0 www.imnsmvmjrdiwwr.com
+0.0.0.0 imnsmvmjrdiwwr.com
+0.0.0.0 ryybhoklizmuew.com
+0.0.0.0 adinfo.aol.com
+0.0.0.0 goods.appsdownld.com
+0.0.0.0 results.celebration-staff.com
+0.0.0.0 joy-38.com
+0.0.0.0 hkhotpewfxr.com
+0.0.0.0 ylkhts.cc
+0.0.0.0 sentry.fastboot.mobi
+0.0.0.0 cmotru-76.com
+0.0.0.0 open.skeinplay.com
+0.0.0.0 ropkrhilt.com
+0.0.0.0 tfqexqeldxjvet.com
 # Normal Ads & Stuffs
 
 # Energized Ends.
