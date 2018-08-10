@@ -21,11 +21,11 @@
 # -------------------------------------------
 # Package: Energized Porn Whitelist
 # Format: domains
-# Version: 18.08.215
-# Release: 215
-# Entries: 1676
+# Version: 18.08.222
+# Release: 222
+# Entries: 1680
 # Pack Code: EWH173-P
-# Updated: Fri, 03 Aug 18 13:51:45
+# Updated: Fri, 10 Aug 18 10:22:48
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedWhites-Porn
 # -------------------------------------------
 # -------------------------------------------
@@ -135,6 +135,7 @@ api.github.com
 api.hotstar.com
 api.ipify.org
 api.medium.com
+api.paypal.com
 api.pinterest.com
 api.soundcloud.com
 api.twitter.com
@@ -299,6 +300,7 @@ cdnapi.kaltura.com
 cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
 cex.io
+cf-st.sc-cdn.net
 cfvod.kaltura.com
 channel9.msdn.com
 chart.googleapis.com
@@ -1038,6 +1040,7 @@ pando.com
 paper.li
 pastebin.com
 paulfredrick.com
+paypal.com
 pci.spotify.com
 people.com
 performfeeds.com
@@ -1605,6 +1608,7 @@ www.oprah.com
 www.ospserver.net
 www.package.chocolatey.org
 www.packages.chocolatey.org
+www.paypal.com
 www.phonearena.com
 www.pinterest.com
 www.piwik.org
@@ -1707,10 +1711,6 @@ ziprecruiter.com
 zoso.ro
 É¢oogle.com
 ɢoogle.com
-cf-st.sc-cdn.net
-api.paypal.com
-paypal.com
-www.paypal.com
 # -------------------------------------------
 # E N E R G I Z E D  E N D S
 # -------------------------------------------
