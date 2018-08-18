@@ -4,10 +4,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-18.08.222-blue.svg?longCache=true&style=flat-square"
-      alt="18.08.222" />
+    <img src="https://img.shields.io/badge/Version-18.08.230-blue.svg?longCache=true&style=flat-square"
+      alt="18.08.230" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Aug 10, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Aug 18, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
@@ -45,10 +45,6 @@
   <h3>
     <a href="https://nayemador.com/energized">
       Website
-    </a>
-    <span> | </span>
-    <a href="https://nayemador.com/energized/secure/">
-      Test Energized
     </a>
     <span> | </span>
     <a href="https://t.me/EnergizedProtection">
@@ -89,24 +85,25 @@ The **Non GitHub mirror** is the link to use for some hosts file managers which 
  
 Host File Recipe | Blocking(s) | RAW Hosts | Unique Entries | Mirror | Size
 ---------------- |:------:|:---------:|:--------------:|:-------------:|:-------------:|
-Energized Spark | True Lite Hosts. | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/hosts) | 37472 | [LINK](https://nayemador.com/energized/spark) | 1MB
-Energized Basic | Adware & Malware Basic | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts) | 528755 | [LINK](https://nayemador.com/energized/basic) | 15M
-Energized Blu | Lightweight Energized | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts) | 285669 | [LINK](https://nayemador.com/energized/blu) | 7.8M
-Energized Blu Go | Lightweight Energized GO | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts) | 122570 | [LINK](https://nayemador.com/energized/bluGo) | 3.2M
-Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts) | 538747 | [LINK](https://nayemador.com/energized/porn) | 15M
-Energized Ultimate | Adware and Malware Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts) | 675270 | [LINK](https://nayemador.com/energized/ultimate) | 19M
-Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts) | 1161705 | [LINK](https://nayemador.com/energized/unified) | 32M
+Energized Spark | True Lite Hosts. | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/hosts) | 37426 | [LINK](https://nayemador.com/energized/spark) | 1MB
+Energized Basic | Adware & Malware Basic | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts) | 450148 | [LINK](https://nayemador.com/energized/basic) | 13M
+Energized Blu | Lightweight Energized | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts) | 195560 | [LINK](https://nayemador.com/energized/blu) | 5.6M
+Energized Blu Go | Lightweight Energized GO | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts) | 122112 | [LINK](https://nayemador.com/energized/bluGo) | 3.2M
+Energized Porn | PornSites and PornAds | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts) | 537274 | [LINK](https://nayemador.com/energized/porn) | 15M
+Energized Ultimate | Adware and Malware Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts) | 579352 | [LINK](https://nayemador.com/energized/ultimate) | 17M
+Energized Unified | Adware, Malware and Porn Unified | [LINK](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts) | 1073058 | [LINK](https://nayemador.com/energized/unified) | 30M
 
 **Expectation**: These unified hosts files should serve all devices, regardless
 of OS.
 
 ## Extensions
 
-`Social` Blocking Extension is available now.
+`Social` & `Porn` Blocking Extensions are available now.
 
 Package | Entries | RAW  | Mirror RAW | Adblock Filter | Domains | DNSMasq | DNSMasq IPV6 | Unbound | RPZ
 ---------:|:---------:|:---------:|:---------:|:-----------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Social Extension | **1206** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-hosts) | [MIRROR](https://nayemador.com/energized/exts/social) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-filter) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-domains.txt) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-dnsmasq.conf) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-dnsmasq-ipv6.conf) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-unbound.conf) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-rpz.txt) |
+Social Extension | **1241** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-hosts) | [MIRROR](https://nayemador.com/energized/exts/social) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-filter) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-domains.txt) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-dnsmasq.conf) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-dnsmasq-ipv6.conf) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-unbound.conf) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-social-rpz.txt) |
+Porn Lite Extension | **48023** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/formats/ext-porn-hosts) | [MIRROR](https://nayemador.com/energized/exts/porn) | - | - | - | - | - | - |
 
 ## Best Use
 
@@ -124,12 +121,12 @@ Different formats for various devices.
 
 Package | Entries | RAW | TXT | Adblock Filter | Domains | DNSMasq | DNSMasq IPV6 | Unbound | RPZ
 ----------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Basic | **528755** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts) (15M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts.txt) (15M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/filter) (12M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt) (11M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/dnsmasq.conf) (20M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/dnsmasq-ipv6.conf) (18M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/unbound.conf) (45M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/rpz.txt) (45M) |
-Blu | **285669** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts) (7.8M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts.txt) (7.8M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/filter) (6.2M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt) (5.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/dnsmasq.conf) (11M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/dnsmasq-ipv6.conf) (9.4M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/unbound.conf) (24M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/rpz.txt) (24M) |
-Blu Go | **122570** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts) (3.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts.txt) (3.2M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/filter) (2.5M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/domains.txt) (2.3M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/dnsmasq.conf) (4.4M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/dnsmasq-ipv6.conf) (3.9M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/unbound.conf) (10M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/rpz.txt) (10M) |
-Porn | **538747** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts) (15M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts.txt) (15M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/filter) (12M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/domains.txt) (11M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/dnsmasq.conf) (20M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/dnsmasq-ipv6.conf) (18M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/unbound.conf) (45M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/rpz.txt) (45M) |
-Ultimate | **675270** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts) (19M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts.txt) (19M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/filter) (15M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/domains.txt) (14M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/dnsmasq.conf) (25M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/dnsmasq-ipv6.conf) (23M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/unbound.conf) (57M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/rpz.txt) (57M) |
-Unified | **1161705** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts) (32M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts.txt) (32M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/filter) (25M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/domains.txt) (23M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/dnsmasq.conf) (43M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/dnsmasq-ipv6.conf) (39M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/unbound.conf) (98M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/rpz.txt) (98M) |
+Basic | **450148** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts) (13M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts.txt) (13M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/filter) (11M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt) (9.3M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/dnsmasq.conf) (17M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/dnsmasq-ipv6.conf) (16M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/unbound.conf) (39M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/rpz.txt) (39M) |
+Blu | **195560** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts) (5.6M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts.txt) (5.6M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/filter) (4.5M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt) (4.1M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/dnsmasq.conf) (7.5M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/dnsmasq-ipv6.conf) (6.7M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/unbound.conf) (17M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/rpz.txt) (17M) |
+Blu Go | **122112** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts) (3.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts.txt) (3.2M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/filter) (2.5M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/domains.txt) (2.3M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/dnsmasq.conf) (4.4M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/dnsmasq-ipv6.conf) (3.9M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/unbound.conf) (9.9M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/rpz.txt) (9.9M) |
+Porn | **537274** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts) (15M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts.txt) (15M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/filter) (12M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/domains.txt) (11M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/dnsmasq.conf) (20M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/dnsmasq-ipv6.conf) (18M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/unbound.conf) (45M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/rpz.txt) (45M) |
+Ultimate | **579352** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts) (17M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/hosts.txt) (17M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/filter) (13M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/domains.txt) (12M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/dnsmasq.conf) (22M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/dnsmasq-ipv6.conf) (20M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/unbound.conf) (50M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/rpz.txt) (50M) |
+Unified | **1073058** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts) (30M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts.txt) (30M) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/filter) (24M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/domains.txt) (22M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/dnsmasq.conf) (40M) | [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/dnsmasq-ipv6.conf) (36M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/unbound.conf) (91M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/rpz.txt) (91M) |
 
 ## Package Details
 
@@ -211,12 +208,25 @@ YousList | Block filter. |[LINK](https://github.com/yous/YousList) | [RAW](https
 yoyo.org | Blocking with ad server and tracking server hostnames. |[LINK](https://pgl.yoyo.org/adservers/) | [RAW](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | MCRAE GENERAL PUBLIC LICENSE (version 4.r53) |
 ZeuS Tracker | Domain and IP-Blocklists. |[LINK](https://zeustracker.abuse.ch/) | [RAW](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist) | All Rights Reserved |
 
+## Check Energized
+
+Go to our website and if you see a green shield right by the logo. Voila! Energized is working fine for you. Make sure to enable JavaScript for our site to check Energized.
+
+## Support
+
+Maintaining a quality blocking project takes a lot of time. Energized Protection is completely independently funded. We fight for our users. This does mean
+however that we also have to spend our owns to pay the bills.
+This is where you can help: by chipping in you can ensure more time is spent
+improving Energized rather than dealing with distractions.
+
+<a href="https://paypal.me/pools/c/86ZbnsTbVN" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png"></a>
+
 ## Disclaimer
 
 Energized Hosts are basically `hosts` files to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss. Never forget to make backups.
 
 ## License
-[MIT](https://github.com/EnergizedProtection/EnergizedHosts/blob/master/LICENSE)
+[MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE)
 
 ---
 
@@ -227,4 +237,3 @@ Energized Hosts are basically `hosts` files to block access to domains. If you d
 <p align="center"><sub>A project by <a href="https://nayemador.com target="_blank">Ador</a> with ❤<p>
 
 <p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
-
