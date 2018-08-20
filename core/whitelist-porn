@@ -21,13 +21,13 @@
 # -------------------------------------------
 # Package: Energized Porn Whitelist
 # Format: domains
-# Version: 18.08.222
-# Release: 222
-# Entries: 1680
+# Version: 18.08.232
+# Release: 232
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
+# Entries: 1684
 # Pack Code: EWH173-P
-# Updated: Fri, 10 Aug 18 10:22:48
-# RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedWhites-Porn
-# -------------------------------------------
+# Updated: Mon, 20 Aug 18 14:11:28
+# RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/whitelist-porn
 # -------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # -------------------------------------------
@@ -1182,6 +1182,8 @@ secret.É¢oogle.com
 secret.ɢoogle.com
 secure-cdn.mplxtms.com
 secure-us.imrworldwide.com
+secure.avangate.com
+secure.brightcove.com
 secure.dshield.org
 secure.gravatar.com
 secure.logmein.com
@@ -1240,6 +1242,7 @@ spotify.com
 spreadsheets.google.com
 ssl-images-amazon.com
 ssl.bblck.me
+ssl.google-analytics.com
 ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
@@ -1276,6 +1279,7 @@ surveymonkey.com
 swcdn.apple.com
 sync.pocketcasts.com
 syndication.twitter.com
+synology.com
 sysctl.org
 szczecin.tvp.pl
 t.co
@@ -1645,6 +1649,7 @@ www.static.medium.com
 www.storage.googleapis.com
 www.store.apple.com
 www.store.sony.com
+www.synology.com
 www.techradar.com
 www.techrepublic.com
 www.techtarget.com
@@ -1713,5 +1718,6 @@ zoso.ro
 # -------------------------------------------
 # E N E R G I Z E D  E N D S
 # -------------------------------------------
+
 #               Stay Energized!
 #                   ------

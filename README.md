@@ -226,7 +226,7 @@ improving Energized rather than dealing with distractions.
 Energized Hosts are basically `hosts` files to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss. Never forget to make backups.
 
 ## License
-[MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE)
+[CC BY-NC-SA 4.0](https://github.com/EnergizedProtection/block/blob/master/LICENSE.md)
 
 ---
 
@@ -234,6 +234,7 @@ Energized Hosts are basically `hosts` files to block access to domains. If you d
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
 </div>
 
-<p align="center"><sub>A project by <a href="https://nayemador.com target="_blank">Ador</a> with ❤<p>
+<p align="center"><sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<p>
 
 <p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
+
