@@ -20,13 +20,13 @@
 # P A C K  D E T A I L S
 # -------------------------------------------
 # Package: Energized Normal Whitelist
-# Format: hosts
+# Format: domains
 # Version: 18.08.232
 # Release: 232
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 1850
+# Entries: 1849
 # Pack Code: EWH173-A
-# Updated: Mon, 20 Aug 18 14:11:23
+# Updated: Mon, 20 Aug 18 16:54:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/whitelist
 # -------------------------------------------
 # E N E R G I Z E D  B E G I N S
@@ -1332,7 +1332,6 @@ spotify.com
 spreadsheets.google.com
 ssl-images-amazon.com
 ssl.bblck.me
-ssl.google-analytics.com
 ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
