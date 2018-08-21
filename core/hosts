@@ -22,12 +22,12 @@
 # -------------------------------------------
 # Package: Energized Core Blacklist
 # Format: hosts
-# Version: 18.08.232
-# Release: 232
+# Version: 18.08.234
+# Release: 234
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 4048
+# Entries: 4086
 # Pack Code: EC0R3-P
-# Updated: Mon, 20 Aug 18 14:11:28
+# Updated: Mon, 22 Aug 18 1:35:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 
 # -------------------------------------------
@@ -314,6 +314,7 @@
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admin.appnext.com
 0.0.0.0 admin.fastclick.net
+0.0.0.0 admin.mobadvent.com
 0.0.0.0 admitad.com
 0.0.0.0 admixer.co.kr
 0.0.0.0 admixer.net
@@ -411,6 +412,7 @@
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.linkshrink.net
+0.0.0.0 ads.mobadvent.com
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
@@ -491,6 +493,8 @@
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.yahoo.com
+0.0.0.0 adserverapi.onedigitalad.com
+0.0.0.0 adserverapi.ruca.tech
 0.0.0.0 adservex.media.net
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.co.za
@@ -596,6 +600,7 @@
 0.0.0.0 am15.net
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ambitiousagreement.com
+0.0.0.0 amcmpixel.onedigitalad.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 americapixel.com
 0.0.0.0 amgload.net
@@ -775,6 +780,7 @@
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.micloud.xiaomi.net
 0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.mobadvent.com
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobula.ds.duapps.com
@@ -789,6 +795,7 @@
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 api.redshell.io
+0.0.0.0 api.sabavision.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
@@ -1260,9 +1267,11 @@
 0.0.0.0 cdn.monsido.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.nmcdn.us
+0.0.0.0 cdn.onedigitalad.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.pubnative.net
+0.0.0.0 cdn.ruca.tech
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.special-offers.online
@@ -1301,6 +1310,7 @@
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf.ushareit.com
 0.0.0.0 chango.com
+0.0.0.0 chardwardse.club
 0.0.0.0 chartboost.com
 0.0.0.0 chartboosts.com
 0.0.0.0 cherrythread.com
@@ -1324,9 +1334,11 @@
 0.0.0.0 click-on-this-now.online
 0.0.0.0 click.fancywap.com
 0.0.0.0 click.linksynergy.com
+0.0.0.0 click.onedigitalad.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.parsnil.ir
+0.0.0.0 click.sabavision.com
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickkydsp.com
@@ -1357,6 +1369,7 @@
 0.0.0.0 cm.ushareit.com
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmotru-76.com
+0.0.0.0 cmpixel.onedigitalad.com
 0.0.0.0 cnc.fe01.lg.xiaomi.com
 0.0.0.0 cnt.my
 0.0.0.0 code.cdn.mozilla.net
@@ -1568,6 +1581,7 @@
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 dev.appboy.com
+0.0.0.0 dev.mobadvent.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
@@ -1619,6 +1633,7 @@
 0.0.0.0 dsp.adledge.com
 0.0.0.0 dsp.batmobi.net
 0.0.0.0 dsp.face2trade.com
+0.0.0.0 dsp.mobadvent.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dtm.advertising.com
 0.0.0.0 dts.innovid.com
@@ -1698,6 +1713,7 @@
 0.0.0.0 erraticreaction.com
 0.0.0.0 errortablet.com
 0.0.0.0 et-code.ru
+0.0.0.0 et.mobadvent.com
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 etargetnet.com
 0.0.0.0 etcodes.com
@@ -1705,6 +1721,7 @@
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-ma.sam4m.com
 0.0.0.0 eu2.madsone.com
+0.0.0.0 eucmpixel.onedigitalad.com
 0.0.0.0 europerty.pro
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 evantative.top
@@ -1805,6 +1822,7 @@
 0.0.0.0 fortpush.com
 0.0.0.0 forum.addthis.com
 0.0.0.0 fourarithmetic.com
+0.0.0.0 fp.onedigitalad.com
 0.0.0.0 frailoffer.com
 0.0.0.0 freegeoip.net
 0.0.0.0 friendlyduck.com
@@ -1968,6 +1986,7 @@
 0.0.0.0 holder.com.ua
 0.0.0.0 hollowshake.com
 0.0.0.0 holmeshelp.ucweb.com
+0.0.0.0 home.chardwardse.club
 0.0.0.0 homelycrown.com
 0.0.0.0 hooligapps.go2affise.com
 0.0.0.0 hormebets.info
@@ -2387,6 +2406,7 @@
 0.0.0.0 mini5.opera-mini.net
 0.0.0.0 minormeeting.com
 0.0.0.0 mis.migc.xiaomi.com
+0.0.0.0 mis.shtranssion.com
 0.0.0.0 mishop.cdn.pandora.xiaomi.com
 0.0.0.0 mishop.pandora.xiaomi.com
 0.0.0.0 mitunes.game.xiaomi.com
@@ -2469,6 +2489,7 @@
 0.0.0.0 msads.net
 0.0.0.0 msbmopod.vo.llnwd.net
 0.0.0.0 msftncsi.com
+0.0.0.0 msg.transacme.com
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msntest.serving-sys.com
@@ -2576,6 +2597,7 @@
 0.0.0.0 oclaserver.com
 0.0.0.0 oconner.biz
 0.0.0.0 ocsp.comodoca.com
+0.0.0.0 odas.onedigitalad.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 oetwplgu.com
 0.0.0.0 ofa-sub.osp.opera.software
@@ -2583,6 +2605,7 @@
 0.0.0.0 omaze.com
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 onclickads.net
+0.0.0.0 onedigitalad.com
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onedrive.su
 0.0.0.0 ongkidcasarv.com
@@ -2775,10 +2798,12 @@
 0.0.0.0 pub.clicksor.net
 0.0.0.0 pub1.co
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 public.shtranssion.com
 0.0.0.0 public.vilynx.com
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnative.net
+0.0.0.0 pubsgcmpixel.onedigitalad.com
 0.0.0.0 puds.ucweb.com
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypurpose.com
@@ -2902,6 +2927,7 @@
 0.0.0.0 rtb.appbid.com
 0.0.0.0 rtb.kds.media
 0.0.0.0 rtb.nexage.com
+0.0.0.0 rtb.onedigitalad.com
 0.0.0.0 rtb.platform.glispa.com
 0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 rtbpop.com
@@ -3059,6 +3085,8 @@
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 sgpac.account.xiaomi.com
+0.0.0.0 sgpubrtb.onedigitalad.com
+0.0.0.0 sgrtb.onedigitalad.com
 0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakytaste.com
@@ -3081,6 +3109,7 @@
 0.0.0.0 shoes.app-xae.xiaomi.com
 0.0.0.0 shortyz.co
 0.0.0.0 showads33000.pubmatic.com
+0.0.0.0 shtranssion.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silvermob.com
 0.0.0.0 similarsabine.com
@@ -3108,6 +3137,7 @@
 0.0.0.0 smilered.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smothere.pro
+0.0.0.0 smsgcmpixel.onedigitalad.com
 0.0.0.0 snakesort.com
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 sneaklevel.com
@@ -3157,6 +3187,7 @@
 0.0.0.0 sscefsol.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl.onedigitalad.com
 0.0.0.0 ssl.p.jwpcdn.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 sso.anbtr.com
@@ -3164,6 +3195,7 @@
 0.0.0.0 ssp.face2trade.com
 0.0.0.0 ssphwy.com
 0.0.0.0 ssw.live.com
+0.0.0.0 stackcdn.onedigitalad.com
 0.0.0.0 stackcommerce.com
 0.0.0.0 staging.ai.api.xiaomi.com
 0.0.0.0 starfish.pandora.xiaomi.com
@@ -3319,7 +3351,10 @@
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.adpooh.com
 0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 test.mobadvent.com
 0.0.0.0 test.zeus.ad.xiaomi.com
+0.0.0.0 test2.mobadvent.com
+0.0.0.0 test3.mobadvent.com
 0.0.0.0 textron.vo.llnwd.net
 0.0.0.0 tfqexqeldxjvet.com
 0.0.0.0 thefilter.com
@@ -3717,6 +3752,7 @@
 0.0.0.0 uclylhzwg.com
 0.0.0.0 ucnews.ucweb.com
 0.0.0.0 udm.scorecardresearch.com
+0.0.0.0 uecmpixel.onedigitalad.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ugcdata.vmate.in
@@ -3782,6 +3818,7 @@
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video-vcdn.fastclick.net
+0.0.0.0 video.onedigitalad.com
 0.0.0.0 video1.fastclick.net
 0.0.0.0 videoplus.vo.llnwd.net
 0.0.0.0 videoslots.888.com
@@ -3965,6 +4002,7 @@
 0.0.0.0 www.omaze.com
 0.0.0.0 www.onclickclear.com
 0.0.0.0 www.onclicksuper.com
+0.0.0.0 www.onedigitalad.com
 0.0.0.0 www.opencache.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.plaimedia.com
