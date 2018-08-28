@@ -22,11 +22,11 @@
 # -------------------------------------------
 # Package: Energized Finelist
 # Format: domains
-# Version: 1.0.0.1
-# Release: 1
+# Version: 1.0.0.2
+# Release: 2
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
 # Pack Code: EF193-A
-# Updated: Tue, 28 Aug 18 16:57:03
+# Updated: Tue, 28 Aug 18 19:57:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/finelist
 
 # -------------------------------------------
@@ -109,6 +109,8 @@ music.plus.google.com
 
 # Instagram 
 # -------------------------------------------
+instagram.com
+www.instagram.com
 i.instagram.com
 graph.facebook.com
 edge-mqtt.facebook.com
