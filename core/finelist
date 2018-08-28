@@ -1,0 +1,511 @@
+#    _____  _________  _____________  _______
+#   / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \ 
+#  / _// ,  / _// , _/ (_ // /  / /_/ _// // /
+# /___/_/|_/___/_/|_|\___/___/ /___/___/____/
+#
+#    P   R   O   T   E   C   T   I   O   N
+# -------------------------------------------
+#          ad.porn.malware blocking.
+#                   ------
+#      Merged collection of hosts from
+#             reputable sources.
+# -------------------------------------------
+#          nayemador.com/energized/
+#    github.com/EnergizedProtection/block
+# -------------------------------------------
+#        Let's make an annoyance free
+#      better open internet. Altogether.
+#                  ------
+
+# -------------------------------------------
+# P A C K  D E T A I L S
+# -------------------------------------------
+# Package: Energized Finelist
+# Format: domains
+# Version: 1.0.0.1
+# Release: 1
+# License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
+# Pack Code: EF193-A
+# Updated: Tue, 28 Aug 18 16:57:03
+# RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/finelist
+
+# -------------------------------------------
+# E N E R G I Z E D  B E G I N S
+# -------------------------------------------
+
+# Facebook
+# -------------------------------------------
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+api.facebook.com
+apps.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+edge-chat.facebook.com
+edge-mqtt.facebook.com
+facebook.com
+graph.facebook.com
+m.facebook.com
+mqtt-mini.facebook.com
+mqtt.facebook.com
+star.c10r.facebook.com
+star.facebook.com
+touch.facebook.com
+upload.facebook.com
+vupload2.facebook.com
+www.facebook.com
+external-lhr10-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+external.fdac24-1.fna.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+fbcdn.net
+static.xx.fbcdn.net
+origincache-atn.fbcdn.net
+scontent-lhr3-1.xx.fbcdn.net
+scontent-yyz1-1.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+scontent.fdac24-1.fna.fbcdn.net
+scontent.xx.fbcdn.net
+video.xx.fbcdn.net
+video.fdac24-1.fna.fbcdn.net
+fb.me
+zero.fb.me
+m.fb.me
+www.fb.me
+conenct.facebook.net
+api.fb.me
+m.zero.facebook.com
+zero.facebook.com
+0.facebook.com
+m.0.facebook.com
+www.0.facebook.com
+static.0.facebook.com
+
+# Google+
+# -------------------------------------------
+www.plus.google.com
+plus.google.com
+surf.plus.google.com
+photo.plus.google.com
+m.plus.google.com
+bulletin.plus.google.com
+mail.plus.google.com
+app.plus.google.com
+autos.plus.google.com
+home.plus.google.com
+music.plus.google.com
+
+# Instagram 
+# -------------------------------------------
+i.instagram.com
+graph.facebook.com
+edge-mqtt.facebook.com
+mqtt-mini.facebook.com
+
+# Line
+# -------------------------------------------
+media.line.me
+line.me
+access.line.me
+terms.line.me
+store.line.me
+today.line.me
+clova.line.me
+social-plugins.line.me
+page.line.me
+lineit.line.me
+lan.line.me
+developers.line.me
+callback.line.me
+notice.line.me
+music.line.me
+terms2.line.me
+accountpage.line.me
+entry-at.line.me
+creator-mag.line.me
+manga.line.me
+official-blog.line.me
+mobile.line.me
+tv.line.me
+live.line.me
+help.line.me
+contact-cc.line.me
+timeline.line.me
+api-rangers.line.me
+www.line.me
+global-nvapis.line.me
+music-jp-coupon.line.me
+help2.line.me
+at-blog.line.me
+w.line.me
+creator.line.me
+api.line.me
+aillis.line.me
+game-blog.line.me
+store-bill.line.me
+news.line.me
+music-mag.line.me
+research-platform.line.me
+notice2.line.me
+gift-blog.line.me
+manga-blog.line.me
+notify-bot.line.me
+brownfarm.game.line.me
+clova-blog.line.me
+survey-blog.line.me
+fortune-mag.line.me
+blog-at.line.me
+contact.line.me
+m.line.me
+admin-official.line.me
+business.line.me
+help-m.line.me
+manual-at.line.me
+game.line.me
+lbc.line.me
+taxi.line.me
+camera.line.me
+shopping.line.me
+buy.line.me
+mobile-blog.line.me
+pay.line.me
+notify-api.line.me
+blog-cms.line.me
+play.line.me
+campaign.line.me
+schedule.line.me
+api.today.line.me
+keep.line.me
+sp-campaign.line.me
+tv-stage.line.me
+
+# Linkedin
+# -------------------------------------------
+payment.www.linkedin.com
+www.linkedin.com
+linkedin.com
+m.linkedin.com
+business.linkedin.com
+premium.linkedin.com
+developer.linkedin.com
+blog.linkedin.com
+platform.linkedin.com
+e.linkedin.com
+data.linkedin.com
+help.linkedin.com
+mail.linkedin.com
+badges.linkedin.com
+
+# Pinterest
+# -------------------------------------------
+pinterest.com
+www.pinterest.com
+api.pinterest.com
+about.pinterest.com
+amp.pinterest.com
+developers.pinterest.com
+app.pinterest.com
+support.pinterest.com
+email.pinterest.com
+commerce.pinterest.com
+blog.pinterest.com
+s.pinimg.com.gslb.pinterest.com
+labs.pinterest.com
+api.pinterest.com.gslb.pinterest.com
+explore.pinterest.com
+m.pinterest.com
+newsroom.pinterest.com
+
+# QQ
+# -------------------------------------------
+qq.com
+js.data.auto.qq.com
+www.qq.com
+app.data.qq.com
+gtimg.cn
+i.gtimg.cn
+imgnode.gtimg.cn
+qt.gtimg.cn
+qzonestyle.gtimg.cn
+vm.gtimg.cn
+gtimg.com
+captcha.gtimg.com
+img1.gtimg.com
+mat1.gtimg.com
+vv.video.qq.com
+v.qq.com
+ui.ptlogin2.qq.com
+mat1.qq.com
+i.match.qq.com
+support.weixin.qq.com
+res.wx.qq.com
+
+# Quora
+# -------------------------------------------
+quora.com
+www.quora.com
+quoracdn.net
+
+# Reddit
+# -------------------------------------------
+i.reddit.com
+nsfw.reddit.com
+redd.it
+reddit.com
+www.reddit.com
+
+# Snapchat
+# -------------------------------------------
+use.adserver.snapads.com
+auth.snapchat.com
+mvm.snapchat.com
+s.sc-jpl.com
+instalog-prod.sc-prod.net
+app.snapchat.com
+images.bitmoji.com
+gtq.sct.sc-prod.net
+chat-gateway-prod.chat.snapchat.com
+app.snapchat.com
+pro-accounts.snapchat.com
+s.sc-cdn.net
+us-central1-gcp.api.snapchat.com
+rtam-collector.appspot.com
+cf-st.sc-cdn.net
+gcs.sc-cdn.net
+
+# Skype
+# -------------------------------------------
+a.config.skype.com
+api.skype.com
+api.teams.skype.com
+avatar.skype.com
+ui.skype.com
+login.skype.com
+options.skype.com
+people.skype.com
+secure.skype.com
+shop.skype.com
+skype.com
+web.skype.com
+
+StumbleUpon
+# -------------------------------------------
+www.stumbleupon.com
+stumbleupon.com
+badge.stumbleupon.com
+platform.stumbleupon.com
+api.stumbleupon.com
+static.stumbleupon.com
+cdn.stumbleupon.com
+team.stumbleupon.com
+member.stumbleupon.com
+app.stumbleupon.com
+	
+# Telegram
+# -------------------------------------------
+telegram.org
+web.telegram.org
+aurora.web.telegram.org
+aurora-1.web.telegram.org
+flora.web.telegram.org
+flora-1.web.telegram.org
+pluto-1.web.telegram.org
+venus-1.web.telegram.org
+vesta-1.web.telegram.org
+t.me
+telegram.me
+
+# Tumblr
+# -------------------------------------------
+assets.tumblr.com
+platform.tumblr.com
+px.srvcs.tumblr.com
+secure.assets.tumblr.com
+static.tumblr.com
+tumblr.com
+www.tumblr.com
+
+# Twitter
+# -------------------------------------------
+abs.twimg.com
+ton.twimg.com
+twitter.com
+pbs.twimg.com
+mobile.twitter.com
+video.twimg.com
+api.twitter.com
+
+# Viber
+# -------------------------------------------
+stickers.viber.com
+vibes.viber.com
+aloha.viber.com
+helpme.viber.com
+update.viber.com
+market.viber.com
+account.viber.com
+config.viber.com
+share.viber.com
+secure.viber.com
+invite.viber.com
+chats.viber.com
+media.viber.com
+dl-media.viber.com
+apps.viber.com
+stickers-search.viber.com
+ptt.viber.com
+discover.viber.com
+static.viber.com
+viberout-lp.viber.com
+language.viber.com
+support.viber.com
+download.viber.com
+chatapi.viber.com
+api.viber.com
+live.viber.com
+rates.viber.com
+group-vb.cdn.viber.com
+media.api.aws.viber.com
+info.viber.com
+pg.cdn.viber.com
+csr.integration.viber.com
+admin.integration.viber.com
+wallet.viber.com
+share.cdn.viber.com
+guides.viber.com
+unv.integration.viber.com
+aloha-proxy-ir.aws.viber.com
+partners-office.viber.com
+activate.cdn.viber.com
+media.cdn.viber.com
+media-direct.cdn.viber.com
+fb.viber.com
+media.api.eu.aws.viber.com
+partners-office.integration.viber.com
+partners.integration.viber.com
+live.integration.viber.com
+viberout-calls.staging.viber.com
+market.api.staging.viber.com
+market.admin.staging.viber.com
+credit-account.staging.viber.com
+market-api.staging.viber.com
+www-wp.viber.com
+invite.integration.viber.com
+static.integration.viber.com
+share.cdn.integration.viber.com
+pg.cdn.integration.viber.com
+
+# Wechat
+# -------------------------------------------
+wechat.com
+www.wechat.com
+web.wechat.com
+admin.wechat.com
+help.wechat.com
+blog.wechat.com
+support.wechat.com
+ipick1.wechat.com
+imgcache.wechat.com
+voice.wechat.com
+ns1.wechat.com
+ns3.wechat.com
+ns2.wechat.com
+ns4.wechat.com
+m.wechat.com
+dev.wechat.com
+open.wechat.com
+u.wechat.com
+pay.wechat.com
+tips.wechat.com
+webgrab.wechat.com
+web1.wechat.com
+games.wechat.com
+mojime.wechat.com
+ptlogin2.wechat.com
+app.wechat.com
+web2.wechat.com
+camera.wechat.com
+apply.wechat.com
+act.wechat.com
+tiasdk.app.wechat.com
+login.wechat.com
+img.wechat.com
+file.wechat.com
+video.wechat.com
+developers.wechat.com
+file2.wechat.com
+api.wechat.com
+loginpoll.wechat.com
+go.wechat.com
+login.web.wechat.com
+login.web2.wechat.com
+translate.wechat.com
+res.music.wechat.com
+file1.wechat.com
+music.wechat.com
+life.wechat.com
+ui.ptlogin2.wechat.com
+check.ptlogin2.wechat.com
+captcha.wechat.com
+res.wechat.com
+
+# Weibo
+# -------------------------------------------
+vote.weibo.com
+m.weibo.com
+weibo.com
+tw.weibo.com
+api.tw.weibo.com
+www.weibo.com
+sina.com.tw
+ipopimg.sina.com.tw
+sinaimg.cn
+tva1.sinaimg.cn
+tva4.sinaimg.cn
+tvax1.sinaimg.cn
+tvax2.sinaimg.cn
+tvax3.sinaimg.cn
+tvax4.sinaimg.cn
+ww4.sinaimg.cn
+wx1.sinaimg.cn
+wx3.sinaimg.cn
+wx4.sinaimg.cn
+sinajs.cn
+img.t.sinajs.cn
+js1.t.sinajs.cn
+sinatw.com
+twimg.sinatw.com
+
+# Whatsapp
+# -------------------------------------------
+whatsapp.net
+e1.whatsapp.net
+e10.whatsapp.net
+e11.whatsapp.net
+e12.whatsapp.net
+e13.whatsapp.net
+e14.whatsapp.net
+e15.whatsapp.net
+e16.whatsapp.net
+e2.whatsapp.net
+e3.whatsapp.net
+e4.whatsapp.net
+e5.whatsapp.net
+e6.whatsapp.net
+e7.whatsapp.net
+e8.whatsapp.net
+e9.whatsapp.net
+g.whatsapp.net
+www-cdn.whatsapp.net
