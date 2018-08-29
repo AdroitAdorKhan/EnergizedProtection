@@ -22,12 +22,12 @@
 # -------------------------------------------
 # Package: Energized Core Blacklist
 # Format: hosts
-# Version: 18.08.236
-# Release: 236
+# Version: 18.08.241
+# Release: 241
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 5780
+# Entries: 5778
 # Pack Code: EC0R3-P
-# Updated: Mon, 24 Aug 18 17:05:28
+# Updated: Mon, 29 Aug 18 20:05:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 
 # -------------------------------------------
@@ -4005,7 +4005,6 @@
 0.0.0.0 quantserve.com
 0.0.0.0 quantummetric.com
 0.0.0.0 quarterbean.com
-0.0.0.0 query.yahooapis.com
 0.0.0.0 questionmarket.com
 0.0.0.0 quicksandear.com
 0.0.0.0 quill.livefyre.com
@@ -5285,7 +5284,6 @@
 0.0.0.0 union.ucweb.com
 0.0.0.0 unionslot.lau1.uae.uc.cn
 0.0.0.0 unknowntray.com
-0.0.0.0 unpkg.com
 0.0.0.0 unrestern.info
 0.0.0.0 untidyquestion.com
 0.0.0.0 unusualtitle.com
