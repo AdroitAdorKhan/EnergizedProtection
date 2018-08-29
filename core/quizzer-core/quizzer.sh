@@ -122,7 +122,7 @@ do
   else
   echo "[+] Status: \033[1;92mActive.\033[0m"
   echo "$domain" >> $active
-  echo "$domain" >> $maina
+  echo "0.0.0.0 $domain" >> $maina
   fi
   
   # Defines the text file from which to read domain names
