@@ -1,5 +1,5 @@
 #    _____  _________  _____________  _______
-#   / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \
+#   / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \ 
 #  / _// ,  / _// , _/ (_ // /  / /_/ _// // /
 # /___/_/|_/___/_/|_|\___/___/ /___/___/____/
 #
@@ -21,12 +21,12 @@
 # -------------------------------------------
 # Package: Energized Normal Whitelist
 # Format: domains
-# Version: 18.08.236
-# Release: 236
+# Version: 18.08.242
+# Release: 242
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 1842
+# Entries: 2076
 # Pack Code: EWH173-A
-# Updated: Fri, 24 Aug 18 14:03:42
+# Updated: Thu, 30 Aug 18 11:15:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/whitelist
 # -------------------------------------------
 # E N E R G I Z E D  B E G I N S
@@ -86,6 +86,7 @@ adobe.com
 adollo.com
 adv.sec.miui.com
 advanceautoparts.com
+adwords.google.com
 afterrape.net
 ajax.cloudflare.com
 ajax.googleapis.com
@@ -182,7 +183,6 @@ ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b-graph.facebook.com
-b.scorecardresearch.com
 baidu.com
 baltimore.cbslocal.com
 banggood.com
@@ -203,7 +203,23 @@ bharattimes.com
 bialystok.tvp.pl
 bigassporn.top
 biglistofwebsites.com
+bing.at
+bing.ch
+bing.co.uk
 bing.com
+bing.com.br
+bing.cz
+bing.es
+bing.fi
+bing.fr
+bing.gr
+bing.hu
+bing.ie
+bing.it
+bing.no
+bing.pl
+bing.ru
+bing.se
 bireysel-zîraat.com
 bit.ly
 bitbucket.org
@@ -231,6 +247,7 @@ bootbarn.com
 boston.cbslocal.com
 bostonglobe.com
 boxrec.com
+brakrock.be
 brands.medium.com
 brightcove.net
 brooksbrothers.com
@@ -252,6 +269,7 @@ c1.microsoft.com
 cafemom.com
 calendar.google.com
 cbsistatic.com
+cda.pl
 cdc.gov
 cdn-audio-1.medium.com
 cdn-images-1.medium.com
@@ -274,7 +292,6 @@ cdn.livechatinc.com
 cdn.medium.com
 cdn.mplxtms.com
 cdn.onesignal.com
-cdn.optimizely.com
 cdn.perfdrive.com
 cdn.ravenjs.com
 cdn.rawgit.com
@@ -314,6 +331,7 @@ chaturbate.com
 chicago.cbslocal.com
 chocolatey.org
 choices.truste.com
+chomikuj.pl
 chrome.google.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
@@ -341,6 +359,7 @@ cnet2.cbsistatic.com
 cnet3.cbsistatic.com
 cnet4.cbsistatic.com
 cnn.com
+code.google.com
 codeanywhere.com
 coinbase.com
 collateral.medium.com
@@ -350,6 +369,7 @@ community.spiceworks.com
 completion.amazon.co.uk
 computer.howstuffworks.com
 conduit.mailchimpapp.com
+confib.ifmo.ru
 connect.googleforwork.com
 connect.soundcloud.com
 connectivitycheck.gstatic.com
@@ -362,6 +382,7 @@ costco.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 cracked.com
+cracovia.pl
 crateandbarrel.com
 creative.ak.fbcdn.net
 crisp.chat
@@ -480,6 +501,7 @@ everydayhealth.com
 ew.com
 example.com
 example.org
+express.co.uk
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
@@ -513,6 +535,7 @@ feodotracker.abuse.ch
 filament.io
 files.overclock.net
 filmweb.pl
+filmyhd.net
 filson.com
 filters.adtidy.org
 finance.yahoo.com
@@ -553,6 +576,7 @@ frontgate.com
 frys.com
 fthmb.tqn.com
 ftp.chocolatey.org
+ftp.de.debian.org
 fuck55.net
 funnymp4.net
 funnyordie.com
@@ -588,22 +612,211 @@ gizmodo.com.au
 gleam.io
 glyph.medium.com
 gmail.com
+gmail.google.com
 go.microsoft.com
 godaddy.com
 gofucker.com
 golfgalaxy.com
 goo.gl
 google-analytics.com
+google.ac
+google.ad
+google.ae
+google.al
+google.am
+google.as
+google.at
+google.az
+google.ba
+google.be
+google.bf
+google.bg
+google.bi
+google.bj
+google.bs
+google.bt
+google.by
+google.ca
+google.cat
+google.cd
+google.cf
+google.cg
+google.ch
+google.ci
+google.cl
+google.cm
+google.cn
+google.co.ao
+google.co.bw
+google.co.ck
+google.co.cr
+google.co.hu
+google.co.id
+google.co.il
 google.co.in
+google.co.je
 google.co.jp
+google.co.ke
+google.co.kr
+google.co.ls
+google.co.ma
+google.co.mz
+google.co.nz
+google.co.th
+google.co.tz
+google.co.ug
 google.co.uk
+google.co.uz
+google.co.ve
+google.co.vi
+google.co.za
+google.co.zm
+google.co.zw
 google.com
+google.com.af
+google.com.ag
+google.com.ai
+google.com.ar
+google.com.au
 google.com.bd
+google.com.bh
+google.com.bn
+google.com.bo
+google.com.br
+google.com.bz
+google.com.co
+google.com.cu
+google.com.cy
+google.com.do
+google.com.ec
+google.com.eg
+google.com.et
+google.com.fj
+google.com.gh
+google.com.gi
+google.com.gr
+google.com.gt
 google.com.hk
+google.com.jm
+google.com.kh
+google.com.kw
+google.com.lb
+google.com.ly
+google.com.mm
+google.com.mt
+google.com.mx
+google.com.my
+google.com.na
+google.com.nf
+google.com.ng
+google.com.ni
+google.com.np
+google.com.om
+google.com.pa
+google.com.pe
+google.com.pg
+google.com.ph
+google.com.pk
+google.com.pr
+google.com.py
+google.com.qa
+google.com.sa
+google.com.sb
+google.com.sg
+google.com.sl
+google.com.sv
+google.com.tj
+google.com.tr
+google.com.tw
+google.com.ua
+google.com.uy
+google.com.vc
+google.com.vn
+google.cv
+google.cz
 google.de
+google.dj
+google.dk
+google.dm
+google.dz
+google.ee
+google.es
+google.fi
+google.fm
 google.fr
+google.ga
+google.ge
+google.gg
+google.gl
+google.gm
+google.gp
+google.gr
+google.gy
+google.hn
+google.hr
+google.ht
+google.hu
+google.ie
+google.im
+google.iq
+google.is
 google.it
+google.je
+google.jo
+google.kg
+google.ki
+google.kz
+google.la
+google.li
+google.lk
+google.lt
+google.lu
+google.lv
+google.md
+google.me
+google.mg
+google.mk
+google.ml
+google.mn
+google.ms
+google.mu
+google.mv
+google.mw
+google.ne
+google.nl
+google.no
+google.nr
+google.nu
+google.pl
+google.pn
+google.ps
+google.pt
+google.ro
+google.rs
 google.ru
+google.rw
+google.sc
+google.se
+google.sh
+google.si
+google.sk
+google.sm
+google.sn
+google.so
+google.sr
+google.st
+google.td
+google.tg
+google.tk
+google.tl
+google.tm
+google.tn
+google.to
+google.tt
+google.uz
+google.vg
+google.vu
+google.ws
 googleapis.com
 googlesyndication.com
 googleusercontent.com
@@ -683,6 +896,7 @@ icloud.com
 id.google.co.in
 id.google.com
 id.sonyentertainmentnetwork.com
+ifmo.ru
 ikea.com
 image.elephantjournal.com
 image.ibb.co
@@ -738,6 +952,7 @@ jd.com
 jdownloader.org
 jobs.lifehacker.com
 jobs.medium.com
+joemonster.org
 joewein.net
 join.slack.com
 jquery.com
@@ -760,6 +975,7 @@ kissasian.ch
 kissasian.sh
 kmart.com
 kohls.com
+komputerswiat.pl
 kotaku.com
 krakow.tvp.pl
 kroger.com
@@ -788,6 +1004,8 @@ licensing.xboxlive.com
 lids.com
 lifehack.org
 lifehacker.com
+light.ifmo.ru
+limtu.ifmo.ru
 link.theplatform.com
 linkbucks.com
 linkedin.com
@@ -981,6 +1199,7 @@ minnesota.cbslocal.com
 mirror.cedia.org.ec
 mirror.co.uk
 mirror1.malwaredomains.com
+mistrzowie.org
 mix1065fm.cbslocal.com
 mobile.bet365.com
 motherless.com
@@ -995,6 +1214,7 @@ msg.edit.yahoo.com
 msn.com
 mstatic.spankbang.com
 mtalk.google.com
+multiup.org
 musiciansfriend.com
 mva.microsoft.com
 mvm.snapchat.com
@@ -1014,6 +1234,8 @@ netdna.bootstrapcdn.com
 netflix.com
 nevid.us
 newjobs.com
+news.ebc.net.tw
+news.ycombinator.com
 newsday.com
 newsletters.nationalgeographic.com
 newsroom.fb.com
@@ -1072,6 +1294,7 @@ onet.pl
 onhax.me
 onhax.net
 onlyindianporn.net
+open.fm
 openapi.samsung.com
 openlibrary.org
 openload.co
@@ -1175,6 +1398,7 @@ qa.sockets.stackexchange.com
 qph.ec.quoracdn.net
 qq.com
 query.yahooapis.com
+radiostacja.pl
 rakuten.co.jp
 ramp.purch.com
 ransomwaretracker.abuse.ch
@@ -1247,6 +1471,7 @@ safelinking.net
 sambaporno.xyz
 samsung.com
 sanfrancisco.cbslocal.com
+satkurier.pl
 science.howstuffworks.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent-yyz1-1.xx.fbcdn.net
@@ -1272,6 +1497,7 @@ secure.soundcloud.com
 secure.surveymonkey.com
 secure.techrepublic.com
 securemecca.com
+security.debian.org
 senate.gov
 sendspace.com
 serverfault.com
@@ -1338,6 +1564,7 @@ stanev.org
 star.c10r.facebook.com
 star.facebook.com
 starbucks.com
+startpage.com
 state.gov
 static-hw.xvideos.com
 static.appsumo.com
@@ -1397,6 +1624,7 @@ the.earth.li
 thebrick.com
 thechive.com
 thedailybeast.com
+thefreethoughtproject.com
 theguardian.com
 thehill.com
 themoviedb.com
@@ -1433,6 +1661,7 @@ trannytube.net
 translate.google.com
 travel.latimes.com
 truste.com
+tuba.fm
 tube188.com
 tube2017.com
 tubefree.com
@@ -1829,6 +2058,7 @@ www.youjizz.com
 www.youporn.com
 www.youtube-nocookie.com
 www.zippyshare.com
+wykop.pl
 x.kinja-static.com
 xbox.com
 xbox.ipv6.microsoft.com
@@ -1880,5 +2110,6 @@ zoso.ro
 # -------------------------------------------
 # E N E R G I Z E D  E N D S
 # -------------------------------------------
+
 #               Stay Energized!
 #                   ------
