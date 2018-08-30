@@ -24,12 +24,12 @@
 # Package: Energized Core Blacklist
 # Desc: Core Energized List.
 # Format: hosts
-# Version: 18.08.241
-# Release: 241
-# Entries: 6226
+# Version: 18.08.242
+# Release: 242
+# Entries: 6299
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
-# Updated: Thu, 30 Aug 18 00:07:34
+# Updated: Thu, 30 Aug 18 14:24:40
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # Mirror: https://nayemador.com/energized/core
 # -------------------------------------------
@@ -78,6 +78,7 @@ ff02::3 ip6-allhosts
 # E N E R G I Z E D  B E G I N S
 # -------------------------------------------
 
+0.0.0.0 0.0.0.0
 0.0.0.0 023hysj.com
 0.0.0.0 0latfee.ero-advertising.com
 0.0.0.0 10.video-ak.cdn.spotify.com
@@ -228,6 +229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ac3.msn.com
 0.0.0.0 academy-test.addthis.com
 0.0.0.0 acceptable.a-ads.com
+0.0.0.0 access.open.uc.cn
 0.0.0.0 accessa.club
 0.0.0.0 account-settings.appsflyer.com
 0.0.0.0 account.umeng.com
@@ -329,6 +331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
 0.0.0.0 ad.nz.doubleclick.net
+0.0.0.0 ad.open.uc.cn
 0.0.0.0 ad.pandora.tv
 0.0.0.0 ad.period-calendar.com
 0.0.0.0 ad.pl.doubleclick.net
@@ -403,7 +406,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 adad.ir
 0.0.0.0 adadvisor.net
 0.0.0.0 adapi.kikakeyboard.com
+0.0.0.0 adash-c.ut.taobao.com
+0.0.0.0 adash.m.taobao.com
+0.0.0.0 adash.ut.taobao.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashww.ut.taobao.com
+0.0.0.0 adashx.m.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 adashxbeta.ut.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
 0.0.0.0 adback.adform.net
 0.0.0.0 adback.tango.me
 0.0.0.0 adbetnet.advertserve.com
@@ -816,6 +830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.hasmobi.net
+0.0.0.0 adx.snipermob.com
 0.0.0.0 adx2.adform.net
 0.0.0.0 adx3.adform.net
 0.0.0.0 adyz.net
@@ -853,6 +868,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ai-gb.mgid.com
 0.0.0.0 ai.addthis.com
 0.0.0.0 ai.goodsblock.mgid.com
+0.0.0.0 ai.m.taobao.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 aim.pubmatic.com
 0.0.0.0 airpush.com
@@ -869,6 +885,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 alb.reddit.com
 0.0.0.0 alerta.cxense.com
 0.0.0.0 alerts.flurry.com
+0.0.0.0 aliapp.open.uc.cn
+0.0.0.0 aligames.open.uc.cn
+0.0.0.0 aligamesnode.open.uc.cn
 0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 allcoins.pw
 0.0.0.0 alliance4media.com
@@ -1148,6 +1167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.lbl17.prd.nyc2.areametrics.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.livefyre.com
+0.0.0.0 api.m.taobao.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobadvent.com
@@ -1237,6 +1257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.tads.techtunes.com.bd
 0.0.0.0 app.uc.cn
 0.0.0.0 app.whappodo.com
+0.0.0.0 app0.ucfly.com
 0.0.0.0 appads.com
 0.0.0.0 appanalytics.io
 0.0.0.0 appared.online
@@ -1538,6 +1559,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bbs.game.xiaomi.com
 0.0.0.0 bbs.uc.cn
+0.0.0.0 bbs.ucfly.com
 0.0.0.0 bbs.umeng.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -1705,6 +1727,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bwlkup.alphonso.tv
 0.0.0.0 bwnjijl7w.com
 0.0.0.0 byteoversea.com
+0.0.0.0 c-adash.ut.taobao.com
 0.0.0.0 c-cn.w.inmobi.com
 0.0.0.0 c-vip-lb1.sc2.adsymptotic.com
 0.0.0.0 c.admob.com
@@ -1793,6 +1816,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cclk.co
 0.0.0.0 ccs.ucweb.com
 0.0.0.0 cd.lenzmx.com
+0.0.0.0 cd3.cdn.ucweb.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn-adn.smardroid.com
@@ -1865,6 +1889,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.onedigitalad.com
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.pubmatic.com
@@ -2068,10 +2093,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 config2.mparticle.com
 0.0.0.0 connect.appsflyer.com
 0.0.0.0 connect.decknetwork.net
+0.0.0.0 connect.open.uc.cn
 0.0.0.0 connect.rom.miui.com
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciousdirt.com
+0.0.0.0 console.uc123.com
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 contact.mixpanel.com
 0.0.0.0 content-ad.net
@@ -2107,6 +2134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cox.adswizz.com
 0.0.0.0 cox.deliveryengine.adswizz.com
 0.0.0.0 cp.adform.net
+0.0.0.0 cp.open.uc.cn
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpactions.com
@@ -2425,6 +2453,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
+0.0.0.0 doc.game.open.uc.cn
 0.0.0.0 docj27ko03fnu.cloudfront.net
 0.0.0.0 dock.inmobi.com
 0.0.0.0 docksalmon.com
@@ -2480,6 +2509,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsp.howdoesin.net
 0.0.0.0 dsp.mgid.com
 0.0.0.0 dsp.mobadvent.com
+0.0.0.0 dsp.snipermob.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dt.ushareit.com
 0.0.0.0 dtac.tapad.com
@@ -2564,6 +2594,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
 0.0.0.0 en.support.appsflyer.com
+0.0.0.0 en.uc123.com
 0.0.0.0 enatimedia.com
 0.0.0.0 endurableshop.com
 0.0.0.0 engage.bidsystem.com
@@ -2825,7 +2856,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 gallery.pandora.xiaomi.com
 0.0.0.0 gam.adnxs.com
 0.0.0.0 gamblerush.com
+0.0.0.0 game.open.uc.cn
 0.0.0.0 game.xiaomi.com
+0.0.0.0 gamecp.open.uc.cn
+0.0.0.0 gamenode.open.uc.cn
 0.0.0.0 games.mgid.com
 0.0.0.0 games.myfastappz.com
 0.0.0.0 gamez4us.com
@@ -2867,6 +2901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gigya.com
 0.0.0.0 github.umeng.com
 0.0.0.0 gj.applog.uc.cn
+0.0.0.0 gj.applog.ucdns.uc.cn
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
@@ -2925,6 +2960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleweblight.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
+0.0.0.0 gouwu.uc123.com
 0.0.0.0 gowadogo.com
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 gp-lottery.wsq.umeng.com
@@ -2961,6 +2997,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 gw.flurry.com
 0.0.0.0 gwallet.com
 0.0.0.0 gynax.com
+0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4id.ut.taobao.com
+0.0.0.0 h-adashx4sg.ut.taobao.com
+0.0.0.0 h-adashx4yt.ut.taobao.com
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 h.atdmt.com
 0.0.0.0 h.dlx.addthis.com
@@ -3090,6 +3131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 id.google.de
 0.0.0.0 id.headline.uodoo.com
 0.0.0.0 id.uc.cn
+0.0.0.0 id.uc123.com
 0.0.0.0 id.ucnews.ucweb.com
 0.0.0.0 id.ucweb.com
 0.0.0.0 id1.cn
@@ -3108,6 +3150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 iflow-in.napi.ucweb.com
 0.0.0.0 igame.xiaomi.com
 0.0.0.0 igpiphone.gameloft.com
 0.0.0.0 illustriousoatmeal.com
@@ -3148,11 +3191,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.fam-ad.com
 0.0.0.0 img.mgid.com
 0.0.0.0 img.mp.ucweb.com
+0.0.0.0 img.open.uc.cn
 0.0.0.0 img.snaptube.click
 0.0.0.0 img.transcoder.opera.com
 0.0.0.0 img.ucweb.com
 0.0.0.0 img.uodoo.com
 0.0.0.0 img.ushareit.com
+0.0.0.0 img0.u.ucfly.com
 0.0.0.0 img1.nend.net
 0.0.0.0 imgg-cdn.mgid.com
 0.0.0.0 imgg.mgid.com
@@ -3182,7 +3227,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 in.iflowh5.ucweb.com
+0.0.0.0 in.napi.ucweb.com
 0.0.0.0 in.treasuredata.com
+0.0.0.0 in.uc123.com
 0.0.0.0 in.wzrkt.com
 0.0.0.0 in8.zog.link
 0.0.0.0 inclk.com
@@ -3387,6 +3434,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 l.inmobi.com
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l3op.info
+0.0.0.0 la-api.open.uc.cn
 0.0.0.0 lab.atdmt.com
 0.0.0.0 landing-review.admin.mgid.com
 0.0.0.0 landingtest.mixpanel.com
@@ -3447,6 +3495,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ll.atdmt.com
 0.0.0.0 llpstream.atdmt.com
 0.0.0.0 loadus.exelator.com
+0.0.0.0 local
 0.0.0.0 localytics.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockit.ushareit.com
@@ -3476,6 +3525,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.flurry.com
 0.0.0.0 login.game.xiaomi.com
+0.0.0.0 login.uc123.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logs.api.vungle.com
@@ -3504,6 +3554,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lx2k6.meganotify.com
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 lxqcgj.com
+0.0.0.0 m-adash.ut.taobao.com
 0.0.0.0 m-dev.addthis.com
 0.0.0.0 m-sc2.adsymptotic.com
 0.0.0.0 m-shes.ru
@@ -3527,6 +3578,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.servebom.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tq1.uodoo.com
+0.0.0.0 m.uc123.com
 0.0.0.0 m.umeng.com
 0.0.0.0 m.uodoo.com
 0.0.0.0 m.vpadn.com
@@ -3553,6 +3605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.adcolony.com
 0.0.0.0 mail.cxense.com
 0.0.0.0 mail.exoclick.com
+0.0.0.0 mail.ucfly.com
 0.0.0.0 mail.uodoo.com
 0.0.0.0 mail.ushareit.com
 0.0.0.0 mail1.adform.net
@@ -4058,6 +4111,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.appbrain.com
 0.0.0.0 p.avazunativeads.com
 0.0.0.0 p.dlx.addthis.com
+0.0.0.0 p.open.uc.cn
 0.0.0.0 p1.firrectly.top
 0.0.0.0 p1.vip.sc9.admob.com
 0.0.0.0 p1cluster.cxense.com
@@ -4217,6 +4271,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 poptm.com
 0.0.0.0 popunderz.com
 0.0.0.0 portal.ad4screen.com
+0.0.0.0 portal.ucgc.ucfly.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
@@ -4495,6 +4550,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.musical.ly
 0.0.0.0 rts.mobula.sdk.duapps.com
+0.0.0.0 ru.uc123.com
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 rulerabbit.com
@@ -4702,6 +4758,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 server.adform.net
 0.0.0.0 server.cpmstar.com
 0.0.0.0 service.face2trade.com
+0.0.0.0 service.open.uc.cn
 0.0.0.0 service.videoplaza.tv
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.addons.mozilla.org
@@ -4716,6 +4773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 setup.services.mozilla.com
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sextracker.com
+0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sftp.snapads.com
 0.0.0.0 sfzhd.top
 0.0.0.0 sg.mmstat.com
@@ -4943,6 +5001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.supersonicads.com
 0.0.0.0 static.tidiochat.com
 0.0.0.0 static.trafficjunky.net
+0.0.0.0 static.ucgc.ucfly.com
 0.0.0.0 static.umeng.com
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.youappi.com
@@ -5162,6 +5221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 test.e.ad.xiaomi.com
 0.0.0.0 test.howdoesin.net
 0.0.0.0 test.mobadvent.com
+0.0.0.0 test.open.uc.cn
 0.0.0.0 test.rtb.adsrvr.org
 0.0.0.0 test.zeus.ad.xiaomi.com
 0.0.0.0 test1-lax.adsrvr.org
@@ -5641,6 +5701,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 u-time.umeng.com
 0.0.0.0 u.scdn.co
 0.0.0.0 u.uc.cn
+0.0.0.0 u.uc123.com
+0.0.0.0 u.ucfly.com
+0.0.0.0 u1.uc123.com
+0.0.0.0 u1.ucfly.com
 0.0.0.0 u1hw38x0.com
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 uac-assets.cdn.inmobi.com
@@ -5652,6 +5716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uaswitcher.org
 0.0.0.0 ubdc2016.umeng.com
 0.0.0.0 ubdc2017.umeng.com
+0.0.0.0 uc.cdn.ucweb.com
 0.0.0.0 uc.cn
 0.0.0.0 uc.gre
 0.0.0.0 uc.ucweb.com
@@ -5662,6 +5727,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uccricket.napi.ucweb.com
 0.0.0.0 uccricket.ucweb.com
 0.0.0.0 ucdl.down.uc.cn
+0.0.0.0 ucfly.com
 0.0.0.0 ucintsec.ucweb.com
 0.0.0.0 ucip.uc.cn
 0.0.0.0 uclylhzwg.com
@@ -5873,6 +5939,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 wap-click.com
 0.0.0.0 wap.game.xiaomi.com
 0.0.0.0 wap.uc.cn
+0.0.0.0 wap.uc123.com
+0.0.0.0 wap.ucfly.com
 0.0.0.0 wap.ucweb.com
 0.0.0.0 wap3.ucweb.com
 0.0.0.0 wap4dollar.com
@@ -5895,6 +5963,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 wdc8.mediation.nexage.com
 0.0.0.0 wdc8.nexage.com
 0.0.0.0 wdig.vo.llnwd.net
+0.0.0.0 wdjaccount.open.uc.cn
+0.0.0.0 wdjaccountapi.open.uc.cn
 0.0.0.0 wdjbxcdriyjoeu.com
 0.0.0.0 wea.uc.cn
 0.0.0.0 weather.pandora.xiaomi.com
@@ -6179,6 +6249,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tvpassport.com
 0.0.0.0 www.uc.cn
 0.0.0.0 www.uc.ucdns.uc.cn
+0.0.0.0 www.uc123.com
+0.0.0.0 www.ucfly.com
 0.0.0.0 www.umeng.com
 0.0.0.0 www.uodoo.com
 0.0.0.0 www.urldelivery.com
@@ -6216,6 +6288,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xdrig.com
 0.0.0.0 xebadu.com
 0.0.0.0 xiaomiir.yaokantv.com
+0.0.0.0 xiaoshuo.uc123.com
 0.0.0.0 xiazai.xiaomi.com
 0.0.0.0 ximad.com
 0.0.0.0 xiti.com
