@@ -21,12 +21,12 @@
 # -------------------------------------------
 # Package: Energized Normal Whitelist
 # Format: domains
-# Version: 18.08.242
-# Release: 242
+# Version: 18.09.249
+# Release: 249
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 2076
+# Entries: 2079
 # Pack Code: EWH173-A
-# Updated: Thu, 30 Aug 18 11:15:06
+# Updated: Fri, 07 Sep 18 02:43:42
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/whitelist
 # -------------------------------------------
 # E N E R G I Z E D  B E G I N S
@@ -44,6 +44,7 @@
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
 2.gravatar.com
+206.189.252.21
 3-edge-chat.facebook.com
 360.cn
 3p.ampproject.net
@@ -263,7 +264,6 @@ buzzfeed.com
 bwp.techrepublic.com
 bydgoszcz.tvp.pl
 c.microsoft.com
-c.msn.com
 c.s-microsoft.com
 c1.microsoft.com
 cafemom.com
@@ -291,6 +291,7 @@ cdn.jsdelivr.net
 cdn.livechatinc.com
 cdn.medium.com
 cdn.mplxtms.com
+cdn.onenote.net
 cdn.onesignal.com
 cdn.perfdrive.com
 cdn.ravenjs.com
@@ -336,7 +337,6 @@ chrome.google.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
-clc.stackoverflow.com
 clearload.bid
 client.dropbox.com
 client.hip.live.com
@@ -408,6 +408,7 @@ d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
 data.iana.org
 dataplicity.com
+db.local.clamav.net
 def-vef.xboxlive.com
 delivery.vidible.tv
 dell.com
@@ -479,9 +480,9 @@ ecn.dev.virtualearth.net
 edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
-edge.quantserve.com
 edgesuite.net
 eds.xboxlive.com
+eff.org
 elephantjournal.com
 elkjop.no
 email-assets.getpocket.com
@@ -489,6 +490,7 @@ email.appsumo.com
 embed.spotify.com
 en.bab.la
 en.w3schools.com
+encrypted-tbn0.gstatic.com
 enews.techrepublic.com
 entitlement.auth.adobe.com
 eonline.com
@@ -554,6 +556,7 @@ forcedsex.org
 fortune.com
 forum.avast.com
 forum.dobreprogramy.pl
+forum.synology.com
 forum.xda-developers.com
 forums.appleinsider.com
 forums.geforce.com
@@ -577,6 +580,7 @@ frys.com
 fthmb.tqn.com
 ftp.chocolatey.org
 ftp.de.debian.org
+ftp.heanet.ie
 fuck55.net
 funnymp4.net
 funnyordie.com
@@ -618,7 +622,6 @@ godaddy.com
 gofucker.com
 golfgalaxy.com
 goo.gl
-google-analytics.com
 google.ac
 google.ad
 google.ae
@@ -818,7 +821,6 @@ google.vg
 google.vu
 google.ws
 googleapis.com
-googlesyndication.com
 googleusercontent.com
 googlevideo.com
 gq.com
@@ -1329,6 +1331,7 @@ philadelphia.cbslocal.com
 phishing.mailscanner.info
 phobos.apple.com
 phonearena.com
+pi-hole.net
 pic.pic-img.com
 pic.twitter.com
 pilkanozna.pl
@@ -1336,7 +1339,6 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 piwik.org
-pixel.facebook.com
 pixel.quantserve.com
 placehold.it
 placeholdit.imgix.net
@@ -1451,7 +1453,6 @@ s.yimg.com
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
-s0.2mdn.net
 s0.wp.com
 s1.symcb.com
 s1.wp.com
@@ -1862,6 +1863,7 @@ www.dw.techrepublic.com
 www.ebay.co.uk
 www.ebay.fr
 www.ebay.it
+www.eff.org
 www.elephantjournal.com
 www.en.w3schools.com
 www.enews.techrepublic.com
@@ -2059,6 +2061,7 @@ www.youporn.com
 www.youtube-nocookie.com
 www.zippyshare.com
 wykop.pl
+wyspagier.pl
 x.kinja-static.com
 xbox.com
 xbox.ipv6.microsoft.com

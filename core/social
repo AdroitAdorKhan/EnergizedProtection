@@ -22,12 +22,12 @@
 # -------------------------------------------
 # Package: Energized Core Social Blacklist
 # Format: hosts
-# Version: 18.08.232
-# Release: 232
+# Version: 18.09.249
+# Release: 249
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 3793
+# Entries: 3794
 # Pack Code: E50C14LC0R3-P
-# Updated: Mon, 20 Aug 18 14:11:28
+# Updated: Mon, 07 Sep 18 2:42:43
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/social
 
 # -------------------------------------------
@@ -2087,6 +2087,7 @@
 0.0.0.0 media-sof1-1.cdn.whatsapp.net
 0.0.0.0 media-vie1-1.cdn.whatsapp.net
 0.0.0.0 media-waw1-1.cdn.whatsapp.net
+0.0.0.0 media-yyz1-1-cdn.whatsapp.net
 0.0.0.0 media.api.aws.viber.com
 0.0.0.0 media.api.eu.aws.viber.com
 0.0.0.0 media.api.viber.com
