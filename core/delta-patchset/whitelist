@@ -1,4 +1,4 @@
-# Delta Patchset: Whitelist - 5
+# Delta Patchset: Whitelist - 6
 no-intro.dlgsoftware.net
 samizdat.nytimes.com
 myaccount.nytimes.com
@@ -26,8 +26,17 @@ account.api.here.com
 js.api.here.com
 img.techwallacdn.com
 telegra.ph
-WWW.telegra.ph
+www.telegra.ph
 c.disquscdn.com
 disquscdn.com
 www.disquscdn.com
 platform.instagram.com
+lh3.ggpht.com
+maxcdn.bootstrapcdn.com
+bootstrapcdn.com
+www.bootstrapcdn.com
+cdn.discordapp.com
+dicordapp.com
+www.discordapp.com
+href.li
+www.href.li
