@@ -21,12 +21,12 @@
 # -------------------------------------------
 # Package: Energized Porn Whitelist
 # Format: domains
-# Version: 18.09.249
-# Release: 249
+# Version: 18.09.257
+# Release: 257
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 1913
+# Entries: 1914
 # Pack Code: EWH173-P
-# Updated: Fri, 07 Sep 18 02:43:53
+# Updated: Fri, 14 Sep 18 01:21:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/whitelist-porn
 # -------------------------------------------
 # E N E R G I Z E D  B E G I N S
@@ -229,6 +229,7 @@ blog.appsumo.com
 blog.hubspot.com
 blog.medium.com
 blog.techrepublic.com
+blogger.com
 blogs.discovermagazine.com
 blogs.techrepublic.com
 blogspot.com

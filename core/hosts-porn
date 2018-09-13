@@ -22,12 +22,12 @@
 # -------------------------------------------
 # Package: Energized Porn Core Blacklist
 # Format: hosts
-# Version: 18.08.241
-# Release: 232
+# Version: 18.09.257
+# Release: 257
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 144
+# Entries: 145
 # Pack Code: EP0R9C0R3-P
-# Updated: Mon, 29 Aug 18 19:55:28
+# Updated: Fri, 14 Sep 18 1:21:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
 
 # -------------------------------------------
@@ -97,6 +97,7 @@
 0.0.0.0 porndabster.com
 0.0.0.0 pornfuror.com
 0.0.0.0 pornhubselect.com
+0.0.0.0 pornhubpremium.com
 0.0.0.0 pornminded.com
 0.0.0.0 pornmummy.com
 0.0.0.0 pornofkings.com
