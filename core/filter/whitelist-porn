@@ -21,12 +21,12 @@
 # -------------------------------------------
 # Package: Energized Porn Whitelist
 # Format: domains
-# Version: 18.09.257
-# Release: 257
+# Version: 18.09.260
+# Release: 260
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 1914
+# Entries: 1917
 # Pack Code: EWH173-P
-# Updated: Fri, 14 Sep 18 01:21:18
+# Updated: Mon, 17 Sep 18 01:21:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/whitelist-porn
 # -------------------------------------------
 # E N E R G I Z E D  B E G I N S
@@ -353,6 +353,7 @@ codeanywhere.com
 coinbase.com
 collateral.medium.com
 collegehumor.com
+collider.com 
 community.spiceworks.com
 completion.amazon.co.uk
 computer.howstuffworks.com
@@ -892,6 +893,7 @@ imgur.com
 inc.com
 indeed.com
 indiatimes.com
+indiewire.com
 instagram.com
 instalog-prod.sc-prod.net
 instantmessaging-pa.googleapis.com
@@ -1135,6 +1137,7 @@ messenger.yahoo.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
+metacritic.com
 metrics.plex.tv
 mi.com
 miami.cbslocal.com
@@ -1730,6 +1733,7 @@ www.cloudflare.com
 www.cms.techrepublic.com
 www.collateral.medium.com
 www.collegehumor.com
+www.collider.com 
 www.computer.howstuffworks.com
 www.consent.truste.com
 www.cracked.com
@@ -1792,6 +1796,7 @@ www.ibtimes.co.uk
 www.ibtimes.com
 www.icloud.com
 www.inc.com
+www.indiewire.com
 www.investopedia.com
 www.ipinfo.io
 www.irishtimes.com
@@ -1817,6 +1822,7 @@ www.meetu.ps
 www.members.medium.com
 www.mensfitness.com
 www.menshealth.com
+www.metacritic.com
 www.mi.com
 www.microsoft.com
 www.mirror.co.uk
