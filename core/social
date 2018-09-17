@@ -22,12 +22,12 @@
 # -------------------------------------------
 # Package: Energized Core Social Blacklist
 # Format: hosts
-# Version: 18.09.249
-# Release: 249
+# Version: 18.09.260
+# Release: 260
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
-# Entries: 3794
+# Entries: 3797
 # Pack Code: E50C14LC0R3-P
-# Updated: Mon, 07 Sep 18 2:42:43
+# Updated: Mon, 17 Sep 18 4:42:43
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/social
 
 # -------------------------------------------
@@ -550,6 +550,7 @@
 0.0.0.0 asset.pinterest.com
 0.0.0.0 assets-aus2.snapfish.com
 0.0.0.0 assets-phl.snapfish.com
+0.0.0.0 assets.mastodon.social
 0.0.0.0 assets.periscope.tv
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.snapfish.com
@@ -1386,6 +1387,7 @@
 0.0.0.0 fileplatform.api.weibo.com
 0.0.0.0 files-edge.slack.com
 0.0.0.0 files-origin.slack.com
+0.0.0.0 files.mastodon.social
 0.0.0.0 files.meetup.com
 0.0.0.0 files.slack.com
 0.0.0.0 fimserve.myspace.com
@@ -2037,6 +2039,7 @@
 0.0.0.0 marketing-images.gotinder.com
 0.0.0.0 marketing.twitter.com
 0.0.0.0 masdk.3g.qq.com
+0.0.0.0 mastodon.social
 0.0.0.0 match.meetme.com
 0.0.0.0 matchmaker.meetup.com
 0.0.0.0 mayyb.cross.3g.qq.com
