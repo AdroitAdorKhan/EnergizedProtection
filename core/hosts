@@ -26,7 +26,7 @@
 # Format: hosts
 # Version: 18.09.264
 # Release: 264
-# Entries: 9542
+# Entries: 9545
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
 # Updated: Fri, 21 Sep 18 16:01:54
@@ -1251,6 +1251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.xn--mxtq1m
 0.0.0.0 adservice.google.xn--ngbrx
 0.0.0.0 adservice.google.xn--node
+0.0.0.0 adservice.tohsoft.com
 0.0.0.0 adservingsolutionsinc.adk2.co
 0.0.0.0 adservingsolutionsinc.adk2x.com
 0.0.0.0 adsever.cxad.cxense.com
@@ -6914,6 +6915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sionicmedia.com
 0.0.0.0 siovv.voluumtrk.com
 0.0.0.0 site.adform.com
+0.0.0.0 site.flashx.cc
 0.0.0.0 sitecdn.tvpage.com
 0.0.0.0 sitelock.com
 0.0.0.0 sitemaji.com
@@ -7560,6 +7562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 todigroup.adk2.co
 0.0.0.0 toexten.com
+0.0.0.0 tohapp.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tokfb.adsrvr.org
 0.0.0.0 tokvideo.adsrvr.org
