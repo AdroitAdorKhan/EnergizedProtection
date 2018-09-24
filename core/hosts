@@ -4,57 +4,38 @@
 # /___/_/|_/___/_/|_|\___/___/ /___/___/____/
 #
 #    P   R   O   T   E   C   T   I   O   N
-# -------------------------------------------
+# --------------------------------------------
 #          ad.porn.malware blocking.
 #                   ------
 #      Merged collection of hosts from
 #             reputable sources.
-# -------------------------------------------
-#          nayemador.com/energized/
+# --------------------------------------------
+#               energized.pro
 #    github.com/EnergizedProtection/block
-# -------------------------------------------
-
+# --------------------------------------------
+#
 #        Let's make an annoyance free
 #      better open internet. Altogether.
 #                  ------
-
-# -------------------------------------------
+#
+# --------------------------------------------
 # P A C K  D E T A I L S
-# -------------------------------------------
-# Package: Energized Core Blacklist
-# Desc: Core Energized List.
+# --------------------------------------------
+# Package: Energized Core Hosts
+# Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.09.264
-# Release: 264
-# Entries: 9545
+# Version: 18.09.268
+# Release: 268
+# Entries: 9,612
 # Pack Code: EC0R3-P
-# License: CC BY-NC-SA 4.0, https://nayemador.com/energized/license
-# Updated: Fri, 21 Sep 18 16:01:54
+# License: CC BY-NC-SA 4.0, https://energized.pro/license
+# Updated: Tue, 25 Sep 18 01:45:39
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
-# -------------------------------------------
-
-# -------------------------------------------
-# L O C A L  H O S T
-# -------------------------------------------
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-# -------------------------------------------
-
-# -------------------------------------------
+# --------------------------------------------
+#
+# --------------------------------------------
 # F E A T U R E S
-# -------------------------------------------
+# --------------------------------------------
 # _hosts based: based on Hosts file.
 # _any device: compatible with all devices.
 # _blockings: strictly blocks web annoyances.
@@ -63,20 +44,12 @@ ff02::3 ip6-allhosts
 # _privacy: increases privacy.
 # _saves expense: decreases data consumption.
 # _clean: no extra abracadabra!
-# -------------------------------------------
-
-# -------------------------------------------
-# T E A M  B O L T Z - meet the team
-# -------------------------------------------
-# @AdroitAdorKhan - Head Developer & Maintainer
-# @AvinashReddy3108 - Developer
-# @badmojr - Maintainer
-# -------------------------------------------
-
-# -------------------------------------------
+# --------------------------------------------
+#
+# --------------------------------------------
 # E N E R G I Z E D  B E G I N S
-# -------------------------------------------
-
+# --------------------------------------------
+0.0.0.0 0.0.0.0
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 023hysj.com
 0.0.0.0 0latfee.ero-advertising.com
@@ -115,6 +88,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 247pcsecurity.com
 0.0.0.0 247realmedia.com
 0.0.0.0 24x7mcafeesupportnumber.com
+0.0.0.0 255.255.255.255 broadcasthost
 0.0.0.0 26f396e0b71780f057be4d4af8ebe55b.com
 0.0.0.0 284419414.log.optimizely.com
 0.0.0.0 2912a.v.fwmrm.net
@@ -203,6 +177,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 9ata.ero-advertising.com
 0.0.0.0 9c.video-ak.cdn.spotify.com
 0.0.0.0 9pp.gulper.uodoo.com
+0.0.0.0 ::1 ip6-localhost
+0.0.0.0 ::1 ip6-loopback
+0.0.0.0 ::1 localhost
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-ads.com
 0.0.0.0 a-o.ninja
@@ -858,6 +835,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.exosrv.com
+0.0.0.0 ads.fap18.net
 0.0.0.0 ads.feedly.com
 0.0.0.0 ads.felinetech.net
 0.0.0.0 ads.flurry.com
@@ -1361,6 +1339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv.mxmcdn.net
 0.0.0.0 adv.presscommtech.com
 0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.zkmobi.com
 0.0.0.0 advadmin.strategy.it
 0.0.0.0 advantech.vo.llnwd.net
@@ -1477,6 +1456,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aj-gb.mgid.com
 0.0.0.0 ak-gb.mgid.com
 0.0.0.0 ak.goodsblock.mgid.com
+0.0.0.0 ak.icecyber.org
 0.0.0.0 ak0gsh40.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
@@ -1805,6 +1785,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.globalnews.uodoo.com
+0.0.0.0 api.hasoffers.com
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.hypertrack.com
 0.0.0.0 api.inmobi.com
@@ -2034,6 +2015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 asplexmedia.adk2x.com
 0.0.0.0 asrety.com
 0.0.0.0 asset1.sponsorpay.com
+0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.alphonso.tv
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.bttrack.com
@@ -2549,6 +2531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.mgid.com
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c.o0bc.com
+0.0.0.0 c.smartclick.net
 0.0.0.0 c.snnd.co
 0.0.0.0 c.statcounter.com
 0.0.0.0 c.tnkexchange.com
@@ -2562,6 +2545,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.nend.net
 0.0.0.0 c1.popads.net
+0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.video-ak.cdn.spotify.com
 0.0.0.0 c1sys.com
 0.0.0.0 c2-cn.w.inmobi.com
@@ -2734,6 +2718,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.pubmatic.com
 0.0.0.0 cdn.pubnative.net
+0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn.ruca.tech
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.smartnews-ads.com
@@ -2777,6 +2762,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdnallyouwantonline.innocraft.cloud
 0.0.0.0 cdnalp.adgear.com
+0.0.0.0 cdnapi.kaltura.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnaws.mobidea.com
 0.0.0.0 cdnjs.tvpage.com
@@ -2809,6 +2795,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cf.ushareit.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.flurry.com
+0.0.0.0 cfvod.kaltura.com
 0.0.0.0 cfzp1.voluumtrk.com
 0.0.0.0 ch1aqu.atdmt.com
 0.0.0.0 ch1v6.adfonic.net
@@ -3173,6 +3160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs126.wpc.edgecastcdn.net
 0.0.0.0 cs126.wpc.teliasoneracdn.net
 0.0.0.0 cs283.wpc.teliasoneracdn.net
+0.0.0.0 csi.gstatic.com
 0.0.0.0 csp.fastclick.net
 0.0.0.0 csyn-r-stage.cxense.com
 0.0.0.0 csyn-r.cxense.com
@@ -3425,6 +3413,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 developers.supersonicads.com
 0.0.0.0 devex.adblade.com
 0.0.0.0 device-api.urbanairship.com
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device.zhiliaoapp.com
 0.0.0.0 devportal.bluekai.com
 0.0.0.0 dff2h0hbfv6w4.cloudfront.net
@@ -3547,6 +3537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 down1.game.uc.cn
 0.0.0.0 down1.uc.cn
 0.0.0.0 down2.uc.cn
+0.0.0.0 down3.ucweb.com
 0.0.0.0 down4.ucweb.com
 0.0.0.0 down5.game.uc.cn
 0.0.0.0 downali.game.uc.cn
@@ -3554,6 +3545,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download-player.com
 0.0.0.0 download.appsflyer.com
 0.0.0.0 download.crashlytics.com
+0.0.0.0 download.icecyber.org
 0.0.0.0 download.music.uodoo.com
 0.0.0.0 download.onlineappupdater.com
 0.0.0.0 download.ucweb.com
@@ -3675,6 +3667,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 edge-tks2.cxense.com
 0.0.0.0 edge-tks3.cxense.com
 0.0.0.0 edge.addthis.com
+0.0.0.0 edge.api.brightcove.com
 0.0.0.0 edgy.inmobi.com
 0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adk2.co
@@ -3874,6 +3867,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 fe80::1%lo0 localhost
 0.0.0.0 feed.4wnet.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedback.adform.com
@@ -3885,6 +3879,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedback.windows.com
 0.0.0.0 felinetech.net
 0.0.0.0 femnp.mgid.com
+0.0.0.0 ff00::0 ip6-localnet
+0.0.0.0 ff00::0 ip6-mcastprefix
+0.0.0.0 ff02::1 ip6-allnodes
+0.0.0.0 ff02::2 ip6-allrouters
+0.0.0.0 ff02::3 ip6-allhosts
 0.0.0.0 ff81k.voluumtrk.com
 0.0.0.0 ffruntimechecker.com
 0.0.0.0 fgoogle.com
@@ -4376,6 +4375,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 httpool.com
 0.0.0.0 hub.appsflyer.com
 0.0.0.0 hub.nexage.com
+0.0.0.0 hubspot.com
 0.0.0.0 huntmad.com
 0.0.0.0 huochepiao.uodoo.com
 0.0.0.0 huodong.umeng.com
@@ -4395,6 +4395,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.po.st
 0.0.0.0 i.skimresources.com
+0.0.0.0 i.smartclick.net
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.tapit.com
 0.0.0.0 i.umeng.com
@@ -4420,6 +4421,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 ichlnk.com
 0.0.0.0 ico.bitcomo.com
+0.0.0.0 icon.icecyber.org
 0.0.0.0 iconpeak.com
 0.0.0.0 ictiran.ir
 0.0.0.0 icvdm.vo.llnwd.net
@@ -4486,6 +4488,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.revmob.com
 0.0.0.0 imagetopng.club
 0.0.0.0 imagzine.oppomobile.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imces.dfw1.vip.inmobi.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -4952,6 +4955,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 load.wedroid.net
 0.0.0.0 loadus.exelator.com
 0.0.0.0 local
+0.0.0.0 localhost
+0.0.0.0 localhost.localdomain
 0.0.0.0 localytics.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
@@ -5102,6 +5107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.adcolony.com
 0.0.0.0 mail.cxense.com
 0.0.0.0 mail.exoclick.com
+0.0.0.0 mail.smartclick.net
 0.0.0.0 mail.ucfly.com
 0.0.0.0 mail.uodoo.com
 0.0.0.0 mail.ushareit.com
@@ -5116,6 +5122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mall.wshareit.com
 0.0.0.0 manage.com
 0.0.0.0 manage.juicyads.com
+0.0.0.0 manage.smartclick.net
 0.0.0.0 management.exoclick.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 mark.reevoo.com
@@ -5150,6 +5157,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcafeemyaccount.com
 0.0.0.0 mcr_media.adk2.co
 0.0.0.0 mdc.meitustat.com
+0.0.0.0 mdory.space
 0.0.0.0 mdotlabs.com
 0.0.0.0 mdotm.com
 0.0.0.0 me.adform.com
@@ -5169,6 +5177,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.net
 0.0.0.0 media.trafficfactory.biz
 0.0.0.0 media.trafficjunky.net
+0.0.0.0 media.trafforsrv.com
 0.0.0.0 media6degrees.com
 0.0.0.0 mediaadv.mediaon.it
 0.0.0.0 mediabarterexchange.com
@@ -5470,6 +5479,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 myfastappz.com
 0.0.0.0 myfiles.nexage.com
 0.0.0.0 myfilestore.com
+0.0.0.0 myfreecams.com
 0.0.0.0 myimg.bid
 0.0.0.0 myinfotopia.com
 0.0.0.0 mymoneyfixing.top
@@ -5565,7 +5575,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 nextlnk1.com
 0.0.0.0 nextlnk3.com
 0.0.0.0 nextlnk4.com
+0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 neymar.alphonso.tv
 0.0.0.0 ng-demo-ad-server.cxad.cxense.com
 0.0.0.0 ng-pilot-adserver.cxad.cxense.com
@@ -5653,6 +5665,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ns74.appservestar.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 nspmotion.com
+0.0.0.0 nt.smartclick.net
 0.0.0.0 nufa-ad.com
 0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
@@ -5695,6 +5708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 offers.lendingtree.com
 0.0.0.0 offertracking.adacts.com
 0.0.0.0 offlineattrib.adsrvr.org
+0.0.0.0 ogrovom.xyz
 0.0.0.0 oipzyrzffum.ovh
 0.0.0.0 ok.appnexus.com
 0.0.0.0 ol14x.voluumtrk.com
@@ -5824,6 +5838,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.appk.mobi
 0.0.0.0 p.avazunativeads.com
 0.0.0.0 p.dlx.addthis.com
+0.0.0.0 p.icecyber.org
 0.0.0.0 p.open.uc.cn
 0.0.0.0 p1.firrectly.top
 0.0.0.0 p1.vip.sc9.admob.com
@@ -6069,6 +6084,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pixel.nc0.co
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.realclever.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
@@ -6100,6 +6116,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 playerassets.info
+0.0.0.0 players.brightcove.net
 0.0.0.0 playhaven.com
 0.0.0.0 playnomics.net
 0.0.0.0 plbslog.umeng.com
@@ -6339,6 +6356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quill.livefyre.com
 0.0.0.0 quizzasport.com
 0.0.0.0 qulsqiqrev.com
+0.0.0.0 quotc.smartclick.net
 0.0.0.0 qwb.adblade.com
 0.0.0.0 qwertize.com
 0.0.0.0 r-data.adsrvr.org
@@ -6397,6 +6415,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 readymoon.com
 0.0.0.0 realcasinoslotonline.com
 0.0.0.0 realestate.w.o0bc.com
+0.0.0.0 realtime.icecyber.org
 0.0.0.0 reate.info
 0.0.0.0 rebelsubway.com
 0.0.0.0 rebootv5.adsunflower.com
@@ -6618,6 +6637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.rose.pubmatic.com
+0.0.0.0 s.zkcdn.net
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s1-eu.adform.net
@@ -6952,6 +6972,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smart.tinyhoneybee.com
 0.0.0.0 smartadserver.com
 0.0.0.0 smartadserver.fr
+0.0.0.0 smartclick.net
 0.0.0.0 smartclip.net
 0.0.0.0 smartdevicelink.com
 0.0.0.0 smarticle.video.ums.uc.cn
@@ -7022,6 +7043,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 speedclics.ero-advertising.com
 0.0.0.0 speedlicks.ero-advertising.com
 0.0.0.0 speednetwork
+0.0.0.0 speednetwork 14.adk2x.com
 0.0.0.0 speednetwork1.adk2.co
 0.0.0.0 speednetwork1.adk2x.com
 0.0.0.0 speednetwork13.adk2.co
@@ -7094,6 +7116,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st.at2010.net
 0.0.0.0 st.ushareit.com
+0.0.0.0 stable.icecyber.org
 0.0.0.0 stack-sonar.com
 0.0.0.0 stackcdn.onedigitalad.com
 0.0.0.0 stackcommerce.com
@@ -7125,6 +7148,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.hasmobi.net
 0.0.0.0 stat.kika-backend.com
 0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 stat.zkmobi.com
 0.0.0.0 statcounter.com
 0.0.0.0 statgw2.devtodev.com
 0.0.0.0 static-asm.secure.skypeassets.com
@@ -7225,6 +7249,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 storage.adform.com
 0.0.0.0 storage.asiandate.com
 0.0.0.0 store.advmob.cn
+0.0.0.0 store.icecyber.org
 0.0.0.0 store.lenzmx.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storefront.flurry.com
@@ -7261,6 +7286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sube.puwangkj.com
 0.0.0.0 subs.mp.ucweb.com
 0.0.0.0 subtrack.clickhubs.com
+0.0.0.0 subway.icecyber.org
 0.0.0.0 succeedscene.com
 0.0.0.0 suddensidewalk.com
 0.0.0.0 sugarcurtain.com
@@ -8015,6 +8041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tv.uc.cn
 0.0.0.0 tv333.com
 0.0.0.0 tvads.alphonso.tv
+0.0.0.0 tveta.naver.net
 0.0.0.0 tvmds.tvpassport.com
 0.0.0.0 tvpage.com
 0.0.0.0 tvshowapi.apk.v-mate.mobi
@@ -8050,6 +8077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uc.cdn.ucweb.com
 0.0.0.0 uc.cn
 0.0.0.0 uc.gre
+0.0.0.0 uc.icecyber.org
 0.0.0.0 uc.ucweb.com
 0.0.0.0 uc2.cdn.ucweb.com
 0.0.0.0 uc6.ucweb.com
@@ -8064,6 +8092,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uclylhzwg.com
 0.0.0.0 ucnews.ucweb.com
 0.0.0.0 ucus.ucweb.com
+0.0.0.0 ucweb.com
 0.0.0.0 ud.zkmobi.com
 0.0.0.0 udc.msn.com
 0.0.0.0 udm.scorecardresearch.com
@@ -8197,6 +8226,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.adsrvr.org
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 v1.notifications-online.systems
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v2.clinkad.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 vads-api.daumkakao.com
@@ -8302,6 +8333,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlt.me
 0.0.0.0 vmco.adk2.co
 0.0.0.0 vmco.adk2x.com
+0.0.0.0 vmedia.trafforsrv.com
 0.0.0.0 vmomentapi.apk.v-mate.mobi
 0.0.0.0 vntsm.com
 0.0.0.0 vocento.cxsearch.cxense.com
@@ -8586,6 +8618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ad-serving.co
 0.0.0.0 www.ad-stir.com
 0.0.0.0 www.ad-sys.com
+0.0.0.0 www.ad.smartclick.net
 0.0.0.0 www.ad.zanox.com
 0.0.0.0 www.ad4game.com
 0.0.0.0 www.ad4screen.com
@@ -8721,6 +8754,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bestgame.directory
 0.0.0.0 www.bestmobileapps.mobi
 0.0.0.0 www.bestmobiworld.com
+0.0.0.0 www.bet365.com
 0.0.0.0 www.bidvertiser.com
 0.0.0.0 www.bigworldsports.com
 0.0.0.0 www.bioskop378.com
@@ -8954,6 +8988,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.href.li
 0.0.0.0 www.hs.appsdorado.com
 0.0.0.0 www.ht8n8.voluumtrk.com
+0.0.0.0 www.hubspot.com
 0.0.0.0 www.hypertrack.com
 0.0.0.0 www.i7xls.voluumtrk.com
 0.0.0.0 www.ico.bitcomo.com
@@ -9107,6 +9142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mybestmv.com
 0.0.0.0 www.myfastappz.com
 0.0.0.0 www.myfilestore.com
+0.0.0.0 www.myfreecams.com
 0.0.0.0 www.myrobotearn.top
 0.0.0.0 www.mywot.com
 0.0.0.0 www.mywot.net
@@ -9267,6 +9303,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.skimresources.com
 0.0.0.0 www.skip-ads.net
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www.smartclick.net
 0.0.0.0 www.smartdevicelink.com
 0.0.0.0 www.smrt.re
 0.0.0.0 www.snapads.com
@@ -9364,6 +9401,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.traffic.admvncln.com
 0.0.0.0 www.traffic.tc-clicks.com
 0.0.0.0 www.trafflict.com
+0.0.0.0 www.trafforsrv.com
 0.0.0.0 www.tribalfusion.com
 0.0.0.0 www.triboomedia.it
 0.0.0.0 www.truefilen32.com
@@ -9379,6 +9417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.uc.ucdns.uc.cn
 0.0.0.0 www.uc123.com
 0.0.0.0 www.ucfly.com
+0.0.0.0 www.ucweb.com
 0.0.0.0 www.umeng.co
 0.0.0.0 www.umeng.com
 0.0.0.0 www.unidingcom.com
@@ -9523,6 +9562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yandexadexchange.net
+0.0.0.0 yanyne.online
 0.0.0.0 yapi.apk.v-mate.mobi
 0.0.0.0 yashin.alphonso.tv
 0.0.0.0 yasni.bannertrack.net
@@ -9621,10 +9661,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zyxow.com
 0.0.0.0 zzhengre.com
-
-# -------------------------------------------
+# --------------------------------------------
 # E N E R G I Z E D  E N D S
-# -------------------------------------------
-
-#               Stay Energized!
-#                   ------
+# --------------------------------------------
+#
+# - - - -  S T A Y  E N E R G I Z E D  - - - -
