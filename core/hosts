@@ -49,7 +49,6 @@
 # --------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # --------------------------------------------
-0.0.0.0 0.0.0.0
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 023hysj.com
 0.0.0.0 0latfee.ero-advertising.com
@@ -177,9 +176,6 @@
 0.0.0.0 9ata.ero-advertising.com
 0.0.0.0 9c.video-ak.cdn.spotify.com
 0.0.0.0 9pp.gulper.uodoo.com
-0.0.0.0 ::1 ip6-localhost
-0.0.0.0 ::1 ip6-loopback
-0.0.0.0 ::1 localhost
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-ads.com
 0.0.0.0 a-o.ninja
@@ -3867,7 +3863,6 @@
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
-0.0.0.0 fe80::1%lo0 localhost
 0.0.0.0 feed.4wnet.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedback.adform.com
@@ -4954,9 +4949,6 @@
 0.0.0.0 load.jsecoin.com
 0.0.0.0 load.wedroid.net
 0.0.0.0 loadus.exelator.com
-0.0.0.0 local
-0.0.0.0 localhost
-0.0.0.0 localhost.localdomain
 0.0.0.0 localytics.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
