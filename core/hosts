@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.09.268
-# Release: 268
-# Entries: 9,612
+# Version: 18.09.270
+# Release: 270
+# Entries: 9,638
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 25 Sep 18 01:45:39
+# Updated: Thu, 27 Sep 18 13:30:52
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -250,6 +250,7 @@
 0.0.0.0 ab.newsblock.mgid.com
 0.0.0.0 abandonedclover.com
 0.0.0.0 abbott.vo.llnwd.net
+0.0.0.0 abc.lkjuio.com
 0.0.0.0 abclipper-ui1.alphonso.tv
 0.0.0.0 abnad.net
 0.0.0.0 abnormour.club
@@ -675,6 +676,7 @@
 0.0.0.0 admin.fastclick.net
 0.0.0.0 admin.flurry.com
 0.0.0.0 admin.gowadogo.com
+0.0.0.0 admin.infomobi.me
 0.0.0.0 admin.mgid.com
 0.0.0.0 admin.mobadvent.com
 0.0.0.0 admin.octopus.uodoo.com
@@ -1294,6 +1296,7 @@
 0.0.0.0 adsupply.com
 0.0.0.0 adswizz.com
 0.0.0.0 adsx.greystripe.com
+0.0.0.0 adsy.lkjuio.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 adsys.ad-sys.com
@@ -1784,6 +1787,8 @@
 0.0.0.0 api.hasoffers.com
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.hypertrack.com
+0.0.0.0 api.inbvur.com
+0.0.0.0 api.infomobi.me
 0.0.0.0 api.inmobi.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.io.mi.com
@@ -1810,9 +1815,11 @@
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 api.news.uodoo.com
 0.0.0.0 api.newshub.uodoo.com
+0.0.0.0 api.niumobi.com
 0.0.0.0 api.offline.avazunativeads.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.open.uc.cn
+0.0.0.0 api.p.yourxsdk.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
@@ -1862,6 +1869,7 @@
 0.0.0.0 api.wshareit.com
 0.0.0.0 api.wsq.umeng.com
 0.0.0.0 api.xmpush.xiaomi.com
+0.0.0.0 api.yourxsdk.com
 0.0.0.0 api1.vip.sc9.admob.com
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.batmobi.net
@@ -2268,6 +2276,7 @@
 0.0.0.0 bbs.ucfly.com
 0.0.0.0 bbs.umeng.com
 0.0.0.0 bbvj6.voluumtrk.com
+0.0.0.0 bcd.lkjuio.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bd-ads.com
@@ -2527,6 +2536,7 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c.o0bc.com
+0.0.0.0 c.open.dotcunitedgroup.com
 0.0.0.0 c.smartclick.net
 0.0.0.0 c.snnd.co
 0.0.0.0 c.statcounter.com
@@ -2539,13 +2549,17 @@
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.atdmt.com
+0.0.0.0 c1.infomobi.me
 0.0.0.0 c1.nend.net
+0.0.0.0 c1.niumobi.com
 0.0.0.0 c1.popads.net
 0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.video-ak.cdn.spotify.com
 0.0.0.0 c1sys.com
 0.0.0.0 c2-cn.w.inmobi.com
 0.0.0.0 c2.adalyser.com
+0.0.0.0 c2.infomobi.me
+0.0.0.0 c2.niumobi.com
 0.0.0.0 c2.popads.net
 0.0.0.0 c2.video-ak.cdn.spotify.com
 0.0.0.0 c2i-cdn.startappnetwork.com
@@ -2612,9 +2626,11 @@
 0.0.0.0 ccrt-en.ad-stir.com
 0.0.0.0 ccrt-ja.ad-stir.com
 0.0.0.0 ccs.ucweb.com
+0.0.0.0 ccsy.lkjuio.com
 0.0.0.0 cd.lenzmx.com
 0.0.0.0 cd3.cdn.ucweb.com
 0.0.0.0 cd330e2328a86ba5425f79562640ca99.adk2.co
+0.0.0.0 cde.lkjuio.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn-adn.smardroid.com
@@ -2682,6 +2698,7 @@
 0.0.0.0 cdn.ichlnk.com
 0.0.0.0 cdn.images.feed.4wnet.com
 0.0.0.0 cdn.imgwzzmb.net
+0.0.0.0 cdn.infomobi.me
 0.0.0.0 cdn.ish.atdmt.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.jquery-uim.download
@@ -2691,6 +2708,7 @@
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.linkwelove.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 cdn.lkjuio.com
 0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.media.amp.avai.com
 0.0.0.0 cdn.media.innity.net
@@ -2702,6 +2720,7 @@
 0.0.0.0 cdn.monsido.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.neomobile.net
+0.0.0.0 cdn.niumobi.com
 0.0.0.0 cdn.nmcdn.us
 0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 cdn.oas-c18.adnxs.com
@@ -3323,6 +3342,7 @@
 0.0.0.0 dca.as.nexage.com
 0.0.0.0 dcs.adgear.com
 0.0.0.0 dd.smaxdn.com
+0.0.0.0 ddl.okyesmobi.com
 0.0.0.0 de-deliver.lenzmx.com
 0.0.0.0 de.adcolony.com
 0.0.0.0 de.admob.com
@@ -4093,6 +4113,7 @@
 0.0.0.0 getunlocked.com
 0.0.0.0 gew1.ap.spotify.com
 0.0.0.0 gfe.nvidia.com
+0.0.0.0 ggg.koapkmobi.com
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 giddycoat.com
 0.0.0.0 gigamega.su
@@ -4492,6 +4513,7 @@
 0.0.0.0 imedia.adk2x.com
 0.0.0.0 imeds.ero-advertising.com
 0.0.0.0 imeinv.uodoo.com
+0.0.0.0 imfast.io
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img-peco.ucweb.com
 0.0.0.0 img-swarm.ucweb.com
@@ -4959,6 +4981,7 @@
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.isnssdk.com
+0.0.0.0 log.lkjuio.com
 0.0.0.0 log.musical.ly
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.snapdeal.com
@@ -5227,6 +5250,7 @@
 0.0.0.0 metricsupdater.adswizz.com
 0.0.0.0 mf.adsymptotic.com
 0.0.0.0 mfav.uc.cn
+0.0.0.0 mftracking.imfast.io
 0.0.0.0 mg.mgid.com
 0.0.0.0 mgage.com
 0.0.0.0 mgid.com
@@ -5549,6 +5573,7 @@
 0.0.0.0 newlimitedoffer.com
 0.0.0.0 newre-conversions.clickmeter.com
 0.0.0.0 newrelic.com
+0.0.0.0 news-af.op-mobile.opera.com
 0.0.0.0 news-in.op-mobile.opera.com
 0.0.0.0 news-notification.tools
 0.0.0.0 news.ad-stir.com
@@ -5694,6 +5719,7 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 oem.inmobi.com
 0.0.0.0 oetwplgu.com
+0.0.0.0 of.okyesmobi.com
 0.0.0.0 ofa-sub.osp.opera.software
 0.0.0.0 offer.lenzmx.com
 0.0.0.0 offernew101.com
@@ -5703,6 +5729,7 @@
 0.0.0.0 ogrovom.xyz
 0.0.0.0 oipzyrzffum.ovh
 0.0.0.0 ok.appnexus.com
+0.0.0.0 okyesmobi.com
 0.0.0.0 ol14x.voluumtrk.com
 0.0.0.0 olala1.com
 0.0.0.0 olala3.com
@@ -5995,6 +6022,7 @@
 0.0.0.0 pasaranqq.com
 0.0.0.0 pass.umeng.com
 0.0.0.0 passport.umeng.com
+0.0.0.0 pasta.dc.duapps.com
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pata.ero-advertising.com
 0.0.0.0 patriot.cs.pp.cn
@@ -6045,6 +6073,7 @@
 0.0.0.0 phpmyadmin.js.ero-advertising.com
 0.0.0.0 pietexture.com
 0.0.0.0 piguiqproxy.com
+0.0.0.0 pike.hotluska.com
 0.0.0.0 pimmuter.com
 0.0.0.0 pinecone.uc.cn
 0.0.0.0 ping.chartbeat.net
@@ -6893,6 +6922,7 @@
 0.0.0.0 shockingship.com
 0.0.0.0 shockingswing.com
 0.0.0.0 shoes.app-xae.xiaomi.com
+0.0.0.0 shop.hotluska.com
 0.0.0.0 shortyz.co
 0.0.0.0 show.adacts.com
 0.0.0.0 show.niqiu99.org
@@ -7604,6 +7634,7 @@
 0.0.0.0 touch.media-serving.com
 0.0.0.0 toutiao.uc.cn
 0.0.0.0 toyota.vo.llnwd.net
+0.0.0.0 tpb.okyesmobi.com
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpono.redirectvoluum.com
@@ -8083,6 +8114,7 @@
 0.0.0.0 ucip.uc.cn
 0.0.0.0 uclylhzwg.com
 0.0.0.0 ucnews.ucweb.com
+0.0.0.0 ucnews.xenderbox.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 ucweb.com
 0.0.0.0 ud.zkmobi.com
@@ -9037,6 +9069,7 @@
 0.0.0.0 www.kisshentai.net
 0.0.0.0 www.kiwifarms.net
 0.0.0.0 www.kmspico.info
+0.0.0.0 www.koapkmobi.com
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www.kuaptrk.com
 0.0.0.0 www.kzhav.voluumtrk.com
@@ -9163,6 +9196,7 @@
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
 0.0.0.0 www.oipzyrzffum.ovh
+0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.ol14x.voluumtrk.com
 0.0.0.0 www.olthlikechgq.com
 0.0.0.0 www.omaze.com

@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.09.268
-# Release: 268
-# Entries: 1,871
+# Version: 18.09.270
+# Release: 270
+# Entries: 1,927
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 25 Sep 18 01:45:39
+# Updated: Thu, 27 Sep 18 13:30:52
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -54,6 +54,7 @@
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
 0.0.0.0 2016.appsflyer.com
+0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 319.uc.cn
 0.0.0.0 3azu.taobao.com
 0.0.0.0 3qdigital.adlegend.com
@@ -134,6 +135,7 @@
 0.0.0.0 ads.genieessp.com
 0.0.0.0 ads.mapps.cricbuzz.com
 0.0.0.0 ads.nexage.com
+0.0.0.0 ads.quantserve.com
 0.0.0.0 ads0.nexage.com
 0.0.0.0 adsclick.uc123.com
 0.0.0.0 adsco.re
@@ -355,6 +357,8 @@
 0.0.0.0 asahishimbun.demdex.net
 0.0.0.0 ascr.nexage.com
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 asia-notify.bidswitch.rtb.quantserve.com
+0.0.0.0 asia.bidswitch.rtb.quantserve.com
 0.0.0.0 asiamiles.demdex.net
 0.0.0.0 asianpeoplemeet.adlegend.com
 0.0.0.0 assets.applovin.com
@@ -378,6 +382,7 @@
 0.0.0.0 autozone.demdex.net
 0.0.0.0 av.taobao.com
 0.0.0.0 avis.adlegend.com
+0.0.0.0 aws-us-east-rtb.ak.quantserve.com
 0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 b.beta.facebook.net
@@ -446,6 +451,7 @@
 0.0.0.0 c.adsco.re
 0.0.0.0 c.id.mi.com
 0.0.0.0 c.maribacaberita.com
+0.0.0.0 c.quantserve.com
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
 0.0.0.0 cache-test.addthis.com
@@ -522,6 +528,7 @@
 0.0.0.0 cm.ushareit.com
 0.0.0.0 cmcrash.ucweb.com
 0.0.0.0 cmi.flurry.com
+0.0.0.0 cms.quantserve.com
 0.0.0.0 cms.ucweb.com
 0.0.0.0 cn.support.appsflyer.com
 0.0.0.0 cnc.fe01.lg.xiaomi.com
@@ -546,6 +553,7 @@
 0.0.0.0 content-people-pa.googleapis.com
 0.0.0.0 content-people.googleapis.com
 0.0.0.0 content.googleapis.com
+0.0.0.0 content.quantserve.com
 0.0.0.0 cook.applovin.com
 0.0.0.0 coolskyr8187.taobao.com
 0.0.0.0 coral.uc.cn
@@ -609,11 +617,15 @@
 0.0.0.0 dca.ads.nexage.com
 0.0.0.0 dca.as.nexage.com
 0.0.0.0 dcastage-rtb.applovin.com
+0.0.0.0 dco-emea.quantserve.com
+0.0.0.0 dco-useast.quantserve.com
+0.0.0.0 dco.quantserve.com
 0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 de.rayjump.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 debug.ucweb.com
 0.0.0.0 deeplink.mobileapptracking.com
+0.0.0.0 dege.quantserve.com
 0.0.0.0 delightful.adlegend.com
 0.0.0.0 dell.demdex.net
 0.0.0.0 delta.taobao.com
@@ -684,6 +696,7 @@
 0.0.0.0 eco.taobao.com
 0.0.0.0 ecto.flurry.com
 0.0.0.0 edge.addthis.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 eduexam.taobao.com
 0.0.0.0 elasticsearch.demdex.com
 0.0.0.0 elsevier.demdex.net
@@ -702,7 +715,13 @@
 0.0.0.0 ep-fox.storage.googleapis.com
 0.0.0.0 err.taobao.com
 0.0.0.0 error.demdex.net
+0.0.0.0 eu-notify.bidswitch.rtb.quantserve.com
+0.0.0.0 eu-pulsepoint-rtb.quantserve.com
+0.0.0.0 eu-rtb-new.ak.quantserve.com
+0.0.0.0 eu-rtb.ak.quantserve.com
 0.0.0.0 eu-test.addthis.com
+0.0.0.0 eu.bidswitch.rtb.quantserve.com
+0.0.0.0 eu.pulsepoint.rtb.quantserve.com
 0.0.0.0 event.maribacaberita.com
 0.0.0.0 events.adjust.com
 0.0.0.0 events.appsflyer.com
@@ -715,6 +734,9 @@
 0.0.0.0 ewrstage-rtb.applovin.com
 0.0.0.0 ewrstage-rtbwin.applovin.com
 0.0.0.0 ex.umengcloud.com
+0.0.0.0 exch-us-east.quantserve.com
+0.0.0.0 exch-us-west.quantserve.com
+0.0.0.0 exch.quantserve.com
 0.0.0.0 expert.branch.io
 0.0.0.0 explorer-staging.flurry.com
 0.0.0.0 exportdata.appsflyer.com
@@ -753,6 +775,7 @@
 0.0.0.0 fk-gray-net.rayjump.com
 0.0.0.0 fk-gray-tknet.rayjump.com
 0.0.0.0 fk-mtrack.rayjump.com
+0.0.0.0 flash.quantserve.com
 0.0.0.0 fliggy.taobao.com
 0.0.0.0 flow.maribacaberita.com
 0.0.0.0 fls.doubleclick.net
@@ -808,6 +831,8 @@
 0.0.0.0 gjxz2.ucweb.com
 0.0.0.0 glbl.adlegend.com
 0.0.0.0 global.appsflyer.com
+0.0.0.0 global.px.quantserve.com
+0.0.0.0 global.qc.rtb.quantserve.com
 0.0.0.0 global.search.xiaomi.net
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gm.ushareit.com
@@ -1043,6 +1068,7 @@
 0.0.0.0 m.flurry.com
 0.0.0.0 m.mirror.facebook.net
 0.0.0.0 m.nexage.com
+0.0.0.0 m.quantserve.com
 0.0.0.0 m.taobao.com
 0.0.0.0 m.uc123.com
 0.0.0.0 m.umeng.com
@@ -1057,6 +1083,7 @@
 0.0.0.0 maribacaberita.com
 0.0.0.0 marriagemindedpeoplemeet.adlegend.com
 0.0.0.0 match.adlegend.com
+0.0.0.0 maxcdn.quantserve.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mckinseyknowledge.demdex.net
@@ -1067,6 +1094,7 @@
 0.0.0.0 me.ucweb.com
 0.0.0.0 measure.mobileapptracking.com
 0.0.0.0 media.adlegend.com
+0.0.0.0 media.quantserve.com
 0.0.0.0 media1.adlegend.com
 0.0.0.0 media10.adlegend.com
 0.0.0.0 media12.adlegend.com
@@ -1192,6 +1220,7 @@
 0.0.0.0 nrtprod-rtbwin.applovin.com
 0.0.0.0 nrtstage-rtbwin.applovin.com
 0.0.0.0 ns1.addthis.com
+0.0.0.0 ns1.quantserve.com
 0.0.0.0 ns1.uc.cn
 0.0.0.0 ns2.addthis.com
 0.0.0.0 ns2.adlegend.com
@@ -1312,6 +1341,8 @@
 0.0.0.0 pinpointdigital.demdex.net
 0.0.0.0 pixel-insight.ucweb.com
 0.0.0.0 pixel.adlooxtracking.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 pixel.westpac.quantserve.com
 0.0.0.0 pixelam.adlooxtracking.com
 0.0.0.0 plantronics.demdex.net
 0.0.0.0 plated.adlegend.com
@@ -1339,6 +1370,7 @@
 0.0.0.0 preplbslog.umeng.com
 0.0.0.0 presence.facebook.net
 0.0.0.0 press.flurry.com
+0.0.0.0 preview.quantserve.com
 0.0.0.0 priority.appsflyer.com
 0.0.0.0 prod-a-usa.applovin.com
 0.0.0.0 prod-a.applovin.com
@@ -1358,8 +1390,10 @@
 0.0.0.0 q.addthis.com
 0.0.0.0 qa.dashboard.beta.branch.io
 0.0.0.0 qantas.demdex.net
+0.0.0.0 qcx.quantserve.com
 0.0.0.0 qiqu.uc.cn
 0.0.0.0 qiye.xiaomi.com
+0.0.0.0 quantserve.com
 0.0.0.0 questsoftware.demdex.net
 0.0.0.0 qvc.adlegend.com
 0.0.0.0 r.applovin.com
@@ -1427,6 +1461,7 @@
 0.0.0.0 s.umeng.com
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s10.addthis.com
+0.0.0.0 s2s-canary.quantserve.com
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.appsflyer.com
 0.0.0.0 s3.addthis.com
@@ -1465,10 +1500,12 @@
 0.0.0.0 sec.umeng.com
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 secure.addthis.com
+0.0.0.0 secure.quantserve.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 seg-1.adjust.com
 0.0.0.0 seg-2.adjust.com
+0.0.0.0 segapi.quantserve.com
 0.0.0.0 selenium-release.storage.googleapis.com
 0.0.0.0 seniorblackpeoplemeet.adlegend.com
 0.0.0.0 seniorsmeet.adlegend.com
@@ -1536,7 +1573,9 @@
 0.0.0.0 speed.duapps.com
 0.0.0.0 sportsdata.uc.cn
 0.0.0.0 ssf.adlooxtracking.com
+0.0.0.0 ssl.edge.quantserve.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl.quantserve.com
 0.0.0.0 sslclick.union.ucweb.com
 0.0.0.0 ssltest2.branch.io
 0.0.0.0 ssp.ad.xiaomi.com
@@ -1587,6 +1626,9 @@
 0.0.0.0 store.rayjump.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storefront.flurry.com
+0.0.0.0 struq-emea.quantserve.com
+0.0.0.0 struq-uswest.quantserve.com
+0.0.0.0 struq.quantserve.com
 0.0.0.0 su.addthis.com
 0.0.0.0 subs.uctalks.ucweb.com
 0.0.0.0 suggest.taobao.com
@@ -1737,6 +1779,17 @@
 0.0.0.0 ups.demdex.net
 0.0.0.0 url.sd.duapps.com
 0.0.0.0 us-aebridge.taobao.com
+0.0.0.0 us-east-notify.bidswitch.rtb.quantserve.com
+0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
+0.0.0.0 us-east-rtb-new.ak.quantserve.com
+0.0.0.0 us-east-rtb.ak.quantserve.com
+0.0.0.0 us-east.bidswitch.rtb.quantserve.com
+0.0.0.0 us-east.pulsepoint.rtb.quantserve.com
+0.0.0.0 us-west-notify.bidswitch.rtb.quantserve.com
+0.0.0.0 us-west-pulsepoint-rtb.quantserve.com
+0.0.0.0 us-west-rtb.ak.quantserve.com
+0.0.0.0 us-west.bidswitch.rtb.quantserve.com
+0.0.0.0 us-west.pulsepoint.rtb.quantserve.com
 0.0.0.0 us.meet.ssl2.duapps.com
 0.0.0.0 us.rayjump.com
 0.0.0.0 us.ynuf.aliapp.org
@@ -1756,6 +1809,7 @@
 0.0.0.0 va6-prod-ksmanager-1-keystone.demdex.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 vast.cloudmobi.net
+0.0.0.0 vast.quantserve.com
 0.0.0.0 vast2.cloudmobi.net
 0.0.0.0 vattenfall.demdex.net
 0.0.0.0 veeam.demdex.net
@@ -1855,6 +1909,7 @@
 0.0.0.0 www.demdex.com
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.duapps.com
+0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.fedora.mirror.facebook.net
 0.0.0.0 www.flurry.com
 0.0.0.0 www.google-analytics.com
@@ -1869,6 +1924,7 @@
 0.0.0.0 www.php.mirror.facebook.net
 0.0.0.0 www.popads.net
 0.0.0.0 www.prediction.googleapis.com
+0.0.0.0 www.quantserve.com
 0.0.0.0 www.rayjump.com
 0.0.0.0 www.taobao.cn
 0.0.0.0 www.taobao.com
