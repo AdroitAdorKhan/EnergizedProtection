@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.09.271
-# Release: 271
-# Entries: 10,117
+# Version: 18.10.274
+# Release: 274
+# Entries: 10,148
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Sep 18 14:37:19
+# Updated: Mon, 01 Oct 18 19:27:44
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -581,6 +581,7 @@
 0.0.0.0 adclick.zkmobi.com
 0.0.0.0 adcolony.com
 0.0.0.0 adconsole.inmobi.com
+0.0.0.0 adcs.rqmob.com
 0.0.0.0 addapptr.com
 0.0.0.0 addictiveads.com
 0.0.0.0 addlnk.com
@@ -789,6 +790,7 @@
 0.0.0.0 ads-corelio.adhese.com
 0.0.0.0 ads-deltatv-x64zcsqq.netdna-ssl.com
 0.0.0.0 ads-east-colo.adsymptotic.com
+0.0.0.0 ads-fa.spotify.com
 0.0.0.0 ads-ipm.adhese.com
 0.0.0.0 ads-lannoo.adhese.com
 0.0.0.0 ads-newsmonkey.adhese.com
@@ -1474,6 +1476,7 @@
 0.0.0.0 aim.pubmatic.com
 0.0.0.0 aimatch.com
 0.0.0.0 aimg.fc2.com
+0.0.0.0 airflow.maribacaberita.com
 0.0.0.0 airpush.com
 0.0.0.0 aj-gb.mgid.com
 0.0.0.0 ak-gb.mgid.com
@@ -1876,6 +1879,7 @@
 0.0.0.0 api.redshell.io
 0.0.0.0 api.rmsi.adswizz.com
 0.0.0.0 api.rollbar.com
+0.0.0.0 api.rqmob.com
 0.0.0.0 api.sabavision.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.sec.intl.miui.com
@@ -1976,6 +1980,7 @@
 0.0.0.0 appdev.addthis.com
 0.0.0.0 appflood.com
 0.0.0.0 appflow.headline.uodoo.com
+0.0.0.0 appflow.maribacaberita.com
 0.0.0.0 appfly.mobi
 0.0.0.0 appgalleries.inmobi.com
 0.0.0.0 appintop.com
@@ -2120,6 +2125,7 @@
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audience.tapad.com
 0.0.0.0 audio-fac.spotify.com
+0.0.0.0 audio2.spotify.com
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
 0.0.0.0 audit.outbrain.com
 0.0.0.0 auditrecording-pa.googleapis.com
@@ -2613,6 +2619,7 @@
 0.0.0.0 c.id.mi.com
 0.0.0.0 c.jsrdn.com
 0.0.0.0 c.livefyre.com
+0.0.0.0 c.maribacaberita.com
 0.0.0.0 c.medialink.mobi
 0.0.0.0 c.mgid.com
 0.0.0.0 c.msn.com.nsatc.net
@@ -2760,6 +2767,7 @@
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.bitmedianetwork.com
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.bttrack.com
 0.0.0.0 cdn.bttrack.comcdn.bttrack.com
 0.0.0.0 cdn.castplatform.com
@@ -2824,6 +2832,7 @@
 0.0.0.0 cdn.pubmatic.com
 0.0.0.0 cdn.pubnative.net
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 cdn.rqmob.com
 0.0.0.0 cdn.ruca.tech
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.smartnews-ads.com
@@ -3566,6 +3575,7 @@
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 dict.headline.uodoo.com
+0.0.0.0 dict.maribacaberita.com
 0.0.0.0 didogram.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 differentdesk.com
@@ -3634,6 +3644,7 @@
 0.0.0.0 dmptest.bluekai.com
 0.0.0.0 dmxleo.com
 0.0.0.0 dn.livefyre.com
+0.0.0.0 dnckawxatc.com
 0.0.0.0 dns1.inmobi.com
 0.0.0.0 dns1.inmobicdn.com
 0.0.0.0 dns1.polarmobile.com
@@ -3940,6 +3951,7 @@
 0.0.0.0 event.globalnews.uodoo.com
 0.0.0.0 event.headline.uodoo.com
 0.0.0.0 event.ksosoft.com
+0.0.0.0 event.maribacaberita.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events.addapptr.com
 0.0.0.0 events.adform.com
@@ -4112,6 +4124,7 @@
 0.0.0.0 flipboard.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flow.headline.uodoo.com
+0.0.0.0 flow.maribacaberita.com
 0.0.0.0 flow.video.uodoo.com
 0.0.0.0 floweryoperation.com
 0.0.0.0 fls.doubleclick.net
@@ -4130,6 +4143,7 @@
 0.0.0.0 folder.advmob.cn
 0.0.0.0 follamigos.com
 0.0.0.0 follow.headline.uodoo.com
+0.0.0.0 follow.maribacaberita.com
 0.0.0.0 followshipa.info
 0.0.0.0 forbesvid-a.akamaihd.net
 0.0.0.0 forecast.ucweb.com
@@ -4402,6 +4416,7 @@
 0.0.0.0 grader.algolia.com
 0.0.0.0 grandonmedia.com
 0.0.0.0 graph.accountkit.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 graph.snappea.com
 0.0.0.0 greatene.com
 0.0.0.0 greatmacsoft.tech
@@ -4984,6 +4999,7 @@
 0.0.0.0 joyreactor.cc
 0.0.0.0 jp.admob.com
 0.0.0.0 jp.cxense.com
+0.0.0.0 jp.livelog.nexon.com
 0.0.0.0 jp.taptica.com
 0.0.0.0 jppcj.voluumtrk.com
 0.0.0.0 jroqvbvw.info
@@ -5224,6 +5240,7 @@
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.lkjuio.com
 0.0.0.0 log.musical.ly
+0.0.0.0 log.ngsm.nexon.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.snappea.com
@@ -5913,6 +5930,7 @@
 0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 notification-browser.tools
 0.0.0.0 notification-system.tools
+0.0.0.0 notification-time.com
 0.0.0.0 notifications-online.systems
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.mgid.com
@@ -6581,6 +6599,7 @@
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod.accountkit.com
 0.0.0.0 prod.adblade.com
+0.0.0.0 prod15-files.acompli.net
 0.0.0.0 production-api.areametrics.com
 0.0.0.0 production-ultimate-assets.ratecity.com.au
 0.0.0.0 production.cdn.aerserv.com
@@ -6776,6 +6795,7 @@
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 reco.flow.headline.uodoo.com
+0.0.0.0 reco.flow.maribacaberita.com
 0.0.0.0 recognified.net
 0.0.0.0 recommend.apk.v-mate.mobi
 0.0.0.0 recommend.outbrain.com
@@ -6796,6 +6816,7 @@
 0.0.0.0 redirect.comson-wagentina.com
 0.0.0.0 redirect.ero-advertising.com
 0.0.0.0 redirectnative.com
+0.0.0.0 redirector.gvt1.com
 0.0.0.0 reditads.com
 0.0.0.0 redmine.adblade.com
 0.0.0.0 redonetype.com
@@ -6909,6 +6930,7 @@
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpm.newrelic.com
 0.0.0.0 rpxnow.com
+0.0.0.0 rqmob.com
 0.0.0.0 rri.appodeal.com
 0.0.0.0 rs.ero-advertising.com
 0.0.0.0 rs.fullstory.com
@@ -7600,6 +7622,7 @@
 0.0.0.0 static.outbrain.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.reasedoper.pw
+0.0.0.0 static.rqmob.com
 0.0.0.0 static.servedby-buysellads.com
 0.0.0.0 static.smartlauncher.net
 0.0.0.0 static.supersonicads.com
@@ -8273,6 +8296,7 @@
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.smartlink.adacts.com
 0.0.0.0 tracker.sokrati.com
@@ -8469,6 +8493,7 @@
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 try.crashlytics.com
 0.0.0.0 ts.flurry.com
+0.0.0.0 ts.market.mi-img.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 tt.smaxdn.com
 0.0.0.0 ttwitter.com
@@ -8508,6 +8533,7 @@
 0.0.0.0 u1.ucfly.com
 0.0.0.0 u1hw38x0.com
 0.0.0.0 ua.supersonicads.com
+0.0.0.0 uabdikmdwqdbr.com
 0.0.0.0 uac-assets.cdn.inmobi.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uae-2.inf5.uc.cn
@@ -9078,6 +9104,7 @@
 0.0.0.0 www.4ogv6.voluumtrk.com
 0.0.0.0 www.4strokemedia.com
 0.0.0.0 www.4wnet.com
+0.0.0.0 www.5rocks.io
 0.0.0.0 www.6ecdz.voluumtrk.com
 0.0.0.0 www.77.utroro.com
 0.0.0.0 www.7cmgs.voluumtrk.com
@@ -9577,6 +9604,7 @@
 0.0.0.0 www.m8654.mobsweet.com
 0.0.0.0 www.madvertise.com
 0.0.0.0 www.maebtjn.com
+0.0.0.0 www.maribacaberita.com
 0.0.0.0 www.massabola.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.maxonclick.com
@@ -9856,6 +9884,7 @@
 0.0.0.0 www.supportoid.com
 0.0.0.0 www.supportpcclean.com
 0.0.0.0 www.swt3r.voluumtrk.com
+0.0.0.0 www.sxmmgiuilt.com
 0.0.0.0 www.t2lgo.com
 0.0.0.0 www.talk99.cn
 0.0.0.0 www.tapad.com
@@ -10009,6 +10038,7 @@
 0.0.0.0 x.appbaqend.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.flurry.com
+0.0.0.0 x7xirtzmot.com
 0.0.0.0 x888x.myserver.org
 0.0.0.0 xads.zedo.com
 0.0.0.0 xapads.adk2x.com
@@ -10147,6 +10177,7 @@
 0.0.0.0 zindas.info
 0.0.0.0 zl1.quebec-bin.com
 0.0.0.0 zlx.com.br
+0.0.0.0 zme8o3l1c4.com
 0.0.0.0 znacktv.it
 0.0.0.0 znsqykdmcjh.com
 0.0.0.0 zo1.sierra-boa.com

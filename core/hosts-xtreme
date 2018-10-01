@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.09.271
-# Release: 271
-# Entries: 5,058
+# Version: 18.10.274
+# Release: 274
+# Entries: 5,130
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Sep 18 14:37:19
+# Updated: Mon, 01 Oct 18 19:27:44
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -132,6 +132,8 @@
 0.0.0.0 aax-us-west.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 abroad.api.comm.intl.miui.com
+0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 academy-test.addthis.com
@@ -148,6 +150,8 @@
 0.0.0.0 ace.advertising.com
 0.0.0.0 acp.1rx.io
 0.0.0.0 acs.maribacaberita.com
+0.0.0.0 act.browser.india.miui.com
+0.0.0.0 act.browser.intl.miui.com
 0.0.0.0 action-beta.media6degrees.com
 0.0.0.0 action.exelator.com
 0.0.0.0 action.mathtag.com
@@ -158,6 +162,7 @@
 0.0.0.0 actions.media6degrees.com
 0.0.0.0 activation.adobedtm.com
 0.0.0.0 activisionblizzardin.demdex.net
+0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 activity.umeng.com
 0.0.0.0 activity.wshareit.com
 0.0.0.0 ad-dc2.adtech.de
@@ -206,6 +211,7 @@
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.ushareit.com
+0.0.0.0 adcs.rqmob.com
 0.0.0.0 add.rayjump.com
 0.0.0.0 addon.uc.cn
 0.0.0.0 addondl.uc.cn
@@ -420,6 +426,7 @@
 0.0.0.0 adtech.de
 0.0.0.0 adtechus.com
 0.0.0.0 adtrack.ucweb.com
+0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 adverline-d.openx.net
 0.0.0.0 advertiser.applovin.com
@@ -604,24 +611,35 @@
 0.0.0.0 api.adnxs.com
 0.0.0.0 api.adsafeprotected.com
 0.0.0.0 api.appsflyer.com
+0.0.0.0 api.assistant.miui.com
 0.0.0.0 api.batterylab.duapps.com
+0.0.0.0 api.bbs.miui.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.brightcove.com
+0.0.0.0 api.browser.intl.miui.com
+0.0.0.0 api.browser.miui.com
+0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.chartbeat.com
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.cloudmobi.net
+0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.comm.miui.com
+0.0.0.0 api.competition.intl.miui.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.criteo.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 api.demdex.com
 0.0.0.0 api.device.xiaomi.net
+0.0.0.0 api.en.miui.com
 0.0.0.0 api.eu.subscription.cloudmobi.net
 0.0.0.0 api.facebook.com
 0.0.0.0 api.flurry.com
+0.0.0.0 api.gallery.intl.miui.com
 0.0.0.0 api.gif.duapps.com
 0.0.0.0 api.gslb.brightcove.com
+0.0.0.0 api.huangye.miui.com
+0.0.0.0 api.input.intl.miui.com
 0.0.0.0 api.io.mi.com
 0.0.0.0 api.lijit.com
 0.0.0.0 api.mediavoice.com
@@ -633,6 +651,7 @@
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 api.newrelic.com
+0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.open.uc.cn
 0.0.0.0 api.outbrain.com
 0.0.0.0 api.parsely.com
@@ -641,10 +660,15 @@
 0.0.0.0 api.recorder.duapps.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rqa.recorder.duapps.com
+0.0.0.0 api.rqmob.com
+0.0.0.0 api.ru.miui.com
+0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
+0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.spotxchange.com
 0.0.0.0 api.stickers.duapps.com
 0.0.0.0 api.taboola.com
+0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.ucweb.com
 0.0.0.0 api.umeng.com
 0.0.0.0 api.ushareit.com
@@ -759,6 +783,8 @@
 0.0.0.0 at0.addthis.com
 0.0.0.0 atom.adjust.com
 0.0.0.0 att.demdex.net
+0.0.0.0 attach.bbs.miui.com
+0.0.0.0 attach.en.miui.com
 0.0.0.0 attadworks.turn.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 atwola-sb-ec.adtechus.com
@@ -766,6 +792,7 @@
 0.0.0.0 au-gmtdmp.gd3.mookie1.com
 0.0.0.0 au-gmtdmp.mookie1.com
 0.0.0.0 au.apk.umeng.com
+0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 au.umeng.co
 0.0.0.0 au.umeng.com
 0.0.0.0 aucdn.umeng.co
@@ -781,7 +808,9 @@
 0.0.0.0 aufeminin-g-d.openx.net
 0.0.0.0 auspost.demdex.net
 0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 auth.ff.avast.sec.miui.com
 0.0.0.0 auth.flurry.com
+0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 authentication.taboola.com
 0.0.0.0 autoapi.chartbeat.com
 0.0.0.0 autodiscover.uc.com
@@ -805,6 +834,7 @@
 0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 b-api.facebook.com
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 b-stage.scorecardresearch.com
 0.0.0.0 b-staging.wishabi.com
 0.0.0.0 b.adnxs.com
@@ -970,6 +1000,7 @@
 0.0.0.0 bidder2.criteo.com
 0.0.0.0 bidswitch.net
 0.0.0.0 big-files.adform.net
+0.0.0.0 bigota.d.miui.com
 0.0.0.0 billing.taboola.com
 0.0.0.0 bitdefender.demdex.net
 0.0.0.0 biz.appsflyer.com
@@ -1071,6 +1102,7 @@
 0.0.0.0 c.adsco.re
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.brightcove.com
+0.0.0.0 c.disquscdn.com
 0.0.0.0 c.id.mi.com
 0.0.0.0 c.maribacaberita.com
 0.0.0.0 c.quantserve.com
@@ -1199,6 +1231,7 @@
 0.0.0.0 cdn.pubmatic.com
 0.0.0.0 cdn.revsci.net
 0.0.0.0 cdn.rlcdn.com
+0.0.0.0 cdn.rqmob.com
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdn.spotxchange.com
 0.0.0.0 cdn.taboola.com
@@ -1298,6 +1331,7 @@
 0.0.0.0 cn.support.appsflyer.com
 0.0.0.0 cn.taboola.com
 0.0.0.0 cna.rtb.adsrvr.org
+0.0.0.0 cname-middle.browser.miui.com
 0.0.0.0 cnc.fe01.lg.xiaomi.com
 0.0.0.0 cnhybird-abtest-ws.rayjump.com
 0.0.0.0 cnnmoney.tags.crwdcntrl.net
@@ -1417,6 +1451,7 @@
 0.0.0.0 crownandcaliber.adlegend.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryptauthenrollment.googleapis.com
+0.0.0.0 cse.avlyun.sec.miui.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 cspix.media6degrees.com
 0.0.0.0 ct.advertising.com
@@ -1489,6 +1524,7 @@
 0.0.0.0 data.mathtag.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 data.tapad.com
 0.0.0.0 data.typekit.net
@@ -1615,6 +1651,7 @@
 0.0.0.0 distribution.brightcove.com
 0.0.0.0 divorcedpeoplemeet.adlegend.com
 0.0.0.0 dk-gmtdmp.mookie1.com
+0.0.0.0 dl.cm.sec.miui.com
 0.0.0.0 dls.ucweb.com
 0.0.0.0 dlx.krxd.net
 0.0.0.0 dmp-eu.adform.net
@@ -1772,6 +1809,7 @@
 0.0.0.0 en.browser.uc.com
 0.0.0.0 en.support.appsflyer.com
 0.0.0.0 en.uc123.com
+0.0.0.0 enbigota.d.miui.com
 0.0.0.0 end.scorecardresearch.com
 0.0.0.0 engagebdr.sync.go.sonobi.com
 0.0.0.0 engine.mobileapptracking.com
@@ -1790,6 +1828,7 @@
 0.0.0.0 error.demdex.net
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 es-gmtdmp.mookie1.com
+0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 eu-de-user.bidswitch.net
 0.0.0.0 eu-de.bidswitch.net
 0.0.0.0 eu-gce-user.bidswitch.net
@@ -1905,6 +1944,7 @@
 0.0.0.0 feed.taboola.com
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedback.adroll.com
+0.0.0.0 feedback.miui.com
 0.0.0.0 feedback.uc.cn
 0.0.0.0 feedback.umeng.com
 0.0.0.0 feedburner.google.com
@@ -1912,6 +1952,7 @@
 0.0.0.0 fi-gmtdmp.mookie1.com
 0.0.0.0 fi.advertising.com
 0.0.0.0 file.market.xiaomi.com
+0.0.0.0 file.update.miui.com
 0.0.0.0 file.xmpush.xiaomi.com
 0.0.0.0 files.adform.net
 0.0.0.0 files.brightcove.com
@@ -1927,6 +1968,8 @@
 0.0.0.0 fk-gray-tknet.rayjump.com
 0.0.0.0 fk-mtrack.rayjump.com
 0.0.0.0 flash.quantserve.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 flash.sec.miui.com
 0.0.0.0 fliggy.taobao.com
 0.0.0.0 flightaware-d.openx.net
 0.0.0.0 flixster.crwdcntrl.net
@@ -2051,6 +2094,7 @@
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 gallery.brightcove.com
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
+0.0.0.0 gallery.config.miui.com
 0.0.0.0 gallery.pandora.xiaomi.com
 0.0.0.0 gallery.taboola.com
 0.0.0.0 game.xiaomi.com
@@ -2129,6 +2173,7 @@
 0.0.0.0 glbad.adtechus.com
 0.0.0.0 glbl.adlegend.com
 0.0.0.0 global.adform.net
+0.0.0.0 global.api.huangye.miui.com
 0.0.0.0 global.appsflyer.com
 0.0.0.0 global.load.exelator.com
 0.0.0.0 global.px.quantserve.com
@@ -2212,6 +2257,7 @@
 0.0.0.0 h.glb.nexac.com
 0.0.0.0 h.nexac.com
 0.0.0.0 h.scorecardresearch.com
+0.0.0.0 h5.app.intl.miui.com
 0.0.0.0 h5.m.taobao.com
 0.0.0.0 h5.mall.wshareit.com
 0.0.0.0 h5api.m.taobao.com
@@ -2268,6 +2314,7 @@
 0.0.0.0 hochishimbun-d.openx.net
 0.0.0.0 holmeshelp.ucweb.com
 0.0.0.0 homedepot.demdex.net
+0.0.0.0 hot.browser.miui.com
 0.0.0.0 housead.umeng.com
 0.0.0.0 hp.demdex.net
 0.0.0.0 hpr.outbrain.com
@@ -2686,6 +2733,7 @@
 0.0.0.0 lockit.ushareit.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log.adaptv.advertising.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.chartbeat.com
 0.0.0.0 log.cloudmobi.net
 0.0.0.0 log.dp.duapps.com
@@ -2888,6 +2936,8 @@
 0.0.0.0 mishop.pandora.xiaomi.com
 0.0.0.0 mitsuifudosangroup.demdex.net
 0.0.0.0 mitunes.game.xiaomi.com
+0.0.0.0 mitv.tracking.miui.com
+0.0.0.0 miui-l7-data-other.pt.miui.com
 0.0.0.0 ml.ixiaa.com
 0.0.0.0 ml.ixiaa.comml.ixiaa.com
 0.0.0.0 ml314.com
@@ -2997,6 +3047,7 @@
 0.0.0.0 nationalinsturments.demdex.net
 0.0.0.0 native-ad-api.tapad.com
 0.0.0.0 nativo.openadid.adnxs.com
+0.0.0.0 nav.browser.miui.com
 0.0.0.0 navicms.ucweb.com
 0.0.0.0 navigis.uc.cn
 0.0.0.0 navimaps.ini.uae.uc.cn
@@ -3444,7 +3495,6 @@
 0.0.0.0 platform.mobileapptracking.com
 0.0.0.0 platform.rubiconproject.com
 0.0.0.0 play.brightcove.com
-0.0.0.0 play.googleapis.com
 0.0.0.0 play.rayjump.com
 0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 playbill-d.openx.net
@@ -3462,6 +3512,7 @@
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 pmall.migc.xiaomi.com
 0.0.0.0 pmapi.wshareit.com
+0.0.0.0 pmir.sec.miui.com
 0.0.0.0 pncbank.demdex.net
 0.0.0.0 pong.typekit.net
 0.0.0.0 pool3.moatads.com
@@ -3471,7 +3522,9 @@
 0.0.0.0 popads.net
 0.0.0.0 poppin.adlegend.com
 0.0.0.0 popup.taboola.com
+0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 portal.demdex.com
+0.0.0.0 portal.fb.com
 0.0.0.0 portal.tidaltv.com
 0.0.0.0 portal.ucgc.ucfly.com
 0.0.0.0 post-a-staging.wishabi.com
@@ -3517,6 +3570,7 @@
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 proton-int.flurry.com
 0.0.0.0 proton.flurry.com
+0.0.0.0 proxy.sec.miui.com
 0.0.0.0 proxy.spotxchange.com
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 ps-eu.amazon-adsystem.com
@@ -3596,12 +3650,14 @@
 0.0.0.0 qiye.xiaomi.com
 0.0.0.0 quantserve.com
 0.0.0.0 questsoftware.demdex.net
+0.0.0.0 quoteapi.webull.sec.miui.com
 0.0.0.0 qvc.adlegend.com
 0.0.0.0 r-data.adsrvr.org
 0.0.0.0 r.254a.comjs.moatads.com
 0.0.0.0 r.adroll.com
 0.0.0.0 r.applovin.com
 0.0.0.0 r.appsflyer.com
+0.0.0.0 r.browser.intl.miui.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.dlx.addthis.com
@@ -3643,6 +3699,7 @@
 0.0.0.0 re.adroll.com
 0.0.0.0 re.rlcdn.com
 0.0.0.0 reactjs.algolia.com
+0.0.0.0 reader.browser.miui.com
 0.0.0.0 reader.taobao.com
 0.0.0.0 reagroup-1.demdex.net
 0.0.0.0 rec.uc.cn
@@ -3715,6 +3772,7 @@
 0.0.0.0 rpm.newrelic.com
 0.0.0.0 rpr.newrelic.com
 0.0.0.0 rq-direct.revsci.net
+0.0.0.0 rqmob.com
 0.0.0.0 rrc-weight.rlcdn.com
 0.0.0.0 rrc.rlcdn.com
 0.0.0.0 rrd.rlcdn.com
@@ -3815,6 +3873,7 @@
 0.0.0.0 s8.taobao.com
 0.0.0.0 s9.addthis.com
 0.0.0.0 sa-only.outbrain.com
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sa.ia1.scorecardresearch.com
 0.0.0.0 sa.ia2.scorecardresearch.com
 0.0.0.0 sa.ia3.scorecardresearch.com
@@ -3921,6 +3980,7 @@
 0.0.0.0 securecdn.tidaltv.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securetoken.googleapis.com
+0.0.0.0 security.browser.miui.com
 0.0.0.0 seg-1.adjust.com
 0.0.0.0 seg-2.adjust.com
 0.0.0.0 segapi.quantserve.com
@@ -4183,6 +4243,7 @@
 0.0.0.0 static-test.outbrain.com
 0.0.0.0 static-uk.chartbeat.com
 0.0.0.0 static.adsafeprotected.com
+0.0.0.0 static.bbs.miui.com
 0.0.0.0 static.blog.chartbeat.com
 0.0.0.0 static.brightcove.com
 0.0.0.0 static.chartbeat.com
@@ -4190,6 +4251,7 @@
 0.0.0.0 static.cloudmobi.net
 0.0.0.0 static.criteo.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.en.intl.miui.com
 0.0.0.0 static.exelator.com
 0.0.0.0 static.eyeviewads.com
 0.0.0.0 static.game.xiaomi.com
@@ -4200,6 +4262,8 @@
 0.0.0.0 static.panoramio.com.storage.googleapis.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.popads.net
+0.0.0.0 static.rqmob.com
+0.0.0.0 static.ru.intl.miui.com
 0.0.0.0 static.stickers.duapps.com
 0.0.0.0 static.turn.com
 0.0.0.0 static.ucgc.ucfly.com
@@ -4293,6 +4357,7 @@
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 synd.cricbuzz.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 synthetics-horde.nr-data.net
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 sz-loc.ushareit.com
@@ -4433,13 +4498,15 @@
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.umeng.com
+0.0.0.0 tracker.rqmob.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.taboola.com
 0.0.0.0 trade.taobao.com
 0.0.0.0 traffective-d.openx.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trainline.demdex.net
-0.0.0.0 translate.googleapis.com
 0.0.0.0 translation.criteo.com
 0.0.0.0 traveldetail.taobao.com
 0.0.0.0 trc.taboola.com
@@ -4514,6 +4581,7 @@
 0.0.0.0 uccricket.napi.ucweb.com
 0.0.0.0 uccricket.ucweb.com
 0.0.0.0 ucdl.down.uc.cn
+0.0.0.0 ucenter.miui.com
 0.0.0.0 ucflow.uc.cn
 0.0.0.0 ucfly.com
 0.0.0.0 ucip.uc.cn
@@ -4574,6 +4642,8 @@
 0.0.0.0 unionslot.lau1.uae.uc.cn
 0.0.0.0 university.algolia.com
 0.0.0.0 university.corp.outbrain.com
+0.0.0.0 unlock.update.intl.miui.com
+0.0.0.0 unlock.update.miui.com
 0.0.0.0 unsecure-admin.spotxchange.com
 0.0.0.0 unszacs4public.m.taobao.com
 0.0.0.0 uop.umeng.com
@@ -4842,6 +4912,7 @@
 0.0.0.0 web.polarmobile.com
 0.0.0.0 web.umeng.com
 0.0.0.0 web.ushareit.com
+0.0.0.0 webapp.browser.miui.com
 0.0.0.0 webmd.demdex.net
 0.0.0.0 webmedia01.adlegend.com
 0.0.0.0 webservices.krxd.net
@@ -5047,6 +5118,7 @@
 0.0.0.0 xiaoshuo.uc123.com
 0.0.0.0 xiazai.xiaomi.com
 0.0.0.0 xitong.xiaomi.com
+0.0.0.0 xk.miui.com
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xp.umeng.com
 0.0.0.0 xshare.api.xiaomi.com
@@ -5080,7 +5152,6 @@
 0.0.0.0 yj.p.adnxs.com
 0.0.0.0 yldbt.com
 0.0.0.0 ynuf.aliapp.org
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yt.moatads.comyt.moatads.com
 0.0.0.0 yts.moatads.com
@@ -5102,6 +5173,7 @@
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zhaopin.taobao.com
 0.0.0.0 zhongyile.taobao.com
+0.0.0.0 zhushou.miui.com
 0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zina.flurry.com
 0.0.0.0 zodiak-d.openx.net
