@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.10.275
-# Release: 275
-# Entries: 10,312
+# Version: 18.10.281
+# Release: 281
+# Entries: 10,485
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 02 Oct 18 15:02:14
+# Updated: Mon, 08 Oct 18 11:42:33
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -288,6 +288,7 @@
 0.0.0.0 accounts.livefyre.com
 0.0.0.0 accu-chek.it
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 acdn.appia.com
 0.0.0.0 ace.advertising.com
 0.0.0.0 ach.appodeal.com
 0.0.0.0 ackak.com
@@ -381,6 +382,7 @@
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-nb.mgid.com
+0.0.0.0 ad-ramp.appia.com
 0.0.0.0 ad-rdh.adworx.at
 0.0.0.0 ad-serving.co
 0.0.0.0 ad-stat.ksosoft.com
@@ -478,6 +480,7 @@
 0.0.0.0 ad.pt.doubleclick.net
 0.0.0.0 ad.ro.doubleclick.net
 0.0.0.0 ad.rs.doubleclick.net
+0.0.0.0 ad.s.a-ads.com
 0.0.0.0 ad.se.doubleclick.net
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 ad.si.doubleclick.net
@@ -502,6 +505,15 @@
 0.0.0.0 ad0.api.ero-advertising.com
 0.0.0.0 ad0.banners.ero-advertising.com
 0.0.0.0 ad0.data2.ero-advertising.com
+0.0.0.0 ad001.a-ads.com
+0.0.0.0 ad004.a-ads.com
+0.0.0.0 ad007.a-ads.com
+0.0.0.0 ad009.a-ads.com
+0.0.0.0 ad011.a-ads.com
+0.0.0.0 ad012.a-ads.com
+0.0.0.0 ad013.a-ads.com
+0.0.0.0 ad014.a-ads.com
+0.0.0.0 ad015.a-ads.com
 0.0.0.0 ad1.ads.ero-advertising.com
 0.0.0.0 ad1.adspaces.ero-advertising.com
 0.0.0.0 ad1.api.ero-advertising.com
@@ -539,7 +551,10 @@
 0.0.0.0 ad2.ero-advertising.com
 0.0.0.0 ad2.thumbs.ero-advertising.com
 0.0.0.0 ad20m.adk2.co
+0.0.0.0 ad210.a-ads.com
+0.0.0.0 ad212.a-ads.com
 0.0.0.0 ad213m.adk2.co
+0.0.0.0 ad217.a-ads.com
 0.0.0.0 ad222m.adk2.co
 0.0.0.0 ad248m.adk2.co
 0.0.0.0 ad2ad.ir
@@ -549,6 +564,7 @@
 0.0.0.0 ad3.api.ero-advertising.com
 0.0.0.0 ad3.banners.ero-advertising.com
 0.0.0.0 ad3.fpa.ero-advertising.com
+0.0.0.0 ad3.liverail.com
 0.0.0.0 ad317m.adk2.co
 0.0.0.0 ad360.vn
 0.0.0.0 ad362m.adk2.co
@@ -556,7 +572,10 @@
 0.0.0.0 ad4.api.ero-advertising.com
 0.0.0.0 ad4.banners.ero-advertising.com
 0.0.0.0 ad4.layerads.ero-advertising.com
+0.0.0.0 ad4.live.liverail.com
+0.0.0.0 ad4.liverail.com
 0.0.0.0 ad4.thumbs.ero-advertising.com
+0.0.0.0 ad4.z.liverail.com
 0.0.0.0 ad400m.adk2.co
 0.0.0.0 ad401m.adk2.co
 0.0.0.0 ad402m.adk2.co
@@ -573,9 +592,11 @@
 0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.fpa.ero-advertising.com
+0.0.0.0 ad5.liverail.com
 0.0.0.0 ad57m.adk2.co
 0.0.0.0 ad6.adspaces.ero-advertising.com
 0.0.0.0 ad6.banners.ero-advertising.com
+0.0.0.0 ad6.liverail.com
 0.0.0.0 ad6media.fr
 0.0.0.0 ad7.adspaces.ero-advertising.com
 0.0.0.0 ad7.api.ero-advertising.com
@@ -810,6 +831,7 @@
 0.0.0.0 adocean.pl
 0.0.0.0 adoffer.lenzmx.com
 0.0.0.0 adonly.com
+0.0.0.0 adops.appia.com
 0.0.0.0 adops.cricbuzz.com
 0.0.0.0 adorika.net
 0.0.0.0 adotmob.com
@@ -842,6 +864,7 @@
 0.0.0.0 ads-by.yieldselect.com
 0.0.0.0 ads-cadreon.adhese.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
+0.0.0.0 ads-clicks-installs.prod.appia.com
 0.0.0.0 ads-corelio.adhese.com
 0.0.0.0 ads-deltatv-x64zcsqq.netdna-ssl.com
 0.0.0.0 ads-east-colo.adsymptotic.com
@@ -850,6 +873,7 @@
 0.0.0.0 ads-lannoo.adhese.com
 0.0.0.0 ads-newsmonkey.adhese.com
 0.0.0.0 ads-nrc.adhese.com
+0.0.0.0 ads-preloads.prod.appia.com
 0.0.0.0 ads-rain.com
 0.0.0.0 ads-rmb.adhese.com
 0.0.0.0 ads-sbs.adhese.com
@@ -960,6 +984,7 @@
 0.0.0.0 ads.prnt.sc
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.proc.cc
+0.0.0.0 ads.prod.appia.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.qadservice.com
 0.0.0.0 ads.reddit.com
@@ -1006,6 +1031,7 @@
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads2.creativecirclemedia.com
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.msn.com.c.footprint.net
 0.0.0.0 ads2.servebom.com
@@ -1354,6 +1380,7 @@
 0.0.0.0 adsrocket.net
 0.0.0.0 adsroute.adk2.co
 0.0.0.0 adsroute.adk2x.com
+0.0.0.0 adsrs.appia.com
 0.0.0.0 adsrv-ap-southeast.tapad.com
 0.0.0.0 adsrv-eu-ssl.tapad.com
 0.0.0.0 adsrv-eu.tapad.com
@@ -1427,6 +1454,14 @@
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.zkmobi.com
+0.0.0.0 adv0.a-ads.com
+0.0.0.0 adv1.a-ads.com
+0.0.0.0 adv2.a-ads.com
+0.0.0.0 adv3.a-ads.com
+0.0.0.0 adv4.a-ads.com
+0.0.0.0 adv5.a-ads.com
+0.0.0.0 adv6.a-ads.com
+0.0.0.0 adv7.a-ads.com
 0.0.0.0 advadmin.strategy.it
 0.0.0.0 advantech.vo.llnwd.net
 0.0.0.0 advdl.ammadv.it
@@ -1993,6 +2028,7 @@
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api2.wshareit.com
 0.0.0.0 api211.thefilter.com
+0.0.0.0 api4.liverail.com
 0.0.0.0 api5.batmobil.net
 0.0.0.0 api9.net
 0.0.0.0 apips.pubmatic.com
@@ -2026,6 +2062,7 @@
 0.0.0.0 app.top1mobiad1.com
 0.0.0.0 app.uc.cn
 0.0.0.0 app.whappodo.com
+0.0.0.0 app0.a-ads.com
 0.0.0.0 app0.ucfly.com
 0.0.0.0 app01.adfalcon.com
 0.0.0.0 app02.adfalcon.com
@@ -2052,6 +2089,7 @@
 0.0.0.0 appflow.maribacaberita.com
 0.0.0.0 appfly.mobi
 0.0.0.0 appgalleries.inmobi.com
+0.0.0.0 appia.com
 0.0.0.0 appintop.com
 0.0.0.0 appk.mobi
 0.0.0.0 apple.com-notice.info
@@ -2147,6 +2185,7 @@
 0.0.0.0 asset1.sponsorpay.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.alphonso.tv
+0.0.0.0 assets.appia.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.bttrack.com
 0.0.0.0 assets.map.brightcove.com
@@ -2251,6 +2290,7 @@
 0.0.0.0 b42.re
 0.0.0.0 babanetwork.adk2x.com
 0.0.0.0 babeljs.algolia.com
+0.0.0.0 backoffice.liverail.com
 0.0.0.0 baconaces.pro
 0.0.0.0 bacr.com.pk
 0.0.0.0 badboys.network
@@ -2430,6 +2470,7 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacon.shazam.com
+0.0.0.0 beacon.statful.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 bead-ad.com
@@ -2489,6 +2530,7 @@
 0.0.0.0 bid.axiatraders.com
 0.0.0.0 bid.grandonmedia.com
 0.0.0.0 bid.pubmatic.com
+0.0.0.0 biddata.appia.com
 0.0.0.0 bidder-0.tinyhoneybee.com
 0.0.0.0 bidder-eu.adacts.com
 0.0.0.0 bidder-in.adacts.com
@@ -2498,6 +2540,8 @@
 0.0.0.0 bidder.eyeviewads.com
 0.0.0.0 bidder.in.adacts.com
 0.0.0.0 bidder.mdspinc.com
+0.0.0.0 bidder.us.east.liverail.com
+0.0.0.0 bidder.us.west.liverail.com
 0.0.0.0 bidgear.com
 0.0.0.0 bidgears.com
 0.0.0.0 bidr.io
@@ -2537,6 +2581,7 @@
 0.0.0.0 blizardom.com
 0.0.0.0 blocklist.addons.mozilla.org
 0.0.0.0 blog-ja.ad-stir.com
+0.0.0.0 blog.a-ads.com
 0.0.0.0 blog.adblade.com
 0.0.0.0 blog.adbuddiz.com
 0.0.0.0 blog.adcash.com
@@ -2728,8 +2773,18 @@
 0.0.0.0 c2.video-ak.cdn.spotify.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 c2i.startappnetwork.com
+0.0.0.0 c2s-adap.liverail.com
+0.0.0.0 c2s-dynadmic.liverail.com
+0.0.0.0 c2s-fbaudience.liverail.com
+0.0.0.0 c2s-iponweb.liverail.com
+0.0.0.0 c2s-openrtb.liverail.com
+0.0.0.0 c2s-run.liverail.com
+0.0.0.0 c2s-torrential.liverail.com
+0.0.0.0 c2s-videology.liverail.com
+0.0.0.0 c2s-yashi.liverail.com
 0.0.0.0 c2s.startappnetwork.com
 0.0.0.0 c2s.w.inmobi.com
+0.0.0.0 c2s.z.liverail.com
 0.0.0.0 c3-use-1.algolia.com
 0.0.0.0 c3.adalyser.com
 0.0.0.0 c3.myapkcdn.in
@@ -2807,7 +2862,10 @@
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-jp.gsecondscreen.com
+0.0.0.0 cdn-secure.liverail.com
 0.0.0.0 cdn-settings.segment.com
+0.0.0.0 cdn-static-secure.liverail.com
+0.0.0.0 cdn-static.liverail.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.ad4game.com
 0.0.0.0 cdn.adacts.com
@@ -2832,6 +2890,7 @@
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 cdn.appia.com
 0.0.0.0 cdn.applift.com
 0.0.0.0 cdn.appservestar.com
 0.0.0.0 cdn.appsflyer.com
@@ -2882,6 +2941,7 @@
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.linkwelove.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 cdn.liverail.com
 0.0.0.0 cdn.lkjuio.com
 0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.media.amp.avai.com
@@ -2933,6 +2993,7 @@
 0.0.0.0 cdn01.static.adfalcon.com
 0.0.0.0 cdn1.ad-center.com
 0.0.0.0 cdn1.adexprt.com
+0.0.0.0 cdn1.appia.com
 0.0.0.0 cdn1.ettoday.net
 0.0.0.0 cdn1.gulugulutest.com
 0.0.0.0 cdn1.inner-active.mobi
@@ -3007,6 +3068,7 @@
 0.0.0.0 check.purebros.it
 0.0.0.0 cheerful-mood.mobi
 0.0.0.0 cheese.uc.cn
+0.0.0.0 chef.a-ads.com
 0.0.0.0 chef.algolia.com
 0.0.0.0 chef.bluekai.com
 0.0.0.0 chequent.info
@@ -3051,6 +3113,7 @@
 0.0.0.0 click-now-on.me
 0.0.0.0 click-on-this-now.online
 0.0.0.0 click-rtb-useast.kobenetwork.com
+0.0.0.0 click.a-ads.com
 0.0.0.0 click.abctrack.bid
 0.0.0.0 click.ad-stir.com
 0.0.0.0 click.adzcore.com
@@ -3144,6 +3207,7 @@
 0.0.0.0 clkfeed.com
 0.0.0.0 clkmon.com
 0.0.0.0 clkrev.com
+0.0.0.0 clks.appia.com
 0.0.0.0 clksite.com
 0.0.0.0 clktag.com
 0.0.0.0 clktrk.display.io
@@ -3279,6 +3343,7 @@
 0.0.0.0 convertexperiments.com
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
+0.0.0.0 convs.appia.com
 0.0.0.0 cookie.green-red.com
 0.0.0.0 cookiescript.info
 0.0.0.0 cookiescriptcdn.pro
@@ -3349,6 +3414,7 @@
 0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creatives.adswizz.com
+0.0.0.0 creatives.appia.com
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 creatives.leadcapitalcrp.com
 0.0.0.0 creativesceneses.com
@@ -3469,6 +3535,7 @@
 0.0.0.0 d869381a42af33b.com
 0.0.0.0 d9.video-ak.cdn.spotify.com
 0.0.0.0 da-ads.com
+0.0.0.0 da.a-ads.com
 0.0.0.0 da.oipzyrzffum.ovh
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 daea.ero-advertising.com
@@ -3587,11 +3654,13 @@
 0.0.0.0 deliver.ads2.iid.jp
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 delivery-cdn-cf.adswizz.com
+0.0.0.0 delivery-geo.liverail.com
 0.0.0.0 delivery-insights.snapads.com
 0.0.0.0 delivery.brokerbabe.com
 0.0.0.0 delivery.supersonicads.com
 0.0.0.0 delivery.trafficforce.com
 0.0.0.0 delivery.trafficjunky.net
+0.0.0.0 delivery.us.east.liverail.com
 0.0.0.0 delivery.us.myswitchads.com
 0.0.0.0 delivery1.eadv.it
 0.0.0.0 deliveryengine.adswizz.com
@@ -3684,6 +3753,7 @@
 0.0.0.0 discover-soak.bluekai.com
 0.0.0.0 discover.mixpanel.com
 0.0.0.0 discover.outbrain.com
+0.0.0.0 discoverapps.appia.com
 0.0.0.0 discovery.outbrain.com
 0.0.0.0 discreetfield.com
 0.0.0.0 discuss.appsflyer.com
@@ -3952,6 +4022,7 @@
 0.0.0.0 email.appsflyer.com
 0.0.0.0 email.careers.appsflyer.com
 0.0.0.0 email.livefyre.com
+0.0.0.0 email.liverail.com
 0.0.0.0 emailct.addthis.com
 0.0.0.0 emails.outbrain.com
 0.0.0.0 embanet.vo.llnwd.net
@@ -4173,6 +4244,7 @@
 0.0.0.0 file.xmpush.xiaomi.com
 0.0.0.0 filecast.co.kr
 0.0.0.0 filepin.com
+0.0.0.0 files.a-ads.com
 0.0.0.0 files.adform.net
 0.0.0.0 files.adformdsp.net
 0.0.0.0 files.brightcove.com
@@ -4243,6 +4315,7 @@
 0.0.0.0 fortpush.com
 0.0.0.0 forum.addthis.com
 0.0.0.0 forum.adspaces.ero-advertising.com
+0.0.0.0 forum.appia.com
 0.0.0.0 forum.brightcove.com
 0.0.0.0 forum.ero-advertising.com
 0.0.0.0 forum.ucweb.com
@@ -4348,6 +4421,7 @@
 0.0.0.0 gateway.supersonicads.com
 0.0.0.0 gb-notify.mgid.com
 0.0.0.0 gb.mgid.com
+0.0.0.0 gbedccihjeajhchcaea.ru
 0.0.0.0 gce-sc.bidswitch.net
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.ushareit.com
@@ -4870,6 +4944,7 @@
 0.0.0.0 impressions-gc.appsflyer.com
 0.0.0.0 imprhkmp.taboola.com
 0.0.0.0 imprlatbmp.taboola.com
+0.0.0.0 imps.appia.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 imysurvey.com
 0.0.0.0 in-gmtdmp.mookie1.com
@@ -4899,6 +4974,7 @@
 0.0.0.0 indonesia.uodoo.com
 0.0.0.0 infinity-info.com
 0.0.0.0 info.a7.org
+0.0.0.0 info.appia.com
 0.0.0.0 info.cxense.com
 0.0.0.0 info.flurry.com
 0.0.0.0 info.inmobi.com
@@ -5214,6 +5290,7 @@
 0.0.0.0 laborates.com
 0.0.0.0 labs.adacts.com
 0.0.0.0 landing-review.admin.mgid.com
+0.0.0.0 landing.appia.com
 0.0.0.0 landingtest.mixpanel.com
 0.0.0.0 lapresse.adgear.com
 0.0.0.0 largeloot.com
@@ -5232,6 +5309,7 @@
 0.0.0.0 lb.statsevent.com
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 lb4.a-ads.com
 0.0.0.0 lbs.pandora.xiaomi.com
 0.0.0.0 lbs.ucnews.ucweb.com
 0.0.0.0 lbytagcqxefsn.com
@@ -5304,6 +5382,7 @@
 0.0.0.0 liveintent.com
 0.0.0.0 livepreview.adform.com
 0.0.0.0 livepromo.net
+0.0.0.0 liverail-c10r.liverail.com
 0.0.0.0 liverail.com
 0.0.0.0 liverail.demand.go.sonobi.com
 0.0.0.0 liverail.rtb.tapad.com
@@ -5324,6 +5403,8 @@
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
 0.0.0.0 lockit.ushareit.com
+0.0.0.0 log-01.ec2.us.east.liverail.com
+0.0.0.0 log-b.liverail.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.avlyun.sec.intl.miui.com
@@ -5331,6 +5412,7 @@
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.isnssdk.com
+0.0.0.0 log.liverail.com
 0.0.0.0 log.lkjuio.com
 0.0.0.0 log.musical.ly
 0.0.0.0 log.ngsm.nexon.com
@@ -5386,6 +5468,7 @@
 0.0.0.0 loudloss.com
 0.0.0.0 lovoo.com
 0.0.0.0 lp-site.com
+0.0.0.0 lp.liverail.com
 0.0.0.0 lp.lptrack.co
 0.0.0.0 lp.moviesfanatic.com
 0.0.0.0 lp.outbrain.com
@@ -5511,6 +5594,7 @@
 0.0.0.0 marktplaats.demdex.net
 0.0.0.0 marsads.com
 0.0.0.0 marticula.com
+0.0.0.0 marvel.appia.com
 0.0.0.0 masture.mobi
 0.0.0.0 mata.ero-advertising.com
 0.0.0.0 match.adsrvr.org
@@ -5685,6 +5769,7 @@
 0.0.0.0 mktg.tvpage.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 mm.a-ads.com
 0.0.0.0 mm.admob.com
 0.0.0.0 mm.atdmt.com
 0.0.0.0 mm.chitika.net
@@ -6055,6 +6140,7 @@
 0.0.0.0 ns1.ucweb.com
 0.0.0.0 ns1.uodoo.com
 0.0.0.0 ns156.appservestar.com
+0.0.0.0 ns2.a-ads.com
 0.0.0.0 ns2.adinch.com
 0.0.0.0 ns2.backbeatmedia.com
 0.0.0.0 ns2.exoclick.com
@@ -6415,6 +6501,7 @@
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
 0.0.0.0 pagepeel.ero-advertising.com
+0.0.0.0 pages.appia.com
 0.0.0.0 pages.flurry.com
 0.0.0.0 pages04.net
 0.0.0.0 paid.outbrain.com
@@ -6434,6 +6521,7 @@
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnerearning.com
+0.0.0.0 partnerprogram.liverail.com
 0.0.0.0 partners.adjust.com
 0.0.0.0 partners.appsflyer.com
 0.0.0.0 partners.cxense.com
@@ -6500,6 +6588,7 @@
 0.0.0.0 phpmyadmin.ads.ero-advertising.com
 0.0.0.0 phpmyadmin.ero-advertising.com
 0.0.0.0 phpmyadmin.js.ero-advertising.com
+0.0.0.0 pi-ads.appia.com
 0.0.0.0 pietexture.com
 0.0.0.0 piguiqproxy.com
 0.0.0.0 pike.hotluska.com
@@ -6560,7 +6649,10 @@
 0.0.0.0 platform.aerserv.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 platform.cloud-iq.com.au
+0.0.0.0 platform.liverail.com
+0.0.0.0 platform4.liverail.com
 0.0.0.0 play-top.mobi
+0.0.0.0 play.appia.com
 0.0.0.0 play.brightcove.com
 0.0.0.0 play.leadzuaf.com
 0.0.0.0 play.net-bv23.stream
@@ -6693,6 +6785,7 @@
 0.0.0.0 privacy.adcolony.com
 0.0.0.0 privacy.tapad.com
 0.0.0.0 privacyassistant.net
+0.0.0.0 prlds.appia.com
 0.0.0.0 prlic.brightcove.com
 0.0.0.0 prm.europacash.com
 0.0.0.0 prod-a.applovin.com
@@ -6731,6 +6824,7 @@
 0.0.0.0 proton.flurry.com
 0.0.0.0 prov.alphonso.tv
 0.0.0.0 provideplant.com
+0.0.0.0 proxy-fb.liverail.com
 0.0.0.0 proxy.alphonso.tv
 0.0.0.0 prre.ru
 0.0.0.0 prugskh.com
@@ -6920,6 +7014,7 @@
 0.0.0.0 redir.juicyads.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 redirect.alpful-deflyzes.com
+0.0.0.0 redirect.appia.com
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 redirect.comson-wagentina.com
 0.0.0.0 redirect.ero-advertising.com
@@ -6964,6 +7059,7 @@
 0.0.0.0 reporting.addapptr.com
 0.0.0.0 reporting.taptica.com
 0.0.0.0 reports.adform.com
+0.0.0.0 reports.appia.com
 0.0.0.0 reports.appsflyer.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.nexage.com
@@ -7269,6 +7365,7 @@
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkdata.appia.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdkm.w.ams1.appgw.inmobi.com
 0.0.0.0 sdkm.w.ams1.azurelb.inmobi.com
@@ -7703,12 +7800,14 @@
 0.0.0.0 static-devex.adblade.com
 0.0.0.0 static-failover.go.sonobi.com
 0.0.0.0 static-hwcdn.exoclick.com
+0.0.0.0 static-images.appia.com
 0.0.0.0 static-opi.fonpit.de
 0.0.0.0 static-serving.sonobi.com
 0.0.0.0 static-src.user-grey.com
 0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static-test.outbrain.com
 0.0.0.0 static.2mdn.net
+0.0.0.0 static.a-ads.com
 0.0.0.0 static.adblade.com
 0.0.0.0 static.adform.com
 0.0.0.0 static.ads-twitter.com
@@ -7734,6 +7833,7 @@
 0.0.0.0 static.green-red.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.juicyads.com
+0.0.0.0 static.liverail.com
 0.0.0.0 static.message.umeng.com
 0.0.0.0 static.mgid.com
 0.0.0.0 static.mibi.xiaomi.com
@@ -7869,6 +7969,7 @@
 0.0.0.0 superwifi.uodoo.com
 0.0.0.0 supload.com
 0.0.0.0 support-for-dell.techvedic.co.uk
+0.0.0.0 support.a-ads.com
 0.0.0.0 support.ad-center.com
 0.0.0.0 support.adbooth.com
 0.0.0.0 support.adcash.com
@@ -7919,6 +8020,7 @@
 0.0.0.0 sync.fastclick.net
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 sync.ipredictive.com
+0.0.0.0 sync.liverail.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.mobojoy.baidu.com
 0.0.0.0 sync.outbrain.com
@@ -7953,6 +8055,8 @@
 0.0.0.0 t1.g.mi.com
 0.0.0.0 t2lgo.com
 0.0.0.0 t3q7af0z.com
+0.0.0.0 t4.liverail.com
+0.0.0.0 t4geo.liverail.com
 0.0.0.0 tablighatnovin.com
 0.0.0.0 tablighgram.com
 0.0.0.0 taboola-d.openx.net
@@ -8077,6 +8181,7 @@
 0.0.0.0 test.aerserv.com
 0.0.0.0 test.e.ad.xiaomi.com
 0.0.0.0 test.howdoesin.net
+0.0.0.0 test.liverail.com
 0.0.0.0 test.mobadvent.com
 0.0.0.0 test.new.api.ad.xiaomi.com
 0.0.0.0 test.open.uc.cn
@@ -8094,6 +8199,7 @@
 0.0.0.0 test4.9game.ucdns.uc.cn
 0.0.0.0 testapi.tinyhoneybee.com
 0.0.0.0 testing.adbooth.com
+0.0.0.0 testlink.liverail.com
 0.0.0.0 tex.ero-advertising.com
 0.0.0.0 textron.vo.llnwd.net
 0.0.0.0 tfqexqeldxjvet.com
@@ -8274,6 +8380,7 @@
 0.0.0.0 track.hxczzzw.com
 0.0.0.0 track.in.omgpm.com
 0.0.0.0 track.jungletap.com
+0.0.0.0 track.ksta.de
 0.0.0.0 track.lawoftrade.com
 0.0.0.0 track.lenzmx.com
 0.0.0.0 track.lfstmedia.com
@@ -8431,6 +8538,62 @@
 0.0.0.0 trackers.free-counters.co.uk
 0.0.0.0 trackersimulator.org
 0.0.0.0 trackimpression.com
+0.0.0.0 tracking-01.iad.liverail.com
+0.0.0.0 tracking-02.dal.liverail.com
+0.0.0.0 tracking-02.sjc.liverail.com
+0.0.0.0 tracking-03.dal.liverail.com
+0.0.0.0 tracking-03.iad.liverail.com
+0.0.0.0 tracking-03.sjc.liverail.com
+0.0.0.0 tracking-04.dal.liverail.com
+0.0.0.0 tracking-04.iad.liverail.com
+0.0.0.0 tracking-05.iad.liverail.com
+0.0.0.0 tracking-05.sjc.liverail.com
+0.0.0.0 tracking-06.dal.liverail.com
+0.0.0.0 tracking-06.iad.liverail.com
+0.0.0.0 tracking-07.dal.liverail.com
+0.0.0.0 tracking-07.iad.liverail.com
+0.0.0.0 tracking-07.sjc.liverail.com
+0.0.0.0 tracking-08.iad.liverail.com
+0.0.0.0 tracking-08.sjc.liverail.com
+0.0.0.0 tracking-09.sjc.liverail.com
+0.0.0.0 tracking-10.dal.liverail.com
+0.0.0.0 tracking-10.iad.liverail.com
+0.0.0.0 tracking-11.dal.liverail.com
+0.0.0.0 tracking-11.iad.liverail.com
+0.0.0.0 tracking-12.sjc.liverail.com
+0.0.0.0 tracking-14.dal.liverail.com
+0.0.0.0 tracking-15.iad.liverail.com
+0.0.0.0 tracking-16.iad.liverail.com
+0.0.0.0 tracking-16.sjc.liverail.com
+0.0.0.0 tracking-17.dal.liverail.com
+0.0.0.0 tracking-17.iad.liverail.com
+0.0.0.0 tracking-17.sjc.liverail.com
+0.0.0.0 tracking-18.dal.liverail.com
+0.0.0.0 tracking-18.sjc.liverail.com
+0.0.0.0 tracking-19.dal.liverail.com
+0.0.0.0 tracking-19.iad.liverail.com
+0.0.0.0 tracking-19.sjc.liverail.com
+0.0.0.0 tracking-21.dal.liverail.com
+0.0.0.0 tracking-21.sjc.liverail.com
+0.0.0.0 tracking-22.dal.liverail.com
+0.0.0.0 tracking-22.iad.liverail.com
+0.0.0.0 tracking-23.dal.liverail.com
+0.0.0.0 tracking-23.iad.liverail.com
+0.0.0.0 tracking-23.sjc.liverail.com
+0.0.0.0 tracking-24.dal.liverail.com
+0.0.0.0 tracking-24.iad.liverail.com
+0.0.0.0 tracking-24.sjc.liverail.com
+0.0.0.0 tracking-25.dal.liverail.com
+0.0.0.0 tracking-25.iad.liverail.com
+0.0.0.0 tracking-25.sjc.liverail.com
+0.0.0.0 tracking-26.iad.liverail.com
+0.0.0.0 tracking-26.sjc.liverail.com
+0.0.0.0 tracking-27.dal.liverail.com
+0.0.0.0 tracking-27.iad.liverail.com
+0.0.0.0 tracking-29.iad.liverail.com
+0.0.0.0 tracking-29.sjc.liverail.com
+0.0.0.0 tracking-30.sjc.liverail.com
+0.0.0.0 tracking-51.iad.liverail.com
 0.0.0.0 tracking-in.sokrati.com
 0.0.0.0 tracking-opi.fonpit.de
 0.0.0.0 tracking-plan.herokuapp.com
@@ -8757,6 +8920,7 @@
 0.0.0.0 upfixmoney.top
 0.0.0.0 upgrade.mishop.pandora.xiaomi.com
 0.0.0.0 upi.adblade.com
+0.0.0.0 upload.a-ads.com
 0.0.0.0 upload.bugsnag.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 uprock.net
@@ -8834,6 +8998,7 @@
 0.0.0.0 v1.notifications-online.systems
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 v2.clinkad.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 vads-api.daumkakao.com
@@ -8891,6 +9056,7 @@
 0.0.0.0 vhosts-us-east.tapad.com
 0.0.0.0 vhosts-us-west.tapad.com
 0.0.0.0 vhosts.tapad.com
+0.0.0.0 via.appia.com
 0.0.0.0 vibll-tv.uc.cn
 0.0.0.0 vid.applovin.com
 0.0.0.0 vid.atdmt.com
@@ -8973,6 +9139,7 @@
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vox-static.liverail.com
 0.0.0.0 vp-www.addthis.com
 0.0.0.0 vp.video.uodoo.com
 0.0.0.0 vp2-www.addthis.com
@@ -9126,6 +9293,7 @@
 0.0.0.0 wiki.taptica.com
 0.0.0.0 wikihow2go.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
+0.0.0.0 wilsontimes.ads2.creativecirclemedia.com
 0.0.0.0 wilysis.com
 0.0.0.0 win-media-ams5.fastclick.net
 0.0.0.0 win-media-dc6.fastclick.net
@@ -9248,6 +9416,7 @@
 0.0.0.0 www.920087982.world
 0.0.0.0 www.93.tityx.com
 0.0.0.0 www.97.utroro.com
+0.0.0.0 www.a-ads.com
 0.0.0.0 www.a-o.ninja
 0.0.0.0 www.a-tono.com
 0.0.0.0 www.a.ero-advertising.com
@@ -9371,6 +9540,7 @@
 0.0.0.0 www.appanalytics.io
 0.0.0.0 www.appbrain.com
 0.0.0.0 www.appflood.com
+0.0.0.0 www.appia.com
 0.0.0.0 www.appk.mobi
 0.0.0.0 www.apple.com-notice.info
 0.0.0.0 www.applovin.com
@@ -9742,6 +9912,7 @@
 0.0.0.0 www.livefyre.com
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.livepromo.net
+0.0.0.0 www.liverail.com
 0.0.0.0 www.llnwd.net
 0.0.0.0 www.lmodr.biz
 0.0.0.0 www.lovoo.com
@@ -10185,11 +10356,13 @@
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zyxow.com
+0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.algolia.com
 0.0.0.0 www2.adcash.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www2.juicyads.com
 0.0.0.0 www2.outbrain.com
+0.0.0.0 www3.a-ads.com
 0.0.0.0 www3.addthis.com
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www3.doubleclick.net
@@ -10362,6 +10535,10 @@
 0.0.0.0 zyxow.com
 0.0.0.0 zzhengre.com
 # --------------------------------------------
+# E N E R G I Z E D  E N D S
+# --------------------------------------------
+#
+# - - - -  S T A Y  E N E R G I Z E D  - - - -# --------------------------------------------
 # E N E R G I Z E D  E N D S
 # --------------------------------------------
 #
