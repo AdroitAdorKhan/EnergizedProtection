@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.10.281
-# Release: 281
-# Entries: 10,485
+# Version: 18.10.285
+# Release: 285
+# Entries: 10,487
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 08 Oct 18 11:42:33
+# Updated: Fri, 12 Oct 18 18:42:38
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4972,6 +4972,7 @@
 0.0.0.0 indiaonclick.com
 0.0.0.0 indlzxgptf.com
 0.0.0.0 indonesia.uodoo.com
+0.0.0.0 inewcontentdelivery.info
 0.0.0.0 infinity-info.com
 0.0.0.0 info.a7.org
 0.0.0.0 info.appia.com
@@ -8242,6 +8243,7 @@
 0.0.0.0 timetogame.com
 0.0.0.0 tingyunea.meitustat.com
 0.0.0.0 tinhot.uodoo.com
+0.0.0.0 tionsnewsupdate.info
 0.0.0.0 tip.atdmt.com
 0.0.0.0 tip.umeng.com
 0.0.0.0 tiqcdn.com
@@ -10535,10 +10537,6 @@
 0.0.0.0 zyxow.com
 0.0.0.0 zzhengre.com
 # --------------------------------------------
-# E N E R G I Z E D  E N D S
-# --------------------------------------------
-#
-# - - - -  S T A Y  E N E R G I Z E D  - - - -# --------------------------------------------
 # E N E R G I Z E D  E N D S
 # --------------------------------------------
 #

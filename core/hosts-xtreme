@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.10.281
-# Release: 281
-# Entries: 6,128
+# Version: 18.10.285
+# Release: 285
+# Entries: 6,138
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 08 Oct 18 11:42:33
+# Updated: Fri, 12 Oct 18 18:42:38
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -1230,6 +1230,7 @@
 0.0.0.0 braze.com
 0.0.0.0 briggsstrattoncorporation.demdex.net
 0.0.0.0 brightcove.com
+0.0.0.0 brightcove.net
 0.0.0.0 brightcove01-secure.brightcove.com
 0.0.0.0 brightcove01.brightcove.com
 0.0.0.0 brightcove04.brightcove.com
@@ -1276,6 +1277,7 @@
 0.0.0.0 c.adsco.re
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.brightcove.com
+0.0.0.0 c.brightcove.net
 0.0.0.0 c.chartboost.com
 0.0.0.0 c.disquscdn.com
 0.0.0.0 c.id.mi.com
@@ -1298,6 +1300,7 @@
 0.0.0.0 c2s.z.liverail.com
 0.0.0.0 c3-use-1.algolia.com
 0.0.0.0 ca-gmtdmp.mookie1.com
+0.0.0.0 ca.brightcove.net
 0.0.0.0 ca.gmads.mookie1.com
 0.0.0.0 cache-test.addthis.com
 0.0.0.0 cache-uat.addthis.com
@@ -1352,12 +1355,14 @@
 0.0.0.0 cat.sv.us.criteo.com
 0.0.0.0 cat.va.us.criteo.com
 0.0.0.0 catholicpeoplemeet.adlegend.com
+0.0.0.0 cb.brightcove.net
 0.0.0.0 cb.chartbeat.com
 0.0.0.0 cba.demdex.net
 0.0.0.0 cbks0.googleapis.com
 0.0.0.0 cbn.pd.ak.o.brightcove.com
 0.0.0.0 cbsi-d.openx.net
 0.0.0.0 cbsi.demdex.net
+0.0.0.0 cc.brightcove.net
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
@@ -1456,6 +1461,7 @@
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnpixel.simpli.fi
 0.0.0.0 cds.taboola.com
+0.0.0.0 ce.brightcove.com
 0.0.0.0 ceast.adsymptotic.com
 0.0.0.0 celebslam.tags.crwdcntrl.net
 0.0.0.0 center5.count.ly
@@ -3887,6 +3893,7 @@
 0.0.0.0 p-tky-ebs.adsymptotic.com
 0.0.0.0 p.addthis.com
 0.0.0.0 p.appbrain.com
+0.0.0.0 p.brightcove.net
 0.0.0.0 p.chartboost.com
 0.0.0.0 p.dlx.addthis.com
 0.0.0.0 p.moatads.com
@@ -4132,6 +4139,7 @@
 0.0.0.0 playbill-d.openx.net
 0.0.0.0 playbooks-pa.googleapis.com
 0.0.0.0 players.api.brightcove.com
+0.0.0.0 players.brightcove.net
 0.0.0.0 playmusicentitybrowser.googleapis.com
 0.0.0.0 playtokyo.brightcove.com
 0.0.0.0 playtokyo2018.brightcove.com
@@ -4190,6 +4198,8 @@
 0.0.0.0 presentation-sjc2.turn.com
 0.0.0.0 press.flurry.com
 0.0.0.0 preview-attach.mail.daum.net
+0.0.0.0 preview-experiences.brightcove.net
+0.0.0.0 preview-players.brightcove.net
 0.0.0.0 preview.adform.com
 0.0.0.0 preview.algolia.com
 0.0.0.0 preview.console.appnexus.com
@@ -6178,10 +6188,6 @@
 0.0.0.0 zt.1rx.io
 0.0.0.0 zx.game.xiaomi.com
 # --------------------------------------------
-# E N E R G I Z E D  E N D S
-# --------------------------------------------
-#
-# - - - -  S T A Y  E N E R G I Z E D  - - - -# --------------------------------------------
 # E N E R G I Z E D  E N D S
 # --------------------------------------------
 #
