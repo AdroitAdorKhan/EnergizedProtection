@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.10.285
-# Release: 285
-# Entries: 10,487
+# Version: 18.10.296
+# Release: 296
+# Entries: 10,497
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 12 Oct 18 18:42:38
+# Updated: Tue, 23 Oct 18 13:35:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -633,6 +633,7 @@
 0.0.0.0 adbank.network
 0.0.0.0 adbetclickin.pink
 0.0.0.0 adbetnet.advertserve.com
+0.0.0.0 adbilly.com
 0.0.0.0 adbit.biz
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
@@ -3914,6 +3915,7 @@
 0.0.0.0 dstaging.adgear.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dt.ushareit.com
+0.0.0.0 dt2xr6g2i5.com
 0.0.0.0 dtac.tapad.com
 0.0.0.0 dtias.adsafeprotected.com
 0.0.0.0 dtm.advertising.com
@@ -4090,6 +4092,8 @@
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-adserver.cxad.cxense.com
 0.0.0.0 eu-ma.sam4m.com
+0.0.0.0 eu-srv.apptornado.com
+0.0.0.0 eu-srv2.apptornado.com
 0.0.0.0 eu-zumi.cxsearch.cxense.com
 0.0.0.0 eu.metrics.adswizz.com
 0.0.0.0 eu2.madsone.com
@@ -4583,6 +4587,7 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.snappea.com
+0.0.0.0 graphql.kumparan.com
 0.0.0.0 greatene.com
 0.0.0.0 greatmacsoft.tech
 0.0.0.0 green-red.com
@@ -5186,6 +5191,7 @@
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.mgid.com
 0.0.0.0 js.moatads.com
+0.0.0.0 js.mobileoffers-bn-download.com
 0.0.0.0 js.mobojoy.baidu.com
 0.0.0.0 js.revsci.net
 0.0.0.0 js.stripe.com
@@ -5270,6 +5276,7 @@
 0.0.0.0 krk.kargo.com
 0.0.0.0 krutilka.net
 0.0.0.0 krxd.net
+0.0.0.0 ktracker.kumparan.com
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kuad.kusogi.com
 0.0.0.0 kuaptrk.com
@@ -5827,6 +5834,7 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilemusic.mobi
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
+0.0.0.0 mobileoffers-bn-download.com
 0.0.0.0 mobileoffers-h-download.com
 0.0.0.0 mobileoffers.online
 0.0.0.0 mobilepay.it
@@ -8145,6 +8153,7 @@
 0.0.0.0 techvedic.com
 0.0.0.0 techzglobal.com
 0.0.0.0 teenyvolcano.com
+0.0.0.0 teiegram.pw
 0.0.0.0 tekzie.com
 0.0.0.0 tel.fe01.hh.xiaomi.com
 0.0.0.0 telecommand.telemetry.microsoft.com
@@ -9716,6 +9725,7 @@
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.downcloud.net
 0.0.0.0 www.dpbolvw.net
+0.0.0.0 www.dt2xr6g2i5.com
 0.0.0.0 www.duapps.com
 0.0.0.0 www.e-9675.adzerk.net
 0.0.0.0 www.eadv.it

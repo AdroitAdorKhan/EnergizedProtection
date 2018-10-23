@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.10.285
-# Release: 285
-# Entries: 6,138
+# Version: 18.10.296
+# Release: 296
+# Entries: 6,133
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 12 Oct 18 18:42:38
+# Updated: Tue, 23 Oct 18 13:35:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -2378,9 +2378,6 @@
 0.0.0.0 follow.maribacaberita.com
 0.0.0.0 fons.googleapis.com
 0.0.0.0 fonts.blueconic.com
-0.0.0.0 fonts.fonts.googleapis.com
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 fonts.gstatic.com
 0.0.0.0 ford.demdex.net
 0.0.0.0 fordapa.demdex.net
 0.0.0.0 fordeu.demdex.net
@@ -4038,7 +4035,6 @@
 0.0.0.0 pe-gmtdmp.mookie1.com
 0.0.0.0 pentos-cdn.polarmobile.com
 0.0.0.0 pentos-cdn.staging.polarmobile.com
-0.0.0.0 people-pa.googleapis.com
 0.0.0.0 peoplecentral.brightcove.com
 0.0.0.0 performance.typekit.net
 0.0.0.0 perfspot.crwdcntrl.net
@@ -6018,7 +6014,6 @@
 0.0.0.0 www.fonts.googleapis.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googleapis.com
 0.0.0.0 www.googlesyndication.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
