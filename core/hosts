@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.10.299
-# Release: 299
-# Entries: 11,121
+# Version: 18.10.300
+# Release: 300
+# Entries: 11,227
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Oct 18 21:45:18
+# Updated: Sat, 27 Oct 18 11:31:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -304,6 +304,15 @@
 0.0.0.0 accu-chek.it
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acdn.appia.com
+0.0.0.0 acds-a.prod.us-east-1.vidible.tv
+0.0.0.0 acds-b.prod.ap-southeast-1.vidible.tv
+0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
+0.0.0.0 acds-b.prod.us-east-1.vidible.tv
+0.0.0.0 acds-b.prod.us-west-1.vidible.tv
+0.0.0.0 acds.prod.eu-west-1.vidible.tv
+0.0.0.0 acds.prod.us-east-1.vidible.tv
+0.0.0.0 acds.prod.us-west-1.vidible.tv
+0.0.0.0 acds.prod.vidible.tv
 0.0.0.0 ace.advertising.com
 0.0.0.0 ach.appodeal.com
 0.0.0.0 ackak.com
@@ -875,7 +884,10 @@
 0.0.0.0 adrotator.se
 0.0.0.0 ads-4entertainment.adhese.com
 0.0.0.0 ads-a.juicyads.com
+0.0.0.0 ads-adaptv-b.stage.vidible.tv
+0.0.0.0 ads-adaptv.stage.vidible.tv
 0.0.0.0 ads-adseast.yldbt.com
+0.0.0.0 ads-b.use1.prod.vidible.tv
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
@@ -901,6 +913,9 @@
 0.0.0.0 ads-script.ad-center.com
 0.0.0.0 ads-techeu.adhese.com
 0.0.0.0 ads-trf.adhese.com
+0.0.0.0 ads-trk-a.prod.vidible.tv
+0.0.0.0 ads-trk.prod.vidible.tv
+0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-web.ksosoft.com
 0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 ads.2mdnsys.com
@@ -1030,6 +1045,8 @@
 0.0.0.0 ads.trf.adhese.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.uniblue.com
+0.0.0.0 ads.use1.prod.vidible.tv
+0.0.0.0 ads.vidible.tv
 0.0.0.0 ads.viralize.tv
 0.0.0.0 ads.vntsm.com
 0.0.0.0 ads.vrt.adhese.com
@@ -1856,6 +1873,8 @@
 0.0.0.0 anygen-explores.info
 0.0.0.0 ao-gb.mgid.com
 0.0.0.0 ao.goodsblock.mgid.com
+0.0.0.0 aolon-redirector-farm-b.prod.vidible.tv
+0.0.0.0 aolon-redirector-farm.prod.vidible.tv
 0.0.0.0 aoredi.com
 0.0.0.0 ap-gb.mgid.com
 0.0.0.0 ap-sonar.sociomantic.com
@@ -2050,6 +2069,7 @@
 0.0.0.0 api.viafoura.co
 0.0.0.0 api.videoadda.uodoo.com
 0.0.0.0 api.videos.oovvuu.com
+0.0.0.0 api.vidible.tv
 0.0.0.0 api.viglink.com
 0.0.0.0 api.vineapp.comweb.adblade.com
 0.0.0.0 api.vip.miui.com
@@ -2096,6 +2116,7 @@
 0.0.0.0 app.tads.techtunes.com.bd
 0.0.0.0 app.top1mobiad1.com
 0.0.0.0 app.uc.cn
+0.0.0.0 app.vidible.tv
 0.0.0.0 app.whappodo.com
 0.0.0.0 app0.a-ads.com
 0.0.0.0 app0.ucfly.com
@@ -2329,10 +2350,12 @@
 0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b223ef51950a9c677c75132f5677870e.adk2.co
+0.0.0.0 b2c-feedapi.vidible.tv
 0.0.0.0 b3.adinch.com
 0.0.0.0 b4.adinch.com
 0.0.0.0 b42.re
 0.0.0.0 babanetwork.adk2x.com
+0.0.0.0 babanetwork.vidible.tv
 0.0.0.0 babeljs.algolia.com
 0.0.0.0 backoffice.liverail.com
 0.0.0.0 baconaces.pro
@@ -2546,6 +2569,7 @@
 0.0.0.0 bench.uc.cn
 0.0.0.0 benchmarks-api.adjust.com
 0.0.0.0 benesserelab.com
+0.0.0.0 beon.vidible.tv
 0.0.0.0 bepolite.eu
 0.0.0.0 best-clic.adk2x.com
 0.0.0.0 best.alphonso.tv
@@ -2751,6 +2775,7 @@
 0.0.0.0 brznetwork.com
 0.0.0.0 bs.ad-stir.com
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 bsf-stage.vidible.tv
 0.0.0.0 bss.pandora.xiaomi.com
 0.0.0.0 bst.adsperf.com
 0.0.0.0 btds.artplay.info
@@ -2940,8 +2965,10 @@
 0.0.0.0 cdn-jp.gsecondscreen.com
 0.0.0.0 cdn-secure.liverail.com
 0.0.0.0 cdn-settings.segment.com
+0.0.0.0 cdn-ssl.vidible.tv
 0.0.0.0 cdn-static-secure.liverail.com
 0.0.0.0 cdn-static.liverail.com
+0.0.0.0 cdn-ycs.vidible.tv
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.ad4game.com
 0.0.0.0 cdn.adacts.com
@@ -3061,6 +3088,7 @@
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn.vertismedia.co.uk
+0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.wshareit.com
 0.0.0.0 cdn.zarget.com
@@ -3338,6 +3366,7 @@
 0.0.0.0 cnc.fe01.lg.xiaomi.com
 0.0.0.0 cnhv.com
 0.0.0.0 cnoyq.voluumtrk.com
+0.0.0.0 cns.vidible.tv
 0.0.0.0 cnservice.org
 0.0.0.0 cnt.my
 0.0.0.0 cnt.statistic.date
@@ -3635,6 +3664,7 @@
 0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
+0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 d4.video-ak.cdn.spotify.com
 0.0.0.0 d5.video-ak.cdn.spotify.com
@@ -3780,6 +3810,7 @@
 0.0.0.0 delivery.trafficjunky.net
 0.0.0.0 delivery.us.east.liverail.com
 0.0.0.0 delivery.us.myswitchads.com
+0.0.0.0 delivery.vidible.tv
 0.0.0.0 delivery1.eadv.it
 0.0.0.0 deliveryengine.adswizz.com
 0.0.0.0 deliveryengine.tunein.adswizz.com
@@ -3791,6 +3822,7 @@
 0.0.0.0 demo.alphonso.tv
 0.0.0.0 demo.bannersmonster.com
 0.0.0.0 demo.outbrain.com
+0.0.0.0 demo.vidible.tv
 0.0.0.0 demos.algolia.com
 0.0.0.0 demos.exoclick.com
 0.0.0.0 deploygate.com
@@ -3820,6 +3852,7 @@
 0.0.0.0 dev.mobadvent.com
 0.0.0.0 dev.outbrain.com
 0.0.0.0 dev.umeng.com
+0.0.0.0 dev.vidible.tv
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dev2.flurry.com
 0.0.0.0 dev3.flurry.com
@@ -3894,6 +3927,7 @@
 0.0.0.0 distribution.brightcove.com
 0.0.0.0 djhhy.com
 0.0.0.0 djtflbt20bdde.cloudfront.net
+0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dk4ywix.com
 0.0.0.0 dl.inmobi.com
 0.0.0.0 dll-biu.com
@@ -3922,6 +3956,7 @@
 0.0.0.0 dmpstaging.bluekai.com
 0.0.0.0 dmptest.bluekai.com
 0.0.0.0 dmxleo.com
+0.0.0.0 dn-ssl.vidible.tv
 0.0.0.0 dn.livefyre.com
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dns1.inmobi.com
@@ -4182,6 +4217,7 @@
 0.0.0.0 en.ucsec2.ucweb.com
 0.0.0.0 enatimedia.com
 0.0.0.0 endurableshop.com
+0.0.0.0 engadget.vidible.tv
 0.0.0.0 engage.bidsystem.com
 0.0.0.0 engagebdr.sync.go.sonobi.com
 0.0.0.0 engblog.mixpanel.com
@@ -4307,6 +4343,7 @@
 0.0.0.0 exponential.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 ext.privacyassistant.net
+0.0.0.0 extauth.vidible.tv
 0.0.0.0 external.stealthedeal.com
 0.0.0.0 extra.thebigboss.org
 0.0.0.0 eyeviewads.com
@@ -4566,6 +4603,7 @@
 0.0.0.0 gabyuyxwcubwdp.com
 0.0.0.0 gadqgqkdexwspxdc.com
 0.0.0.0 gads.pubmatic.com
+0.0.0.0 galleries.appstudio.vidible.tv
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 gallery.brightcove.com
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
@@ -4610,6 +4648,7 @@
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdpr.adjust.com
 0.0.0.0 gdpr.algolia.com
+0.0.0.0 gdpr.openvoice.vidible.tv
 0.0.0.0 geede.info
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 gemius.pl
@@ -4639,6 +4678,7 @@
 0.0.0.0 getgoodclicks.com
 0.0.0.0 gethiphop.net
 0.0.0.0 getslimfast.info
+0.0.0.0 gettrk.vidible.tv
 0.0.0.0 getunlocked.com
 0.0.0.0 gew1.ap.spotify.com
 0.0.0.0 gfe.nvidia.com
@@ -4799,6 +4839,7 @@
 0.0.0.0 guc3-accesspoint-b-bzqt.ap.spotify.com
 0.0.0.0 guc3-accesspoint-b-glr0.ap.spotify.com
 0.0.0.0 guce.nexage.com
+0.0.0.0 guce.vidible.tv
 0.0.0.0 guitarbelieve.com
 0.0.0.0 gulfstream.vo.llnwd.net
 0.0.0.0 gulper.uodoo.com
@@ -4914,6 +4955,11 @@
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hls.ak.o.brightcove.com
 0.0.0.0 hls.cf.brightcove.com
+0.0.0.0 hls.vidible.tv
+0.0.0.0 hlsrv-a.prod.vidible.tv
+0.0.0.0 hlsrv-b.prod.vidible.tv
+0.0.0.0 hlsrv.prod.vidible.tv
+0.0.0.0 hlsrv.vidible.tv
 0.0.0.0 hmnlta.adk2.co
 0.0.0.0 hmsgroup.global
 0.0.0.0 hn.algolia.com
@@ -5132,6 +5178,7 @@
 0.0.0.0 img.ucweb.com
 0.0.0.0 img.uodoo.com
 0.0.0.0 img.ushareit.com
+0.0.0.0 img.vidible.tv
 0.0.0.0 img0.u.ucfly.com
 0.0.0.0 img1.nend.net
 0.0.0.0 img4.juiceadv.com
@@ -5257,10 +5304,12 @@
 0.0.0.0 instory.ucnews.ucweb.com
 0.0.0.0 instrumentsponge.com
 0.0.0.0 insurance-info.us
+0.0.0.0 int.vidible.tv
 0.0.0.0 integral-marketing.com
 0.0.0.0 integrations.bluekai.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intensedigital.adk2x.com
+0.0.0.0 intention.vidible.tv
 0.0.0.0 inter1ads.com
 0.0.0.0 interedy.info
 0.0.0.0 intermarkets.net
@@ -5455,6 +5504,8 @@
 0.0.0.0 k01k0.com
 0.0.0.0 k54nw.pw
 0.0.0.0 k5market.com
+0.0.0.0 k8s-stage1-use1.int.vidible.tv
+0.0.0.0 k8s.vidible.tv
 0.0.0.0 kaffnet.com
 0.0.0.0 kalturaevent.1rx.io
 0.0.0.0 karisimbi.net
@@ -5700,6 +5751,7 @@
 0.0.0.0 login.game.xiaomi.com
 0.0.0.0 login.uc.cn
 0.0.0.0 login.uc123.com
+0.0.0.0 login.vidible.tv
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logos.outbrain.com
@@ -5878,6 +5930,7 @@
 0.0.0.0 maudau.com
 0.0.0.0 maverick.adk2.co
 0.0.0.0 maxonclick.com
+0.0.0.0 maxstream.vidible.tv
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 mb102.com
@@ -5941,6 +5994,7 @@
 0.0.0.0 mediaplex.com
 0.0.0.0 mediaplex.fr
 0.0.0.0 mediareliz82.com
+0.0.0.0 mediaset.vidible.tv
 0.0.0.0 mediashakers.adk2.co
 0.0.0.0 mediation.admob.com
 0.0.0.0 mediation.adnxs.com
@@ -6154,6 +6208,7 @@
 0.0.0.0 monetize.applift.com
 0.0.0.0 monitor.outbrain.com
 0.0.0.0 monitoring.algolia.com
+0.0.0.0 monitoring.vidible.tv
 0.0.0.0 monitorsdk.appsflyer.com
 0.0.0.0 monkly-business.com
 0.0.0.0 montrealgazette.stats.com
@@ -6476,6 +6531,7 @@
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nt.smartclick.net
+0.0.0.0 nuditydetector.vidible.tv
 0.0.0.0 nufa-ad.com
 0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
@@ -7012,10 +7068,12 @@
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 pmall.migc.xiaomi.com
 0.0.0.0 pmapi.wshareit.com
+0.0.0.0 pndelfast.com
 0.0.0.0 poetryinurdu.info
 0.0.0.0 poker-trumps.com
 0.0.0.0 polaris.cxsearch.cxense.com
 0.0.0.0 polimedel.info
+0.0.0.0 polls.vidible.tv
 0.0.0.0 polyad.net
 0.0.0.0 polymorphicads.jp
 0.0.0.0 pontiflex.com
@@ -7064,7 +7122,9 @@
 0.0.0.0 pornstars4webcam.com
 0.0.0.0 portal.ad4screen.com
 0.0.0.0 portal.adbuddiz.com
+0.0.0.0 portal.prod.vidible.tv
 0.0.0.0 portal.ucgc.ucfly.com
+0.0.0.0 portal.vidible.tv
 0.0.0.0 pos.baidu.com
 0.0.0.0 positivespaceproductions.com
 0.0.0.0 possessivebucket.com
@@ -7128,6 +7188,13 @@
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod.accountkit.com
 0.0.0.0 prod.adblade.com
+0.0.0.0 prod.ap-northeast-1.int.vidible.tv
+0.0.0.0 prod.ap-southeast-1.int.vidible.tv
+0.0.0.0 prod.eu-central-1.int.vidible.tv
+0.0.0.0 prod.us-east-1.int.vidible.tv
+0.0.0.0 prod.us-west-1.int.vidible.tv
+0.0.0.0 prod.us-west-2.int.vidible.tv
+0.0.0.0 prod.vidible.tv
 0.0.0.0 prod15-files.acompli.net
 0.0.0.0 production-api.areametrics.com
 0.0.0.0 production-ultimate-assets.ratecity.com.au
@@ -7417,6 +7484,7 @@
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.addapptr.com
 0.0.0.0 reporting.taptica.com
+0.0.0.0 reportingapi-stage.vidible.tv
 0.0.0.0 reports.adform.com
 0.0.0.0 reports.appia.com
 0.0.0.0 reports.appsflyer.com
@@ -7469,6 +7537,7 @@
 0.0.0.0 risk.ad-center.com
 0.0.0.0 ritaj9.com
 0.0.0.0 ritsllc.com
+0.0.0.0 rk.vidible.tv
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rm.adfalcon.com
@@ -7482,6 +7551,7 @@
 0.0.0.0 roboinside.me
 0.0.0.0 robustbelieve.com
 0.0.0.0 rocks.io
+0.0.0.0 roku.vidible.tv
 0.0.0.0 rollbar.com
 0.0.0.0 romansonn.ir
 0.0.0.0 ronsearch.adk2.co
@@ -7610,6 +7680,7 @@
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.adform.net
 0.0.0.0 s1.adformdsp.net
+0.0.0.0 s1.apopgo.com
 0.0.0.0 s1.popmajor.com
 0.0.0.0 s10.addthis.com
 0.0.0.0 s10.hiadspaces.ero-advertising.com
@@ -7622,6 +7693,7 @@
 0.0.0.0 s10paces.ero-advertising.com
 0.0.0.0 s2.adform.net
 0.0.0.0 s2.adformdsp.net
+0.0.0.0 s2.apopgo.com
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 s2s-tracking.sonic-us.supersonicads.com
 0.0.0.0 s2s.adjust.com
@@ -7632,6 +7704,7 @@
 0.0.0.0 s43.123apps.com
 0.0.0.0 s4udash2.alphonso.tv
 0.0.0.0 s5.addthis.com
+0.0.0.0 s6da.vidible.tv
 0.0.0.0 s7-uat.addthis.com
 0.0.0.0 s7.adaces.ero-advertising.com
 0.0.0.0 s7.addthis.com
@@ -7988,6 +8061,7 @@
 0.0.0.0 smartclip.net
 0.0.0.0 smartdevicelink.com
 0.0.0.0 smarticle.video.ums.uc.cn
+0.0.0.0 smartling-connector.vidible.tv
 0.0.0.0 smartlink.adacts.com
 0.0.0.0 smarttds.ru
 0.0.0.0 smashseek.com
@@ -8121,6 +8195,7 @@
 0.0.0.0 srv26.adcash.com
 0.0.0.0 srvpub.com
 0.0.0.0 ss.servedby-buysellads.com
+0.0.0.0 ss.vidible.tv
 0.0.0.0 sscefsol.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 ssl-com.cdn.ampproject.org
@@ -8155,8 +8230,12 @@
 0.0.0.0 stag.mdotlabs.com
 0.0.0.0 stage-ad.ad-stir.com
 0.0.0.0 stage.ad-stir.com
+0.0.0.0 stage.eu-central-1.int.vidible.tv
 0.0.0.0 stage.tr.ad-stir.com
 0.0.0.0 stage.tvpage.com
+0.0.0.0 stage.us-east-1.int.vidible.tv
+0.0.0.0 stage.us-west-1.int.vidible.tv
+0.0.0.0 stage.vidible.tv
 0.0.0.0 stagesof.life
 0.0.0.0 staging.adcolony.com
 0.0.0.0 staging.adgear.com
@@ -8331,6 +8410,7 @@
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 stripe.com
 0.0.0.0 stripe.network
+0.0.0.0 strips.vidible.tv
 0.0.0.0 striver.live
 0.0.0.0 strivers.live
 0.0.0.0 strivesidewalk.com
@@ -8346,10 +8426,14 @@
 0.0.0.0 studioanalytics.adform.com
 0.0.0.0 sty.zkmobi.com
 0.0.0.0 su.addthis.com
+0.0.0.0 sub.prod.vidible.tv
 0.0.0.0 sub.zkmobi.com
 0.0.0.0 subat.clickhubs.com
 0.0.0.0 sube.puwangkj.com
+0.0.0.0 subs-a.prod.vidible.tv
 0.0.0.0 subs.mp.ucweb.com
+0.0.0.0 subs.prod.vidible.tv
+0.0.0.0 subs.vidible.tv
 0.0.0.0 subtrack.clickhubs.com
 0.0.0.0 subway.icecyber.org
 0.0.0.0 succeedscene.com
@@ -9196,6 +9280,7 @@
 0.0.0.0 tribpubads.com
 0.0.0.0 tribution.mobi
 0.0.0.0 trickycelery.com
+0.0.0.0 trik.vidible.tv
 0.0.0.0 trio.ooo
 0.0.0.0 tripan.me
 0.0.0.0 tripcarrot.biz
@@ -9205,7 +9290,17 @@
 0.0.0.0 triwestenergy.com
 0.0.0.0 triwestss.com
 0.0.0.0 trixeite.com
+0.0.0.0 trk-a.prod.ap-southeast-1.vidible.tv
+0.0.0.0 trk-a.prod.eu-central-1.vidible.tv
+0.0.0.0 trk-a.prod.eu-west-1.vidible.tv
+0.0.0.0 trk-a.prod.us-east-1.vidible.tv
+0.0.0.0 trk-b.prod.ap-northeast-1.vidible.tv
+0.0.0.0 trk-b.prod.ap-southeast-1.vidible.tv
+0.0.0.0 trk-b.prod.eu-west-1.vidible.tv
+0.0.0.0 trk-b.prod.us-east-1.vidible.tv
+0.0.0.0 trk-b.prod.us-west-1.vidible.tv
 0.0.0.0 trk-sha.adsrvr.org
+0.0.0.0 trk-vpc-us-west-1-b.vidible.tv
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.adjust.com
 0.0.0.0 trk.atdmt.com
@@ -9214,6 +9309,11 @@
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 trk.opanw.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trk.prod.ap-northeast-1.vidible.tv
+0.0.0.0 trk.prod.eu-central-1.vidible.tv
+0.0.0.0 trk.prod.eu-west-1.vidible.tv
+0.0.0.0 trk.prod.us-east-1.vidible.tv
+0.0.0.0 trk.prod.us-west-1.vidible.tv
 0.0.0.0 trk.roottenbedroom.com
 0.0.0.0 trk.stroeermediabrands.de
 0.0.0.0 trk.superads.cn
@@ -9619,6 +9719,7 @@
 0.0.0.0 video-ak.cdn.spotify.com
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video-fa.scdn.co
+0.0.0.0 video-seo.vidible.tv
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video-vcdn.fastclick.net
 0.0.0.0 video.adsrvr.org
@@ -9646,7 +9747,10 @@
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
 0.0.0.0 videos.oovvuu.com
 0.0.0.0 videos.sonobi.com
+0.0.0.0 videos.vidible.tv
+0.0.0.0 videos2.vidible.tv
 0.0.0.0 videoslots.888.com
+0.0.0.0 vidible.tv
 0.0.0.0 vidout.net
 0.0.0.0 vidspot-adn.ad-stir.com
 0.0.0.0 vidto.se
@@ -9870,6 +9974,7 @@
 0.0.0.0 wiki.outbrain.com
 0.0.0.0 wiki.taptica.com
 0.0.0.0 wikihow2go.com
+0.0.0.0 wildbearads.go2affise.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 wilsontimes.ads2.creativecirclemedia.com
 0.0.0.0 wilysis.com
@@ -9912,6 +10017,7 @@
 0.0.0.0 wow.uc.cn
 0.0.0.0 wow.ucweb.com
 0.0.0.0 wowmoney.top
+0.0.0.0 wp-stage.vidible.tv
 0.0.0.0 wp.cxense.com
 0.0.0.0 wpk-auth.ucweb.com
 0.0.0.0 wrongpotato.com
