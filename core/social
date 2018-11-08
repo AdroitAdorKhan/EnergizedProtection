@@ -22,12 +22,12 @@
 # -------------------------------------------
 # Package: Energized Core Social Blacklist
 # Format: hosts
-# Version: 18.09.260
+# Version: 18.11.313
 # Release: 260
 # License: CC BY-NC-SA 4.0; https://nayemador.com/energized/license/
 # Entries: 3797
 # Pack Code: E50C14LC0R3-P
-# Updated: Mon, 17 Sep 18 4:42:43
+# Updated: Fri, 09 Nov 18 00:29:43
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/social
 
 # -------------------------------------------
@@ -3645,6 +3645,7 @@
 0.0.0.0 wg69.odnoklassniki.ru
 0.0.0.0 wg87.odnoklassniki.ru
 0.0.0.0 wgint3.qa.snapfish.com
+0.0.0.0 watchdog.energized.pro
 0.0.0.0 whatis.snapchat.com
 0.0.0.0 whatsapp-cdn-shv-01-iad3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lax3.fbcdn.net
