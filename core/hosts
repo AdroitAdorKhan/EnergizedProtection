@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.11.313
-# Release: 313
-# Entries: 12,067
+# Version: 18.11.320
+# Release: 320
+# Entries: 12,168
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 09 Nov 18 00:33:15
+# Updated: Fri, 16 Nov 18 10:41:40
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -57,6 +57,7 @@
 0.0.0.0 0rlbs.voluumtrk.com
 0.0.0.0 1.f.ix.de
 0.0.0.0 1.pc8.us
+0.0.0.0 1.skimresources.com
 0.0.0.0 10.video-ak.cdn.spotify.com
 0.0.0.0 12306.uodoo.com
 0.0.0.0 12bet.casino
@@ -109,6 +110,7 @@
 0.0.0.0 2dybh.voluumtrk.com
 0.0.0.0 2fbanners.ero-advertising.com
 0.0.0.0 2fflatfee.ero-advertising.com
+0.0.0.0 2fr.skimresources.com
 0.0.0.0 2fspeedclicks.ero-advertising.com
 0.0.0.0 2fspeednetwork14.adk2x.com
 0.0.0.0 2giga.link
@@ -118,6 +120,7 @@
 0.0.0.0 2mdn.net
 0.0.0.0 2mdnsys.com
 0.0.0.0 2o7.net
+0.0.0.0 2p.skimresources.com
 0.0.0.0 2znp09oa.com
 0.0.0.0 30-day-change.com
 0.0.0.0 30.tityx.com
@@ -134,7 +137,9 @@
 0.0.0.0 3ds.ero-advertising.com
 0.0.0.0 3flv2.voluumtrk.com
 0.0.0.0 3g.uc.cn
+0.0.0.0 3i.skimresources.com
 0.0.0.0 3mobilephonedeals.com
+0.0.0.0 3t.skimresources.com
 0.0.0.0 3yp7i.voluumtrk.com
 0.0.0.0 40.video-ak.cdn.spotify.com
 0.0.0.0 40pj8.com
@@ -292,6 +297,7 @@
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
+0.0.0.0 abundanceprayer.com
 0.0.0.0 ac-gb.mgid.com
 0.0.0.0 ac.goodsblock.mgid.com
 0.0.0.0 ac.mobileanapp.com
@@ -861,6 +867,7 @@
 0.0.0.0 adnium.com
 0.0.0.0 adnotch.com
 0.0.0.0 adnow.com
+0.0.0.0 adnuntius.com
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.comadplexmedia.adk2x.com
 0.0.0.0 adnxs.revsci.net
@@ -2315,7 +2322,9 @@
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 assist.advmob.cn
+0.0.0.0 assist.js.skimresources.com
 0.0.0.0 assistant.pandora.xiaomi.com
+0.0.0.0 assistjs.skimresources.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 ast.adsperf.com
 0.0.0.0 astat.bugly.qq.com
@@ -2419,6 +2428,7 @@
 0.0.0.0 b.dlx.addthis.com
 0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.skimresources.com
 0.0.0.0 b223ef51950a9c677c75132f5677870e.adk2.co
 0.0.0.0 b2c-feedapi.vidible.tv
 0.0.0.0 b3.adinch.com
@@ -2553,6 +2563,7 @@
 0.0.0.0 banne3s.ero-advertising.com
 0.0.0.0 banne4s.ero-advertising.com
 0.0.0.0 banner.ero-advertising.com
+0.0.0.0 banner.howingo.com
 0.0.0.0 bannerfarm.ace.advertising.com
 0.0.0.0 bannerflow.com
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -2789,6 +2800,7 @@
 0.0.0.0 bnmla.com
 0.0.0.0 bnserving.com
 0.0.0.0 bob.algolia.com
+0.0.0.0 bodelen.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 bokabiorio.com
@@ -2929,6 +2941,7 @@
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c.o0bc.com
 0.0.0.0 c.open.dotcunitedgroup.com
+0.0.0.0 c.skimresources.com
 0.0.0.0 c.smartclick.net
 0.0.0.0 c.snnd.co
 0.0.0.0 c.statcounter.com
@@ -2993,6 +3006,28 @@
 0.0.0.0 calendar.kissmetrics.com
 0.0.0.0 calendar.toptools100.com
 0.0.0.0 calendar.wisemana.com
+0.0.0.0 callandwin-argentina.howingo.com
+0.0.0.0 callandwin-bangla.howingo.com
+0.0.0.0 callandwin-brasil.howingo.com
+0.0.0.0 callandwin-chili.howingo.com
+0.0.0.0 callandwin-colombia.howingo.com
+0.0.0.0 callandwin-ecuador.howingo.com
+0.0.0.0 callandwin-egypt.howingo.com
+0.0.0.0 callandwin-guatamala.howingo.com
+0.0.0.0 callandwin-honduras.howingo.com
+0.0.0.0 callandwin-india.howingo.com
+0.0.0.0 callandwin-indonesia.howingo.com
+0.0.0.0 callandwin-iraq.howingo.com
+0.0.0.0 callandwin-mexico.howingo.com
+0.0.0.0 callandwin-morocco.howingo.com
+0.0.0.0 callandwin-nigeria.howingo.com
+0.0.0.0 callandwin-peru.howingo.com
+0.0.0.0 callandwin-philippines.howingo.com
+0.0.0.0 callandwin-saudi.howingo.com
+0.0.0.0 callandwin-tunesie.howingo.com
+0.0.0.0 callandwin-turkey.howingo.com
+0.0.0.0 callandwin-venezuela.howingo.com
+0.0.0.0 callandwin-vietnam.howingo.com
 0.0.0.0 callback.ad.snappea.com
 0.0.0.0 calmfoot.com
 0.0.0.0 caltagironeeditore01.wt-eu02.net
@@ -3079,6 +3114,7 @@
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adk2x.com
 0.0.0.0 cdn.adnotch.com
+0.0.0.0 cdn.adnuntius.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adpixo.com
 0.0.0.0 cdn.ads.fotoable.net
@@ -3134,6 +3170,7 @@
 0.0.0.0 cdn.infomobi.me
 0.0.0.0 cdn.ish.atdmt.com
 0.0.0.0 cdn.iubenda.com
+0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn.kidoz.net
 0.0.0.0 cdn.krxd.net
@@ -3174,6 +3211,7 @@
 0.0.0.0 cdn.rqmob.com
 0.0.0.0 cdn.ruca.tech
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.skimresources.com
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.static-cnt.bid
@@ -3642,6 +3680,7 @@
 0.0.0.0 cpu2cash.link
 0.0.0.0 cpxinteractive.com
 0.0.0.0 crabbychin.com
+0.0.0.0 cradver.livejasmin.com
 0.0.0.0 crapads.com
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
@@ -3770,6 +3809,7 @@
 0.0.0.0 d.qwertize.com
 0.0.0.0 d.reddit.com
 0.0.0.0 d.scorecardresearch.com
+0.0.0.0 d.skimresources.com
 0.0.0.0 d.smopy.com
 0.0.0.0 d.xiaomi.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
@@ -4190,6 +4230,8 @@
 0.0.0.0 downloadplatform.info
 0.0.0.0 downloads.kissmetrics.com
 0.0.0.0 downloads.pagefair.com
+0.0.0.0 downloads25119.downloadsdir.com
+0.0.0.0 downloadsdir.com
 0.0.0.0 downum.game.uc.cn
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dpecgb.co.uk
@@ -4333,6 +4375,7 @@
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 egschool.org
 0.0.0.0 ektezis.ru
+0.0.0.0 ekxlneryaiefwn.com
 0.0.0.0 el-lada.com
 0.0.0.0 elanatality.info
 0.0.0.0 elasticad.com
@@ -4757,6 +4800,7 @@
 0.0.0.0 fwapi.adsafeprotected.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fwvc.adsafeprotected.com
+0.0.0.0 fx.skimresources.com
 0.0.0.0 fx1.fx.uodoo.com
 0.0.0.0 fx5.fx.uodoo.com
 0.0.0.0 fxt.uodoo.com
@@ -4769,6 +4813,7 @@
 0.0.0.0 g.dlx.addthis.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 g.ezoic.net
+0.0.0.0 g.skimresources.com
 0.0.0.0 g00.xda-developers.com
 0.0.0.0 g1.v.fwmrm.net
 0.0.0.0 g11em.voluumtrk.com
@@ -4899,6 +4944,7 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glasses-sale.com
 0.0.0.0 glb-mads.iam.adtech.de
+0.0.0.0 glb.skimresources.com
 0.0.0.0 glbad.adtech.de
 0.0.0.0 global.adform.net
 0.0.0.0 global.api.tinyhoneybee.com
@@ -4946,6 +4992,7 @@
 0.0.0.0 go.padsdel.com
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pushnative.com
+0.0.0.0 go.skimresources.com
 0.0.0.0 go.sonobi.com
 0.0.0.0 go.tapad.com
 0.0.0.0 go.trackinit.com
@@ -5008,6 +5055,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.freebasics.org
 0.0.0.0 graph.internet.org
+0.0.0.0 graph.sanook.com
 0.0.0.0 graph.snappea.com
 0.0.0.0 graphql.kumparan.com
 0.0.0.0 gratonrewardcenter.icu
@@ -5209,6 +5257,7 @@
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 howdoijointhenepforcegroupbecauseiforgotmynicknameandpassword.com
+0.0.0.0 howingo.com
 0.0.0.0 howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 hpsafe.isupportcorp.com
@@ -5238,6 +5287,7 @@
 0.0.0.0 hurtteeth.com
 0.0.0.0 hw-cdn.contentabc.com
 0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 hwiccseamrs.com
 0.0.0.0 hybridcars.pro
 0.0.0.0 hyperadx.com
 0.0.0.0 hypertrack.com
@@ -5566,6 +5616,7 @@
 0.0.0.0 images.oovvuu.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.revmob.com
+0.0.0.0 images.skimresources.com
 0.0.0.0 imagetopng.club
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imasdk.googleapis.com
@@ -5807,6 +5858,7 @@
 0.0.0.0 is-calendar.com
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
+0.0.0.0 isgstat.sanook.com
 0.0.0.0 isobar.adform.net
 0.0.0.0 issuetracker.unity3d.com
 0.0.0.0 istric.com
@@ -5834,6 +5886,7 @@
 0.0.0.0 iyogiblog.com
 0.0.0.0 iyogishop.com
 0.0.0.0 iz682noju02ye5.com
+0.0.0.0 izooto.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 j1alc.voluumtrk.com
 0.0.0.0 j1cw9.voluumtrk2.com
@@ -5905,6 +5958,8 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobileoffers-bn-download.com
 0.0.0.0 js.mobojoy.baidu.com
+0.0.0.0 js.mtburn.com
+0.0.0.0 js.mtburn.jp
 0.0.0.0 js.revsci.net
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 js.stripe.com
@@ -5939,6 +5994,7 @@
 0.0.0.0 justicejudo.com
 0.0.0.0 jwpevent.1rx.io
 0.0.0.0 jwpltx.com
+0.0.0.0 k.skimresources.com
 0.0.0.0 k01k0.com
 0.0.0.0 k54nw.pw
 0.0.0.0 k5market.com
@@ -6002,6 +6058,7 @@
 0.0.0.0 krutilka.net
 0.0.0.0 krxd.net
 0.0.0.0 kryptoniumapp.com
+0.0.0.0 ks.skimresources.com
 0.0.0.0 ktracker.kumparan.com
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kuad.kusogi.com
@@ -6285,6 +6342,7 @@
 0.0.0.0 m.quantcount.com
 0.0.0.0 m.servebom.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 m.skimresources.com
 0.0.0.0 m.stripe.com
 0.0.0.0 m.stripe.network
 0.0.0.0 m.tq1.uodoo.com
@@ -6542,6 +6600,7 @@
 0.0.0.0 mini5-7.opera-mini.net
 0.0.0.0 mini5.opera-mini.net
 0.0.0.0 minisim.net
+0.0.0.0 ministedik.info
 0.0.0.0 minormeeting.com
 0.0.0.0 minyanville.adblade.com
 0.0.0.0 mirago.com
@@ -7034,6 +7093,7 @@
 0.0.0.0 o.adgrx.com
 0.0.0.0 o.bluekai.com
 0.0.0.0 o.freebasics.com
+0.0.0.0 o.skimresources.com
 0.0.0.0 o1.alerts.flurry.com
 0.0.0.0 o1.outbound.crashlytics.com
 0.0.0.0 o2.email.kissmetrics.com
@@ -7119,6 +7179,7 @@
 0.0.0.0 ontv.las.uae.uc.cn
 0.0.0.0 onward.adworx.at
 0.0.0.0 oovvuu.com
+0.0.0.0 op.skimresources.com
 0.0.0.0 opads.ero-advertising.com
 0.0.0.0 opanw.com
 0.0.0.0 open.inkfrog.com
@@ -7169,6 +7230,7 @@
 0.0.0.0 optout.fastclick.net
 0.0.0.0 optout.inmobi.com
 0.0.0.0 optout.outbrain.com
+0.0.0.0 optout.skimresources.com
 0.0.0.0 optout3.nexage.com
 0.0.0.0 orangeoperation.com
 0.0.0.0 orfax.com
@@ -7188,6 +7250,7 @@
 0.0.0.0 otify.bugsnag.com
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 out.popads.net
+0.0.0.0 out.tubecorporate.com
 0.0.0.0 outbound.crashlytics.com
 0.0.0.0 outbrain.com
 0.0.0.0 outcome.supersonicads.com
@@ -7228,6 +7291,8 @@
 0.0.0.0 p.dlx.addthis.com
 0.0.0.0 p.icecyber.org
 0.0.0.0 p.open.uc.cn
+0.0.0.0 p.skimresources.com
+0.0.0.0 p.skimresources.comp.skimresources.com
 0.0.0.0 p1.firrectly.top
 0.0.0.0 p1.vip.sc9.admob.com
 0.0.0.0 p102692.clksite.com
@@ -7329,6 +7394,7 @@
 0.0.0.0 p312973.clksite.com
 0.0.0.0 p32174.clksite.com
 0.0.0.0 p33844.clksite.com
+0.0.0.0 p34-keyvalueservice-current.edge.icloud.apple-dns.nett.skimresources.com
 0.0.0.0 p34466.clksite.com
 0.0.0.0 p35296.clksite.com
 0.0.0.0 p37703.dnsecho.opera.com
@@ -7513,6 +7579,7 @@
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 pixel.tapad.comp.skimresources.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixels.asia
 0.0.0.0 pixeltrack.eyeviewads.com
@@ -7612,6 +7679,7 @@
 0.0.0.0 pool.trf.adhese.com
 0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pool.zamante.adhese.com
+0.0.0.0 pool4.moatads.comr.skimresources.com
 0.0.0.0 pop.kissmetrics.com
 0.0.0.0 popacs.ero-advertising.com
 0.0.0.0 popads.net
@@ -7631,6 +7699,7 @@
 0.0.0.0 pornstars4webcam.com
 0.0.0.0 portal.ad4screen.com
 0.0.0.0 portal.adbuddiz.com
+0.0.0.0 portal.c7dc.comr.skimresources.com
 0.0.0.0 portal.prod.vidible.tv
 0.0.0.0 portal.ucgc.ucfly.com
 0.0.0.0 portal.vidible.tv
@@ -7663,6 +7732,7 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preads.skypeassets.net
 0.0.0.0 prebid.adnxs.com
+0.0.0.0 predocontentdelivery.info
 0.0.0.0 preg.bforex.com
 0.0.0.0 preipo.fund
 0.0.0.0 premierjourinfo.club
@@ -7869,8 +7939,10 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.search.yahoo.com
 0.0.0.0 r.sg.sec.miui.com
+0.0.0.0 r.skimresources.com
 0.0.0.0 r.w.inmobi.com
 0.0.0.0 r.wales
+0.0.0.0 r2.skimresources.com
 0.0.0.0 r42tag.com
 0.0.0.0 r4u-soft.com
 0.0.0.0 r7mediar.com
@@ -8225,6 +8297,7 @@
 0.0.0.0 s.send.microad.jp
 0.0.0.0 s.servedby-buysellads.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 s.skimresources.coms.skimresources.com
 0.0.0.0 s.supersonicads.com
 0.0.0.0 s.uc.cn
 0.0.0.0 s.umeng.com
@@ -8709,6 +8782,7 @@
 0.0.0.0 somethodox.info
 0.0.0.0 sonar.adswizz.com
 0.0.0.0 sonobi.com
+0.0.0.0 soosidsiofd.pw
 0.0.0.0 soperson.com
 0.0.0.0 sorethunder.com
 0.0.0.0 southamerica.email
@@ -8790,6 +8864,7 @@
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 srv.pixel.parsely.com
+0.0.0.0 srv01.howingo.com
 0.0.0.0 srv26.adcash.com
 0.0.0.0 srvpub.com
 0.0.0.0 ss.servedby-buysellads.com
@@ -8934,6 +9009,7 @@
 0.0.0.0 static.getclicky.comstatic.getclicky.com
 0.0.0.0 static.green-red.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 static.howingo.com
 0.0.0.0 static.juicyads.com
 0.0.0.0 static.liverail.com
 0.0.0.0 static.message.umeng.com
@@ -9069,6 +9145,7 @@
 0.0.0.0 streampire.org
 0.0.0.0 streamsign.me
 0.0.0.0 streamtopolis.com
+0.0.0.0 strialdeather.info
 0.0.0.0 strialist.info
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 stripe.com
@@ -9221,6 +9298,7 @@
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 t.newlimitedoffer.com
 0.0.0.0 t.pubmatic.com
+0.0.0.0 t.skimresources.com
 0.0.0.0 t.tmdn2015x9.com
 0.0.0.0 t.uc.cn
 0.0.0.0 t.update.fbsbx.com
@@ -9230,6 +9308,7 @@
 0.0.0.0 t3q7af0z.com
 0.0.0.0 t4.liverail.com
 0.0.0.0 t4geo.liverail.com
+0.0.0.0 ta.sanook.com
 0.0.0.0 tablighatnovin.com
 0.0.0.0 tablighgram.com
 0.0.0.0 taboola-d.openx.net
@@ -9303,7 +9382,10 @@
 0.0.0.0 tbot.live
 0.0.0.0 tbrx.tracking.taptica.com
 0.0.0.0 tc-clicks.com
+0.0.0.0 tc.eu-west.skimresources.com
 0.0.0.0 tc.uc.cn
+0.0.0.0 tc.us-east.skimresources.com
+0.0.0.0 tc.us-west.skimresources.com
 0.0.0.0 tcm.optica.ero-advertising.com
 0.0.0.0 td-click-haproxy.supersonicads.com
 0.0.0.0 td-click.sonic-us.supersonicads.com
@@ -10083,6 +10165,7 @@
 0.0.0.0 ttwitter.com    # common misspelling and, besides, scumbags there.
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tuanp123.com
+0.0.0.0 tubecorporate.com
 0.0.0.0 tubemogul.com
 0.0.0.0 tubepops.com
 0.0.0.0 tubularsecurity.com
@@ -10229,6 +10312,7 @@
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ultimateinfinitydownline.com
 0.0.0.0 ultraadserver.com
+0.0.0.0 um2.eqads.comx.skimresources.com
 0.0.0.0 umbel.com
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umcdn.uc.cn
@@ -10299,6 +10383,7 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 url.sd.duapps.com
 0.0.0.0 urldelivery.com
+0.0.0.0 urlp.skimresources.com
 0.0.0.0 urps.org
 0.0.0.0 us-ads.openx.net
 0.0.0.0 us-east-dmp-web-pixel.adblade.com
@@ -10603,6 +10688,7 @@
 0.0.0.0 wateryvan.com
 0.0.0.0 watson.live.com
 0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.microsoft.comwebpooldm21a08.infra.lync.comwww.linkedin.comwww.msn.comx.skimresources.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 waust.at
 0.0.0.0 wbdds.jeuxvideo.com
@@ -11047,6 +11133,7 @@
 0.0.0.0 www.blogoman-24.com
 0.0.0.0 www.bluekai.com
 0.0.0.0 www.bnserving.com
+0.0.0.0 www.bodelen.com
 0.0.0.0 www.boomoffer07.com
 0.0.0.0 www.boostperform.com
 0.0.0.0 www.bootstrapcdn.com
@@ -11258,6 +11345,7 @@
 0.0.0.0 www.gopay2.me
 0.0.0.0 www.goshakha.com
 0.0.0.0 www.gototrk.com
+0.0.0.0 www.gotrack1.es
 0.0.0.0 www.gowadogo.com
 0.0.0.0 www.gowyn.com
 0.0.0.0 www.gqe0d.voluumtrk.com
@@ -11296,12 +11384,15 @@
 0.0.0.0 www.hodling.faith
 0.0.0.0 www.hostingpagevas.com
 0.0.0.0 www.hotjar.com
+0.0.0.0 www.howingo.com
 0.0.0.0 www.hpsafe.isupportcorp.com
 0.0.0.0 www.href.li
 0.0.0.0 www.hs.appsdorado.com
 0.0.0.0 www.ht8n8.voluumtrk.com
 0.0.0.0 www.hubspot.com
+0.0.0.0 www.hwiccseamrs.com
 0.0.0.0 www.hypertrack.com
+0.0.0.0 www.i.skimresources.com
 0.0.0.0 www.i7xls.voluumtrk.com
 0.0.0.0 www.ico.bitcomo.com
 0.0.0.0 www.iesnare.com
@@ -11405,6 +11496,7 @@
 0.0.0.0 www.madvertise.com
 0.0.0.0 www.maebtjn.com
 0.0.0.0 www.maribacaberita.com
+0.0.0.0 www.marketgid.com
 0.0.0.0 www.massabola.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.maxonclick.com
@@ -11425,6 +11517,7 @@
 0.0.0.0 www.meuaparelho.net
 0.0.0.0 www.mgid.com
 0.0.0.0 www.mhthemes.com
+0.0.0.0 www.miaminewtimes.com
 0.0.0.0 www.microsoft-chat.com
 0.0.0.0 www.microsoftoutlookhelp.com
 0.0.0.0 www.microsoftproblems.com
@@ -11464,6 +11557,7 @@
 0.0.0.0 www.mttyfwtvyumc.com
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mutuza.win
+0.0.0.0 www.mxttrf.com
 0.0.0.0 www.myappfree.com
 0.0.0.0 www.mybestmv.com
 0.0.0.0 www.myfastappz.com
@@ -11524,6 +11618,7 @@
 0.0.0.0 www.outlookrepairhelp.com
 0.0.0.0 www.outlooksetting.com
 0.0.0.0 www.outlooksettings.com
+0.0.0.0 www.p.skimresources.com
 0.0.0.0 www.p187425.clksite.com
 0.0.0.0 www.p2047.clksite.com
 0.0.0.0 www.p218176.mybestmv.com
@@ -11564,6 +11659,7 @@
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.pray.priests.top
+0.0.0.0 www.predictionds.com
 0.0.0.0 www.pregnancy.adblade.com
 0.0.0.0 www.premieroll.com
 0.0.0.0 www.premiumsent.com
@@ -11588,6 +11684,7 @@
 0.0.0.0 www.quizzasport.com
 0.0.0.0 www.qwertize.com
 0.0.0.0 www.r.adstrack45.com
+0.0.0.0 www.r.skimresources.com
 0.0.0.0 www.r4u-soft.com
 0.0.0.0 www.radiorage.com
 0.0.0.0 www.rafflecopter.com
@@ -11745,6 +11842,7 @@
 0.0.0.0 www.supportpcclean.com
 0.0.0.0 www.swt3r.voluumtrk.com
 0.0.0.0 www.sxmmgiuilt.com
+0.0.0.0 www.t.skimresources.com
 0.0.0.0 www.t2lgo.com
 0.0.0.0 www.talk99.cn
 0.0.0.0 www.tapad.com
@@ -11923,6 +12021,8 @@
 0.0.0.0 x.appbaqend.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.flurry.com
+0.0.0.0 x.skimresources.com
+0.0.0.0 x.skimresources.comx.skimresources.com
 0.0.0.0 x7xirtzmot.com
 0.0.0.0 x888x.myserver.org
 0.0.0.0 xads.zedo.com
@@ -12032,6 +12132,7 @@
 0.0.0.0 yoartq.com
 0.0.0.0 yobaby.club
 0.0.0.0 yoc.mobi
+0.0.0.0 yoc.optout.skimresources.com
 0.0.0.0 yolo.music.uodoo.com
 0.0.0.0 yorte.com
 0.0.0.0 you.tubetitties.com
