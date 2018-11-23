@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.11.320
-# Release: 320
-# Entries: 12,168
+# Version: 18.11.327
+# Release: 327
+# Entries: 12,308
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 16 Nov 18 10:41:40
+# Updated: Fri, 23 Nov 18 10:44:00
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -203,6 +203,7 @@
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-ads.com
 0.0.0.0 a-ams.1rx.io
+0.0.0.0 a-msedge.net
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-o.ninja
 0.0.0.0 a-sjo.1rx.io
@@ -217,7 +218,9 @@
 0.0.0.0 a.admob.com
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adroll.com
+0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adsrvr.org
 0.0.0.0 a.adtech.de
 0.0.0.0 a.ai.inmobi.com
@@ -237,12 +240,14 @@
 0.0.0.0 a.ns.ish.atdmt.com
 0.0.0.0 a.pomf.cat
 0.0.0.0 a.qwertize.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.spankbang.com
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.tvpage.com
 0.0.0.0 a.uc.cn
+0.0.0.0 a.zog.link
 0.0.0.0 a02.korrelate.net
 0.0.0.0 a1.adform.net
 0.0.0.0 a1.adstore.jp
@@ -469,6 +474,7 @@
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
+0.0.0.0 ad.eporner.com
 0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.flipboard.com
@@ -524,6 +530,7 @@
 0.0.0.0 ad.si.doubleclick.net
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.static.pornhd.com
 0.0.0.0 ad.taptica.com
 0.0.0.0 ad.terra.doubleclick.net
 0.0.0.0 ad.th.doubleclick.net
@@ -700,6 +707,7 @@
 0.0.0.0 adconsole.inmobi.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 addapptr.com
+0.0.0.0 addhash.adreach.co
 0.0.0.0 addictiveads.com
 0.0.0.0 addlnk.com
 0.0.0.0 addon.uc.cn
@@ -938,6 +946,7 @@
 0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 ads.2mdnsys.com
 0.0.0.0 ads.4entertainment.adhese.com
+0.0.0.0 ads.4tube.com
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.ad4game.com
@@ -1040,6 +1049,7 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.qadservice.com
 0.0.0.0 ads.reddit.com
+0.0.0.0 ads.redtube.com
 0.0.0.0 ads.reward.rakuten.jp
 0.0.0.0 ads.rmb.adhese.com
 0.0.0.0 ads.roularta.adhese.com
@@ -1070,6 +1080,7 @@
 0.0.0.0 ads.vidible.tv
 0.0.0.0 ads.viralize.tv
 0.0.0.0 ads.vntsm.com
+0.0.0.0 ads.vporn.com
 0.0.0.0 ads.vrt.adhese.com
 0.0.0.0 ads.williamhill.it
 0.0.0.0 ads.xlxtra.com
@@ -1077,9 +1088,11 @@
 0.0.0.0 ads.yemonisoni.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
+0.0.0.0 ads.youporn.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zamante.adhese.com
 0.0.0.0 ads0.nexage.com
+0.0.0.0 ads03.redtube.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.bangkokpost.co.th
 0.0.0.0 ads1.ero-advertising.com
@@ -1567,6 +1580,8 @@
 0.0.0.0 advertising.com
 0.0.0.0 advertising.oriel.io
 0.0.0.0 advertising.yahoo.com
+0.0.0.0 adverts.4tube.com
+0.0.0.0 adverts.porntube.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertur.ru
 0.0.0.0 advevents20.adcolony.com
@@ -2152,6 +2167,7 @@
 0.0.0.0 api4.liverail.com
 0.0.0.0 api5.batmobil.net
 0.0.0.0 api9.net
+0.0.0.0 apicmp.adreach.co
 0.0.0.0 apips.pubmatic.com
 0.0.0.0 apis.adsymptotic.com
 0.0.0.0 apis.daum.net
@@ -2421,14 +2437,17 @@
 0.0.0.0 b-www.facebook.com
 0.0.0.0 b.adinch.com
 0.0.0.0 b.adnxs.com
+0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.cdn3.net
 0.0.0.0 b.codeonclick.com
 0.0.0.0 b.cpiera.com
 0.0.0.0 b.dlx.addthis.com
 0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
+0.0.0.0 b.rad.msn.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.skimresources.com
+0.0.0.0 b.zog.link
 0.0.0.0 b223ef51950a9c677c75132f5677870e.adk2.co
 0.0.0.0 b2c-feedapi.vidible.tv
 0.0.0.0 b3.adinch.com
@@ -2728,6 +2747,7 @@
 0.0.0.0 billytesting.com
 0.0.0.0 binaryearnforex.top
 0.0.0.0 binaryrobotplus.top
+0.0.0.0 binom.zog.link
 0.0.0.0 biological.energy
 0.0.0.0 bioskop378.com
 0.0.0.0 bioskop55.me
@@ -2797,6 +2817,7 @@
 0.0.0.0 bms.adjarabet.com
 0.0.0.0 bms.zeptolab.com
 0.0.0.0 bn-01.adtomafusion.com
+0.0.0.0 bn.adreach.co
 0.0.0.0 bnmla.com
 0.0.0.0 bnserving.com
 0.0.0.0 bob.algolia.com
@@ -3497,8 +3518,11 @@
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmi.flurry.com
 0.0.0.0 cmotru-76.com
+0.0.0.0 cmp.adreach.co
+0.0.0.0 cmp1.adreach.co
 0.0.0.0 cmpixel.onedigitalad.com
 0.0.0.0 cmplay.did.ijinshan.com
+0.0.0.0 cms.adreach.co
 0.0.0.0 cms.api.brightcove.com
 0.0.0.0 cms.ucweb.com
 0.0.0.0 cn.counter.kingsoft.com
@@ -4048,6 +4072,7 @@
 0.0.0.0 device.zhiliaoapp.com
 0.0.0.0 devportal.bluekai.com
 0.0.0.0 devshaped.com
+0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 dff2h0hbfv6w4.cloudfront.net
 0.0.0.0 dflpa6y.gamingworld.mobi
 0.0.0.0 dfp.doubleclick.net
@@ -4063,6 +4088,7 @@
 0.0.0.0 didtheyreadit.com
 0.0.0.0 differentdesk.com
 0.0.0.0 digi.tapad.com
+0.0.0.0 digin.adreach.co
 0.0.0.0 digitalbees.it
 0.0.0.0 digitaldsp.com
 0.0.0.0 digitalimagination.com.re.getclicky.com
@@ -4090,6 +4116,7 @@
 0.0.0.0 dispatcher.mng-ads.com
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 dispensablestranger.com
+0.0.0.0 display.adreach.co
 0.0.0.0 display.green-red.com
 0.0.0.0 displayincloud.adk2.co
 0.0.0.0 displayincloud.adk2x.com
@@ -4184,6 +4211,7 @@
 0.0.0.0 dont.skip-ads.net
 0.0.0.0 doodlemobile.com
 0.0.0.0 doodles.uc.cn
+0.0.0.0 dopyx.com
 0.0.0.0 dotandad.com
 0.0.0.0 dotomi.com
 0.0.0.0 doubleciick.net
@@ -4747,6 +4775,7 @@
 0.0.0.0 fqtag.com
 0.0.0.0 fr.admob.com
 0.0.0.0 fr.exoclick.com
+0.0.0.0 fr.go.zog.link
 0.0.0.0 fr.support.appsflyer.com
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fra1-mobile.adnxs.com
@@ -4781,6 +4810,7 @@
 0.0.0.0 fucard.ushareit.com
 0.0.0.0 fuhgt.timetofun.mobi
 0.0.0.0 functionalclam.com
+0.0.0.0 funnwebs.com
 0.0.0.0 funnybox.mobi
 0.0.0.0 funsafetab.com
 0.0.0.0 funsafetabsearch.com
@@ -4883,6 +4913,7 @@
 0.0.0.0 gdpr.adjust.com
 0.0.0.0 gdpr.algolia.com
 0.0.0.0 gdpr.openvoice.vidible.tv
+0.0.0.0 ge.go.zog.link
 0.0.0.0 geede.info
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 gemius.pl
@@ -5001,6 +5032,7 @@
 0.0.0.0 go.uc.cn
 0.0.0.0 go.ucweb.com
 0.0.0.0 go.vrvm.com
+0.0.0.0 go.zog.link
 0.0.0.0 go1.aniview.com
 0.0.0.0 go1.mobrain.xyz
 0.0.0.0 go2.aniview.com
@@ -5337,6 +5369,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ibeat.indiatimes.com
+0.0.0.0 ibn.adreach.co
 0.0.0.0 icegenix.com
 0.0.0.0 ichlnk.com
 0.0.0.0 icloud.com-locations.in
@@ -5560,6 +5593,7 @@
 0.0.0.0 identity.livefyre.com
 0.0.0.0 idevent.ucnews.ucweb.com
 0.0.0.0 idmatch.adform.net
+0.0.0.0 idn.adreach.co
 0.0.0.0 idp.adsrvr.org
 0.0.0.0 idsearch.ucnews.ucweb.com
 0.0.0.0 idspaces.ero-advertising.com
@@ -5653,7 +5687,9 @@
 0.0.0.0 img.uodoo.com
 0.0.0.0 img.ushareit.com
 0.0.0.0 img.vidible.tv
+0.0.0.0 img.zog.link
 0.0.0.0 img0.u.ucfly.com
+0.0.0.0 img1-gadgetsnow-com.cdn.ampproject.org
 0.0.0.0 img1.nend.net
 0.0.0.0 img4.juiceadv.com
 0.0.0.0 imgg-cdn.mgid.com
@@ -5703,8 +5739,25 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 in.uc123.com
 0.0.0.0 in.wzrkt.com
+0.0.0.0 in.zog.link
+0.0.0.0 in10.zog.link
+0.0.0.0 in100.zog.link
+0.0.0.0 in101.zog.link
+0.0.0.0 in11.zog.link
+0.0.0.0 in12.zog.link
+0.0.0.0 in13.zog.link
+0.0.0.0 in14.zog.link
+0.0.0.0 in15.zog.link
+0.0.0.0 in16.zog.link
+0.0.0.0 in2.zog.link
 0.0.0.0 in2pcfix.com
+0.0.0.0 in3.zog.link
+0.0.0.0 in4.zog.link
+0.0.0.0 in5.zog.link
+0.0.0.0 in6.zog.link
+0.0.0.0 in7.zog.link
 0.0.0.0 in8.zog.link
+0.0.0.0 in9.zog.link
 0.0.0.0 inc.adblade.com
 0.0.0.0 inclk.com
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -5869,6 +5922,7 @@
 0.0.0.0 it.antivirus-new.com
 0.0.0.0 it.appsdorado.com
 0.0.0.0 it.boostperform.com
+0.0.0.0 it.go.zog.link
 0.0.0.0 it.usenet.nl
 0.0.0.0 italiaonline.com
 0.0.0.0 itocd.net
@@ -5937,6 +5991,7 @@
 0.0.0.0 joysk.com
 0.0.0.0 jp.admob.com
 0.0.0.0 jp.cxense.com
+0.0.0.0 jp.go.zog.link
 0.0.0.0 jp.livelog.nexon.com
 0.0.0.0 jp.taptica.com
 0.0.0.0 jppcj.voluumtrk.com
@@ -5945,6 +6000,7 @@
 0.0.0.0 js-apac-ss.ysm.yahoo.com
 0.0.0.0 js-ssl.neodatagroup.com
 0.0.0.0 js.ad-stir.com
+0.0.0.0 js.adreach.co
 0.0.0.0 js.ads.ero-advertising.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.adsrvr.org
@@ -6050,6 +6106,7 @@
 0.0.0.0 kolnewsupdate.info
 0.0.0.0 komoona.com
 0.0.0.0 korea.inmobi.com
+0.0.0.0 kot.zog.link
 0.0.0.0 koudas.alphonso.tv
 0.0.0.0 kpeterstudio.com
 0.0.0.0 kr.admob.com
@@ -6289,6 +6346,7 @@
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lp4.io
 0.0.0.0 lpa.trckonspot.com
+0.0.0.0 lpbhbwpbpnl.com
 0.0.0.0 lpo.trckonspot.com
 0.0.0.0 lptrack.co
 0.0.0.0 ls.srvcs.tumblr.com
@@ -6742,6 +6800,7 @@
 0.0.0.0 morgdm.ru
 0.0.0.0 morningdigit.com
 0.0.0.0 morningheart.com
+0.0.0.0 mos.adreach.co
 0.0.0.0 motifcdn.doubleclick.net
 0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 motime.com
@@ -6783,6 +6842,7 @@
 0.0.0.0 msbmopod.vo.llnwd.net
 0.0.0.0 msbrandent.vo.llnwd.net
 0.0.0.0 msdkevents.1rx.io
+0.0.0.0 msftncsi.com
 0.0.0.0 msg.ettoday.net
 0.0.0.0 msg.transacme.com
 0.0.0.0 msg.umeng.com
@@ -6987,6 +7047,7 @@
 0.0.0.0 njs.manhuahome.com
 0.0.0.0 nkredir.com
 0.0.0.0 nkxdyorwbt.com
+0.0.0.0 nl.go.zog.link
 0.0.0.0 nl1.ero-advertising.com
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nllapps.com
@@ -7070,6 +7131,7 @@
 0.0.0.0 nspmotion.com
 0.0.0.0 nt.smartclick.net
 0.0.0.0 nuditydetector.vidible.tv
+0.0.0.0 nudooapfildwbz.com
 0.0.0.0 nufa-ad.com
 0.0.0.0 nuffnang.co.th
 0.0.0.0 nugg.ad
@@ -7107,6 +7169,8 @@
 0.0.0.0 objexis.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 oclaserver.com
 0.0.0.0 oclasrv.com
 0.0.0.0 oconner.biz
@@ -7215,6 +7279,7 @@
 0.0.0.0 oppo.yidianzixun.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 opr.formulas.jp
+0.0.0.0 ops.adreach.co
 0.0.0.0 opsplatform.adsrvr.org
 0.0.0.0 opt.ximad.com
 0.0.0.0 opt7.go.sonobi.com
@@ -7784,6 +7849,7 @@
 0.0.0.0 profitfast.online
 0.0.0.0 profitrumour.com
 0.0.0.0 projectpoi.com
+0.0.0.0 projects.adreach.co
 0.0.0.0 projectwonderful.com
 0.0.0.0 promethean.api.smartlauncher.net
 0.0.0.0 promo.amplitude.com
@@ -7948,6 +8014,7 @@
 0.0.0.0 r7mediar.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
 0.0.0.0 rad.msn.com.nsatc.net
 0.0.0.0 radarnews.uodoo.com
 0.0.0.0 radioactive.adswizz.com
@@ -8172,6 +8239,7 @@
 0.0.0.0 rmd.atdmt.com
 0.0.0.0 rmp.1rx.io
 0.0.0.0 rnmd.net
+0.0.0.0 ro.go.zog.link
 0.0.0.0 robocat.me
 0.0.0.0 roboinside.me
 0.0.0.0 robustbelieve.com
@@ -8230,6 +8298,7 @@
 0.0.0.0 rtb.onedigitalad.com
 0.0.0.0 rtb.platform.glispa.com
 0.0.0.0 rtb.tinyhoneybee.com
+0.0.0.0 rtb.zog.link
 0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 rtbdev4.alphonso.tv
 0.0.0.0 rtbgw-eu.adgrx.com
@@ -8353,6 +8422,7 @@
 0.0.0.0 s8.addthis.com
 0.0.0.0 s9.addthis.com
 0.0.0.0 s9kkremkr0.com
+0.0.0.0 sO.2mdn.net
 0.0.0.0 sa-ema.com
 0.0.0.0 sa-only.outbrain.com
 0.0.0.0 sa.entireweb.com
@@ -8543,6 +8613,7 @@
 0.0.0.0 serve.vdopia.com
 0.0.0.0 servebom.com
 0.0.0.0 servedby-buysellads.com
+0.0.0.0 servedby.ammoland.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 servedby.hrnorth.se
 0.0.0.0 servedby2.advertising.com
@@ -8564,6 +8635,7 @@
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.addons.mozilla.org
 0.0.0.0 services.brightcove.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 servicesupport.hicloud.com
 0.0.0.0 serving-sys.com
 0.0.0.0 serving.adbetclickin.pink
@@ -8852,6 +8924,7 @@
 0.0.0.0 spritemaps.scdn.co
 0.0.0.0 spsvc3.i-mobile.co.jp
 0.0.0.0 spurioussteam.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 squeamishscarecrow.com
@@ -9033,11 +9106,14 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 static.zucks.net.zimg.jp
 0.0.0.0 static1.adinch.com
+0.0.0.0 static1.zog.link
 0.0.0.0 static2.adinch.com
 0.0.0.0 static2.freewebs.getclicky.com
 0.0.0.0 static2.outbrain.com
 0.0.0.0 static2.umeng.com
+0.0.0.0 static2.zog.link
 0.0.0.0 static3.adinch.com
+0.0.0.0 static3.zog.link
 0.0.0.0 static4.adinch.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 staticd.cdn.adblade.comstaticd.cdn.adblade.com
@@ -9191,6 +9267,7 @@
 0.0.0.0 suntrustlb.online
 0.0.0.0 superads.cn
 0.0.0.0 superficialsink.com
+0.0.0.0 superlogout.github.io
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
 0.0.0.0 supertechsolution.com
@@ -9412,6 +9489,7 @@
 0.0.0.0 tekzie.com
 0.0.0.0 tel.fe01.hh.xiaomi.com
 0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telecomunicate.com
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry.algolia.com
@@ -9478,6 +9556,7 @@
 0.0.0.0 thaitokenomic.com
 0.0.0.0 thaitokenomics.com
 0.0.0.0 thales.adsrvr.org
+0.0.0.0 theannoyingsite.com
 0.0.0.0 thebestplayer.mobi
 0.0.0.0 thebridgeoftruth.live
 0.0.0.0 thefilter.com
@@ -10304,6 +10383,7 @@
 0.0.0.0 uhhoatxt.com
 0.0.0.0 uhughed.club
 0.0.0.0 ui.skype.akadns.net
+0.0.0.0 ui.skype.com
 0.0.0.0 uimserv.net
 0.0.0.0 ukfitness.org
 0.0.0.0 ukp.rtb.adsrvr.org
@@ -10689,7 +10769,9 @@
 0.0.0.0 watson.live.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.microsoft.comwebpooldm21a08.infra.lync.comwww.linkedin.comwww.msn.comx.skimresources.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 waust.at
 0.0.0.0 wbdds.jeuxvideo.com
 0.0.0.0 wbn.su
@@ -10857,6 +10939,7 @@
 0.0.0.0 wp-stage.vidible.tv
 0.0.0.0 wp.cxense.com
 0.0.0.0 wpk-auth.ucweb.com
+0.0.0.0 wps.zog.link
 0.0.0.0 wrongpotato.com
 0.0.0.0 wryfinger.com
 0.0.0.0 ws-adv.ais.co.th
@@ -10946,10 +11029,16 @@
 0.0.0.0 www.97.utroro.com
 0.0.0.0 www.9anime.cc
 0.0.0.0 www.a-ads.com
+0.0.0.0 www.a-msedge.net
 0.0.0.0 www.a-o.ninja
 0.0.0.0 www.a-tono.com
+0.0.0.0 www.a.ads1.msn.com
+0.0.0.0 www.a.ads2.msads.net
+0.0.0.0 www.a.ads2.msn.com
 0.0.0.0 www.a.ero-advertising.com
 0.0.0.0 www.a.qwertize.com
+0.0.0.0 www.a.rad.msn.com
+0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accountkit.com
 0.0.0.0 www.accu-chek.it
 0.0.0.0 www.acdn.adnxs.com
@@ -10960,6 +11049,7 @@
 0.0.0.0 www.ad-serving.co
 0.0.0.0 www.ad-stir.com
 0.0.0.0 www.ad-sys.com
+0.0.0.0 www.ad.doubleclick.net
 0.0.0.0 www.ad.smartclick.net
 0.0.0.0 www.ad.zanox.com
 0.0.0.0 www.ad4game.com
@@ -11001,12 +11091,17 @@
 0.0.0.0 www.admantx.com
 0.0.0.0 www.admob.com
 0.0.0.0 www.admvncln.com
+0.0.0.0 www.adnexus.net
 0.0.0.0 www.adnxs.com
 0.0.0.0 www.adotmob.com
 0.0.0.0 www.adplay-mobile.com
+0.0.0.0 www.adreach.co
 0.0.0.0 www.ads.ero-advertising.com
 0.0.0.0 www.ads.it.boostperform.com
+0.0.0.0 www.ads.msn.com
 0.0.0.0 www.ads.socapo.com
+0.0.0.0 www.ads1.msads.net
+0.0.0.0 www.ads1.msn.com
 0.0.0.0 www.ads2live.com
 0.0.0.0 www.adsafeprotected.com
 0.0.0.0 www.adsco.re
@@ -11048,6 +11143,7 @@
 0.0.0.0 www.affrh2023.com
 0.0.0.0 www.afminer.com
 0.0.0.0 www.ahi26.voluumtrk.com
+0.0.0.0 www.aidps.atdmt.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.algolia.com
 0.0.0.0 www.allgames4you.mobi
@@ -11097,6 +11193,9 @@
 0.0.0.0 www.awin1.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.axiatraders.com
+0.0.0.0 www.b.ads1.msn.com
+0.0.0.0 www.b.ads2.msads.net
+0.0.0.0 www.b.rad.msn.com
 0.0.0.0 www.badboys.network
 0.0.0.0 www.baidu-pc-faster.en.softonic.com
 0.0.0.0 www.baidu-spark-browser.en.softonic.com
@@ -11151,12 +11250,15 @@
 0.0.0.0 www.buzzcity.net
 0.0.0.0 www.buzzclicks.com
 0.0.0.0 www.by007.cn
+0.0.0.0 www.c.atdmt.com
 0.0.0.0 www.c.medialink.mobi
+0.0.0.0 www.c.msn.com
 0.0.0.0 www.caltagironeeditore01.wt-eu02.net
 0.0.0.0 www.camsoda.com
 0.0.0.0 www.canuck-method.com
 0.0.0.0 www.casinoportugal.pt
 0.0.0.0 www.cdn.adblade.com
+0.0.0.0 www.cdn.atdmt.com
 0.0.0.0 www.cdn3.net
 0.0.0.0 www.cdnallyouwantonline.innocraft.cloud
 0.0.0.0 www.cdnmedia.xyz
@@ -11208,6 +11310,7 @@
 0.0.0.0 www.cookiescript.info
 0.0.0.0 www.coolestslots.com
 0.0.0.0 www.coollcloud.com
+0.0.0.0 www.corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 www.cosiloon.com
 0.0.0.0 www.cpactions.com
 0.0.0.0 www.cpm10.com
@@ -11234,6 +11337,7 @@
 0.0.0.0 www.data-ero-advertising.com
 0.0.0.0 www.dating.mgid.com
 0.0.0.0 www.daum.net
+0.0.0.0 www.db3aqu.atdmt.com
 0.0.0.0 www.dbxqk.voluumtrk.com
 0.0.0.0 www.definitimedia.com
 0.0.0.0 www.delightdriving.com
@@ -11242,6 +11346,7 @@
 0.0.0.0 www.devblaze.win
 0.0.0.0 www.devbrowse.win
 0.0.0.0 www.dexchangeinc.com
+0.0.0.0 www.df.telemetry.microsoft.com
 0.0.0.0 www.dfujqyjifvoe.com
 0.0.0.0 www.dfw1.vip.inmobi.com
 0.0.0.0 www.differentdesk.com
@@ -11267,6 +11372,7 @@
 0.0.0.0 www.easyaccess.mobi
 0.0.0.0 www.easytechy.co.uk
 0.0.0.0 www.easytechy.com
+0.0.0.0 www.ec.atdmt.com
 0.0.0.0 www.ecran-de-veille.org
 0.0.0.0 www.eeduelements.com
 0.0.0.0 www.eeopet.site
@@ -11302,6 +11408,7 @@
 0.0.0.0 www.firstclass-download.com
 0.0.0.0 www.fixnow.us
 0.0.0.0 www.fixyoursoftware.com
+0.0.0.0 www.flex.msn.com
 0.0.0.0 www.flurry.com
 0.0.0.0 www.follamigos.com
 0.0.0.0 www.formats.juiceadv.com
@@ -11311,7 +11418,9 @@
 0.0.0.0 www.freecontent.racing
 0.0.0.0 www.frrbsrbs.com
 0.0.0.0 www.fullstory.com
+0.0.0.0 www.funnwebs.com
 0.0.0.0 www.funnybox.mobi
+0.0.0.0 www.g.msn.com
 0.0.0.0 www.g00.xda-developers.com
 0.0.0.0 www.g11em.voluumtrk.com
 0.0.0.0 www.g7jtj.voluumtrk.com
@@ -11359,6 +11468,7 @@
 0.0.0.0 www.gvp3l.voluumtrk.com
 0.0.0.0 www.gwc1f.voluumtrk.com
 0.0.0.0 www.h0nap.voluumtrk.com
+0.0.0.0 www.h1.msn.com
 0.0.0.0 www.h8vzwpv.com
 0.0.0.0 www.hao123.co.th
 0.0.0.0 www.hao123.com
@@ -11484,9 +11594,11 @@
 0.0.0.0 www.lmodr.biz
 0.0.0.0 www.lovoo.com
 0.0.0.0 www.lp-site.com
+0.0.0.0 www.lpbhbwpbpnl.com
 0.0.0.0 www.lptrack.co
 0.0.0.0 www.lvmobi.com
 0.0.0.0 www.lxelgoqzvjfw.com
+0.0.0.0 www.m.adnxs.com
 0.0.0.0 www.m.easyaccess.mobi
 0.0.0.0 www.m.it.appsdorado.com
 0.0.0.0 www.m.vipvergognosi.com
@@ -11554,6 +11666,7 @@
 0.0.0.0 www.mozila-firefox.com
 0.0.0.0 www.mozillafirefoxsupport.com
 0.0.0.0 www.mozook.com
+0.0.0.0 www.msftncsi.com
 0.0.0.0 www.mttyfwtvyumc.com
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mutuza.win
@@ -11589,9 +11702,12 @@
 0.0.0.0 www.norton-comsetup.co.uk
 0.0.0.0 www.notalyyj.com
 0.0.0.0 www.npept.voluumtrk.com
+0.0.0.0 www.nudooapfildwbz.com
 0.0.0.0 www.nufa-ad.com
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
+0.0.0.0 www.oca.telemetry.microsoft.com
+0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oipzyrzffum.ovh
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
@@ -11663,6 +11779,7 @@
 0.0.0.0 www.pregnancy.adblade.com
 0.0.0.0 www.premieroll.com
 0.0.0.0 www.premiumsent.com
+0.0.0.0 www.preview.msn.com
 0.0.0.0 www.priests.top
 0.0.0.0 www.printer-techsupport.net
 0.0.0.0 www.profitablesoft.top
@@ -11686,6 +11803,8 @@
 0.0.0.0 www.r.adstrack45.com
 0.0.0.0 www.r.skimresources.com
 0.0.0.0 www.r4u-soft.com
+0.0.0.0 www.rad.live.com
+0.0.0.0 www.rad.msn.com
 0.0.0.0 www.radiorage.com
 0.0.0.0 www.rafflecopter.com
 0.0.0.0 www.ramzpcsupport.com
@@ -11732,6 +11851,7 @@
 0.0.0.0 www.refuzzlizing.pro
 0.0.0.0 www.remarketingpixel.com
 0.0.0.0 www.rengarx.com
+0.0.0.0 www.reports.wes.df.telemetry.microsoft.com
 0.0.0.0 www.respecials.com
 0.0.0.0 www.rgryk.voluumtrk.com
 0.0.0.0 www.rhfgjld.com
@@ -11743,6 +11863,7 @@
 0.0.0.0 www.royalbet90.win
 0.0.0.0 www.rp3oq.voluumtrk.com
 0.0.0.0 www.s.clickiocdn.com
+0.0.0.0 www.sO.2mdn.net
 0.0.0.0 www.sadcat.tk
 0.0.0.0 www.safetech24.com
 0.0.0.0 www.salesunglasses07.pw
@@ -11756,6 +11877,7 @@
 0.0.0.0 www.script.crazyegg.com
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search-privacy.online
+0.0.0.0 www.secure.adnxs.com
 0.0.0.0 www.security-check-551.com
 0.0.0.0 www.security.baidu.co.th
 0.0.0.0 www.segretaria24.it
@@ -11763,6 +11885,7 @@
 0.0.0.0 www.servebom.com
 0.0.0.0 www.servedbyopenx.com
 0.0.0.0 www.servicelayer.mobi
+0.0.0.0 www.services.wes.df.telemetry.microsoft.com
 0.0.0.0 www.sf-3.st.adtekmedia.com
 0.0.0.0 www.shallowschool.com
 0.0.0.0 www.sharethrough.com
@@ -11806,11 +11929,15 @@
 0.0.0.0 www.sportyplay.com
 0.0.0.0 www.spoutable.com
 0.0.0.0 www.sprinklecontent.com
+0.0.0.0 www.sqm.df.telemetry.microsoft.com
+0.0.0.0 www.sqm.telemetry.microsoft.com
+0.0.0.0 www.sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.src.eeduelements.com
 0.0.0.0 www.stack-sonar.com
 0.0.0.0 www.stackcommerce.com
 0.0.0.0 www.startappexchange.com
 0.0.0.0 www.statcounter.com
+0.0.0.0 www.static.2mdn.net
 0.0.0.0 www.static.cdn.adblade.com
 0.0.0.0 www.static.chameleon.ad
 0.0.0.0 www.static.elixmedia.com
@@ -11857,6 +11984,12 @@
 0.0.0.0 www.techzglobal.com
 0.0.0.0 www.tekka.it
 0.0.0.0 www.tekzie.com
+0.0.0.0 www.telecommand.telemetry.microsoft.com
+0.0.0.0 www.telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 www.telemetry.appex.bing.net
+0.0.0.0 www.telemetry.appex.bing.net:443
+0.0.0.0 www.telemetry.microsoft.com
+0.0.0.0 www.telemetry.urs.microsoft.com
 0.0.0.0 www.tenjin.com
 0.0.0.0 www.terraclicks.com
 0.0.0.0 www.terrapops.com
@@ -11934,6 +12067,7 @@
 0.0.0.0 www.vertismedia.co.uk
 0.0.0.0 www.videoadsgenius.co
 0.0.0.0 www.vidto.se
+0.0.0.0 www.view.atdmt.com
 0.0.0.0 www.viprumor.it
 0.0.0.0 www.vipvergognosi.com
 0.0.0.0 www.viral782.com
@@ -11952,6 +12086,9 @@
 0.0.0.0 www.vvvvid.it
 0.0.0.0 www.w2mobile.com
 0.0.0.0 www.watchnow.tv
+0.0.0.0 www.watson.ppe.telemetry.microsoft.com
+0.0.0.0 www.watson.telemetry.microsoft.com
+0.0.0.0 www.watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.wcomhost.com
 0.0.0.0 www.web.adblade.com
 0.0.0.0 www.webassembly.stream
@@ -11963,6 +12100,7 @@
 0.0.0.0 www.webminepool.com
 0.0.0.0 www.webminepool.tk
 0.0.0.0 www.webtrekk.com
+0.0.0.0 www.wes.df.telemetry.microsoft.com
 0.0.0.0 www.wetrafficstars.mobi
 0.0.0.0 www.whatsapps.com
 0.0.0.0 www.whstatic.com
@@ -11998,6 +12136,7 @@
 0.0.0.0 www.zlx.com.br
 0.0.0.0 www.znacktv.it
 0.0.0.0 www.zo1.sierra-boa.com
+0.0.0.0 www.zog.link
 0.0.0.0 www.zoorate.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
@@ -12198,6 +12337,7 @@
 0.0.0.0 znsqykdmcjh.com
 0.0.0.0 zo1.sierra-boa.com
 0.0.0.0 zoepawera.com
+0.0.0.0 zog.link
 0.0.0.0 zoglafi.info
 0.0.0.0 zogot.com
 0.0.0.0 zone-telechargement1.online
