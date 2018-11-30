@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.11.327
-# Release: 327
-# Entries: 6,776
+# Version: 18.11.334
+# Release: 334
+# Entries: 6,821
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 23 Nov 18 10:44:00
+# Updated: Fri, 30 Nov 18 11:12:41
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -686,6 +686,7 @@
 0.0.0.0 alogus.umeng.com
 0.0.0.0 alpha.accountkit.com
 0.0.0.0 alpha.atdmt.com
+0.0.0.0 alpha.telemetry.microsft.com
 0.0.0.0 alt-e.media6degrees.com
 0.0.0.0 alya.iad-03.braze.com
 0.0.0.0 am-north-stg1.pix-geo.revsci.net
@@ -751,6 +752,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 ancestry-mcsp.demdex.net
 0.0.0.0 ancestry.adlegend.com
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 android.googleapis.com
 0.0.0.0 androidpartner.googleapis.com
 0.0.0.0 androidpay-users-pa.googleapis.com
@@ -926,6 +928,7 @@
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 apissug.ucweb.com
 0.0.0.0 apiuccenter.ucweb.com
+0.0.0.0 apm.wetest.qq.com
 0.0.0.0 apn-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 apn-winners-us-east-1-rtb.adroll.com
@@ -1019,6 +1022,7 @@
 0.0.0.0 asiaads.simpli.fi
 0.0.0.0 asiamiles.demdex.net
 0.0.0.0 asianpeoplemeet.adlegend.com
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 ask-media-group-d.openx.net
 0.0.0.0 asset.pagefair.com
 0.0.0.0 assets.adobedtm.com
@@ -1614,6 +1618,7 @@
 0.0.0.0 cdn.umeng.com
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn.video.ssp.cloudmobi.net
+0.0.0.0 cdn.wetest.qq.com
 0.0.0.0 cdn.wshareit.com
 0.0.0.0 cdn.yldbt.com
 0.0.0.0 cdn1-creatives.adswizz.com
@@ -1635,6 +1640,8 @@
 0.0.0.0 ceres.iad-03.braze.com
 0.0.0.0 cert-test-alias.algolia.com
 0.0.0.0 cetus.iad-03.braze.com
+0.0.0.0 ceuswatcab01.blob.core.windows.net
+0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 cf.addthis.com
 0.0.0.0 cf.ushareit.com
 0.0.0.0 cfg.flurry.com
@@ -1715,6 +1722,7 @@
 0.0.0.0 cloneit.ushareit.com
 0.0.0.0 closermag.via.batch.com
 0.0.0.0 cloud.count.ly
+0.0.0.0 cloud.gsdk.proximabeta.com
 0.0.0.0 cloud.ucweb.com
 0.0.0.0 cloud.video.taobao.com
 0.0.0.0 cloudconfig.googleapis.com
@@ -1910,6 +1918,7 @@
 0.0.0.0 cs.appbrain.com
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.daum.net
+0.0.0.0 cs.mbgame.gamesafe.qq.com
 0.0.0.0 cse.avlyun.sec.miui.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 cspix.media6degrees.com
@@ -2017,6 +2026,9 @@
 0.0.0.0 dax-files.comscore.com
 0.0.0.0 dax.comscore.com
 0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dbpal.appsflyer.com
 0.0.0.0 dc.ixiaa.com
@@ -2178,6 +2190,7 @@
 0.0.0.0 divorcedpeoplemeet.adlegend.com
 0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 dl.cm.sec.miui.com
+0.0.0.0 dlied1.qq.com
 0.0.0.0 dls.ucweb.com
 0.0.0.0 dlx.krxd.net
 0.0.0.0 dmaps.daum.net
@@ -2253,6 +2266,7 @@
 0.0.0.0 down4.ucweb.com
 0.0.0.0 down5.game.uc.cn
 0.0.0.0 downali.game.uc.cn
+0.0.0.0 download.2.1375135419.igame.gcloudcs.com
 0.0.0.0 download.appsflyer.com
 0.0.0.0 download.bigmail.daum.net
 0.0.0.0 download.comscore.com
@@ -2316,6 +2330,8 @@
 0.0.0.0 eastads.simpli.fi
 0.0.0.0 eastbids.simpli.fi
 0.0.0.0 eastevents.simpli.fi
+0.0.0.0 eaus2watcab01.blob.core.windows.net
+0.0.0.0 eaus2watcab02.blob.core.windows.net
 0.0.0.0 ebayeub-d.openx.net
 0.0.0.0 ebayinc.demdex.net
 0.0.0.0 ebayukb-d.openx.net
@@ -2435,6 +2451,7 @@
 0.0.0.0 eu.event.cmp.advertising.com
 0.0.0.0 eu.metrics.adswizz.com
 0.0.0.0 eu.pulsepoint.rtb.quantserve.com
+0.0.0.0 eu.vortex-win.data.microsft.com
 0.0.0.0 eu7.pix-geo.revsci.net
 0.0.0.0 eua.insight.adsrvr.org
 0.0.0.0 eunorth.dailymotion.rtb.revsci.net
@@ -2701,6 +2718,7 @@
 0.0.0.0 g.atdmt.com
 0.0.0.0 g.crwdcntrl.net
 0.0.0.0 g.scorecardresearch.com
+0.0.0.0 g2crowd.com
 0.0.0.0 gad.adfurikun.jp
 0.0.0.0 gadasource.storage.googleapis.com
 0.0.0.0 gads.pubmatic.com
@@ -2753,6 +2771,8 @@
 0.0.0.0 geo-um.btrll.com
 0.0.0.0 geo.atdmt.com
 0.0.0.0 geo.moatads.com
+0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geofence.sys.miui.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 gerison.appanalytics.io
@@ -2959,6 +2979,7 @@
 0.0.0.0 hk.mibi.xiaomi.com
 0.0.0.0 hk.ynuf.aliapp.org
 0.0.0.0 hk4.nexage.com
+0.0.0.0 hkconfig.gcloud.qq.com
 0.0.0.0 hkg-rtb.applovin.com
 0.0.0.0 hkg.search.spotxchange.com
 0.0.0.0 hkg01.sync.search.spotxchange.com
@@ -3254,6 +3275,9 @@
 0.0.0.0 id.uc.cn
 0.0.0.0 id.uc123.com
 0.0.0.0 id.ucnews.ucweb.com
+0.0.0.0 idc.dir.tdm.qq.com
+0.0.0.0 idc.receiver.tdm.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
 0.0.0.0 idevent.ucnews.ucweb.com
 0.0.0.0 idh5.ucnews.ucweb.com
 0.0.0.0 idm.rubiconproject.com
@@ -3271,6 +3295,8 @@
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 iflow-in.napi.ucweb.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
 0.0.0.0 igame.xiaomi.com
 0.0.0.0 iggroup.demdex.net
 0.0.0.0 igouwu.uc.cn
@@ -4077,6 +4103,7 @@
 0.0.0.0 nai.outbrain.com
 0.0.0.0 nan.nexac.com
 0.0.0.0 napi.ucweb.com
+0.0.0.0 naping.igamecj.com
 0.0.0.0 nationalinsturments.demdex.net
 0.0.0.0 native-ad-api.tapad.com
 0.0.0.0 nativo.openadid.adnxs.com
@@ -4222,6 +4249,7 @@
 0.0.0.0 obs02.nym2.appnexus.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
+0.0.0.0 oca.telemetry.microsft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 oclasrv.com
@@ -4308,6 +4336,8 @@
 0.0.0.0 osm.algolia.com
 0.0.0.0 oss.message.umeng.com
 0.0.0.0 oss.ucdl.pp.uc.cn
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 otherwortb.deliveryengine.adswizz.com
 0.0.0.0 otsukacorporation.demdex.net
 0.0.0.0 ouest-france.via.batch.com
@@ -4526,6 +4556,7 @@
 0.0.0.0 pinecone.uc.cn
 0.0.0.0 ping.typekit.net
 0.0.0.0 pinger.ads.nexage.com
+0.0.0.0 pingma.qq.com
 0.0.0.0 pinpointdigital.demdex.net
 0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 pipe.adform.net
@@ -4787,6 +4818,8 @@
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 qiqu.uc.cn
 0.0.0.0 qiye.xiaomi.com
+0.0.0.0 qos.gcloud.qq.com
+0.0.0.0 qos.hk.gcloudcs.com
 0.0.0.0 quantserve.com
 0.0.0.0 quby.count.ly
 0.0.0.0 query.kissmetrics.com
@@ -5238,6 +5271,7 @@
 0.0.0.0 set.tidaltv.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 setting.umeng.com
+0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.brightcove.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.outbrain.com
@@ -5258,6 +5292,7 @@
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 sg.rayjump.com
 0.0.0.0 sg.taboola.com
+0.0.0.0 sg.voice.gcloudcs.com
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg12.zopim.comssl.gstatic.comstatic.getclicky.com
 0.0.0.0 sgads1.simpli.fi
@@ -5729,6 +5764,7 @@
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 systemres.com.re.getclicky.com
 0.0.0.0 sz-loc.ushareit.com
+0.0.0.0 szmg.qq.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.atdmt.com
 0.0.0.0 t.chartboost.com
@@ -5823,6 +5859,7 @@
 0.0.0.0 temp.addapptr.com
 0.0.0.0 tempevpn.brightcove.com
 0.0.0.0 templates.avocarrot.com
+0.0.0.0 tencentgames.helpshift.com
 0.0.0.0 teratail.storage.googleapis.com
 0.0.0.0 test-admin.flurry.com
 0.0.0.0 test-bc.ixiaa.com
@@ -5967,6 +6004,7 @@
 0.0.0.0 tracking-51.iad.liverail.com
 0.0.0.0 tracking.addapptr.com
 0.0.0.0 tracking.chartboost.com
+0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
@@ -6176,6 +6214,7 @@
 0.0.0.0 us.event.cmp.advertising.com
 0.0.0.0 us.meet.ssl2.duapps.com
 0.0.0.0 us.rayjump.com
+0.0.0.0 us.vortex-win.data.microsft.com
 0.0.0.0 us.xs.mookie1.com
 0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us01.rayjump.com
@@ -6232,6 +6271,8 @@
 0.0.0.0 v.daum.net
 0.0.0.0 v.media.daum.net
 0.0.0.0 v1.uc.cn
+0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net
+0.0.0.0 v10.vortex-win.data.microsft.com
 0.0.0.0 v1ad.adlegend.com
 0.0.0.0 v2.chartboost.com
 0.0.0.0 v2.moatads.com
@@ -6339,6 +6380,7 @@
 0.0.0.0 visual.comscore.com
 0.0.0.0 vivaki.demdex.net
 0.0.0.0 vlibs.advertising.com
+0.0.0.0 vmp.qq.com
 0.0.0.0 vmscdn-download.storage.googleapis.com
 0.0.0.0 vmwareinc.demdex.net
 0.0.0.0 vn-gmtdmp.mookie1.com
@@ -6351,6 +6393,7 @@
 0.0.0.0 voip.game.xiaomi.com
 0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 volkswagen.demdex.net
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 vox-static.liverail.com
 0.0.0.0 voyagermarketing-d.openx.net
 0.0.0.0 vp-www.addthis.com
@@ -6450,6 +6493,8 @@
 0.0.0.0 west.us.tm.exelator.com
 0.0.0.0 westads.simpli.fi
 0.0.0.0 westernunion.demdex.net
+0.0.0.0 weus2watcab01.blob.core.windows.net
+0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 wf-mock.taboola.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 wfa.demdex.net
