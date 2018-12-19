@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.12.348
-# Release: 348
-# Entries: 9,020
+# Version: 18.12.353
+# Release: 353
+# Entries: 9,026
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 14 Dec 18 11:07:56
+# Updated: Wed, 19 Dec 18 09:54:39
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -875,6 +875,7 @@
 0.0.0.0 adv6.a-ads.com
 0.0.0.0 adv7.a-ads.com
 0.0.0.0 adverline-d.openx.net
+0.0.0.0 adversal.mgr.consensu.org
 0.0.0.0 advertiser.applovin.com
 0.0.0.0 advertisers.clickadu.com
 0.0.0.0 advertising.com
@@ -1210,6 +1211,7 @@
 0.0.0.0 api.comm.miui.com
 0.0.0.0 api.competition.intl.miui.com
 0.0.0.0 api.comscore.com
+0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.criteo.com
 0.0.0.0 api.crittercism.com
@@ -2315,6 +2317,7 @@
 0.0.0.0 clickers.rtb.adroll.com
 0.0.0.0 clickhk.taboola.com
 0.0.0.0 clickhouse.digitaltarget.ru
+0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 clicklatb.taboola.com
 0.0.0.0 clicknj.taboola.com
 0.0.0.0 clickserv.sitescout.com
@@ -2472,6 +2475,7 @@
 0.0.0.0 connector.krxd.net
 0.0.0.0 connectx.inmobi.com
 0.0.0.0 connnect.facebook.net
+0.0.0.0 consensu.org
 0.0.0.0 console-sand.cuebiq.com
 0.0.0.0 console-test.appnexus.com
 0.0.0.0 console.appnexus.com
@@ -2514,6 +2518,7 @@
 0.0.0.0 convs.appia.com
 0.0.0.0 cook.applovin.com
 0.0.0.0 cook.miznet.daum.net
+0.0.0.0 cookies.onetrust.mgr.consensu.org
 0.0.0.0 coolskyr8187.taobao.com
 0.0.0.0 coop.btrll.com
 0.0.0.0 coop.crwdcntrl.net
@@ -4851,6 +4856,7 @@
 0.0.0.0 log.spotify.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.umengcloud.com
+0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 log3.optimizely.com
 0.0.0.0 logapi.rayjump.com
 0.0.0.0 logger.cloudmobi.net
@@ -9069,3 +9075,8 @@
 0.0.0.0 zt.1rx.io
 0.0.0.0 zww.ero-advertising.com
 0.0.0.0 zx.game.xiaomi.com
+# --------------------------------------------
+# E N E R G I Z E D  E N D S
+# --------------------------------------------
+#
+# - - - -  S T A Y  E N E R G I Z E D  - - - -
