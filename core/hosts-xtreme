@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 18.12.353
-# Release: 353
-# Entries: 9,026
+# Version: 18.12.355
+# Release: 355
+# Entries: 9,028
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Dec 18 09:54:39
+# Updated: Fri, 21 Dec 18 12:01:32
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -3840,6 +3840,7 @@
 0.0.0.0 grader.localytics.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.qq.com
 0.0.0.0 graph2.facebook.com
 0.0.0.0 graphite.krxd.net
 0.0.0.0 grazia.via.batch.com
@@ -7924,6 +7925,7 @@
 0.0.0.0 tracking.chartboost.com
 0.0.0.0 tracking.clickadu.com
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 tracking.groupon.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com

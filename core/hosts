@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 18.12.353
-# Release: 353
-# Entries: 20,219
+# Version: 18.12.355
+# Release: 355
+# Entries: 20,252
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Dec 18 09:54:39
+# Updated: Fri, 21 Dec 18 12:01:32
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -359,6 +359,7 @@
 0.0.0.0 a.applvn.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.bitmango.com
+0.0.0.0 a.brand.ad
 0.0.0.0 a.c0594.com
 0.0.0.0 a.collective-media.net
 0.0.0.0 a.consumer.net
@@ -635,6 +636,7 @@
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad-dev.360in.com
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 ad-flow.com
@@ -1553,6 +1555,7 @@
 0.0.0.0 adpionier.de
 0.0.0.0 adpixo.com
 0.0.0.0 adplans.info
+0.0.0.0 adplatform.nq.com
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplay.vm5apis.com
 0.0.0.0 adplex.media
@@ -2345,6 +2348,7 @@
 0.0.0.0 adsdaq.com
 0.0.0.0 adsdk.com
 0.0.0.0 adsdk.fractionalmedia.com
+0.0.0.0 adsdk.picooapp.com
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 adsdot.ph
 0.0.0.0 adsdream.com
@@ -3778,6 +3782,7 @@
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.globalnews.uodoo.com
 0.0.0.0 api.grandonmedia.com
+0.0.0.0 api.growingio.com
 0.0.0.0 api.gslb.brightcove.com
 0.0.0.0 api.hasoffers.com
 0.0.0.0 api.hybrid.intl.xiaomi.com
@@ -4367,6 +4372,7 @@
 0.0.0.0 banana.automaxcenter.ro
 0.0.0.0 bandai.hs.llnwd.net
 0.0.0.0 bandaomodel.com
+0.0.0.0 bandarpoker88.com
 0.0.0.0 bandelcot.com
 0.0.0.0 bandlane.com
 0.0.0.0 bangladesh-entertainment-studio-g9412.ariocroft.com
@@ -4626,6 +4632,7 @@
 0.0.0.0 bavners2.ero-advertising.com
 0.0.0.0 bawdybeast.com
 0.0.0.0 bayctrk.com
+0.0.0.0 baymaleti.net
 0.0.0.0 baypops.com
 0.0.0.0 baywttgdhe.download
 0.0.0.0 bb.crwdcntrl.net
@@ -5054,6 +5061,7 @@
 0.0.0.0 bokechengshiqipai.com
 0.0.0.0 boldchat.com
 0.0.0.0 bonfire.spklw.com
+0.0.0.0 bonus365.site
 0.0.0.0 bonusbitcoin.co
 0.0.0.0 bonzai.ad
 0.0.0.0 boo-box.com
@@ -5566,6 +5574,7 @@
 0.0.0.0 cdn.avocarrot.com
 0.0.0.0 cdn.bapi.adsafeprotected.com
 0.0.0.0 cdn.batmobi.net
+0.0.0.0 cdn.baymaleti.net
 0.0.0.0 cdn.beginads.com
 0.0.0.0 cdn.bidgear.com
 0.0.0.0 cdn.bidvertiser.com
@@ -5750,6 +5759,7 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
 0.0.0.0 cedsdigital.it
+0.0.0.0 ceetoaho.com
 0.0.0.0 celestine.actor
 0.0.0.0 cell.zhybzp.cn
 0.0.0.0 celltick.com
@@ -5763,6 +5773,7 @@
 0.0.0.0 ceromobi.club
 0.0.0.0 cert-test-alias.algolia.com
 0.0.0.0 certaken.com
+0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 cetrk.com
 0.0.0.0 ceuswatcab01.blob.core.windows.net
@@ -5890,6 +5901,7 @@
 0.0.0.0 ckpool.org
 0.0.0.0 cl.untildogtop.com
 0.0.0.0 cl96rwprue.com
+0.0.0.0 clad.perfectcorp.com
 0.0.0.0 clarashousechicago.org
 0.0.0.0 claria.com
 0.0.0.0 clariad.adk2.co
@@ -5944,6 +5956,7 @@
 0.0.0.0 click.grandonmedia.com
 0.0.0.0 click.green-red.com
 0.0.0.0 click.howdoesin.net
+0.0.0.0 click.infocenter.support
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.meitustat.com
@@ -6371,6 +6384,7 @@
 0.0.0.0 contextweb.com
 0.0.0.0 control.ads.bbm.com
 0.0.0.0 control.advmob.cn
+0.0.0.0 conv.youdao.com
 0.0.0.0 convammp.taboola.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversation-memory.com
@@ -6752,6 +6766,7 @@
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
+0.0.0.0 d3tplke66d0j4g.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d4.video-ak.cdn.spotify.com
 0.0.0.0 d5.video-ak.cdn.spotify.com
@@ -7944,6 +7959,7 @@
 0.0.0.0 f8.video-ak.cdn.spotify.com
 0.0.0.0 f9.video-ak.cdn.spotify.com
 0.0.0.0 fabriefly.mobi
+0.0.0.0 fabrkrup.com
 0.0.0.0 fabulouspanda.com
 0.0.0.0 facebook.adformdsp.net
 0.0.0.0 facebooker.top
@@ -8037,17 +8053,11 @@
 0.0.0.0 femnp.mgid.com
 0.0.0.0 fenixm.com
 0.0.0.0 fentazi.gq
-0.0.0.0 ff00::0 ip6-localnet
-0.0.0.0 ff00::0 ip6-mcastprefix
-0.0.0.0 ff02::1 ip6-allnodes
-0.0.0.0 ff02::2 ip6-allrouters
-0.0.0.0 ff02::3 ip6-allhosts
 0.0.0.0 ff81k.voluumtrk.com
 0.0.0.0 ffruntimechecker.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 fgoogle.com
-0.0.0.0 fgoogle.com # misspelling
 0.0.0.0 fhatfee.ero-advertising.com
 0.0.0.0 fhr.cdn.mozilla.net
 0.0.0.0 fhr.data.mozilla.com
@@ -8642,6 +8652,7 @@
 0.0.0.0 glossary.algolia.com
 0.0.0.0 glossyads.com
 0.0.0.0 glossysense.com
+0.0.0.0 glothouw.link
 0.0.0.0 glowdot.com
 0.0.0.0 gm.ushareit.com
 0.0.0.0 gmads.net
@@ -8661,6 +8672,7 @@
 0.0.0.0 go.amplitude.com
 0.0.0.0 go.appnexus.com
 0.0.0.0 go.bcvc.mobi
+0.0.0.0 go.bebi.com
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.brightcove.com
 0.0.0.0 go.ero-advertising.com
@@ -8787,6 +8799,7 @@
 0.0.0.0 graftpool.net
 0.0.0.0 graftpool.ovh
 0.0.0.0 gramombird.com
+0.0.0.0 grandogoal.info
 0.0.0.0 grandonmedia.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 graph.accountkit.com
@@ -8991,6 +9004,7 @@
 0.0.0.0 heato.info
 0.0.0.0 hebiichigo.com
 0.0.0.0 hegrinhar.com
+0.0.0.0 hehraybryciyls.com
 0.0.0.0 heias.com
 0.0.0.0 heliosiq.adtech.de
 0.0.0.0 hellominer.com
@@ -9142,6 +9156,7 @@
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hls.ak.o.brightcove.com
 0.0.0.0 hls.cf.brightcove.com
+0.0.0.0 hls.hydrax.net
 0.0.0.0 hls.vidible.tv
 0.0.0.0 hlsrv-a.prod.vidible.tv
 0.0.0.0 hlsrv-b.prod.vidible.tv
@@ -9946,6 +9961,7 @@
 0.0.0.0 interedy.info
 0.0.0.0 interesting.cc
 0.0.0.0 interfere.marionunezcampusano.com
+0.0.0.0 interflow.youdao.com
 0.0.0.0 intergi.com
 0.0.0.0 intermarkets.net
 0.0.0.0 intern.accountkit.com
@@ -10110,7 +10126,6 @@
 0.0.0.0 ja.ad-stir.com
 0.0.0.0 ja.support.appsflyer.com
 0.0.0.0 jackbootedroom.com
-0.0.0.0 jackbootedroom.com ## phishing
 0.0.0.0 jackettrain.com
 0.0.0.0 jact.atdmt.com
 0.0.0.0 jadcenter.com
@@ -10219,6 +10234,7 @@
 0.0.0.0 js.mgid.com
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobileoffers-bn-download.com
+0.0.0.0 js.mobileoffers-cb-download.com
 0.0.0.0 js.mobojoy.baidu.com
 0.0.0.0 js.mtburn.com
 0.0.0.0 js.mtburn.jp
@@ -10312,6 +10328,7 @@
 0.0.0.0 k5market.com
 0.0.0.0 k8s-stage1-use1.int.vidible.tv
 0.0.0.0 k8s.vidible.tv
+0.0.0.0 ka-test0.tinyhoneybee.com
 0.0.0.0 kacangmaspoker.net
 0.0.0.0 kaffnet.com
 0.0.0.0 kalipasindra.online
@@ -12017,6 +12034,7 @@
 0.0.0.0 myappname.s.xoxknct.com
 0.0.0.0 myatherwallet.biz
 0.0.0.0 mybb.ero-advertising.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestmv.com
 0.0.0.0 mybinaryearns.top
 0.0.0.0 mybloglog.com
@@ -13282,6 +13300,7 @@
 0.0.0.0 pizzotti.net
 0.0.0.0 pjatr.com
 0.0.0.0 pjtra.com
+0.0.0.0 pkr88.cc
 0.0.0.0 pl-v2.presage.io
 0.0.0.0 pl.263gmail.org
 0.0.0.0 pl108258.puserving.com
@@ -13633,6 +13652,7 @@
 0.0.0.0 production-api.areametrics.com
 0.0.0.0 production-ultimate-assets.ratecity.com.au
 0.0.0.0 production.cdn.aerserv.com
+0.0.0.0 production.kixle.com
 0.0.0.0 productivepear.com
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -13895,6 +13915,7 @@
 0.0.0.0 quizzasport.com
 0.0.0.0 qulsqiqrev.com
 0.0.0.0 quotc.smartclick.net
+0.0.0.0 qvilmdus.com
 0.0.0.0 qwapi.apple.com
 0.0.0.0 qwb.adblade.com
 0.0.0.0 qwertize.com
@@ -14362,6 +14383,7 @@
 0.0.0.0 rok.com.com
 0.0.0.0 roku.vidible.tv
 0.0.0.0 rolinda.work
+0.0.0.0 roll.romaniantales.gq
 0.0.0.0 rollbar.com
 0.0.0.0 romance-net.com
 0.0.0.0 romansonn.ir
@@ -15027,6 +15049,7 @@
 0.0.0.0 siamining.com
 0.0.0.0 siamzone.com
 0.0.0.0 siblesectiveal.club
+0.0.0.0 sibsoft.net
 0.0.0.0 sic-itur--ad-astra.tumblr.com
 0.0.0.0 siccash.com
 0.0.0.0 sicken.cede.cl
@@ -15122,6 +15145,7 @@
 0.0.0.0 skip-ads.net
 0.0.0.0 skl-874.com
 0.0.0.0 skoovyads.com
+0.0.0.0 sky777.cc
 0.0.0.0 skydigital.neodatagroup.com
 0.0.0.0 skygo.neodatagroup.com
 0.0.0.0 skylink.vn
@@ -15270,6 +15294,7 @@
 0.0.0.0 soyminero.es
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp.fastclick.net
+0.0.0.0 sp.popcash.net
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 spacash.com
 0.0.0.0 spaceoptimizer.u.xoxknct.com
@@ -15415,6 +15440,7 @@
 0.0.0.0 ssl.re.getclicky.com
 0.0.0.0 ssl.supersonicads.com
 0.0.0.0 ssl.widgets.webengage.com
+0.0.0.0 ssl2anyone3.com
 0.0.0.0 sslad.adcash.com
 0.0.0.0 sslcheckerapi.com
 0.0.0.0 sso.anbtr.com
@@ -15442,6 +15468,7 @@
 0.0.0.0 st-n.ads8-adnow.com
 0.0.0.0 st-n.ads9-adnow.com
 0.0.0.0 st.at2010.net
+0.0.0.0 st.bebi.com
 0.0.0.0 st.drivenetwork.ru
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
@@ -15854,6 +15881,7 @@
 0.0.0.0 superclix.de
 0.0.0.0 superficialsink.com
 0.0.0.0 superinterstitial.com
+0.0.0.0 superitu.com
 0.0.0.0 superlogout.github.io
 0.0.0.0 superpools.online
 0.0.0.0 supersonicads-a.akamaihd.net
@@ -16053,7 +16081,6 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.news.com.au
-0.0.0.0 tags.news.com.au  # thanks, @ValbonneConsulting
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagsrv.adk2.co
@@ -16344,6 +16371,7 @@
 0.0.0.0 tingyunea.meitustat.com
 0.0.0.0 tinhot.uodoo.com
 0.0.0.0 tinybar.com
+0.0.0.0 tinyhoneybee.com
 0.0.0.0 tionsnewsupdate.info
 0.0.0.0 tip.atdmt.com
 0.0.0.0 tip.umeng.com
@@ -16385,6 +16413,7 @@
 0.0.0.0 tms.triboomedia.it
 0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 tn.alphonso.tv
+0.0.0.0 tn2fvd9a.icu
 0.0.0.0 tnctrx.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tnkfactory.com
@@ -17220,6 +17249,7 @@
 0.0.0.0 trc.sanook.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trc.taboolasyndication.com
+0.0.0.0 trck.bebi.com
 0.0.0.0 trckaction.com
 0.0.0.0 trcklink.fun
 0.0.0.0 trcko.com
@@ -17375,7 +17405,6 @@
 0.0.0.0 tstreesandtreasures.com
 0.0.0.0 tt.smaxdn.com
 0.0.0.0 ttwitter.com
-0.0.0.0 ttwitter.com    # common misspelling and, besides, scumbags there.
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tuanp123.com
 0.0.0.0 tubberlo.com
@@ -17454,7 +17483,6 @@
 0.0.0.0 twistr.live
 0.0.0.0 twittad.com
 0.0.0.0 twitter.cm
-0.0.0.0 twitter.cm    # common misspelling
 0.0.0.0 twitterhandles.com
 0.0.0.0 twitterlocksmith.com
 0.0.0.0 two-jj.github.io
@@ -19093,6 +19121,7 @@
 0.0.0.0 www.gsn.chameleon.ad
 0.0.0.0 www.guardwebext.xyz
 0.0.0.0 www.gulugulutest.com
+0.0.0.0 www.gunungemas.cc
 0.0.0.0 www.guoyhfjrpt.com
 0.0.0.0 www.gus.host
 0.0.0.0 www.gvp3l.voluumtrk.com
@@ -19113,6 +19142,7 @@
 0.0.0.0 www.headlinecamp.com
 0.0.0.0 www.healthcareassociates.us
 0.0.0.0 www.healthcaremanagement.info
+0.0.0.0 www.hehraybryciyls.com
 0.0.0.0 www.helpercheckerextt.biz
 0.0.0.0 www.helptofix.co
 0.0.0.0 www.hh-btr.com
@@ -19193,6 +19223,7 @@
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
+0.0.0.0 www.jxseoruuv.com
 0.0.0.0 www.k5market.com
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.karisimbi.net
@@ -19468,6 +19499,7 @@
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.quickcash-system.com
 0.0.0.0 www.quizzasport.com
+0.0.0.0 www.qvilmdus.com
 0.0.0.0 www.qwertize.com
 0.0.0.0 www.r.adstrack45.com
 0.0.0.0 www.r.skimresources.com
