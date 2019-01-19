@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.01.001
-# Release: 001
-# Entries: 20,347
+# Version: 19.01.020
+# Release: 020
+# Entries: 20,404
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 01 Jan 19 14:38:15
+# Updated: Sun, 20 Jan 19 00:38:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -864,6 +864,7 @@
 0.0.0.0 ad.personalclips.com
 0.0.0.0 ad.pl.doubleclick.net
 0.0.0.0 ad.playground.ru
+0.0.0.0 ad.pornimg.xyz
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ad.profiwin.de
@@ -1690,6 +1691,7 @@
 0.0.0.0 ads.adultswim.com
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
+0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.affiliateclub.com
 0.0.0.0 ads.affiliates-spinit.com
@@ -2911,6 +2913,7 @@
 0.0.0.0 adultadworld.com
 0.0.0.0 adultimate.net
 0.0.0.0 adultmoda.com
+0.0.0.0 adultsvideo.info
 0.0.0.0 adups.com
 0.0.0.0 adurr.com
 0.0.0.0 aduwant.com
@@ -3280,6 +3283,7 @@
 0.0.0.0 aj-gb.adskeeper.co.uk
 0.0.0.0 aj-gb.mgid.com
 0.0.0.0 ajansreklam.net
+0.0.0.0 ajdivotdelbloab24.jio.co
 0.0.0.0 ajillionmax.com
 0.0.0.0 ajjhtetv87.com
 0.0.0.0 ajouter.net
@@ -3812,6 +3816,7 @@
 0.0.0.0 api.leadiacloud.com
 0.0.0.0 api.livefyre.com
 0.0.0.0 api.m.taobao.com
+0.0.0.0 api.m4adata.com
 0.0.0.0 api.mediavoice.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
@@ -3913,6 +3918,7 @@
 0.0.0.0 apk.v-mate.mobi
 0.0.0.0 apm.wetest.qq.com
 0.0.0.0 apmebf.com
+0.0.0.0 app-01.engage.jio.com
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-benchmarks.adjust.com
@@ -5062,6 +5068,7 @@
 0.0.0.0 bodelen.com
 0.0.0.0 boersego-ads.de
 0.0.0.0 bohemianpool.com
+0.0.0.0 bohemuchnehe.club
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 bokabiorio.com
@@ -5981,6 +5988,7 @@
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.meitustat.com
+0.0.0.0 click.moreinfo.support
 0.0.0.0 click.onedigitalad.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
@@ -6817,6 +6825,7 @@
 0.0.0.0 danban.com
 0.0.0.0 dante2007.com
 0.0.0.0 dapper.net
+0.0.0.0 darabino.xyz
 0.0.0.0 darking01.tk
 0.0.0.0 darking02.tk
 0.0.0.0 darking03.tk
@@ -6965,6 +6974,7 @@
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
 0.0.0.0 decoycreation.com
+0.0.0.0 dedicatedcloud.info
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 dedicatednetworks.com
 0.0.0.0 deehudson.net
@@ -7915,6 +7925,7 @@
 0.0.0.0 exoticwoodsltd.com
 0.0.0.0 exp.glispa.com
 0.0.0.0 expanse.tech
+0.0.0.0 expectorslapsino.info
 0.0.0.0 experienceeggs.com
 0.0.0.0 experiences.assets.brightcove.com
 0.0.0.0 experteerads.com
@@ -8277,6 +8288,7 @@
 0.0.0.0 fra1-mobile.adnxs.com
 0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 frailoffer.com
+0.0.0.0 francoistsjacqu.info
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 frederickcountygives.ngo
 0.0.0.0 free-cloud-storage.com
@@ -8311,6 +8323,7 @@
 0.0.0.0 freecontent.win
 0.0.0.0 freegamezone.taptica.com
 0.0.0.0 freegeoip.net
+0.0.0.0 freehookups.mobi
 0.0.0.0 freelogs.com
 0.0.0.0 freemyapps.com
 0.0.0.0 freeonlineusers.com
@@ -8341,6 +8354,7 @@
 0.0.0.0 frtyi.com
 0.0.0.0 fruitadblock.net
 0.0.0.0 fruitkings.com
+0.0.0.0 fs45.gounlimited.to
 0.0.0.0 ftjcfx.com
 0.0.0.0 ftp.kissmetrics.com
 0.0.0.0 ftp.silkspan.com
@@ -8377,6 +8391,8 @@
 0.0.0.0 fuxoasim.link
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
+0.0.0.0 fvenxjtzuaxu.com
+0.0.0.0 fvtwyjev.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
 0.0.0.0 fwmrm.net
@@ -8614,6 +8630,7 @@
 0.0.0.0 gfe.nvidia.com
 0.0.0.0 ggg.koapkmobi.com
 0.0.0.0 ggimg.tapas.net
+0.0.0.0 ggltrck.com
 0.0.0.0 ghash.io
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 giantaffiliates.com
@@ -8735,6 +8752,7 @@
 0.0.0.0 go.ucweb.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.vrvm.com
+0.0.0.0 go.ylwe.xyz
 0.0.0.0 go.youlamedia.com
 0.0.0.0 go.zog.link
 0.0.0.0 go1.aniview.com
@@ -8771,6 +8789,7 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 google.east-s2s.1rx.io
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -8802,6 +8821,7 @@
 0.0.0.0 goto.algolia.com
 0.0.0.0 gotoip55.com
 0.0.0.0 gototrk.com
+0.0.0.0 gounlimited.to
 0.0.0.0 gourmetads.com
 0.0.0.0 gouwu.uc123.com
 0.0.0.0 goverallyhandl.club
@@ -9096,6 +9116,7 @@
 0.0.0.0 hijacksystem.com
 0.0.0.0 hikasb.com
 0.0.0.0 hilariouszinc.com
+0.0.0.0 hilltopads.com
 0.0.0.0 hilltopads.net
 0.0.0.0 himediads.com
 0.0.0.0 hipersushiads.com
@@ -9705,6 +9726,7 @@
 0.0.0.0 images.ads.fairfax.com.au
 0.0.0.0 images.babyboomboomads.com
 0.0.0.0 images.fastclick.net
+0.0.0.0 images.gounlimited.to
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.mopub.com
 0.0.0.0 images.now.brightcove.com
@@ -10396,6 +10418,7 @@
 0.0.0.0 kelkoo.com
 0.0.0.0 kelkoogroup.net
 0.0.0.0 kenduktur.com
+0.0.0.0 keqi7dh3df.com
 0.0.0.0 ketads.com
 0.0.0.0 ketchapp.org
 0.0.0.0 keydot.net
@@ -11264,6 +11287,7 @@
 0.0.0.0 mainadv.com
 0.0.0.0 mainroll.com
 0.0.0.0 maintenance.flurry.com
+0.0.0.0 majoritishbettes.info
 0.0.0.0 majorminers.com
 0.0.0.0 makemyvids.com
 0.0.0.0 makerstat.info
@@ -11358,6 +11382,7 @@
 0.0.0.0 mbbs.uc.cn
 0.0.0.0 mbcjufwxg9.com
 0.0.0.0 mbe-cdn.fyber.com
+0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mbkpool.info
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbn.com.ua
@@ -12723,6 +12748,7 @@
 0.0.0.0 onshow.admob.com
 0.0.0.0 onthe.io
 0.0.0.0 ontv.las.uae.uc.cn
+0.0.0.0 onunughegmar.club
 0.0.0.0 onvid.club
 0.0.0.0 onward.adworx.at
 0.0.0.0 onwardinated.com
@@ -13023,6 +13049,7 @@
 0.0.0.0 p312717.clksite.com
 0.0.0.0 p312973.clksite.com
 0.0.0.0 p32174.clksite.com
+0.0.0.0 p324800.clksite.com
 0.0.0.0 p33844.clksite.com
 0.0.0.0 p34-keyvalueservice-current.edge.icloud.apple-dns.nett.skimresources.com
 0.0.0.0 p34466.clksite.com
@@ -13103,6 +13130,7 @@
 0.0.0.0 papoto.com
 0.0.0.0 parade.adblade.com
 0.0.0.0 paradocs.ru
+0.0.0.0 paratingexcret.info
 0.0.0.0 parchedangle.com
 0.0.0.0 parsely.com
 0.0.0.0 parsimoniouspolice.com
@@ -13209,6 +13237,7 @@
 0.0.0.0 peer39.com
 0.0.0.0 peer39.net
 0.0.0.0 pele.alphonso.tv
+0.0.0.0 pemlo.freehookups.mobi
 0.0.0.0 pennyweb.com
 0.0.0.0 pentos-cdn.polarmobile.com
 0.0.0.0 pentos-cdn.staging.polarmobile.com
@@ -13280,6 +13309,7 @@
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
 0.0.0.0 pi-ads.appia.com
+0.0.0.0 pialaqq365.net
 0.0.0.0 picadmedia.com
 0.0.0.0 picbucks.com
 0.0.0.0 pickaxe.online
@@ -14281,6 +14311,7 @@
 0.0.0.0 reople.co.kr
 0.0.0.0 reotherebyfery.club
 0.0.0.0 repair.cutedev.net
+0.0.0.0 repaningharbut.club
 0.0.0.0 replase.cf
 0.0.0.0 replase.ga
 0.0.0.0 replase.ml
@@ -14877,6 +14908,7 @@
 0.0.0.0 security-check-551.com
 0.0.0.0 security.baidu.co.th
 0.0.0.0 security.taptica.com
+0.0.0.0 sedatorsinted.info
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
 0.0.0.0 seduccionparaguaya.com
@@ -15128,6 +15160,7 @@
 0.0.0.0 silkspan.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silva.alphonso.tv
+0.0.0.0 silvalliant.info
 0.0.0.0 silvermob.com
 0.0.0.0 simage1.pubmatic.com
 0.0.0.0 simage2.pubmatic.com
@@ -15255,6 +15288,7 @@
 0.0.0.0 smartlink.adacts.com
 0.0.0.0 smartmine.club
 0.0.0.0 smartoffer.site
+0.0.0.0 smartshare.tv
 0.0.0.0 smarttds.ru
 0.0.0.0 smartyads.com
 0.0.0.0 smashseek.com
@@ -15417,6 +15451,7 @@
 0.0.0.0 spillvacation.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
+0.0.0.0 spirationsstrated.club
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spklw.com
 0.0.0.0 splash.appsgeyser.com
@@ -16030,6 +16065,7 @@
 0.0.0.0 swrve.com
 0.0.0.0 swt3r.voluumtrk.com
 0.0.0.0 sx.trhnt.com
+0.0.0.0 sxedqvvaxxj.com
 0.0.0.0 sy27sc.cn
 0.0.0.0 synad1.nuffnang.co.th
 0.0.0.0 synad2.nuffnang.co.th
@@ -16287,6 +16323,7 @@
 0.0.0.0 tencentgames.helpshift.com
 0.0.0.0 tenjin.com
 0.0.0.0 tennerlist.com
+0.0.0.0 tensitionschoo.club
 0.0.0.0 teosredic.com
 0.0.0.0 teracreative.com
 0.0.0.0 teracycle.net
@@ -16406,6 +16443,7 @@
 0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 thruport.com
 0.0.0.0 thstats.com
+0.0.0.0 thterras.com
 0.0.0.0 thumb.ero-advertising.com
 0.0.0.0 thumbads.ero-advertising.com
 0.0.0.0 thumbnails.opera.com
@@ -16729,6 +16767,7 @@
 0.0.0.0 track.hdpornpass.com
 0.0.0.0 track.healthtrader.com
 0.0.0.0 track.healthytrking.com
+0.0.0.0 track.heyzap.com
 0.0.0.0 track.hockeycurve.com
 0.0.0.0 track.holly-harlow.com
 0.0.0.0 track.homestead.com
@@ -17510,6 +17549,7 @@
 0.0.0.0 turin4d.com
 0.0.0.0 turktor.com
 0.0.0.0 turn.com
+0.0.0.0 turngrind.com
 0.0.0.0 turningpt.org
 0.0.0.0 turnsocial.com
 0.0.0.0 tushy.info
@@ -17643,6 +17683,7 @@
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucrypto.net
 0.0.0.0 ucus.ucweb.com
+0.0.0.0 ucvrtwfh.com
 0.0.0.0 ucweb.com
 0.0.0.0 ud.zkmobi.com
 0.0.0.0 udc.msn.com
@@ -17694,6 +17735,7 @@
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umcdn.uc.cn
 0.0.0.0 umcdnpc.ucweb.com
+0.0.0.0 umebiggestern.club
 0.0.0.0 umeng.co
 0.0.0.0 umeng.com
 0.0.0.0 umpackpc.ucweb.com
@@ -17814,6 +17856,7 @@
 0.0.0.0 us1.ero-advertising.com
 0.0.0.0 usa-usage.ime.cootek.com
 0.0.0.0 usa.ime.cootek.com
+0.0.0.0 usa.xanthos-alf.com
 0.0.0.0 usapromotravel.com
 0.0.0.0 usarmy.vo.llnwd.net
 0.0.0.0 usc.adserver.snapads.com
@@ -17945,6 +17988,7 @@
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vcdn.clickaine.com
 0.0.0.0 vcdn.fastclick.net
+0.0.0.0 vcfnspbgztl.com
 0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vcmedia.com
 0.0.0.0 vcollect-tv.uc.cn
@@ -19063,6 +19107,7 @@
 0.0.0.0 www.differentdesk.com
 0.0.0.0 www.digitalbees.it
 0.0.0.0 www.digitaldsp.com
+0.0.0.0 www.diometa.com
 0.0.0.0 www.diptanuinfo.co.cc
 0.0.0.0 www.dlyads.adk2x.com
 0.0.0.0 www.dmp.adblade.com
@@ -19143,6 +19188,7 @@
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.funnwebs.com
 0.0.0.0 www.funnybox.mobi
+0.0.0.0 www.fvtwyjev.com
 0.0.0.0 www.fzrqfakeaqikwm.com
 0.0.0.0 www.g.msn.com
 0.0.0.0 www.g00.xda-developers.com
@@ -19150,6 +19196,7 @@
 0.0.0.0 www.g7jtj.voluumtrk.com
 0.0.0.0 www.ga87z2o.com
 0.0.0.0 www.gabemastery.cf
+0.0.0.0 www.gai-saighooho.info
 0.0.0.0 www.gamblerush.com
 0.0.0.0 www.gameasy.com
 0.0.0.0 www.gamefly.speedera.net
@@ -19322,6 +19369,7 @@
 0.0.0.0 www.kmspico.info
 0.0.0.0 www.koapkmobi.com
 0.0.0.0 www.korea.inmobi.com
+0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuaptrk.com
 0.0.0.0 www.kwygntce.com
@@ -19794,6 +19842,7 @@
 0.0.0.0 www.terrapops.com
 0.0.0.0 www.th.browser.baidu.com
 0.0.0.0 www.th.hao123.com
+0.0.0.0 www.theadgateway.com
 0.0.0.0 www.thebestplayer.mobi
 0.0.0.0 www.thefilter.com
 0.0.0.0 www.themediafire.com
@@ -19851,6 +19900,7 @@
 0.0.0.0 www.uc.ucdns.uc.cn
 0.0.0.0 www.uc123.com
 0.0.0.0 www.ucfly.com
+0.0.0.0 www.ucvrtwfh.com
 0.0.0.0 www.ucweb.com
 0.0.0.0 www.uhhoatxt.com
 0.0.0.0 www.ukrb-uk.com
@@ -19869,6 +19919,7 @@
 0.0.0.0 www.uvrk0.voluumtrk.com
 0.0.0.0 www.v-mate.mobi
 0.0.0.0 www.v9.com
+0.0.0.0 www.vcfnspbgztl.com
 0.0.0.0 www.vdtrack.com
 0.0.0.0 www.velocecdn.com
 0.0.0.0 www.vente-privee.com
@@ -19938,6 +19989,7 @@
 0.0.0.0 www.xdadevelopers.browsi.mobi
 0.0.0.0 www.xgmlmmulciz.com
 0.0.0.0 www.xmtrk.com
+0.0.0.0 www.xxhgzzinkrbbo.com
 0.0.0.0 www.yac.mx
 0.0.0.0 www.yahoo-news.co
 0.0.0.0 www.yardzing.com
@@ -19950,6 +20002,7 @@
 0.0.0.0 www.yserch.com
 0.0.0.0 www.ywpkgqasoe.bid
 0.0.0.0 www.yyupkqqokrus.com
+0.0.0.0 www.yzveuheeothp.com
 0.0.0.0 www.z.moatads.com
 0.0.0.0 www.z9n5o.voluumtrk.com
 0.0.0.0 www.zanox.com
@@ -19970,6 +20023,7 @@
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.algolia.com
 0.0.0.0 www1.gto-media.com
+0.0.0.0 www1284.vcdn.xyz
 0.0.0.0 www193.wixdns.net
 0.0.0.0 www2.adcash.com
 0.0.0.0 www2.doubleclick.com
@@ -20052,10 +20106,12 @@
 0.0.0.0 xk9n.amgload.net
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xmas-xmas-wow.com
+0.0.0.0 xmasit.me
 0.0.0.0 xmaswrite.com
 0.0.0.0 xmcq.cdn.shareitgames.com
 0.0.0.0 xmg.cool
 0.0.0.0 xminingpool.com
+0.0.0.0 xml.adop.co
 0.0.0.0 xml.adright.com
 0.0.0.0 xml.adservme.com
 0.0.0.0 xml.clickredirection.com
@@ -20277,6 +20333,7 @@
 0.0.0.0 yz56lywd.com
 0.0.0.0 yzuezvrahok.com
 0.0.0.0 yzus09by.com
+0.0.0.0 yzveuheeothp.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z.cash
 0.0.0.0 z.cdn.adbetnet.com
