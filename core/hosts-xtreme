@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.02.032
-# Release: 032
-# Entries: 9,036
+# Version: 19.02.046
+# Release: 046
+# Entries: 9,039
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 01 Feb 19 14:14:46
+# Updated: Fri, 15 Feb 19 02:04:43
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -972,6 +972,7 @@
 0.0.0.0 algolia.com
 0.0.0.0 algosecrets.algolia.com
 0.0.0.0 aliapp.org
+0.0.0.0 alipromo.com
 0.0.0.0 alisec.taobao.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 allabout-d.openx.net
@@ -2297,6 +2298,7 @@
 0.0.0.0 ciram.iad-03.braze.com
 0.0.0.0 circle.uc.cn
 0.0.0.0 cisco.demdex.net
+0.0.0.0 citrix.com
 0.0.0.0 cl-gmtdmp.mookie1.com
 0.0.0.0 cl.revsci.net
 0.0.0.0 clair.iad-03.braze.com
@@ -6736,6 +6738,7 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.appbrain.com
+0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.click.taobao.com
 0.0.0.0 s.duapps.com
 0.0.0.0 s.durasite.net
