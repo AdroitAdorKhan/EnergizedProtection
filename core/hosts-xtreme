@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.02.046
-# Release: 046
-# Entries: 9,039
+# Version: 19.02.051
+# Release: 051
+# Entries: 9,021
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Feb 19 02:04:43
+# Updated: Wed, 20 Feb 19 23:21:53
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -313,6 +313,7 @@
 0.0.0.0 activity.wshareit.com
 0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad-apac.doubleclick.net
+0.0.0.0 ad-choices.spot.im
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad-e1.media6degrees.com
 0.0.0.0 ad-e2.media6degrees.com
@@ -972,7 +973,6 @@
 0.0.0.0 algolia.com
 0.0.0.0 algosecrets.algolia.com
 0.0.0.0 aliapp.org
-0.0.0.0 alipromo.com
 0.0.0.0 alisec.taobao.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 allabout-d.openx.net
@@ -1051,6 +1051,7 @@
 0.0.0.0 analysis.lax.mathtag.com
 0.0.0.0 analytic-google.com
 0.0.0.0 analytics-api-samples.googlecode.com
+0.0.0.0 analytics-read.spot.im
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.ad4screen.com
 0.0.0.0 analytics.adskeeper.co.uk
@@ -1071,6 +1072,7 @@
 0.0.0.0 analytics.morethanrewards.com.re.getclicky.com
 0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 analytics.spot.im
 0.0.0.0 analytics.spotify.com
 0.0.0.0 analytics.tapad.com
 0.0.0.0 analytics.tidaltv.com
@@ -1083,10 +1085,6 @@
 0.0.0.0 ancestry.adlegend.com
 0.0.0.0 android-native-ads.mopub.com
 0.0.0.0 android.bugly.qq.com
-0.0.0.0 android.googleapis.com
-0.0.0.0 androidpartner.googleapis.com
-0.0.0.0 androidpay-users-pa.googleapis.com
-0.0.0.0 androidwearcloudsync-pa.googleapis.com
 0.0.0.0 andromeda.iad.appboy.com
 0.0.0.0 anex.appnexus.com
 0.0.0.0 anners.ero-advertising.com
@@ -1285,6 +1283,7 @@
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.spot.im
 0.0.0.0 api.spotxchange.com
 0.0.0.0 api.stathat.com
 0.0.0.0 api.stickers.duapps.com
@@ -2286,9 +2285,6 @@
 0.0.0.0 choueiri.deliveryengine.adswizz.com
 0.0.0.0 christies.demdex.net
 0.0.0.0 christscientist.demdex.net
-0.0.0.0 chromedriver.storage.googleapis.com
-0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
-0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 ci-ph.rdtcdn.com
 0.0.0.0 ci.rdtcdn.com
 0.0.0.0 ciab.wishabi.com
@@ -2298,7 +2294,6 @@
 0.0.0.0 ciram.iad-03.braze.com
 0.0.0.0 circle.uc.cn
 0.0.0.0 cisco.demdex.net
-0.0.0.0 citrix.com
 0.0.0.0 cl-gmtdmp.mookie1.com
 0.0.0.0 cl.revsci.net
 0.0.0.0 clair.iad-03.braze.com
@@ -2317,6 +2312,7 @@
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 click.hotlog.ru
+0.0.0.0 click.linksynergy.com
 0.0.0.0 click.updates.braze.com
 0.0.0.0 click4.truecaller.com
 0.0.0.0 clickadu.com
@@ -2334,11 +2330,9 @@
 0.0.0.0 clicktrack.pubmatic.com
 0.0.0.0 clicky.toggl.com.re.getclicky.com
 0.0.0.0 client.lg.ftp.actisens.com
-0.0.0.0 clientauthconfig.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clientmetrics.outbrain.com
 0.0.0.0 clientrz2.itop.qq.com
-0.0.0.0 clientservices.googleapis.com
 0.0.0.0 clinchitoiba.iad-03.braze.com
 0.0.0.0 clk.atdmt.com
 0.0.0.0 clks.appia.com
@@ -2350,7 +2344,6 @@
 0.0.0.0 cloud.gsdk.proximabeta.com
 0.0.0.0 cloud.ucweb.com
 0.0.0.0 cloud.video.taobao.com
-0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 cloudfront.net
 0.0.0.0 cloudmobi.net
 0.0.0.0 cm.adform.net
@@ -2449,7 +2442,6 @@
 0.0.0.0 comeresa.uds.ak.o.brightcove.com
 0.0.0.0 commerceforward.demdex.net
 0.0.0.0 common.duapps.com
-0.0.0.0 commondatastorage.googleapis.com
 0.0.0.0 community.acquisio.com
 0.0.0.0 community.algolia.com
 0.0.0.0 community.appboy.com
@@ -2501,13 +2493,10 @@
 0.0.0.0 contact.mixpanel.com
 0.0.0.0 contactapi.micloud.xiaomi.net
 0.0.0.0 content-partnersbadge-pa.googleapis.com
-0.0.0.0 content-people-pa.googleapis.com
-0.0.0.0 content-people.googleapis.com
 0.0.0.0 content.4info.com
 0.0.0.0 content.appboy.com
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 content.braze.com
-0.0.0.0 content.googleapis.com
 0.0.0.0 content.postrelease.com
 0.0.0.0 content.quantserve.com
 0.0.0.0 content.rubiconproject.com
@@ -2730,7 +2719,6 @@
 0.0.0.0 dataexchange.inmobi.com
 0.0.0.0 dataingest.comscore.com
 0.0.0.0 datamixer-pa.googleapis.com
-0.0.0.0 datasaver.googleapis.com
 0.0.0.0 dataservices.bluekai.com
 0.0.0.0 datatracker.crittercism.com
 0.0.0.0 date.ero-advertising.com
@@ -2889,7 +2877,6 @@
 0.0.0.0 digi.tapad.com
 0.0.0.0 digicert.demdex.net
 0.0.0.0 digin.adreach.co
-0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 digitaldsp.com
 0.0.0.0 digitalimagination.com.re.getclicky.com
 0.0.0.0 digitaltarget.ru
@@ -3024,7 +3011,6 @@
 0.0.0.0 dogfood.blueconic.com
 0.0.0.0 doghole.ucweb.com
 0.0.0.0 dollar.adlegend.com
-0.0.0.0 domain-registrar.storage.googleapis.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 domdex.com
 0.0.0.0 donate-api.recorder.duapps.com
@@ -3100,7 +3086,6 @@
 0.0.0.0 dxstage-customer-login.devcloud.applause.com
 0.0.0.0 dxurl.cn
 0.0.0.0 dyknreymc91ut.cloudfront.net
-0.0.0.0 dyn-message.mathtag.com
 0.0.0.0 dyn-objects.mathtag.com
 0.0.0.0 dyn-pixel.mathtag.com
 0.0.0.0 dyn.atdmt.com
@@ -3448,7 +3433,6 @@
 0.0.0.0 fi-gmtdmp.mookie1.com
 0.0.0.0 fi.advertising.com
 0.0.0.0 file.market.xiaomi.com
-0.0.0.0 file.update.miui.com
 0.0.0.0 file.xmpush.xiaomi.com
 0.0.0.0 files.a-ads.com
 0.0.0.0 files.adform.net
@@ -3498,7 +3482,6 @@
 0.0.0.0 fms2.doubleclick.speedera.net
 0.0.0.0 fms2.pointroll.speedera.net
 0.0.0.0 follow.maribacaberita.com
-0.0.0.0 fons.googleapis.com
 0.0.0.0 fonts.blueconic.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
@@ -6128,6 +6111,7 @@
 0.0.0.0 pix-nrt.mathtag.com
 0.0.0.0 pix.btrll.com
 0.0.0.0 pix.revsci.net
+0.0.0.0 pix.spot.im
 0.0.0.0 pix01.revsci.net
 0.0.0.0 pix04-pd04.revsci.net
 0.0.0.0 pix04.revsci.net
@@ -6165,6 +6149,7 @@
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.sitescout.com
+0.0.0.0 pixel.spot.im
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.westpac.quantserve.com
 0.0.0.0 pixel.wp.com
@@ -6738,7 +6723,6 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.appbrain.com
-0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.click.taobao.com
 0.0.0.0 s.duapps.com
 0.0.0.0 s.durasite.net
@@ -7874,6 +7858,7 @@
 0.0.0.0 tracker.durasite.net
 0.0.0.0 tracker.ero-advertising.com
 0.0.0.0 tracker.rqmob.com
+0.0.0.0 tracker.spot.im
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-01.iad.liverail.com
 0.0.0.0 tracking-02.dal.liverail.com
@@ -8121,9 +8106,6 @@
 0.0.0.0 up1.ucweb.com
 0.0.0.0 up4.ucweb.com
 0.0.0.0 update.avlyun.sec.miui.com
-0.0.0.0 update.googleapis.com
-0.0.0.0 update.intl.miui.com
-0.0.0.0 update.miui.com
 0.0.0.0 update.moatads.com
 0.0.0.0 updatealj.durasite.net
 0.0.0.0 updater.crowdtangle.com

@@ -24,12 +24,12 @@
 # Package: Energized Porn Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.02.046
-# Release: 046
-# Entries: 1,552
+# Version: 19.02.051
+# Release: 051
+# Entries: 1,587
 # Pack Code: EP0R9C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Feb 19 02:04:43
+# Updated: Wed, 20 Feb 19 23:21:53
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
 # --------------------------------------------
 #
@@ -238,6 +238,7 @@
 0.0.0.0 cdn-fr643.vporn.com
 0.0.0.0 cdn-fr644.vporn.com
 0.0.0.0 cdn-ht.pornhd.com
+0.0.0.0 cdn-l.pornstarblognetwork.com
 0.0.0.0 cdn-pics.pornhd.com
 0.0.0.0 cdn-scenes.porn.com
 0.0.0.0 cdn-static.pornhd.com
@@ -253,6 +254,7 @@
 0.0.0.0 cdn.adtrue24.com
 0.0.0.0 cdn.bobs-tube.com
 0.0.0.0 cdn.collectionofbestporn.com
+0.0.0.0 cdn.eroticbeauties.net
 0.0.0.0 cdn.movies.porn.com
 0.0.0.0 cdn.multi.xnxx.com
 0.0.0.0 cdn.pornqd.com
@@ -275,6 +277,7 @@
 0.0.0.0 cdn1.public.mofosex.phncdn.com
 0.0.0.0 cdn1.public.spankwire.phncdn.com
 0.0.0.0 cdn1.public.tube8.com
+0.0.0.0 cdn1.pussyspot.net
 0.0.0.0 cdn1.static.extremetube.phncdn.com
 0.0.0.0 cdn1.static.keezmovies.phncdn.com
 0.0.0.0 cdn1.static.mofosex.phncdn.com
@@ -304,9 +307,11 @@
 0.0.0.0 cdn2.image.spankwire.phncdn.com
 0.0.0.0 cdn2.image.tube8.phncdn.com
 0.0.0.0 cdn2.image.youporn.phncdn.com
+0.0.0.0 cdn2.nsfw.exchange
 0.0.0.0 cdn2.porndoe.com
 0.0.0.0 cdn2.porntrex.com
 0.0.0.0 cdn2.public.tube8.com
+0.0.0.0 cdn2.pussyspot.net
 0.0.0.0 cdn2a.cliphunter.com
 0.0.0.0 cdn2a.videos.youjizz.com
 0.0.0.0 cdn2b.cliphunter.com
@@ -602,6 +607,7 @@
 0.0.0.0 flashservice.xvideos.com
 0.0.0.0 flirt.youjizz.com
 0.0.0.0 flirt4free.com
+0.0.0.0 foliovision.com
 0.0.0.0 forcedsex.org
 0.0.0.0 forum.xnxx.com
 0.0.0.0 forums.xnxx.com
@@ -631,6 +637,7 @@
 0.0.0.0 fr.yourporn.sexy
 0.0.0.0 freya.porntrex.com
 0.0.0.0 frida.porntrex.com
+0.0.0.0 ftop.ru
 0.0.0.0 ftp.eporner.com
 0.0.0.0 ftp.phncdn.com
 0.0.0.0 ftp.txxx.com
@@ -793,10 +800,12 @@
 0.0.0.0 keezmovies.com
 0.0.0.0 khaan.porntrex.com
 0.0.0.0 kibana.xhamster.com
+0.0.0.0 kindgirls.com
 0.0.0.0 ko.xhamster.com
 0.0.0.0 lara.porntrex.com
 0.0.0.0 layla.porntrex.com
 0.0.0.0 leanna.porntrex.com
+0.0.0.0 lemmecheck.link
 0.0.0.0 lily.porntrex.com
 0.0.0.0 lina.porntrex.com
 0.0.0.0 links.porn.com
@@ -856,6 +865,7 @@
 0.0.0.0 maturealbum.me
 0.0.0.0 mc.youjizz.com
 0.0.0.0 media.collectionofbestporn.com
+0.0.0.0 media.lemmecheckvideo.com
 0.0.0.0 media.plusone8.com
 0.0.0.0 media.porn.com
 0.0.0.0 media17.youjizz.com
@@ -999,6 +1009,7 @@
 0.0.0.0 pornmummy.com
 0.0.0.0 pornofkings.com
 0.0.0.0 pornos.cl
+0.0.0.0 pornoslab.com
 0.0.0.0 pornoxo.com
 0.0.0.0 pornrabbit.com
 0.0.0.0 pornrape.tv
@@ -1018,6 +1029,7 @@
 0.0.0.0 preview.tnaflix.com
 0.0.0.0 promo-m.cams.beeg.com
 0.0.0.0 promo.cams.beeg.com
+0.0.0.0 promo.stunners.com
 0.0.0.0 proxy.xhamster.com
 0.0.0.0 pt.bobs-tube.com
 0.0.0.0 pt.eporner.com
@@ -1182,7 +1194,9 @@
 0.0.0.0 stream.vid03.pornhd.com
 0.0.0.0 streaming1.3movs.com
 0.0.0.0 streamjav.net
+0.0.0.0 stunners.com
 0.0.0.0 stylerotica.com
+0.0.0.0 styles.lemmecheck.net
 0.0.0.0 suggestions.xhamster.com
 0.0.0.0 sunny.porntrex.com
 0.0.0.0 sweext.com
@@ -1211,6 +1225,8 @@
 0.0.0.0 th02-4.tube8.com
 0.0.0.0 th02.tube8.com
 0.0.0.0 thecuckoldporn.com
+0.0.0.0 thefappeningblog.com
+0.0.0.0 thefappeningtop.com
 0.0.0.0 thumb-beluga.adtrue24.com
 0.0.0.0 thumb.adtrue24.com
 0.0.0.0 thumb1.cdn1a.image.pornhub.phncdn.com
@@ -1227,6 +1243,7 @@
 0.0.0.0 thumbs.txxx.com
 0.0.0.0 thumbs.vjav.com
 0.0.0.0 thumbs5.porntrex.com
+0.0.0.0 timdir.com
 0.0.0.0 timur.txxx.com
 0.0.0.0 timur.vjav.com
 0.0.0.0 titanosaur.porntrex.com
@@ -1371,6 +1388,7 @@
 0.0.0.0 www.allnewindianporn.com
 0.0.0.0 www.amaporn.com
 0.0.0.0 www.arabtube.co.il
+0.0.0.0 www.aziani.com
 0.0.0.0 www.babes.com
 0.0.0.0 www.badabing.co.il
 0.0.0.0 www.beeg.com
@@ -1378,6 +1396,7 @@
 0.0.0.0 www.bestdesisex.com
 0.0.0.0 www.bigporn.com
 0.0.0.0 www.bobs-tube.com
+0.0.0.0 www.boobpedia.com
 0.0.0.0 www.bravoporn.com
 0.0.0.0 www.brazzersnetwork.com
 0.0.0.0 www.bsex.co.il
@@ -1386,6 +1405,7 @@
 0.0.0.0 www.camsoda.com
 0.0.0.0 www.cliphunter.com
 0.0.0.0 www.clipsage.com
+0.0.0.0 www.clublindsaymarie.com
 0.0.0.0 www.collectionofbestporn.com
 0.0.0.0 www.desipornxxx.com
 0.0.0.0 www.digitalplayground.com
@@ -1393,11 +1413,13 @@
 0.0.0.0 www.eliteindianporn.com
 0.0.0.0 www.enjoyporn.top
 0.0.0.0 www.eporner.com
+0.0.0.0 www.eroshow.ro
 0.0.0.0 www.exhilawriting.com
 0.0.0.0 www.extraindiansex.com
 0.0.0.0 www.f95zone.com
 0.0.0.0 www.fap18.net
 0.0.0.0 www.fapvid.com
+0.0.0.0 www.fineplaymates.com
 0.0.0.0 www.firecams.com
 0.0.0.0 www.flirt4free.com
 0.0.0.0 www.fotosxxx.org
@@ -1412,12 +1434,15 @@
 0.0.0.0 www.google.youporn.com
 0.0.0.0 www.gotporn.com
 0.0.0.0 www.gpornxxx.com
+0.0.0.0 www.handy-porn.net
+0.0.0.0 www.hardcoreluv.com
 0.0.0.0 www.hdfuckporn.com
 0.0.0.0 www.hegre.com
 0.0.0.0 www.hindiporns.com
 0.0.0.0 www.hpjav.tv
 0.0.0.0 www.i0.cdn2a.image.pornhub.phncdn.com
 0.0.0.0 www.iknowthatgirl.com
+0.0.0.0 www.imgshost.net
 0.0.0.0 www.indiansexyxxx.com
 0.0.0.0 www.indiaporn.me
 0.0.0.0 www.inhumanity.com
@@ -1430,6 +1455,10 @@
 0.0.0.0 www.javwhores.com
 0.0.0.0 www.kalporn.com
 0.0.0.0 www.kamasex.co.il
+0.0.0.0 www.kindgirls.com
+0.0.0.0 www.kporno.com
+0.0.0.0 www.lemmecheck.com
+0.0.0.0 www.letfab.com
 0.0.0.0 www.maturetube.icu
 0.0.0.0 www.missx.co.il
 0.0.0.0 www.mixindiansex.com
@@ -1443,6 +1472,8 @@
 0.0.0.0 www.newcam18.com
 0.0.0.0 www.nhentai.net
 0.0.0.0 www.nsaporn.com
+0.0.0.0 www.nudemodel.pics
+0.0.0.0 www.nudogram.com
 0.0.0.0 www.officialsarahjessie.com
 0.0.0.0 www.onindiansex.com
 0.0.0.0 www.partyporn.co.il
@@ -1451,6 +1482,7 @@
 0.0.0.0 www.porn.com
 0.0.0.0 www.porn.comwww.pornhd.com
 0.0.0.0 www.porn4days.com
+0.0.0.0 www.porndabster.com
 0.0.0.0 www.porndesitube.com
 0.0.0.0 www.porndoe.com
 0.0.0.0 www.pornhd.com
@@ -1459,8 +1491,10 @@
 0.0.0.0 www.pornhub.net
 0.0.0.0 www.pornhubpremium.com
 0.0.0.0 www.pornindianclips.com
+0.0.0.0 www.pornoslab.com
 0.0.0.0 www.pornqd.com
 0.0.0.0 www.porns.land
+0.0.0.0 www.pornslap.com
 0.0.0.0 www.porntrex.com
 0.0.0.0 www.porntube.com
 0.0.0.0 www.porntv.com
@@ -1480,9 +1514,12 @@
 0.0.0.0 www.sexooops.com
 0.0.0.0 www.shovavon.co.il
 0.0.0.0 www.spankbang.com
+0.0.0.0 www.spicybunnies.com
 0.0.0.0 www.steamgirl.com
 0.0.0.0 www.streamjav.net
+0.0.0.0 www.stunners.com
 0.0.0.0 www.teenslovehugecocks.com
+0.0.0.0 www.thelordofporn.com
 0.0.0.0 www.tnaflix.com
 0.0.0.0 www.tube8.com
 0.0.0.0 www.tuta.co.il
@@ -1501,7 +1538,6 @@
 0.0.0.0 www.xhamster.com
 0.0.0.0 www.xlovecam.com
 0.0.0.0 www.xnxx.com
-0.0.0.0 www.xnxx.tv
 0.0.0.0 www.xnxxfreeporno.com
 0.0.0.0 www.xvideos.com
 0.0.0.0 www.xvideos0.blog.br
@@ -1550,7 +1586,6 @@
 0.0.0.0 xnxx.pink
 0.0.0.0 xnxx.porn.com
 0.0.0.0 xnxx.red
-0.0.0.0 xnxx.tv
 0.0.0.0 xnxx1.pro
 0.0.0.0 xnxx2.pro
 0.0.0.0 xnxx2017.org
