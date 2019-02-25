@@ -24,12 +24,12 @@
 # Package: Energized Porn Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.02.053
-# Release: 053
-# Entries: 1,589
+# Version: 19.02.056
+# Release: 056
+# Entries: 1,590
 # Pack Code: EP0R9C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 22 Feb 19 20:52:19
+# Updated: Mon, 25 Feb 19 18:40:12
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
 # --------------------------------------------
 #
@@ -1601,6 +1601,7 @@
 0.0.0.0 xnxxx.club
 0.0.0.0 xpops.xhamster.com
 0.0.0.0 xpornplease.com
+0.0.0.0 xrares.com
 0.0.0.0 xt-static.phncdn.com
 0.0.0.0 xtube6.com
 0.0.0.0 xvedios.porn.com
