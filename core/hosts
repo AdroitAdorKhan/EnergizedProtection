@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.02.056
 # Release: 056
-# Entries: 20,065
+# Entries: 20,103
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 25 Feb 19 18:40:12
+# Updated: Mon, 25 Feb 19 18:50:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -49,7 +49,6 @@
 # --------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # --------------------------------------------
-0.0.0.0 fastclick.net
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 01.creativecdn.com
@@ -347,6 +346,7 @@
 0.0.0.0 6ecdz.voluumtrk.com
 0.0.0.0 6f.video-ak.cdn.spotify.com
 0.0.0.0 6ldu6qa.com
+0.0.0.0 6pueopc4.space
 0.0.0.0 6tsbe1zs.me
 0.0.0.0 70.video-ak.cdn.spotify.com
 0.0.0.0 71.video-ak.cdn.spotify.com
@@ -373,7 +373,9 @@
 0.0.0.0 7f.video-ak.cdn.spotify.com
 0.0.0.0 7fwpz.voluumtrk.com
 0.0.0.0 7h7ve.voluumtrk.com
+0.0.0.0 7hor9gul4s.com
 0.0.0.0 7pud.com
+0.0.0.0 7qazw085.men
 0.0.0.0 7search.com
 0.0.0.0 7sou.com
 0.0.0.0 7u8a8i88.com
@@ -3145,6 +3147,7 @@
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 affiliates.globat.com
 0.0.0.0 affiliates.internationaljock.com
+0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.souq.com
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
@@ -5091,11 +5094,13 @@
 0.0.0.0 btgpool.pro
 0.0.0.0 btrkout.com
 0.0.0.0 btrll.com
+0.0.0.0 bts-la.ucweb.com
 0.0.0.0 bttn.io
 0.0.0.0 bttrack.com
 0.0.0.0 btw.ero-advertising.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 bu520.com
+0.0.0.0 buallinfo.xyz
 0.0.0.0 bubblemine.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 bucketsofbanners.com
@@ -5155,6 +5160,7 @@
 0.0.0.0 bx6tok.xyz
 0.0.0.0 by.mp3load.biz
 0.0.0.0 by007.cn
+0.0.0.0 bygigguvflpv.com
 0.0.0.0 bypass-adn.ad-stir.com
 0.0.0.0 bypass-bid.ad-stir.com
 0.0.0.0 bypass-image.ad-stir.com
@@ -5436,6 +5442,7 @@
 0.0.0.0 cdn-images.oovvuu.com
 0.0.0.0 cdn-jp.gsecondscreen.com
 0.0.0.0 cdn-jquery.host
+0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 cdn-secure.liverail.com
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn-ssl.vidible.tv
@@ -7341,6 +7348,7 @@
 0.0.0.0 e8.video-ak.cdn.spotify.com
 0.0.0.0 e8960.e2.akamaiedge.net
 0.0.0.0 e9.video-ak.cdn.spotify.com
+0.0.0.0 e9geolgzk6.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea.video-ak.cdn.spotify.com
 0.0.0.0 eacdn.com
@@ -8067,6 +8075,7 @@
 0.0.0.0 foreverpool.org
 0.0.0.0 forex-affiliate.com
 0.0.0.0 forex-affiliate.net
+0.0.0.0 forexfinancexxfx.info
 0.0.0.0 forexmetatradexxd.info
 0.0.0.0 forkizata.com
 0.0.0.0 formats.juiceadv.com
@@ -8450,6 +8459,7 @@
 0.0.0.0 gigabyte.club
 0.0.0.0 gigarho.com
 0.0.0.0 gigsis.net
+0.0.0.0 gillynn.com
 0.0.0.0 gingermedia.adk2.co
 0.0.0.0 gingermedia.adk2x.com
 0.0.0.0 giocaora.mobi
@@ -8638,6 +8648,7 @@
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 gp-lottery.wsq.umeng.com
 0.0.0.0 gp.dejanews.com
+0.0.0.0 gpbaru.net
 0.0.0.0 gpigs-database.org
 0.0.0.0 gpjph.com
 0.0.0.0 gpumining.cc
@@ -10236,6 +10247,7 @@
 0.0.0.0 kf.uc.cn
 0.0.0.0 kfxrukfzqazrs.com
 0.0.0.0 kg.snapads.com
+0.0.0.0 kgxemdznctlmya.com
 0.0.0.0 kho3au7l4z.me
 0.0.0.0 ki1ahb.xyz
 0.0.0.0 kibana.appsflyer.com
@@ -11356,6 +11368,7 @@
 0.0.0.0 mftracking.imfast.io
 0.0.0.0 mg.adskeeper.co.uk
 0.0.0.0 mg.mgid.com
+0.0.0.0 mg.steepto.com
 0.0.0.0 mgage.com
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
@@ -12026,6 +12039,7 @@
 0.0.0.0 navrcholu.cz
 0.0.0.0 nbjmp.com
 0.0.0.0 nbstatic.com
+0.0.0.0 nbylhvbswplcj.com
 0.0.0.0 nclex.me
 0.0.0.0 ncmzm.voluumtrk.com
 0.0.0.0 ncrjsserver.com
@@ -12263,6 +12277,7 @@
 0.0.0.0 npdaqy6x1j.me
 0.0.0.0 npept.voluumtrk.com
 0.0.0.0 nplexmedia.com
+0.0.0.0 nqgyn.adsb4track.com
 0.0.0.0 nqvlw.com
 0.0.0.0 nr-data.net
 0.0.0.0 nrc.tapas.net
@@ -14057,6 +14072,7 @@
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report.crashlytics.com
+0.0.0.0 report.newsgenious.com
 0.0.0.0 report.webclicks24.com
 0.0.0.0 reporter.mozilla.org
 0.0.0.0 reporting.aatkit.com
@@ -14327,6 +14343,7 @@
 0.0.0.0 rw9bj24c2j.s.ad6media.fr
 0.0.0.0 rwpads.com
 0.0.0.0 rxcdn.1rx.io
+0.0.0.0 rxrfb95v.cricket
 0.0.0.0 rydohimowa.info
 0.0.0.0 ryminos.com
 0.0.0.0 ryybhoklizmuew.com
@@ -14493,6 +14510,7 @@
 0.0.0.0 sbcpower.com
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 sbobet-info.com
+0.0.0.0 sbopaitvwpzilp.com
 0.0.0.0 sbs-ad.com
 0.0.0.0 sbx.pagesjaunes.fr
 0.0.0.0 sbxzvllyahzn.com
@@ -17346,6 +17364,7 @@
 0.0.0.0 uc8.ucweb.com
 0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucaluco.com
+0.0.0.0 ucattr.vmate.in
 0.0.0.0 uccricket.napi.ucweb.com
 0.0.0.0 uccricket.ucweb.com
 0.0.0.0 ucdl.down.uc.cn
@@ -17605,6 +17624,7 @@
 0.0.0.0 v2.clinkad.com
 0.0.0.0 v2.panel.clickadu.com
 0.0.0.0 v2cigs.com
+0.0.0.0 v2t5re6z.review
 0.0.0.0 v3.actionteaser.ru
 0.0.0.0 v3.ads.mopub.com
 0.0.0.0 v3g4s.com
@@ -17659,6 +17679,7 @@
 0.0.0.0 vcommission.com
 0.0.0.0 vconf.outbrain.com
 0.0.0.0 vcrypt.net
+0.0.0.0 vd.7vid.net
 0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 vdopia.com
 0.0.0.0 vdtrack.com
@@ -18441,6 +18462,7 @@
 0.0.0.0 www.adcash.com
 0.0.0.0 www.adcolony.com
 0.0.0.0 www.addapptr.com
+0.0.0.0 www.addgfxnb.com
 0.0.0.0 www.addictiveads.com
 0.0.0.0 www.addlnk.com
 0.0.0.0 www.addthis.com
@@ -18641,6 +18663,7 @@
 0.0.0.0 www.buzzclicks.com
 0.0.0.0 www.bvezznurwekr.com
 0.0.0.0 www.by007.cn
+0.0.0.0 www.bygigguvflpv.com
 0.0.0.0 www.c.atdmt.com
 0.0.0.0 www.c.medialink.mobi
 0.0.0.0 www.c.msn.com
@@ -18881,7 +18904,9 @@
 0.0.0.0 www.gototrk.com
 0.0.0.0 www.gotrack1.es
 0.0.0.0 www.gowadogo.com
+0.0.0.0 www.gpbaru.net
 0.0.0.0 www.gqe0d.voluumtrk.com
+0.0.0.0 www.gqrsxfwxvx.com
 0.0.0.0 www.grandonmedia.com
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.green-red.com
@@ -18924,6 +18949,7 @@
 0.0.0.0 www.hitcpm.com
 0.0.0.0 www.hkhotpewfxr.com
 0.0.0.0 www.hkoxlirf.com
+0.0.0.0 www.hoqqzlvwukpo.com
 0.0.0.0 www.hostingcloud.racing
 0.0.0.0 www.hostingpagevas.com
 0.0.0.0 www.hotjar.com
@@ -18998,6 +19024,7 @@
 0.0.0.0 www.karisimbi.net
 0.0.0.0 www.keepload.online
 0.0.0.0 www.kelkoo.com
+0.0.0.0 www.kgxemdznctlmya.com
 0.0.0.0 www.kickass.cd
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.kiwifarms.net
@@ -19126,6 +19153,7 @@
 0.0.0.0 www.mywot.net
 0.0.0.0 www.n7621.voluumtrk.com
 0.0.0.0 www.nagubalqryvirelv.com
+0.0.0.0 www.nbylhvbswplcj.com
 0.0.0.0 www.ncmzm.voluumtrk.com
 0.0.0.0 www.neodatagroup.com
 0.0.0.0 www.neomobile.net
@@ -19164,6 +19192,7 @@
 0.0.0.0 www.olthlikechgq.com
 0.0.0.0 www.omaze.com
 0.0.0.0 www.omnitechsupport.com
+0.0.0.0 www.omqygrfokyxg.com
 0.0.0.0 www.onclickclear.com
 0.0.0.0 www.onclicksuper.com
 0.0.0.0 www.onclicktop.com
@@ -19222,6 +19251,7 @@
 0.0.0.0 www.playtokyo.brightcove.com
 0.0.0.0 www.pleasewait.co
 0.0.0.0 www.pleasewait.co.uk
+0.0.0.0 www.plustgl.info
 0.0.0.0 www.plxtejszb.com
 0.0.0.0 www.pmjwztzpuhb.com
 0.0.0.0 www.pntra.com
@@ -19344,6 +19374,7 @@
 0.0.0.0 www.sastrk.com
 0.0.0.0 www.sayyac.com
 0.0.0.0 www.sbobet-info.com
+0.0.0.0 www.sbopaitvwpzilp.com
 0.0.0.0 www.sc.pages04.net
 0.0.0.0 www.scanning.website
 0.0.0.0 www.scopamici.com
@@ -19519,6 +19550,7 @@
 0.0.0.0 www.tredman.com
 0.0.0.0 www.tribalfusion.com
 0.0.0.0 www.triboomedia.it
+0.0.0.0 www.trueamateurs.com
 0.0.0.0 www.truefilen32.com
 0.0.0.0 www.ttegjzxzxyetf.com
 0.0.0.0 www.tubepick.com
@@ -19554,6 +19586,7 @@
 0.0.0.0 www.usekahuna.com
 0.0.0.0 www.ushareit.com
 0.0.0.0 www.uvrk0.voluumtrk.com
+0.0.0.0 www.uyeluxauiq.com
 0.0.0.0 www.v-mate.mobi
 0.0.0.0 www.v9.com
 0.0.0.0 www.vcfnspbgztl.com
@@ -19584,6 +19617,7 @@
 0.0.0.0 www.vungle.com
 0.0.0.0 www.vvvvid.it
 0.0.0.0 www.vyprcnoverthewall.com
+0.0.0.0 www.vywujhsinxfa.com
 0.0.0.0 www.w2mobile.com
 0.0.0.0 www.watchnow.tv
 0.0.0.0 www.watson.ppe.telemetry.microsoft.com
@@ -19652,6 +19686,7 @@
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zeropark.com
 0.0.0.0 www.zindas.info
+0.0.0.0 www.ziqdunppuzjd.com
 0.0.0.0 www.zl1.quebec-bin.com
 0.0.0.0 www.zlegojgwg.com
 0.0.0.0 www.zlx.com.br
@@ -19685,6 +19720,7 @@
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwadcntr.com
 0.0.0.0 wwwindishareme.imageshack.host
+0.0.0.0 wwwpls.personal168.com
 0.0.0.0 wwwpromoter.com
 0.0.0.0 wwww.adleads.com
 0.0.0.0 wycji.top
@@ -19978,6 +20014,7 @@
 0.0.0.0 yqucllrbg.com
 0.0.0.0 yrtumngfdsdgf.ga
 0.0.0.0 yserch.com
+0.0.0.0 yt.advmaker.su
 0.0.0.0 yt.moatads.com
 0.0.0.0 yttestsite.com
 0.0.0.0 yucnvu.live
@@ -20063,6 +20100,7 @@
 0.0.0.0 zindas.info
 0.0.0.0 zinterest.ga
 0.0.0.0 zintext.com
+0.0.0.0 ziqdunppuzjd.com
 0.0.0.0 zl1.quebec-bin.com
 0.0.0.0 zlx.com.br
 0.0.0.0 zme8o3l1c4.com
