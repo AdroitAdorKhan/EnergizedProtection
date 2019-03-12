@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.03.068
-# Release: 068
-# Entries: 20,256
+# Version: 19.03.071
+# Release: 071
+# Entries: 20,272
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 09 Mar 19 00:25:08
+# Updated: Tue, 12 Mar 19 22:04:37
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -86,6 +86,7 @@
 0.0.0.0 123date.me
 0.0.0.0 123found.com
 0.0.0.0 123lnk.com
+0.0.0.0 128ad3cf92ed.com
 0.0.0.0 12bet.casino
 0.0.0.0 12bvn.com
 0.0.0.0 12finance.com
@@ -171,6 +172,7 @@
 0.0.0.0 25.video-ak.cdn.spotify.com
 0.0.0.0 26.video-ak.cdn.spotify.com
 0.0.0.0 268f36c5ee7e7a.com
+0.0.0.0 26c84ccad3d2.com
 0.0.0.0 26f396e0b71780f057be4d4af8ebe55b.com
 0.0.0.0 27.video-ak.cdn.spotify.com
 0.0.0.0 28.video-ak.cdn.spotify.com
@@ -302,6 +304,7 @@
 0.0.0.0 4dsply.com
 0.0.0.0 4e.video-ak.cdn.spotify.com
 0.0.0.0 4f.video-ak.cdn.spotify.com
+0.0.0.0 4ff504226f.com
 0.0.0.0 4hitme.net
 0.0.0.0 4info.com
 0.0.0.0 4jnzhl0d0.com
@@ -326,6 +329,7 @@
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 555.in.th
 0.0.0.0 56.video-ak.cdn.spotify.com
+0.0.0.0 57368bd5d18.com
 0.0.0.0 578756.gameloft.com
 0.0.0.0 58coin.com
 0.0.0.0 5c.video-ak.cdn.spotify.com
@@ -3030,10 +3034,8 @@
 0.0.0.0 advocatasolucoes.com
 0.0.0.0 advolution.de
 0.0.0.0 advombat.ru
-0.0.0.0 advonline.goforandroid.com
 0.0.0.0 advplatform.net
 0.0.0.0 advs.brznetwork.com
-0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 advserver.xyz
 0.0.0.0 advsmedia.com
 0.0.0.0 advstat.net
@@ -3421,7 +3423,6 @@
 0.0.0.0 analytics.adskeeper.co.uk
 0.0.0.0 analytics.adspaces.ero-advertising.com
 0.0.0.0 analytics.adsymptotic.com
-0.0.0.0 analytics.adtechus.com
 0.0.0.0 analytics.algolia.com
 0.0.0.0 analytics.amplitude.com
 0.0.0.0 analytics.analytics-egain.com
@@ -3804,6 +3805,7 @@
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.servicelayer.mobi
 0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.shareitgames.com
 0.0.0.0 api.smartlauncher.net
 0.0.0.0 api.south.kontagent.net
 0.0.0.0 api.stats.appa.pe
@@ -4720,6 +4722,7 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bh3.net
 0.0.0.0 bhclicks.com
+0.0.0.0 bhigieabgdbabegiibb.ru
 0.0.0.0 bhzejltg.info
 0.0.0.0 bi-collector.oneapm.com
 0.0.0.0 bibei.uc.cn
@@ -5102,6 +5105,7 @@
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bsch.serving-sys.com
 0.0.0.0 bsf-stage.vidible.tv
+0.0.0.0 bsrmcgp7bbcpdky.ru
 0.0.0.0 bst.adsperf.com
 0.0.0.0 bsyauqwerd.party
 0.0.0.0 btcchina.com
@@ -5291,6 +5295,7 @@
 0.0.0.0 c8.net.ua
 0.0.0.0 c8.video-ak.cdn.spotify.com
 0.0.0.0 c9.video-ak.cdn.spotify.com
+0.0.0.0 c91c7fb5801.com
 0.0.0.0 ca.clcknads.pro
 0.0.0.0 ca.video-ak.cdn.spotify.com
 0.0.0.0 cabbage.recipes
@@ -5433,6 +5438,7 @@
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 cc.video-ak.cdn.spotify.com
+0.0.0.0 cc7490baea.com
 0.0.0.0 ccc.adacts.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
@@ -5658,7 +5664,7 @@
 0.0.0.0 cdn2.cpmstar.com
 0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cdn2.inner-active.mobi
-0.0.0.0 cdn2.reporo.net
+0.0.0.0 cdn2.shareitgames.com
 0.0.0.0 cdn2.wshareit.com
 0.0.0.0 cdn3.adexprt.com
 0.0.0.0 cdn3.appnext.com
@@ -5719,6 +5725,7 @@
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf.addthis.com
 0.0.0.0 cf.cdn.inmobi.com
+0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 cf.ushareit.com
 0.0.0.0 cf.video-ak.cdn.spotify.com
 0.0.0.0 cfcd.duckdns.org
@@ -6080,6 +6087,7 @@
 0.0.0.0 cm.www.uc.cn
 0.0.0.0 cm2.adform.net
 0.0.0.0 cm3.adform.net
+0.0.0.0 cmd.hermes.wshareit.com
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmi.flurry.com
 0.0.0.0 cmonitor.iqiyi.com
@@ -6378,7 +6386,6 @@
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.idealmedia.com
-0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.ksosoft.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
@@ -6511,6 +6518,7 @@
 0.0.0.0 crownpeak.com.re.getclicky.com
 0.0.0.0 crp-concursos.com
 0.0.0.0 crrepo.com
+0.0.0.0 crt.sectigo.com
 0.0.0.0 crtmatix.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 cruxpool.com
@@ -6662,6 +6670,7 @@
 0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d1.yengo.com
 0.0.0.0 d12tludofq8d6y.cloudfront.net
+0.0.0.0 d12zo0ppztbcf.cloudfront.net
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
@@ -7376,6 +7385,7 @@
 0.0.0.0 e5413.g.akamaiedge.net
 0.0.0.0 e5460.g.akamaiedge.net
 0.0.0.0 e6.video-ak.cdn.spotify.com
+0.0.0.0 e6061780c064c.com
 0.0.0.0 e6603.g.akamaiedge.net
 0.0.0.0 e7.video-ak.cdn.spotify.com
 0.0.0.0 e7081.g.akamaiedge.net
@@ -7393,6 +7403,7 @@
 0.0.0.0 earandmarketing.com
 0.0.0.0 earncoins.club
 0.0.0.0 earnify.com
+0.0.0.0 earnmines.com
 0.0.0.0 earnthismoney.top
 0.0.0.0 earthquakescarf.com
 0.0.0.0 eas.almamedia.fi
@@ -10487,6 +10498,7 @@
 0.0.0.0 learning-services-media.brightcove.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 ledinund.com
+0.0.0.0 leechiza.net
 0.0.0.0 leftren.com
 0.0.0.0 legco.info
 0.0.0.0 legistrike.pro
@@ -10863,6 +10875,7 @@
 0.0.0.0 m1.be.2mdn.net
 0.0.0.0 m1.behhfhjagichibdfgj.ru
 0.0.0.0 m1.bgdccajgbfgijiaccba.ru
+0.0.0.0 m1.bhigieabgdbabegiibb.ru
 0.0.0.0 m1.br.2mdn.net
 0.0.0.0 m1.ca.2mdn.net
 0.0.0.0 m1.cn.2mdn.net
@@ -10893,6 +10906,7 @@
 0.0.0.0 m2.bdccjeifcaiggegjai.ru
 0.0.0.0 m2.be.2mdn.net
 0.0.0.0 m2.behhfhjagichibdfgj.ru
+0.0.0.0 m2.bhigieabgdbabegiibb.ru
 0.0.0.0 m2.br.2mdn.net
 0.0.0.0 m2.ca.2mdn.net
 0.0.0.0 m2.cn.2mdn.net
@@ -10923,6 +10937,7 @@
 0.0.0.0 m3.be.2mdn.net
 0.0.0.0 m3.behhfhjagichibdfgj.ru
 0.0.0.0 m3.bgdccajgbfgijiaccba.ru
+0.0.0.0 m3.bhigieabgdbabegiibb.ru
 0.0.0.0 m3.br.2mdn.net
 0.0.0.0 m3.ca.2mdn.net
 0.0.0.0 m3.cn.2mdn.net
@@ -12702,6 +12717,7 @@
 0.0.0.0 otherlevels.com
 0.0.0.0 othersonline.com
 0.0.0.0 otify.bugsnag.com
+0.0.0.0 otnolatrnup.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 ough.info
 0.0.0.0 ouplog.umeng.com
@@ -13764,6 +13780,7 @@
 0.0.0.0 px.ucweb.com
 0.0.0.0 pxf-xender2.xenderbox.com
 0.0.0.0 pxgcdn.com
+0.0.0.0 pxthyfgzm.com
 0.0.0.0 pycvhwxtqhknb.com
 0.0.0.0 pyfmxzhrnivq.com
 0.0.0.0 pzoifaum.info
@@ -13779,6 +13796,7 @@
 0.0.0.0 qaapi.skype.net
 0.0.0.0 qadservice.com
 0.0.0.0 qawww.skypeassets.net
+0.0.0.0 qceixjlqe.com
 0.0.0.0 qcontentdelivery.info
 0.0.0.0 qctop.com
 0.0.0.0 qenklbb.com
@@ -14353,7 +14371,6 @@
 0.0.0.0 rtb-eq.tapad.com
 0.0.0.0 rtb-eu.tapad.com
 0.0.0.0 rtb-media.me
-0.0.0.0 rtb-trk.adcolony.com
 0.0.0.0 rtb-useast.kobenetwork.com
 0.0.0.0 rtb-va.origin.startappservice.com
 0.0.0.0 rtb.1rx.io
@@ -15652,7 +15669,6 @@
 0.0.0.0 stats4all.com
 0.0.0.0 statsevent.com
 0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsie.com
@@ -17431,6 +17447,7 @@
 0.0.0.0 u1hw38x0.com
 0.0.0.0 u21drwj6mp.com
 0.0.0.0 u223o.com
+0.0.0.0 u595sebqih.com
 0.0.0.0 u8vysb7s2v.com
 0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 ua.supersonicads.com
@@ -17710,6 +17727,7 @@
 0.0.0.0 uupool.cn
 0.0.0.0 uvrk0.voluumtrk.com
 0.0.0.0 uwsxz.com
+0.0.0.0 uzlleehrsmibli.com
 0.0.0.0 v-hold.net
 0.0.0.0 v.actionteaser.ru
 0.0.0.0 v.adblade.com
@@ -18543,7 +18561,6 @@
 0.0.0.0 www.a.ero-advertising.com
 0.0.0.0 www.a.qwertize.com
 0.0.0.0 www.a.rad.msn.com
-0.0.0.0 www.aagmbroxruno.com
 0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accu-chek.it
 0.0.0.0 www.acdn.adnxs.com
@@ -18864,6 +18881,7 @@
 0.0.0.0 www.curiosity.gratis
 0.0.0.0 www.customaquariumscr.com
 0.0.0.0 www.cutedev.net
+0.0.0.0 www.cvzixxiesyjkha.com
 0.0.0.0 www.cwbbqhgtjbvtzi.com
 0.0.0.0 www.cxense.com
 0.0.0.0 www.cz-rb.com
@@ -18920,7 +18938,6 @@
 0.0.0.0 www.ecran-de-veille.org
 0.0.0.0 www.eeduelements.com
 0.0.0.0 www.eeopet.site
-0.0.0.0 www.efebafmqn.com
 0.0.0.0 www.effective-ads.com
 0.0.0.0 www.egorlz.xyz
 0.0.0.0 www.ekmztfadigi.com
@@ -18962,8 +18979,6 @@
 0.0.0.0 www.formats.juiceadv.com
 0.0.0.0 www.fqtag.com
 0.0.0.0 www.freecontent.bid
-0.0.0.0 www.freecontent.loan
-0.0.0.0 www.freecontent.racing
 0.0.0.0 www.freesnapmilfs.com
 0.0.0.0 www.frrbsrbs.com
 0.0.0.0 www.frtyi.com
@@ -19162,6 +19177,7 @@
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuaptrk.com
 0.0.0.0 www.kwygntce.com
+0.0.0.0 www.kxkeuums.com
 0.0.0.0 www.kyelvsyayysa.com
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.larosanotizia.com
@@ -19270,7 +19286,6 @@
 0.0.0.0 www.mqdznyotsam.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.murieh.space
-0.0.0.0 www.mutuza.win
 0.0.0.0 www.mxttrf.com
 0.0.0.0 www.my4kvideo.info
 0.0.0.0 www.myappfree.com
@@ -19311,6 +19326,7 @@
 0.0.0.0 www.nufa-ad.com
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
+0.0.0.0 www.nxjlnchylgsw.com
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
@@ -19336,7 +19352,6 @@
 0.0.0.0 www.ootqfqjhzfrtn.com
 0.0.0.0 www.oovvuu.com
 0.0.0.0 www.opencache.com
-0.0.0.0 www.opencandy.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlookemailsetup.com
 0.0.0.0 www.outlookemailtech.com
@@ -19420,7 +19435,9 @@
 0.0.0.0 www.purebros.it
 0.0.0.0 www.puserving.com
 0.0.0.0 www.pussysaga.com
+0.0.0.0 www.pxthyfgzm.com
 0.0.0.0 www.pyfmxzhrnivq.com
+0.0.0.0 www.qceixjlqe.com
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qgbjchbl.com
 0.0.0.0 www.qksrv.net
@@ -19550,7 +19567,6 @@
 0.0.0.0 www.smartclick.net
 0.0.0.0 www.smartdevicelink.com
 0.0.0.0 www.smrt.re
-0.0.0.0 www.snapads.com
 0.0.0.0 www.snaphackonline.com
 0.0.0.0 www.so.2mdn.net
 0.0.0.0 www.sobberinfo.com
@@ -19618,7 +19634,6 @@
 0.0.0.0 www.supportoid.com
 0.0.0.0 www.supportpcclean.com
 0.0.0.0 www.swt3r.voluumtrk.com
-0.0.0.0 www.sxmmgiuilt.com
 0.0.0.0 www.t.skimresources.com
 0.0.0.0 www.t2lgo.com
 0.0.0.0 www.talk99.cn
@@ -19729,6 +19744,7 @@
 0.0.0.0 www.ushareit.com
 0.0.0.0 www.uvrk0.voluumtrk.com
 0.0.0.0 www.uyeluxauiq.com
+0.0.0.0 www.uzlleehrsmibli.com
 0.0.0.0 www.v-mate.mobi
 0.0.0.0 www.v9.com
 0.0.0.0 www.vasfxpribls.com
