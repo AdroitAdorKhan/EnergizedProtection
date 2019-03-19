@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.03.071
-# Release: 071
-# Entries: 20,272
+# Version: 19.03.078
+# Release: 078
+# Entries: 20,279
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 12 Mar 19 22:04:37
+# Updated: Tue, 19 Mar 19 21:37:29
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -49,6 +49,7 @@
 # --------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # --------------------------------------------
+0.0.0.0 .fastclick.net
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 01.creativecdn.com
@@ -964,7 +965,6 @@
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
-0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.nz.doubleclick.net
@@ -2040,6 +2040,7 @@
 0.0.0.0 ads.msn-int.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
+0.0.0.0 ads.mybanktracker.com
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.nayemador.com
@@ -3352,6 +3353,7 @@
 0.0.0.0 amazemobilemedia.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazonco.uk # misspelling
 0.0.0.0 ambaab.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 amcmpixel.onedigitalad.com
@@ -4032,7 +4034,6 @@
 0.0.0.0 as.adfonic.net
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.chango.com
-0.0.0.0 as.ebz.io
 0.0.0.0 as.innity.com
 0.0.0.0 as.na1.angsrvr.com
 0.0.0.0 as.o333o.com
@@ -5503,6 +5504,7 @@
 0.0.0.0 cdn.adsoptimal.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.adswizz.com
+0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.akubebas.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appcloudbox.net
@@ -6035,6 +6037,7 @@
 0.0.0.0 clk.apxadtracking.net
 0.0.0.0 clk.atdmt.com
 0.0.0.0 clk.ink
+0.0.0.0 clk.sh
 0.0.0.0 clk.taptica.com
 0.0.0.0 clk.verblife-2.co
 0.0.0.0 clk.verblife-4.co
@@ -12965,6 +12968,7 @@
 0.0.0.0 pages.appia.com
 0.0.0.0 pages.flurry.com
 0.0.0.0 pages04.net
+0.0.0.0 paibopse.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paidonresults.net
 0.0.0.0 paidsearchexperts.com
@@ -13184,6 +13188,7 @@
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pinger.ads.nexage.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 pinkhindi.com
 0.0.0.0 pins.uodoo.com
 0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 pip-pip-pop.com
@@ -15701,6 +15706,7 @@
 0.0.0.0 stirshakead.com
 0.0.0.0 stjjp.msn.com
 0.0.0.0 stocker.bonnint.net
+0.0.0.0 stompebi.link
 0.0.0.0 stoneb.cn
 0.0.0.0 stonecalcom.com
 0.0.0.0 stopify.co
@@ -16123,6 +16129,7 @@
 0.0.0.0 techzglobal.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 teenyvolcano.com
+0.0.0.0 teesheel.net
 0.0.0.0 teiegram.pw
 0.0.0.0 tek-tek-trek.com
 0.0.0.0 tekzie.com
@@ -16482,7 +16489,6 @@
 0.0.0.0 track-test.clickhubs.com
 0.0.0.0 track-us.adform.net
 0.0.0.0 track-visual.umeng.com
-0.0.0.0 track.01l.xyz
 0.0.0.0 track.176.com
 0.0.0.0 track.360tracking.fr
 0.0.0.0 track.941tracking.com
@@ -16866,7 +16872,6 @@
 0.0.0.0 tracker.clickopon.com
 0.0.0.0 tracker.clicktrade.com
 0.0.0.0 tracker.consumerpackage.net
-0.0.0.0 tracker.coopt.com
 0.0.0.0 tracker.diabetes.org
 0.0.0.0 tracker.dome.cloud
 0.0.0.0 tracker.downdetector.com
@@ -17985,6 +17990,7 @@
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vntsm.com
 0.0.0.0 vo3.net
+0.0.0.0 voastauz.net
 0.0.0.0 vocento.cxsearch.cxense.com
 0.0.0.0 vocento.recs.cxense.com
 0.0.0.0 vocmd.ucweb.com
@@ -18775,7 +18781,6 @@
 0.0.0.0 www.bluekai.com
 0.0.0.0 www.blwfqlmhi.com
 0.0.0.0 www.bnserving.com
-0.0.0.0 www.bodelen.com
 0.0.0.0 www.bodloft.com
 0.0.0.0 www.boomoffer07.com
 0.0.0.0 www.boostperform.com
@@ -19293,6 +19298,7 @@
 0.0.0.0 www.myfastappz.com
 0.0.0.0 www.myfilestore.com
 0.0.0.0 www.myfreecams.com
+0.0.0.0 www.myishop.co.uk
 0.0.0.0 www.myrobotearn.top
 0.0.0.0 www.mywot.com
 0.0.0.0 www.mywot.net
@@ -19868,6 +19874,7 @@
 0.0.0.0 www193.wixdns.net
 0.0.0.0 www2.adcash.com
 0.0.0.0 www2.doubleclick.com
+0.0.0.0 www2.myishop.co.uk
 0.0.0.0 www2.outbrain.com
 0.0.0.0 www2.silkspan.com
 0.0.0.0 www2.smartadserver.com
