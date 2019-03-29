@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.03.078
-# Release: 078
-# Entries: 20,320
+# Version: 19.03.089
+# Release: 089
+# Entries: 20,350
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 19 Mar 19 21:46:47
+# Updated: Sat, 30 Mar 19 04:34:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1042,6 +1042,7 @@
 0.0.0.0 ad0.data2.ero-advertising.com
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad0be.ga
+0.0.0.0 ad1.adfarm1.adition.com
 0.0.0.0 ad1.adinfuse.com
 0.0.0.0 ad1.ads.ero-advertising.com
 0.0.0.0 ad1.adspaces.ero-advertising.com
@@ -1715,6 +1716,7 @@
 0.0.0.0 ads-sc2-lb9.adsymptotic.com
 0.0.0.0 ads-script.ad-center.com
 0.0.0.0 ads-techeu.adhese.com
+0.0.0.0 ads-tracking.com
 0.0.0.0 ads-trf.adhese.com
 0.0.0.0 ads-trk-a.prod.vidible.tv
 0.0.0.0 ads-trk.prod.vidible.tv
@@ -2375,6 +2377,7 @@
 0.0.0.0 adsense.com
 0.0.0.0 adsensecamp.com
 0.0.0.0 adserv.gamezone.de
+0.0.0.0 adserv.tritonmedia.com
 0.0.0.0 adserve-ams.1rx.io
 0.0.0.0 adserve-nj.1rx.io
 0.0.0.0 adserve-sjo.1rx.io
@@ -3028,6 +3031,7 @@
 0.0.0.0 adviva.com
 0.0.0.0 adviva.net
 0.0.0.0 advm.brznetwork.com
+0.0.0.0 advmaiotg.com
 0.0.0.0 advmedialtd.com
 0.0.0.0 advmob.cn
 0.0.0.0 advnetmobile.mobi
@@ -3168,6 +3172,7 @@
 0.0.0.0 affiliates.ultrahosting.com
 0.0.0.0 affiliatesapi.souq.com
 0.0.0.0 affiliatesensor.com
+0.0.0.0 affiliatesys.ads-tracking.com
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatetrading.net
@@ -3354,7 +3359,7 @@
 0.0.0.0 amazemobilemedia.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 amazonco.uk # misspelling
+0.0.0.0 amazonco.uk
 0.0.0.0 ambaab.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 amcmpixel.onedigitalad.com
@@ -3625,6 +3630,7 @@
 0.0.0.0 aos.wall.youmi.net
 0.0.0.0 ap-gb.adskeeper.co.uk
 0.0.0.0 ap-sonar.sociomantic.com
+0.0.0.0 ap-southeast-1.onemobile.yahoo.com
 0.0.0.0 ap.appcloudbox.net
 0.0.0.0 ap.lijit.com
 0.0.0.0 ap.smardroid.com
@@ -4672,6 +4678,7 @@
 0.0.0.0 best-light.top
 0.0.0.0 best-p2pool.eu
 0.0.0.0 best-pr.info
+0.0.0.0 best-realgirls.com
 0.0.0.0 best-top.ro
 0.0.0.0 best.alphonso.tv
 0.0.0.0 best.hot-blogs.info
@@ -5316,6 +5323,7 @@
 0.0.0.0 cache.nmn.speedera.net
 0.0.0.0 cached.liveshows.contentabc.com
 0.0.0.0 cafepharma.adblade.com
+0.0.0.0 cajgbabcfhjceiacabd.ru
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatorcamera.com
 0.0.0.0 calendar.kissmetrics.com
@@ -6707,6 +6715,7 @@
 0.0.0.0 d3anogn3pbtk4v.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3oltyb66oj2v8.cloudfront.net
+0.0.0.0 d3owq2fdwtdp2j.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 d3tplke66d0j4g.cloudfront.net
@@ -7416,6 +7425,7 @@
 0.0.0.0 earnthismoney.top
 0.0.0.0 earthquakescarf.com
 0.0.0.0 eas.almamedia.fi
+0.0.0.0 easy-pdf.com
 0.0.0.0 easyaccess.mobi
 0.0.0.0 easycooler.s.xoxknct.com
 0.0.0.0 easyflirt-partners.biz
@@ -7694,6 +7704,7 @@
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-adserver.cxad.cxense.com
+0.0.0.0 eu-central-1.onemobile.yahoo.com
 0.0.0.0 eu-ma.sam4m.com
 0.0.0.0 eu-srv.apptornado.com
 0.0.0.0 eu-srv2.apptornado.com
@@ -7989,7 +8000,6 @@
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 fgoogle.com
-0.0.0.0 fgoogle.com # misspelling
 0.0.0.0 fhatfee.ero-advertising.com
 0.0.0.0 fhr.cdn.mozilla.net
 0.0.0.0 fhr.data.mozilla.com
@@ -8018,6 +8028,7 @@
 0.0.0.0 filmnewspaper.com
 0.0.0.0 filmux.biz
 0.0.0.0 filter.pop.adacts.com
+0.0.0.0 filters.adtidy.org
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
 0.0.0.0 finance.cxense.com
@@ -8343,6 +8354,7 @@
 0.0.0.0 gagacon.com
 0.0.0.0 gainmoneyfast.com
 0.0.0.0 gaitheed.com
+0.0.0.0 galaksipokerqq.com
 0.0.0.0 galaxien.com
 0.0.0.0 galleries.appstudio.vidible.tv
 0.0.0.0 gallery-metrics.api.brightcove.com
@@ -9859,10 +9871,12 @@
 0.0.0.0 install-antivirus.com
 0.0.0.0 install.365-stream.com
 0.0.0.0 install.cryptoverto.com
+0.0.0.0 install.easy-pdf.com
 0.0.0.0 install.gamez4us.com
 0.0.0.0 install.incognitosearches.com
 0.0.0.0 install.online-live-streaming.com
 0.0.0.0 install.speedomizer.com
+0.0.0.0 install.stream-all.com
 0.0.0.0 install.streamit-online.com
 0.0.0.0 install.thegamesearcher.com
 0.0.0.0 install.topradiostationsonline.com
@@ -10070,7 +10084,6 @@
 0.0.0.0 j9j6l.top
 0.0.0.0 ja.ad-stir.com
 0.0.0.0 jackbootedroom.com
-0.0.0.0 jackbootedroom.com ## phishing
 0.0.0.0 jackettrain.com
 0.0.0.0 jacmnkcusf.com
 0.0.0.0 jact.atdmt.com
@@ -10537,6 +10550,7 @@
 0.0.0.0 levelrate.de
 0.0.0.0 lewd.ninja
 0.0.0.0 lexas.iqkmob.com
+0.0.0.0 leyifi0qpnnqp.ru
 0.0.0.0 lfstmedia.com
 0.0.0.0 lg.smardroid.com
 0.0.0.0 lga-delivery-10.sys.adgear.com
@@ -10574,6 +10588,7 @@
 0.0.0.0 link.ad-center.com
 0.0.0.0 link.brightcove.com
 0.0.0.0 link.outbrain.com
+0.0.0.0 link.safelinkconverter.com
 0.0.0.0 link.safesslredirect.company
 0.0.0.0 link4ads.com
 0.0.0.0 link4app.com
@@ -10927,6 +10942,7 @@
 0.0.0.0 m2.bhigieabgdbabegiibb.ru
 0.0.0.0 m2.br.2mdn.net
 0.0.0.0 m2.ca.2mdn.net
+0.0.0.0 m2.cajgbabcfhjceiacabd.ru
 0.0.0.0 m2.cn.2mdn.net
 0.0.0.0 m2.cn.doubleclick.net
 0.0.0.0 m2.de.2mdn.net
@@ -10958,6 +10974,7 @@
 0.0.0.0 m3.bhigieabgdbabegiibb.ru
 0.0.0.0 m3.br.2mdn.net
 0.0.0.0 m3.ca.2mdn.net
+0.0.0.0 m3.cajgbabcfhjceiacabd.ru
 0.0.0.0 m3.cn.2mdn.net
 0.0.0.0 m3.de.2mdn.net
 0.0.0.0 m3.dk.2mdn.net
@@ -11625,6 +11642,7 @@
 0.0.0.0 mkhoj.com
 0.0.0.0 mktg.tvpage.com
 0.0.0.0 ml314.com
+0.0.0.0 mlands.ru
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlcr0soft.gq
 0.0.0.0 mlcr0soft.ml
@@ -11955,6 +11973,7 @@
 0.0.0.0 mutuza.win
 0.0.0.0 muwmedia.com
 0.0.0.0 mver.agkn.com
+0.0.0.0 mvp-us-east-1.onemobile.yahoo.com
 0.0.0.0 mw.uc.cn
 0.0.0.0 mw.ucweb.com
 0.0.0.0 mwc.velti.com
@@ -12476,6 +12495,7 @@
 0.0.0.0 oad.taptica.com
 0.0.0.0 oadj.taptica.com
 0.0.0.0 oainternetservices.com
+0.0.0.0 oao-js-tag.onemobile.yahoo.com
 0.0.0.0 oappi.com
 0.0.0.0 oas.benchmark.fr
 0.0.0.0 oas.foxnews.com
@@ -13075,6 +13095,7 @@
 0.0.0.0 paytonpapers.org
 0.0.0.0 pazienti.it
 0.0.0.0 pb.clinkad.com
+0.0.0.0 pbcde.com
 0.0.0.0 pbnet.ru
 0.0.0.0 pbrd.co
 0.0.0.0 pc-ads.com
@@ -15191,6 +15212,7 @@
 0.0.0.0 snap.adsrvr.org
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 snapads.com
+0.0.0.0 snapcheat3.com
 0.0.0.0 snapdo.com
 0.0.0.0 snapgiant.com
 0.0.0.0 snaphackonline.com
@@ -15635,6 +15657,7 @@
 0.0.0.0 statistik.cabana.dk.ssl.re.getclicky.com
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 statmt.matichon.co.th
+0.0.0.0 statok.net
 0.0.0.0 statpipe.ru
 0.0.0.0 stats.adspaces.ero-advertising.com
 0.0.0.0 stats.appsflyer.com
@@ -15754,6 +15777,7 @@
 0.0.0.0 straightschool.com
 0.0.0.0 strategy.it
 0.0.0.0 strdef.world
+0.0.0.0 stream-all.com
 0.0.0.0 stream-direct.co
 0.0.0.0 stream-direct.com
 0.0.0.0 stream1.livefyre.com
@@ -16044,7 +16068,6 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.news.com.au
-0.0.0.0 tags.news.com.au  # thanks, @ValbonneConsulting
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tagsrv.adk2.co
 0.0.0.0 tagular.com
@@ -17357,7 +17380,6 @@
 0.0.0.0 tstreesandtreasures.com
 0.0.0.0 tt.smaxdn.com
 0.0.0.0 ttwitter.com
-0.0.0.0 ttwitter.com    # common misspelling and, besides, scumbags there.
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tuanp123.com
 0.0.0.0 tubberlo.com
@@ -17430,12 +17452,13 @@
 0.0.0.0 tweets.kissmetrics.com
 0.0.0.0 tweetscan.com
 0.0.0.0 tweowhvrim.review
+0.0.0.0 twfilnym.com
 0.0.0.0 twicemall.com
 0.0.0.0 twinpinenetwork.com
 0.0.0.0 twistads.com
 0.0.0.0 twistr.live
 0.0.0.0 twittad.com
-0.0.0.0 twitter.cm    # common misspelling
+0.0.0.0 twitter.cm
 0.0.0.0 twitterhandles.com
 0.0.0.0 twitterlocksmith.com
 0.0.0.0 two-jj.github.io
@@ -17672,12 +17695,14 @@
 0.0.0.0 urlp.skimresources.com
 0.0.0.0 urps.org
 0.0.0.0 us-ads.openx.net
+0.0.0.0 us-east-1.onemobile.yahoo.com
 0.0.0.0 us-east-dmp-web-pixel.adblade.com
 0.0.0.0 us-east-rtb.adblade.com
 0.0.0.0 us-east-web.adblade.com
 0.0.0.0 us-east1.serve.elixmedia.com
 0.0.0.0 us-east1.serve.enatimedia.com
 0.0.0.0 us-ezalter.cootekservice.com
+0.0.0.0 us-west-1.onemobile.yahoo.com
 0.0.0.0 us-west-rtb.adblade.com
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 us.adform.net
@@ -17877,6 +17902,7 @@
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
 0.0.0.0 vesdouy.gamesup.mobi
+0.0.0.0 vexacion.com
 0.0.0.0 vg02h8z1ul.me
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vhmnetwork.com
@@ -18582,6 +18608,7 @@
 0.0.0.0 www.93.tityx.com
 0.0.0.0 www.97.utroro.com
 0.0.0.0 www.9anime.cc
+0.0.0.0 www.FuckMeBoss.com
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.a-msedge.net
 0.0.0.0 www.a-o.ninja
@@ -18684,6 +18711,7 @@
 0.0.0.0 www.advblock.ru
 0.0.0.0 www.advertising.com
 0.0.0.0 www.advertising.yahoo.com
+0.0.0.0 www.advmaiotg.com
 0.0.0.0 www.advnetmobile.mobi
 0.0.0.0 www.advplatform.net
 0.0.0.0 www.advsmedia.com
@@ -18996,6 +19024,7 @@
 0.0.0.0 www.fakehub.com
 0.0.0.0 www.fastclick.net
 0.0.0.0 www.fbfd396918c60838.com
+0.0.0.0 www.fbookindia.com
 0.0.0.0 www.fbtsotbs.com
 0.0.0.0 www.ff81k.voluumtrk.com
 0.0.0.0 www.ffruntimechecker.com
@@ -19757,6 +19786,7 @@
 0.0.0.0 www.tv333.com
 0.0.0.0 www.tvpage.com
 0.0.0.0 www.tvpassport.com
+0.0.0.0 www.twfilnym.com
 0.0.0.0 www.twzfqxmt.com
 0.0.0.0 www.txwdabikzvw.com
 0.0.0.0 www.tzarmedia.com
