@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.04.091
-# Release: 091
-# Entries: 9,456
+# Version: 19.06.153
+# Release: 153
+# Entries: 9,458
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 01 Apr 19 23:26:29
+# Updated: Sun, 02 Jun 19 00:10:12
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -4717,6 +4717,7 @@
 0.0.0.0 jetstream.sonobi.com
 0.0.0.0 jidaigeki.durasite.net
 0.0.0.0 jimoty-d.openx.net
+0.0.0.0 jiotrack.jioconnect.com
 0.0.0.0 jira.blueconic.com
 0.0.0.0 jira.brightcove.com
 0.0.0.0 jira.office.comscore.com
@@ -6207,6 +6208,7 @@
 0.0.0.0 pc.ucweb.com
 0.0.0.0 pc.ushareit.com
 0.0.0.0 pc.wap.ucweb.com
+0.0.0.0 pcanalytics.jioconnect.com
 0.0.0.0 pcus.ucweb.com
 0.0.0.0 pd0-2.pix-geo.revsci.net
 0.0.0.0 pd0-adserver-spartan.revsci.net
