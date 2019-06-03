@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.06.153
-# Release: 153
-# Entries: 21,067
+# Version: 19.06.154
+# Release: 154
+# Entries: 21,099
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 02 Jun 19 00:10:12
+# Updated: Mon, 03 Jun 19 19:23:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -59,6 +59,7 @@
 0.0.0.0 04.video-ak.cdn.spotify.com
 0.0.0.0 05.video-ak.cdn.spotify.com
 0.0.0.0 06.video-ak.cdn.spotify.com
+0.0.0.0 06ac496437f1.com
 0.0.0.0 07.video-ak.cdn.spotify.com
 0.0.0.0 08.video-ak.cdn.spotify.com
 0.0.0.0 09.video-ak.cdn.spotify.com
@@ -249,6 +250,7 @@
 0.0.0.0 37.video-ak.cdn.spotify.com
 0.0.0.0 38.video-ak.cdn.spotify.com
 0.0.0.0 38389438.com
+0.0.0.0 38705edf42f16.com
 0.0.0.0 39.video-ak.cdn.spotify.com
 0.0.0.0 397c0.admaster.com.cn
 0.0.0.0 3a.video-ak.cdn.spotify.com
@@ -337,6 +339,7 @@
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 555.in.th
 0.0.0.0 56.video-ak.cdn.spotify.com
+0.0.0.0 564d28256cddaeba.com
 0.0.0.0 57368bd5d18.com
 0.0.0.0 578756.gameloft.com
 0.0.0.0 58coin.com
@@ -352,6 +355,7 @@
 0.0.0.0 6.adsco.re
 0.0.0.0 60.video-ak.cdn.spotify.com
 0.0.0.0 600z.com
+0.0.0.0 63fc818000.com
 0.0.0.0 64.myxmr.pw
 0.0.0.0 64.video-ak.cdn.spotify.com
 0.0.0.0 64uq73u7ug.webcam
@@ -461,6 +465,7 @@
 0.0.0.0 9appsmsg.las.uae.uc.cn
 0.0.0.0 9ata.ero-advertising.com
 0.0.0.0 9b.video-ak.cdn.spotify.com
+0.0.0.0 9b4c3c7ff0f.com
 0.0.0.0 9c.video-ak.cdn.spotify.com
 0.0.0.0 9d.video-ak.cdn.spotify.com
 0.0.0.0 9e.video-ak.cdn.spotify.com
@@ -522,6 +527,7 @@
 0.0.0.0 a.ns.ish.atdmt.com
 0.0.0.0 a.o333o.com
 0.0.0.0 a.pomf.cat
+0.0.0.0 a.postrelease.com
 0.0.0.0 a.pub.network
 0.0.0.0 a.qwertize.com
 0.0.0.0 a.r10.mopub.com
@@ -803,6 +809,7 @@
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net
 0.0.0.0 ad-sponsor.com
+0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-stat.ksosoft.com
 0.0.0.0 ad-stir.com
@@ -3167,6 +3174,7 @@
 0.0.0.0 adxtro.com
 0.0.0.0 adxvalue.com
 0.0.0.0 adyea.com
+0.0.0.0 adyield.co
 0.0.0.0 adyz.net
 0.0.0.0 adz.co.zw
 0.0.0.0 adz.mobi
@@ -3485,6 +3493,7 @@
 0.0.0.0 an-gb.adskeeper.co.uk
 0.0.0.0 an.adnxs.com
 0.0.0.0 an.batmobi.net
+0.0.0.0 an.facebook.com
 0.0.0.0 an.vporn.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 anahtars.com
@@ -5252,6 +5261,7 @@
 0.0.0.0 bsrmcgp7bbcpdky.ru
 0.0.0.0 bst.adsperf.com
 0.0.0.0 bsyauqwerd.party
+0.0.0.0 btbmztk8bnbrdrz.ru
 0.0.0.0 btcchina.com
 0.0.0.0 btcguild.com
 0.0.0.0 btcpay.clickaine.com
@@ -6372,6 +6382,7 @@
 0.0.0.0 com-http.us
 0.0.0.0 com-logs.services
 0.0.0.0 com-notice.info
+0.0.0.0 com-w.win
 0.0.0.0 com.au.re.getclicky.com
 0.0.0.0 com.re.getclicky.com
 0.0.0.0 com.ssl.re.getclicky.com
@@ -7151,6 +7162,7 @@
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 dfpa1te.thebestplayer.mobi
 0.0.0.0 dgad.ir
+0.0.0.0 dgeceaghdcaebegjacd.ru
 0.0.0.0 dghgutalvz.com
 0.0.0.0 dgmatix.com
 0.0.0.0 dgmaustralia.com
@@ -7551,6 +7563,7 @@
 0.0.0.0 e5460.g.akamaiedge.net
 0.0.0.0 e6.video-ak.cdn.spotify.com
 0.0.0.0 e6061780c064c.com
+0.0.0.0 e6466e58dc.com
 0.0.0.0 e6603.g.akamaiedge.net
 0.0.0.0 e7.video-ak.cdn.spotify.com
 0.0.0.0 e7081.g.akamaiedge.net
@@ -8036,6 +8049,7 @@
 0.0.0.0 f2.video-ak.cdn.spotify.com
 0.0.0.0 f2pool.com
 0.0.0.0 f3.video-ak.cdn.spotify.com
+0.0.0.0 f3c9986c7ff745.com
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f4.video-ak.cdn.spotify.com
 0.0.0.0 f5.video-ak.cdn.spotify.com
@@ -8469,6 +8483,7 @@
 0.0.0.0 fxt1.uc.cn
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 fyber.com
+0.0.0.0 fygotetwassla.info
 0.0.0.0 fzrqfakeaqikwm.com
 0.0.0.0 g-content.bid
 0.0.0.0 g.agkn.com
@@ -8954,6 +8969,7 @@
 0.0.0.0 gtsdk.batmobi.net
 0.0.0.0 gtsmobi.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
+0.0.0.0 gu-ru.net
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
@@ -10357,6 +10373,7 @@
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.mgid.com
 0.0.0.0 js.moatads.com
+0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 js.mobileoffers-bn-download.com
 0.0.0.0 js.mobileoffers-cb-download.com
 0.0.0.0 js.mtburn.com
@@ -11841,6 +11858,7 @@
 0.0.0.0 mmstat.ucweb.com
 0.0.0.0 mmsubtitles.co
 0.0.0.0 mmtro.com
+0.0.0.0 mnet-ad.net
 0.0.0.0 mnetads.com
 0.0.0.0 mng-ads.com
 0.0.0.0 mnmnnm.com
@@ -11923,6 +11941,7 @@
 0.0.0.0 mobilemusic.mobi
 0.0.0.0 mobileoffers-bj-download.com
 0.0.0.0 mobileoffers-bn-download.com
+0.0.0.0 mobileoffers-d-download.com
 0.0.0.0 mobileoffers-h-download.com
 0.0.0.0 mobileoffers.online
 0.0.0.0 mobilepay.it
@@ -15246,6 +15265,7 @@
 0.0.0.0 sickrage.ca
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sierra-boa.com
+0.0.0.0 sifuglie.com
 0.0.0.0 sifyimg.speedera.net
 0.0.0.0 sig.appsflyer.com
 0.0.0.0 sig.atdmt.com
@@ -18102,6 +18122,7 @@
 0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 v2.api.clickadu.com
 0.0.0.0 v2.clinkad.com
+0.0.0.0 v2.logger.pw
 0.0.0.0 v2.panel.clickadu.com
 0.0.0.0 v2cigs.com
 0.0.0.0 v2t5re6z.review
@@ -18217,6 +18238,7 @@
 0.0.0.0 vhosts-us-east.tapad.com
 0.0.0.0 vhosts-us-west.tapad.com
 0.0.0.0 vhosts.tapad.com
+0.0.0.0 vi-serve.com
 0.0.0.0 via.appia.com
 0.0.0.0 viabtc.com
 0.0.0.0 vianadserver.com
@@ -18227,6 +18249,7 @@
 0.0.0.0 vid.atdmt.com
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 vidcoin.com
+0.0.0.0 vidcpm.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-cdn.mgid.com
@@ -18418,6 +18441,7 @@
 0.0.0.0 w.myspicylinks.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 w.uptolike.com
+0.0.0.0 w.usabilla.com
 0.0.0.0 w.ushareit.com
 0.0.0.0 w.xvideos.by
 0.0.0.0 w00tmedia.net
@@ -18428,6 +18452,7 @@
 0.0.0.0 w55c.net
 0.0.0.0 w5statistics.info
 0.0.0.0 wa.appsflyer.com
+0.0.0.0 wachipho.net
 0.0.0.0 wafflepool.com
 0.0.0.0 wafmedia3.com
 0.0.0.0 wafra.adk2x.com
@@ -19131,6 +19156,7 @@
 0.0.0.0 www.allyoucan.it
 0.0.0.0 www.alphonso.tv
 0.0.0.0 www.amarktflow.com
+0.0.0.0 www.amazon.co.jp.com-w.win
 0.0.0.0 www.amazonco.uk
 0.0.0.0 www.ammadv.it
 0.0.0.0 www.amplitude.com
@@ -19782,6 +19808,7 @@
 0.0.0.0 www.kjsedplonmifbe.com
 0.0.0.0 www.kmspico.info
 0.0.0.0 www.koapkmobi.com
+0.0.0.0 www.kopimi.com
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
@@ -20100,6 +20127,7 @@
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qgbjchbl.com
 0.0.0.0 www.qksrv.net
+0.0.0.0 www.qmouzhzz.com
 0.0.0.0 www.qtgarolvaigptk.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
@@ -20441,6 +20469,7 @@
 0.0.0.0 www.twfilnym.com
 0.0.0.0 www.twzfqxmt.com
 0.0.0.0 www.txwdabikzvw.com
+0.0.0.0 www.tyllfqbmny.com
 0.0.0.0 www.typo3.ero-advertising.com
 0.0.0.0 www.tzarmedia.com
 0.0.0.0 www.ublock.org
@@ -20498,10 +20527,12 @@
 0.0.0.0 www.vop.it
 0.0.0.0 www.vosteran.com
 0.0.0.0 www.vosteransearch.com
+0.0.0.0 www.vptgnqpknpdyq.com
 0.0.0.0 www.vqnruxpecsn.com
 0.0.0.0 www.vrbatanalyzer.com
 0.0.0.0 www.vrl.m.conviva.com
 0.0.0.0 www.vt-rbs.com
+0.0.0.0 www.vulbyhxsrxcdgo.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.vvvvid.it
 0.0.0.0 www.vyprcnoverthewall.com
@@ -20902,6 +20933,7 @@
 0.0.0.0 yesads.com
 0.0.0.0 yesadsrv.com
 0.0.0.0 yesadvertising.com
+0.0.0.0 yesra.xyz
 0.0.0.0 yesshift.com
 0.0.0.0 yhdichan.com
 0.0.0.0 yhyxopmgofz.com
