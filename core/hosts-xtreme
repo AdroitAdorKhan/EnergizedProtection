@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.06.174
-# Release: 174
-# Entries: 9,620
+# Version: 19.06.175
+# Release: 175
+# Entries: 9,632
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 23 Jun 19 00:09:14
+# Updated: Mon, 24 Jun 19 16:14:11
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -870,6 +870,7 @@
 0.0.0.0 adservice.google.vu
 0.0.0.0 adservice.google.ws
 0.0.0.0 adservices.google.com
+0.0.0.0 adshares.net
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsmanager.truecaller.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -1217,7 +1218,6 @@
 0.0.0.0 api-doc.adtechus.com
 0.0.0.0 api-eu.adsymptotic.com
 0.0.0.0 api-eu.gameanalytics.com
-0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-internal-us-east-1.mathtag.com
 0.0.0.0 api-lb.vungle.com
 0.0.0.0 api-lb3-vip0.eu.adsymptotic.com
@@ -1899,6 +1899,7 @@
 0.0.0.0 blackvps.bango.net
 0.0.0.0 blingee.crwdcntrl.net
 0.0.0.0 blinkxevent.1rx.io
+0.0.0.0 blockexplorer.adshares.net
 0.0.0.0 blog.33across.com
 0.0.0.0 blog.a-ads.com
 0.0.0.0 blog.addthis.com
@@ -3546,6 +3547,7 @@
 0.0.0.0 fairfaxau.demdex.net
 0.0.0.0 falabella.demdex.net
 0.0.0.0 falk.speedera.net
+0.0.0.0 famous.netaffs.in
 0.0.0.0 fanpop.tags.crwdcntrl.net
 0.0.0.0 fansites.tags.crwdcntrl.net
 0.0.0.0 faq.algolia.com
@@ -3772,6 +3774,7 @@
 0.0.0.0 funky.staging.intercom.io
 0.0.0.0 funtime.ucweb.com
 0.0.0.0 fusionreactions.com.re.getclicky.com
+0.0.0.0 future.netaffs.in
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.moatads.com
 0.0.0.0 fwapi.adsafeprotected.com
@@ -3864,6 +3867,7 @@
 0.0.0.0 gdpr.algolia.com
 0.0.0.0 gdpr.branch.io
 0.0.0.0 gem.criteo.com
+0.0.0.0 genesis.adshares.net
 0.0.0.0 geneva.nexage.com
 0.0.0.0 genieessp.com
 0.0.0.0 genxpeoplemeet.adlegend.com
@@ -4263,6 +4267,7 @@
 0.0.0.0 ibn.adreach.co
 0.0.0.0 iciciprulife.demdex.net
 0.0.0.0 icloud.cominit.itunes.apple.com
+0.0.0.0 ico.adshares.net
 0.0.0.0 icon.chartboost.com
 0.0.0.0 icontent.us
 0.0.0.0 id-ext-tf.rlcdn.com
@@ -4876,6 +4881,7 @@
 0.0.0.0 kb.criteo.com
 0.0.0.0 kb.cuebiq.com
 0.0.0.0 kds.ero-advertising.com
+0.0.0.0 keep.netaffs.in
 0.0.0.0 keymaker-alpha.go.sonobi.com
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keyword.ad.daum.net
@@ -6035,6 +6041,7 @@
 0.0.0.0 odr.mookie1.com
 0.0.0.0 oem.inmobi.com
 0.0.0.0 oembed.brightcove.com
+0.0.0.0 offer.netaffs.in
 0.0.0.0 offers.appnext.com
 0.0.0.0 offlineattrib.adsrvr.org
 0.0.0.0 ogma.iad.appboy.com
@@ -6057,6 +6064,7 @@
 0.0.0.0 oo.moatads.com
 0.0.0.0 ookla-d.openx.net
 0.0.0.0 op-s.storage.googleapis.com
+0.0.0.0 open.netaffs.in
 0.0.0.0 open.oneplus.net
 0.0.0.0 open.spotify.com
 0.0.0.0 open.taobao.com
@@ -6510,6 +6518,7 @@
 0.0.0.0 pmir.sec.miui.com
 0.0.0.0 pncbank.demdex.net
 0.0.0.0 pnsen.dolphin-browser.com
+0.0.0.0 point.netaffs.in
 0.0.0.0 pointroll.speedera.net
 0.0.0.0 polyverse.safegraph.com
 0.0.0.0 pong.typekit.net
@@ -8191,6 +8200,7 @@
 0.0.0.0 tempevpn.brightcove.com
 0.0.0.0 templates.avocarrot.com
 0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 tendency.netaffs.in
 0.0.0.0 teratail.storage.googleapis.com
 0.0.0.0 terraform-modules-test.intercom.io
 0.0.0.0 test-admin.flurry.com
@@ -8468,6 +8478,7 @@
 0.0.0.0 traveldetail.taobao.com
 0.0.0.0 trc.kissmetrics.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 treat.netaffs.in
 0.0.0.0 trends.spylog.ru
 0.0.0.0 trends.taboola.com
 0.0.0.0 trial.api.huangye.miui.com
@@ -9061,6 +9072,7 @@
 0.0.0.0 web016.apsalar.com
 0.0.0.0 web017.apsalar.com
 0.0.0.0 web123.tns-counter.ru
+0.0.0.0 web3.adshares.net
 0.0.0.0 webanalytics.btelligent.net
 0.0.0.0 webanalytics.crownpeak.com.re.getclicky.com
 0.0.0.0 webanalytics.localytics.com
@@ -9117,7 +9129,6 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.eu.criteo.com
 0.0.0.0 widget.fr.eu.criteo.com
-0.0.0.0 widget.intercom.io
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widgetprovider.daum.net
@@ -9443,6 +9454,7 @@
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.mycomscore.net
 0.0.0.0 www.naiadsystems.com
+0.0.0.0 www.netaffs.in
 0.0.0.0 www.newrelic.com
 0.0.0.0 www.nexac.com
 0.0.0.0 www.nexage.com
