@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.06.179
-# Release: 179
-# Entries: 9,636
+# Version: 19.07.183
+# Release: 183
+# Entries: 9,672
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Jun 19 15:17:53
+# Updated: Tue, 02 Jul 19 00:48:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -195,6 +195,7 @@
 0.0.0.0 a.cricbuzz.com
 0.0.0.0 a.dlx.addthis.com
 0.0.0.0 a.ero-advertising.com
+0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.ia1.scorecardresearch.com
 0.0.0.0 a.jumptap.com
 0.0.0.0 a.localytics.com
@@ -589,6 +590,7 @@
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads.criteo.com
 0.0.0.0 ads.eu.criteo.com
+0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.eyeviewads.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.genieessp.com
@@ -933,6 +935,7 @@
 0.0.0.0 adx.winners.us-east-1.rtb.adroll.com
 0.0.0.0 adx2.adform.net
 0.0.0.0 adx3.adform.net
+0.0.0.0 adzerk.net
 0.0.0.0 ae-gb.adskeeper.co.uk
 0.0.0.0 ae.pubmatic.com
 0.0.0.0 ae22000.pubmatic.com
@@ -1045,6 +1048,7 @@
 0.0.0.0 ameriprisefinancialinc.demdex.net
 0.0.0.0 amidt.adsafeprotected.com
 0.0.0.0 amn.doubleclick.net
+0.0.0.0 amp.adzerk.net
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 amp.localytics.com
 0.0.0.0 amplify-imp.outbrain.com
@@ -1470,6 +1474,7 @@
 0.0.0.0 appload.ingest.eu.crittercism.com
 0.0.0.0 applog.musical.ly
 0.0.0.0 applog.uc.cn
+0.0.0.0 applog.ucdns.uc.cn
 0.0.0.0 applytics.nordvpn.com
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appnexus-bkapp.bluekai.com
@@ -2214,6 +2219,7 @@
 0.0.0.0 cdn-static.liverail.com
 0.0.0.0 cdn-store-tsutaya-tsite-jp.durasite.net
 0.0.0.0 cdn-t.amazon-adsystem.com
+0.0.0.0 cdn-test.wshareit.com
 0.0.0.0 cdn-top-tsite.durasite.net
 0.0.0.0 cdn-traffic-director.krxd.net
 0.0.0.0 cdn-wimg-jp.durasite.net
@@ -2342,6 +2348,7 @@
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 cf.addthis.com
 0.0.0.0 cf.cdn.inmobi.com
+0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 cf.ushareit.com
 0.0.0.0 cfg.flurry.com
 0.0.0.0 cfile207.uf.daum.net
@@ -2488,6 +2495,7 @@
 0.0.0.0 cmap.rm.ace.advertising.com
 0.0.0.0 cmap.uac.ace.advertising.com
 0.0.0.0 cmcrash.ucweb.com
+0.0.0.0 cmd.hermes.wshareit.com
 0.0.0.0 cmi.flurry.com
 0.0.0.0 cmp.adreach.co
 0.0.0.0 cmp.advertising.com
@@ -2718,6 +2726,7 @@
 0.0.0.0 creatives.appia.com
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 credits.ushareit.com
+0.0.0.0 cricket-img.wshareit.com
 0.0.0.0 criteo.com
 0.0.0.0 crittercism.com
 0.0.0.0 crl.microsoft.com
@@ -2983,6 +2992,7 @@
 0.0.0.0 detail.taobao.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 deutschebahn.demdex.net
+0.0.0.0 dev-api.wshareit.com
 0.0.0.0 dev-azure.ixiaa.com
 0.0.0.0 dev-kraken03.wdc.bluekai.com
 0.0.0.0 dev.accountkit.com
@@ -3089,6 +3099,7 @@
 0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 dl.appnext.com
 0.0.0.0 dl.cm.sec.miui.com
+0.0.0.0 dl.files.wshareit.com
 0.0.0.0 dl.inmobi.com
 0.0.0.0 dl2.pushbulletusercontent.com
 0.0.0.0 dlied1.qq.com
@@ -3520,6 +3531,7 @@
 0.0.0.0 exchange.comscore.com
 0.0.0.0 exchange.corp.appnexus.com
 0.0.0.0 excointouch.airbrake.io
+0.0.0.0 exdynsrv.com
 0.0.0.0 exelator.com
 0.0.0.0 exercially.mobi
 0.0.0.0 exnjadgda1.doubleclick.net
@@ -3596,6 +3608,8 @@
 0.0.0.0 feed.taboola.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedads.googleadservices.com
+0.0.0.0 feedback-api-dev.wshareit.com
+0.0.0.0 feedback-api.wshareit.com
 0.0.0.0 feedback.adform.com
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedback.adroll.com
@@ -3829,6 +3843,7 @@
 0.0.0.0 gce-jp.bidswitch.net
 0.0.0.0 gce-or.bidswitch.net
 0.0.0.0 gce-sc.bidswitch.net
+0.0.0.0 gcm-dev.wshareit.com
 0.0.0.0 gcm-http.googleapis.com
 0.0.0.0 gcm.googleapis.com
 0.0.0.0 gcm.ushareit.com
@@ -4075,6 +4090,8 @@
 0.0.0.0 h5.app.intl.miui.com
 0.0.0.0 h5.m.taobao.com
 0.0.0.0 h5.mall.wshareit.com
+0.0.0.0 h5.share.wshareit.com
+0.0.0.0 h5.share2.wshareit.com
 0.0.0.0 h5api.m.taobao.com
 0.0.0.0 hackathon.localytics.com
 0.0.0.0 hacks.chartbeat.com
@@ -4163,6 +4180,7 @@
 0.0.0.0 hnsearch.algolia.com
 0.0.0.0 hoag.iad.appboy.com
 0.0.0.0 hochishimbun-d.openx.net
+0.0.0.0 holmeshelp.uc.cn
 0.0.0.0 holmeshelp.ucweb.com
 0.0.0.0 homedepot.demdex.net
 0.0.0.0 homeeondemand.count.ly
@@ -4555,6 +4573,7 @@
 0.0.0.0 imces.vip.lhr1.inmobi.com
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 ime.api.xiaomi.com
+0.0.0.0 img-cdn.wshareit.com
 0.0.0.0 img-ecmax.durasite.net
 0.0.0.0 img-fashion-dmkt-sp.durasite.net
 0.0.0.0 img-fujisan.durasite.net
@@ -5467,6 +5486,7 @@
 0.0.0.0 mail2.daum.net
 0.0.0.0 mailrelay.atl1.turn.com
 0.0.0.0 main.atdmt.com
+0.0.0.0 main.exdynsrv.com
 0.0.0.0 main.exoclick.com
 0.0.0.0 maintenance.criteo.com
 0.0.0.0 maintenance.flurry.com
@@ -5732,6 +5752,7 @@
 0.0.0.0 mp.rlcdn.com
 0.0.0.0 mp.rubiconproject.com
 0.0.0.0 mp.uc.cn
+0.0.0.0 mp.wshareit.com
 0.0.0.0 mparticle.uc.cn
 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mpb-winners-us-east-1-rtb.adroll.com
@@ -6047,6 +6068,7 @@
 0.0.0.0 oembed.brightcove.com
 0.0.0.0 offer.netaffs.in
 0.0.0.0 offers.appnext.com
+0.0.0.0 offline-video-cdn.wshareit.com
 0.0.0.0 offlineattrib.adsrvr.org
 0.0.0.0 ogma.iad.appboy.com
 0.0.0.0 oh.tags.crwdcntrl.net
@@ -6141,6 +6163,7 @@
 0.0.0.0 oregon.nmn.speedera.net
 0.0.0.0 org-www-mbs.durasite.net
 0.0.0.0 orientation.internal.intercom.io
+0.0.0.0 origin-ads.exdynsrv.com
 0.0.0.0 origin-dax-files.comscore.com
 0.0.0.0 origin-dax.comscore.com
 0.0.0.0 origin-stage-app.scorecardresearch.com
@@ -6576,6 +6599,7 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid.aws.rubiconproject.com
 0.0.0.0 preferences.crwdcntrl.net
+0.0.0.0 preitem.wshareit.com
 0.0.0.0 preplbslog.umeng.com
 0.0.0.0 presence.facebook.net
 0.0.0.0 presentation-ams1.turn.com
@@ -6726,6 +6750,7 @@
 0.0.0.0 purch-sync.go.sonobi.com
 0.0.0.0 purch.demand.go.sonobi.com
 0.0.0.0 purch.sync.go.sonobi.com
+0.0.0.0 push-cdn.wshareit.com
 0.0.0.0 push.clickadilla.com
 0.0.0.0 push.maribacaberita.com
 0.0.0.0 push.umeng.com
@@ -7091,6 +7116,7 @@
 0.0.0.0 s.update.spotxchange.com
 0.0.0.0 s.update.tidaltv.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
+0.0.0.0 s.wshareit.com
 0.0.0.0 s.zdbb.net
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
@@ -7504,6 +7530,7 @@
 0.0.0.0 slient.ucdl.pp.uc.cn
 0.0.0.0 slinks.yadro.ru
 0.0.0.0 slot.union.ucweb.com
+0.0.0.0 sls-api.wshareit.com
 0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 smadvantage.demdex.net
 0.0.0.0 smail.umeng.com
@@ -7660,6 +7687,7 @@
 0.0.0.0 ssw.live.com
 0.0.0.0 st.ixiaa.com
 0.0.0.0 st.ushareit.com
+0.0.0.0 st.wshareit.com
 0.0.0.0 st2poc.algolia.com
 0.0.0.0 staffpicks.outbrain.com
 0.0.0.0 stage-a-usa.applovin.com
@@ -7709,6 +7737,7 @@
 0.0.0.0 staging2.crazyegg.com
 0.0.0.0 staging2.flyers.wishabi.com
 0.0.0.0 stags.bluekai.com
+0.0.0.0 star.c10r.facebook.com
 0.0.0.0 starbucks.demdex.net
 0.0.0.0 starfish.pandora.xiaomi.com
 0.0.0.0 start.adrecover.com
@@ -7773,6 +7802,7 @@
 0.0.0.0 static.criteo.com
 0.0.0.0 static.cuebiq.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.exdynsrv.com
 0.0.0.0 static.exelator.com
 0.0.0.0 static.eyeviewads.com
 0.0.0.0 static.firebase.com
@@ -8074,6 +8104,7 @@
 0.0.0.0 syncle.airbrake.io
 0.0.0.0 synd.cricbuzz.com
 0.0.0.0 syndication.contentabc.com
+0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 synthetics-horde.nr-data.net
 0.0.0.0 synthetics.newrelic.com
@@ -8895,6 +8926,7 @@
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-ak.cdn.spotify.com
 0.0.0.0 video-assets.mathtag.com
+0.0.0.0 video-cdn.wshareit.com
 0.0.0.0 video-demo.appnexus.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video-tv-tokyo.durasite.net
@@ -8985,6 +9017,8 @@
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrt-nydc1-only.outbrain.com
 0.0.0.0 vrt.outbrain.com
+0.0.0.0 vs-api.wshareit.com
+0.0.0.0 vs.wshareit.com
 0.0.0.0 vs26.szcm.u3.ucweb.com
 0.0.0.0 vs9.bj.u3.ucweb.com
 0.0.0.0 vstatic.fastclick.net
@@ -9060,6 +9094,7 @@
 0.0.0.0 web.appbrain.com
 0.0.0.0 web.bango.net
 0.0.0.0 web.localytics.com
+0.0.0.0 web.mp.wshareit.com
 0.0.0.0 web.polarmobile.com
 0.0.0.0 web.umeng.com
 0.0.0.0 web.ushareit.com
@@ -9294,6 +9329,7 @@
 0.0.0.0 www.advertising.com
 0.0.0.0 www.advertserve.com
 0.0.0.0 www.adwords.google.lloymlincs.com
+0.0.0.0 www.adzerk.net
 0.0.0.0 www.agkn.com
 0.0.0.0 www.aidps.atdmt.com
 0.0.0.0 www.airbrake.io
