@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.183
-# Release: 183
-# Entries: 22,219
+# Version: 19.07.193
+# Release: 193
+# Entries: 22,263
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 02 Jul 19 14:46:28
+# Updated: Fri, 12 Jul 19 16:53:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -457,6 +457,7 @@
 0.0.0.0 85.video-ak.cdn.spotify.com
 0.0.0.0 852.im
 0.0.0.0 86.video-ak.cdn.spotify.com
+0.0.0.0 86a6b542l7.com
 0.0.0.0 87.video-ak.cdn.spotify.com
 0.0.0.0 8758d547dc40.com
 0.0.0.0 87lcn.voluumtrk.com
@@ -1877,6 +1878,7 @@
 0.0.0.0 ads.adiquity.com
 0.0.0.0 ads.adjust-net.jp
 0.0.0.0 ads.adk2x.com
+0.0.0.0 ads.adlook.me
 0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.administrator.de
 0.0.0.0 ads.admized.com
@@ -3304,6 +3306,7 @@
 0.0.0.0 ae.gsecondscreen.com
 0.0.0.0 ae.video-ak.cdn.spotify.com
 0.0.0.0 ae1a1e258b8b016.com
+0.0.0.0 ae25079147984d4d.com
 0.0.0.0 ae330a9aaf74ca9fb97bccc01339ba7a.adk2.co
 0.0.0.0 ae82465c7e.com
 0.0.0.0 aeckcjy.com
@@ -4292,6 +4295,7 @@
 0.0.0.0 arizona-miner.tk
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arkonziv.com
+0.0.0.0 armoneandwa.pro
 0.0.0.0 armuchteetthat.info
 0.0.0.0 arouersobesite.free.fr
 0.0.0.0 arrassley.info
@@ -4413,6 +4417,7 @@
 0.0.0.0 atti.velti.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 attribution.snapads.com
+0.0.0.0 atugtinidhers.info
 0.0.0.0 atwola.com
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 au.apk.umeng.com
@@ -4579,6 +4584,7 @@
 0.0.0.0 bacr.com.pk
 0.0.0.0 badboys.network
 0.0.0.0 badjocks.com
+0.0.0.0 badsbads.com
 0.0.0.0 badtopwitch.work
 0.0.0.0 baidu-pc-faster.en.softonic.com
 0.0.0.0 baidu-spark-browser.en.softonic.com
@@ -5010,6 +5016,7 @@
 0.0.0.0 beta.trafficjunky.net
 0.0.0.0 beta.trafficshop.com
 0.0.0.0 beta.umeng.com
+0.0.0.0 betonethathadfa.pro
 0.0.0.0 betpartners.it
 0.0.0.0 betpromo247.com
 0.0.0.0 betrad.com
@@ -5850,6 +5857,7 @@
 0.0.0.0 cdn.adk2.co
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adk2x.com
+0.0.0.0 cdn.adlook.me
 0.0.0.0 cdn.admixer.net
 0.0.0.0 cdn.adnuntius.com
 0.0.0.0 cdn.adnxs.com
@@ -6214,6 +6222,7 @@
 0.0.0.0 cityadspix.com
 0.0.0.0 citygrid.com
 0.0.0.0 citylukup.com
+0.0.0.0 ciyrc.watchmovie.fun
 0.0.0.0 cj.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cjcrypto.agency
@@ -8059,6 +8068,7 @@
 0.0.0.0 ee02hmq.advertising.com
 0.0.0.0 ee12gp4.advertising.com
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adk2.co
+0.0.0.0 eebfffjegjajjiacaci.ru
 0.0.0.0 eedclicks.ero-advertising.com
 0.0.0.0 eeduelements.com
 0.0.0.0 eeopet.site
@@ -8580,6 +8590,7 @@
 0.0.0.0 feedzpipe.com
 0.0.0.0 feesocrald.com
 0.0.0.0 feewoajy.net
+0.0.0.0 fehxium0bgdhrdr.ru
 0.0.0.0 felinetech.net
 0.0.0.0 feljack.com
 0.0.0.0 fenixm.com
@@ -9330,6 +9341,7 @@
 0.0.0.0 goto.algolia.com
 0.0.0.0 gotoip55.com
 0.0.0.0 gototrk.com
+0.0.0.0 gotpeuttoldan.info
 0.0.0.0 gounlimited.to
 0.0.0.0 gourmetads.com
 0.0.0.0 gouwu.uc123.com
@@ -9492,6 +9504,7 @@
 0.0.0.0 handleteeth.com
 0.0.0.0 handyfield.com
 0.0.0.0 hang-reports.mozilla.org
+0.0.0.0 hanhertigepar.pro
 0.0.0.0 hantinlethemsed.info
 0.0.0.0 hao.uc.cn
 0.0.0.0 hao123.com
@@ -9584,6 +9597,7 @@
 0.0.0.0 hebiichigo.com
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hecrowcati.info
+0.0.0.0 hegarberetrof.pro
 0.0.0.0 hegrinhar.com
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 heias.com
@@ -10493,6 +10507,7 @@
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingestion.api.brightcove.com
+0.0.0.0 ingofcaloftnei.info
 0.0.0.0 ingorob.com
 0.0.0.0 ininmacerad.pro
 0.0.0.0 init-latency-test.supersonicads.com
@@ -11132,6 +11147,7 @@
 0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 l33tsite.info
 0.0.0.0 l3op.info
+0.0.0.0 l6b587txj1.com
 0.0.0.0 la-api.open.uc.cn
 0.0.0.0 la-la-moon.com
 0.0.0.0 la-la-sf.com
@@ -11639,6 +11655,7 @@
 0.0.0.0 m1.deihhhgbiegcjiacacc.ru
 0.0.0.0 m1.dk.2mdn.net
 0.0.0.0 m1.doubleclick.net
+0.0.0.0 m1.eebfffjegjajjiacaci.ru
 0.0.0.0 m1.emea.2mdn.net
 0.0.0.0 m1.emea.2mdn.net.edgesuite.net
 0.0.0.0 m1.es.2mdn.net
@@ -11673,6 +11690,7 @@
 0.0.0.0 m2.de.2mdn.net
 0.0.0.0 m2.dk.2mdn.net
 0.0.0.0 m2.doubleclick.net
+0.0.0.0 m2.eebfffjegjajjiacaci.ru
 0.0.0.0 m2.es.2mdn.net
 0.0.0.0 m2.fi.2mdn.net
 0.0.0.0 m2.fr.2mdn.net
@@ -11707,6 +11725,7 @@
 0.0.0.0 m3.deihhhgbiegcjiacacc.ru
 0.0.0.0 m3.dk.2mdn.net
 0.0.0.0 m3.doubleclick.net
+0.0.0.0 m3.eebfffjegjajjiacaci.ru
 0.0.0.0 m3.es.2mdn.net
 0.0.0.0 m3.fi.2mdn.net
 0.0.0.0 m3.fr.2mdn.net
@@ -11942,6 +11961,7 @@
 0.0.0.0 manage.smartclick.net
 0.0.0.0 management-api.agkn.com
 0.0.0.0 management.exoclick.com
+0.0.0.0 mancegrative.info
 0.0.0.0 manifest.localytics.com
 0.0.0.0 manual-img.ads.noticel.com
 0.0.0.0 manzile.com
@@ -11999,6 +12019,7 @@
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathtag.com
 0.0.0.0 matiro.com
+0.0.0.0 matomo.hellohi.me
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
 0.0.0.0 maudau.com
@@ -13426,10 +13447,12 @@
 0.0.0.0 onwardinated.com
 0.0.0.0 onyemantee.pro
 0.0.0.0 oo000oo.me
+0.0.0.0 oodraune.com
 0.0.0.0 oore.com
 0.0.0.0 oorseest.net
 0.0.0.0 oos4l.com
 0.0.0.0 oovvuu.com
+0.0.0.0 oozrsmpieq.com
 0.0.0.0 op.skimresources.com
 0.0.0.0 opads.ero-advertising.com
 0.0.0.0 opanw.com
@@ -13727,6 +13750,7 @@
 0.0.0.0 p273214.clksite.com
 0.0.0.0 p273295.cdaz.icu
 0.0.0.0 p273295.clksite.com
+0.0.0.0 p274879.cdaz.icu
 0.0.0.0 p274879.clksite.com
 0.0.0.0 p275820.clksite.com
 0.0.0.0 p276234.cdaz.icu
@@ -14100,6 +14124,7 @@
 0.0.0.0 phpmyadmin.ero-advertising.com
 0.0.0.0 phpmyadmin.js.ero-advertising.com
 0.0.0.0 phpmyvisites.net
+0.0.0.0 phudrour.net
 0.0.0.0 phunware.com
 0.0.0.0 pi-ads.appia.com
 0.0.0.0 pialaqq.com
@@ -14538,6 +14563,7 @@
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
 0.0.0.0 power.tainiesonline.pw
+0.0.0.0 power.vuer.net
 0.0.0.0 poweradvertising.co.uk
 0.0.0.0 powerflashlight2019.s.xoxknct.com
 0.0.0.0 powerlinks.com
@@ -14790,6 +14816,7 @@
 0.0.0.0 publisherhub.plaimedia.com
 0.0.0.0 publishers.adbuddiz.com
 0.0.0.0 publishers.adform.com
+0.0.0.0 publishers.adlook.me
 0.0.0.0 publishers.propellerads.com
 0.0.0.0 publishing.kaloo.ga
 0.0.0.0 publited.com
@@ -15584,6 +15611,7 @@
 0.0.0.0 runmewivel.com
 0.0.0.0 runwtxeisppmt.com
 0.0.0.0 rupool.tk
+0.0.0.0 rusinlepading.pro
 0.0.0.0 rutrk.org
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rva.outbrain.com
@@ -16581,6 +16609,7 @@
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 ssp.adacts.com
 0.0.0.0 ssp.adinch.com
+0.0.0.0 ssp.adlook.me
 0.0.0.0 ssp.clickadu.com
 0.0.0.0 ssp.face2trade.com
 0.0.0.0 ssp.rambler.ru
@@ -16670,6 +16699,7 @@
 0.0.0.0 startyourjourney.online
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat-c.maxthon.com
+0.0.0.0 stat.adlook.me
 0.0.0.0 stat.biqle.ru
 0.0.0.0 stat.bugaboo.tv
 0.0.0.0 stat.cliche.se
@@ -17332,6 +17362,7 @@
 0.0.0.0 tdn.r42tag.com
 0.0.0.0 tds.anews.today
 0.0.0.0 tds.catad.org
+0.0.0.0 tdsshark.club
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 teads.tv
 0.0.0.0 tealand.cmcm.com
@@ -17339,6 +17370,7 @@
 0.0.0.0 teaser.reklamaizer.ru
 0.0.0.0 teasernet.com
 0.0.0.0 tec-tec-boom.com
+0.0.0.0 tech.game-bonuses.club
 0.0.0.0 techblog.outbrain.com
 0.0.0.0 techclicks.net
 0.0.0.0 techexpertsolution.com
@@ -17361,6 +17393,7 @@
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telecomunicate.com
+0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.appex.bing.net
@@ -17635,6 +17668,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-miningpool.eu
 0.0.0.0 top-site-list.com
+0.0.0.0 top.game-bonuses.club
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top.proext.com
@@ -18439,6 +18473,7 @@
 0.0.0.0 traffic-sharing.com
 0.0.0.0 traffic-supremacy.com
 0.0.0.0 traffic.ad4game.com
+0.0.0.0 traffic.adlook.me
 0.0.0.0 traffic.admvncln.com
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.adxprtz.com
@@ -18904,6 +18939,7 @@
 0.0.0.0 unconf.adkmob.com
 0.0.0.0 underclick.ru
 0.0.0.0 undmathenhem.info
+0.0.0.0 undratheshecken.pro
 0.0.0.0 unet.ucweb.com
 0.0.0.0 ungstlateriag.club
 0.0.0.0 unicast.com
@@ -19406,6 +19442,7 @@
 0.0.0.0 vrl.m.conviva.com
 0.0.0.0 vrpawmybyxkbraect.com
 0.0.0.0 vrs.cz
+0.0.0.0 vrviral.xyz
 0.0.0.0 vs-api.wshareit.com
 0.0.0.0 vs.tucows.com
 0.0.0.0 vs.wshareit.com
@@ -20084,6 +20121,7 @@
 0.0.0.0 www.adjust.com
 0.0.0.0 www.adk2x.com
 0.0.0.0 www.adlmerge.com
+0.0.0.0 www.adlook.me
 0.0.0.0 www.admantx.com
 0.0.0.0 www.admob.com
 0.0.0.0 www.admvncln.com
@@ -21079,6 +21117,7 @@
 0.0.0.0 www.onscroll.com
 0.0.0.0 www.ootqfqjhzfrtn.com
 0.0.0.0 www.oovvuu.com
+0.0.0.0 www.oozrsmpieq.com
 0.0.0.0 www.opads.ero-advertising.com
 0.0.0.0 www.opencache.com
 0.0.0.0 www.opps.taboola.com
@@ -21126,6 +21165,7 @@
 0.0.0.0 www.phpmyadmin.ads.ero-advertising.com
 0.0.0.0 www.phpmyadmin.ero-advertising.com
 0.0.0.0 www.phpmyadmin.js.ero-advertising.com
+0.0.0.0 www.picsunday.com
 0.0.0.0 www.piwik.adspaces.ero-advertising.com
 0.0.0.0 www.piwik.ero-advertising.com
 0.0.0.0 www.pjatr.com
@@ -21381,6 +21421,7 @@
 0.0.0.0 www.speeuclicks.ero-advertising.com
 0.0.0.0 www.spm.it
 0.0.0.0 www.sponsorpay.com
+0.0.0.0 www.spool.site
 0.0.0.0 www.sportsinteraction.com
 0.0.0.0 www.sportyplay.com
 0.0.0.0 www.spotx.tv
@@ -21713,6 +21754,7 @@
 0.0.0.0 www.wzfoygianhe.com
 0.0.0.0 www.wzismevwhqixlq.com
 0.0.0.0 www.wzrkt.com
+0.0.0.0 www.xawpdwil.com
 0.0.0.0 www.xbtitfm.com
 0.0.0.0 www.xbzakxofyhdy.com
 0.0.0.0 www.xdadevelopers.browsi.mobi
@@ -21837,6 +21879,7 @@
 0.0.0.0 xapi.apk.v-mate.mobi
 0.0.0.0 xapi.juicyads.com
 0.0.0.0 xapnrbvpb.com
+0.0.0.0 xawpdwil.com
 0.0.0.0 xaxoro.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xbc8fsvo5w75wwx8.pro
@@ -22113,6 +22156,7 @@
 0.0.0.0 yourprivacy.icu
 0.0.0.0 yourquickads.com
 0.0.0.0 youshouldclick.us
+0.0.0.0 youtube.adlook.me
 0.0.0.0 yoxrhwtvyqt.com
 0.0.0.0 ypool.net
 0.0.0.0 yqaywudifu.date
