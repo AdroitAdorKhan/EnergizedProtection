@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.193
-# Release: 193
-# Entries: 22,263
+# Version: 19.07.198
+# Release: 198
+# Entries: 22,289
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 12 Jul 19 16:53:28
+# Updated: Wed, 17 Jul 19 17:27:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -59,6 +59,7 @@
 0.0.0.0 04.video-ak.cdn.spotify.com
 0.0.0.0 05.video-ak.cdn.spotify.com
 0.0.0.0 06.video-ak.cdn.spotify.com
+0.0.0.0 065fa80c32780.com
 0.0.0.0 06ac496437f1.com
 0.0.0.0 07.video-ak.cdn.spotify.com
 0.0.0.0 08.video-ak.cdn.spotify.com
@@ -357,6 +358,7 @@
 0.0.0.0 51yes.com
 0.0.0.0 52.video-ak.cdn.spotify.com
 0.0.0.0 53.video-ak.cdn.spotify.com
+0.0.0.0 53285fd93d0d.com
 0.0.0.0 54.video-ak.cdn.spotify.com
 0.0.0.0 5483bbc5758.com
 0.0.0.0 55.video-ak.cdn.spotify.com
@@ -505,6 +507,7 @@
 0.0.0.0 99.video-ak.cdn.spotify.com
 0.0.0.0 9969887e14d8dda1061497d244865b17.adk2.co
 0.0.0.0 99count.com
+0.0.0.0 99ea586436.com
 0.0.0.0 99miners.com
 0.0.0.0 9a.video-ak.cdn.spotify.com
 0.0.0.0 9anime.cc
@@ -3310,6 +3313,7 @@
 0.0.0.0 ae330a9aaf74ca9fb97bccc01339ba7a.adk2.co
 0.0.0.0 ae82465c7e.com
 0.0.0.0 aeckcjy.com
+0.0.0.0 aef1a599af1af4.com
 0.0.0.0 aejtg.voluumtrk.com
 0.0.0.0 aeon-pool.com
 0.0.0.0 aeonhash.com
@@ -4585,6 +4589,7 @@
 0.0.0.0 badboys.network
 0.0.0.0 badjocks.com
 0.0.0.0 badsbads.com
+0.0.0.0 badshades.com
 0.0.0.0 badtopwitch.work
 0.0.0.0 baidu-pc-faster.en.softonic.com
 0.0.0.0 baidu-spark-browser.en.softonic.com
@@ -7106,6 +7111,7 @@
 0.0.0.0 d12tludofq8d6y.cloudfront.net
 0.0.0.0 d12zo0ppztbcf.cloudfront.net
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
+0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
@@ -7269,6 +7275,7 @@
 0.0.0.0 dc.railgun.works
 0.0.0.0 dc.video-ak.cdn.spotify.com
 0.0.0.0 dc.webtrends.com
+0.0.0.0 dc8631c7d38.com
 0.0.0.0 dca.ads.nexage.com
 0.0.0.0 dca.as.nexage.com
 0.0.0.0 dcfe924a8f9a1.com
@@ -8058,6 +8065,7 @@
 0.0.0.0 edgecast-test.ora.tv
 0.0.0.0 edgeio.com
 0.0.0.0 edgy.inmobi.com
+0.0.0.0 edlkfue8flzpivh.ru
 0.0.0.0 ednplus.com
 0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 ee.video-ak.cdn.spotify.com
@@ -8078,6 +8086,7 @@
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 efficaciouscactus.com
+0.0.0.0 efhabjaabgfbbegjacj.ru
 0.0.0.0 egamingonline.com
 0.0.0.0 egopastor.biz
 0.0.0.0 egschool.org
@@ -9408,12 +9417,14 @@
 0.0.0.0 groovinads.com
 0.0.0.0 groupcommerce.com
 0.0.0.0 groupfabric.com
+0.0.0.0 groupmarketing.ru
 0.0.0.0 grow.kissmetrics.com
 0.0.0.0 growasmile.com
 0.0.0.0 growingio.com
 0.0.0.0 growthea.com
 0.0.0.0 grt02.com
 0.0.0.0 grt03.com
+0.0.0.0 grtbzrsndrrtsb.com
 0.0.0.0 grtyo.com
 0.0.0.0 gs.andriod.co
 0.0.0.0 gs80.ronatorda.com
@@ -9595,6 +9606,7 @@
 0.0.0.0 heapio.com
 0.0.0.0 heato.info
 0.0.0.0 hebiichigo.com
+0.0.0.0 hechisheortal.pro
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hecrowcati.info
 0.0.0.0 hegarberetrof.pro
@@ -9906,6 +9918,7 @@
 0.0.0.0 hypemakers.net
 0.0.0.0 hyperadx.com
 0.0.0.0 hyperbanner.net
+0.0.0.0 hyperboardupil.info
 0.0.0.0 hyperlinksecure.com
 0.0.0.0 hyperpromote.com
 0.0.0.0 hypertrack.com
@@ -11464,6 +11477,7 @@
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logger.cloudmobi.net
+0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.ntracecloud.com
 0.0.0.0 logger.pw
 0.0.0.0 logger.zcoup.com
@@ -11656,6 +11670,7 @@
 0.0.0.0 m1.dk.2mdn.net
 0.0.0.0 m1.doubleclick.net
 0.0.0.0 m1.eebfffjegjajjiacaci.ru
+0.0.0.0 m1.efhabjaabgfbbegjacj.ru
 0.0.0.0 m1.emea.2mdn.net
 0.0.0.0 m1.emea.2mdn.net.edgesuite.net
 0.0.0.0 m1.es.2mdn.net
@@ -11726,6 +11741,7 @@
 0.0.0.0 m3.dk.2mdn.net
 0.0.0.0 m3.doubleclick.net
 0.0.0.0 m3.eebfffjegjajjiacaci.ru
+0.0.0.0 m3.efhabjaabgfbbegjacj.ru
 0.0.0.0 m3.es.2mdn.net
 0.0.0.0 m3.fi.2mdn.net
 0.0.0.0 m3.fr.2mdn.net
@@ -12001,6 +12017,7 @@
 0.0.0.0 marticula.com
 0.0.0.0 marvel.appia.com
 0.0.0.0 mas.sector.sk
+0.0.0.0 maslakescort.com
 0.0.0.0 master.ads.contentabc.com
 0.0.0.0 masterads.org
 0.0.0.0 mastermind.com
@@ -12526,6 +12543,7 @@
 0.0.0.0 mobilespreeconf.adjust.com
 0.0.0.0 mobilestorm.com
 0.0.0.0 mobiletheory.com
+0.0.0.0 mobiletrk.click-now.today
 0.0.0.0 mobiletuber.ru
 0.0.0.0 mobiright.com
 0.0.0.0 mobistation.cloud
@@ -12659,6 +12677,7 @@
 0.0.0.0 movierelease.co
 0.0.0.0 moviezik.com
 0.0.0.0 mowfruit.com
+0.0.0.0 mowithlerendu.pro
 0.0.0.0 mozila-firefox.com
 0.0.0.0 mozillafirefoxsupport.com
 0.0.0.0 mozook.com
@@ -13114,6 +13133,7 @@
 0.0.0.0 niematego.tk
 0.0.0.0 night-pool.de
 0.0.0.0 nikitinskysport.ru
+0.0.0.0 nimfa-ekb.ru
 0.0.0.0 nimiq.watch
 0.0.0.0 nimiqpool.com
 0.0.0.0 nimiqtest.net
@@ -13894,6 +13914,7 @@
 0.0.0.0 pacmo.com
 0.0.0.0 padsdel.com
 0.0.0.0 padsdelivery.com
+0.0.0.0 padssup.com
 0.0.0.0 pafderio.top
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googlesyndication.com
@@ -15579,6 +15600,7 @@
 0.0.0.0 rtlog.musical.ly
 0.0.0.0 rtmatcher.net
 0.0.0.0 rtp.tools1000.com
+0.0.0.0 rtpdn10.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 ru-traffic.com
 0.0.0.0 ru.adinch.com
@@ -19077,6 +19099,7 @@
 0.0.0.0 usekahuna.com
 0.0.0.0 usemax.de
 0.0.0.0 usenetjunction.com
+0.0.0.0 usenetoffer.download
 0.0.0.0 usenetpassport.com
 0.0.0.0 user-agent-tracker.herokuapp.com
 0.0.0.0 user-clicks.com
@@ -20584,6 +20607,7 @@
 0.0.0.0 www.e.ad.xiaomi.com
 0.0.0.0 www.eadv.it
 0.0.0.0 www.eaffzvnyj.com
+0.0.0.0 www.earnstations.com
 0.0.0.0 www.easyaccess.mobi
 0.0.0.0 www.easytechy.com
 0.0.0.0 www.ec.atdmt.com
@@ -20739,6 +20763,7 @@
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.green-red.com
 0.0.0.0 www.greerlies.pro
+0.0.0.0 www.grtbzrsndrrtsb.com
 0.0.0.0 www.gsn.chameleon.ad
 0.0.0.0 www.gtlcgovlg.com
 0.0.0.0 www.guardwebext.xyz
@@ -21783,6 +21808,7 @@
 0.0.0.0 www.ymzrrizntbhde.com
 0.0.0.0 www.yoocws.com
 0.0.0.0 www.youradexchange.com
+0.0.0.0 www.yourtuber.info
 0.0.0.0 www.yoxrhwtvyqt.com
 0.0.0.0 www.yserch.com
 0.0.0.0 www.yvmjtjtfuaspc.com
