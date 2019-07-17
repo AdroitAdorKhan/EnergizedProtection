@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.07.198
 # Release: 198
-# Entries: 22,289
+# Entries: 22,292
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 17 Jul 19 18:26:09
+# Updated: Wed, 17 Jul 19 20:00:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1830,6 +1830,7 @@
 0.0.0.0 ads-deltatv-x64zcsqq.netdna-ssl.com
 0.0.0.0 ads-elsevier.net
 0.0.0.0 ads-fa.spotify.com
+0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-ipm.adhese.com
 0.0.0.0 ads-lannoo.adhese.com
 0.0.0.0 ads-newsmonkey.adhese.com
@@ -2458,6 +2459,7 @@
 0.0.0.0 ads20.wwe-media.de
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24.tipps24-netzwerk.de
+0.0.0.0 ads24h.net
 0.0.0.0 ads2srv.com
 0.0.0.0 ads3-adnow.com
 0.0.0.0 ads3.bangkokpost.co.th
@@ -16860,6 +16862,7 @@
 0.0.0.0 statics.letfap.com
 0.0.0.0 staticsfs.host
 0.0.0.0 staticvc.adsafeprotected.com
+0.0.0.0 statistic.ads24h.net
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistik.cabana.dk.ssl.re.getclicky.com
 0.0.0.0 statm.the-adult-company.com
@@ -22338,11 +22341,6 @@
 0.0.0.0 zyxow.com
 0.0.0.0 zz.trafficfabrik.com
 0.0.0.0 zzhengre.com
-# --------------------------------------------
-# E N E R G I Z E D  E N D S
-# --------------------------------------------
-#
-# - - - -  S T A Y  E N E R G I Z E D  - - - -
 # --------------------------------------------
 # E N E R G I Z E D  E N D S
 # --------------------------------------------
