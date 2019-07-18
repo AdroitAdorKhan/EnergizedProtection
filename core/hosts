@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.198
-# Release: 198
-# Entries: 22,292
+# Version: 19.07.199
+# Release: 199
+# Entries: 22,302
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 17 Jul 19 21:38:50
+# Updated: Thu, 18 Jul 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -7392,6 +7392,7 @@
 0.0.0.0 deploygate.com
 0.0.0.0 deris.info
 0.0.0.0 derlatas.com
+0.0.0.0 deryjobmeetin.info
 0.0.0.0 des.gbtcdn.com
 0.0.0.0 descz.ovh
 0.0.0.0 desertedbreath.com
@@ -9868,6 +9869,7 @@
 0.0.0.0 hqyenmzgxk.com
 0.0.0.0 hrahdmon.com
 0.0.0.0 href.li
+0.0.0.0 hrmqqrvqaxvzb.com
 0.0.0.0 hrtya.com
 0.0.0.0 hs.appsdorado.com
 0.0.0.0 hsbarbershop.co.uk
@@ -10778,6 +10780,7 @@
 0.0.0.0 ivypixel.com
 0.0.0.0 iwanttoearn.money
 0.0.0.0 iwb-deployer-1.sys.adgear.com
+0.0.0.0 ixdqmmovnvbkl.com
 0.0.0.0 ixkbavqbpsm.com
 0.0.0.0 ixnp.com
 0.0.0.0 iyjph.voluumtrk.com
@@ -12921,6 +12924,7 @@
 0.0.0.0 naj.sk
 0.0.0.0 najsiejfnc.win
 0.0.0.0 nala.engine.adbooth.com
+0.0.0.0 nameketathar.pro
 0.0.0.0 nametraff.com
 0.0.0.0 namimedia.com
 0.0.0.0 nanigans.com
@@ -13195,6 +13199,7 @@
 0.0.0.0 notify.mgid.com
 0.0.0.0 notify.traffic-media.co.uk
 0.0.0.0 notmining.org
+0.0.0.0 notressitropl.info
 0.0.0.0 nova.adswizz.com
 0.0.0.0 nova.deliveryengine.adswizz.com
 0.0.0.0 novadune.com
@@ -16457,6 +16462,7 @@
 0.0.0.0 sommelier.zdbb.net
 0.0.0.0 sonar.adswizz.com
 0.0.0.0 sonobi.com
+0.0.0.0 sonumal.com
 0.0.0.0 soodatmish.com
 0.0.0.0 soosidsiofd.pw
 0.0.0.0 soosooka.com
@@ -19072,6 +19078,7 @@
 0.0.0.0 us.event.cmp.advertising.com
 0.0.0.0 us.h-bid.com
 0.0.0.0 us.lrd.yahoo.com
+0.0.0.0 us.myatkinsdiet.com
 0.0.0.0 us.tracking.justpremium.com
 0.0.0.0 us.uclx.ucweb.com
 0.0.0.0 us.unidingcom.com
@@ -20820,6 +20827,7 @@
 0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 www.hpsafe.isupportcorp.com
 0.0.0.0 www.hqyenmzgxk.com
+0.0.0.0 www.hrmqqrvqaxvzb.com
 0.0.0.0 www.hrtya.com
 0.0.0.0 www.hs.appsdorado.com
 0.0.0.0 www.hsselite.com
@@ -20883,6 +20891,7 @@
 0.0.0.0 www.ivideopiuvisti.com
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.iwgdguuz.com
+0.0.0.0 www.ixdqmmovnvbkl.com
 0.0.0.0 www.ixkbavqbpsm.com
 0.0.0.0 www.iyjph.voluumtrk.com
 0.0.0.0 www.iyogi.com
@@ -21973,6 +21982,7 @@
 0.0.0.0 xml.popunder.bid
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 xml.revrtb.net
+0.0.0.0 xml.xbidflare.com
 0.0.0.0 xmr-tw.org
 0.0.0.0 xmr.pt
 0.0.0.0 xmrapi.alimabi.cn
