@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.07.199
-# Release: 199
-# Entries: 30,608
+# Version: 19.07.200
+# Release: 200
+# Entries: 30,618
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 18 Jul 19 20:00:15
+# Updated: Fri, 19 Jul 19 20:00:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -17517,6 +17517,7 @@
 0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 analytics.holidayinn.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 analytics.homebotapp.com
+0.0.0.0 analytics.horriblesubs.se
 0.0.0.0 analytics.hosting24.com
 0.0.0.0 analytics.hotcopper.com
 0.0.0.0 analytics.hotelwebservice.com
@@ -17677,6 +17678,7 @@
 0.0.0.0 analytics.prx.org
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.pubmatic.com
+0.0.0.0 analytics.qlitics.com
 0.0.0.0 analytics.qlook.net
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.r.msn.com
@@ -18760,6 +18762,7 @@
 0.0.0.0 br-ss.btrll.com
 0.0.0.0 br.phorm.com
 0.0.0.0 brainfights.adform.com
+0.0.0.0 brainlyads.com
 0.0.0.0 brainpop.speedera.net
 0.0.0.0 branch.io
 0.0.0.0 branding.taboola.com
@@ -21266,7 +21269,6 @@
 0.0.0.0 gcmtokenserver.lai.uae.uc.cn
 0.0.0.0 gcontentdelivery.info
 0.0.0.0 gcp.cdn.anvato.net
-0.0.0.0 gcs-eu-00002.content-storage-upload.googleapis.com
 0.0.0.0 gd1.doubleclick.net
 0.0.0.0 gd10.doubleclick.net
 0.0.0.0 gd11.doubleclick.net
@@ -21494,6 +21496,7 @@
 0.0.0.0 graph.coinone.co.kr
 0.0.0.0 graph.euw1.st-av.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.feature.fm
 0.0.0.0 graph.freebasics.org
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.internet.org
@@ -21578,6 +21581,7 @@
 0.0.0.0 hb.1rx.io
 0.0.0.0 hb.adx.adform.net
 0.0.0.0 hb.adx2.adform.net
+0.0.0.0 hb.brainlyads.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 hb.pubmatic.com
 0.0.0.0 hb.ssp.advertising.com
@@ -24228,6 +24232,7 @@
 0.0.0.0 nl.appbrain.com
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nlads1.simpli.fi
+0.0.0.0 nm.brainlyads.com
 0.0.0.0 no-gmtdmp.mookie1.com
 0.0.0.0 no.advertising.com
 0.0.0.0 nodejs.algolia.com
@@ -25178,6 +25183,7 @@
 0.0.0.0 proclarity.comscore.com
 0.0.0.0 prod-a-usa.applovin.com
 0.0.0.0 prod-a.applovin.com
+0.0.0.0 prod-analytics.qlitics.com
 0.0.0.0 prod-chat.cloud.applause.com
 0.0.0.0 prod-gce-auth.firebase.com
 0.0.0.0 prod-org.crowdtangle.com
@@ -25497,6 +25503,7 @@
 0.0.0.0 report.adtech.de
 0.0.0.0 report.api.vungle.com
 0.0.0.0 report.crashlytics.com
+0.0.0.0 report.hb.brainlyads.com
 0.0.0.0 report.webclicks24.com
 0.0.0.0 reporting.addapptr.com
 0.0.0.0 reportlog.cocos.com
@@ -26827,6 +26834,7 @@
 0.0.0.0 stc.za.zaloapp.com
 0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 steinmart.adlegend.com
+0.0.0.0 stg-analytics.qlitics.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stg.applause.com
 0.0.0.0 sticker.yadro.ru
@@ -30295,6 +30303,7 @@
 0.0.0.0 www.blog.amplitude.com
 0.0.0.0 www.blueconic.com
 0.0.0.0 www.bluekai.com
+0.0.0.0 www.brainlyads.com
 0.0.0.0 www.branch.io
 0.0.0.0 www.braze.com
 0.0.0.0 www.brightcove.com
@@ -30443,6 +30452,7 @@
 0.0.0.0 www.pubguard.com
 0.0.0.0 www.publy.net
 0.0.0.0 www.pubmatic.com
+0.0.0.0 www.qlitics.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.queryly.com
 0.0.0.0 www.rad.live.com
