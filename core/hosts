@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.200
-# Release: 200
-# Entries: 22,348
+# Version: 19.07.201
+# Release: 201
+# Entries: 22,356
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 19 Jul 19 20:33:05
+# Updated: Sat, 20 Jul 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -8130,6 +8130,7 @@
 0.0.0.0 electosake.com
 0.0.0.0 electroneum.ovh
 0.0.0.0 electroneum.space
+0.0.0.0 elem.cards
 0.0.0.0 elementstatistics.com
 0.0.0.0 elephantdata.net
 0.0.0.0 elephantqueue.com
@@ -9539,6 +9540,7 @@
 0.0.0.0 haplittresonetert.info
 0.0.0.0 happysatoshi.com
 0.0.0.0 happysite.pro
+0.0.0.0 happytower.mobi
 0.0.0.0 haproxy2.ad4game.com
 0.0.0.0 hardsextube-bud.gravityrd-services.com
 0.0.0.0 haroonsaadiq.com
@@ -10263,6 +10265,7 @@
 0.0.0.0 ig-us-sdkapi.igamecj.com
 0.0.0.0 ig0nr8hhhb.com
 0.0.0.0 igameunion.com
+0.0.0.0 igludostats.moonfroglabs.com
 0.0.0.0 ignup.com
 0.0.0.0 igouwu.uc.cn
 0.0.0.0 igp06.gameloft.com
@@ -11207,6 +11210,7 @@
 0.0.0.0 lanistaconcepts.com
 0.0.0.0 laos.luangprabang.free.fr
 0.0.0.0 lap-click.tr.line.me
+0.0.0.0 lapdqegtp.com
 0.0.0.0 lapool.me
 0.0.0.0 lapresse.adgear.com
 0.0.0.0 larentisol.com
@@ -16637,6 +16641,7 @@
 0.0.0.0 ss.servedby-buysellads.com
 0.0.0.0 ss.trafficjunky.net
 0.0.0.0 ss.vidible.tv
+0.0.0.0 ssandkedy.info
 0.0.0.0 ssc.33across.com
 0.0.0.0 sscefsol.com
 0.0.0.0 ssh.kissmetrics.com
@@ -20315,6 +20320,7 @@
 0.0.0.0 www.antivirus.baidu.com
 0.0.0.0 www.anygen-explores.info
 0.0.0.0 www.aoredi.com
+0.0.0.0 www.apcugpxy.com
 0.0.0.0 www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.ad.snappea.com
 0.0.0.0 www.api.ad.xiaomi.com
@@ -20993,6 +20999,7 @@
 0.0.0.0 www.kxkeuums.com
 0.0.0.0 www.kyelvsyayysa.com
 0.0.0.0 www.kzhav.voluumtrk.com
+0.0.0.0 www.lapdqegtp.com
 0.0.0.0 www.larosanotizia.com
 0.0.0.0 www.layers.ero-advertising.com
 0.0.0.0 www.lci1a.voluumtrk.com
@@ -21058,6 +21065,7 @@
 0.0.0.0 www.mbcjufwxg9.com
 0.0.0.0 www.mcafeemyaccount.com
 0.0.0.0 www.mchpowtyj.com
+0.0.0.0 www.mcjdsooo.com
 0.0.0.0 www.mdotlabs.com
 0.0.0.0 www.mediabarterexchange.com
 0.0.0.0 www.mediadirectx.com
