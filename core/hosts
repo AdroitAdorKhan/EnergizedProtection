@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.201
-# Release: 201
-# Entries: 22,356
+# Version: 19.07.202
+# Release: 202
+# Entries: 22,381
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 20 Jul 19 20:00:15
+# Updated: Sun, 21 Jul 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -485,6 +485,7 @@
 0.0.0.0 8weoaapw0hfvy6nz.pro
 0.0.0.0 8yxupue8.com
 0.0.0.0 90.video-ak.cdn.spotify.com
+0.0.0.0 9012732.fls.doubleclick.net
 0.0.0.0 91.video-ak.cdn.spotify.com
 0.0.0.0 91pool.com
 0.0.0.0 91support.com
@@ -3885,6 +3886,7 @@
 0.0.0.0 aolon-redirector-farm.prod.vidible.tv
 0.0.0.0 aoredi.com
 0.0.0.0 aos.wall.youmi.net
+0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-gb.adskeeper.co.uk
 0.0.0.0 ap-sonar.sociomantic.com
 0.0.0.0 ap-southeast-1.onemobile.yahoo.com
@@ -4056,6 +4058,7 @@
 0.0.0.0 api.pr.weixin.qq.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
+0.0.0.0 api.prsrvy.com
 0.0.0.0 api.pubguard.com
 0.0.0.0 api.pubmatic.com
 0.0.0.0 api.pubnative.net
@@ -4385,6 +4388,7 @@
 0.0.0.0 ast.adsperf.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 aster18cdn.nl
+0.0.0.0 astoapsu.com
 0.0.0.0 astral.brightcove.com
 0.0.0.0 astrsk.net
 0.0.0.0 asustechsupport247.com
@@ -6717,6 +6721,7 @@
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensu.org
+0.0.0.0 consent.cmp.oath.com
 0.0.0.0 console.brightcove.com
 0.0.0.0 console.pagefair.com
 0.0.0.0 console.uc123.com
@@ -6778,6 +6783,7 @@
 0.0.0.0 coollcloud.com
 0.0.0.0 coordinatedbedroom.com
 0.0.0.0 cootapps.com
+0.0.0.0 coothupu.net
 0.0.0.0 copay.io
 0.0.0.0 copicvarianuty.info
 0.0.0.0 copperchickens.com
@@ -7010,6 +7016,7 @@
 0.0.0.0 cs126.wpc.teliasoneracdn.net
 0.0.0.0 cs15.livetex.ru
 0.0.0.0 cs283.wpc.teliasoneracdn.net
+0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 csgocpu.com
 0.0.0.0 csp.fastclick.net
 0.0.0.0 css.gbtcdn.com
@@ -7019,6 +7026,7 @@
 0.0.0.0 csyn-stage.cxense.com
 0.0.0.0 csyn.cxense.com
 0.0.0.0 ct.advertising.com
+0.0.0.0 ct.yimg.com
 0.0.0.0 ct0.addthis.com
 0.0.0.0 ct1.addthis.com
 0.0.0.0 ct3.addthis.com
@@ -7412,6 +7420,7 @@
 0.0.0.0 desilady.mobi
 0.0.0.0 desklks.com
 0.0.0.0 desktop.spotify.com
+0.0.0.0 despacito71.com
 0.0.0.0 despiteracy.com
 0.0.0.0 det.hasmobi.net
 0.0.0.0 deta.ero-advertising.com
@@ -8510,6 +8519,7 @@
 0.0.0.0 f8.video-ak.cdn.spotify.com
 0.0.0.0 f9.video-ak.cdn.spotify.com
 0.0.0.0 f97e014599.com
+0.0.0.0 f9k1iiwg.emltrk.com
 0.0.0.0 fa.video-ak.cdn.spotify.com
 0.0.0.0 fa76535d143ed.com
 0.0.0.0 fabriefly.mobi
@@ -8618,6 +8628,7 @@
 0.0.0.0 feljack.com
 0.0.0.0 fenixm.com
 0.0.0.0 fentazi.gq
+0.0.0.0 fethungi.com
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 ff81k.voluumtrk.com
 0.0.0.0 ffruntimechecker.com
@@ -9026,6 +9037,7 @@
 0.0.0.0 gamysearch.com
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 gannett.gcion.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 gap.sp1.convertro.com
 0.0.0.0 gapi.adsymptotic.com
 0.0.0.0 garimediagroup.com.re.getclicky.com
@@ -9128,6 +9140,7 @@
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.oovvuu.com
+0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.us.h-bid.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
@@ -10606,6 +10619,7 @@
 0.0.0.0 install.topradiostationsonline.com
 0.0.0.0 install.utilitooltech.com
 0.0.0.0 installtracker.com
+0.0.0.0 instant.page
 0.0.0.0 instantbannercreator.com
 0.0.0.0 instantdollarz.com
 0.0.0.0 instantmadness.com
@@ -11173,6 +11187,7 @@
 0.0.0.0 kzhav.voluumtrk.com
 0.0.0.0 kzkjewg7.stream
 0.0.0.0 l-v1.presage.io
+0.0.0.0 l.betrad.com
 0.0.0.0 l.dlx.addthis.com
 0.0.0.0 l.erovideo.by
 0.0.0.0 l.funzone.by
@@ -11474,6 +11489,7 @@
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.droid4x.cn
+0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.isnssdk.com
@@ -12089,6 +12105,7 @@
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mbkpool.info
 0.0.0.0 mblapi.ssl2.duapps.com
+0.0.0.0 mbp.yimg.com
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
 0.0.0.0 mc.webvisor.org
@@ -15007,6 +15024,7 @@
 0.0.0.0 qualitypageviews.com
 0.0.0.0 quamiller.com
 0.0.0.0 quantcast.com
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
 0.0.0.0 quantumads.com
@@ -16215,6 +16233,7 @@
 0.0.0.0 shglegle.com
 0.0.0.0 shield.sitelock.com
 0.0.0.0 shihoult.com
+0.0.0.0 shim.btrll.com
 0.0.0.0 shinobi.jp
 0.0.0.0 shinokun.id
 0.0.0.0 shinystat.com
@@ -16412,6 +16431,7 @@
 0.0.0.0 smentcirrhoea.club
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 smiledirectclub.com
 0.0.0.0 smilered.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smintmouse.com
@@ -17286,6 +17306,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyf.com
 0.0.0.0 t.medialytics.com
+0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 t.newlimitedoffer.com
 0.0.0.0 t.pubmatic.com
@@ -22124,6 +22145,7 @@
 0.0.0.0 xy7elite.com
 0.0.0.0 xz15801.com
 0.0.0.0 xzpool.com
+0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 y.flurry.com
 0.0.0.0 y.ibsys.com
@@ -22141,6 +22163,7 @@
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yahoo-news.co
+0.0.0.0 yahoo.uservoice.com
 0.0.0.0 yamechanic.com
 0.0.0.0 yandex.go-2.link
 0.0.0.0 yandexadexchange.net
@@ -22199,6 +22222,7 @@
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldselect.com
 0.0.0.0 yieldtraffic.com
+0.0.0.0 yimg.com
 0.0.0.0 yip.su
 0.0.0.0 yiq6p.com
 0.0.0.0 yiudy.com
@@ -22256,6 +22280,7 @@
 0.0.0.0 yqucllrbg.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrmkp.instagirlshub.com
+0.0.0.0 yrtas.btrll.com
 0.0.0.0 yrtumngfdsdgf.ga
 0.0.0.0 yserch.com
 0.0.0.0 yt.advmaker.su
