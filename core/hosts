@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.203
-# Release: 203
-# Entries: 20,592
+# Version: 19.07.204
+# Release: 204
+# Entries: 20,597
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 22 Jul 19 20:00:12
+# Updated: Tue, 23 Jul 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -288,6 +288,7 @@
 0.0.0.0 41.video-ak.cdn.spotify.com
 0.0.0.0 4168233900.peerclicktrk.com
 0.0.0.0 4168233901.peerclicktrk.com
+0.0.0.0 41df76c67812005c.com
 0.0.0.0 42.video-ak.cdn.spotify.com
 0.0.0.0 42134.leninsubscribe.com
 0.0.0.0 42323.transubscribe.com
@@ -350,6 +351,7 @@
 0.0.0.0 555.in.th
 0.0.0.0 56.video-ak.cdn.spotify.com
 0.0.0.0 564d28256cddaeba.com
+0.0.0.0 568vovhs6ekbupjo.pro
 0.0.0.0 57.video-ak.cdn.spotify.com
 0.0.0.0 57368bd5d18.com
 0.0.0.0 578756.gameloft.com
@@ -2095,7 +2097,6 @@
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
-0.0.0.0 ads.redtube.com
 0.0.0.0 ads.renren.com
 0.0.0.0 ads.resoom.de
 0.0.0.0 ads.rmb.adhese.com
@@ -2233,7 +2234,6 @@
 0.0.0.0 ads.zumobi.net
 0.0.0.0 ads0.nexage.com
 0.0.0.0 ads01.com
-0.0.0.0 ads03.redtube.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.bangkokpost.co.th
 0.0.0.0 ads1.canoe.ca
@@ -5808,6 +5808,7 @@
 0.0.0.0 chinski.net
 0.0.0.0 chitika.com
 0.0.0.0 chitika.net
+0.0.0.0 chkqqbpppcuihn.com
 0.0.0.0 choice.atdmt.com
 0.0.0.0 choice.microsoft.com
 0.0.0.0 choogeet.net
@@ -8191,6 +8192,7 @@
 0.0.0.0 fnkyyrgraizy.com
 0.0.0.0 foamybox.com
 0.0.0.0 focas.jp
+0.0.0.0 fodlkf9d1p.com
 0.0.0.0 folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
 0.0.0.0 follamigos.com
@@ -8216,6 +8218,7 @@
 0.0.0.0 forpyke.com
 0.0.0.0 forre.st
 0.0.0.0 fortlachanhecksof.info
+0.0.0.0 fortnite-stats.site
 0.0.0.0 fortpush.com
 0.0.0.0 fortrader.ru
 0.0.0.0 forum.addthis.com
@@ -11805,6 +11808,7 @@
 0.0.0.0 mymusic-video.info
 0.0.0.0 mynavi.ucweb.com
 0.0.0.0 mynewspepper.com
+0.0.0.0 myornamenti.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypool.online
@@ -12700,7 +12704,6 @@
 0.0.0.0 p2p-multipool.eu
 0.0.0.0 p2pminers.com
 0.0.0.0 p2pmining.com
-0.0.0.0 p2pool.co
 0.0.0.0 p2pool.in
 0.0.0.0 p2pool.info
 0.0.0.0 p2pool.io
@@ -13071,6 +13074,8 @@
 0.0.0.0 piwik.adspaces.ero-advertising.com
 0.0.0.0 piwik.darken.eu
 0.0.0.0 piwik.ero-advertising.com
+0.0.0.0 piwik.opendesktop.org
+0.0.0.0 pix.nbcuni.com
 0.0.0.0 pix.user-clicks.com
 0.0.0.0 pixazza.com
 0.0.0.0 pixel-apc.adsymptotic.com
@@ -13840,7 +13845,6 @@
 0.0.0.0 quinstreet.com
 0.0.0.0 quisma.com
 0.0.0.0 quizzasport.com
-0.0.0.0 qulsqiqrev.com
 0.0.0.0 qunnvfhdgfm.com
 0.0.0.0 quotc.smartclick.net
 0.0.0.0 qurhdjkms.com
@@ -13969,7 +13973,6 @@
 0.0.0.0 rbnes.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbnt9.voluumtrk.com
-0.0.0.0 rbrxrcikro.com
 0.0.0.0 rbs-chile.com
 0.0.0.0 rbs-sk.com
 0.0.0.0 rbsave-fr.com
@@ -14607,7 +14610,6 @@
 0.0.0.0 sbopaitvwpzilp.com
 0.0.0.0 sbs-ad.com
 0.0.0.0 sbx.pagesjaunes.fr
-0.0.0.0 sbxzvllyahzn.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scaRlETCoAt.US
@@ -17832,6 +17834,7 @@
 0.0.0.0 vadpay.com
 0.0.0.0 vads-api.daumkakao.com
 0.0.0.0 vaebard.com
+0.0.0.0 vagwyn.pw
 0.0.0.0 vaivafie.net
 0.0.0.0 valdezmd.com
 0.0.0.0 validate.appsflyer.com
@@ -18651,6 +18654,7 @@
 0.0.0.0 www.80.utroro.com
 0.0.0.0 www.87lcn.voluumtrk.com
 0.0.0.0 www.888poker.com
+0.0.0.0 www.8s32e590un.com
 0.0.0.0 www.91support.com
 0.0.0.0 www.920087982.world
 0.0.0.0 www.93.tityx.com
@@ -18862,13 +18866,14 @@
 0.0.0.0 www.androidprotection.online
 0.0.0.0 www.anime.reactor.cc
 0.0.0.0 www.anners.ero-advertising.com
+0.0.0.0 www.annonce-legale.top
+0.0.0.0 www.annoncelegalepascher.fr
 0.0.0.0 www.annualconsumersurvey.com
 0.0.0.0 www.antivirus-help.com
 0.0.0.0 www.antivirus-mobile.club
 0.0.0.0 www.antivirus-new.com
 0.0.0.0 www.antivirus.baidu.com
 0.0.0.0 www.anygen-explores.info
-0.0.0.0 www.apcugpxy.com
 0.0.0.0 www.api.ad.snappea.com
 0.0.0.0 www.api.ad.xiaomi.com
 0.0.0.0 www.api.admob.xiaomi.com
@@ -19032,6 +19037,7 @@
 0.0.0.0 www.check-now.online
 0.0.0.0 www.cheerful-mood.mobi
 0.0.0.0 www.chickenracing.com
+0.0.0.0 www.chkqqbpppcuihn.com
 0.0.0.0 www.cinefique.com
 0.0.0.0 www.cinfoways.co.in
 0.0.0.0 www.cj.com
@@ -19330,7 +19336,6 @@
 0.0.0.0 www.howingo.com
 0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 www.hpsafe.isupportcorp.com
-0.0.0.0 www.hrmqqrvqaxvzb.com
 0.0.0.0 www.hrtya.com
 0.0.0.0 www.hs.appsdorado.com
 0.0.0.0 www.hsselite.com
@@ -19384,7 +19389,6 @@
 0.0.0.0 www.iupqelechcmj.com
 0.0.0.0 www.ivideopiuvisti.com
 0.0.0.0 www.ivwbox.de
-0.0.0.0 www.ixdqmmovnvbkl.com
 0.0.0.0 www.iyjph.voluumtrk.com
 0.0.0.0 www.iyogi.com
 0.0.0.0 www.iyogiblog.com
@@ -19474,7 +19478,6 @@
 0.0.0.0 www.mb102.com
 0.0.0.0 www.mb103.com
 0.0.0.0 www.mbcjufwxg9.com
-0.0.0.0 www.mcjdsooo.com
 0.0.0.0 www.mdotlabs.com
 0.0.0.0 www.medialink.mobi
 0.0.0.0 www.mediamond.it
@@ -19537,6 +19540,7 @@
 0.0.0.0 www.nagubalqryvirelv.com
 0.0.0.0 www.naiadsystems.com
 0.0.0.0 www.nata.ero-advertising.com
+0.0.0.0 www.nbcudigitaladops.com
 0.0.0.0 www.ncmzm.voluumtrk.com
 0.0.0.0 www.neodatagroup.com
 0.0.0.0 www.neomobile.net
@@ -20057,7 +20061,6 @@
 0.0.0.0 www.vrl.m.conviva.com
 0.0.0.0 www.vt-rbs.com
 0.0.0.0 www.vungle.com
-0.0.0.0 www.vwprafiwoiut.com
 0.0.0.0 www.vyprcnoverthewall.com
 0.0.0.0 www.vywujhsinxfa.com
 0.0.0.0 www.w2mobile.com
@@ -20171,6 +20174,7 @@
 0.0.0.0 www.zeropark.com
 0.0.0.0 www.zeus.ad.intl.xiaomi.com
 0.0.0.0 www.zeus.ad.xiaomi.com
+0.0.0.0 www.zgcplfvjpixarg.com
 0.0.0.0 www.zindas.info
 0.0.0.0 www.zl1.quebec-bin.com
 0.0.0.0 www.zlx.com.br
@@ -20182,7 +20186,6 @@
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zyxow.com
-0.0.0.0 www.zzfycxsu.com
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.algolia.com
 0.0.0.0 www1284.vcdn.xyz
@@ -20496,6 +20499,7 @@
 0.0.0.0 youtube.adlook.me
 0.0.0.0 yoxrhwtvyqt.com
 0.0.0.0 ypool.net
+0.0.0.0 yps.link
 0.0.0.0 yqucllrbg.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrmkp.instagirlshub.com
@@ -20575,6 +20579,7 @@
 0.0.0.0 zeushoki.com
 0.0.0.0 zeuspoker.olala2.com
 0.0.0.0 zferral.com
+0.0.0.0 zgcplfvjpixarg.com
 0.0.0.0 zh-cn.ime.cootek.com
 0.0.0.0 zhash.pro
 0.0.0.0 zhcn.admob.com
