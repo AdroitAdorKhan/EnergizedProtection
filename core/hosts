@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.205
-# Release: 205
-# Entries: 20,614
+# Version: 19.07.206
+# Release: 206
+# Entries: 20,630
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 24 Jul 19 20:00:18
+# Updated: Thu, 25 Jul 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -581,6 +581,7 @@
 0.0.0.0 a.uc.cn
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
+0.0.0.0 a.vdo.ai
 0.0.0.0 a.vserv.mobi
 0.0.0.0 a.watchmovie.fun
 0.0.0.0 a.watchsport.fun
@@ -625,6 +626,7 @@
 0.0.0.0 aa.agkn.com
 0.0.0.0 aa.trafficjunky.net
 0.0.0.0 aa.video-ak.cdn.spotify.com
+0.0.0.0 aa53df329975c325.com
 0.0.0.0 aaddzz.com
 0.0.0.0 aagmbroxruno.com
 0.0.0.0 aamobile.info
@@ -5563,6 +5565,7 @@
 0.0.0.0 cdn.evrhst.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.flashtalking.com
+0.0.0.0 cdn.foxpush.net
 0.0.0.0 cdn.g.wan.douyu.com
 0.0.0.0 cdn.hashflare.eu
 0.0.0.0 cdn.hasmobi.net
@@ -5773,6 +5776,7 @@
 0.0.0.0 chatbot.outbrain.com
 0.0.0.0 chaucha.cl
 0.0.0.0 chauksoa.net
+0.0.0.0 chdaismlykqep.com
 0.0.0.0 cheapsunglasses.cn
 0.0.0.0 check-now.net
 0.0.0.0 check-now.online
@@ -6661,6 +6665,7 @@
 0.0.0.0 d03x2011.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d1.yengo.com
+0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d12tludofq8d6y.cloudfront.net
 0.0.0.0 d12zo0ppztbcf.cloudfront.net
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
@@ -7150,6 +7155,7 @@
 0.0.0.0 dodownload.w11g.top
 0.0.0.0 dogepool.rf.gd
 0.0.0.0 doghole.ucweb.com
+0.0.0.0 doghoust.net
 0.0.0.0 doitmoneyforyou.top
 0.0.0.0 dollarsponsor.com
 0.0.0.0 dolohen.com
@@ -7492,6 +7498,7 @@
 0.0.0.0 eadexchange.com
 0.0.0.0 eads.ir
 0.0.0.0 eadv.it
+0.0.0.0 eae5daf052d2673b.com
 0.0.0.0 earandmarketing-com.messanger.win
 0.0.0.0 earandmarketing.com
 0.0.0.0 earnify.com
@@ -7967,6 +7974,7 @@
 0.0.0.0 f7.video-ak.cdn.spotify.com
 0.0.0.0 f8.market.xiaomi.com
 0.0.0.0 f8.video-ak.cdn.spotify.com
+0.0.0.0 f87d322cb0c4a39.com
 0.0.0.0 f9.video-ak.cdn.spotify.com
 0.0.0.0 f97e014599.com
 0.0.0.0 f9k1iiwg.emltrk.com
@@ -9204,7 +9212,6 @@
 0.0.0.0 hpcyk.com
 0.0.0.0 hplose.de
 0.0.0.0 hpr.outbrain.com
-0.0.0.0 hpsafe.isupportcorp.com
 0.0.0.0 hpshopping.speedera.net
 0.0.0.0 hpvivo.com
 0.0.0.0 hq.appsflyer.com
@@ -9815,7 +9822,6 @@
 0.0.0.0 info.cxense.com
 0.0.0.0 info.flurry.com
 0.0.0.0 info.inmobi.com
-0.0.0.0 info.internet.org
 0.0.0.0 info.muxy.io
 0.0.0.0 info.sbobet.com
 0.0.0.0 info.umeng.com
@@ -10066,6 +10072,7 @@
 0.0.0.0 ivideo.headline.uodoo.com
 0.0.0.0 ivideopiuvisti.com
 0.0.0.0 ivism.org
+0.0.0.0 ivjrb.listenmusic.fun
 0.0.0.0 ivycrest.net
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivylanefloristry.com
@@ -10234,6 +10241,7 @@
 0.0.0.0 jsn.lentainform.com
 0.0.0.0 jsn.marketgid.com
 0.0.0.0 jsn.mgid.com
+0.0.0.0 json.foxpush.com
 0.0.0.0 jsplayer.seedr.ru
 0.0.0.0 jsretra.com
 0.0.0.0 jssdk.rayjump.com
@@ -10308,6 +10316,7 @@
 0.0.0.0 kaymopk.com
 0.0.0.0 kb.adacts.com
 0.0.0.0 kb.bluekai.com
+0.0.0.0 kbymnqiomnegs.com
 0.0.0.0 kcolbda.com
 0.0.0.0 kdowqlpt.info
 0.0.0.0 kds.ero-advertising.com
@@ -12783,6 +12792,8 @@
 0.0.0.0 p353262.cdaz.icu
 0.0.0.0 p354918.clksite.com
 0.0.0.0 p355000.cdaz.icu
+0.0.0.0 p359161.cdaz.icu
+0.0.0.0 p359161.clksite.com
 0.0.0.0 p37703.dnsecho.opera.com
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 p4.firrectly.top
@@ -13129,6 +13140,7 @@
 0.0.0.0 pixel.titjolacruso.info
 0.0.0.0 pixel.tontwiredat.info
 0.0.0.0 pixel.typacodosof.info
+0.0.0.0 pixel.vdo.ai
 0.0.0.0 pixel.westseven.media
 0.0.0.0 pixels.asia
 0.0.0.0 pixeltrack.eyeviewads.com
@@ -13761,6 +13773,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 pushokey.com
 0.0.0.0 pushomac.com
+0.0.0.0 pushsar.com
 0.0.0.0 pushscan.com
 0.0.0.0 pushto.info
 0.0.0.0 pushtun.info
@@ -14063,6 +14076,7 @@
 0.0.0.0 recommendation.apester.com
 0.0.0.0 recommendedforyou.xyz
 0.0.0.0 record.sz.ngkmb.com
+0.0.0.0 recorder.sessionstack.com
 0.0.0.0 recreativ.ru
 0.0.0.0 recs.cxense.com
 0.0.0.0 recsys.op-cdn.net
@@ -14169,7 +14183,6 @@
 0.0.0.0 repo.appnext.com
 0.0.0.0 reporo.net
 0.0.0.0 report-in.getclicky.com
-0.0.0.0 report-uri.cloudflare.com
 0.0.0.0 report-zt.1rx.io
 0.0.0.0 report.ad.snappea.com
 0.0.0.0 report.api.vungle.com
@@ -14496,6 +14509,7 @@
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.rose.pubmatic.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
+0.0.0.0 s.vdo.ai
 0.0.0.0 s.wshareit.com
 0.0.0.0 s.zdbb.net
 0.0.0.0 s.zimedia.com.tw
@@ -17702,6 +17716,7 @@
 0.0.0.0 upload-center.byethost4.com
 0.0.0.0 upload.a-ads.com
 0.0.0.0 upload.bugsnag.com
+0.0.0.0 uploadshipcom.foxpush.net
 0.0.0.0 upnorma.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 upornia.com
@@ -18856,7 +18871,6 @@
 0.0.0.0 www.agkn.com
 0.0.0.0 www.ahi26.voluumtrk.com
 0.0.0.0 www.aidps.atdmt.com
-0.0.0.0 www.alapsblu.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.allgames4you.mobi
 0.0.0.0 www.allyoucan.it
@@ -19045,6 +19059,7 @@
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.chat.adspaces.ero-advertising.com
 0.0.0.0 www.chat.ero-advertising.com
+0.0.0.0 www.chdaismlykqep.com
 0.0.0.0 www.cheapsunglasses.cn
 0.0.0.0 www.check-now.net
 0.0.0.0 www.check-now.online
@@ -19424,6 +19439,7 @@
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
 0.0.0.0 www.karisimbi.net
+0.0.0.0 www.kbymnqiomnegs.com
 0.0.0.0 www.kds.ero-advertising.com
 0.0.0.0 www.keepload.online
 0.0.0.0 www.kelkoo.com
@@ -19439,7 +19455,6 @@
 0.0.0.0 www.kuaptrk.com
 0.0.0.0 www.kushat.roboinside.me
 0.0.0.0 www.kzhav.voluumtrk.com
-0.0.0.0 www.lapdqegtp.com
 0.0.0.0 www.larosanotizia.com
 0.0.0.0 www.layers.ero-advertising.com
 0.0.0.0 www.lci1a.voluumtrk.com
@@ -19960,6 +19975,7 @@
 0.0.0.0 www.themediafire.com
 0.0.0.0 www.theofficeonpirie.com
 0.0.0.0 www.thestartmagazine.com
+0.0.0.0 www.theworldbd.com
 0.0.0.0 www.thumb.ero-advertising.com
 0.0.0.0 www.thumbads.ero-advertising.com
 0.0.0.0 www.thumbs.xlaces.ero-advertising.com
