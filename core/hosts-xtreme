@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.07.206
-# Release: 206
-# Entries: 30,622
+# Version: 19.07.207
+# Release: 207
+# Entries: 30,665
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Jul 19 20:00:18
+# Updated: Fri, 26 Jul 19 20:00:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -17629,6 +17629,7 @@
 0.0.0.0 analytics.nicherev.io
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nikkki.net
+0.0.0.0 analytics.ninjakiwi.com
 0.0.0.0 analytics.nionex.net
 0.0.0.0 analytics.notifyvisitors.com
 0.0.0.0 analytics.ns1.ff.avast.com
@@ -18252,6 +18253,7 @@
 0.0.0.0 as-singapore.pix-geo.revsci.net
 0.0.0.0 as-ui-prod-stack-20160621.ec2eu.adswizz.com
 0.0.0.0 as-y-atwola-com.geo.adtechus.com
+0.0.0.0 as.ad-brix.com
 0.0.0.0 as.adlooxtracking.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ixiaa.com
@@ -18278,12 +18280,14 @@
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.apptentive.com
 0.0.0.0 assets.chartboost.com
+0.0.0.0 assets.insnw.net
 0.0.0.0 assets.map.brightcove.com
 0.0.0.0 assets.postrelease.com
 0.0.0.0 assets.rfm.rubiconproject.com
 0.0.0.0 assets.taboola.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 assets1.adroll.com
+0.0.0.0 assets2.insnw.net
 0.0.0.0 assistant.pandora.xiaomi.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
@@ -18634,6 +18638,7 @@
 0.0.0.0 bi.adroll.com
 0.0.0.0 bi.medscape.com
 0.0.0.0 bia.brightinfo.com
+0.0.0.0 bibo.api.swiftkey.com
 0.0.0.0 bid-atl1.turn.com
 0.0.0.0 bid-sjc2.turn.com
 0.0.0.0 bid-spotxchange-sjc2.turn.com
@@ -18909,6 +18914,7 @@
 0.0.0.0 calendar.kissmetrics.com
 0.0.0.0 calipeoplemeet.adlegend.com
 0.0.0.0 calvinklein.adlegend.com
+0.0.0.0 campaign.ad-brix.com
 0.0.0.0 campaigns2.kissmetrics.com
 0.0.0.0 campaigns3.kissmetrics.com
 0.0.0.0 canadavisa.count.ly
@@ -18996,6 +19002,7 @@
 0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn-demo.algolia.com
 0.0.0.0 cdn-ecatv-stream.durasite.net
+0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-fastly-001.traffic-director-alias.krxd.net
 0.0.0.0 cdn-fastly-002.traffic-director-alias.krxd.net
 0.0.0.0 cdn-fastly-003.traffic-director-alias.krxd.net
@@ -19982,7 +19989,9 @@
 0.0.0.0 craft.advertising.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 crash.amplitude.com
+0.0.0.0 crash.steampowered.com
 0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashlogs.mobilegame.woniu.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crawler-dev.algolia.com
 0.0.0.0 crawler.algolia.com
@@ -20056,6 +20065,7 @@
 0.0.0.0 customink.airbrake.io
 0.0.0.0 cv-ph.rdtcdn.com
 0.0.0.0 cv.rdtcdn.com
+0.0.0.0 cvr.ad-brix.com
 0.0.0.0 cw-ph.rdtcdn.com
 0.0.0.0 cw.addthis.com
 0.0.0.0 cw.rdtcdn.com
@@ -21188,6 +21198,7 @@
 0.0.0.0 fra75.ib.adnxs.com
 0.0.0.0 fra94.ib.adnxs.com
 0.0.0.0 free.atdmt.com
+0.0.0.0 freegameanalytics.com
 0.0.0.0 freestar-d.openx.net
 0.0.0.0 freewebs.getclicky.com
 0.0.0.0 freshrankings.com.re.getclicky.com
@@ -21240,11 +21251,13 @@
 0.0.0.0 gallery.pandora.xiaomi.com
 0.0.0.0 gallery.taboola.com
 0.0.0.0 game.xiaomi.com
+0.0.0.0 gameanalytics.com
 0.0.0.0 gamecp.open.uc.cn
 0.0.0.0 gameloft-eusouth-rtb.revsci.net
 0.0.0.0 gameloft-uswest-rtb.revsci.net
 0.0.0.0 gamenode.open.uc.cn
 0.0.0.0 gamerdna-sb-ec.adtechus.com
+0.0.0.0 gametracker.z-software.net
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 gannett-heliosiq.adtechus.com
 0.0.0.0 gannett-sb-ec.adtechus.com
@@ -22185,6 +22198,7 @@
 0.0.0.0 ingest.crittercism.com
 0.0.0.0 ingest.vungle.com
 0.0.0.0 ingestion.api.brightcove.com
+0.0.0.0 init.supersonicads.com
 0.0.0.0 inmobi.com
 0.0.0.0 innocean-insight.adsrvr.org
 0.0.0.0 innovationfactory.airbrake.io
@@ -22199,6 +22213,7 @@
 0.0.0.0 insights.bluekai.com
 0.0.0.0 insights.carnival.io
 0.0.0.0 insights.newrelic.com
+0.0.0.0 insnw.net
 0.0.0.0 inspectlet.com
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instory.ucnews.ucweb.com
@@ -22288,6 +22303,7 @@
 0.0.0.0 ir.newrelic.com
 0.0.0.0 irce.algolia.com
 0.0.0.0 irqs.ioam.de
+0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 isaca.demdex.net
 0.0.0.0 ise.clmbtech.com
 0.0.0.0 isgame.ds.duapps.com
@@ -22330,6 +22346,7 @@
 0.0.0.0 jenkins.digitaltarget.ru
 0.0.0.0 jenkins.kissmetrics.com
 0.0.0.0 jenkins.safegraph.com
+0.0.0.0 jenson.api.swiftkey.com
 0.0.0.0 jerusalembusinesscenter.com
 0.0.0.0 jetblueairways.demdex.net
 0.0.0.0 jetstream.sonobi.com
@@ -22427,6 +22444,7 @@
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kits.crashlytics.com
 0.0.0.0 kiwi.sharethis.com
+0.0.0.0 kleianalyticsfrontend.elasticbeanstalk.com
 0.0.0.0 knewone.airbrake.io
 0.0.0.0 knop.yadro.ru
 0.0.0.0 knowitall.simpli.fi
@@ -22560,6 +22578,7 @@
 0.0.0.0 listterenitapi.ushareit.com
 0.0.0.0 lithium.daum.net
 0.0.0.0 littlepeoplemeet.adlegend.com
+0.0.0.0 live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com
 0.0.0.0 live.activeconversion.com
 0.0.0.0 live.brightcove.com
 0.0.0.0 live.chartboost.com
@@ -22958,6 +22977,7 @@
 0.0.0.0 logs.api.vungle.com
 0.0.0.0 logs.ntvplus.tv
 0.0.0.0 logs.spilgames.com
+0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs11.xiti.com
 0.0.0.0 logs1136.xiti.com
@@ -23653,6 +23673,7 @@
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 metrics.health.com
 0.0.0.0 metrics.hibernian.ie
+0.0.0.0 metrics.hitman.io
 0.0.0.0 metrics.hm.com
 0.0.0.0 metrics.hollywood.com
 0.0.0.0 metrics.homebase.co.uk
@@ -24152,6 +24173,7 @@
 0.0.0.0 mytest.applause.com
 0.0.0.0 myz.ucweb.com
 0.0.0.0 n.getclicky.com
+0.0.0.0 n.grlurd.com
 0.0.0.0 n0q201.nexage.com
 0.0.0.0 nab.demdex.net
 0.0.0.0 nai.adlegend.com
@@ -24510,10 +24532,13 @@
 0.0.0.0 outbound.crashlytics.com
 0.0.0.0 outbrain.com
 0.0.0.0 outbrainimg.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 outcome.supersonicads.com
 0.0.0.0 outloud.outbrain.com
 0.0.0.0 outrch.apptentive.com
 0.0.0.0 ovation.applause.com
 0.0.0.0 ovk.xceler8.io
+0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 ow22000.pubmatic.com
 0.0.0.0 owa.adform.com
@@ -24818,6 +24843,7 @@
 0.0.0.0 pixel-s2s.mathtag.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel-test.tapad.com
+0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
 0.0.0.0 pixel-useast.adsymptotic.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.33across.com
@@ -25087,6 +25113,7 @@
 0.0.0.0 plus.googleapis.com
 0.0.0.0 plus.uc.cn
 0.0.0.0 pluspostsfrontend-pa.googleapis.com
+0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 pmall.migc.xiaomi.com
 0.0.0.0 pmapi.wshareit.com
@@ -25193,6 +25220,7 @@
 0.0.0.0 prod.accountkit.com
 0.0.0.0 prod.apptimize.com
 0.0.0.0 prod.crowdtangle.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 productanalyticsplaybook.amplitude.com
 0.0.0.0 productblog.appnexus.com
 0.0.0.0 production-api.areametrics.com
@@ -25644,6 +25672,7 @@
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 rts.ssl2.duapps.com
 0.0.0.0 ru-gmtdmp.mookie1.com
+0.0.0.0 ru.gameanalytics.com
 0.0.0.0 ru.gmads.mookie1.com
 0.0.0.0 ru.uc123.com
 0.0.0.0 ru.ucweb.com
@@ -25661,6 +25690,7 @@
 0.0.0.0 rules2.addapptr.com
 0.0.0.0 rules3.addapptr.com
 0.0.0.0 rum.optimizely.com
+0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rv.ixiaa.com
 0.0.0.0 rva.outbrain.com
 0.0.0.0 rw.tns-counter.ru
@@ -26127,6 +26157,7 @@
 0.0.0.0 sjcidb01.365media.com
 0.0.0.0 sjcidb02.365media.com
 0.0.0.0 sk-gmtdmp.mookie1.com
+0.0.0.0 skdev.io
 0.0.0.0 skim.clickaine.com
 0.0.0.0 skin.uc.cn
 0.0.0.0 skin.ucweb.com
@@ -26165,6 +26196,7 @@
 0.0.0.0 sne.demdex.net
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snipcode.taobao.com
+0.0.0.0 snippetdata.api.swiftkey.com
 0.0.0.0 snv.bluekai.com
 0.0.0.0 so-ext-tf.rlcdn.com
 0.0.0.0 so.2mdn.net
@@ -26891,6 +26923,7 @@
 0.0.0.0 summit.demdex.com
 0.0.0.0 summitstream.appnexus.com
 0.0.0.0 super.rayjump.com
+0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 superstar.s.xoxknct.com
 0.0.0.0 support-developer.applovin.com
 0.0.0.0 support.a-ads.com
@@ -27023,6 +27056,7 @@
 0.0.0.0 t.pubmatic.com
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
+0.0.0.0 t.trackedlink.net
 0.0.0.0 t.uc.cn
 0.0.0.0 t.update.chartbeat.com
 0.0.0.0 t.update.moatads.com
@@ -27215,11 +27249,13 @@
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.allrecipes.com
+0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.nvidia.com
+0.0.0.0 telemetry.obsidian.net
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telenor-analytics.localytics.com
@@ -27349,6 +27385,7 @@
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 tpl.cloudmobi.net
 0.0.0.0 tps.sj2.fastclick.net
+0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-gmtdmp.mookie1.com
 0.0.0.0 tr.4wnet.com
 0.0.0.0 tr.actu-companeo.com
@@ -27457,6 +27494,7 @@
 0.0.0.0 trac.oferting.org
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracer.perezhilton.com
+0.0.0.0 track-api.gamesight.io
 0.0.0.0 track-eu.adform.net
 0.0.0.0 track-tc.adform.net
 0.0.0.0 track-us.adform.net
@@ -28141,6 +28179,7 @@
 0.0.0.0 track.sarasexton.com
 0.0.0.0 track.sarinavalentina.com
 0.0.0.0 track.sauce.ly
+0.0.0.0 track.saygames.io
 0.0.0.0 track.scanguard.com
 0.0.0.0 track.scanmyphones.com
 0.0.0.0 track.scorpiointeractive.com
@@ -28761,6 +28800,7 @@
 0.0.0.0 tracking.aubemobile.com
 0.0.0.0 tracking.autoads.asia
 0.0.0.0 tracking.autoscout24.com
+0.0.0.0 tracking.avalanchestudios.com
 0.0.0.0 tracking.axiatel.com
 0.0.0.0 tracking.babytree.com
 0.0.0.0 tracking.baddoggiemediagroup.com
@@ -29302,6 +29342,7 @@
 0.0.0.0 traffective-d.openx.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafficjunky.com
+0.0.0.0 trahes.site
 0.0.0.0 trainline.demdex.net
 0.0.0.0 transfo.gestionpub.com
 0.0.0.0 translation.criteo.com
@@ -30373,6 +30414,7 @@
 0.0.0.0 www.fqtag.com
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.g.msn.com
+0.0.0.0 www.gameanalytics.com
 0.0.0.0 www.gamefly.speedera.net
 0.0.0.0 www.gestionpub.com
 0.0.0.0 www.get.2leep.com
@@ -30402,6 +30444,7 @@
 0.0.0.0 www.imrworldwide.com
 0.0.0.0 www.in.getclicky.com
 0.0.0.0 www.inmobi.com
+0.0.0.0 www.insnw.net
 0.0.0.0 www.intercom.io
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.ixiaa.com
