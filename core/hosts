@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.208
-# Release: 208
-# Entries: 21,510
+# Version: 19.07.209
+# Release: 209
+# Entries: 21,538
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 27 Jul 19 20:00:19
+# Updated: Sun, 28 Jul 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -479,6 +479,7 @@
 0.0.0.0 94.video-ak.cdn.spotify.com
 0.0.0.0 941jz.cn
 0.0.0.0 9435.adzerk.net
+0.0.0.0 944e66f8683ac43c.com
 0.0.0.0 94982c5b634975e50103ce96082d2827.adk2.co
 0.0.0.0 95.video-ak.cdn.spotify.com
 0.0.0.0 95539.com
@@ -512,6 +513,7 @@
 0.0.0.0 Clakcp.com
 0.0.0.0 Lovevipsale
 0.0.0.0 SCarLetcoat.uS
+0.0.0.0 SERIAL: 2019.00000001
 0.0.0.0 ScARLetCoaT.Us
 0.0.0.0 a-ads.com
 0.0.0.0 a-ams.1rx.io
@@ -2089,7 +2091,6 @@
 0.0.0.0 ads.persgroep.net
 0.0.0.0 ads.petspot-gmbh.com
 0.0.0.0 ads.phonemates.com
-0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
@@ -3433,6 +3434,7 @@
 0.0.0.0 an.vporn.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 anahtars.com
+0.0.0.0 analizamos
 0.0.0.0 analy.qq.com
 0.0.0.0 analysis.lax.mathtag.com
 0.0.0.0 analysis.polarisoffice.com
@@ -5405,6 +5407,7 @@
 0.0.0.0 cadatabank.adtdp.com
 0.0.0.0 caesar.wan.panda.tv
 0.0.0.0 cafepharma.adblade.com
+0.0.0.0 caigiees.com
 0.0.0.0 cajalwinterconference.es
 0.0.0.0 cajgbabcfhjceiacabd.ru
 0.0.0.0 calairstore.com
@@ -5872,6 +5875,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
+0.0.0.0 cexfaq.top
 0.0.0.0 cf-ad.ad-stir.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf.addthis.com
@@ -5960,6 +5964,7 @@
 0.0.0.0 chunkycactus.com
 0.0.0.0 ci-ph.rdtcdn.com
 0.0.0.0 cialissenzaricettainfarmacia.com
+0.0.0.0 ciberdelincuentes
 0.0.0.0 cibleclick.com
 0.0.0.0 cic.umeng.com
 0.0.0.0 cieh.mx
@@ -5976,6 +5981,7 @@
 0.0.0.0 city-ads.de
 0.0.0.0 cityads.telus.net
 0.0.0.0 cityadspix.com
+0.0.0.0 citycoco.es
 0.0.0.0 citygrid.com
 0.0.0.0 citylukup.com
 0.0.0.0 ciyrc.watchmovie.fun
@@ -5991,6 +5997,7 @@
 0.0.0.0 cl7khotyeny.ru
 0.0.0.0 cl96rwprue.com
 0.0.0.0 clad.perfectcorp.com
+0.0.0.0 clakcp.com
 0.0.0.0 clarashousechicago.org
 0.0.0.0 claria.com
 0.0.0.0 clariad.adk2.co
@@ -6207,6 +6214,7 @@
 0.0.0.0 clothesfairm.club
 0.0.0.0 clothesplen.club
 0.0.0.0 clothesslshop.club
+0.0.0.0 clothestrip.club
 0.0.0.0 clothfoot.xyz
 0.0.0.0 clothingsshopping.club
 0.0.0.0 clotholip.xyz
@@ -7384,6 +7392,7 @@
 0.0.0.0 domivideos.com
 0.0.0.0 donkeyleaf.com
 0.0.0.0 donmasseyarborist.com
+0.0.0.0 donna.autumnustyle.com
 0.0.0.0 dont.skip-ads.net
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 doodlemobile.com
@@ -9548,6 +9557,7 @@
 0.0.0.0 housead.umeng.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
+0.0.0.0 houseconcern.com
 0.0.0.0 hoverr.co
 0.0.0.0 hoverr.media
 0.0.0.0 howdoijointhenepforcegroupbecauseiforgotmynicknameandpassword.com
@@ -10886,6 +10896,7 @@
 0.0.0.0 larentisol.com
 0.0.0.0 large-format.net
 0.0.0.0 larosanotizia.com
+0.0.0.0 lascositasdemarieta.es
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 latest.accountkit.com
@@ -11246,6 +11257,7 @@
 0.0.0.0 lovebagsshopings.club
 0.0.0.0 loveclothingssale.club
 0.0.0.0 loveofrose.com
+0.0.0.0 lovevipsale
 0.0.0.0 lovevipsale.com
 0.0.0.0 loxtk.com
 0.0.0.0 lp-site.com
@@ -11425,6 +11437,7 @@
 0.0.0.0 mad.adcash.com
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madadsmedia.com
+0.0.0.0 madame-spain.com
 0.0.0.0 madbbs.org
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
@@ -12248,6 +12261,7 @@
 0.0.0.0 multipooler.com
 0.0.0.0 multiview.com
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 mundo-baby.com
 0.0.0.0 mundomotorsport.es
 0.0.0.0 muqson0kgr.com
 0.0.0.0 murcyagoods.xyz
@@ -12332,6 +12346,7 @@
 0.0.0.0 mygoodlives.com
 0.0.0.0 myimg.bid
 0.0.0.0 myinfotopia.com
+0.0.0.0 mylevfpqmlt.com
 0.0.0.0 mymoneyfixing.top
 0.0.0.0 mymusic-video.info
 0.0.0.0 mynavi.ucweb.com
@@ -12618,6 +12633,7 @@
 0.0.0.0 nikee.club
 0.0.0.0 nikekc.com
 0.0.0.0 nikelatest.com
+0.0.0.0 nikene.com
 0.0.0.0 nikepy.com
 0.0.0.0 nikesl.com
 0.0.0.0 niketd.com
@@ -12670,6 +12686,7 @@
 0.0.0.0 norentisol.com
 0.0.0.0 noretia.com
 0.0.0.0 norkf.com
+0.0.0.0 norkk.ga
 0.0.0.0 norkz.com
 0.0.0.0 normalexchange.com
 0.0.0.0 normkela.com
@@ -15662,6 +15679,7 @@
 0.0.0.0 shopitoffco.com
 0.0.0.0 shoppingads.com
 0.0.0.0 shoppingsports.Club
+0.0.0.0 shoppingsports.club
 0.0.0.0 shopsshoes.club
 0.0.0.0 shoptcyqct.tw
 0.0.0.0 shopvipmall.co
@@ -16446,6 +16464,7 @@
 0.0.0.0 stormysponge.com
 0.0.0.0 storybook.speedera.net
 0.0.0.0 storygize.net
+0.0.0.0 stotoys.com
 0.0.0.0 str1kee.com
 0.0.0.0 stra.hasmobi.net
 0.0.0.0 straightnest.com
@@ -17062,6 +17081,7 @@
 0.0.0.0 timeteh.com
 0.0.0.0 timetofun.mobi
 0.0.0.0 timetogame.com
+0.0.0.0 timkk.com
 0.0.0.0 tin-tin-win.com
 0.0.0.0 tinbuadserv.com
 0.0.0.0 tingyunea.meitustat.com
@@ -18468,6 +18488,7 @@
 0.0.0.0 uod2quk646.com
 0.0.0.0 uodoo.com
 0.0.0.0 uonj2o6i.loan
+0.0.0.0 uoommnucvua.com
 0.0.0.0 uop.umeng.com
 0.0.0.0 up.bav.baidu.com
 0.0.0.0 up.br.bav.baidu.com
@@ -18745,6 +18766,7 @@
 0.0.0.0 vessio.ml
 0.0.0.0 vewnwd.xyz
 0.0.0.0 vexacion.com
+0.0.0.0 vextelzo.com
 0.0.0.0 vgrtf54dtse.ml
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vhmnetwork.com
@@ -19381,6 +19403,7 @@
 0.0.0.0 wps.zog.link
 0.0.0.0 wr.digitaldsp.com
 0.0.0.0 wrongpotato.com
+0.0.0.0 wrontontordingcal.info
 0.0.0.0 wryfinger.com
 0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ws-api.adtech.de
@@ -20403,6 +20426,7 @@
 0.0.0.0 www.myfilestore.com
 0.0.0.0 www.myfreecams.com
 0.0.0.0 www.myishop.co.uk
+0.0.0.0 www.mylevfpqmlt.com
 0.0.0.0 www.myrobotearn.top
 0.0.0.0 www.mysterysnooper.com
 0.0.0.0 www.mywot.net
@@ -20897,6 +20921,7 @@
 0.0.0.0 www.unidingcom.com
 0.0.0.0 www.unityads.unity3d.com
 0.0.0.0 www.uodoo.com
+0.0.0.0 www.uoommnucvua.com
 0.0.0.0 www.uorhedemxtni.com
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.urldelivery.com
@@ -21155,6 +21180,7 @@
 0.0.0.0 ximad.com
 0.0.0.0 xinchao13.gq
 0.0.0.0 xinchao13.ml
+0.0.0.0 xingjxcgbdylbj.store
 0.0.0.0 xintols.space
 0.0.0.0 xishuai.gq
 0.0.0.0 xiti.com
@@ -21189,6 +21215,7 @@
 0.0.0.0 xml.revrtb.net
 0.0.0.0 xml.xbidflare.com
 0.0.0.0 xmovilmi.com
+0.0.0.0 xmovilmi.comxmovilmi.com
 0.0.0.0 xmovils.com
 0.0.0.0 xmr-tw.org
 0.0.0.0 xmr.pt
@@ -21485,6 +21512,7 @@
 0.0.0.0 zgalaxyplays.com
 0.0.0.0 zgalaxystore.com
 0.0.0.0 zgcplfvjpixarg.com
+0.0.0.0 zgsountes.xyz
 0.0.0.0 zh-cn.ime.cootek.com
 0.0.0.0 zhash.pro
 0.0.0.0 zhcn.admob.com
