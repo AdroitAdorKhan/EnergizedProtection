@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.209
-# Release: 209
-# Entries: 21,538
+# Version: 19.07.210
+# Release: 210
+# Entries: 21,556
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 28 Jul 19 20:00:15
+# Updated: Mon, 29 Jul 19 20:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -97,6 +97,7 @@
 0.0.0.0 128ad3cf92ed.com
 0.0.0.0 12bet.casino
 0.0.0.0 12bvn.com
+0.0.0.0 12dc71b7cb820f2a.com
 0.0.0.0 12finance.com
 0.0.0.0 12place.com
 0.0.0.0 13.video-ak.cdn.spotify.com
@@ -173,6 +174,7 @@
 0.0.0.0 20thcenturysculpture.com
 0.0.0.0 21.video-ak.cdn.spotify.com
 0.0.0.0 21150.com
+0.0.0.0 21ed64eb0f1f.com
 0.0.0.0 22.video-ak.cdn.spotify.com
 0.0.0.0 23.video-ak.cdn.spotify.com
 0.0.0.0 24.video-ak.cdn.spotify.com
@@ -515,6 +517,7 @@
 0.0.0.0 SCarLetcoat.uS
 0.0.0.0 SERIAL: 2019.00000001
 0.0.0.0 ScARLetCoaT.Us
+0.0.0.0 Vextelzo.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 a-counter.kiev.ua
@@ -621,6 +624,7 @@
 0.0.0.0 a433.com
 0.0.0.0 a4cdn.contentabc.com
 0.0.0.0 a5.video-ak.cdn.spotify.com
+0.0.0.0 a510fe1652b.com
 0.0.0.0 a5a5a.com
 0.0.0.0 a6.video-ak.cdn.spotify.com
 0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
@@ -1814,7 +1818,6 @@
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.avocarrot.com
 0.0.0.0 ads.avocet.io
-0.0.0.0 ads.aws.rubiconproject.com
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.beriltech.com
@@ -4319,6 +4322,7 @@
 0.0.0.0 awzbijw.com
 0.0.0.0 ax.zkmobi.com
 0.0.0.0 axill.com
+0.0.0.0 axmxugd3dpqwmsi.ru
 0.0.0.0 axoncoho.tk
 0.0.0.0 axonix.com
 0.0.0.0 ay-gb.mgid.com
@@ -4813,6 +4817,7 @@
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bf.video-ak.cdn.spotify.com
 0.0.0.0 bf1.flurry.com
+0.0.0.0 bfae56861e.com
 0.0.0.0 bfast.com
 0.0.0.0 bfmio.com
 0.0.0.0 bfp.bidgear.com
@@ -5008,7 +5013,6 @@
 0.0.0.0 blog.outbrain.com
 0.0.0.0 blog.pagefair.com
 0.0.0.0 blog.polarmobile.com
-0.0.0.0 blog.roboinside.me
 0.0.0.0 blog.taptica.com
 0.0.0.0 blog.umeng.com
 0.0.0.0 blog2.adhese.com
@@ -6858,7 +6862,6 @@
 0.0.0.0 d.watchmovie.fun
 0.0.0.0 d.workflowboard.com
 0.0.0.0 d0.video-ak.cdn.spotify.com
-0.0.0.0 d03x2011.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d1.yengo.com
 0.0.0.0 d10lumateci472.cloudfront.net
@@ -7723,6 +7726,7 @@
 0.0.0.0 e8.video-ak.cdn.spotify.com
 0.0.0.0 e8960.e2.akamaiedge.net
 0.0.0.0 e9.video-ak.cdn.spotify.com
+0.0.0.0 e93c9da15fda0.com
 0.0.0.0 e9geolgzk6.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea.video-ak.cdn.spotify.com
@@ -7781,7 +7785,6 @@
 0.0.0.0 ecoining.com
 0.0.0.0 ecomlines.info
 0.0.0.0 ecommerce-images.algolia.com
-0.0.0.0 ecommerce.roboinside.me
 0.0.0.0 economicpizzas.com
 0.0.0.0 ecoupons.com
 0.0.0.0 ecpm.adbooth.com
@@ -7843,6 +7846,7 @@
 0.0.0.0 ehealthcaresolutions.com
 0.0.0.0 ehxuonl3adfgxvy.ru
 0.0.0.0 ei-ph.rdtcdn.com
+0.0.0.0 eihjefbbbbddeiacedb.ru
 0.0.0.0 einfach-iota.de
 0.0.0.0 eip-ntt.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
@@ -7869,6 +7873,7 @@
 0.0.0.0 electosake.com
 0.0.0.0 electroneum.ovh
 0.0.0.0 electronicsshoph.info
+0.0.0.0 elegants-best.com
 0.0.0.0 elem.cards
 0.0.0.0 elementstatistics.com
 0.0.0.0 elephantdata.net
@@ -8231,6 +8236,7 @@
 0.0.0.0 f3c9986c7ff745.com
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f4.video-ak.cdn.spotify.com
+0.0.0.0 f4d86b2711099d.com
 0.0.0.0 f5.video-ak.cdn.spotify.com
 0.0.0.0 f5biz.com
 0.0.0.0 f6.video-ak.cdn.spotify.com
@@ -8877,6 +8883,7 @@
 0.0.0.0 ghostvogue.com
 0.0.0.0 ghoto-12.win
 0.0.0.0 gi-js.genieessp.com
+0.0.0.0 giallo.nowugotoshopping.com
 0.0.0.0 giantaffiliates.com
 0.0.0.0 giddycoat.com
 0.0.0.0 gif-ads.top
@@ -10823,6 +10830,7 @@
 0.0.0.0 kr.admob.com
 0.0.0.0 kr.taptica.com
 0.0.0.0 kr3vinsx.com
+0.0.0.0 kraruzatefci.com
 0.0.0.0 kratos.biz
 0.0.0.0 krb.devphp.org.ua
 0.0.0.0 kristimishell.com
@@ -10842,7 +10850,6 @@
 0.0.0.0 kuikdelivery.com
 0.0.0.0 kumpulblogger.com
 0.0.0.0 kunlun.co
-0.0.0.0 kushat.roboinside.me
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kwurl.ucweb.com
 0.0.0.0 kz6c.piguiqproxy.com
@@ -10926,6 +10933,7 @@
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 lbn.ru
 0.0.0.0 lbs.ucnews.ucweb.com
+0.0.0.0 lbsindigo.sharemasala.com
 0.0.0.0 lbytagcqxefsn.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lcameratop.me
@@ -11767,6 +11775,7 @@
 0.0.0.0 merrescarpe.online
 0.0.0.0 merreson.online
 0.0.0.0 meskiswiat.info
+0.0.0.0 mesonlosreyes.es
 0.0.0.0 mesos-gcp-lb.algolia.com
 0.0.0.0 message.umeng.com
 0.0.0.0 messagenovice.com
@@ -12076,6 +12085,7 @@
 0.0.0.0 mobpowertech.com
 0.0.0.0 mobpushup.com
 0.0.0.0 mobred.net
+0.0.0.0 mobsocks.yy.duowan.com
 0.0.0.0 mobsrv.in
 0.0.0.0 mobstac.com
 0.0.0.0 mobsterbird.info
@@ -12287,6 +12297,7 @@
 0.0.0.0 mutix.int.browser.baidu.com
 0.0.0.0 muwmedia.com
 0.0.0.0 mver.agkn.com
+0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvp-us-east-1.onemobile.yahoo.com
 0.0.0.0 mvpcanzy.site
 0.0.0.0 mw.uc.cn
@@ -12489,6 +12500,7 @@
 0.0.0.0 nepalhtml.com
 0.0.0.0 ner-de-mi-nis-6.info
 0.0.0.0 nerdorium.org
+0.0.0.0 nerebtedrabla.info
 0.0.0.0 nerohut.com
 0.0.0.0 nertyp.us
 0.0.0.0 nervoussummer.com
@@ -13656,6 +13668,7 @@
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phudrour.net
 0.0.0.0 phunware.com
+0.0.0.0 phywyzpugswttb.com
 0.0.0.0 pi-ads.appia.com
 0.0.0.0 pialaqq.com
 0.0.0.0 pialaqq365.net
@@ -14517,6 +14530,7 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.skimresources.com
+0.0.0.0 r.soarsvr.com
 0.0.0.0 r.w.inmobi.com
 0.0.0.0 r.wales
 0.0.0.0 r.wallstrads.com
@@ -15416,7 +15430,6 @@
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 seashore.ironhistory.club
-0.0.0.0 sebder.roboinside.me
 0.0.0.0 sec.umeng.com
 0.0.0.0 seccoads.com
 0.0.0.0 secondstreetmedia.com
@@ -17130,6 +17143,7 @@
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tmblaeivephb.com
 0.0.0.0 tmdn2015x9.com
+0.0.0.0 tmoki.com
 0.0.0.0 tmqhw.us
 0.0.0.0 tms.triboomedia.it
 0.0.0.0 tmz.vo.llnwd.net
@@ -17471,7 +17485,6 @@
 0.0.0.0 track.movad.net
 0.0.0.0 track.mrskininteractive.com
 0.0.0.0 track.msadcenter.afgz.com
-0.0.0.0 track.msadcenter.ajfy.com
 0.0.0.0 track.msadcenter.ama.com
 0.0.0.0 track.msadcenter.ceio.com
 0.0.0.0 track.msadcenter.cxtv.com
@@ -17963,6 +17976,7 @@
 0.0.0.0 trackmackweldon.com
 0.0.0.0 trackmedia101.com
 0.0.0.0 trackmysales.com
+0.0.0.0 trackoi.com
 0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tracktor.co.uk
 0.0.0.0 trackvoluum.com
@@ -19916,7 +19930,6 @@
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.chat.adspaces.ero-advertising.com
 0.0.0.0 www.chat.ero-advertising.com
-0.0.0.0 www.chdaismlykqep.com
 0.0.0.0 www.cheapsunglasses.cn
 0.0.0.0 www.check-now.net
 0.0.0.0 www.check-now.online
@@ -20303,7 +20316,6 @@
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
 0.0.0.0 www.karisimbi.net
-0.0.0.0 www.kbymnqiomnegs.com
 0.0.0.0 www.kds.ero-advertising.com
 0.0.0.0 www.keepload.online
 0.0.0.0 www.kelkoo.com
@@ -20316,6 +20328,7 @@
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
+0.0.0.0 www.kraruzatefci.com
 0.0.0.0 www.kuaptrk.com
 0.0.0.0 www.kushat.roboinside.me
 0.0.0.0 www.kzhav.voluumtrk.com
@@ -20415,6 +20428,7 @@
 0.0.0.0 www.mozook.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
+0.0.0.0 www.mvnuyjsdgle.com
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.mxttrf.com
 0.0.0.0 www.my4kvideo.info
@@ -20529,6 +20543,7 @@
 0.0.0.0 www.phpmyadmin.ads.ero-advertising.com
 0.0.0.0 www.phpmyadmin.ero-advertising.com
 0.0.0.0 www.phpmyadmin.js.ero-advertising.com
+0.0.0.0 www.phywyzpugswttb.com
 0.0.0.0 www.picsunday.com
 0.0.0.0 www.piwik.adspaces.ero-advertising.com
 0.0.0.0 www.piwik.ero-advertising.com
@@ -20557,6 +20572,7 @@
 0.0.0.0 www.pornstars4webcam.com
 0.0.0.0 www.pray.priests.top
 0.0.0.0 www.prebid.adnxs.com
+0.0.0.0 www.predictiondexchange.com
 0.0.0.0 www.predictionds.com
 0.0.0.0 www.pregnancy.adblade.com
 0.0.0.0 www.premieroll.com
@@ -20587,6 +20603,7 @@
 0.0.0.0 www.pushedwebnews.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.qcoldtui1999.com
+0.0.0.0 www.qeivncvk.com
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
@@ -21052,7 +21069,6 @@
 0.0.0.0 www.yac.mx
 0.0.0.0 www.yahoo-news.co
 0.0.0.0 www.yardzing.com
-0.0.0.0 www.ydzakntxe.com
 0.0.0.0 www.yengo.com
 0.0.0.0 www.yes8sg.com
 0.0.0.0 www.yip.su
@@ -21062,6 +21078,7 @@
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.yourtuber.info
 0.0.0.0 www.yserch.com
+0.0.0.0 www.yuzsvoanyw.com
 0.0.0.0 www.ywpkgqasoe.bid
 0.0.0.0 www.z.moatads.com
 0.0.0.0 www.z9n5o.voluumtrk.com
@@ -21075,13 +21092,13 @@
 0.0.0.0 www.zeus.ad.intl.xiaomi.com
 0.0.0.0 www.zeus.ad.xiaomi.com
 0.0.0.0 www.zindas.info
+0.0.0.0 www.zkoumvpngkubl.com
 0.0.0.0 www.zl1.quebec-bin.com
 0.0.0.0 www.zlx.com.br
 0.0.0.0 www.znacktv.it
 0.0.0.0 www.zo1.sierra-boa.com
 0.0.0.0 www.zog.link
 0.0.0.0 www.zoorate.com
-0.0.0.0 www.zounhlyqz.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zww.ero-advertising.com
@@ -21525,6 +21542,7 @@
 0.0.0.0 zinterest.ga
 0.0.0.0 zintext.com
 0.0.0.0 ziqdunppuzjd.com
+0.0.0.0 zkoumvpngkubl.com
 0.0.0.0 zl1.quebec-bin.com
 0.0.0.0 zlx.com.br
 0.0.0.0 zme8o3l1c4.com
