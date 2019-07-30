@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.210
-# Release: 210
-# Entries: 21,556
+# Version: 19.07.211
+# Release: 211
+# Entries: 21,567
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 29 Jul 19 20:00:19
+# Updated: Tue, 30 Jul 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -319,6 +319,7 @@
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 4b.video-ak.cdn.spotify.com
 0.0.0.0 4c.video-ak.cdn.spotify.com
+0.0.0.0 4c1c6f05b25.com
 0.0.0.0 4chan-ads.org
 0.0.0.0 4cheo.org
 0.0.0.0 4d.video-ak.cdn.spotify.com
@@ -416,6 +417,7 @@
 0.0.0.0 79.video-ak.cdn.spotify.com
 0.0.0.0 7a.video-ak.cdn.spotify.com
 0.0.0.0 7b.video-ak.cdn.spotify.com
+0.0.0.0 7bb15da640.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7c.video-ak.cdn.spotify.com
 0.0.0.0 7c8ea43601.com
@@ -493,6 +495,7 @@
 0.0.0.0 98.video-ak.cdn.spotify.com
 0.0.0.0 980media.com
 0.0.0.0 99.video-ak.cdn.spotify.com
+0.0.0.0 990b424f659e4e27.com
 0.0.0.0 9969887e14d8dda1061497d244865b17.adk2.co
 0.0.0.0 99count.com
 0.0.0.0 99ea586436.com
@@ -629,6 +632,7 @@
 0.0.0.0 a6.video-ak.cdn.spotify.com
 0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 0.0.0.0 a7.video-ak.cdn.spotify.com
+0.0.0.0 a7d17abaec7c.com
 0.0.0.0 a8.video-ak.cdn.spotify.com
 0.0.0.0 a9.com
 0.0.0.0 a9.video-ak.cdn.spotify.com
@@ -5343,6 +5347,7 @@
 0.0.0.0 c.y.qq.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c0.video-ak.cdn.spotify.com
+0.0.0.0 c02728b0459bd.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.infomobi.me
@@ -14927,6 +14932,7 @@
 0.0.0.0 richwebmedia.com
 0.0.0.0 ridingintractable.com
 0.0.0.0 riefly.id
+0.0.0.0 righthenwilbetrin.info
 0.0.0.0 rightmedia.com
 0.0.0.0 rightstats.com
 0.0.0.0 rigminingpool.com
@@ -16380,7 +16386,6 @@
 0.0.0.0 stats.clear-media.com.re.getclicky.com
 0.0.0.0 stats.data2.ero-advertising.com
 0.0.0.0 stats.digitalimagination.com.re.getclicky.com
-0.0.0.0 stats.directnic.com
 0.0.0.0 stats.dngmediagroup.com.re.getclicky.com
 0.0.0.0 stats.dtrack.de.re.getclicky.com
 0.0.0.0 stats.ero-advertising.com
@@ -16994,6 +16999,7 @@
 0.0.0.0 thaitokenomic.com
 0.0.0.0 thaitokenomics.com
 0.0.0.0 thales.adsrvr.org
+0.0.0.0 thatrowrofired.info
 0.0.0.0 theadhost.com
 0.0.0.0 theannoyingsite.com
 0.0.0.0 theappguruz.com
@@ -18639,6 +18645,7 @@
 0.0.0.0 utilities.shareitpay.in
 0.0.0.0 utils.cedsdigital.it
 0.0.0.0 utils.mediageneral.net
+0.0.0.0 utletsoriandh.info
 0.0.0.0 utop.ir
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utp.ucweb.com
@@ -19229,6 +19236,7 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 wexevoom.net
 0.0.0.0 wf.taboola.com
+0.0.0.0 wghmgbjpxmlxa.com
 0.0.0.0 wglinkmanager.com
 0.0.0.0 wh.kissmetrics.com
 0.0.0.0 wh5kb0u4.com
@@ -20608,6 +20616,7 @@
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
 0.0.0.0 www.qpianhkxxuc.com
+0.0.0.0 www.qtiyntsp.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
@@ -21001,6 +21010,7 @@
 0.0.0.0 www.wes.df.telemetry.microsoft.com
 0.0.0.0 www.wetrafficstars.mobi
 0.0.0.0 www.wf.taboola.com
+0.0.0.0 www.wghmgbjpxmlxa.com
 0.0.0.0 www.whatsaappp.com
 0.0.0.0 www.whatsapps.com
 0.0.0.0 www.whstatic.com
@@ -21065,6 +21075,7 @@
 0.0.0.0 www.xdadevelopers.browsi.mobi
 0.0.0.0 www.xmtrk.com
 0.0.0.0 www.xn--adspace-kvg.ero-advertising.com
+0.0.0.0 www.xnyiljkfdwgu.com
 0.0.0.0 www.xxxmeet.net
 0.0.0.0 www.yac.mx
 0.0.0.0 www.yahoo-news.co
