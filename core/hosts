@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.07.212
-# Release: 212
-# Entries: 21,598
+# Version: 19.08.213
+# Release: 213
+# Entries: 21,597
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 31 Jul 19 20:00:16
+# Updated: Thu, 01 Aug 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1005,7 +1005,6 @@
 0.0.0.0 ad.pl.doubleclick.net
 0.0.0.0 ad.pornimg.xyz
 0.0.0.0 ad.prismamediadigital.com
-0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.pt.doubleclick.net
 0.0.0.0 ad.rambler.ru
@@ -4575,7 +4574,6 @@
 0.0.0.0 banner.tripple.at
 0.0.0.0 banner.vadian.net
 0.0.0.0 banner.vrtzads.com
-0.0.0.0 banner.webmersion.com
 0.0.0.0 bannerbank.ru
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannercde.com
@@ -5964,7 +5962,6 @@
 0.0.0.0 chickenracing.com
 0.0.0.0 chickensstation.com
 0.0.0.0 chicpc.com
-0.0.0.0 chiefcurrent.com
 0.0.0.0 chiliadv.com
 0.0.0.0 chimachinenow.com
 0.0.0.0 china.inmobi.com
@@ -7452,6 +7449,7 @@
 0.0.0.0 down5.game.uc.cn
 0.0.0.0 downali.game.uc.cn
 0.0.0.0 downcloud.net
+0.0.0.0 downherstorstitone.pro
 0.0.0.0 downioad-requlred-070.club
 0.0.0.0 downioad-requlred-b50.club
 0.0.0.0 download-player.com
@@ -7497,7 +7495,6 @@
 0.0.0.0 drawbrid.ge
 0.0.0.0 dreamaquarium.com
 0.0.0.0 dreamitsystems.com
-0.0.0.0 dreamsearch.or.kr
 0.0.0.0 driverequest.com
 0.0.0.0 drmartensau.com
 0.0.0.0 drmartensportugal.com
@@ -11341,6 +11338,7 @@
 0.0.0.0 lunarads.com
 0.0.0.0 lunaup.top
 0.0.0.0 lutereum.com
+0.0.0.0 luuming.com
 0.0.0.0 luxadv.com
 0.0.0.0 luxfashion.uk
 0.0.0.0 luxor.tech
@@ -21046,7 +21044,6 @@
 0.0.0.0 www.wiki.adspaces.ero-advertising.com
 0.0.0.0 www.wiki.ero-advertising.com
 0.0.0.0 www.wind.windonline.com
-0.0.0.0 www.windows8problems.com
 0.0.0.0 www.windowsonlinesupportnow.com
 0.0.0.0 www.windowssupportnow.com
 0.0.0.0 www.windowssupportnumber.com
@@ -21099,6 +21096,7 @@
 0.0.0.0 www.www.vdtrack.com
 0.0.0.0 www.www.www.cpm20.com
 0.0.0.0 www.wwwgoogles.com
+0.0.0.0 www.wxhiioce.com
 0.0.0.0 www.wzismevwhqixlq.com
 0.0.0.0 www.xbtitfm.com
 0.0.0.0 www.xdadevelopers.browsi.mobi
@@ -21169,6 +21167,7 @@
 0.0.0.0 wwwpls.personal168.com
 0.0.0.0 wwwpromoter.com
 0.0.0.0 wwwtotalsportekcom.cdaz.icu
+0.0.0.0 wxhiioce.com
 0.0.0.0 wycji.top
 0.0.0.0 wyl1ccan.com
 0.0.0.0 wyl1ccany.com
