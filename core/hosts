@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.213
-# Release: 213
-# Entries: 21,597
+# Version: 19.08.214
+# Release: 214
+# Entries: 21,585
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 01 Aug 19 20:00:21
+# Updated: Fri, 02 Aug 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -312,6 +312,7 @@
 0.0.0.0 47.video-ak.cdn.spotify.com
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 48.video-ak.cdn.spotify.com
+0.0.0.0 489ea64f39.com
 0.0.0.0 49.video-ak.cdn.spotify.com
 0.0.0.0 49oa3o49b6.com
 0.0.0.0 4a.video-ak.cdn.spotify.com
@@ -2410,6 +2411,7 @@
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adcash.com
+0.0.0.0 adserver.admost.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver.adtech.de
@@ -3664,6 +3666,7 @@
 0.0.0.0 anners.ero-advertising.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 annualconsumersurvey.com
+0.0.0.0 annuzine.com
 0.0.0.0 anon.amazon-de.speedera.net
 0.0.0.0 anon.amazon.speedera.net
 0.0.0.0 anon.bn24.speedera.net
@@ -3762,6 +3765,7 @@
 0.0.0.0 api.adfurikun.jp
 0.0.0.0 api.adjust.com
 0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 api.admost.com
 0.0.0.0 api.adnxs.com
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 api.adsafeprotected.com
@@ -3955,6 +3959,7 @@
 0.0.0.0 apmebf.com
 0.0.0.0 app-01.engage.jio.com
 0.0.0.0 app-adforce.jp
+0.0.0.0 app-analytics-india.huami.com
 0.0.0.0 app-analytics-us.huami.com
 0.0.0.0 app-benchmarks.adjust.com
 0.0.0.0 app-promo.com
@@ -5873,6 +5878,7 @@
 0.0.0.0 cedsdigital.it
 0.0.0.0 ceehimur.uk
 0.0.0.0 ceetoaho.com
+0.0.0.0 cef5b491241aa0f3.com
 0.0.0.0 celebmasta.com
 0.0.0.0 celestine.actor
 0.0.0.0 celltick.com
@@ -6457,6 +6463,7 @@
 0.0.0.0 confluence.brightcove.com
 0.0.0.0 confluence.kissmetrics.com
 0.0.0.0 confluence.outbrain.com
+0.0.0.0 congresomicologia2016.es
 0.0.0.0 conhive.com
 0.0.0.0 conmicamaracuestas.es
 0.0.0.0 connect.appsflyer.com
@@ -6885,7 +6892,6 @@
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
-0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 d2.video-ak.cdn.spotify.com
 0.0.0.0 d2.yengo.com
 0.0.0.0 d20i5e3rqc90ne.cloudfront.net
@@ -6940,6 +6946,7 @@
 0.0.0.0 dapper.net
 0.0.0.0 darabino.xyz
 0.0.0.0 darriens.adk2x.com
+0.0.0.0 dartmotif.net
 0.0.0.0 das5ku9q.com
 0.0.0.0 dasan.deutschland-zahlung.eu
 0.0.0.0 dash.adjust.com
@@ -8275,6 +8282,7 @@
 0.0.0.0 factorcontest.com
 0.0.0.0 faggrim.com
 0.0.0.0 fahdsite.pro
+0.0.0.0 fahrdienstinberlin.de
 0.0.0.0 failerhood.com
 0.0.0.0 fairfax.cxsearch.cxense.com
 0.0.0.0 fairhash.org
@@ -8486,7 +8494,6 @@
 0.0.0.0 flightsy.bid
 0.0.0.0 flightsy.date
 0.0.0.0 flightsy.win
-0.0.0.0 flightzy.date
 0.0.0.0 flightzy.win
 0.0.0.0 flimsycircle.com
 0.0.0.0 flite.com
@@ -8929,6 +8936,7 @@
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 gjrystbjustuw.com
 0.0.0.0 gjtrack.uc.cn
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gk.loadmill.com
@@ -9529,6 +9537,7 @@
 0.0.0.0 hnaws.gq
 0.0.0.0 hnsearch.algolia.com
 0.0.0.0 ho.lazada.co.th
+0.0.0.0 hobbsfashiondresses.com
 0.0.0.0 hodl.blockquarry.com
 0.0.0.0 hokashoes.site
 0.0.0.0 holacasita.com
@@ -9626,6 +9635,7 @@
 0.0.0.0 huijol.gq
 0.0.0.0 humandemand.com
 0.0.0.0 humparsi.com
+0.0.0.0 humsoolt.net
 0.0.0.0 huntmad.com
 0.0.0.0 huochepiao.uodoo.com
 0.0.0.0 huodong.umeng.com
@@ -11177,6 +11187,7 @@
 0.0.0.0 lockhosts.com
 0.0.0.0 lockit.ushareit.com
 0.0.0.0 lockscalecompare.com
+0.0.0.0 lockwoodsmarina.com
 0.0.0.0 lodeo-ad.adtdp.com
 0.0.0.0 lodeo-adnw.adtdp.com
 0.0.0.0 lodeo-cv.adtdp.com
@@ -11228,6 +11239,7 @@
 0.0.0.0 logapi.rayjump.com
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
+0.0.0.0 logger.c1oudmobi.net
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.ntracecloud.com
@@ -11526,7 +11538,6 @@
 0.0.0.0 majorminers.com
 0.0.0.0 makeboluor.gq
 0.0.0.0 makemyvids.com
-0.0.0.0 makerstat.info
 0.0.0.0 makeupbysally.co.uk
 0.0.0.0 malesignal.com
 0.0.0.0 malictuiar.com
@@ -11592,6 +11603,7 @@
 0.0.0.0 martinbootsalestores.site
 0.0.0.0 marvel.appia.com
 0.0.0.0 mas.sector.sk
+0.0.0.0 mashraf.de
 0.0.0.0 maslakescort.com
 0.0.0.0 master.ads.contentabc.com
 0.0.0.0 masterads.org
@@ -12049,6 +12061,7 @@
 0.0.0.0 mobile-mining.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 mobile.Banzai.it
+0.0.0.0 mobile.admost.com
 0.0.0.0 mobile.adnxs.com
 0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobile.aws.weather.com
@@ -12943,6 +12956,7 @@
 0.0.0.0 ogrovom.xyz
 0.0.0.0 ohmcasting.com
 0.0.0.0 ohmwrite.com
+0.0.0.0 ohmyshop.co.za
 0.0.0.0 oinqqbzs.com
 0.0.0.0 oipzyrzffum.ovh
 0.0.0.0 oiumoqzo.com
@@ -13773,7 +13787,6 @@
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.milasparreprob.club
 0.0.0.0 pixel.moatads.com
-0.0.0.0 pixel.nc0.co
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel.onyemantee.pro
 0.0.0.0 pixel.othepbuttit.com
@@ -14575,6 +14588,7 @@
 0.0.0.0 r6---sn-q4fl6n7y.c.2mdn.net
 0.0.0.0 r7mediar.com
 0.0.0.0 rabbit.meitustat.com
+0.0.0.0 rabbk.com
 0.0.0.0 rad.msn.com.nsatc.net
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarnews.uodoo.com
@@ -14634,6 +14648,7 @@
 0.0.0.0 rathertrihe.info
 0.0.0.0 ratings.lycos.com
 0.0.0.0 ratingtoplist.com
+0.0.0.0 ratresperheto.pro
 0.0.0.0 ravenmake.com
 0.0.0.0 ravry.com
 0.0.0.0 rawasy.com
@@ -15103,7 +15118,6 @@
 0.0.0.0 rtbgw-na-east.adgrx.com
 0.0.0.0 rtbgw-na-west.adgrx.com
 0.0.0.0 rtbidder.net
-0.0.0.0 rtblbtr.alphonso.tv
 0.0.0.0 rtbmedia.org
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
@@ -15724,6 +15738,7 @@
 0.0.0.0 shopalyst.com
 0.0.0.0 shopclick.biz
 0.0.0.0 shopcompute.site
+0.0.0.0 shopcomputer.club
 0.0.0.0 shopitoffco.com
 0.0.0.0 shoppingads.com
 0.0.0.0 shoppingsports.Club
@@ -16181,6 +16196,7 @@
 0.0.0.0 ssphwy.com
 0.0.0.0 ssrv.adjust.com
 0.0.0.0 sstatic1.histats.com
+0.0.0.0 ssv.admost.com
 0.0.0.0 ssvim.com
 0.0.0.0 ssw.live.com
 0.0.0.0 st-n.ads1-adnow.com
@@ -16754,7 +16770,6 @@
 0.0.0.0 systemtree.com
 0.0.0.0 sz-loc.ushareit.com
 0.0.0.0 sz-userver-upaas.uc.cn
-0.0.0.0 särahah.pl
 0.0.0.0 t-r-f-k.com
 0.0.0.0 t-test.adzerk.net
 0.0.0.0 t.applift.com
@@ -17172,6 +17187,7 @@
 0.0.0.0 tks-lb2.cxense.com
 0.0.0.0 tks-lb3.cxense.com
 0.0.0.0 tktracker.aotter.net
+0.0.0.0 tkup.uparpu.com
 0.0.0.0 tlootas.org
 0.0.0.0 tlvmedia.adk2.co
 0.0.0.0 tlvmedia.com
@@ -18950,6 +18966,7 @@
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vitalads.net
 0.0.0.0 vivadgo.ru
+0.0.0.0 vivebox.net
 0.0.0.0 vixnixxer.com
 0.0.0.0 vj.quanjingpay.com
 0.0.0.0 vjuguete.com
@@ -19543,7 +19560,6 @@
 0.0.0.0 www.1.pc8.us
 0.0.0.0 www.10g92fy87vzi.xyz
 0.0.0.0 www.1220057982.world
-0.0.0.0 www.15.taboola.com
 0.0.0.0 www.1mobile.com
 0.0.0.0 www.1moga.voluumtrk.com
 0.0.0.0 www.1xbet.com
@@ -19574,8 +19590,6 @@
 0.0.0.0 www.3flv2.voluumtrk.com
 0.0.0.0 www.3mobilephonedeals.com
 0.0.0.0 www.3yp7i.voluumtrk.com
-0.0.0.0 www.4436230.fls.doubleclick.net
-0.0.0.0 www.4448269.fls.doubleclick.net
 0.0.0.0 www.4anners.ero-advertising.com
 0.0.0.0 www.4hitme.net
 0.0.0.0 www.4ogv6.voluumtrk.com
@@ -19608,10 +19622,7 @@
 0.0.0.0 www.a.ero-advertising.com
 0.0.0.0 www.a.qwertize.com
 0.0.0.0 www.a.rad.msn.com
-0.0.0.0 www.a.stat.xiaomi.com
 0.0.0.0 www.aata.ero-advertising.com
-0.0.0.0 www.abtest.mistat.intl.xiaomi.com
-0.0.0.0 www.abtest.mistat.xiaomi.com
 0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accu-chek.it
 0.0.0.0 www.acdn.adnxs.com
@@ -19708,7 +19719,6 @@
 0.0.0.0 www.adplay-mobile.com
 0.0.0.0 www.adpushup.com
 0.0.0.0 www.adreach.co
-0.0.0.0 www.ads.chacomedia.com
 0.0.0.0 www.ads.ero-advertising.com
 0.0.0.0 www.ads.grandonmedia.com
 0.0.0.0 www.ads.it.boostperform.com
@@ -19755,7 +19765,6 @@
 0.0.0.0 www.adv.axiatraders.com
 0.0.0.0 www.adv.grandonmedia.com
 0.0.0.0 www.adv.it.boostperform.com
-0.0.0.0 www.adv.sec.intl.miui.com
 0.0.0.0 www.advblock.ru
 0.0.0.0 www.advertising.com
 0.0.0.0 www.advertising.yahoo.com
@@ -19795,7 +19804,6 @@
 0.0.0.0 www.analytics.ero-advertising.com
 0.0.0.0 www.analytics.icons8.com
 0.0.0.0 www.analytics.picsart.com
-0.0.0.0 www.analytics.publitas.com
 0.0.0.0 www.andoidtraffic.ru
 0.0.0.0 www.andriod.co
 0.0.0.0 www.androidm.info
@@ -19810,17 +19818,8 @@
 0.0.0.0 www.antivirus-new.com
 0.0.0.0 www.antivirus.baidu.com
 0.0.0.0 www.anygen-explores.info
-0.0.0.0 www.api.ad.snappea.com
-0.0.0.0 www.api.ad.xiaomi.com
-0.0.0.0 www.api.admob.xiaomi.com
 0.0.0.0 www.api.axiatraders.com
-0.0.0.0 www.api.brs.intl.miui.com
-0.0.0.0 www.api.collect.data.intl.miui.com
-0.0.0.0 www.api.d.xiaomi.com
 0.0.0.0 www.api.grandonmedia.com
-0.0.0.0 www.api.hybrid.intl.xiaomi.com
-0.0.0.0 www.api.sec.intl.miui.com
-0.0.0.0 www.api.setting.intl.miui.com
 0.0.0.0 www.apmebf.com
 0.0.0.0 www.app.storage.yunvm.com
 0.0.0.0 www.appanalytics.io
@@ -19828,7 +19827,6 @@
 0.0.0.0 www.appflood.com
 0.0.0.0 www.appia.com
 0.0.0.0 www.appk.mobi
-0.0.0.0 www.applog.camera360.com
 0.0.0.0 www.applovin.com
 0.0.0.0 www.appnext.com
 0.0.0.0 www.appnexus.com
@@ -19854,7 +19852,6 @@
 0.0.0.0 www.atakoyescortbayan.com
 0.0.0.0 www.atdmt.com
 0.0.0.0 www.atozdealinfo.com
-0.0.0.0 www.authbe.sec.intl.miui.com
 0.0.0.0 www.autocashbackmobiles.co.uk
 0.0.0.0 www.avantlink.com
 0.0.0.0 www.avocarrot.com
@@ -19891,7 +19888,6 @@
 0.0.0.0 www.bbvj6.voluumtrk.com
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bd-ads.com
-0.0.0.0 www.beauty-tea.com
 0.0.0.0 www.beedoctor.in.th
 0.0.0.0 www.belkintechsupport247.com
 0.0.0.0 www.benesserelab.com
@@ -20130,7 +20126,6 @@
 0.0.0.0 www.evyy.net
 0.0.0.0 www.exoclick.com
 0.0.0.0 www.ext.privacyassistant.net
-0.0.0.0 www.eywirvfupvo.com
 0.0.0.0 www.ezonlinesupport.com
 0.0.0.0 www.f0kuf.voluumtrk.com
 0.0.0.0 www.face2trade.com
@@ -20203,6 +20198,7 @@
 0.0.0.0 www.giocaora.mobi
 0.0.0.0 www.giochissimo.it
 0.0.0.0 www.girlsvideosonline.info
+0.0.0.0 www.gjrystbjustuw.com
 0.0.0.0 www.glasses-sale.com
 0.0.0.0 www.globalapi.ad.xiaomi.com
 0.0.0.0 www.globaltechexpert.com
@@ -20366,7 +20362,6 @@
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
-0.0.0.0 www.kraruzatefci.com
 0.0.0.0 www.kuaptrk.com
 0.0.0.0 www.kushat.roboinside.me
 0.0.0.0 www.kzhav.voluumtrk.com
@@ -20466,7 +20461,6 @@
 0.0.0.0 www.mozook.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
-0.0.0.0 www.mvnuyjsdgle.com
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.mxttrf.com
 0.0.0.0 www.my4kvideo.info
@@ -20478,7 +20472,6 @@
 0.0.0.0 www.myfilestore.com
 0.0.0.0 www.myfreecams.com
 0.0.0.0 www.myishop.co.uk
-0.0.0.0 www.mylevfpqmlt.com
 0.0.0.0 www.myrobotearn.top
 0.0.0.0 www.mysterysnooper.com
 0.0.0.0 www.mywot.net
@@ -20580,7 +20573,6 @@
 0.0.0.0 www.phpmyadmin.ads.ero-advertising.com
 0.0.0.0 www.phpmyadmin.ero-advertising.com
 0.0.0.0 www.phpmyadmin.js.ero-advertising.com
-0.0.0.0 www.phywyzpugswttb.com
 0.0.0.0 www.picsunday.com
 0.0.0.0 www.piwik.adspaces.ero-advertising.com
 0.0.0.0 www.piwik.ero-advertising.com
@@ -20640,11 +20632,9 @@
 0.0.0.0 www.pushedwebnews.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.qcoldtui1999.com
-0.0.0.0 www.qeivncvk.com
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
-0.0.0.0 www.qtiyntsp.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
@@ -20975,7 +20965,6 @@
 0.0.0.0 www.unidingcom.com
 0.0.0.0 www.unityads.unity3d.com
 0.0.0.0 www.uodoo.com
-0.0.0.0 www.uoommnucvua.com
 0.0.0.0 www.uorhedemxtni.com
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.urldelivery.com
@@ -21057,6 +21046,7 @@
 0.0.0.0 www.wt-eu02.net
 0.0.0.0 www.wta.ero-advertising.com
 0.0.0.0 www.wtseticket.com
+0.0.0.0 www.wtwcdgfpi.com
 0.0.0.0 www.ww2.ero-advertising.com
 0.0.0.0 www.wwa.ero-advertising.com
 0.0.0.0 www.wwbanners2.ero-advertising.com
@@ -21103,7 +21093,6 @@
 0.0.0.0 www.xddwwyfvpwh.com
 0.0.0.0 www.xmtrk.com
 0.0.0.0 www.xn--adspace-kvg.ero-advertising.com
-0.0.0.0 www.xnyiljkfdwgu.com
 0.0.0.0 www.xxxmeet.net
 0.0.0.0 www.yac.mx
 0.0.0.0 www.yahoo-news.co
@@ -21117,7 +21106,6 @@
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.yourtuber.info
 0.0.0.0 www.yserch.com
-0.0.0.0 www.yuzsvoanyw.com
 0.0.0.0 www.ywpkgqasoe.bid
 0.0.0.0 www.z.moatads.com
 0.0.0.0 www.z9n5o.voluumtrk.com
@@ -21131,7 +21119,6 @@
 0.0.0.0 www.zeus.ad.intl.xiaomi.com
 0.0.0.0 www.zeus.ad.xiaomi.com
 0.0.0.0 www.zindas.info
-0.0.0.0 www.zkoumvpngkubl.com
 0.0.0.0 www.zl1.quebec-bin.com
 0.0.0.0 www.zlx.com.br
 0.0.0.0 www.znacktv.it
@@ -21163,6 +21150,7 @@
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwadcntr.com
 0.0.0.0 wwwindishareme.imageshack.host
+0.0.0.0 wwwindishareorg.imageshack.host
 0.0.0.0 wwwmyvidmatein.cdaz.icu
 0.0.0.0 wwwpls.personal168.com
 0.0.0.0 wwwpromoter.com
