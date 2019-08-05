@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.08.216
-# Release: 216
-# Entries: 30,669
+# Version: 19.08.217
+# Release: 217
+# Entries: 30,671
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 04 Aug 19 20:00:16
+# Updated: Mon, 05 Aug 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -20966,6 +20966,7 @@
 0.0.0.0 explorer-staging.flurry.com
 0.0.0.0 expn.agkn.com
 0.0.0.0 exportdata.appsflyer.com
+0.0.0.0 expresvpn-private-analytics.net
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 extmap.an.ace.advertising.com
@@ -22209,6 +22210,7 @@
 0.0.0.0 insight-s3.exelator.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ucweb.com
+0.0.0.0 insights-collector.gog.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights.batch.com
 0.0.0.0 insights.bluekai.com

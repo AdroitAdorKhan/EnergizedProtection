@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.216
-# Release: 216
-# Entries: 22,486
+# Version: 19.08.217
+# Release: 217
+# Entries: 22,487
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 04 Aug 19 20:00:16
+# Updated: Mon, 05 Aug 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -408,6 +408,7 @@
 0.0.0.0 70.video-ak.cdn.spotify.com
 0.0.0.0 71.video-ak.cdn.spotify.com
 0.0.0.0 72.video-ak.cdn.spotify.com
+0.0.0.0 729dcbaa57e80c1e.com
 0.0.0.0 73.video-ak.cdn.spotify.com
 0.0.0.0 74.video-ak.cdn.spotify.com
 0.0.0.0 75.video-ak.cdn.spotify.com
@@ -2470,7 +2471,6 @@
 0.0.0.0 adsd-sync.amanad.adtdp.com
 0.0.0.0 adsd.amanad.adtdp.com
 0.0.0.0 adsdaq.com
-0.0.0.0 adsdk.com
 0.0.0.0 adsdk.fractionalmedia.com
 0.0.0.0 adsdk.picooapp.com
 0.0.0.0 adsdk.vrvm.com
@@ -3033,7 +3033,6 @@
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-banner.libero.it
 0.0.0.0 adv-ettoday.cdn.hinet.net
-0.0.0.0 adv.cooperhosting.net
 0.0.0.0 adv.ettoday.net
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
@@ -6372,7 +6371,6 @@
 0.0.0.0 clicks.thinkmedia.adhese.com
 0.0.0.0 clicks2count.com
 0.0.0.0 clickserve.cc-dt.com
-0.0.0.0 clicksor.com
 0.0.0.0 clicksor.net
 0.0.0.0 clickssp.pro
 0.0.0.0 clicktag.de
@@ -8550,6 +8548,7 @@
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 express-submit.de
 0.0.0.0 expresswebtraffic.com
+0.0.0.0 expresvpn-private-analytics.net
 0.0.0.0 exrno.com
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 extads.net
@@ -10703,6 +10702,7 @@
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
+0.0.0.0 insights-collector.gog.com
 0.0.0.0 insights.alphonso.tv
 0.0.0.0 insights.wizardsbd.com
 0.0.0.0 insitepromotion.com
@@ -10930,7 +10930,6 @@
 0.0.0.0 iyjph.voluumtrk.com
 0.0.0.0 iyogi.com
 0.0.0.0 iyogiblog.com
-0.0.0.0 iyogishop.com
 0.0.0.0 iz682noju02ye5.com
 0.0.0.0 izkcesinsyz.com
 0.0.0.0 izooto.com
@@ -11047,6 +11046,7 @@
 0.0.0.0 joydownload.com
 0.0.0.0 joyfulgame.mobi
 0.0.0.0 joysk.com
+0.0.0.0 jozatmyllnh.com
 0.0.0.0 jp.admob.com
 0.0.0.0 jp.advertising.com
 0.0.0.0 jp.cxense.com
@@ -11521,7 +11521,6 @@
 0.0.0.0 lightningcast.net
 0.0.0.0 lightspeedcash.com
 0.0.0.0 lightspeedmining.com
-0.0.0.0 lijit.com
 0.0.0.0 like.fund
 0.0.0.0 like.indyhotlike.com
 0.0.0.0 lilil.bid
@@ -12388,7 +12387,6 @@
 0.0.0.0 microsoftoutlookhelp.com
 0.0.0.0 microsoftproblems.com
 0.0.0.0 microsofttechsupportnow.com
-0.0.0.0 microsoftwindowssupport.com
 0.0.0.0 microsoftwindowstechs.com
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
@@ -14209,7 +14207,6 @@
 0.0.0.0 pdx-1-xcp.go.sonobi.com
 0.0.0.0 pdx-1.go.sonobi.com
 0.0.0.0 pe2k2dty.com
-0.0.0.0 peacepowder.com
 0.0.0.0 peakclick.com
 0.0.0.0 pebblemedia.be
 0.0.0.0 pebx.pl
@@ -15132,6 +15129,7 @@
 0.0.0.0 qiqu.uc.cn
 0.0.0.0 qiroris.pw
 0.0.0.0 qksrv.net
+0.0.0.0 qlvopwghgwa.com
 0.0.0.0 qmerce.com
 0.0.0.0 qncjellygamat1.com
 0.0.0.0 qnsr.com
@@ -17587,7 +17585,6 @@
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tabopes.cf
 0.0.0.0 tacchisexy.com
-0.0.0.0 tacoda.net
 0.0.0.0 tacrater.com
 0.0.0.0 tacticalrepublic.com
 0.0.0.0 tads.techtunes.com.bd
@@ -17614,7 +17611,6 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tagsrv.adk2.co
-0.0.0.0 tagular.com
 0.0.0.0 taidegraucho.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
@@ -17779,6 +17775,7 @@
 0.0.0.0 teracreative.com
 0.0.0.0 teracycle.net
 0.0.0.0 termerdistice.pro
+0.0.0.0 teronemerom.info
 0.0.0.0 terraclicks.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 test-admin.flurry.com
@@ -19674,7 +19671,6 @@
 0.0.0.0 verticalmass.com
 0.0.0.0 vertismedia.co.uk
 0.0.0.0 vertoz.adk2.co
-0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
 0.0.0.0 vesdouy.gamesup.mobi
@@ -21228,6 +21224,8 @@
 0.0.0.0 www.joydownload.com
 0.0.0.0 www.joyfulgame.mobi
 0.0.0.0 www.joyreactor.cc
+0.0.0.0 www.jozatmyllnh.com
+0.0.0.0 www.jpbjvmacrydiu.com
 0.0.0.0 www.jppcj.voluumtrk.com
 0.0.0.0 www.js.ads.ero-advertising.com
 0.0.0.0 www.jscdndel.com
@@ -21523,6 +21521,7 @@
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
+0.0.0.0 www.qlvopwghgwa.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
@@ -22017,6 +22016,7 @@
 0.0.0.0 www.zoorate.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
+0.0.0.0 www.zwnlqwfdbu.com
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zyxow.com
 0.0.0.0 www1.a-ads.com
@@ -22514,6 +22514,7 @@
 0.0.0.0 zv1.sierra-boa.com
 0.0.0.0 zvuhanie.ml
 0.0.0.0 zwaar.org
+0.0.0.0 zwnlqwfdbu.com
 0.0.0.0 zww.ero-advertising.com
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zx9s.smcheck.org
