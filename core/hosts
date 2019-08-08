@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.219
-# Release: 219
-# Entries: 22,479
+# Version: 19.08.220
+# Release: 220
+# Entries: 22,478
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 07 Aug 19 20:00:16
+# Updated: Thu, 08 Aug 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1897,7 +1897,6 @@
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
-0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.bidvertiser.com
 0.0.0.0 ads.bigchurch.com
@@ -4335,6 +4334,7 @@
 0.0.0.0 assets.sizedoesmatter.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 assets.trafficfabrik.com
+0.0.0.0 assets.vlicdn2.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assets2.insnw.net
 0.0.0.0 assist.advmob.cn
@@ -6048,7 +6048,6 @@
 0.0.0.0 cdna.tremormedia.com
 0.0.0.0 cdnads.com
 0.0.0.0 cdnallyouwantonline.innocraft.cloud
-0.0.0.0 cdnalp.adgear.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnaws.mobidea.com
 0.0.0.0 cdnb-static.pornhd.com
@@ -7620,7 +7619,6 @@
 0.0.0.0 dlfdvyfn.com
 0.0.0.0 dll-biu.com
 0.0.0.0 dloger.ga
-0.0.0.0 dlp.adgear.com
 0.0.0.0 dlsw.br.baidu.com
 0.0.0.0 dlyads.adk2.co
 0.0.0.0 dlyads.adk2x.com
@@ -8377,7 +8375,6 @@
 0.0.0.0 et.taptica.com
 0.0.0.0 et.w.dfw2.vip.inmobi.com
 0.0.0.0 et.w.inmobi.com
-0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
 0.0.0.0 etc-poolcrypto.org
 0.0.0.0 etcmine.pro
@@ -11778,7 +11775,6 @@
 0.0.0.0 lpajoi2acpzdjp.ru
 0.0.0.0 lpbhbwpbpnl.com
 0.0.0.0 lpo.trckonspot.com
-0.0.0.0 lpool.name
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 lptrack.co
 0.0.0.0 lptracker.net.ru
@@ -16303,6 +16299,7 @@
 0.0.0.0 services.brightcove.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 services.insurads.com
+0.0.0.0 services.vlicdn2.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 servicesupport.hicloud.com
 0.0.0.0 serving-sys.com
@@ -18037,6 +18034,7 @@
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top100.rambler.ru
+0.0.0.0 top10reviewsfor.com
 0.0.0.0 top20.com
 0.0.0.0 top20free.com
 0.0.0.0 top80level.xyz
@@ -18116,6 +18114,7 @@
 0.0.0.0 tps.sj2.fastclick.net
 0.0.0.0 tpxur.top
 0.0.0.0 tq1.uodoo.com
+0.0.0.0 tqgxhuajp.com
 0.0.0.0 tqn.com
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr.ad-stir.com
@@ -21262,7 +21261,6 @@
 0.0.0.0 www.livepromo.net
 0.0.0.0 www.liverail.com
 0.0.0.0 www.llnwd.net
-0.0.0.0 www.lmodr.biz
 0.0.0.0 www.loadmill.com
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
@@ -21790,6 +21788,7 @@
 0.0.0.0 www.toroadvertising.com
 0.0.0.0 www.toroadvertisingmedia.com
 0.0.0.0 www.torrenty-org.pl
+0.0.0.0 www.tqgxhuajp.com
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracker.ero-advertising.com
 0.0.0.0 www.trackico.io
