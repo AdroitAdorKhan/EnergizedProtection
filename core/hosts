@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.220
-# Release: 220
-# Entries: 22,478
+# Version: 19.08.221
+# Release: 221
+# Entries: 22,502
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 08 Aug 19 20:00:17
+# Updated: Fri, 09 Aug 19 20:00:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1533,6 +1533,7 @@
 0.0.0.0 admanager.btopenworld.com
 0.0.0.0 admanager.carsoup.com
 0.0.0.0 admanager.green-red.com
+0.0.0.0 admanager.somoydigital.com
 0.0.0.0 admanagerplus.flurry.com
 0.0.0.0 admanmedia.com
 0.0.0.0 admantx.com
@@ -3805,6 +3806,7 @@
 0.0.0.0 anonymousads.com
 0.0.0.0 anorak.tech
 0.0.0.0 anquan.baidu.com
+0.0.0.0 anstrex.com
 0.0.0.0 antivirus-help.com
 0.0.0.0 antivirus-mobile.club
 0.0.0.0 antivirus-new.com
@@ -5280,6 +5282,7 @@
 0.0.0.0 boomads.com
 0.0.0.0 boomoffer07.com
 0.0.0.0 boonsalala.com
+0.0.0.0 booshout.com
 0.0.0.0 boost-my-pr.de
 0.0.0.0 boostads.net
 0.0.0.0 boostads.site
@@ -8403,6 +8406,7 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 etology.com
 0.0.0.0 etracker.de
+0.0.0.0 etronotwiltons.info
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-adserver.cxad.cxense.com
@@ -8738,6 +8742,7 @@
 0.0.0.0 fethungi.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexiaen.com
+0.0.0.0 feynmanhopeful.eu
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 ff.win.taobao.com
 0.0.0.0 ff81k.voluumtrk.com
@@ -8801,6 +8806,7 @@
 0.0.0.0 firstclass-download.com
 0.0.0.0 firstimpression.io
 0.0.0.0 firstlightera.com
+0.0.0.0 firstpromoter.com
 0.0.0.0 fisari.com
 0.0.0.0 fischerescacsmallorca.es
 0.0.0.0 fisioterapiablog.es
@@ -10076,6 +10082,7 @@
 0.0.0.0 i.flow.browser.oppomobile.com
 0.0.0.0 i.frg.im
 0.0.0.0 i.hailhydra.org
+0.0.0.0 i.imgbox.com
 0.0.0.0 i.ipinyou.com
 0.0.0.0 i.kissmetrics.com
 0.0.0.0 i.l.inmobicdn.net
@@ -10130,6 +10137,7 @@
 0.0.0.0 ibasket.es
 0.0.0.0 ibatom.com
 0.0.0.0 ibeat.indiatimes.com
+0.0.0.0 ibillboard.com
 0.0.0.0 ibn.adreach.co
 0.0.0.0 ibryte.com
 0.0.0.0 icapabloidsety.club
@@ -10444,6 +10452,7 @@
 0.0.0.0 images.publy.net
 0.0.0.0 images.revmob.com
 0.0.0.0 images.skimresources.com
+0.0.0.0 images3.imgbox.com
 0.0.0.0 imagetopng.club
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imarketservices.com
@@ -11421,6 +11430,7 @@
 0.0.0.0 leadmediapartners.com
 0.0.0.0 leadplace.fr
 0.0.0.0 leads.demandbase.com.re.getclicky.com
+0.0.0.0 leady.com
 0.0.0.0 leadzu.com
 0.0.0.0 leadzuaf.com
 0.0.0.0 leadzupc.com
@@ -14903,6 +14913,7 @@
 0.0.0.0 proximic.com
 0.0.0.0 proxpool.com
 0.0.0.0 proxy-fb.liverail.com
+0.0.0.0 proxy-tracker.colpirio.com
 0.0.0.0 proxy.alphonso.tv
 0.0.0.0 proxy.api.clickadu.com
 0.0.0.0 proxy.multikonline.ru
@@ -15978,6 +15989,8 @@
 0.0.0.0 salvador24.com
 0.0.0.0 sam-brodie.com
 0.0.0.0 sam.snapads.com
+0.0.0.0 samp.waptrick.org
+0.0.0.0 sampexo.waptrick.org
 0.0.0.0 samples.eyeviewads.com
 0.0.0.0 samsonitekoffer.online
 0.0.0.0 samsoniten.online
@@ -17072,6 +17085,7 @@
 0.0.0.0 static.exdynsrv.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.eyeviewads.com
+0.0.0.0 static.flashx.pw
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.freewebs.getclicky.com
 0.0.0.0 static.gammaplatform.com
@@ -18122,6 +18136,7 @@
 0.0.0.0 tr.alphonso.tv
 0.0.0.0 tr.applift.com
 0.0.0.0 tr.bigpoint.com
+0.0.0.0 tr.colpirio.com
 0.0.0.0 tr.mylife.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.pubnative.net
@@ -18300,6 +18315,7 @@
 0.0.0.0 track.linktech.cn
 0.0.0.0 track.loox.io
 0.0.0.0 track.luckylesbians.com
+0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mandy-mitchell.com
 0.0.0.0 track.mariam-micol.com
 0.0.0.0 track.maxatin.pl
@@ -18551,6 +18567,7 @@
 0.0.0.0 tracker.cl1.fidelizador.com
 0.0.0.0 tracker.clickopon.com
 0.0.0.0 tracker.clicktrade.com
+0.0.0.0 tracker.colpirio.com
 0.0.0.0 tracker.consumerpackage.net
 0.0.0.0 tracker.diabetes.org
 0.0.0.0 tracker.dome.cloud
@@ -18596,6 +18613,7 @@
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.tvnihon.com
 0.0.0.0 tracker.unbxdapi.com
+0.0.0.0 tracker.vgame.us
 0.0.0.0 tracker.videoeva.com
 0.0.0.0 tracker.yhd.com
 0.0.0.0 tracker.yhd.com.yhcdn.cn
@@ -19792,6 +19810,7 @@
 0.0.0.0 vitalads.net
 0.0.0.0 vivadgo.ru
 0.0.0.0 vivebox.net
+0.0.0.0 vivtracking.com
 0.0.0.0 vixnixxer.com
 0.0.0.0 vj.quanjingpay.com
 0.0.0.0 vjuguete.com
@@ -20093,6 +20112,7 @@
 0.0.0.0 webstats.zserv.tuwien.ac.at
 0.0.0.0 webstats4u.com
 0.0.0.0 webstore.ucweb.com
+0.0.0.0 webtracker.jp
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtraffic.adtech.de
 0.0.0.0 webtraxx.de
@@ -21982,6 +22002,7 @@
 0.0.0.0 www.yip.su
 0.0.0.0 www.yllix.com
 0.0.0.0 www.ylx-1.com
+0.0.0.0 www.yngtvbtzxzmoc.com
 0.0.0.0 www.yoocws.com
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.yourtuber.info
@@ -22005,6 +22026,7 @@
 0.0.0.0 www.zo1.sierra-boa.com
 0.0.0.0 www.zog.link
 0.0.0.0 www.zoorate.com
+0.0.0.0 www.zspttttiyda.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zwnlqwfdbu.com
@@ -22314,6 +22336,7 @@
 0.0.0.0 ymetrica1.com
 0.0.0.0 ymtracking.com
 0.0.0.0 ymzrrizntbhde.com
+0.0.0.0 yngtvbtzxzmoc.com
 0.0.0.0 yoartq.com
 0.0.0.0 yobaby.club
 0.0.0.0 yobit.net
@@ -22491,6 +22514,7 @@
 0.0.0.0 zry8181.com
 0.0.0.0 zseut.com
 0.0.0.0 zsolo.bid
+0.0.0.0 zspttttiyda.com
 0.0.0.0 zssale.com
 0.0.0.0 zsw8.cc
 0.0.0.0 zt.1rx.io

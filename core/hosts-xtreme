@@ -24,12 +24,12 @@
 # Package: Energized Xtreme Hosts
 # Description: Core Xtreme Blacklist.
 # Format: hosts
-# Version: 19.08.220
-# Release: 220
-# Entries: 30,670
+# Version: 19.08.221
+# Release: 221
+# Entries: 30,671
 # Pack Code: EX7R3M3C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 08 Aug 19 20:00:17
+# Updated: Fri, 09 Aug 19 20:00:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-xtreme
 # --------------------------------------------
 #
@@ -13103,6 +13103,7 @@
 0.0.0.0 adlegend.com
 0.0.0.0 adlog.flurry.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 admanager.somoydigital.com
 0.0.0.0 admanagerplus.flurry.com
 0.0.0.0 admaster.lau1.uae.uc.cn
 0.0.0.0 admaster.union.ucweb.com
