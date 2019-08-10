@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.221
-# Release: 221
-# Entries: 22,502
+# Version: 19.08.222
+# Release: 222
+# Entries: 22,534
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 09 Aug 19 20:00:14
+# Updated: Sat, 10 Aug 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3395,6 +3395,7 @@
 0.0.0.0 airflow.maribacaberita.com
 0.0.0.0 airpush.com
 0.0.0.0 airtrack.adtdp.com
+0.0.0.0 airygal.com
 0.0.0.0 aistat.net
 0.0.0.0 aituo.shoptotopbrand.com
 0.0.0.0 aiwhebey.com
@@ -3414,6 +3415,7 @@
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akavita.com
 0.0.0.0 akhbarak.uodoo.com
+0.0.0.0 akiwelgoods.com
 0.0.0.0 akncdn.com
 0.0.0.0 akroma.eu
 0.0.0.0 akshatadesigns.in
@@ -3926,6 +3928,7 @@
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.c.uc.cn
+0.0.0.0 api.c1oudmobi.net
 0.0.0.0 api.cashmyvisit.com
 0.0.0.0 api.centili.com
 0.0.0.0 api.chartbeat.com
@@ -4426,6 +4429,7 @@
 0.0.0.0 audiobooknewspaper.com
 0.0.0.0 audiobooksnewspaper.com
 0.0.0.0 audioknigi.club
+0.0.0.0 audiotuck.com
 0.0.0.0 audit.median.hu
 0.0.0.0 audit.webinform.hu
 0.0.0.0 auditude.com
@@ -4904,6 +4908,7 @@
 0.0.0.0 beauty-tea.com
 0.0.0.0 beautycamera.r.xoxknct.com
 0.0.0.0 beautycamera.s.xoxknct.com
+0.0.0.0 bebe-a-la-classe.com
 0.0.0.0 bebi.com
 0.0.0.0 becanium.com
 0.0.0.0 become.successfultogether.co.uk
@@ -5066,6 +5071,7 @@
 0.0.0.0 billytesting.com
 0.0.0.0 bilsyndication.com
 0.0.0.0 bimbayaes.online
+0.0.0.0 bimbaylolan.online
 0.0.0.0 bimbaylolanes.online
 0.0.0.0 bimlocal.com
 0.0.0.0 bimomanias.com
@@ -5298,6 +5304,7 @@
 0.0.0.0 bos.ads.nexage.com
 0.0.0.0 bos.ads0.nexage.com
 0.0.0.0 bot.outbrain.com
+0.0.0.0 botasdrmartens.com
 0.0.0.0 botasdrmartens.com.mx
 0.0.0.0 bottlecapspool.com
 0.0.0.0 boudja.com
@@ -6116,6 +6123,7 @@
 0.0.0.0 ch1v6.adfonic.net
 0.0.0.0 chainworksindustries.com
 0.0.0.0 chairscrack.com
+0.0.0.0 chaleco.mallstosale.com
 0.0.0.0 chambb.com
 0.0.0.0 chameleon.ad
 0.0.0.0 chango.com
@@ -6776,7 +6784,6 @@
 0.0.0.0 cookies.onetrust.mgr.consensu.org
 0.0.0.0 cookiesandyou.com
 0.0.0.0 cookiescript.info
-0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cool-pool.net
 0.0.0.0 coolbrowsering.xyz
 0.0.0.0 coolerads.com
@@ -7071,6 +7078,7 @@
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 cupcam.es
 0.0.0.0 cupdates.trusteer.comdl2.pushbulletusercontent.comdyknreymc91ut.cloudfront.netgo.microsoft.comgoogleads.g.doubleclick.netin.getclicky.com
+0.0.0.0 curativ.co
 0.0.0.0 cure.cryptopools.com
 0.0.0.0 curiosity.gratis
 0.0.0.0 currentlyobsessed.me
@@ -7404,6 +7412,7 @@
 0.0.0.0 delivery6.trafficjunky.net
 0.0.0.0 delivery9.trafficjunky.net
 0.0.0.0 deliveryengine.tunein.adswizz.com
+0.0.0.0 delmarb.com
 0.0.0.0 deloplen.com
 0.0.0.0 deloplenn.com
 0.0.0.0 deloton.com
@@ -8148,6 +8157,7 @@
 0.0.0.0 edgeio.com
 0.0.0.0 edgy.inmobi.com
 0.0.0.0 edicamall.xyz
+0.0.0.0 edinco.es
 0.0.0.0 edlkfue8flzpivh.ru
 0.0.0.0 ednplus.com
 0.0.0.0 edwlifes.vo.llnwd.net
@@ -8172,6 +8182,7 @@
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 efhabjaabgfbbegjacj.ru
 0.0.0.0 efpadea.store
+0.0.0.0 efspshop.xyz
 0.0.0.0 egamingonline.com
 0.0.0.0 egschool.org
 0.0.0.0 ehashcoins.org
@@ -8224,6 +8235,7 @@
 0.0.0.0 elviajeroinquieto.com
 0.0.0.0 elvyponline.xyz
 0.0.0.0 em.baidu.com
+0.0.0.0 emagroup.es
 0.0.0.0 email.advertising.com
 0.0.0.0 email.appsflyer.com
 0.0.0.0 email.careers.appsflyer.com
@@ -8276,7 +8288,6 @@
 0.0.0.0 engblog.mixpanel.com
 0.0.0.0 engine-eu-central-1.adzerk.net
 0.0.0.0 engine-us-west-2.adzerk.net
-0.0.0.0 engine.4chan-ads.org
 0.0.0.0 engine.adbooth.com
 0.0.0.0 engine.addroplet.com
 0.0.0.0 engine.adzerk.net
@@ -8690,6 +8701,7 @@
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fclick.baidu.com
+0.0.0.0 fcmigoods.xyz
 0.0.0.0 fd.video-ak.cdn.spotify.com
 0.0.0.0 fd1e6b4692e967.com
 0.0.0.0 fd6fq54s6df541q23sdxfg.eu
@@ -9022,6 +9034,7 @@
 0.0.0.0 fucard.ushareit.com
 0.0.0.0 fuhgt.timetofun.mobi
 0.0.0.0 fujiangs.club
+0.0.0.0 fujicamerashop.club
 0.0.0.0 fullpcsoftware.com
 0.0.0.0 fulltraffic.net
 0.0.0.0 functionalclam.com
@@ -9922,6 +9935,7 @@
 0.0.0.0 ho.lazada.co.th
 0.0.0.0 hobbsfashiondresses.com
 0.0.0.0 hodl.blockquarry.com
+0.0.0.0 hokaishop.com
 0.0.0.0 hokashoes.site
 0.0.0.0 holacasita.com
 0.0.0.0 holder.com.ua
@@ -10624,6 +10638,7 @@
 0.0.0.0 indianlinkexchange.com
 0.0.0.0 indiaonclick.com
 0.0.0.0 indieclick.com
+0.0.0.0 individuello.com
 0.0.0.0 indlzxgptf.com
 0.0.0.0 indonesia.uodoo.com
 0.0.0.0 industrybrains.com
@@ -11038,6 +11053,7 @@
 0.0.0.0 joxyoonline.com
 0.0.0.0 joy-38.com
 0.0.0.0 joyases.com
+0.0.0.0 joyasstore.com
 0.0.0.0 joycann5.org.uk
 0.0.0.0 joydownload.com
 0.0.0.0 joyfulgame.mobi
@@ -11197,6 +11213,7 @@
 0.0.0.0 keendd.com
 0.0.0.0 keeneshop.com
 0.0.0.0 keenonline.shop
+0.0.0.0 keenoutlets.club
 0.0.0.0 keentk.com
 0.0.0.0 keepload.online
 0.0.0.0 kehalim.com
@@ -11247,6 +11264,7 @@
 0.0.0.0 kinobox.cz
 0.0.0.0 kinohabr.net
 0.0.0.0 kiosked.com
+0.0.0.0 kiplingshop.club
 0.0.0.0 kippo.eu
 0.0.0.0 kissdoujin.com
 0.0.0.0 kitchenessentials.club
@@ -11348,6 +11366,7 @@
 0.0.0.0 ladsblue.com
 0.0.0.0 lagink.store
 0.0.0.0 lagrabadora.es
+0.0.0.0 lahoradegelves.es
 0.0.0.0 laim.tv
 0.0.0.0 lakedamdama.in
 0.0.0.0 lakequincy.com
@@ -11763,6 +11782,7 @@
 0.0.0.0 louboutinventa.es
 0.0.0.0 loudloss.com
 0.0.0.0 loudlunch.com
+0.0.0.0 loutane.com
 0.0.0.0 love-banner.com
 0.0.0.0 love.studynerdz.com
 0.0.0.0 lovebagsshopings.club
@@ -12780,7 +12800,6 @@
 0.0.0.0 mpuls.ru
 0.0.0.0 mpx-dashboard.mopub.com
 0.0.0.0 mpx.mopub.com
-0.0.0.0 mpxxjdqpru.com
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mr-clix.com
 0.0.0.0 mr-rank.de
@@ -12993,6 +13012,7 @@
 0.0.0.0 na.gmtdmp.com
 0.0.0.0 na.hasmobi.net
 0.0.0.0 nabbr.com
+0.0.0.0 nadena.es
 0.0.0.0 naganoadigei.com
 0.0.0.0 nagrande.com
 0.0.0.0 nagubalqryvirelv.com
@@ -13225,6 +13245,8 @@
 0.0.0.0 nikedropshipping.com
 0.0.0.0 nikee.club
 0.0.0.0 nikekc.com
+0.0.0.0 nikekf.com
+0.0.0.0 nikekw.com
 0.0.0.0 nikelatest.com
 0.0.0.0 nikene.com
 0.0.0.0 nikepy.com
@@ -13292,6 +13314,7 @@
 0.0.0.0 norsp.com
 0.0.0.0 north-train.com
 0.0.0.0 northerns.site
+0.0.0.0 northfacea.club
 0.0.0.0 northmay.com
 0.0.0.0 norton-comsetup.co.uk
 0.0.0.0 norvos-cdn.polarmobile.com
@@ -14872,6 +14895,7 @@
 0.0.0.0 projects.adreach.co
 0.0.0.0 projectwonderful.com
 0.0.0.0 promethean.api.smartlauncher.net
+0.0.0.0 prometheus-shop.com
 0.0.0.0 promo-reklama.ru
 0.0.0.0 promo.amplitude.com
 0.0.0.0 promo.badoink.com
@@ -16151,6 +16175,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 search.uodoo.com
 0.0.0.0 searchfeast.com
+0.0.0.0 searchhtt.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 seashore.ironhistory.club
@@ -16603,6 +16628,7 @@
 0.0.0.0 smackgates31.life
 0.0.0.0 smaclick.com
 0.0.0.0 smail.umeng.com
+0.0.0.0 smart-shopping.es
 0.0.0.0 smart.allocine.fr
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart.tinyhoneybee.com
@@ -16622,6 +16648,7 @@
 0.0.0.0 smartdevicemedia.com
 0.0.0.0 smartertravel.com
 0.0.0.0 smartest.click
+0.0.0.0 smartfashiongirl.com
 0.0.0.0 smarticle.video.ums.uc.cn
 0.0.0.0 smartling-connector.vidible.tv
 0.0.0.0 smartlink.adacts.com
@@ -16646,6 +16673,7 @@
 0.0.0.0 smintmouse.com
 0.0.0.0 smithandhawken.speedera.net
 0.0.0.0 smn.wallpeker.com
+0.0.0.0 smnck.com
 0.0.0.0 smnd3l9.onlygamer.mobi
 0.0.0.0 smnkk.com
 0.0.0.0 smothere.pro
@@ -17720,6 +17748,7 @@
 0.0.0.0 techvedic.co.uk
 0.0.0.0 techvedic.com
 0.0.0.0 techzglobal.com
+0.0.0.0 tecnobid.com
 0.0.0.0 tecphones.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
@@ -17913,6 +17942,7 @@
 0.0.0.0 tigerpharma.com
 0.0.0.0 tiieuyrz.cf
 0.0.0.0 tikjbfpd.com
+0.0.0.0 tilestep.com
 0.0.0.0 tiller.co
 0.0.0.0 timberlandan.online
 0.0.0.0 timberlandboots.online
@@ -18111,6 +18141,7 @@
 0.0.0.0 touses.online
 0.0.0.0 tousishop.com
 0.0.0.0 toutiao.uc.cn
+0.0.0.0 toycos.com
 0.0.0.0 toyota.vo.llnwd.net
 0.0.0.0 toypoco.com
 0.0.0.0 toyscrates.com
@@ -19677,6 +19708,7 @@
 0.0.0.0 vexacion.com
 0.0.0.0 vextelzo.com
 0.0.0.0 vgrtf54dtse.ml
+0.0.0.0 vguproonline.xyz
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vhmnetwork.com
 0.0.0.0 vhosts-am1.tapad.com
