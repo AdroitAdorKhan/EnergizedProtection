@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.222
-# Release: 222
-# Entries: 22,534
+# Version: 19.08.223
+# Release: 223
+# Entries: 22,549
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 10 Aug 19 20:00:17
+# Updated: Sun, 11 Aug 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -189,6 +189,7 @@
 0.0.0.0 24log.com
 0.0.0.0 24log.de
 0.0.0.0 24pm-affiliation.com
+0.0.0.0 24siete.tienda-online.com
 0.0.0.0 25.video-ak.cdn.spotify.com
 0.0.0.0 26.video-ak.cdn.spotify.com
 0.0.0.0 268f36c5ee7e7a.com
@@ -5076,6 +5077,7 @@
 0.0.0.0 bimlocal.com
 0.0.0.0 bimomanias.com
 0.0.0.0 bimylobolsos.com
+0.0.0.0 bimylouventas.com
 0.0.0.0 bimyloventa.com
 0.0.0.0 binance.center
 0.0.0.0 binancebtc.com
@@ -7344,6 +7346,7 @@
 0.0.0.0 de716.cxense.com
 0.0.0.0 de717.cxense.com
 0.0.0.0 deadpantruck.com
+0.0.0.0 deai.spankbang.com
 0.0.0.0 dealdotcom.com
 0.0.0.0 dealeractive.com.re.getclicky.com
 0.0.0.0 deanmediagroup.com
@@ -9246,6 +9249,7 @@
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geonorwayeventa.com
+0.0.0.0 geonorwayventa.com
 0.0.0.0 geoplugin.net
 0.0.0.0 geovisite.com
 0.0.0.0 geoxaventa.com
@@ -9794,6 +9798,7 @@
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 herdethi.net
 0.0.0.0 herezera.com
+0.0.0.0 hersouthernstyle.com
 0.0.0.0 hetofreplome.info
 0.0.0.0 hexagram.com
 0.0.0.0 hexamining.io
@@ -10423,6 +10428,7 @@
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
+0.0.0.0 ilovechollos.es
 0.0.0.0 ilovnks.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 im.adtech.de
@@ -10925,6 +10931,7 @@
 0.0.0.0 iuguangdao.tk
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 ivastoor.com
+0.0.0.0 ivgfyhbcfcepai.com
 0.0.0.0 ivideo.headline.uodoo.com
 0.0.0.0 ivideopiuvisti.com
 0.0.0.0 ivism.org
@@ -11187,6 +11194,7 @@
 0.0.0.0 kacangmaspoker.net
 0.0.0.0 kaffnet.com
 0.0.0.0 kalturaevent.1rx.io
+0.0.0.0 kankustaduoforte.es
 0.0.0.0 kano.is
 0.0.0.0 kano.space
 0.0.0.0 kanoodle.com
@@ -12800,6 +12808,7 @@
 0.0.0.0 mpuls.ru
 0.0.0.0 mpx-dashboard.mopub.com
 0.0.0.0 mpx.mopub.com
+0.0.0.0 mqmtjoshdvlow.com
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mr-clix.com
 0.0.0.0 mr-rank.de
@@ -13573,6 +13582,7 @@
 0.0.0.0 oneapi-qa.advertising.com
 0.0.0.0 onedigitalad.com
 0.0.0.0 onedrive.su
+0.0.0.0 onehergotwitran.info
 0.0.0.0 onelifetaketwo.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onemerelyingisr.club
@@ -16447,6 +16457,7 @@
 0.0.0.0 shop.hotluska.com
 0.0.0.0 shop.hyperstech.com
 0.0.0.0 shopalyst.com
+0.0.0.0 shopcameras.club
 0.0.0.0 shopclick.biz
 0.0.0.0 shopcompute.site
 0.0.0.0 shopcomputer.club
@@ -17920,6 +17931,8 @@
 0.0.0.0 thruport.com
 0.0.0.0 thstats.com
 0.0.0.0 thterras.com
+0.0.0.0 thumb-v-cl.xhcdn.com
+0.0.0.0 thumb-v1.xhcdn.com
 0.0.0.0 thumb.ero-advertising.com
 0.0.0.0 thumbads.ero-advertising.com
 0.0.0.0 thumbnails.opera.com
@@ -18122,6 +18135,7 @@
 0.0.0.0 toromedia.adk2x.com
 0.0.0.0 torrent.pw
 0.0.0.0 torrenty-org.pl
+0.0.0.0 torstelitthertme.info
 0.0.0.0 torvind.com
 0.0.0.0 total-fencing.co.uk
 0.0.0.0 total-media.net
@@ -18584,7 +18598,6 @@
 0.0.0.0 tracker.admitad.com
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.adultvideoscript.com
-0.0.0.0 tracker.adxpansion.com
 0.0.0.0 tracker.affiliate.media.net
 0.0.0.0 tracker.altservice.com
 0.0.0.0 tracker.baidu.com
@@ -21246,6 +21259,7 @@
 0.0.0.0 www.italiaonline.com
 0.0.0.0 www.iubenda.com
 0.0.0.0 www.iupqelechcmj.com
+0.0.0.0 www.ivgfyhbcfcepai.com
 0.0.0.0 www.ivideopiuvisti.com
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.iyjph.voluumtrk.com
@@ -21384,6 +21398,7 @@
 0.0.0.0 www.mozila-firefox.com
 0.0.0.0 www.mozook.com
 0.0.0.0 www.mpuls.ru
+0.0.0.0 www.mqmtjoshdvlow.com
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.mxttrf.com
