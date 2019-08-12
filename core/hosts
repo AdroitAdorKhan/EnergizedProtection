@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.223
-# Release: 223
-# Entries: 22,549
+# Version: 19.08.224
+# Release: 224
+# Entries: 22,543
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 11 Aug 19 20:00:16
+# Updated: Mon, 12 Aug 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4307,7 +4307,6 @@
 0.0.0.0 asia.adformdsp.net
 0.0.0.0 asiatoday.online
 0.0.0.0 asiatrip.info
-0.0.0.0 asicpool.co
 0.0.0.0 asicpool.com
 0.0.0.0 asicpool.info
 0.0.0.0 asicpool.io
@@ -4561,6 +4560,7 @@
 0.0.0.0 backlinks.com
 0.0.0.0 backoffice.liverail.com
 0.0.0.0 backpacksmake.gq
+0.0.0.0 backpacksworldwide.com
 0.0.0.0 bacm.ro
 0.0.0.0 baconaces.pro
 0.0.0.0 bacr.com.pk
@@ -5238,7 +5238,6 @@
 0.0.0.0 blushingbeast.com
 0.0.0.0 blushingboundary.com
 0.0.0.0 blutrumpet.com
-0.0.0.0 blwfqlmhi.com
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
@@ -7358,6 +7357,7 @@
 0.0.0.0 debug.ucweb.com
 0.0.0.0 debugtbs.qq.com
 0.0.0.0 decademical.com
+0.0.0.0 decadiz.es
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decision.cc
 0.0.0.0 decisionmark.com
@@ -10984,7 +10984,6 @@
 0.0.0.0 javacript.gq
 0.0.0.0 javacript.tk
 0.0.0.0 javtoys.com
-0.0.0.0 jbeet.cjt1.net
 0.0.0.0 jbph.net
 0.0.0.0 jcdn.ad-stir.com
 0.0.0.0 jcount.com
@@ -11029,14 +11028,12 @@
 0.0.0.0 jixiangrong.com
 0.0.0.0 jj038.cmigxy.tw
 0.0.0.0 jjstrade.top
-0.0.0.0 jkazaa.cjt1.net
 0.0.0.0 jmacs.maribacaberita.com
 0.0.0.0 jmdsolutions.yolasite.com
 0.0.0.0 jmoranphotography.com
 0.0.0.0 jmp9.com
 0.0.0.0 jmqapf3nflatei35.onion.link
 0.0.0.0 jninemarket.eu
-0.0.0.0 jnova.cjt1.net
 0.0.0.0 jo7cofh3.com
 0.0.0.0 jobnowshop.xyz
 0.0.0.0 jobs.adgear.com
@@ -11394,7 +11391,6 @@
 0.0.0.0 lap-click.tr.line.me
 0.0.0.0 lapdqegtp.com
 0.0.0.0 lapool.me
-0.0.0.0 lapresse.adgear.com
 0.0.0.0 laptopbest.club
 0.0.0.0 laptopsshoppingsl.club
 0.0.0.0 larentisol.com
@@ -11590,7 +11586,6 @@
 0.0.0.0 linkworth.com
 0.0.0.0 linkybank.com
 0.0.0.0 liods.ga
-0.0.0.0 liqui.click
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 liqwid.net
 0.0.0.0 listakaraoke.com
@@ -22256,7 +22251,6 @@
 0.0.0.0 xregalo.es
 0.0.0.0 xs.instreamatic.com
 0.0.0.0 xsellapp.com
-0.0.0.0 xsgcobwd.com
 0.0.0.0 xtendadvert.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtrapool.com
