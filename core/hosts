@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.224
-# Release: 224
-# Entries: 22,543
+# Version: 19.08.225
+# Release: 225
+# Entries: 22,536
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 12 Aug 19 20:00:18
+# Updated: Tue, 13 Aug 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4198,7 +4198,6 @@
 0.0.0.0 apps.id.net
 0.0.0.0 apps.mobilityware.com
 0.0.0.0 apps19.mobile-apps.pw
-0.0.0.0 apps3.cointraffic.io
 0.0.0.0 appsdorado.com
 0.0.0.0 appsdt.com
 0.0.0.0 appsee.com
@@ -4309,7 +4308,6 @@
 0.0.0.0 asiatrip.info
 0.0.0.0 asicpool.com
 0.0.0.0 asicpool.info
-0.0.0.0 asicpool.io
 0.0.0.0 asicpool.org
 0.0.0.0 asicpool.us
 0.0.0.0 asicsgelcontend4.com
@@ -9761,7 +9759,6 @@
 0.0.0.0 heads4-akp.spotify.com.edgesuite.net
 0.0.0.0 headyhook.com
 0.0.0.0 healthaffiliatesnetwork.com
-0.0.0.0 healthcareassociates.us
 0.0.0.0 heap.com
 0.0.0.0 heapio.com
 0.0.0.0 heato.info
@@ -10991,7 +10988,6 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jdouzzxkyukv.com
 0.0.0.0 jeansame.store
-0.0.0.0 jedonkey.cjt1.net
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jemmgroup.com
@@ -12428,7 +12424,6 @@
 0.0.0.0 mindmemobile.com
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minecraftpool.com
-0.0.0.0 mineflowpool.pl
 0.0.0.0 minelearnto.cf
 0.0.0.0 minelearnto.ga
 0.0.0.0 minelearnto.gq
@@ -17887,7 +17882,6 @@
 0.0.0.0 theofficeonpirie.com
 0.0.0.0 theonecdn.com
 0.0.0.0 thepiratebay.cr
-0.0.0.0 thepiratebay.wtf
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thermoven.es
@@ -21178,7 +21172,6 @@
 0.0.0.0 www.hd-usenet-streams.com
 0.0.0.0 www.hduxeodjdhry.com
 0.0.0.0 www.headlinecamp.com
-0.0.0.0 www.healthcareassociates.us
 0.0.0.0 www.healthcaremanagement.info
 0.0.0.0 www.helpercheckerextt.biz
 0.0.0.0 www.helptofix.co
