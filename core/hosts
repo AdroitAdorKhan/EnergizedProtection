@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.225
-# Release: 225
-# Entries: 22,536
+# Version: 19.08.226
+# Release: 226
+# Entries: 22,551
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 13 Aug 19 20:00:16
+# Updated: Wed, 14 Aug 19 20:00:26
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4311,6 +4311,7 @@
 0.0.0.0 asicpool.org
 0.0.0.0 asicpool.us
 0.0.0.0 asicsgelcontend4.com
+0.0.0.0 asicsreduceri.com
 0.0.0.0 asicssport.club
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 asotrack1.fluentmobile.com
@@ -5288,6 +5289,7 @@
 0.0.0.0 boomoffer07.com
 0.0.0.0 boonsalala.com
 0.0.0.0 booshout.com
+0.0.0.0 boosshopsd.club
 0.0.0.0 boost-my-pr.de
 0.0.0.0 boostads.net
 0.0.0.0 boostads.site
@@ -5454,6 +5456,7 @@
 0.0.0.0 buxp.org
 0.0.0.0 buy.uyuntershop.com
 0.0.0.0 buyflood.com
+0.0.0.0 buyjq.com
 0.0.0.0 buynewinternationalwebdomains.online
 0.0.0.0 buysellads.com
 0.0.0.0 buyt.in
@@ -5981,7 +5984,6 @@
 0.0.0.0 cdn.securefastoffers.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.shareitgames.com
-0.0.0.0 cdn.shortpixel.ai
 0.0.0.0 cdn.siteswithcontent.com
 0.0.0.0 cdn.skimresources.com
 0.0.0.0 cdn.skycloud.biz
@@ -8654,6 +8656,7 @@
 0.0.0.0 fashion.wordcupid.com
 0.0.0.0 fashional.pro
 0.0.0.0 fashionnacy.com
+0.0.0.0 fashiononline.online
 0.0.0.0 fashionshoe.top
 0.0.0.0 fashionshop2017.es
 0.0.0.0 fashionstreetwears.club
@@ -11048,6 +11051,7 @@
 0.0.0.0 jordanfe.com
 0.0.0.0 jornadas-gpc-ets.es
 0.0.0.0 joshpeltier.com
+0.0.0.0 josiasrealty.org
 0.0.0.0 jouleco.in
 0.0.0.0 jounrop.com
 0.0.0.0 joxyoonline.com
@@ -11362,6 +11366,7 @@
 0.0.0.0 labbinarymining.com
 0.0.0.0 laborates.com
 0.0.0.0 labs.adacts.com
+0.0.0.0 laclothes.club
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladon.wshareit.com
 0.0.0.0 ladsblue.com
@@ -11838,6 +11843,7 @@
 0.0.0.0 luxup.ru
 0.0.0.0 luxury-online.info
 0.0.0.0 luxury-us.info
+0.0.0.0 luxurybrandgang.com
 0.0.0.0 lvmobi.com
 0.0.0.0 lvs.truehits.in.th
 0.0.0.0 lvs2.truehits.in.th
@@ -12392,6 +12398,7 @@
 0.0.0.0 mialltrack2.com
 0.0.0.0 miami.ero-advertising.com
 0.0.0.0 miami2.ero-advertising.com
+0.0.0.0 miamicarsoutlet.com
 0.0.0.0 miarroba.com
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
@@ -12498,6 +12505,7 @@
 0.0.0.0 missarty.com
 0.0.0.0 misstrends.com
 0.0.0.0 misterbell.com
+0.0.0.0 miusey.com
 0.0.0.0 miva.com
 0.0.0.0 mix.kinostuff.com
 0.0.0.0 mixadvert.com
@@ -12911,6 +12919,7 @@
 0.0.0.0 myaffiliates.com
 0.0.0.0 myappfree.com
 0.0.0.0 myappname.s.xoxknct.com
+0.0.0.0 mybags-store.com
 0.0.0.0 mybb.ero-advertising.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestdc.com
@@ -14638,6 +14647,7 @@
 0.0.0.0 polls.vidible.tv
 0.0.0.0 polluxnetwork.com
 0.0.0.0 polmontventures.com
+0.0.0.0 polokg.com
 0.0.0.0 polomc.com
 0.0.0.0 poloniex.agency
 0.0.0.0 poloniex.com
@@ -14940,7 +14950,6 @@
 0.0.0.0 proxy-tracker.colpirio.com
 0.0.0.0 proxy.alphonso.tv
 0.0.0.0 proxy.api.clickadu.com
-0.0.0.0 proxy.multikonline.ru
 0.0.0.0 proxy.teads.tv
 0.0.0.0 proyectos-saluda.org
 0.0.0.0 prre.ru
@@ -15576,6 +15585,7 @@
 0.0.0.0 rest.wsq.umeng.com
 0.0.0.0 restaop.ga
 0.0.0.0 resultlinks.com
+0.0.0.0 resultlove.com
 0.0.0.0 results.celebration-staff.com
 0.0.0.0 retarget.ssl-services.com
 0.0.0.0 retargeter.com
@@ -16452,6 +16462,7 @@
 0.0.0.0 shopcompute.site
 0.0.0.0 shopcomputer.club
 0.0.0.0 shopitoffco.com
+0.0.0.0 shoplovelybird.com
 0.0.0.0 shoppingads.com
 0.0.0.0 shoppingsports.Club
 0.0.0.0 shoppingsports.club
@@ -16782,6 +16793,7 @@
 0.0.0.0 spaces.ero-advertising.com
 0.0.0.0 spain-rb.com
 0.0.0.0 spannenk.gq
+0.0.0.0 spannenk.ml
 0.0.0.0 sparechange.io
 0.0.0.0 sparkpool.com
 0.0.0.0 sparkstudios.com
@@ -17751,6 +17763,7 @@
 0.0.0.0 techzglobal.com
 0.0.0.0 tecnobid.com
 0.0.0.0 tecphones.com
+0.0.0.0 tedbakerdeals.online
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 teenyvolcano.com
@@ -18137,6 +18150,7 @@
 0.0.0.0 totbolsas.online
 0.0.0.0 totdorancaltert.club
 0.0.0.0 totemcash.com
+0.0.0.0 totteventa.online
 0.0.0.0 touch.media-serving.com
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
@@ -19811,6 +19825,7 @@
 0.0.0.0 vinfdv6b4j.com
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 vip3.adcash.com
+0.0.0.0 vipbettybarclay.eu
 0.0.0.0 vipcpms.com
 0.0.0.0 vipmoz.com
 0.0.0.0 viprumor.it
