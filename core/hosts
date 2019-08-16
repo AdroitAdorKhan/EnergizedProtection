@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.227
-# Release: 227
-# Entries: 22,564
+# Version: 19.08.228
+# Release: 228
+# Entries: 22,559
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 15 Aug 19 20:00:17
+# Updated: Fri, 16 Aug 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -8071,7 +8071,6 @@
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea.video-ak.cdn.spotify.com
 0.0.0.0 eacdn.com
-0.0.0.0 ead.sharethis.com
 0.0.0.0 eadexchange.com
 0.0.0.0 eads.ir
 0.0.0.0 eadv.it
@@ -14637,7 +14636,6 @@
 0.0.0.0 pntra.com
 0.0.0.0 pntrac.com
 0.0.0.0 pntrack.com
-0.0.0.0 pocketgolf.host
 0.0.0.0 poetryinurdu.info
 0.0.0.0 pointclicktrack.com
 0.0.0.0 pointroll.com
@@ -15988,7 +15986,6 @@
 0.0.0.0 saavn.adswizz.com
 0.0.0.0 saavn.deliveryengine.adswizz.com
 0.0.0.0 sact.atdmt.com
-0.0.0.0 sad.sharethis.com
 0.0.0.0 sadcat.tk
 0.0.0.0 safe.net-bc5.stream
 0.0.0.0 safe.ucweb.com
@@ -19995,7 +19992,6 @@
 0.0.0.0 waaws.tk
 0.0.0.0 wachipho.net
 0.0.0.0 wafflepool.com
-0.0.0.0 wafmedia3.com
 0.0.0.0 wafra.adk2x.com
 0.0.0.0 waframedia20.com
 0.0.0.0 wagerfree.casino
@@ -21411,7 +21407,6 @@
 0.0.0.0 www.mozila-firefox.com
 0.0.0.0 www.mozook.com
 0.0.0.0 www.mpuls.ru
-0.0.0.0 www.mqmtjoshdvlow.com
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.mxttrf.com
