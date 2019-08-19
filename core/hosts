@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.230
-# Release: 230
-# Entries: 22,564
+# Version: 19.08.231
+# Release: 231
+# Entries: 22,580
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 18 Aug 19 20:00:18
+# Updated: Mon, 19 Aug 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5635,6 +5635,7 @@
 0.0.0.0 calendar.kissmetrics.com
 0.0.0.0 calendar.toptools100.com
 0.0.0.0 calendar.wisemana.com
+0.0.0.0 californiapremiumrs.com
 0.0.0.0 callandwin-argentina.howingo.com
 0.0.0.0 callandwin-bangla.howingo.com
 0.0.0.0 callandwin-brasil.howingo.com
@@ -7456,6 +7457,7 @@
 0.0.0.0 desigualeshop.com
 0.0.0.0 desigualitienda.com
 0.0.0.0 desigualon.shop
+0.0.0.0 desigualstienda.online
 0.0.0.0 desigualtienda.online
 0.0.0.0 desigualventa.online
 0.0.0.0 desilady.mobi
@@ -8118,6 +8120,7 @@
 0.0.0.0 ec.video-ak.cdn.spotify.com
 0.0.0.0 ec2-13-127-188-209.ap-south-1.compute.amazonaws.com
 0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
+0.0.0.0 eccoes.online
 0.0.0.0 ecdoz.club
 0.0.0.0 ecgajcijcbgiibdgach.ru
 0.0.0.0 ecircle-ag.com
@@ -8414,7 +8417,6 @@
 0.0.0.0 ethfans.org
 0.0.0.0 ethfw0370q.com
 0.0.0.0 ethicalads.net
-0.0.0.0 ethmypool.com
 0.0.0.0 ethonline.io
 0.0.0.0 ethosdistro.com
 0.0.0.0 ethpmgoods.eu
@@ -9044,6 +9046,7 @@
 0.0.0.0 fuhgt.timetofun.mobi
 0.0.0.0 fujiangs.club
 0.0.0.0 fujicamerashop.club
+0.0.0.0 fujishop.site
 0.0.0.0 fullpcsoftware.com
 0.0.0.0 fulltraffic.net
 0.0.0.0 functionalclam.com
@@ -9306,6 +9309,7 @@
 0.0.0.0 gillga.com
 0.0.0.0 gillynn.com
 0.0.0.0 gimg.baidu.com
+0.0.0.0 gimnasiomillenium.es
 0.0.0.0 gingermedia.adk2.co
 0.0.0.0 gingermedia.adk2x.com
 0.0.0.0 giocaora.mobi
@@ -10907,6 +10911,7 @@
 0.0.0.0 isgstat.sanook.com
 0.0.0.0 isobar.adform.net
 0.0.0.0 isohits.com
+0.0.0.0 ispymsg.com
 0.0.0.0 issuetracker.unity3d.com
 0.0.0.0 istlandoll.com
 0.0.0.0 istric.com
@@ -11206,6 +11211,7 @@
 0.0.0.0 kargo.com
 0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
+0.0.0.0 kasmani-electrodomesticos.es
 0.0.0.0 katurars.com
 0.0.0.0 kavanga.ru
 0.0.0.0 kaymopk.com
@@ -11273,6 +11279,7 @@
 0.0.0.0 kinobox.cz
 0.0.0.0 kinohabr.net
 0.0.0.0 kiosked.com
+0.0.0.0 kiplingico.online
 0.0.0.0 kiplingshop.club
 0.0.0.0 kippo.eu
 0.0.0.0 kissdoujin.com
@@ -12040,7 +12047,6 @@
 0.0.0.0 makemyvids.com
 0.0.0.0 makeupbysally.co.uk
 0.0.0.0 malesignal.com
-0.0.0.0 malictuiar.com
 0.0.0.0 malizing.info
 0.0.0.0 mall.wshareit.com
 0.0.0.0 mallcen.com
@@ -13158,6 +13164,7 @@
 0.0.0.0 newbalancers.online
 0.0.0.0 newbie.com
 0.0.0.0 newblackage.com
+0.0.0.0 newborse.online
 0.0.0.0 newchapeau.com
 0.0.0.0 newclicks.appsflyer.com
 0.0.0.0 newclk.apxadtracking.net
@@ -13546,6 +13553,7 @@
 0.0.0.0 ok-rb.top
 0.0.0.0 ok.appnexus.com
 0.0.0.0 okffuzmscjboad.com
+0.0.0.0 okked.com
 0.0.0.0 okyesmobi.com
 0.0.0.0 ol14x.voluumtrk.com
 0.0.0.0 olala1.com
@@ -14244,6 +14252,7 @@
 0.0.0.0 peer39.com
 0.0.0.0 peer39.net
 0.0.0.0 peerclicktrk.com
+0.0.0.0 pelectronicscore.me
 0.0.0.0 peluqueriaprincesa19.es
 0.0.0.0 pemlo.freehookups.mobi
 0.0.0.0 pennyotcstock.com
@@ -15323,6 +15332,7 @@
 0.0.0.0 rb1.design.ru
 0.0.0.0 rbaef.com
 0.0.0.0 rbb.ic.llnwd.net
+0.0.0.0 rbbrn.com
 0.0.0.0 rbbs.net
 0.0.0.0 rbbuy-se.com
 0.0.0.0 rbbuy-sk.com
@@ -15342,6 +15352,7 @@
 0.0.0.0 rbnes.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbnt9.voluumtrk.com
+0.0.0.0 rbpad.com
 0.0.0.0 rbs-chile.com
 0.0.0.0 rbs-sk.com
 0.0.0.0 rbsave-fr.com
@@ -16295,6 +16306,7 @@
 0.0.0.0 seoul.brightcove.com
 0.0.0.0 sep.tapad.com
 0.0.0.0 separatesilver.com
+0.0.0.0 sepsport.com
 0.0.0.0 septembership.com
 0.0.0.0 septimus-kyr.com
 0.0.0.0 sepyw.top
@@ -16717,6 +16729,7 @@
 0.0.0.0 snaptube.click
 0.0.0.0 snatched-brand.com
 0.0.0.0 sndkorea.co.kr
+0.0.0.0 sneakersfansno.com
 0.0.0.0 sneakervcheap.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 snippet.pos.baidu.com
@@ -17967,6 +17980,7 @@
 0.0.0.0 tikjbfpd.com
 0.0.0.0 tilestep.com
 0.0.0.0 tiller.co
+0.0.0.0 timbashop.com
 0.0.0.0 timberlandan.online
 0.0.0.0 timberlandboots.online
 0.0.0.0 timberlandetienda.online
@@ -18160,6 +18174,7 @@
 0.0.0.0 totdorancaltert.club
 0.0.0.0 totemcash.com
 0.0.0.0 totteventa.online
+0.0.0.0 tottoues.com
 0.0.0.0 touch.media-serving.com
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
@@ -19651,6 +19666,7 @@
 0.0.0.0 vans.adsafeprotected.com
 0.0.0.0 vans.speedera.net
 0.0.0.0 vansaa.com
+0.0.0.0 vansbe.com
 0.0.0.0 vanskf.com
 0.0.0.0 vansvip.online
 0.0.0.0 vapedia.com
@@ -22429,7 +22445,6 @@
 0.0.0.0 youradexchange.com
 0.0.0.0 youredfox.ru
 0.0.0.0 yourlegacy.club
-0.0.0.0 yourloganalytics.com
 0.0.0.0 yourprivacy.icu
 0.0.0.0 yourquickads.com
 0.0.0.0 youshouldclick.us
@@ -22490,6 +22505,7 @@
 0.0.0.0 zarawe.com
 0.0.0.0 zarget.com
 0.0.0.0 zarlomgog.com
+0.0.0.0 zarossi.com
 0.0.0.0 zauoped.cf
 0.0.0.0 zauoped.ml
 0.0.0.0 zbwp6ghm.com
