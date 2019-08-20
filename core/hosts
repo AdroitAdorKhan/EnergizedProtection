@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.231
-# Release: 231
-# Entries: 22,580
+# Version: 19.08.232
+# Release: 232
+# Entries: 22,574
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 19 Aug 19 20:00:17
+# Updated: Tue, 20 Aug 19 20:00:24
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -537,7 +537,6 @@
 0.0.0.0 Vextelzo.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-ams.1rx.io
-0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-dxk.play.api.3g.youku.com
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-o.ninja
@@ -12298,7 +12297,6 @@
 0.0.0.0 mega-download.info
 0.0.0.0 megaad.nz
 0.0.0.0 megacash.de
-0.0.0.0 megago.com
 0.0.0.0 meganotify.com
 0.0.0.0 megapopads.com
 0.0.0.0 megapu.sh
@@ -17264,7 +17262,6 @@
 0.0.0.0 stats.speedclicks.ero-advertising.com
 0.0.0.0 stats.systemres.com.re.getclicky.com
 0.0.0.0 stats.townnews.com
-0.0.0.0 stats.unity3d.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.webclicktracer.com.re.getclicky.com
 0.0.0.0 stats.webleads-tracker.com.ssl.re.getclicky.com
@@ -20951,7 +20948,6 @@
 0.0.0.0 www.clixsense.com
 0.0.0.0 www.clk1005.com
 0.0.0.0 www.clksite.com
-0.0.0.0 www.clnlyfxit.com
 0.0.0.0 www.cnhv.com
 0.0.0.0 www.cnoyq.voluumtrk.com
 0.0.0.0 www.codeonclick.com
@@ -21249,7 +21245,6 @@
 0.0.0.0 www.ico.bitcomo.com
 0.0.0.0 www.idspaces.ero-advertising.com
 0.0.0.0 www.iesnare.com
-0.0.0.0 www.ignkopdlnlkk.com
 0.0.0.0 www.ijsl1.voluumtrk.com
 0.0.0.0 www.ikiweb.it
 0.0.0.0 www.im.mobsweet.com
@@ -21482,7 +21477,6 @@
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
 0.0.0.0 www.nutaku.net
-0.0.0.0 www.nvxzjmowusg.com
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
 0.0.0.0 www.oca.telemetry.microsoft.com
