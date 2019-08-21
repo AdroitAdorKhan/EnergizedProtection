@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.232
-# Release: 232
-# Entries: 22,574
+# Version: 19.08.233
+# Release: 233
+# Entries: 22,575
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 20 Aug 19 20:00:24
+# Updated: Wed, 21 Aug 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -12085,6 +12085,7 @@
 0.0.0.0 markedpail.com
 0.0.0.0 market-buster.com
 0.0.0.0 market.appnext.com
+0.0.0.0 market.moonicorn.network
 0.0.0.0 market.shareitpay.in
 0.0.0.0 marketgid.com
 0.0.0.0 markethealth.com
