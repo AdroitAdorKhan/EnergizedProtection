@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.233
-# Release: 233
-# Entries: 22,575
+# Version: 19.08.234
+# Release: 234
+# Entries: 22,588
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 21 Aug 19 20:00:18
+# Updated: Thu, 22 Aug 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -960,7 +960,6 @@
 0.0.0.0 ad.fyber-weighted-us-west.angsrvr.com
 0.0.0.0 ad.fyber-weighted.angsrvr.com
 0.0.0.0 ad.fyber.angsrvr.com
-0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.gr.doubleclick.net
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.hani.co.kr
@@ -4570,6 +4569,7 @@
 0.0.0.0 badsbads.com
 0.0.0.0 badshades.com
 0.0.0.0 badtopwitch.work
+0.0.0.0 bagbaw.com
 0.0.0.0 bagsalestops.club
 0.0.0.0 bagsshoponline.com
 0.0.0.0 baichuan.baidu.com
@@ -5317,6 +5317,7 @@
 0.0.0.0 boylesportsreklame.com
 0.0.0.0 bpaasmall.com
 0.0.0.0 bpath.com
+0.0.0.0 bphousehold.com
 0.0.0.0 bptracking.com
 0.0.0.0 bq-img.peco.uodoo.com
 0.0.0.0 bq-spider.peco.uodoo.com
@@ -5677,6 +5678,7 @@
 0.0.0.0 camerasgo.com
 0.0.0.0 camerasmake.com
 0.0.0.0 camerassaless.club
+0.0.0.0 camerasstyles.com
 0.0.0.0 camerastour.com
 0.0.0.0 cameraw.shop
 0.0.0.0 cameraxshop.com
@@ -7728,6 +7730,7 @@
 0.0.0.0 doodles.uc.cn
 0.0.0.0 doomail.org
 0.0.0.0 dopyx.com
+0.0.0.0 dordeaux.com
 0.0.0.0 dorectertnerow.info
 0.0.0.0 doretma.com
 0.0.0.0 dotandad.com
@@ -7827,6 +7830,7 @@
 0.0.0.0 drowningpool.net
 0.0.0.0 drp-tracker.applift.com
 0.0.0.0 drrcns.cn
+0.0.0.0 drshoestores.club
 0.0.0.0 drumcash.com
 0.0.0.0 druming.free.fr
 0.0.0.0 drupal.brightcove.com
@@ -8723,6 +8727,7 @@
 0.0.0.0 featence.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 featurelink.com
+0.0.0.0 febbuy.com
 0.0.0.0 feboni.info
 0.0.0.0 fedepolecolombia.com.co
 0.0.0.0 feebleshock.com
@@ -8926,6 +8931,7 @@
 0.0.0.0 formulawire.com
 0.0.0.0 forpyke.com
 0.0.0.0 forre.st
+0.0.0.0 forsagir.com
 0.0.0.0 forshady.com
 0.0.0.0 fortlachanhecksof.info
 0.0.0.0 fortnite-stats.site
@@ -10440,6 +10446,7 @@
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 ilovechollos.es
+0.0.0.0 ilovetrendy.co
 0.0.0.0 ilovnks.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 im.adtech.de
@@ -10884,7 +10891,6 @@
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ipominer.com
 0.0.0.0 ipredictive.com
-0.0.0.0 ipreparty.info
 0.0.0.0 ipro.com
 0.0.0.0 ipromote.com
 0.0.0.0 ipsowrite.com
@@ -11247,6 +11253,7 @@
 0.0.0.0 ketads.com
 0.0.0.0 ketchapp.org
 0.0.0.0 ketodietplus.com
+0.0.0.0 keyboardgalleryshops.com
 0.0.0.0 keydot.net
 0.0.0.0 keyio.ga
 0.0.0.0 keymaker-alpha.go.sonobi.com
@@ -11278,6 +11285,7 @@
 0.0.0.0 kinobox.cz
 0.0.0.0 kinohabr.net
 0.0.0.0 kiosked.com
+0.0.0.0 kiplingbagshop.club
 0.0.0.0 kiplingico.online
 0.0.0.0 kiplingshop.club
 0.0.0.0 kippo.eu
@@ -11325,6 +11333,7 @@
 0.0.0.0 kouraija.net
 0.0.0.0 kovla.com
 0.0.0.0 kpeterstudio.com
+0.0.0.0 kpshop.club
 0.0.0.0 kqzyfj.com
 0.0.0.0 kr.admob.com
 0.0.0.0 kr.taptica.com
@@ -11646,7 +11655,6 @@
 0.0.0.0 llamamegratis.es
 0.0.0.0 llpstream.atdmt.com
 0.0.0.0 lmjxrhph.com
-0.0.0.0 lmodr.biz
 0.0.0.0 lnboxf400.gdn
 0.0.0.0 load.jsecoin.com
 0.0.0.0 load.wedroid.net
@@ -13159,6 +13167,7 @@
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newads.bangbros.com
 0.0.0.0 newbalanceazapato.com
+0.0.0.0 newbalancehungary.com
 0.0.0.0 newbalancere.online
 0.0.0.0 newbalancers.online
 0.0.0.0 newbie.com
@@ -13256,6 +13265,7 @@
 0.0.0.0 nickhel.com
 0.0.0.0 niematego.tk
 0.0.0.0 nikebn.com
+0.0.0.0 nikebt.com
 0.0.0.0 nikecoupon.com
 0.0.0.0 nikedropshipping.com
 0.0.0.0 nikee.club
@@ -14634,6 +14644,7 @@
 0.0.0.0 plugrush.com
 0.0.0.0 plugs.co
 0.0.0.0 plusfind.net
+0.0.0.0 plusitnkd.com
 0.0.0.0 plxserve.com
 0.0.0.0 plxtejszb.com
 0.0.0.0 pm-gateway.supersonicads.com
@@ -15218,6 +15229,7 @@
 0.0.0.0 qwrfpgf.com
 0.0.0.0 qwzmje9w.com
 0.0.0.0 qxyam.com
+0.0.0.0 qzdqvmall.com
 0.0.0.0 r-data.adsrvr.org
 0.0.0.0 r-tb.com
 0.0.0.0 r.ad-stir.com
@@ -18526,7 +18538,6 @@
 0.0.0.0 track.tabootrannys.com
 0.0.0.0 track.tagesanzeiger.ch
 0.0.0.0 track.tapgerine.net
-0.0.0.0 track.technology
 0.0.0.0 track.teenagewhores.com
 0.0.0.0 track.teenmodels.com
 0.0.0.0 track.tenjin.com
@@ -19036,6 +19047,7 @@
 0.0.0.0 trends-a.op-mobile.opera.com
 0.0.0.0 trends.mobile.sina.cn
 0.0.0.0 trends.revcontent.com
+0.0.0.0 trendswa.com
 0.0.0.0 trenpyle.com
 0.0.0.0 tresudjnvnm.xyz
 0.0.0.0 trgde.adocean.pl
@@ -19389,6 +19401,7 @@
 0.0.0.0 ukkey3.space
 0.0.0.0 uknewshoe.co.uk
 0.0.0.0 ukrb-uk.com
+0.0.0.0 uktbstore.top
 0.0.0.0 ul.cdn946.net
 0.0.0.0 uldwcpscwzkis.com
 0.0.0.0 uleypool.com
@@ -19726,6 +19739,7 @@
 0.0.0.0 veoxa.com
 0.0.0.0 verblife-2.co
 0.0.0.0 verblife-3.co
+0.0.0.0 verclothesstore.club
 0.0.0.0 verdeypaisaje.es
 0.0.0.0 vericlick.com
 0.0.0.0 verifier.live
@@ -20774,7 +20788,6 @@
 0.0.0.0 www.antivirus-new.com
 0.0.0.0 www.antivirus.baidu.com
 0.0.0.0 www.anygen-explores.info
-0.0.0.0 www.aopxnvrugx.com
 0.0.0.0 www.api.axiatraders.com
 0.0.0.0 www.api.grandonmedia.com
 0.0.0.0 www.apmebf.com
