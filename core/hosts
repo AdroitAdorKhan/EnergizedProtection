@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.234
-# Release: 234
-# Entries: 22,588
+# Version: 19.08.235
+# Release: 235
+# Entries: 22,585
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 22 Aug 19 20:00:17
+# Updated: Fri, 23 Aug 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -827,7 +827,6 @@
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad-goi.com
 0.0.0.0 ad-maven.com
-0.0.0.0 ad-media.org
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-ramp.appia.com
@@ -7022,7 +7021,6 @@
 0.0.0.0 cryptobroker.io
 0.0.0.0 cryptobrowser.site
 0.0.0.0 cryptocoinz.club
-0.0.0.0 cryptoescrow.eu
 0.0.0.0 cryptofriends.org
 0.0.0.0 cryptokitties.co
 0.0.0.0 cryptokittydex.com
@@ -8308,7 +8306,6 @@
 0.0.0.0 engine.bitmedianetwork.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 engine.fyber.com
-0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 engine.rbc.medialand.ru
 0.0.0.0 engine.sponsorpay.com
 0.0.0.0 engine.turboroller.ru
