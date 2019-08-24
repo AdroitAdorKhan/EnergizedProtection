@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.235
-# Release: 235
-# Entries: 22,585
+# Version: 19.08.236
+# Release: 236
+# Entries: 22,580
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 23 Aug 19 20:00:18
+# Updated: Sat, 24 Aug 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -464,7 +464,6 @@
 0.0.0.0 8758d547dc40.com
 0.0.0.0 87lcn.voluumtrk.com
 0.0.0.0 88.video-ak.cdn.spotify.com
-0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 888casino.com
 0.0.0.0 888media.net
 0.0.0.0 888medianetwork.com
@@ -3032,7 +3031,6 @@
 0.0.0.0 adv-ettoday.cdn.hinet.net
 0.0.0.0 adv.ettoday.net
 0.0.0.0 adv.freeonline.it
-0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.it.boostperform.com
 0.0.0.0 adv.livedoor.com
 0.0.0.0 adv.mediamond.it
@@ -7328,7 +7326,6 @@
 0.0.0.0 dca.as.nexage.com
 0.0.0.0 dcads.sina.com.cn
 0.0.0.0 dcfe924a8f9a1.com
-0.0.0.0 dcs.adgear.com
 0.0.0.0 dd.smaxdn.com
 0.0.0.0 dd.video-ak.cdn.spotify.com
 0.0.0.0 dd713.bj.bcebos.com
@@ -8281,7 +8278,6 @@
 0.0.0.0 emu.sharethis.com
 0.0.0.0 en.ad-stir.com
 0.0.0.0 en.browser.baidu.com
-0.0.0.0 en.hd8888.com
 0.0.0.0 en.lumendivision.com
 0.0.0.0 en.uc123.com
 0.0.0.0 en.ucsec2.ucweb.com
@@ -12202,7 +12198,6 @@
 0.0.0.0 me.adform.com
 0.0.0.0 me.studynerdz.com
 0.0.0.0 me.ucweb.com
-0.0.0.0 measure.mobileapptracking.com
 0.0.0.0 measuread.com
 0.0.0.0 measuremap.com
 0.0.0.0 mecha.engineering
