@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.236
-# Release: 236
-# Entries: 22,580
+# Version: 19.08.237
+# Release: 237
+# Entries: 22,597
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 24 Aug 19 20:00:18
+# Updated: Sun, 25 Aug 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -417,6 +417,7 @@
 0.0.0.0 73.video-ak.cdn.spotify.com
 0.0.0.0 74.video-ak.cdn.spotify.com
 0.0.0.0 75.video-ak.cdn.spotify.com
+0.0.0.0 754daf9cd396259.com
 0.0.0.0 76.video-ak.cdn.spotify.com
 0.0.0.0 7667bab1751ff777.com
 0.0.0.0 77.utroro.com
@@ -2524,7 +2525,6 @@
 0.0.0.0 adserver.goforandroid.com
 0.0.0.0 adserver.gorillanation.com
 0.0.0.0 adserver.hardsextube.com
-0.0.0.0 adserver.hardwareanalysis.com
 0.0.0.0 adserver.hittheroad.mobi
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
@@ -7073,6 +7073,7 @@
 0.0.0.0 ctrlaltdel99.com
 0.0.0.0 ctrmanager.com
 0.0.0.0 ctxt.tribalfusion.com
+0.0.0.0 ctzkvca0fupsrhd.ru
 0.0.0.0 cubecdn.net
 0.0.0.0 cubiboak.com
 0.0.0.0 cubics.com
@@ -8056,6 +8057,7 @@
 0.0.0.0 e5070.g.akamaiedge.net
 0.0.0.0 e5413.g.akamaiedge.net
 0.0.0.0 e5460.g.akamaiedge.net
+0.0.0.0 e553bcf717698d33.com
 0.0.0.0 e55ad629278829.com
 0.0.0.0 e6.video-ak.cdn.spotify.com
 0.0.0.0 e6061780c064c.com
@@ -8119,6 +8121,7 @@
 0.0.0.0 ec2-13-127-188-209.ap-south-1.compute.amazonaws.com
 0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 0.0.0.0 eccoes.online
+0.0.0.0 ecdn.analysis.fi
 0.0.0.0 ecdoz.club
 0.0.0.0 ecgajcijcbgiibdgach.ru
 0.0.0.0 ecircle-ag.com
@@ -8709,10 +8712,12 @@
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fcmigoods.xyz
 0.0.0.0 fd.video-ak.cdn.spotify.com
+0.0.0.0 fd1.info
 0.0.0.0 fd1e6b4692e967.com
 0.0.0.0 fd6fq54s6df541q23sdxfg.eu
 0.0.0.0 fd9523b31ff93b5c.com
 0.0.0.0 fddfb57e1e.com
+0.0.0.0 fdeddechfdfgjiacade.ru
 0.0.0.0 fdkhaserboots.club
 0.0.0.0 fdplttrk.com
 0.0.0.0 fe.video-ak.cdn.spotify.com
@@ -8919,6 +8924,7 @@
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forexfinancexxfx.info
 0.0.0.0 forexmetatradexxd.info
+0.0.0.0 forgethenar.info
 0.0.0.0 forkizata.com
 0.0.0.0 formats.juiceadv.com
 0.0.0.0 formulawire.com
@@ -9564,6 +9570,7 @@
 0.0.0.0 gridiogrid.com
 0.0.0.0 gripdownload.co
 0.0.0.0 groceriesgiftcards.com
+0.0.0.0 gromairt.net
 0.0.0.0 grondslag.net
 0.0.0.0 groovinads.com
 0.0.0.0 groupcommerce.com
@@ -9802,6 +9809,7 @@
 0.0.0.0 helpercheckerextt.biz
 0.0.0.0 helptofix.co
 0.0.0.0 hengaredi.pro
+0.0.0.0 henorightontor.pro
 0.0.0.0 hentaicounter.com
 0.0.0.0 hentaifapland.com
 0.0.0.0 herbalaffiliateprogram.com
@@ -10485,6 +10493,7 @@
 0.0.0.0 images.skimresources.com
 0.0.0.0 images3.imgbox.com
 0.0.0.0 imagetopng.club
+0.0.0.0 imagizer.imageshack.com
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
@@ -10759,6 +10768,7 @@
 0.0.0.0 install.topradiostationsonline.com
 0.0.0.0 install.utilitooltech.com
 0.0.0.0 installtracker.com
+0.0.0.0 instant-money-tips.com
 0.0.0.0 instantbannercreator.com
 0.0.0.0 instantdollarz.com
 0.0.0.0 instantmadness.com
@@ -11002,6 +11012,7 @@
 0.0.0.0 jeansame.store
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefaerosol.free.fr
+0.0.0.0 jellopads.com
 0.0.0.0 jemmgroup.com
 0.0.0.0 jenkins.kissmetrics.com
 0.0.0.0 jenson.api.swiftkey.com
@@ -12654,6 +12665,7 @@
 0.0.0.0 mobiletrk.click-now.today
 0.0.0.0 mobiletuber.ru
 0.0.0.0 mobileviewsa.com
+0.0.0.0 mobilseeombure.pro
 0.0.0.0 mobiright.com
 0.0.0.0 mobistation.cloud
 0.0.0.0 mobitracker.info
@@ -12895,6 +12907,7 @@
 0.0.0.0 mutary.com
 0.0.0.0 mutix.int.browser.baidu.com
 0.0.0.0 muwmedia.com
+0.0.0.0 mvbemeggnodty.com
 0.0.0.0 mver.agkn.com
 0.0.0.0 mvp-us-east-1.onemobile.yahoo.com
 0.0.0.0 mvpcanzy.site
@@ -15084,6 +15097,7 @@
 0.0.0.0 push.wandoujia.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 push2check.com
+0.0.0.0 pushails.com
 0.0.0.0 pushazam.com
 0.0.0.0 pushazer.com
 0.0.0.0 pushbank-ulapps.pushdom.co
@@ -15305,6 +15319,7 @@
 0.0.0.0 rape.ws
 0.0.0.0 rapidcounter.com
 0.0.0.0 rapidkittens.com
+0.0.0.0 rappenedstoric.info
 0.0.0.0 rarenok.biz
 0.0.0.0 raresummer.com
 0.0.0.0 rata.ero-advertising.com
@@ -15554,6 +15569,7 @@
 0.0.0.0 repair.cutedev.net
 0.0.0.0 repaningharbut.club
 0.0.0.0 repelisgocom.cdaz.icu
+0.0.0.0 rephantedditont.pro
 0.0.0.0 replase.ga
 0.0.0.0 replase.ml
 0.0.0.0 repo.appnext.com
@@ -17646,6 +17662,7 @@
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adincube.com
 0.0.0.0 tag.contextweb.com
+0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.datariver.ru
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 tag.gammaplatform.com
@@ -21360,7 +21377,6 @@
 0.0.0.0 www.livefyre.com
 0.0.0.0 www.livepromo.net
 0.0.0.0 www.liverail.com
-0.0.0.0 www.llnwd.net
 0.0.0.0 www.loadmill.com
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
@@ -21433,6 +21449,7 @@
 0.0.0.0 www.mozook.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
+0.0.0.0 www.mvbemeggnodty.com
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.mxttrf.com
 0.0.0.0 www.my4kvideo.info
