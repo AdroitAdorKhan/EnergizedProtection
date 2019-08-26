@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.237
-# Release: 237
-# Entries: 22,597
+# Version: 19.08.238
+# Release: 238
+# Entries: 22,613
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 25 Aug 19 20:00:17
+# Updated: Mon, 26 Aug 19 20:52:24
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -192,6 +192,7 @@
 0.0.0.0 24pm-affiliation.com
 0.0.0.0 24siete.tienda-online.com
 0.0.0.0 25.video-ak.cdn.spotify.com
+0.0.0.0 253dbce595.com
 0.0.0.0 26.video-ak.cdn.spotify.com
 0.0.0.0 268f36c5ee7e7a.com
 0.0.0.0 26c84ccad3d2.com
@@ -427,6 +428,7 @@
 0.0.0.0 77tracking.com
 0.0.0.0 78.video-ak.cdn.spotify.com
 0.0.0.0 79.video-ak.cdn.spotify.com
+0.0.0.0 798c7003dbb.com
 0.0.0.0 7a.video-ak.cdn.spotify.com
 0.0.0.0 7b.video-ak.cdn.spotify.com
 0.0.0.0 7bb15da640.com
@@ -457,6 +459,7 @@
 0.0.0.0 83393968.com
 0.0.0.0 8378.adzerk.net
 0.0.0.0 84.video-ak.cdn.spotify.com
+0.0.0.0 84f4e3a76b2e.com
 0.0.0.0 85.video-ak.cdn.spotify.com
 0.0.0.0 852.im
 0.0.0.0 86.video-ak.cdn.spotify.com
@@ -489,6 +492,7 @@
 0.0.0.0 91pool.com
 0.0.0.0 91support.com
 0.0.0.0 92.video-ak.cdn.spotify.com
+0.0.0.0 929a6f82280b7f.com
 0.0.0.0 93.tityx.com
 0.0.0.0 93.video-ak.cdn.spotify.com
 0.0.0.0 94.video-ak.cdn.spotify.com
@@ -912,7 +916,6 @@
 0.0.0.0 ad.ca.doubleclick.net
 0.0.0.0 ad.caprofitx.adtdp.com
 0.0.0.0 ad.caprofitx.com
-0.0.0.0 ad.caradisiac.com
 0.0.0.0 ad.cashdorado.de
 0.0.0.0 ad.castad.co.kr
 0.0.0.0 ad.cauly.co.kr
@@ -4868,6 +4871,7 @@
 0.0.0.0 bd-ads.com
 0.0.0.0 bd.tapad.com
 0.0.0.0 bd.video-ak.cdn.spotify.com
+0.0.0.0 bd.workbefit.com
 0.0.0.0 bdads.mobi
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdawg.us
@@ -5253,6 +5257,7 @@
 0.0.0.0 bnserving.com
 0.0.0.0 bnsjb1ab1e.com
 0.0.0.0 bnster.com
+0.0.0.0 boarrabsinsand.pro
 0.0.0.0 bob.algolia.com
 0.0.0.0 bodelen.com
 0.0.0.0 bodloft.com
@@ -5969,7 +5974,6 @@
 0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 cdn.oas-eu1.adnxs.com
-0.0.0.0 cdn.onedigitalad.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.pbrd.co
@@ -6626,6 +6630,9 @@
 0.0.0.0 collector.cloudmosa.net
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.xhamster.com
+0.0.0.0 collector1.xhamster.desi
+0.0.0.0 collector3.xhamster.com
+0.0.0.0 collector3.xhamster.desi
 0.0.0.0 college-knowledge.us
 0.0.0.0 collegeprowler.adblade.com
 0.0.0.0 colliersads.com
@@ -8050,6 +8057,7 @@
 0.0.0.0 e3.video-ak.cdn.spotify.com
 0.0.0.0 e376ef28103177cc.com
 0.0.0.0 e4.video-ak.cdn.spotify.com
+0.0.0.0 e4949ee7275c4.com
 0.0.0.0 e4ceb6161619.com
 0.0.0.0 e4f1faad220ad3c.com
 0.0.0.0 e5.video-ak.cdn.spotify.com
@@ -8608,6 +8616,7 @@
 0.0.0.0 f2.video-ak.cdn.spotify.com
 0.0.0.0 f2pool.com
 0.0.0.0 f3.video-ak.cdn.spotify.com
+0.0.0.0 f369a60bf483bcc9.com
 0.0.0.0 f3c9986c7ff745.com
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f4.video-ak.cdn.spotify.com
@@ -8910,6 +8919,7 @@
 0.0.0.0 follow.headline.uodoo.com
 0.0.0.0 follow.maribacaberita.com
 0.0.0.0 followshipa.info
+0.0.0.0 folmetor.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foodieblogroll.com
 0.0.0.0 foodwears.com
@@ -9767,6 +9777,7 @@
 0.0.0.0 hd8888.com
 0.0.0.0 hdgrears.com
 0.0.0.0 hdscout.com
+0.0.0.0 hdslnhmjga.com
 0.0.0.0 hduxeodjdhry.com
 0.0.0.0 hdwjwooqvnm.com
 0.0.0.0 hdx.wsq.umeng.com
@@ -17106,6 +17117,7 @@
 0.0.0.0 stat.m.jd.com
 0.0.0.0 stat.maalaimalar.com
 0.0.0.0 stat.matichon.co.th
+0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.pl
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stat.su
@@ -17586,6 +17598,7 @@
 0.0.0.0 syndication-whk1.exoclick.com
 0.0.0.0 syndication.contentabc.com
 0.0.0.0 syndication.dynsrvtbg.com
+0.0.0.0 syndication.dynsrvtyu.com
 0.0.0.0 syndication.dynsrvwer.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
@@ -21106,6 +21119,7 @@
 0.0.0.0 www.eskimi.com
 0.0.0.0 www.esnrb.com
 0.0.0.0 www.euroclinix.net
+0.0.0.0 www.evaffwmdjgtn.com
 0.0.0.0 www.everesttech.net
 0.0.0.0 www.evyy.net
 0.0.0.0 www.exoclick.com
@@ -21233,6 +21247,7 @@
 0.0.0.0 www.hd-stream.net
 0.0.0.0 www.hd-streamnet.com
 0.0.0.0 www.hd-usenet-streams.com
+0.0.0.0 www.hdslnhmjga.com
 0.0.0.0 www.hduxeodjdhry.com
 0.0.0.0 www.headlinecamp.com
 0.0.0.0 www.healthcaremanagement.info
@@ -21378,6 +21393,7 @@
 0.0.0.0 www.livepromo.net
 0.0.0.0 www.liverail.com
 0.0.0.0 www.loadmill.com
+0.0.0.0 www.lodqycbq.com
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
 0.0.0.0 www.lp-site.com
