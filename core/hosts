@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.238
-# Release: 238
-# Entries: 22,613
+# Version: 19.08.239
+# Release: 239
+# Entries: 22,634
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 26 Aug 19 20:52:24
+# Updated: Tue, 27 Aug 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -396,6 +396,7 @@
 0.0.0.0 64.video-ak.cdn.spotify.com
 0.0.0.0 659.digitaldsp.com
 0.0.0.0 65vk1fba34.com
+0.0.0.0 6631f33cf2a1032b.com
 0.0.0.0 676.digitaldsp.com
 0.0.0.0 68.video-ak.cdn.spotify.com
 0.0.0.0 681683.com
@@ -458,6 +459,7 @@
 0.0.0.0 83.video-ak.cdn.spotify.com
 0.0.0.0 83393968.com
 0.0.0.0 8378.adzerk.net
+0.0.0.0 83a26bd3df29eb57.com
 0.0.0.0 84.video-ak.cdn.spotify.com
 0.0.0.0 84f4e3a76b2e.com
 0.0.0.0 85.video-ak.cdn.spotify.com
@@ -525,6 +527,7 @@
 0.0.0.0 9bc6c5fabdc.com
 0.0.0.0 9c.video-ak.cdn.spotify.com
 0.0.0.0 9d.video-ak.cdn.spotify.com
+0.0.0.0 9dba96e8c06d.com
 0.0.0.0 9e.video-ak.cdn.spotify.com
 0.0.0.0 9e7769ed7b1.com
 0.0.0.0 9f.video-ak.cdn.spotify.com
@@ -4279,6 +4282,7 @@
 0.0.0.0 artesyredesdelsur.es
 0.0.0.0 artulenia.com
 0.0.0.0 as-gb.adskeeper.co.uk
+0.0.0.0 as-yoyapay.info
 0.0.0.0 as.ad-brix.com
 0.0.0.0 as.amanad.adtdp.com
 0.0.0.0 as.casalemedia.com
@@ -5591,6 +5595,7 @@
 0.0.0.0 c3.adalyser.com
 0.0.0.0 c3.myapkcdn.in
 0.0.0.0 c3.video-ak.cdn.spotify.com
+0.0.0.0 c35661e65f.com
 0.0.0.0 c3c-clan.es
 0.0.0.0 c3rh.net
 0.0.0.0 c4.video-ak.cdn.spotify.com
@@ -5613,6 +5618,7 @@
 0.0.0.0 ca.video-ak.cdn.spotify.com
 0.0.0.0 cabanella.net
 0.0.0.0 cabbage.recipes
+0.0.0.0 cabinhshop.com
 0.0.0.0 cache-dev.addthis.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache-test.addthis.com
@@ -6396,6 +6402,7 @@
 0.0.0.0 clickterra.net
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
+0.0.0.0 clicktime.club
 0.0.0.0 clicktrace.info
 0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 clicktracks.com
@@ -6612,6 +6619,7 @@
 0.0.0.0 coinotron.com
 0.0.0.0 coinpool.cloud
 0.0.0.0 coinpot.co
+0.0.0.0 coinsclck.ru
 0.0.0.0 coinsdouble.top
 0.0.0.0 coinsecure.in
 0.0.0.0 coinsprofit.com
@@ -6691,6 +6699,7 @@
 0.0.0.0 comprabanner.it
 0.0.0.0 comscore.com
 0.0.0.0 comson-wagentina.com
+0.0.0.0 comxmovilmi.com
 0.0.0.0 con.mp.ucweb.com
 0.0.0.0 con.uctalks.ucweb.com
 0.0.0.0 concernedcondition.com
@@ -8128,6 +8137,7 @@
 0.0.0.0 ec.video-ak.cdn.spotify.com
 0.0.0.0 ec2-13-127-188-209.ap-south-1.compute.amazonaws.com
 0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
+0.0.0.0 ec23bc5993c.com
 0.0.0.0 eccoes.online
 0.0.0.0 ecdn.analysis.fi
 0.0.0.0 ecdoz.club
@@ -8764,6 +8774,7 @@
 0.0.0.0 fehouga.ml
 0.0.0.0 fehxium0bgdhrdr.ru
 0.0.0.0 feijooregoyasociados.es
+0.0.0.0 fejhjhddaajibegjadf.ru
 0.0.0.0 felinetech.net
 0.0.0.0 feljack.com
 0.0.0.0 fenbu.ga
@@ -8853,6 +8864,7 @@
 0.0.0.0 fixnow.us
 0.0.0.0 fjallravenkankenmochilas.com.es
 0.0.0.0 fjallravenpack.com
+0.0.0.0 fjftiis8cofvstn.ru
 0.0.0.0 fjrkn.com
 0.0.0.0 fk-web.cxense.com
 0.0.0.0 fkbwtoopwg.com
@@ -8877,7 +8889,6 @@
 0.0.0.0 flexbanner.com
 0.0.0.0 flightsy.bid
 0.0.0.0 flightsy.date
-0.0.0.0 flightsy.win
 0.0.0.0 flightzy.win
 0.0.0.0 flimsycircle.com
 0.0.0.0 flite.com
@@ -8983,6 +8994,7 @@
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 frdaew.gq
 0.0.0.0 frederickcountygives.ngo
+0.0.0.0 fredperrycostly.com
 0.0.0.0 free-banners.com
 0.0.0.0 free-cloud-storage.com
 0.0.0.0 free-mind-movies.info
@@ -9297,7 +9309,6 @@
 0.0.0.0 getshopmall.com
 0.0.0.0 getslimfast.info
 0.0.0.0 getstarted.trafficjunky.com
-0.0.0.0 gettate.date
 0.0.0.0 gettate.faith
 0.0.0.0 gettate.racing
 0.0.0.0 gettrk.vidible.tv
@@ -9326,10 +9337,12 @@
 0.0.0.0 gimnasiomillenium.es
 0.0.0.0 gingermedia.adk2.co
 0.0.0.0 gingermedia.adk2x.com
+0.0.0.0 gintsvim.ru
 0.0.0.0 giocaora.mobi
 0.0.0.0 giochissimo.it
 0.0.0.0 giokispaziali.mobi
 0.0.0.0 gira21.es
+0.0.0.0 girlsec.com
 0.0.0.0 gitgrub.pro
 0.0.0.0 github.algolia.com
 0.0.0.0 github.umeng.com
@@ -9969,6 +9982,7 @@
 0.0.0.0 ho.lazada.co.th
 0.0.0.0 hobbsfashiondresses.com
 0.0.0.0 hodl.blockquarry.com
+0.0.0.0 hokabranddiscount.club
 0.0.0.0 hokaishop.com
 0.0.0.0 hokashoes.site
 0.0.0.0 holacasita.com
@@ -10173,7 +10187,6 @@
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
-0.0.0.0 iaheyftbsn.review
 0.0.0.0 ialaddin.genieesspv.jp
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iamediaserve.com
@@ -11196,7 +11209,6 @@
 0.0.0.0 justpremium.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justresonter.com
-0.0.0.0 juststatic.info
 0.0.0.0 justteck.com
 0.0.0.0 justuno.com
 0.0.0.0 justwebads.com
@@ -11426,6 +11438,7 @@
 0.0.0.0 lapdqegtp.com
 0.0.0.0 lapool.me
 0.0.0.0 laptopbest.club
+0.0.0.0 laptophotdeals.club
 0.0.0.0 laptopsshoppingsl.club
 0.0.0.0 larentisol.com
 0.0.0.0 large-format.net
@@ -11981,6 +11994,7 @@
 0.0.0.0 m2.bhigieabgdbabegiibb.ru
 0.0.0.0 m2.cajgbabcfhjceiacabd.ru
 0.0.0.0 m2.eebfffjegjajjiacaci.ru
+0.0.0.0 m2.fejhjhddaajibegjadf.ru
 0.0.0.0 m2.trafficjunky.net
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m2pub.adk2.co
@@ -13364,6 +13378,7 @@
 0.0.0.0 nosy.es
 0.0.0.0 notalyyj.com
 0.0.0.0 notcb.com
+0.0.0.0 notcv.com
 0.0.0.0 notebookcheck.h-bid.com
 0.0.0.0 notification-browser.tools
 0.0.0.0 notification-system.tools
@@ -13575,6 +13590,7 @@
 0.0.0.0 oiumoqzo.com
 0.0.0.0 oiyjut.ml
 0.0.0.0 ojok.com
+0.0.0.0 ojwgkxcgdhvacc.com
 0.0.0.0 ok-rb.top
 0.0.0.0 ok.appnexus.com
 0.0.0.0 okffuzmscjboad.com
@@ -13713,6 +13729,7 @@
 0.0.0.0 operamini-sub.osp.opera.software
 0.0.0.0 operasoftware.com
 0.0.0.0 operationkettle.com
+0.0.0.0 opertia.es
 0.0.0.0 opetiv.com
 0.0.0.0 opienetwork.com
 0.0.0.0 oplus.umeng.com
@@ -13750,6 +13767,7 @@
 0.0.0.0 optout.skimresources.com
 0.0.0.0 optout3.advertising.com
 0.0.0.0 optout3.nexage.com
+0.0.0.0 opulence.es
 0.0.0.0 oqn2ujcvgki0fgqy.pro
 0.0.0.0 oqpvqnc.top
 0.0.0.0 orangeoperation.com
@@ -16064,6 +16082,7 @@
 0.0.0.0 salomonoutlet.com.mx
 0.0.0.0 salomonoutlet.uk.com
 0.0.0.0 salomonsen.online
+0.0.0.0 salomonses.online
 0.0.0.0 salomonuzapato.com
 0.0.0.0 salomonxshop.com
 0.0.0.0 salon.umeng.com
@@ -18206,6 +18225,7 @@
 0.0.0.0 totdorancaltert.club
 0.0.0.0 totemcash.com
 0.0.0.0 totteventa.online
+0.0.0.0 tottomochila.online
 0.0.0.0 tottoues.com
 0.0.0.0 touch.media-serving.com
 0.0.0.0 touchads.com
@@ -20464,6 +20484,7 @@
 0.0.0.0 wps.zog.link
 0.0.0.0 wr.digitaldsp.com
 0.0.0.0 wrongpotato.com
+0.0.0.0 wronresthatmedidn.pro
 0.0.0.0 wrontontordingcal.info
 0.0.0.0 wryfinger.com
 0.0.0.0 ws-adv.ais.co.th
@@ -21522,6 +21543,7 @@
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
 0.0.0.0 www.oipzyrzffum.ovh
+0.0.0.0 www.ojwgkxcgdhvacc.com
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.ol14x.voluumtrk.com
@@ -22123,6 +22145,7 @@
 0.0.0.0 www.yourtuber.info
 0.0.0.0 www.yserch.com
 0.0.0.0 www.ywpkgqasoe.bid
+0.0.0.0 www.yximgdpivguxke.com
 0.0.0.0 www.z.moatads.com
 0.0.0.0 www.z9n5o.voluumtrk.com
 0.0.0.0 www.zamora.axiatraders.com
@@ -22149,6 +22172,7 @@
 0.0.0.0 www.zyxow.com
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.algolia.com
+0.0.0.0 www108zippysharecom.imageshack.host
 0.0.0.0 www1284.vcdn.xyz
 0.0.0.0 www193.wixdns.net
 0.0.0.0 www2.adcash.com
@@ -22511,6 +22535,7 @@
 0.0.0.0 yupfiles.net
 0.0.0.0 yuppldwefhrw.ga
 0.0.0.0 yvsystem.com
+0.0.0.0 yximgdpivguxke.com
 0.0.0.0 yz56lywd.com
 0.0.0.0 yzuezvrahok.com
 0.0.0.0 yzus09by.com
@@ -22600,7 +22625,6 @@
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 znacktv.it
 0.0.0.0 znaptag.com
-0.0.0.0 zndaowjdnf.stream
 0.0.0.0 znsqykdmcjh.com
 0.0.0.0 znsv.baidu.com
 0.0.0.0 zo1.sierra-boa.com
@@ -22645,10 +22669,7 @@
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zx9s.smcheck.org
 0.0.0.0 zy16eoat1w.com
-0.0.0.0 zymerget.bid
-0.0.0.0 zymerget.date
 0.0.0.0 zymerget.faith
-0.0.0.0 zymerget.party
 0.0.0.0 zymerget.stream
 0.0.0.0 zymerget.win
 0.0.0.0 zyora.co
