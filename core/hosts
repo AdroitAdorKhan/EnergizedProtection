@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.239
-# Release: 239
-# Entries: 22,634
+# Version: 19.08.240
+# Release: 240
+# Entries: 22,636
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 27 Aug 19 20:00:16
+# Updated: Wed, 28 Aug 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -657,6 +657,7 @@
 0.0.0.0 a5.video-ak.cdn.spotify.com
 0.0.0.0 a510fe1652b.com
 0.0.0.0 a5a5a.com
+0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a6.video-ak.cdn.spotify.com
 0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 0.0.0.0 a7.video-ak.cdn.spotify.com
@@ -697,9 +698,11 @@
 0.0.0.0 abashedangle.com
 0.0.0.0 abbott.vo.llnwd.net
 0.0.0.0 abc-ads.com
+0.0.0.0 abc.abcdserver.com
 0.0.0.0 abc.lkjuio.com
 0.0.0.0 abc.m4adata.com
 0.0.0.0 abcd.fyi
+0.0.0.0 abcdserver.com
 0.0.0.0 abilil.com
 0.0.0.0 abnad.net
 0.0.0.0 abnormour.club
@@ -781,7 +784,6 @@
 0.0.0.0 acrididae.com
 0.0.0.0 acridtwist.com
 0.0.0.0 acrmbjkk6qc5utby.pro
-0.0.0.0 acs.adgear.com
 0.0.0.0 acs.adtdp.com
 0.0.0.0 acs.maribacaberita.com
 0.0.0.0 acsseo.com
@@ -3103,7 +3105,6 @@
 0.0.0.0 advertising.amazon.com
 0.0.0.0 advertising.amazon.de
 0.0.0.0 advertising.aol.co.uk
-0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.apartmenttherapy.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.autotrader.co.uk
@@ -3756,6 +3757,7 @@
 0.0.0.0 analyticselb.localytics.com
 0.0.0.0 analyzer.omniata.com
 0.0.0.0 anastasiasaffiliate.com
+0.0.0.0 anbalxkcpwa.com
 0.0.0.0 ancestry.siteintercept.qualtrics.com
 0.0.0.0 ancestrydnatest.net
 0.0.0.0 ancientroom.com
@@ -3944,7 +3946,6 @@
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.conversant.mgr.consensu.org
-0.0.0.0 api.cossette.adgear.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.crittercism.com
@@ -4187,6 +4188,7 @@
 0.0.0.0 appodeal.herokuapp.com
 0.0.0.0 appodealx.com
 0.0.0.0 appolicious.com
+0.0.0.0 appotiz.co
 0.0.0.0 appraisal.group
 0.0.0.0 apprebates.com
 0.0.0.0 appredeem.com
@@ -6841,7 +6843,6 @@
 0.0.0.0 cosiloon.com
 0.0.0.0 cosmos.inmobi.com
 0.0.0.0 cosmos.marfeel.com
-0.0.0.0 cossette.adgear.com
 0.0.0.0 cossioweb.es
 0.0.0.0 cost2buy.net
 0.0.0.0 costumingmallshop.com
@@ -8473,7 +8474,6 @@
 0.0.0.0 european-toplist.de
 0.0.0.0 europebanks.live
 0.0.0.0 europerty.pro
-0.0.0.0 euroranking.de
 0.0.0.0 euros4click.de
 0.0.0.0 euscomshop.com
 0.0.0.0 eusta.de
@@ -14076,6 +14076,7 @@
 0.0.0.0 p348166.cdaz.icu
 0.0.0.0 p348372.cdaz.icu
 0.0.0.0 p349413.cdaz.icu
+0.0.0.0 p350179.clksite.com
 0.0.0.0 p350650.clksite.com
 0.0.0.0 p350650.intab.site
 0.0.0.0 p351570.cdaz.icu
@@ -14385,6 +14386,7 @@
 0.0.0.0 picbucks.com
 0.0.0.0 pickaxe.pro
 0.0.0.0 pickytime.com
+0.0.0.0 picszeta.com
 0.0.0.0 pie.net.pk
 0.0.0.0 piercial.com
 0.0.0.0 piet2eix3l.com
@@ -20817,6 +20819,7 @@
 0.0.0.0 www.analytics.ero-advertising.com
 0.0.0.0 www.analytics.icons8.com
 0.0.0.0 www.analytics.picsart.com
+0.0.0.0 www.anbalxkcpwa.com
 0.0.0.0 www.andoidtraffic.ru
 0.0.0.0 www.andriod.co
 0.0.0.0 www.androidm.info
@@ -21142,7 +21145,6 @@
 0.0.0.0 www.euroclinix.net
 0.0.0.0 www.evaffwmdjgtn.com
 0.0.0.0 www.everesttech.net
-0.0.0.0 www.evyy.net
 0.0.0.0 www.exoclick.com
 0.0.0.0 www.ext.privacyassistant.net
 0.0.0.0 www.ezonlinesupport.com
@@ -21414,7 +21416,6 @@
 0.0.0.0 www.livepromo.net
 0.0.0.0 www.liverail.com
 0.0.0.0 www.loadmill.com
-0.0.0.0 www.lodqycbq.com
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
 0.0.0.0 www.lp-site.com
@@ -21486,7 +21487,6 @@
 0.0.0.0 www.mozook.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
-0.0.0.0 www.mvbemeggnodty.com
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.mxttrf.com
 0.0.0.0 www.my4kvideo.info
@@ -21740,6 +21740,7 @@
 0.0.0.0 www.rotator.beginads.com
 0.0.0.0 www.royalbet90.win
 0.0.0.0 www.rp3oq.voluumtrk.com
+0.0.0.0 www.rqqljktze.com
 0.0.0.0 www.rs.ero-advertising.com
 0.0.0.0 www.rs2.ero-advertising.com
 0.0.0.0 www.rtalabel.org
@@ -22084,6 +22085,7 @@
 0.0.0.0 www.wta.ero-advertising.com
 0.0.0.0 www.wtseticket.com
 0.0.0.0 www.wtwcdgfpi.com
+0.0.0.0 www.wtyruwwvjloyk.com
 0.0.0.0 www.ww2.ero-advertising.com
 0.0.0.0 www.wwa.ero-advertising.com
 0.0.0.0 www.wwbanners2.ero-advertising.com
