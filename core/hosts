@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.240
-# Release: 240
-# Entries: 22,636
+# Version: 19.08.241
+# Release: 241
+# Entries: 22,639
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 28 Aug 19 20:00:16
+# Updated: Thu, 29 Aug 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -9309,7 +9309,6 @@
 0.0.0.0 getshopmall.com
 0.0.0.0 getslimfast.info
 0.0.0.0 getstarted.trafficjunky.com
-0.0.0.0 gettate.faith
 0.0.0.0 gettate.racing
 0.0.0.0 gettrk.vidible.tv
 0.0.0.0 getunlocked.com
@@ -9723,7 +9722,6 @@
 0.0.0.0 haroonsaadiq.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
-0.0.0.0 harvardbp.vo.llnwd.net
 0.0.0.0 harvest.algolia.com
 0.0.0.0 harvest.surge.sh
 0.0.0.0 hash-hash-tag.com
@@ -11975,7 +11973,6 @@
 0.0.0.0 m.xvideos.by
 0.0.0.0 m.yanglaopt.net
 0.0.0.0 m.yap.yahoo.com
-0.0.0.0 m.yyfymj.com
 0.0.0.0 m.zhaibei112.top
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m1.baidu.com
@@ -13285,6 +13282,7 @@
 0.0.0.0 ng001.zkmobi.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 nglmedia.com
+0.0.0.0 ngpipes.analytics.mbga.jp
 0.0.0.0 nhl.speedera.net
 0.0.0.0 nhsrv.cf
 0.0.0.0 nhvw3-ee61f.ads.tremorhub.com
@@ -13562,6 +13560,7 @@
 0.0.0.0 of.okyesmobi.com
 0.0.0.0 ofa-sub.osp.opera.software
 0.0.0.0 ofeetles.pro
+0.0.0.0 ofertasdeviajesa.es
 0.0.0.0 ofertasfarmacias.es
 0.0.0.0 offer.lenzmx.com
 0.0.0.0 offer.netaffs.in
@@ -13582,6 +13581,7 @@
 0.0.0.0 ogercron.com
 0.0.0.0 oggda.com
 0.0.0.0 oggifinogi.com
+0.0.0.0 oglinagoods.com
 0.0.0.0 ogrovom.xyz
 0.0.0.0 ohmcasting.com
 0.0.0.0 ohmwrite.com
@@ -13791,6 +13791,7 @@
 0.0.0.0 osiaffiliate.com
 0.0.0.0 osiamining.com
 0.0.0.0 osm.algolia.com
+0.0.0.0 ospreyes.online
 0.0.0.0 ospreymedialp.com
 0.0.0.0 oss.message.umeng.com
 0.0.0.0 oss.ucdl.pp.uc.cn
@@ -14279,7 +14280,6 @@
 0.0.0.0 pcsupport.com
 0.0.0.0 pcus.ucweb.com
 0.0.0.0 pdds.uodoo.com
-0.0.0.0 pdheuryopd.loan
 0.0.0.0 pdl.gionee.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 pdx-1-apex.go.sonobi.com
@@ -14679,6 +14679,7 @@
 0.0.0.0 plugin.ucads.ucweb.com
 0.0.0.0 plugrush.com
 0.0.0.0 plugs.co
+0.0.0.0 plusdens.com
 0.0.0.0 plusfind.net
 0.0.0.0 plusitnkd.com
 0.0.0.0 plxserve.com
@@ -20502,6 +20503,7 @@
 0.0.0.0 wsback-apps.presage.io
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wshareit.com
+0.0.0.0 wsjzanoesew.site
 0.0.0.0 wslog.truecaller.com
 0.0.0.0 wsp.traffic-media.co.uk
 0.0.0.0 wsq.umeng.com
@@ -22397,6 +22399,7 @@
 0.0.0.0 yandex.go-2.link
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yanyne.online
+0.0.0.0 yaofang.ml
 0.0.0.0 yapi.apk.v-mate.mobi
 0.0.0.0 yardzing.com
 0.0.0.0 yarlnk.com
