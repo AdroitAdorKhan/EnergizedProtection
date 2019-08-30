@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.241
-# Release: 241
-# Entries: 22,639
+# Version: 19.08.242
+# Release: 242
+# Entries: 22,670
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 29 Aug 19 20:00:17
+# Updated: Fri, 30 Aug 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -193,6 +193,7 @@
 0.0.0.0 24siete.tienda-online.com
 0.0.0.0 25.video-ak.cdn.spotify.com
 0.0.0.0 253dbce595.com
+0.0.0.0 25f0f5d4fb.com
 0.0.0.0 26.video-ak.cdn.spotify.com
 0.0.0.0 268f36c5ee7e7a.com
 0.0.0.0 26c84ccad3d2.com
@@ -240,6 +241,7 @@
 0.0.0.0 30.video-ak.cdn.spotify.com
 0.0.0.0 31.tityx.com
 0.0.0.0 31.video-ak.cdn.spotify.com
+0.0.0.0 31b8253e5fc.com
 0.0.0.0 32.video-ak.cdn.spotify.com
 0.0.0.0 32b4oilo.com
 0.0.0.0 33.video-ak.cdn.spotify.com
@@ -479,8 +481,10 @@
 0.0.0.0 8a.video-ak.cdn.spotify.com
 0.0.0.0 8a8cq8c8yyqjs2xr.pro
 0.0.0.0 8b.video-ak.cdn.spotify.com
+0.0.0.0 8bef5bb6b351ca5e.com
 0.0.0.0 8c.video-ak.cdn.spotify.com
 0.0.0.0 8caf633a6be9.com
+0.0.0.0 8cb0309458c7b35e.com
 0.0.0.0 8d.video-ak.cdn.spotify.com
 0.0.0.0 8e.video-ak.cdn.spotify.com
 0.0.0.0 8f.video-ak.cdn.spotify.com
@@ -3025,6 +3029,7 @@
 0.0.0.0 adu99.net
 0.0.0.0 adult-channels.com
 0.0.0.0 adult-movies.cc
+0.0.0.0 adult-video.best
 0.0.0.0 adultadvertising.com
 0.0.0.0 adultadworld.com
 0.0.0.0 adultimate.net
@@ -5268,7 +5273,6 @@
 0.0.0.0 bodelen.com
 0.0.0.0 bodloft.com
 0.0.0.0 bodloster.com
-0.0.0.0 boersego-ads.de
 0.0.0.0 bofaprd1cfrauyk.ru
 0.0.0.0 bogungmarket.com
 0.0.0.0 bohemianpool.com
@@ -5961,6 +5965,7 @@
 0.0.0.0 cdn.kidoz.net
 0.0.0.0 cdn.kiwys.com
 0.0.0.0 cdn.krxd.net
+0.0.0.0 cdn.larati.net
 0.0.0.0 cdn.lenzmx.com
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.linkwelove.com
@@ -6221,6 +6226,7 @@
 0.0.0.0 cic.umeng.com
 0.0.0.0 cieh.mx
 0.0.0.0 cifwsaufnalvh.com
+0.0.0.0 cileclie.com
 0.0.0.0 cimetrix.inmobi.com
 0.0.0.0 cinefique.com
 0.0.0.0 cinered.es
@@ -7572,6 +7578,8 @@
 0.0.0.0 dijon.live
 0.0.0.0 diksdiamond.com
 0.0.0.0 dimaggio.heartlight.org
+0.0.0.0 dingrigoguter.pro
+0.0.0.0 dingroledintrep.pro
 0.0.0.0 dingtalkh5.wsq.umeng.com
 0.0.0.0 dinkelbrezel.de
 0.0.0.0 dintwas.com
@@ -8199,6 +8207,7 @@
 0.0.0.0 ee02hmq.advertising.com
 0.0.0.0 ee12gp4.advertising.com
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adk2.co
+0.0.0.0 ee9a8f4a53.com
 0.0.0.0 eebfffjegjajjiacaci.ru
 0.0.0.0 eedclicks.ero-advertising.com
 0.0.0.0 eeduelements.com
@@ -8605,6 +8614,7 @@
 0.0.0.0 ezmob.com
 0.0.0.0 ezoic.net
 0.0.0.0 ezonlinesupport.com
+0.0.0.0 ezqkuwqlvnv.com
 0.0.0.0 eztexting.com
 0.0.0.0 ezula.com
 0.0.0.0 f.bav.baidu.com
@@ -9214,6 +9224,7 @@
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gap.sp1.convertro.com
 0.0.0.0 gapi.adsymptotic.com
+0.0.0.0 gardoult.com
 0.0.0.0 garimediagroup.com.re.getclicky.com
 0.0.0.0 garlicpool.org
 0.0.0.0 garristo.com
@@ -9517,6 +9528,7 @@
 0.0.0.0 gopjn.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gorgonkil.com
+0.0.0.0 gosfragoods.com
 0.0.0.0 goshakha.com
 0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
@@ -9689,6 +9701,7 @@
 0.0.0.0 h78xb.pw
 0.0.0.0 h8vzwpv.com
 0.0.0.0 ha-api.pushwoosh.com
+0.0.0.0 haircarehot.ga
 0.0.0.0 hairtease.com
 0.0.0.0 hairville.net
 0.0.0.0 halaru.com
@@ -9838,6 +9851,7 @@
 0.0.0.0 herdethi.net
 0.0.0.0 herezera.com
 0.0.0.0 hersouthernstyle.com
+0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hetofreplome.info
 0.0.0.0 hexagram.com
 0.0.0.0 hexamining.io
@@ -11092,6 +11106,7 @@
 0.0.0.0 joophesh.com
 0.0.0.0 jordanfe.com
 0.0.0.0 jornadas-gpc-ets.es
+0.0.0.0 jorsdbphuyng.com
 0.0.0.0 joshpeltier.com
 0.0.0.0 josiasrealty.org
 0.0.0.0 jouleco.in
@@ -11530,6 +11545,7 @@
 0.0.0.0 lessonis.com
 0.0.0.0 lestsbane-sockgles.com
 0.0.0.0 letempsinforme.club
+0.0.0.0 letrightertrentors.pro
 0.0.0.0 letsgoshopping.tk
 0.0.0.0 lettucelimit.com
 0.0.0.0 letv.allyes.com
@@ -12182,6 +12198,7 @@
 0.0.0.0 maxshort.com
 0.0.0.0 maxstream.vidible.tv
 0.0.0.0 may-js.github.io
+0.0.0.0 maya.bbigbunny.ml
 0.0.0.0 maypargoods.com
 0.0.0.0 mb-npltf.com
 0.0.0.0 mb-npltfpro.com
@@ -12332,6 +12349,7 @@
 0.0.0.0 megaad.nz
 0.0.0.0 megacash.de
 0.0.0.0 meganotify.com
+0.0.0.0 megaplaylive.com
 0.0.0.0 megapopads.com
 0.0.0.0 megapu.sh
 0.0.0.0 megastats.com
@@ -12603,6 +12621,7 @@
 0.0.0.0 mob.huimee.net
 0.0.0.0 mob.kaipirinhaloka.xyz
 0.0.0.0 mob.midnightide.xyz
+0.0.0.0 mob.mvllo.xyz
 0.0.0.0 mob1ledev1ces.com
 0.0.0.0 moba8.net
 0.0.0.0 mobads-logs.baidu.com
@@ -13059,7 +13078,6 @@
 0.0.0.0 n7621.voluumtrk.com
 0.0.0.0 na-gateway.supersonicads.com
 0.0.0.0 na.ads.yahoo.com
-0.0.0.0 na.gmtdmp.com
 0.0.0.0 na.hasmobi.net
 0.0.0.0 nabbr.com
 0.0.0.0 nadena.es
@@ -14514,6 +14532,7 @@
 0.0.0.0 pl14482782.pvclouds.com
 0.0.0.0 pl14553324.pvclouds.com
 0.0.0.0 pl14557413.pvclouds.com
+0.0.0.0 pl14563162.pvclouds.com
 0.0.0.0 pl14659153.pvclouds.com
 0.0.0.0 pl14682122.pvclouds.com
 0.0.0.0 pl14691471.pvclouds.com
@@ -16075,6 +16094,7 @@
 0.0.0.0 salesunglasses07.pw
 0.0.0.0 salogg.com
 0.0.0.0 salomk.com
+0.0.0.0 salomon-hu.com
 0.0.0.0 salomoncl.online
 0.0.0.0 salomonechaussure.com
 0.0.0.0 salomoneschuhe.com
@@ -17720,6 +17740,7 @@
 0.0.0.0 tailsweep.se
 0.0.0.0 take-your-prize22.life
 0.0.0.0 takeoutn.tk
+0.0.0.0 takethisoffer.com
 0.0.0.0 takru.com
 0.0.0.0 talab.org
 0.0.0.0 talaymarket.com
@@ -17921,6 +17942,7 @@
 0.0.0.0 testlink.liverail.com
 0.0.0.0 testnet.nl
 0.0.0.0 testpilot.mozillalabs.com
+0.0.0.0 testvolu.xyz
 0.0.0.0 testyourluck32.club
 0.0.0.0 tex.ero-advertising.com
 0.0.0.0 tex.trafex.net
@@ -18208,6 +18230,7 @@
 0.0.0.0 topstats.com
 0.0.0.0 topswp.com
 0.0.0.0 toptools100.com
+0.0.0.0 toresonetalet.pro
 0.0.0.0 toro-tags.com
 0.0.0.0 toroadvertising.com
 0.0.0.0 toroadvertisingmedia.com
@@ -20365,6 +20388,7 @@
 0.0.0.0 win-media.fastclick.net
 0.0.0.0 win-media.sj2.fastclick.net
 0.0.0.0 win.ad-stir.com
+0.0.0.0 win.clean-download.com
 0.0.0.0 win.iqm.com
 0.0.0.0 win.studynerdz.com
 0.0.0.0 win1.studynerdz.com
@@ -21145,11 +21169,11 @@
 0.0.0.0 www.eskimi.com
 0.0.0.0 www.esnrb.com
 0.0.0.0 www.euroclinix.net
-0.0.0.0 www.evaffwmdjgtn.com
 0.0.0.0 www.everesttech.net
 0.0.0.0 www.exoclick.com
 0.0.0.0 www.ext.privacyassistant.net
 0.0.0.0 www.ezonlinesupport.com
+0.0.0.0 www.ezqkuwqlvnv.com
 0.0.0.0 www.f0kuf.voluumtrk.com
 0.0.0.0 www.facebookwiki.net
 0.0.0.0 www.fakehub.com
@@ -21194,6 +21218,7 @@
 0.0.0.0 www.frrbsrbs.com
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.ft95.org
+0.0.0.0 www.ftxmicgc.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.funnwebs.com
 0.0.0.0 www.funnybox.mobi
@@ -21272,7 +21297,6 @@
 0.0.0.0 www.hd-stream.net
 0.0.0.0 www.hd-streamnet.com
 0.0.0.0 www.hd-usenet-streams.com
-0.0.0.0 www.hdslnhmjga.com
 0.0.0.0 www.hduxeodjdhry.com
 0.0.0.0 www.headlinecamp.com
 0.0.0.0 www.healthcaremanagement.info
@@ -21308,6 +21332,7 @@
 0.0.0.0 www.ico.bitcomo.com
 0.0.0.0 www.idspaces.ero-advertising.com
 0.0.0.0 www.iesnare.com
+0.0.0.0 www.ifbwyogrfjo.com
 0.0.0.0 www.ijsl1.voluumtrk.com
 0.0.0.0 www.ikiweb.it
 0.0.0.0 www.im.mobsweet.com
@@ -21363,6 +21388,7 @@
 0.0.0.0 www.jetbytes.com
 0.0.0.0 www.jmdsolutions.yolasite.com
 0.0.0.0 www.jobsgg.com
+0.0.0.0 www.jorsdbphuyng.com
 0.0.0.0 www.jounrop.com
 0.0.0.0 www.joydownload.com
 0.0.0.0 www.joyfulgame.mobi
@@ -21451,6 +21477,7 @@
 0.0.0.0 www.mediavoice.com
 0.0.0.0 www.mediumoff.com
 0.0.0.0 www.meetdate.xyz
+0.0.0.0 www.mega-deals.mobi
 0.0.0.0 www.megawinners.mobi
 0.0.0.0 www.meitustat.com
 0.0.0.0 www.meuaparelho.net
@@ -21538,6 +21565,7 @@
 0.0.0.0 www.nufa-ad.com
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
+0.0.0.0 www.nuhwyavc.com
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
@@ -21545,7 +21573,6 @@
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
 0.0.0.0 www.oipzyrzffum.ovh
-0.0.0.0 www.ojwgkxcgdhvacc.com
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.ol14x.voluumtrk.com
@@ -21738,6 +21765,7 @@
 0.0.0.0 www.rocks.io
 0.0.0.0 www.rollbar.com
 0.0.0.0 www.roosterfirework.com
+0.0.0.0 www.rotatemyurls.com
 0.0.0.0 www.rotator.axiatraders.com
 0.0.0.0 www.rotator.beginads.com
 0.0.0.0 www.royalbet90.win
@@ -22087,7 +22115,6 @@
 0.0.0.0 www.wta.ero-advertising.com
 0.0.0.0 www.wtseticket.com
 0.0.0.0 www.wtwcdgfpi.com
-0.0.0.0 www.wtyruwwvjloyk.com
 0.0.0.0 www.ww2.ero-advertising.com
 0.0.0.0 www.wwa.ero-advertising.com
 0.0.0.0 www.wwbanners2.ero-advertising.com
@@ -22161,6 +22188,7 @@
 0.0.0.0 www.zeropark.com
 0.0.0.0 www.zeus.ad.intl.xiaomi.com
 0.0.0.0 www.zeus.ad.xiaomi.com
+0.0.0.0 www.ziebgbikz.com
 0.0.0.0 www.zindas.info
 0.0.0.0 www.zl1.quebec-bin.com
 0.0.0.0 www.zlx.com.br
@@ -22172,6 +22200,7 @@
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zwnlqwfdbu.com
+0.0.0.0 www.zwprxzbnzxc.com
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zyxow.com
 0.0.0.0 www1.a-ads.com
@@ -22614,6 +22643,7 @@
 0.0.0.0 zhcn.admob.com
 0.0.0.0 zhfosenghtr.com
 0.0.0.0 zhtw.admob.com
+0.0.0.0 ziebgbikz.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 zillalike.com
 0.0.0.0 zim-zim-zam.com
@@ -22670,6 +22700,7 @@
 0.0.0.0 zvuhanie.ml
 0.0.0.0 zwaar.org
 0.0.0.0 zwnlqwfdbu.com
+0.0.0.0 zwprxzbnzxc.com
 0.0.0.0 zww.ero-advertising.com
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zx9s.smcheck.org
