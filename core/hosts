@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.08.243
-# Release: 243
-# Entries: 22,690
+# Version: 19.09.244
+# Release: 244
+# Entries: 22,709
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 31 Aug 19 20:00:16
+# Updated: Sun, 01 Sep 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -518,6 +518,7 @@
 0.0.0.0 980media.com
 0.0.0.0 99.video-ak.cdn.spotify.com
 0.0.0.0 990b424f659e4e27.com
+0.0.0.0 995db2642d3d852b.com
 0.0.0.0 9969887e14d8dda1061497d244865b17.adk2.co
 0.0.0.0 99count.com
 0.0.0.0 99ea586436.com
@@ -1909,7 +1910,6 @@
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.beriltech.com
 0.0.0.0 ads.berlinonline.de
-0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.bidvertiser.com
@@ -6585,6 +6585,7 @@
 0.0.0.0 codepushupdates.azureedge.net
 0.0.0.0 coderdog.com
 0.0.0.0 coderlab.us
+0.0.0.0 codesandbox.io
 0.0.0.0 codicebusiness.shinystat.com
 0.0.0.0 codingagent.com
 0.0.0.0 codonamarket.com
@@ -6662,6 +6663,7 @@
 0.0.0.0 colorcall.s.xoxknct.com
 0.0.0.0 colpirio.com
 0.0.0.0 columbiaes.online
+0.0.0.0 columbianms.online
 0.0.0.0 columbiaventa.online
 0.0.0.0 com-fasting.live
 0.0.0.0 com-http.us
@@ -7073,6 +7075,7 @@
 0.0.0.0 cs126.wpc.teliasoneracdn.net
 0.0.0.0 cs15.livetex.ru
 0.0.0.0 cs283.wpc.teliasoneracdn.net
+0.0.0.0 csb.app
 0.0.0.0 csgocpu.com
 0.0.0.0 csp.fastclick.net
 0.0.0.0 csu.security.baidu.co.th
@@ -7236,6 +7239,7 @@
 0.0.0.0 da-ads.com
 0.0.0.0 da.hunantv.com
 0.0.0.0 da.oipzyrzffum.ovh
+0.0.0.0 da.qiyukf.com
 0.0.0.0 da.video-ak.cdn.spotify.com
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dable.io
@@ -7453,6 +7457,7 @@
 0.0.0.0 deltapool.net
 0.0.0.0 demand.bidgear.com
 0.0.0.0 demdex.net
+0.0.0.0 demicrofonos.com
 0.0.0.0 demo.adcolony.com
 0.0.0.0 demo.algolia.com
 0.0.0.0 demo.alphonso.tv
@@ -9717,6 +9722,7 @@
 0.0.0.0 handicap.central-messages.com
 0.0.0.0 handleteeth.com
 0.0.0.0 handyfield.com
+0.0.0.0 haneyle.online
 0.0.0.0 hang-reports.mozilla.org
 0.0.0.0 hanhertigepar.pro
 0.0.0.0 hanjiestore.com
@@ -9896,6 +9902,7 @@
 0.0.0.0 himalayaoutdoors.co.nz
 0.0.0.0 himediads.com
 0.0.0.0 hinesmonk.club
+0.0.0.0 hinevengindingri.pro
 0.0.0.0 hintonsfeetred.info
 0.0.0.0 hipersushiads.com
 0.0.0.0 hiplair.com
@@ -13613,6 +13620,7 @@
 0.0.0.0 ohmcasting.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohmyshop.co.za
+0.0.0.0 ohscoczrnhzd.com
 0.0.0.0 oipzyrzffum.ovh
 0.0.0.0 oiumoqzo.com
 0.0.0.0 oiyjut.ml
@@ -15240,6 +15248,8 @@
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 qiqu.uc.cn
 0.0.0.0 qiroris.pw
+0.0.0.0 qithimsuejs.com
+0.0.0.0 qiyukf.com
 0.0.0.0 qksrv.net
 0.0.0.0 qlvopwghgwa.com
 0.0.0.0 qmerce.com
@@ -18063,6 +18073,7 @@
 0.0.0.0 ticrite.com
 0.0.0.0 tictacti.adk2x.com
 0.0.0.0 tidaltv.com
+0.0.0.0 tiendavrc.com
 0.0.0.0 tiendazapatoses.com
 0.0.0.0 tigerpharma.com
 0.0.0.0 tiieuyrz.cf
@@ -19468,6 +19479,7 @@
 0.0.0.0 ugcdata.vmate.in
 0.0.0.0 ugdturner.com
 0.0.0.0 uggbc.com
+0.0.0.0 uggvuuquxj.com
 0.0.0.0 uhhoatxt.com
 0.0.0.0 uhughed.club
 0.0.0.0 ui.pubguard.com
@@ -21080,6 +21092,7 @@
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.crocobet.ge
+0.0.0.0 www.csb.app
 0.0.0.0 www.ctiprlgcxftdsaiqvk.com
 0.0.0.0 www.curiosity.gratis
 0.0.0.0 www.customaquariumscr.com
@@ -21446,6 +21459,7 @@
 0.0.0.0 www.leguide.com
 0.0.0.0 www.leninsubscribe.com
 0.0.0.0 www.lenzmx.com
+0.0.0.0 www.lfahycetwt.com
 0.0.0.0 www.liga228.xyz
 0.0.0.0 www.ligaibc365.com
 0.0.0.0 www.ligatus.com
@@ -21590,6 +21604,7 @@
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
+0.0.0.0 www.ohscoczrnhzd.com
 0.0.0.0 www.oipzyrzffum.ovh
 0.0.0.0 www.ojstdedb.com
 0.0.0.0 www.ok-rb.top
@@ -21697,6 +21712,7 @@
 0.0.0.0 www.protect-your-privacy-now.com
 0.0.0.0 www.protectantivirext.biz
 0.0.0.0 www.protecttoolext.com
+0.0.0.0 www.pskadmzl.com
 0.0.0.0 www.ptewiki.com
 0.0.0.0 www.pub.axiatraders.com
 0.0.0.0 www.pub.grandonmedia.com
@@ -21711,6 +21727,7 @@
 0.0.0.0 www.qcnrblgdonypg.com
 0.0.0.0 www.qcoldtui1999.com
 0.0.0.0 www.qenklbb.com
+0.0.0.0 www.qithimsuejs.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
 0.0.0.0 www.qlvopwghgwa.com
@@ -22044,6 +22061,7 @@
 0.0.0.0 www.uc123.com
 0.0.0.0 www.ucfly.com
 0.0.0.0 www.ucweb.com
+0.0.0.0 www.uggvuuquxj.com
 0.0.0.0 www.uhhoatxt.com
 0.0.0.0 www.ukrb-uk.com
 0.0.0.0 www.umbs.ero-advertising.com
@@ -22321,6 +22339,7 @@
 0.0.0.0 xinchao13.gq
 0.0.0.0 xinchao13.ml
 0.0.0.0 xingjxcgbdylbj.store
+0.0.0.0 xintolls.top
 0.0.0.0 xintols.space
 0.0.0.0 xishuai.gq
 0.0.0.0 xiti.com
