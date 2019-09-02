@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.244
-# Release: 244
-# Entries: 22,709
+# Version: 19.09.245
+# Release: 245
+# Entries: 22,720
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 01 Sep 19 20:00:16
+# Updated: Mon, 02 Sep 19 20:00:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -129,6 +129,7 @@
 0.0.0.0 198935.engine.mobileapptracking.com
 0.0.0.0 1a.video-ak.cdn.spotify.com
 0.0.0.0 1b.video-ak.cdn.spotify.com
+0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1c.video-ak.cdn.spotify.com
 0.0.0.0 1ccbt.com
 0.0.0.0 1d.video-ak.cdn.spotify.com
@@ -217,6 +218,7 @@
 0.0.0.0 2d7bd9e6eb370143.com
 0.0.0.0 2dybh.voluumtrk.com
 0.0.0.0 2e.video-ak.cdn.spotify.com
+0.0.0.0 2e27bf1f09307aeb.com
 0.0.0.0 2f.video-ak.cdn.spotify.com
 0.0.0.0 2fr.skimresources.com
 0.0.0.0 2fspeednetwork14.adk2x.com
@@ -268,6 +270,7 @@
 0.0.0.0 37.tityx.com
 0.0.0.0 37.video-ak.cdn.spotify.com
 0.0.0.0 38.video-ak.cdn.spotify.com
+0.0.0.0 381b56a86b7.com
 0.0.0.0 38389438.com
 0.0.0.0 38705edf42f16.com
 0.0.0.0 39.video-ak.cdn.spotify.com
@@ -4314,6 +4317,7 @@
 0.0.0.0 ash-lb2.cxense.com
 0.0.0.0 ash-lb3.cxense.com
 0.0.0.0 ash-r2u11.cxense.com
+0.0.0.0 ashallaim.club
 0.0.0.0 ashwooddrivewaysltd.co.uk
 0.0.0.0 asia-blog.info
 0.0.0.0 asia.adform.net
@@ -7935,6 +7939,7 @@
 0.0.0.0 dwarfpool.com
 0.0.0.0 dwcreations.net
 0.0.0.0 dwkfnswdnheqfz.com
+0.0.0.0 dwxcuzd9jnttzq.ru
 0.0.0.0 dx.applock.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dxprljqoay4rt.cloudfront.net
@@ -9833,6 +9838,7 @@
 0.0.0.0 hecrowcati.info
 0.0.0.0 hegarberetrof.pro
 0.0.0.0 hehraybryciyls.com
+0.0.0.0 helingoneheckhes.pro
 0.0.0.0 heliosiq.adtech.de
 0.0.0.0 hellobar.com
 0.0.0.0 hellobeyellow.tk
@@ -9908,6 +9914,7 @@
 0.0.0.0 hiplair.com
 0.0.0.0 hirurdou.net
 0.0.0.0 hisbethaplactert.info
+0.0.0.0 hishimartaltit.pro
 0.0.0.0 hishirts.ru
 0.0.0.0 histats.com
 0.0.0.0 histats.com.ero-advertising.com
@@ -10911,6 +10918,7 @@
 0.0.0.0 ioads.ero-advertising.com
 0.0.0.0 ioecumy.ga
 0.0.0.0 ioh9.com
+0.0.0.0 iojpbletb.com
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 ioph0.com
 0.0.0.0 iopljuiedfrjt.gq
@@ -11558,6 +11566,7 @@
 0.0.0.0 lessonis.com
 0.0.0.0 lestsbane-sockgles.com
 0.0.0.0 letempsinforme.club
+0.0.0.0 letrenhegenmi.pro
 0.0.0.0 letrightertrentors.pro
 0.0.0.0 letsgoshopping.tk
 0.0.0.0 lettucelimit.com
@@ -14222,7 +14231,6 @@
 0.0.0.0 parfumsurabaya.com
 0.0.0.0 parketsy.pro
 0.0.0.0 parronnotandone.info
-0.0.0.0 parsely.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 parstabligh.org
 0.0.0.0 part-time.uc.cn
@@ -15813,6 +15821,7 @@
 0.0.0.0 roirocket.com
 0.0.0.0 rok.com.com
 0.0.0.0 roku.vidible.tv
+0.0.0.0 rolidenratrigh.pro
 0.0.0.0 rolinda.work
 0.0.0.0 rolke.gq
 0.0.0.0 roll.romaniantales.gq
@@ -16552,6 +16561,7 @@
 0.0.0.0 shermore.info
 0.0.0.0 shglegle.com
 0.0.0.0 shield.sitelock.com
+0.0.0.0 shieldsecuritysolutions.ca
 0.0.0.0 shihoult.com
 0.0.0.0 shinobi.jp
 0.0.0.0 shinokun.id
@@ -21389,6 +21399,7 @@
 0.0.0.0 www.inwind.ws
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioh9.com
+0.0.0.0 www.iojpbletb.com
 0.0.0.0 www.iplogger.com
 0.0.0.0 www.iplogger.org
 0.0.0.0 www.iplogger.ru
@@ -21511,6 +21522,7 @@
 0.0.0.0 www.mega-deals.mobi
 0.0.0.0 www.megawinners.mobi
 0.0.0.0 www.meitustat.com
+0.0.0.0 www.metrogossipcity.online
 0.0.0.0 www.meuaparelho.net
 0.0.0.0 www.mfc.im
 0.0.0.0 www.mgid.com
@@ -21644,7 +21656,6 @@
 0.0.0.0 www.palikan.com
 0.0.0.0 www.papoto.com
 0.0.0.0 www.parentelement.tk
-0.0.0.0 www.parsely.com
 0.0.0.0 www.party-nngvitbizn.now.sh
 0.0.0.0 www.pasitodoble.win
 0.0.0.0 www.pata.ero-advertising.com
