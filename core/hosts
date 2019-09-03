@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.245
-# Release: 245
-# Entries: 22,720
+# Version: 19.09.246
+# Release: 246
+# Entries: 22,735
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 02 Sep 19 20:00:23
+# Updated: Tue, 03 Sep 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -400,6 +400,7 @@
 0.0.0.0 63fc818000.com
 0.0.0.0 64.myxmr.pw
 0.0.0.0 64.video-ak.cdn.spotify.com
+0.0.0.0 6519508.fls.doubleclick.net
 0.0.0.0 659.digitaldsp.com
 0.0.0.0 65vk1fba34.com
 0.0.0.0 6631f33cf2a1032b.com
@@ -3037,6 +3038,7 @@
 0.0.0.0 adult-video.best
 0.0.0.0 adultadvertising.com
 0.0.0.0 adultadworld.com
+0.0.0.0 adultasiantube.info
 0.0.0.0 adultimate.net
 0.0.0.0 adultmoda.com
 0.0.0.0 adultsvideo.info
@@ -5656,6 +5658,7 @@
 0.0.0.0 calendar.toptools100.com
 0.0.0.0 calendar.wisemana.com
 0.0.0.0 californiapremiumrs.com
+0.0.0.0 caligula.pro
 0.0.0.0 callandwin-argentina.howingo.com
 0.0.0.0 callandwin-bangla.howingo.com
 0.0.0.0 callandwin-brasil.howingo.com
@@ -5737,6 +5740,7 @@
 0.0.0.0 carauto.es
 0.0.0.0 carbonads.com
 0.0.0.0 carcc.net
+0.0.0.0 card-helper.net
 0.0.0.0 card.shareitpay.in
 0.0.0.0 careers.inmobi.com
 0.0.0.0 careers.outbrain.com
@@ -6159,6 +6163,7 @@
 0.0.0.0 chango.com
 0.0.0.0 channel1vids.com
 0.0.0.0 channelintelligence.com
+0.0.0.0 charalli.pro
 0.0.0.0 chardwardse.club
 0.0.0.0 chargeplatform.com
 0.0.0.0 charleedrew.co.uk
@@ -6950,6 +6955,7 @@
 0.0.0.0 craft.advertising.com
 0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
+0.0.0.0 cral.asmel.eu
 0.0.0.0 crapads.com
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
@@ -8818,6 +8824,7 @@
 0.0.0.0 ffdrg.ml
 0.0.0.0 ffruntimechecker.com
 0.0.0.0 ffxcam.fairfax.com.au
+0.0.0.0 fgfcgadieidjdbdfadg.ru
 0.0.0.0 fgoogle.com
 0.0.0.0 fgtjik.ga
 0.0.0.0 fhatfee.ero-advertising.com
@@ -9639,6 +9646,7 @@
 0.0.0.0 gsn.chameleon.ad
 0.0.0.0 gsspat.jp
 0.0.0.0 gssprt.jp
+0.0.0.0 gstatic-as.pro
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gtm.oasisfeng.com
 0.0.0.0 gtop100.com
@@ -11069,6 +11077,7 @@
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jellopads.com
+0.0.0.0 jemma.su
 0.0.0.0 jemmgroup.com
 0.0.0.0 jenkins.kissmetrics.com
 0.0.0.0 jenson.api.swiftkey.com
@@ -11870,6 +11879,7 @@
 0.0.0.0 love-banner.com
 0.0.0.0 love.studynerdz.com
 0.0.0.0 lovebagsshopings.club
+0.0.0.0 lovebangandwomen.com
 0.0.0.0 loveclothingssale.club
 0.0.0.0 loveofrose.com
 0.0.0.0 lovevipsale
@@ -12116,6 +12126,7 @@
 0.0.0.0 majorminers.com
 0.0.0.0 makeboluor.gq
 0.0.0.0 makemyvids.com
+0.0.0.0 makerads.xyz
 0.0.0.0 makeupbysally.co.uk
 0.0.0.0 malesignal.com
 0.0.0.0 malizing.info
@@ -13263,6 +13274,7 @@
 0.0.0.0 news.flurry.com
 0.0.0.0 news.genapi.euin.getclicky.com
 0.0.0.0 news.gnezdo.ru
+0.0.0.0 news.hypernite.com
 0.0.0.0 news.newonnetflix.info
 0.0.0.0 news.opera-api.com
 0.0.0.0 news.pushinfoforme.com
@@ -15360,6 +15372,7 @@
 0.0.0.0 rafflecopter.com
 0.0.0.0 rafttoday.com
 0.0.0.0 ragapa.com
+0.0.0.0 raigluce.net
 0.0.0.0 rails-push.bluekai.com
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 rainaracarolina.com
@@ -21218,6 +21231,7 @@
 0.0.0.0 www.fakehub.com
 0.0.0.0 www.fanners.ero-advertising.com
 0.0.0.0 www.fastclick.net
+0.0.0.0 www.fastpillshop.ru
 0.0.0.0 www.fata.ero-advertising.com
 0.0.0.0 www.fbfd396918c60838.com
 0.0.0.0 www.fbookindia.com
@@ -22115,6 +22129,7 @@
 0.0.0.0 www.vosteran.com
 0.0.0.0 www.vosteransearch.com
 0.0.0.0 www.vpn-scanning0.site
+0.0.0.0 www.vqfoxxxnunqkgm.com
 0.0.0.0 www.vrbatanalyzer.com
 0.0.0.0 www.vrl.m.conviva.com
 0.0.0.0 www.vt-rbs.com
