@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.247
-# Release: 247
-# Entries: 22,747
+# Version: 19.09.248
+# Release: 248
+# Entries: 22,742
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 04 Sep 19 20:00:17
+# Updated: Thu, 05 Sep 19 20:00:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -314,6 +314,7 @@
 0.0.0.0 4245beb12c.com
 0.0.0.0 43.video-ak.cdn.spotify.com
 0.0.0.0 43031aaaecd84428.com
+0.0.0.0 4395963.fls.doubleclick.net
 0.0.0.0 43plc.com
 0.0.0.0 43yagowe3y.com
 0.0.0.0 44.video-ak.cdn.spotify.com
@@ -969,7 +970,6 @@
 0.0.0.0 ad.evozi.com
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.flipboard.com
-0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxbeen.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.fr.doubleclick.net
@@ -1038,7 +1038,6 @@
 0.0.0.0 ad.mobafftrck.com
 0.0.0.0 ad.mobile.youku.com
 0.0.0.0 ad.monetate.net
-0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.n2434.doubleclick.net
@@ -1890,7 +1889,6 @@
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.androworks.org
-0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.aol.fr.adtech.de
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.apn.co.nz
@@ -1925,7 +1923,6 @@
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.bloomberg.com
-0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.bluesq.com
 0.0.0.0 ads.bonniercorp.com
@@ -2360,10 +2357,7 @@
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.y-0.net
 0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yieldmo.com
-0.0.0.0 ads.yimg.com
-0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zamante.adhese.com
 0.0.0.0 ads.zdnet.com
@@ -2523,7 +2517,6 @@
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.aidameter.com
-0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.barrapunto.com
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
@@ -2586,7 +2579,6 @@
 0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.xpanama.net
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
 0.0.0.0 adserver01.vertismedia.co.uk
 0.0.0.0 adserver1-images.backbeatmedia.com
@@ -3452,8 +3444,6 @@
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alfklstore.com
-0.0.0.0 alflying.bid
-0.0.0.0 alflying.date
 0.0.0.0 alfynetwork.com
 0.0.0.0 algosecrets.algolia.com
 0.0.0.0 algovid.com
@@ -3762,7 +3752,6 @@
 0.0.0.0 analytics.wizardsbd.com
 0.0.0.0 analytics.wrc.nic.in
 0.0.0.0 analytics.wywy.com
-0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.zdbb.net
 0.0.0.0 analytics6.snoobi.com
 0.0.0.0 analyticsapi.bsbportal.com
@@ -8920,8 +8909,6 @@
 0.0.0.0 flex.msn.com.nsatc.net
 0.0.0.0 flexbanner.com
 0.0.0.0 flightsy.bid
-0.0.0.0 flightsy.date
-0.0.0.0 flightzy.win
 0.0.0.0 flimsycircle.com
 0.0.0.0 flite.com
 0.0.0.0 flixpolaroid.com
@@ -11639,6 +11626,7 @@
 0.0.0.0 lilil.bid
 0.0.0.0 limetreeapiaries.co.uk
 0.0.0.0 lindon-pool.win
+0.0.0.0 lingrethertantin.pro
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
 0.0.0.0 link-booster.de
@@ -12182,7 +12170,6 @@
 0.0.0.0 marketing.net.daraz.com.bd
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
-0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketleverage.com
 0.0.0.0 marketphones.com
 0.0.0.0 marketplace.trafficjunky.net
@@ -13272,6 +13259,7 @@
 0.0.0.0 news-af.op-mobile.opera.com
 0.0.0.0 news-easy.com
 0.0.0.0 news-in.op-mobile.opera.com
+0.0.0.0 news-jupiter.com
 0.0.0.0 news-notification.tools
 0.0.0.0 news-speaker.com
 0.0.0.0 news.ad-stir.com
@@ -13776,6 +13764,7 @@
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
 0.0.0.0 openx.com
+0.0.0.0 openx.ennaharonline.com
 0.0.0.0 openx.jp
 0.0.0.0 openx.net
 0.0.0.0 openx.notebookspec.com
@@ -14259,7 +14248,6 @@
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partner.video.syndication.msn.com
 0.0.0.0 partnerad.l.google.com
-0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partnerearning.com
 0.0.0.0 partnerprogram.liverail.com
@@ -15771,7 +15759,6 @@
 0.0.0.0 ricead.com
 0.0.0.0 rich.worldpush.co
 0.0.0.0 richmails.com
-0.0.0.0 richmedia.yimg.com
 0.0.0.0 richmedia247.com
 0.0.0.0 richpays.com
 0.0.0.0 richstring.com
@@ -15853,6 +15840,7 @@
 0.0.0.0 ron.si
 0.0.0.0 ronatorda.com
 0.0.0.0 ronsearch.adk2.co
+0.0.0.0 rontotlearwass.pro
 0.0.0.0 roosterfirework.com
 0.0.0.0 ropa.buyfashionshop.com
 0.0.0.0 ropkrhilt.com
@@ -16253,6 +16241,7 @@
 0.0.0.0 script.crazyegg.com
 0.0.0.0 scriptall.tk
 0.0.0.0 scripte-monster.de
+0.0.0.0 scripts.24.co.za
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.pay.bka.sh
 0.0.0.0 scripts.stage.kissmetrics.com
@@ -19660,7 +19649,6 @@
 0.0.0.0 us-ezalter.cootekservice.com
 0.0.0.0 us-west-1.onemobile.yahoo.com
 0.0.0.0 us-west-rtb.adblade.com
-0.0.0.0 us.a1.yimg.com
 0.0.0.0 us.adform.net
 0.0.0.0 us.ads.justpremium.com
 0.0.0.0 us.adserver.yahoo.com
@@ -19683,6 +19671,7 @@
 0.0.0.0 usa.xanthos-alf.com
 0.0.0.0 usapromotravel.com
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 usd.ezekiel-sam.com
 0.0.0.0 usd.paula-secundinus.com
 0.0.0.0 usd.photios-raj.com
 0.0.0.0 usd.xanthos-alf.com
@@ -20008,7 +19997,6 @@
 0.0.0.0 visiblegains.com
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visistat.com
-0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
 0.0.0.0 visitor-analytics.io
 0.0.0.0 visitsaz.com
@@ -20570,6 +20558,7 @@
 0.0.0.0 wr.digitaldsp.com
 0.0.0.0 wrongpotato.com
 0.0.0.0 wronresthatmedidn.pro
+0.0.0.0 wrontonshatbona.pro
 0.0.0.0 wrontontordingcal.info
 0.0.0.0 wryfinger.com
 0.0.0.0 ws-adv.ais.co.th
@@ -21121,6 +21110,7 @@
 0.0.0.0 www.cpm20.com
 0.0.0.0 www.cpsee.com
 0.0.0.0 www.cpu2cash.link
+0.0.0.0 www.cqpmmfxvibjr.com
 0.0.0.0 www.crashlytics.com
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
@@ -21143,6 +21133,7 @@
 0.0.0.0 www.daaa.ero-advertising.com
 0.0.0.0 www.daea.ero-advertising.com
 0.0.0.0 www.daia.ero-advertising.com
+0.0.0.0 www.dalqybwdy.com
 0.0.0.0 www.dat2.ero-advertising.com
 0.0.0.0 www.data-days.com
 0.0.0.0 www.data-ero-advertising.com
@@ -21602,6 +21593,7 @@
 0.0.0.0 www.naiadsystems.com
 0.0.0.0 www.nata.ero-advertising.com
 0.0.0.0 www.nbcudigitaladops.com
+0.0.0.0 www.nchxiaxafowid.com
 0.0.0.0 www.ncmzm.voluumtrk.com
 0.0.0.0 www.neodatagroup.com
 0.0.0.0 www.neomobile.net
@@ -22272,6 +22264,7 @@
 0.0.0.0 www.zog.link
 0.0.0.0 www.zoorate.com
 0.0.0.0 www.zspttttiyda.com
+0.0.0.0 www.ztstwgxjhkuwj.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zwnlqwfdbu.com
@@ -22280,12 +22273,14 @@
 0.0.0.0 www.zyxow.com
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.algolia.com
+0.0.0.0 www1.news-back.com
 0.0.0.0 www108zippysharecom.imageshack.host
 0.0.0.0 www1284.vcdn.xyz
 0.0.0.0 www193.wixdns.net
 0.0.0.0 www2.adcash.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www2.myishop.co.uk
+0.0.0.0 www2.news-back.com
 0.0.0.0 www2.outbrain.com
 0.0.0.0 www2.silkspan.com
 0.0.0.0 www2.smartadserver.com
