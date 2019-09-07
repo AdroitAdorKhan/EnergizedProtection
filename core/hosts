@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.249
-# Release: 249
-# Entries: 22,753
+# Version: 19.09.250
+# Release: 250
+# Entries: 22,758
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 06 Sep 19 20:00:21
+# Updated: Sat, 07 Sep 19 20:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -368,6 +368,7 @@
 0.0.0.0 53.video-ak.cdn.spotify.com
 0.0.0.0 53285fd93d0d.com
 0.0.0.0 54.video-ak.cdn.spotify.com
+0.0.0.0 544c27b3f0aae2.com
 0.0.0.0 5483bbc5758.com
 0.0.0.0 55.video-ak.cdn.spotify.com
 0.0.0.0 551f044b1a3f4ef.com
@@ -3614,7 +3615,6 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.apotheken-finder.at
 0.0.0.0 analytics.app-adforce.jp
-0.0.0.0 analytics.app.lithium.com
 0.0.0.0 analytics.appypie.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.atdmt.com
@@ -4110,6 +4110,7 @@
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.clickadilla.com
+0.0.0.0 app.clickpay.money
 0.0.0.0 app.comagic.ru
 0.0.0.0 app.crashlytics.com
 0.0.0.0 app.crazyegg.com
@@ -5242,7 +5243,6 @@
 0.0.0.0 bluefly.speedera.net
 0.0.0.0 blueheronsupply.com
 0.0.0.0 bluekai.com
-0.0.0.0 bluelithium.com
 0.0.0.0 bluematt.me
 0.0.0.0 bluerapport.speedera.net
 0.0.0.0 bluetoad.com
@@ -6230,6 +6230,7 @@
 0.0.0.0 cic.umeng.com
 0.0.0.0 cieh.mx
 0.0.0.0 cifwsaufnalvh.com
+0.0.0.0 ciksolre.net
 0.0.0.0 cileclie.com
 0.0.0.0 cimetrix.inmobi.com
 0.0.0.0 cinefique.com
@@ -14096,6 +14097,7 @@
 0.0.0.0 p30431.cdaz.icu
 0.0.0.0 p304419.clksite.com
 0.0.0.0 p304781.cdaz.icu
+0.0.0.0 p30t3.bemobtrk.com
 0.0.0.0 p310191.clksite.com
 0.0.0.0 p310255.clksite.com
 0.0.0.0 p310515.clksite.com
@@ -15277,6 +15279,7 @@
 0.0.0.0 qlvopwghgwa.com
 0.0.0.0 qmerce.com
 0.0.0.0 qncjellygamat1.com
+0.0.0.0 qnkiueuflzdold.com
 0.0.0.0 qnsr.com
 0.0.0.0 qp.si
 0.0.0.0 qqonline365.club
@@ -17959,6 +17962,7 @@
 0.0.0.0 teronemerom.info
 0.0.0.0 terraclicks.com
 0.0.0.0 terriblethumb.com
+0.0.0.0 tertlarenritted.pro
 0.0.0.0 test-admin.flurry.com
 0.0.0.0 test.ad-stir.com
 0.0.0.0 test.ad.xiaomi.com
@@ -18041,6 +18045,7 @@
 0.0.0.0 themediafire.com
 0.0.0.0 theminingpool.thruhere.net
 0.0.0.0 thencouserechan.info
+0.0.0.0 thenlighmetanna.pro
 0.0.0.0 thenursetoday.com
 0.0.0.0 theofficeonpirie.com
 0.0.0.0 theonecdn.com
@@ -19625,7 +19630,6 @@
 0.0.0.0 upfixmoney.top
 0.0.0.0 upi.adblade.com
 0.0.0.0 upload-center.byethost4.com
-0.0.0.0 upload.a-ads.com
 0.0.0.0 upload.bugsnag.com
 0.0.0.0 uploadshipcom.foxpush.net
 0.0.0.0 upnorma.com
@@ -20567,6 +20571,7 @@
 0.0.0.0 wps.clickadilla.com
 0.0.0.0 wps.zog.link
 0.0.0.0 wr.digitaldsp.com
+0.0.0.0 wronbouldrettons.pro
 0.0.0.0 wrongpotato.com
 0.0.0.0 wronresthatmedidn.pro
 0.0.0.0 wrontonshatbona.pro
@@ -21769,6 +21774,7 @@
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
 0.0.0.0 www.qlvopwghgwa.com
+0.0.0.0 www.qnkiueuflzdold.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
@@ -22282,7 +22288,6 @@
 0.0.0.0 www.zwprxzbnzxc.com
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zyxow.com
-0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.algolia.com
 0.0.0.0 www1.news-back.com
 0.0.0.0 www108zippysharecom.imageshack.host
@@ -22295,7 +22300,6 @@
 0.0.0.0 www2.outbrain.com
 0.0.0.0 www2.silkspan.com
 0.0.0.0 www2.smartadserver.com
-0.0.0.0 www3.a-ads.com
 0.0.0.0 www3.addthis.com
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www3.doubleclick.net
@@ -22621,6 +22625,7 @@
 0.0.0.0 yourprivacy.icu
 0.0.0.0 yourquickads.com
 0.0.0.0 youshouldclick.us
+0.0.0.0 youtube-sex.club
 0.0.0.0 youtube.adlook.me
 0.0.0.0 youyong.gq
 0.0.0.0 ypool.net
