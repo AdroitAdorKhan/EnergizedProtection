@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.250
-# Release: 250
-# Entries: 22,758
+# Version: 19.09.251
+# Release: 251
+# Entries: 22,766
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 07 Sep 19 20:00:22
+# Updated: Sun, 08 Sep 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -971,6 +971,7 @@
 0.0.0.0 ad.evozi.com
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.flipboard.com
+0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxbeen.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.fr.doubleclick.net
@@ -1039,6 +1040,7 @@
 0.0.0.0 ad.mobafftrck.com
 0.0.0.0 ad.mobile.youku.com
 0.0.0.0 ad.monetate.net
+0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.n2434.doubleclick.net
@@ -1890,6 +1892,7 @@
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.androworks.org
+0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.aol.fr.adtech.de
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.apn.co.nz
@@ -1924,6 +1927,7 @@
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.bloomberg.com
+0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.bluesq.com
 0.0.0.0 ads.bonniercorp.com
@@ -2358,7 +2362,9 @@
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.y-0.net
 0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.yimg.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zamante.adhese.com
 0.0.0.0 ads.zdnet.com
@@ -2518,6 +2524,7 @@
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.aidameter.com
+0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.barrapunto.com
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
@@ -2580,6 +2587,7 @@
 0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.xpanama.net
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
 0.0.0.0 adserver01.vertismedia.co.uk
 0.0.0.0 adserver1-images.backbeatmedia.com
@@ -3615,6 +3623,7 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.apotheken-finder.at
 0.0.0.0 analytics.app-adforce.jp
+0.0.0.0 analytics.app.lithium.com
 0.0.0.0 analytics.appypie.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.atdmt.com
@@ -3753,6 +3762,7 @@
 0.0.0.0 analytics.wizardsbd.com
 0.0.0.0 analytics.wrc.nic.in
 0.0.0.0 analytics.wywy.com
+0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.zdbb.net
 0.0.0.0 analytics6.snoobi.com
 0.0.0.0 analyticsapi.bsbportal.com
@@ -10937,7 +10947,6 @@
 0.0.0.0 iosvpnsecurity.com
 0.0.0.0 iot.umeng.com
 0.0.0.0 ip-api.com
-0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ip.ia22.com
 0.0.0.0 ip.ro
 0.0.0.0 ip193.cn
@@ -10949,7 +10958,6 @@
 0.0.0.0 iplogger.ru
 0.0.0.0 iplua.api.xoxknct.com
 0.0.0.0 iplua.o.xoxknct.com
-0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ipominer.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ipro.com
@@ -14258,6 +14266,7 @@
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partner.video.syndication.msn.com
 0.0.0.0 partnerad.l.google.com
+0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partnerearning.com
 0.0.0.0 partnerprogram.liverail.com
@@ -19774,7 +19783,6 @@
 0.0.0.0 v3.logger.pw
 0.0.0.0 v3g4s.com
 0.0.0.0 v3m.youzu.com
-0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v9.com
 0.0.0.0 v9banners.com
 0.0.0.0 v9bet88.com
