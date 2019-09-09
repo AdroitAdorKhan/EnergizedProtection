@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.251
-# Release: 251
-# Entries: 22,766
+# Version: 19.09.252
+# Release: 252
+# Entries: 22,767
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 08 Sep 19 20:00:16
+# Updated: Mon, 09 Sep 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -968,7 +968,6 @@
 0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.etaocms.com
 0.0.0.0 ad.ettoday.net
-0.0.0.0 ad.evozi.com
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.flurry.com
@@ -7571,6 +7570,7 @@
 0.0.0.0 dh.uc.cn
 0.0.0.0 dhjhadhchjefdbdface.ru
 0.0.0.0 dhundora.com
+0.0.0.0 dhwvbfy4djkivyt.ru
 0.0.0.0 diadeboda.es
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diagnostics.support.microsoft.com
@@ -8836,6 +8836,7 @@
 0.0.0.0 fhr.data.mozilla.com
 0.0.0.0 fhtlyoqzyjjof.com
 0.0.0.0 fi.advertising.com
+0.0.0.0 fiahcdedjfiaeiacadh.ru
 0.0.0.0 ficant.com
 0.0.0.0 ficaroni.com
 0.0.0.0 fifa19mobile-android.xyz
@@ -15434,6 +15435,7 @@
 0.0.0.0 ratchetmining.com
 0.0.0.0 rate.outbrain.com
 0.0.0.0 rate.ru
+0.0.0.0 ratenderenhers.pro
 0.0.0.0 rathertrihe.info
 0.0.0.0 ratings.lycos.com
 0.0.0.0 ratingtoplist.com
@@ -16018,7 +16020,6 @@
 0.0.0.0 s-s-adserver.cxad.cxense.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 s.1ts18.top
-0.0.0.0 s.ad131m.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s.alitui.weibo.com
 0.0.0.0 s.amazon-adsystem.com
