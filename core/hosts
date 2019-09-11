@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.253
-# Release: 253
-# Entries: 22,856
+# Version: 19.09.254
+# Release: 254
+# Entries: 22,877
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 10 Sep 19 20:00:54
+# Updated: Wed, 11 Sep 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -686,6 +686,7 @@
 0.0.0.0 a7.video-ak.cdn.spotify.com
 0.0.0.0 a7d17abaec7c.com
 0.0.0.0 a8.video-ak.cdn.spotify.com
+0.0.0.0 a8b4204616.com
 0.0.0.0 a9.com
 0.0.0.0 a9.video-ak.cdn.spotify.com
 0.0.0.0 a9nf3hg5c2.com
@@ -3888,6 +3889,7 @@
 0.0.0.0 api-02.360dialog.io
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
+0.0.0.0 api-analytics-us.huami.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-client.mobitech-search.xyz
 0.0.0.0 api-compatible.mixpanel.com
@@ -7106,6 +7108,10 @@
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 cs.segpay.com
+0.0.0.0 cs02.fast-hunter.com
+0.0.0.0 cs03.fast-hunter.com
+0.0.0.0 cs04.fast-hunter.com
+0.0.0.0 cs05.fast-hunter.com
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 cs126.wpc.edgecastcdn.net
 0.0.0.0 cs126.wpc.teliasoneracdn.net
@@ -8748,6 +8754,7 @@
 0.0.0.0 fashionstreetwears.club
 0.0.0.0 fashiontrend.me
 0.0.0.0 fast-adv.it
+0.0.0.0 fast-hunter.com
 0.0.0.0 fast-nc.appcues.com
 0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 fast2earn.com
@@ -10227,6 +10234,7 @@
 0.0.0.0 i.ipinyou.com
 0.0.0.0 i.kissmetrics.com
 0.0.0.0 i.l.inmobicdn.net
+0.0.0.0 i.mary-smith.xyz
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.po.st
 0.0.0.0 i.pornfuror.com
@@ -10235,6 +10243,7 @@
 0.0.0.0 i.skimresources.com
 0.0.0.0 i.smartclick.net
 0.0.0.0 i.t.webtracker.jp
+0.0.0.0 i.tiffany-smith.xyz
 0.0.0.0 i.umeng.com
 0.0.0.0 i.xx.openx.com
 0.0.0.0 i1.bonus.express
@@ -11604,6 +11613,7 @@
 0.0.0.0 learning-services-media.brightcove.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 ledinund.com
+0.0.0.0 lediyxobgmrgeb.com
 0.0.0.0 leechiza.net
 0.0.0.0 leftren.com
 0.0.0.0 legalonlinepharmacy.com
@@ -13495,6 +13505,7 @@
 0.0.0.0 notification-system.tools
 0.0.0.0 notification-time.com
 0.0.0.0 notifications.website
+0.0.0.0 notify-monad.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.mgid.com
 0.0.0.0 notify.traffic-media.co.uk
@@ -14934,6 +14945,7 @@
 0.0.0.0 porngraph.com
 0.0.0.0 pornobomba.cc
 0.0.0.0 pornohub.cc
+0.0.0.0 pornoplay.online
 0.0.0.0 pornstars4webcam.com
 0.0.0.0 porntrack.com
 0.0.0.0 porojo.net
@@ -16076,8 +16088,10 @@
 0.0.0.0 rzekbhnk.top
 0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-adserver.sandbox.cxad.cxense.com
+0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-et.w.inmobi.com
 0.0.0.0 s-img.traffic-media.co.uk
+0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 s-loads.com
 0.0.0.0 s-s-adserver.cxad.cxense.com
 0.0.0.0 s-static.innovid.com
@@ -19227,6 +19241,7 @@
 0.0.0.0 trashremover.r.xoxknct.com
 0.0.0.0 traumasister.tk
 0.0.0.0 traveladvertising.com
+0.0.0.0 traveland-tourism.com
 0.0.0.0 travelscream.com
 0.0.0.0 travelstool.com
 0.0.0.0 traviilo.com
@@ -21083,6 +21098,7 @@
 0.0.0.0 www.bannevs.ero-advertising.com
 0.0.0.0 www.banzaiadv.it
 0.0.0.0 www.bavners2.ero-advertising.com
+0.0.0.0 www.bayanpartner.net
 0.0.0.0 www.bbvj6.voluumtrk.com
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bd-ads.com
@@ -21120,6 +21136,7 @@
 0.0.0.0 www.blogg.website
 0.0.0.0 www.blogoman-24.com
 0.0.0.0 www.bluekai.com
+0.0.0.0 www.bmdjnvorps.com
 0.0.0.0 www.bnserving.com
 0.0.0.0 www.bodloft.com
 0.0.0.0 www.boomoffer07.com
@@ -21586,12 +21603,14 @@
 0.0.0.0 www.kushat.roboinside.me
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.larosanotizia.com
+0.0.0.0 www.latinshortcodes.com
 0.0.0.0 www.layers.ero-advertising.com
 0.0.0.0 www.lci1a.voluumtrk.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leadcapitalcrp.com
 0.0.0.0 www.leadzuaf.com
 0.0.0.0 www.lecap-services.fr
+0.0.0.0 www.lediyxobgmrgeb.com
 0.0.0.0 www.leguide.com
 0.0.0.0 www.leninsubscribe.com
 0.0.0.0 www.lenzmx.com
@@ -21745,6 +21764,7 @@
 0.0.0.0 www.ohscoczrnhzd.com
 0.0.0.0 www.oipzyrzffum.ovh
 0.0.0.0 www.ojstdedb.com
+0.0.0.0 www.ojwmlieqguqg.com
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.ol14x.voluumtrk.com
@@ -22786,6 +22806,7 @@
 0.0.0.0 zarossi.com
 0.0.0.0 zauoped.cf
 0.0.0.0 zauoped.ml
+0.0.0.0 zbbxa.adulttdates.com
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zclmine.pro
 0.0.0.0 zealousfield.com
