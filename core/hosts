@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.254
-# Release: 254
-# Entries: 22,877
+# Version: 19.09.255
+# Release: 255
+# Entries: 22,876
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 Sep 19 20:00:15
+# Updated: Thu, 12 Sep 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -20442,7 +20442,6 @@
 0.0.0.0 webview.avazunativeads.com
 0.0.0.0 webview.c.avazunativeads.com
 0.0.0.0 webview.unityads.unity3d.com
-0.0.0.0 webwidgetz.duckdns.org
 0.0.0.0 webxmr.com
 0.0.0.0 webyc.com
 0.0.0.0 wecar.ooo
