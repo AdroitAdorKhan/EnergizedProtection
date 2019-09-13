@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.255
-# Release: 255
-# Entries: 22,876
+# Version: 19.09.256
+# Release: 256
+# Entries: 22,885
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 Sep 19 20:00:16
+# Updated: Fri, 13 Sep 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -6738,6 +6738,7 @@
 0.0.0.0 community.appsflyer.com
 0.0.0.0 community.bugsnag.com
 0.0.0.0 community.mixpanel.com
+0.0.0.0 comoquieresvivir.es
 0.0.0.0 compactbanner.com
 0.0.0.0 company-target.com
 0.0.0.0 comparecards.com
@@ -8457,6 +8458,7 @@
 0.0.0.0 es.moncleritalien.com
 0.0.0.0 es.ucweb.com
 0.0.0.0 escalatenetwork.com
+0.0.0.0 esclavascadiz.es
 0.0.0.0 escleaner.s.xoxknct.com
 0.0.0.0 escokuro.com
 0.0.0.0 escuelainfantilladelicia.es
@@ -10107,6 +10109,7 @@
 0.0.0.0 hot.browser.intl.miui.com
 0.0.0.0 hot.newsfeed.intl.miui.com
 0.0.0.0 hotchat-im.iqiyi.com
+0.0.0.0 hotcheapshop.store
 0.0.0.0 hotchedmothe.club
 0.0.0.0 hotdogsandads.com
 0.0.0.0 hotelelperegrino.es
@@ -11376,6 +11379,7 @@
 0.0.0.0 ketads.com
 0.0.0.0 ketchapp.org
 0.0.0.0 ketodietplus.com
+0.0.0.0 ketoweightloss.com
 0.0.0.0 keyboardgalleryshops.com
 0.0.0.0 keydot.net
 0.0.0.0 keyio.ga
@@ -11976,12 +11980,14 @@
 0.0.0.0 ltctrain.com
 0.0.0.0 ltdapple.com
 0.0.0.0 ltgollersftr.com
+0.0.0.0 ltnewsale.com
 0.0.0.0 lucasrealestategroup.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 luckpool.org
 0.0.0.0 luckypool.io
 0.0.0.0 luckypushh.com
+0.0.0.0 lumeapiticilor.com
 0.0.0.0 lumenpolaroid.com
 0.0.0.0 lumpyleaf.com
 0.0.0.0 lunafluxa.com
@@ -13638,7 +13644,6 @@
 0.0.0.0 oakmanner.ga
 0.0.0.0 oao-js-tag.onemobile.yahoo.com
 0.0.0.0 oappi.com
-0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.repubblica.it
 0.0.0.0 oas.roanoke.com
 0.0.0.0 oas.toronto.com
@@ -15051,6 +15056,7 @@
 0.0.0.0 pricefbcf.gq
 0.0.0.0 priests.top
 0.0.0.0 primaryads.com
+0.0.0.0 primeagentsites.com
 0.0.0.0 primecaster.net
 0.0.0.0 primetime.net
 0.0.0.0 primissima.it
@@ -18127,6 +18133,7 @@
 0.0.0.0 theappguruz.com
 0.0.0.0 thebannerexchange.com
 0.0.0.0 thebeatlesbeat.com
+0.0.0.0 thebestjacket.club
 0.0.0.0 thebestleadbit.com
 0.0.0.0 thebestplayer.mobi
 0.0.0.0 thebridgeoftruth.live
@@ -18153,7 +18160,6 @@
 0.0.0.0 therichkids.com
 0.0.0.0 thermoven.es
 0.0.0.0 therneserutybin.info
-0.0.0.0 thersprens.com
 0.0.0.0 theseoffersforyou.com
 0.0.0.0 theship.club
 0.0.0.0 thethandarinhec.info
@@ -22711,6 +22717,7 @@
 0.0.0.0 ymtracking.com
 0.0.0.0 ymzrrizntbhde.com
 0.0.0.0 yngtvbtzxzmoc.com
+0.0.0.0 ynsbg.top
 0.0.0.0 yoartq.com
 0.0.0.0 yobaby.club
 0.0.0.0 yobit.net
@@ -22756,8 +22763,10 @@
 0.0.0.0 yserch.com
 0.0.0.0 yt.advmaker.su
 0.0.0.0 yt.moatads.com
+0.0.0.0 yth87.top
 0.0.0.0 yttestsite.com
 0.0.0.0 yucnvu.live
+0.0.0.0 yuculie.com
 0.0.0.0 yuedu.iqiyi.com
 0.0.0.0 yuhuads.com
 0.0.0.0 yuilop.com
