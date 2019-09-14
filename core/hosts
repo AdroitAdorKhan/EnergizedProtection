@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.256
-# Release: 256
-# Entries: 22,885
+# Version: 19.09.257
+# Release: 257
+# Entries: 22,918
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 13 Sep 19 20:00:20
+# Updated: Sat, 14 Sep 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -141,6 +141,7 @@
 0.0.0.0 1ex.trade
 0.0.0.0 1f.video-ak.cdn.spotify.com
 0.0.0.0 1f58098dd54.com
+0.0.0.0 1fc4d6ccf2.com
 0.0.0.0 1fwjpdwguvqs.com
 0.0.0.0 1gu1i5va13.s.ad6media.fr
 0.0.0.0 1homesuppliesstore.xyz
@@ -377,6 +378,7 @@
 0.0.0.0 54.video-ak.cdn.spotify.com
 0.0.0.0 544c27b3f0aae2.com
 0.0.0.0 5483bbc5758.com
+0.0.0.0 54a2c2e3c325.com
 0.0.0.0 55.video-ak.cdn.spotify.com
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 555.in.th
@@ -4516,6 +4518,7 @@
 0.0.0.0 avualrhg9p.bid
 0.0.0.0 aw.dw.impact-ad.jp
 0.0.0.0 awaps.yandex.ru
+0.0.0.0 awcpmsaiv.com
 0.0.0.0 awecrptjmp.com
 0.0.0.0 aweme.snssdk.com
 0.0.0.0 awempire.com
@@ -4602,6 +4605,7 @@
 0.0.0.0 bacm.ro
 0.0.0.0 baconaces.pro
 0.0.0.0 bacr.com.pk
+0.0.0.0 bactsumer-alaced.com
 0.0.0.0 badboys.network
 0.0.0.0 badjocks.com
 0.0.0.0 badsbads.com
@@ -5292,6 +5296,7 @@
 0.0.0.0 bn.bfast.com
 0.0.0.0 bnhtml.com
 0.0.0.0 bnmla.com
+0.0.0.0 bnqfbcnzdt.com
 0.0.0.0 bnr.sys.lv
 0.0.0.0 bnrs.it
 0.0.0.0 bnserving.com
@@ -5849,6 +5854,7 @@
 0.0.0.0 cbnntwp.com
 0.0.0.0 cbsi.com
 0.0.0.0 cbx.net
+0.0.0.0 cbzjukldosooj.com
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.st
 0.0.0.0 cc.video-ak.cdn.spotify.com
@@ -7234,6 +7240,7 @@
 0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d1.yengo.com
 0.0.0.0 d10lumateci472.cloudfront.net
+0.0.0.0 d11990e9824.com
 0.0.0.0 d12tludofq8d6y.cloudfront.net
 0.0.0.0 d12zo0ppztbcf.cloudfront.net
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
@@ -7269,7 +7276,9 @@
 0.0.0.0 d3t5ngjixpjdho.cloudfront.net
 0.0.0.0 d3tplke66d0j4g.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
+0.0.0.0 d4.click-here.pro
 0.0.0.0 d4.video-ak.cdn.spotify.com
+0.0.0.0 d4bf1a375e.com
 0.0.0.0 d5.video-ak.cdn.spotify.com
 0.0.0.0 d6.video-ak.cdn.spotify.com
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
@@ -7284,6 +7293,7 @@
 0.0.0.0 da.oipzyrzffum.ovh
 0.0.0.0 da.qiyukf.com
 0.0.0.0 da.video-ak.cdn.spotify.com
+0.0.0.0 da849a24691.com
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dable.io
 0.0.0.0 dadinihao.gq
@@ -7402,6 +7412,7 @@
 0.0.0.0 dca.as.nexage.com
 0.0.0.0 dcads.sina.com.cn
 0.0.0.0 dcfe924a8f9a1.com
+0.0.0.0 dcsbdmarket.com
 0.0.0.0 dd.smaxdn.com
 0.0.0.0 dd.video-ak.cdn.spotify.com
 0.0.0.0 dd713.bj.bcebos.com
@@ -7526,6 +7537,7 @@
 0.0.0.0 desgao1zt7irn.cloudfront.net
 0.0.0.0 deshmedia.com
 0.0.0.0 desiasm.club
+0.0.0.0 desibitinlet.pro
 0.0.0.0 designyourowntote.com
 0.0.0.0 desigualeshop.com
 0.0.0.0 desigualitienda.com
@@ -8135,6 +8147,7 @@
 0.0.0.0 e4949ee7275c4.com
 0.0.0.0 e4ceb6161619.com
 0.0.0.0 e4f1faad220ad3c.com
+0.0.0.0 e5.click-here.pro
 0.0.0.0 e5.video-ak.cdn.spotify.com
 0.0.0.0 e5019.e2.akamaiedge.net
 0.0.0.0 e5070.g.akamaiedge.net
@@ -8555,6 +8568,7 @@
 0.0.0.0 ev-ph.rdtcdn.com
 0.0.0.0 ev.rdtcdn.com
 0.0.0.0 evantative.top
+0.0.0.0 evenghadrinhisbe.pro
 0.0.0.0 evengtofundrew.pro
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.globalnews.uodoo.com
@@ -8603,6 +8617,7 @@
 0.0.0.0 ewzlyrq0bwfsref.ru
 0.0.0.0 ex.mobmore.com
 0.0.0.0 ex.puata.info
+0.0.0.0 ex.resourcecdns.com
 0.0.0.0 exactdrive.com
 0.0.0.0 example.mgid.com
 0.0.0.0 exch-e.atdmt.com
@@ -9371,6 +9386,7 @@
 0.0.0.0 gersairg.net
 0.0.0.0 get.brightcove.com
 0.0.0.0 get.geo.opera.com.global.prod.fastly.net
+0.0.0.0 get.prizes-mobi.stream
 0.0.0.0 get1trightn0w.com
 0.0.0.0 getadmiral.com
 0.0.0.0 getads.com
@@ -11693,6 +11709,7 @@
 0.0.0.0 lightcushion.com
 0.0.0.0 lightminer.co
 0.0.0.0 lightningcast.net
+0.0.0.0 lightothansinheg.pro
 0.0.0.0 lightspeedcash.com
 0.0.0.0 lightspeedmining.com
 0.0.0.0 like.fund
@@ -12763,6 +12780,7 @@
 0.0.0.0 mobile.aws.weather.com
 0.0.0.0 mobile.banzai.it
 0.0.0.0 mobile.datpiff.com
+0.0.0.0 mobile.eyes-market.com
 0.0.0.0 mobile.fastclick.net
 0.0.0.0 mobile.freebasics.com
 0.0.0.0 mobile.gunungemas.cc
@@ -13969,6 +13987,7 @@
 0.0.0.0 outrain.com
 0.0.0.0 overalltransitions.com
 0.0.0.0 overolma.xyz
+0.0.0.0 oviwtvswp.com
 0.0.0.0 ovtopli.ru
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
@@ -14384,6 +14403,7 @@
 0.0.0.0 paycenter.uc.cn
 0.0.0.0 paycoinalt.com
 0.0.0.0 paycounter.com
+0.0.0.0 paydate.me
 0.0.0.0 paydotcom.com
 0.0.0.0 paygate-prod.shareitpay.in
 0.0.0.0 paygate.shareitpay.in
@@ -16703,6 +16723,7 @@
 0.0.0.0 shopcomputer.club
 0.0.0.0 shopitoffco.com
 0.0.0.0 shoplovelybird.com
+0.0.0.0 shopoutdoor.club
 0.0.0.0 shoppingads.com
 0.0.0.0 shoppingsports.Club
 0.0.0.0 shoppingsports.club
@@ -17078,6 +17099,7 @@
 0.0.0.0 speednetwork6.adk2x.com
 0.0.0.0 speedomizer.com
 0.0.0.0 speedshiftmedia.com
+0.0.0.0 speedtestinfo.com
 0.0.0.0 speedup-faucet.com
 0.0.0.0 speedyapprank.com
 0.0.0.0 speee-ad.akamaized.net
@@ -17800,6 +17822,7 @@
 0.0.0.0 syndication.dynsrvwer.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
+0.0.0.0 syndication.realsrv.com
 0.0.0.0 syndication.trafficreps.com
 0.0.0.0 syndication0.exoclick.com
 0.0.0.0 synergy-e.com
@@ -20240,6 +20263,7 @@
 0.0.0.0 vzkyivowceqcsd.com
 0.0.0.0 w.ams1.appgw2.inmobi.com
 0.0.0.0 w.dfw2.vip.inmobi.com
+0.0.0.0 w.en6.net
 0.0.0.0 w.funzone.by
 0.0.0.0 w.gdown.baidu.com
 0.0.0.0 w.linkwelove.com
@@ -21073,6 +21097,7 @@
 0.0.0.0 www.avantlink.com
 0.0.0.0 www.avocarrot.com
 0.0.0.0 www.avsponsor.biz
+0.0.0.0 www.awcpmsaiv.com
 0.0.0.0 www.awin1.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.axiom-project.eu
@@ -21142,6 +21167,7 @@
 0.0.0.0 www.blogoman-24.com
 0.0.0.0 www.bluekai.com
 0.0.0.0 www.bmdjnvorps.com
+0.0.0.0 www.bnqfbcnzdt.com
 0.0.0.0 www.bnserving.com
 0.0.0.0 www.bodloft.com
 0.0.0.0 www.boomoffer07.com
@@ -21169,6 +21195,7 @@
 0.0.0.0 www.camsoda.com
 0.0.0.0 www.casinoportugal.pt
 0.0.0.0 www.cata.ero-advertising.com
+0.0.0.0 www.cbzjukldosooj.com
 0.0.0.0 www.cc.sys.intl.xiaomi.com
 0.0.0.0 www.cc.sys.miui.com
 0.0.0.0 www.ccc.sys.intl.xiaomi.com
@@ -21208,6 +21235,7 @@
 0.0.0.0 www.clickterra.net
 0.0.0.0 www.clickworkzmedia.com
 0.0.0.0 www.clinkad.com
+0.0.0.0 www.clipper28.com
 0.0.0.0 www.clixco.in
 0.0.0.0 www.clixsense.com
 0.0.0.0 www.clk1005.com
@@ -21375,6 +21403,7 @@
 0.0.0.0 www.fhatfee.ero-advertising.com
 0.0.0.0 www.fighissimo.net
 0.0.0.0 www.filepin.com
+0.0.0.0 www.fireabsorb.fun
 0.0.0.0 www.firstclass-download.com
 0.0.0.0 www.fixnow.us
 0.0.0.0 www.flash.sec.intl.miui.com
@@ -21511,6 +21540,7 @@
 0.0.0.0 www.hs.appsdorado.com
 0.0.0.0 www.hsselite.com
 0.0.0.0 www.ht8n8.voluumtrk.com
+0.0.0.0 www.hubi.com
 0.0.0.0 www.hypertrack.com
 0.0.0.0 www.i.skimresources.com
 0.0.0.0 www.i7xls.voluumtrk.com
@@ -21684,7 +21714,6 @@
 0.0.0.0 www.minero-proxy-04.now.sh
 0.0.0.0 www.mirago.com
 0.0.0.0 www.mixpanel.com
-0.0.0.0 www.mmnetwork.mobi
 0.0.0.0 www.mniqkjtvqal.com
 0.0.0.0 www.moatads.com
 0.0.0.0 www.mobcon.pro
@@ -21748,6 +21777,7 @@
 0.0.0.0 www.nextlnk4.com
 0.0.0.0 www.nfbio.dk
 0.0.0.0 www.nimjdyknjzcp.com
+0.0.0.0 www.njawafwpmv.com
 0.0.0.0 www.njfy6.voluumtrk.com
 0.0.0.0 www.nl1.ero-advertising.com
 0.0.0.0 www.nl2.ero-advertising.com
@@ -21795,6 +21825,7 @@
 0.0.0.0 www.outlookemailtech.com
 0.0.0.0 www.outlookproblemshelp.com
 0.0.0.0 www.outlookrepairhelp.com
+0.0.0.0 www.oviwtvswp.com
 0.0.0.0 www.p.skimresources.com
 0.0.0.0 www.p187425.clksite.com
 0.0.0.0 www.p2047.clksite.com
@@ -22315,6 +22346,7 @@
 0.0.0.0 www.wsw.ero-advertising.com
 0.0.0.0 www.wt-eu02.net
 0.0.0.0 www.wta.ero-advertising.com
+0.0.0.0 www.wtgkustlgat.com
 0.0.0.0 www.wtseticket.com
 0.0.0.0 www.wtwcdgfpi.com
 0.0.0.0 www.ww2.ero-advertising.com
@@ -22369,6 +22401,7 @@
 0.0.0.0 www.yardzing.com
 0.0.0.0 www.yengo.com
 0.0.0.0 www.yes8sg.com
+0.0.0.0 www.yibacurd.com
 0.0.0.0 www.yip.su
 0.0.0.0 www.yllix.com
 0.0.0.0 www.ylx-1.com
