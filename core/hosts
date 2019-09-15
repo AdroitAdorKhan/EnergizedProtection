@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.257
-# Release: 257
-# Entries: 22,918
+# Version: 19.09.258
+# Release: 258
+# Entries: 22,897
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 14 Sep 19 20:00:21
+# Updated: Sun, 15 Sep 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5498,6 +5498,7 @@
 0.0.0.0 bustlinganimal.com
 0.0.0.0 butcalve.com
 0.0.0.0 butheptesitrew.pro
+0.0.0.0 buthestienjo.pro
 0.0.0.0 buthoprus.narod.ru
 0.0.0.0 butterburst.com
 0.0.0.0 buttons.googlesyndication.com
@@ -6695,8 +6696,10 @@
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector1.xhamster.desi
+0.0.0.0 collector1.xhamster2.com
 0.0.0.0 collector3.xhamster.com
 0.0.0.0 collector3.xhamster.desi
+0.0.0.0 collector3.xhamster2.com
 0.0.0.0 college-knowledge.us
 0.0.0.0 collegeprowler.adblade.com
 0.0.0.0 colliersads.com
@@ -8454,6 +8457,7 @@
 0.0.0.0 ero-ades.ero-advertising.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 erokawa.biz
+0.0.0.0 erosyndc.com
 0.0.0.0 erovation.com
 0.0.0.0 err.taobao.com
 0.0.0.0 errantshed.co.uk
@@ -8592,6 +8596,7 @@
 0.0.0.0 events.startappservice.com
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.superads.cn
+0.0.0.0 events.tubecup.org
 0.0.0.0 events.umeng.com
 0.0.0.0 events20.adcolony.com
 0.0.0.0 events3.adcolony.com
@@ -8955,6 +8960,7 @@
 0.0.0.0 fjallravenkankenmochilas.com.es
 0.0.0.0 fjallravenpack.com
 0.0.0.0 fjftiis8cofvstn.ru
+0.0.0.0 fjgbigejedcbgegjadi.ru
 0.0.0.0 fjrkn.com
 0.0.0.0 fk-web.cxense.com
 0.0.0.0 fkbwtoopwg.com
@@ -9666,7 +9672,6 @@
 0.0.0.0 greatcamerasale.site
 0.0.0.0 greatedbothere.info
 0.0.0.0 greatene.com
-0.0.0.0 greatmacsoft.tech
 0.0.0.0 greatpondwildernesslodge.com
 0.0.0.0 green-red.com
 0.0.0.0 greenads.org
@@ -9792,6 +9797,7 @@
 0.0.0.0 hairville.net
 0.0.0.0 halaru.com
 0.0.0.0 halfpriceozarks.com
+0.0.0.0 halo.smamuhh1metro.com
 0.0.0.0 halogennetwork.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hanaprop.com
@@ -9940,6 +9946,7 @@
 0.0.0.0 herdethi.net
 0.0.0.0 hereyourhotlover.com
 0.0.0.0 herezera.com
+0.0.0.0 herheparterhan.pro
 0.0.0.0 hersouthernstyle.com
 0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hetofreplome.info
@@ -10245,6 +10252,7 @@
 0.0.0.0 i.adfurikun.jp
 0.0.0.0 i.bestcontentfacility.top
 0.0.0.0 i.bestcontentpc.top
+0.0.0.0 i.beverly-downing.xyz
 0.0.0.0 i.bimbolive.com
 0.0.0.0 i.flow.browser.oppomobile.com
 0.0.0.0 i.frg.im
@@ -10264,6 +10272,7 @@
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.tiffany-smith.xyz
 0.0.0.0 i.umeng.com
+0.0.0.0 i.william-frazier.xyz
 0.0.0.0 i.xx.openx.com
 0.0.0.0 i1.bonus.express
 0.0.0.0 i1.dl-ad.com
@@ -11135,6 +11144,7 @@
 0.0.0.0 javacript.tk
 0.0.0.0 javtoys.com
 0.0.0.0 jbph.net
+0.0.0.0 jbzdpixig.com
 0.0.0.0 jcdn.ad-stir.com
 0.0.0.0 jcount.com
 0.0.0.0 jdcjzt7atnogyi.ru
@@ -12117,6 +12127,7 @@
 0.0.0.0 m1.eebfffjegjajjiacaci.ru
 0.0.0.0 m1.efhabjaabgfbbegjacj.ru
 0.0.0.0 m1.fiahcdedjfiaeiacadh.ru
+0.0.0.0 m1.fjgbigejedcbgegjadi.ru
 0.0.0.0 m1.fwmrm.net
 0.0.0.0 m10s8.com
 0.0.0.0 m2.ai
@@ -12128,6 +12139,7 @@
 0.0.0.0 m2.eebfffjegjajjiacaci.ru
 0.0.0.0 m2.fejhjhddaajibegjadf.ru
 0.0.0.0 m2.fiahcdedjfiaeiacadh.ru
+0.0.0.0 m2.fjgbigejedcbgegjadi.ru
 0.0.0.0 m2.trafficjunky.net
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m2pub.adk2.co
@@ -12140,6 +12152,7 @@
 0.0.0.0 m3.deihhhgbiegcjiacacc.ru
 0.0.0.0 m3.eebfffjegjajjiacaci.ru
 0.0.0.0 m3.efhabjaabgfbbegjacj.ru
+0.0.0.0 m3.fjgbigejedcbgegjadi.ru
 0.0.0.0 m32.media
 0.0.0.0 m3gce.ads.tremorhub.com
 0.0.0.0 m5.top10ranking.pl
@@ -13265,6 +13278,7 @@
 0.0.0.0 ncmzm.voluumtrk.com
 0.0.0.0 ncompra.com
 0.0.0.0 ncrjsserver.com
+0.0.0.0 ndjelsefd.com
 0.0.0.0 ndparking.com
 0.0.0.0 ndyzz.com
 0.0.0.0 nearbyad.com
@@ -13525,7 +13539,6 @@
 0.0.0.0 notcb.com
 0.0.0.0 notcv.com
 0.0.0.0 notebookcheck.h-bid.com
-0.0.0.0 notification-browser.tools
 0.0.0.0 notification-system.tools
 0.0.0.0 notification-time.com
 0.0.0.0 notifications.website
@@ -14343,6 +14356,7 @@
 0.0.0.0 parentelement.tk
 0.0.0.0 parfumsurabaya.com
 0.0.0.0 parketsy.pro
+0.0.0.0 parperhedtineveng.pro
 0.0.0.0 parronnotandone.info
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 parstabligh.org
@@ -14767,6 +14781,7 @@
 0.0.0.0 pl15054496.pvclouds.com
 0.0.0.0 pl15055490.pvclouds.com
 0.0.0.0 pl15078087.pvclouds.com
+0.0.0.0 pl15080358.pvclouds.com
 0.0.0.0 pl15117601.pvclouds.com
 0.0.0.0 pl3865463.puserving.com
 0.0.0.0 pl3941628.pvclouds.com
@@ -14968,6 +14983,7 @@
 0.0.0.0 porbc.com
 0.0.0.0 porkypool.com
 0.0.0.0 porngraph.com
+0.0.0.0 pornimg.xyz
 0.0.0.0 pornobomba.cc
 0.0.0.0 pornohub.cc
 0.0.0.0 pornoplay.online
@@ -15373,6 +15389,7 @@
 0.0.0.0 qcoldtui1999.com
 0.0.0.0 qcontentdelivery.info
 0.0.0.0 qctop.com
+0.0.0.0 qdcdn.me
 0.0.0.0 qenklbb.com
 0.0.0.0 qensa.com
 0.0.0.0 qertewrt.com
@@ -15433,6 +15450,7 @@
 0.0.0.0 quisma.com
 0.0.0.0 quizzasport.com
 0.0.0.0 quizzicalzephyr.com
+0.0.0.0 qumagee.com
 0.0.0.0 quotc.smartclick.net
 0.0.0.0 qvgjqhfnbdeur.com
 0.0.0.0 qvilmdus.com
@@ -15674,6 +15692,7 @@
 0.0.0.0 recycloped.com
 0.0.0.0 red-js.github.io
 0.0.0.0 redentiatowel.info
+0.0.0.0 redentofketheg.pro
 0.0.0.0 redintelligence.net
 0.0.0.0 redir.cuntwars.com
 0.0.0.0 redir.flowwiththetide.xyz
@@ -16928,6 +16947,7 @@
 0.0.0.0 smartlink.adacts.com
 0.0.0.0 smartmine.club
 0.0.0.0 smartoffer.site
+0.0.0.0 smartoffers.tabacco.space
 0.0.0.0 smartshare.tv
 0.0.0.0 smarttds.ru
 0.0.0.0 smartyads.com
@@ -19447,6 +19467,7 @@
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 tstreesandtreasures.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndolls.com
 0.0.0.0 tt.smaxdn.com
 0.0.0.0 ttwitter.com
 0.0.0.0 tu.dxcnd.cn
@@ -19737,6 +19758,7 @@
 0.0.0.0 up.br.bav.baidu.com
 0.0.0.0 up.eg.bav.baidu.com
 0.0.0.0 up.sd.baidu.com
+0.0.0.0 up.trkgenius.com
 0.0.0.0 up1.la.u2.ucweb.com
 0.0.0.0 up4.ucweb.com
 0.0.0.0 upads.info
@@ -20333,7 +20355,6 @@
 0.0.0.0 wasspargotitta.club
 0.0.0.0 wat.ad.daum.net
 0.0.0.0 watchdog.energized.pro
-0.0.0.0 watches-my.stream
 0.0.0.0 watchf1online.com
 0.0.0.0 watchfull.co
 0.0.0.0 watchingthat.com
@@ -21146,7 +21167,6 @@
 0.0.0.0 www.beylikduzumasajmutluson.com
 0.0.0.0 www.bfast.com
 0.0.0.0 www.bfeofwzszuis.com
-0.0.0.0 www.bi-collector.oneapm.com
 0.0.0.0 www.bid.axiatraders.com
 0.0.0.0 www.bid.grandonmedia.com
 0.0.0.0 www.bidgear.com
@@ -21162,7 +21182,6 @@
 0.0.0.0 www.blog.adspaces.ero-advertising.com
 0.0.0.0 www.blog.ero-advertising.com
 0.0.0.0 www.blog.intext.ero-advertising.com
-0.0.0.0 www.blog.roboinside.me
 0.0.0.0 www.blogg.website
 0.0.0.0 www.blogoman-24.com
 0.0.0.0 www.bluekai.com
@@ -21196,11 +21215,6 @@
 0.0.0.0 www.casinoportugal.pt
 0.0.0.0 www.cata.ero-advertising.com
 0.0.0.0 www.cbzjukldosooj.com
-0.0.0.0 www.cc.sys.intl.xiaomi.com
-0.0.0.0 www.cc.sys.miui.com
-0.0.0.0 www.ccc.sys.intl.xiaomi.com
-0.0.0.0 www.ccc.sys.miui.com
-0.0.0.0 www.cdn.ad.xiaomi.com
 0.0.0.0 www.cdn.adblade.com
 0.0.0.0 www.cdn.atdmt.com
 0.0.0.0 www.cdn.beginads.com
@@ -21250,15 +21264,12 @@
 0.0.0.0 www.coinjinja.com
 0.0.0.0 www.coinnebula.com
 0.0.0.0 www.cointraffic.io
-0.0.0.0 www.com-fasting.live
 0.0.0.0 www.computertechsupport.us
 0.0.0.0 www.comscore.com
 0.0.0.0 www.consumerproductsusa.com
 0.0.0.0 www.contentcastling.com
 0.0.0.0 www.contextweb.com
 0.0.0.0 www.convertexperiments.com
-0.0.0.0 www.convhkmp.taboola.com
-0.0.0.0 www.convlatbmp.taboola.com
 0.0.0.0 www.cookiescript.info
 0.0.0.0 www.coolestslots.com
 0.0.0.0 www.coollcloud.com
@@ -21295,11 +21306,7 @@
 0.0.0.0 www.dat2.ero-advertising.com
 0.0.0.0 www.data-days.com
 0.0.0.0 www.data-ero-advertising.com
-0.0.0.0 www.data.mistat.intl.xiaomi.com
-0.0.0.0 www.data.mistat.xiaomi.com
-0.0.0.0 www.data.sec.intl.miui.com
 0.0.0.0 www.data2.ero-advertising.com
-0.0.0.0 www.datacollect.vmall.com
 0.0.0.0 www.date.ero-advertising.com
 0.0.0.0 www.datethatgirls.com
 0.0.0.0 www.dating.mgid.com
@@ -21351,13 +21358,11 @@
 0.0.0.0 www.e-5682.adzerk.net
 0.0.0.0 www.e-9675.adzerk.net
 0.0.0.0 www.e-hpaces.ero-advertising.com
-0.0.0.0 www.e.ad.xiaomi.com
 0.0.0.0 www.eadv.it
 0.0.0.0 www.earnstations.com
 0.0.0.0 www.easyaccess.mobi
 0.0.0.0 www.easytechy.com
 0.0.0.0 www.ec.atdmt.com
-0.0.0.0 www.ecommerce.roboinside.me
 0.0.0.0 www.ecpms.net
 0.0.0.0 www.ecran-de-veille.org
 0.0.0.0 www.eedclicks.ero-advertising.com
@@ -21396,7 +21401,6 @@
 0.0.0.0 www.fbfd396918c60838.com
 0.0.0.0 www.fbookindia.com
 0.0.0.0 www.fbtsotbs.com
-0.0.0.0 www.fcanr.tracking.miui.com
 0.0.0.0 www.ff81k.voluumtrk.com
 0.0.0.0 www.ffruntimechecker.com
 0.0.0.0 www.fgoogle.com
@@ -21406,7 +21410,6 @@
 0.0.0.0 www.fireabsorb.fun
 0.0.0.0 www.firstclass-download.com
 0.0.0.0 www.fixnow.us
-0.0.0.0 www.flash.sec.intl.miui.com
 0.0.0.0 www.flashtest.ero-advertising.com
 0.0.0.0 www.flatdee.ero-advertising.com
 0.0.0.0 www.flatfae.ero-advertising.com
@@ -21455,7 +21458,6 @@
 0.0.0.0 www.gdzhndrthckf.com
 0.0.0.0 www.gemius.pl
 0.0.0.0 www.generaltagcom.ga
-0.0.0.0 www.geofence.sys.miui.com
 0.0.0.0 www.getadmiral.com
 0.0.0.0 www.getclicky.com
 0.0.0.0 www.getunlocked.com
@@ -21464,7 +21466,6 @@
 0.0.0.0 www.girlsvideosonline.info
 0.0.0.0 www.gjrystbjustuw.com
 0.0.0.0 www.glasses-sale.com
-0.0.0.0 www.globalapi.ad.xiaomi.com
 0.0.0.0 www.globaltechexpert.com
 0.0.0.0 www.gmboxx.com
 0.0.0.0 www.gns.chameleon.ad
@@ -21544,19 +21545,17 @@
 0.0.0.0 www.hypertrack.com
 0.0.0.0 www.i.skimresources.com
 0.0.0.0 www.i7xls.voluumtrk.com
-0.0.0.0 www.icloud.com-locations.in
 0.0.0.0 www.ico.bitcomo.com
 0.0.0.0 www.idspaces.ero-advertising.com
 0.0.0.0 www.iesnare.com
 0.0.0.0 www.ifbwyogrfjo.com
+0.0.0.0 www.ihgwekwwxbuxy.com
 0.0.0.0 www.ijsl1.voluumtrk.com
 0.0.0.0 www.ikiweb.it
 0.0.0.0 www.im.mobsweet.com
 0.0.0.0 www.imads.ero-advertising.com
 0.0.0.0 www.imeds.ero-advertising.com
 0.0.0.0 www.img4.juiceadv.com
-0.0.0.0 www.imprhkmp.taboola.com
-0.0.0.0 www.imprlatbmp.taboola.com
 0.0.0.0 www.in-star.videoplaza.tv
 0.0.0.0 www.in-starlive-preroll.videoplaza.tv
 0.0.0.0 www.in-starlive.videoplaza.tv
@@ -21601,6 +21600,7 @@
 0.0.0.0 www.izmirburak.com
 0.0.0.0 www.j1alc.voluumtrk.com
 0.0.0.0 www.j1cw9.voluumtrk2.com
+0.0.0.0 www.jbzdpixig.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jetbytes.com
 0.0.0.0 www.jgjvhtnshqjc.com
@@ -21635,7 +21635,6 @@
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuaptrk.com
-0.0.0.0 www.kushat.roboinside.me
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.larosanotizia.com
 0.0.0.0 www.latinshortcodes.com
@@ -21683,7 +21682,6 @@
 0.0.0.0 www.marketgid.com
 0.0.0.0 www.massabola.com
 0.0.0.0 www.mata.ero-advertising.com
-0.0.0.0 www.match.taboola.com
 0.0.0.0 www.matchmyip.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.maxonclick.com
@@ -21764,7 +21762,6 @@
 0.0.0.0 www.netgearrouterhelp.com
 0.0.0.0 www.netsize.com
 0.0.0.0 www.netweek.it
-0.0.0.0 www.new.api.ad.xiaomi.com
 0.0.0.0 www.newlimitedoffer.com
 0.0.0.0 www.newre-conversions.clickmeter.com
 0.0.0.0 www.newrelic.com
@@ -21784,7 +21781,6 @@
 0.0.0.0 www.nners.ero-advertising.com
 0.0.0.0 www.norton-comsetup.co.uk
 0.0.0.0 www.notalyyj.com
-0.0.0.0 www.notification-browser.tools
 0.0.0.0 www.npept.voluumtrk.com
 0.0.0.0 www.nufa-ad.com
 0.0.0.0 www.nugg.ad
@@ -21818,7 +21814,6 @@
 0.0.0.0 www.oovvuu.com
 0.0.0.0 www.opads.ero-advertising.com
 0.0.0.0 www.opencache.com
-0.0.0.0 www.opps.taboola.com
 0.0.0.0 www.orion.iad.appboy.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlookemailsetup.com
@@ -21992,7 +21987,6 @@
 0.0.0.0 www.revive-adserver.net
 0.0.0.0 www.rgryk.voluumtrk.com
 0.0.0.0 www.rhfgjld.com
-0.0.0.0 www.roboinside.me
 0.0.0.0 www.rocks.io
 0.0.0.0 www.rollbar.com
 0.0.0.0 www.roosterfirework.com
@@ -22030,10 +22024,7 @@
 0.0.0.0 www.scopamici.com
 0.0.0.0 www.scorecardresearch.com
 0.0.0.0 www.script.crazyegg.com
-0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 www.sdkconfig.ad.xiaomi.com
 0.0.0.0 www.search-privacy.online
-0.0.0.0 www.sebder.roboinside.me
 0.0.0.0 www.secure.adnxs.com
 0.0.0.0 www.security.baidu.co.th
 0.0.0.0 www.segretaria24.it
@@ -22044,7 +22035,6 @@
 0.0.0.0 www.services.wes.df.telemetry.microsoft.com
 0.0.0.0 www.sex-and-flirt.com
 0.0.0.0 www.sglala.com
-0.0.0.0 www.sgp.o2o.api.xiaomi.com
 0.0.0.0 www.sgzsviqlvcxc.com
 0.0.0.0 www.sharethrough.com
 0.0.0.0 www.shecards.net
@@ -22075,6 +22065,7 @@
 0.0.0.0 www.software-techie-top-dev.win
 0.0.0.0 www.sonobi.com
 0.0.0.0 www.soperson.com
+0.0.0.0 www.sorqbhulun.com
 0.0.0.0 www.sovrn.com
 0.0.0.0 www.spaces.ero-advertising.com
 0.0.0.0 www.spain-rb.com
@@ -22103,7 +22094,6 @@
 0.0.0.0 www.src.eeduelements.com
 0.0.0.0 www.srppykbedhqp.com
 0.0.0.0 www.srv.pixel.parsely.com
-0.0.0.0 www.ssp.ad.xiaomi.com
 0.0.0.0 www.stack-sonar.com
 0.0.0.0 www.stackcommerce.com
 0.0.0.0 www.stage.tvpage.com
@@ -22117,7 +22107,6 @@
 0.0.0.0 www.stats.adspaces.ero-advertising.com
 0.0.0.0 www.stats.data2.ero-advertising.com
 0.0.0.0 www.stats.ero-advertising.com
-0.0.0.0 www.stats.jpush.cn
 0.0.0.0 www.stats.speedclicks.ero-advertising.com
 0.0.0.0 www.stats.webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 www.steenbergen.web.ero-advertising.com
@@ -22125,7 +22114,6 @@
 0.0.0.0 www.stephanie.tnctrx.com
 0.0.0.0 www.stg.tapad.com
 0.0.0.0 www.stickyadstv.com
-0.0.0.0 www.storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 www.storygize.net
 0.0.0.0 www.strategy.it
 0.0.0.0 www.stream-direct.co
@@ -22169,9 +22157,6 @@
 0.0.0.0 www.tenjin.com
 0.0.0.0 www.terraclicks.com
 0.0.0.0 www.terrapops.com
-0.0.0.0 www.test.ad.xiaomi.com
-0.0.0.0 www.test.e.ad.xiaomi.com
-0.0.0.0 www.test.new.api.ad.xiaomi.com
 0.0.0.0 www.tex.ero-advertising.com
 0.0.0.0 www.th.browser.baidu.com
 0.0.0.0 www.th.hao123.com
@@ -22213,8 +22198,6 @@
 0.0.0.0 www.trackico.io
 0.0.0.0 www.tracking.beginads.com
 0.0.0.0 www.tracking.ero-advertising.com
-0.0.0.0 www.tracking.intl.miui.com
-0.0.0.0 www.tracking.miui.com
 0.0.0.0 www.tracking.w2mobile.com
 0.0.0.0 www.trackinit.com
 0.0.0.0 www.trackmedia101.com
@@ -22282,7 +22265,6 @@
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.videoadsgenius.co
 0.0.0.0 www.vidto.se
-0.0.0.0 www.vidutils.taboola.com
 0.0.0.0 www.view.atdmt.com
 0.0.0.0 www.viprumor.it
 0.0.0.0 www.vipvergognosi.com
@@ -22326,7 +22308,6 @@
 0.0.0.0 www.webtrekk.com
 0.0.0.0 www.wes.df.telemetry.microsoft.com
 0.0.0.0 www.wetrafficstars.mobi
-0.0.0.0 www.wf.taboola.com
 0.0.0.0 www.whatsaappp.com
 0.0.0.0 www.whatsapps.com
 0.0.0.0 www.whstatic.com
@@ -22403,6 +22384,7 @@
 0.0.0.0 www.yes8sg.com
 0.0.0.0 www.yibacurd.com
 0.0.0.0 www.yip.su
+0.0.0.0 www.yisscbyq.com
 0.0.0.0 www.yllix.com
 0.0.0.0 www.ylx-1.com
 0.0.0.0 www.yngtvbtzxzmoc.com
@@ -22411,6 +22393,7 @@
 0.0.0.0 www.yourtuber.info
 0.0.0.0 www.yrsjqzfku.com
 0.0.0.0 www.yserch.com
+0.0.0.0 www.ytxuslppbj.com
 0.0.0.0 www.ywpkgqasoe.bid
 0.0.0.0 www.yximgdpivguxke.com
 0.0.0.0 www.z.moatads.com
@@ -22422,8 +22405,6 @@
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zeropark.com
-0.0.0.0 www.zeus.ad.intl.xiaomi.com
-0.0.0.0 www.zeus.ad.xiaomi.com
 0.0.0.0 www.ziebgbikz.com
 0.0.0.0 www.zindas.info
 0.0.0.0 www.zl1.quebec-bin.com
@@ -22511,7 +22492,6 @@
 0.0.0.0 xclicks.net
 0.0.0.0 xcp.go.sonobi.com
 0.0.0.0 xd.adform.net
-0.0.0.0 xda-developers.us
 0.0.0.0 xdadevelopers.browsi.mobi
 0.0.0.0 xddwwyfvpwh.com
 0.0.0.0 xdrig.com
@@ -22597,7 +22577,6 @@
 0.0.0.0 xn--minecrft-5za.com
 0.0.0.0 xn--mymonro-x8a.com
 0.0.0.0 xn--s-eca.net
-0.0.0.0 xn--srahah-bua.eu
 0.0.0.0 xn--srahah-bua.pl
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zcrt01bvsr.com
@@ -22781,7 +22760,6 @@
 0.0.0.0 yourlegacy.club
 0.0.0.0 yourprivacy.icu
 0.0.0.0 yourquickads.com
-0.0.0.0 youshouldclick.us
 0.0.0.0 youtube-sex.club
 0.0.0.0 youtube.adlook.me
 0.0.0.0 youyong.gq
@@ -22798,6 +22776,7 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yth87.top
 0.0.0.0 yttestsite.com
+0.0.0.0 ytxuslppbj.com
 0.0.0.0 yucnvu.live
 0.0.0.0 yuculie.com
 0.0.0.0 yuedu.iqiyi.com
