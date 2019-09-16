@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.258
-# Release: 258
-# Entries: 22,897
+# Version: 19.09.259
+# Release: 259
+# Entries: 22,903
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 15 Sep 19 20:00:15
+# Updated: Mon, 16 Sep 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2606,7 +2606,6 @@
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
-0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserverapi.ruca.tech
 0.0.0.0 adservercheck.net
@@ -4421,6 +4420,7 @@
 0.0.0.0 ato.mx
 0.0.0.0 atom.adjust.com
 0.0.0.0 atomex.net
+0.0.0.0 atontothersper.pro
 0.0.0.0 atrack6.bid
 0.0.0.0 atracking-auto.appflood.com
 0.0.0.0 atracking.appflood.com
@@ -4878,6 +4878,7 @@
 0.0.0.0 batbuilding.com
 0.0.0.0 batch.upsight-api.com
 0.0.0.0 batchlogging4.truecaller.com
+0.0.0.0 bathouph.net
 0.0.0.0 batmobi.net
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 bav.baidu.com
@@ -5528,6 +5529,7 @@
 0.0.0.0 bwp.download.com
 0.0.0.0 bwsru.com
 0.0.0.0 bx6tok.xyz
+0.0.0.0 bxzjytu2elwokof.ru
 0.0.0.0 by-clips.com
 0.0.0.0 by.advertising.com
 0.0.0.0 by.mp3load.biz
@@ -7262,7 +7264,6 @@
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
 0.0.0.0 d2nn3xyicdpsrf.cloudfront.net
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
-0.0.0.0 d2r55xnwy6nx47.cloudfront.net
 0.0.0.0 d3.video-ak.cdn.spotify.com
 0.0.0.0 d3.yengo.com
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
@@ -7679,6 +7680,7 @@
 0.0.0.0 discover.outbrain.com
 0.0.0.0 discoverapps.appia.com
 0.0.0.0 discovery.outbrain.com
+0.0.0.0 discoveryad.castoola.tv
 0.0.0.0 discreetfield.com
 0.0.0.0 discuss.appsflyer.com
 0.0.0.0 discuz.gtimg.cn
@@ -12634,7 +12636,6 @@
 0.0.0.0 mineqrl.net
 0.0.0.0 miner.ad
 0.0.0.0 miner.center
-0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.rocks
 0.0.0.0 minerad.com
 0.0.0.0 minercircle.com
@@ -13526,6 +13527,7 @@
 0.0.0.0 normkela.com
 0.0.0.0 nornelis.pw
 0.0.0.0 norsp.com
+0.0.0.0 norteevu.com
 0.0.0.0 north-train.com
 0.0.0.0 northerns.site
 0.0.0.0 northfacea.club
@@ -15407,6 +15409,7 @@
 0.0.0.0 qnkiueuflzdold.com
 0.0.0.0 qnsr.com
 0.0.0.0 qp.si
+0.0.0.0 qqipjtzgo.com
 0.0.0.0 qqonline365.club
 0.0.0.0 qrlmining.info
 0.0.0.0 qrlsx.com
@@ -17237,7 +17240,6 @@
 0.0.0.0 sslad.adcash.com
 0.0.0.0 sslcheckerapi.com
 0.0.0.0 sslgateways.com
-0.0.0.0 sso.anbtr.com
 0.0.0.0 ssp-3-9f58.trnox.com
 0.0.0.0 ssp.adacts.com
 0.0.0.0 ssp.adinch.com
@@ -19975,6 +19977,7 @@
 0.0.0.0 vast-west.bttrack.com
 0.0.0.0 vast.adsafeprotected.com
 0.0.0.0 vast.adsubon.com
+0.0.0.0 vast.adxoo.com
 0.0.0.0 vast.w.inmobi.com
 0.0.0.0 vastcdn.outbrain.com
 0.0.0.0 vastpixel.adsafeprotected.com
@@ -20229,6 +20232,7 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vosteran.com
 0.0.0.0 vosteransearch.com
+0.0.0.0 vouzgwau.com
 0.0.0.0 vp-www.addthis.com
 0.0.0.0 vp.video.uodoo.com
 0.0.0.0 vp2-www.addthis.com
@@ -21920,6 +21924,7 @@
 0.0.0.0 www.qlitics.com
 0.0.0.0 www.qlvopwghgwa.com
 0.0.0.0 www.qnkiueuflzdold.com
+0.0.0.0 www.qqipjtzgo.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
@@ -22279,6 +22284,7 @@
 0.0.0.0 www.vop.it
 0.0.0.0 www.vosteran.com
 0.0.0.0 www.vosteransearch.com
+0.0.0.0 www.vouzgwau.com
 0.0.0.0 www.vpn-scanning0.site
 0.0.0.0 www.vqfoxxxnunqkgm.com
 0.0.0.0 www.vrbatanalyzer.com
