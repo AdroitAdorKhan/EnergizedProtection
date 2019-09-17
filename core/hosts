@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.259
-# Release: 259
-# Entries: 22,903
+# Version: 19.09.260
+# Release: 260
+# Entries: 22,914
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 16 Sep 19 20:00:18
+# Updated: Tue, 17 Sep 19 20:00:29
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -810,6 +810,7 @@
 0.0.0.0 acrididae.com
 0.0.0.0 acridtwist.com
 0.0.0.0 acrmbjkk6qc5utby.pro
+0.0.0.0 acs-pharmacy.com
 0.0.0.0 acs.adtdp.com
 0.0.0.0 acs.maribacaberita.com
 0.0.0.0 acsseo.com
@@ -5688,6 +5689,7 @@
 0.0.0.0 calendar.wisemana.com
 0.0.0.0 californiapremiumrs.com
 0.0.0.0 caligula.pro
+0.0.0.0 callaghanes.online
 0.0.0.0 callandwin-argentina.howingo.com
 0.0.0.0 callandwin-bangla.howingo.com
 0.0.0.0 callandwin-brasil.howingo.com
@@ -5837,6 +5839,7 @@
 0.0.0.0 catalog.adgear.com
 0.0.0.0 catchtheclick.com
 0.0.0.0 catchyoutube.toptools100.com
+0.0.0.0 cattienda.online
 0.0.0.0 catwrite.com
 0.0.0.0 cavalcare.fr
 0.0.0.0 cawellreceived.ga
@@ -6192,7 +6195,6 @@
 0.0.0.0 chairscrack.com
 0.0.0.0 chaleco.mallstosale.com
 0.0.0.0 chambb.com
-0.0.0.0 chameleon.ad
 0.0.0.0 chango.com
 0.0.0.0 channel1vids.com
 0.0.0.0 channelintelligence.com
@@ -7027,6 +7029,7 @@
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creafi.com
 0.0.0.0 creation.conversation-memory.com
+0.0.0.0 creativawebperu.es
 0.0.0.0 creative-services.tapad.com
 0.0.0.0 creative-serving.com
 0.0.0.0 creative.adform.com
@@ -9091,6 +9094,7 @@
 0.0.0.0 frdaew.gq
 0.0.0.0 frederickcountygives.ngo
 0.0.0.0 fredperrycostly.com
+0.0.0.0 fredperryes.online
 0.0.0.0 free-banners.com
 0.0.0.0 free-cloud-storage.com
 0.0.0.0 free-mind-movies.info
@@ -11816,6 +11820,7 @@
 0.0.0.0 livingtheprinciples.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 ljbbq.com
+0.0.0.0 ljclpxstore.com
 0.0.0.0 lk9.timcaffe.it
 0.0.0.0 lkqd.com
 0.0.0.0 lkqd.net
@@ -12291,6 +12296,7 @@
 0.0.0.0 marktplaats.demdex.net
 0.0.0.0 maroonspider.com
 0.0.0.0 marsads.com
+0.0.0.0 martensbootdeals.club
 0.0.0.0 marticula.com
 0.0.0.0 martinbootsalestores.site
 0.0.0.0 marvel.appia.com
@@ -13560,6 +13566,7 @@
 0.0.0.0 novem.pl
 0.0.0.0 novin.com
 0.0.0.0 novostimira.biz
+0.0.0.0 nowco.online
 0.0.0.0 nowlooking.net
 0.0.0.0 nowspots.com
 0.0.0.0 noxagile.duapp.com
@@ -18064,6 +18071,7 @@
 0.0.0.0 tecphones.com
 0.0.0.0 tedbakerdeals.online
 0.0.0.0 tedbakerlondon.top
+0.0.0.0 tedbakersale.online
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 teenyvolcano.com
@@ -18092,7 +18100,6 @@
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleriumads-x64zcsqq.netdna-ssl.com
-0.0.0.0 teliad.de
 0.0.0.0 telwrite.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 temelio.com
@@ -19284,6 +19291,7 @@
 0.0.0.0 train.uodoo.com
 0.0.0.0 traktrafficflow.com
 0.0.0.0 traktum.com
+0.0.0.0 trangoventa.online
 0.0.0.0 tranquilside.com
 0.0.0.0 transpera.com
 0.0.0.0 transreten.com
@@ -19903,6 +19911,7 @@
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utp.ucweb.com
 0.0.0.0 uttermosthobbies.com
+0.0.0.0 uucovers.com
 0.0.0.0 uupool.cn
 0.0.0.0 uvrk0.voluumtrk.com
 0.0.0.0 uwsxz.com
@@ -19964,6 +19973,7 @@
 0.0.0.0 vans.speedera.net
 0.0.0.0 vansaa.com
 0.0.0.0 vansbe.com
+0.0.0.0 vanskc.com
 0.0.0.0 vanskf.com
 0.0.0.0 vansvip.online
 0.0.0.0 vansxc.com
@@ -20676,6 +20686,7 @@
 0.0.0.0 wobeckoat.com
 0.0.0.0 wohnkueche-hd.de
 0.0.0.0 woinvosndv.pw
+0.0.0.0 wolaile.online
 0.0.0.0 wolve.pro
 0.0.0.0 womanear.com
 0.0.0.0 women-seed-2.dynu.net
