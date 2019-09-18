@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.260
-# Release: 260
-# Entries: 22,914
+# Version: 19.09.261
+# Release: 261
+# Entries: 22,912
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 17 Sep 19 20:00:29
+# Updated: Wed, 18 Sep 19 20:00:43
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4351,7 +4351,6 @@
 0.0.0.0 asicsgelcontend4.com
 0.0.0.0 asicsreduceri.com
 0.0.0.0 asicssport.club
-0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 asotrack1.fluentmobile.com
 0.0.0.0 asp.animelab.com
 0.0.0.0 asplexmedia.adk2x.com
@@ -6182,7 +6181,6 @@
 0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 cf.ushareit.com
 0.0.0.0 cf.video-ak.cdn.spotify.com
-0.0.0.0 cfcd.duckdns.org
 0.0.0.0 cfceu.duckdns.org
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.flurry.com
