@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.261
-# Release: 261
-# Entries: 22,912
+# Version: 19.09.262
+# Release: 262
+# Entries: 22,911
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 18 Sep 19 20:00:43
+# Updated: Thu, 19 Sep 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5832,6 +5832,8 @@
 0.0.0.0 cast-trk-j.adtdp.com
 0.0.0.0 cast-wn-j.adtdp.com
 0.0.0.0 casterist.info
+0.0.0.0 castoola.com
+0.0.0.0 castoola.tv.lan
 0.0.0.0 castplatform.com
 0.0.0.0 casyopea.es
 0.0.0.0 cata.ero-advertising.com
@@ -5966,6 +5968,7 @@
 0.0.0.0 cdn.bttrack.comcdn.bttrack.com
 0.0.0.0 cdn.callbackkiller.com
 0.0.0.0 cdn.callibri.ru
+0.0.0.0 cdn.castoola.com
 0.0.0.0 cdn.cdn000.club
 0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn.clickadu.com
@@ -5979,6 +5982,7 @@
 0.0.0.0 cdn.da.oipzyrzffum.ovh
 0.0.0.0 cdn.digiad.co
 0.0.0.0 cdn.directtrk.com
+0.0.0.0 cdn.discoveryad.castoola.tv
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.domdex.com
 0.0.0.0 cdn.elasticad.net
@@ -9411,7 +9415,6 @@
 0.0.0.0 getshopmall.com
 0.0.0.0 getslimfast.info
 0.0.0.0 getstarted.trafficjunky.com
-0.0.0.0 gettate.racing
 0.0.0.0 gettrk.vidible.tv
 0.0.0.0 getunlocked.com
 0.0.0.0 gfe.nvidia.com
@@ -18560,7 +18563,6 @@
 0.0.0.0 track.boomoffer07.com
 0.0.0.0 track.boyspass.com
 0.0.0.0 track.brbbf.com
-0.0.0.0 track.businesstrenders.com
 0.0.0.0 track.bustykimberxxx.com
 0.0.0.0 track.bustysolos.com
 0.0.0.0 track.buyma.com
@@ -22947,9 +22949,6 @@
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zx9s.smcheck.org
 0.0.0.0 zy16eoat1w.com
-0.0.0.0 zymerget.faith
-0.0.0.0 zymerget.stream
-0.0.0.0 zymerget.win
 0.0.0.0 zyora.co
 0.0.0.0 zypenetwork.com
 0.0.0.0 zyxow.com
