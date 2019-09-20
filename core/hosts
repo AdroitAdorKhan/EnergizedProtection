@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.262
-# Release: 262
-# Entries: 22,911
+# Version: 19.09.263
+# Release: 263
+# Entries: 22,909
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 Sep 19 20:00:16
+# Updated: Fri, 20 Sep 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -15446,7 +15446,6 @@
 0.0.0.0 questionsforus.xyz
 0.0.0.0 questus.com
 0.0.0.0 quickcash-system.com
-0.0.0.0 quickmessage.us
 0.0.0.0 quicksandear.com
 0.0.0.0 quicktask.xyz
 0.0.0.0 quienlainvito.es
@@ -22143,7 +22142,6 @@
 0.0.0.0 www.superlogout.github.io
 0.0.0.0 www.supersonicads.com
 0.0.0.0 www.supertechsolution.com
-0.0.0.0 www.supload.com
 0.0.0.0 www.supportmg.com
 0.0.0.0 www.supportoid.com
 0.0.0.0 www.supportpcclean.com
