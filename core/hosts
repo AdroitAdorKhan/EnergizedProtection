@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.263
-# Release: 263
-# Entries: 22,909
+# Version: 19.09.264
+# Release: 264
+# Entries: 22,921
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 Sep 19 20:00:15
+# Updated: Sat, 21 Sep 19 20:00:29
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -699,6 +699,7 @@
 0.0.0.0 aa.trafficjunky.net
 0.0.0.0 aa.video-ak.cdn.spotify.com
 0.0.0.0 aa53df329975c325.com
+0.0.0.0 aaashoeschina.com
 0.0.0.0 aaddzz.com
 0.0.0.0 aamobile.info
 0.0.0.0 aan.amazon.com
@@ -4427,6 +4428,7 @@
 0.0.0.0 atrcoikdyagv.com
 0.0.0.0 atresadvertising.com
 0.0.0.0 atrk.alexametrics.com
+0.0.0.0 atsincstore.com
 0.0.0.0 attacketslovern.info
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
@@ -4620,6 +4622,7 @@
 0.0.0.0 baidu.co.th
 0.0.0.0 baiduccdn1.com
 0.0.0.0 baidustatic.com
+0.0.0.0 bailarenmadrid.es
 0.0.0.0 baipagid.com
 0.0.0.0 bajarlo.net
 0.0.0.0 balamio.es
@@ -4954,6 +4957,7 @@
 0.0.0.0 beauty-tea.com
 0.0.0.0 beautycamera.r.xoxknct.com
 0.0.0.0 beautycamera.s.xoxknct.com
+0.0.0.0 beautyglazedcosmetics.com
 0.0.0.0 bebe-a-la-classe.com
 0.0.0.0 bebi.com
 0.0.0.0 becanium.com
@@ -5841,6 +5845,7 @@
 0.0.0.0 catchtheclick.com
 0.0.0.0 catchyoutube.toptools100.com
 0.0.0.0 cattienda.online
+0.0.0.0 catventas.online
 0.0.0.0 catwrite.com
 0.0.0.0 cavalcare.fr
 0.0.0.0 cawellreceived.ga
@@ -8475,6 +8480,7 @@
 0.0.0.0 ers.ero-advertising.com
 0.0.0.0 erssamplet.pro
 0.0.0.0 eruuludam.mn
+0.0.0.0 ervzx.com
 0.0.0.0 erxalim.xyz
 0.0.0.0 es.cxense.com
 0.0.0.0 es.ero-advertising.com
@@ -9169,6 +9175,7 @@
 0.0.0.0 ftp.us.adform.com
 0.0.0.0 ftrk.crazyegg.com
 0.0.0.0 ftv-publicite.fr
+0.0.0.0 fuapuasale.com
 0.0.0.0 fubclub.com
 0.0.0.0 fucard.ushareit.com
 0.0.0.0 fuckaneighbor.com
@@ -9691,6 +9698,7 @@
 0.0.0.0 greerlies.pro
 0.0.0.0 greetham.net
 0.0.0.0 greetzebra.com
+0.0.0.0 gremiperruqueries.es
 0.0.0.0 gretzalz.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 greystripe.com
@@ -11450,6 +11458,7 @@
 0.0.0.0 kiplingico.online
 0.0.0.0 kiplingshop.club
 0.0.0.0 kippo.eu
+0.0.0.0 kirrinmall.com
 0.0.0.0 kissdoujin.com
 0.0.0.0 kitchenessentials.club
 0.0.0.0 kitnmedia.com
@@ -12506,6 +12515,7 @@
 0.0.0.0 melonmail.melon.com.au
 0.0.0.0 meltdsp.com
 0.0.0.0 memarket.biz
+0.0.0.0 membrillayasociados.es
 0.0.0.0 memeapi.apk.v-mate.mobi
 0.0.0.0 memeglobal.com
 0.0.0.0 memorialstevejobs.org
@@ -15969,6 +15979,7 @@
 0.0.0.0 robustbelieve.com
 0.0.0.0 rockabox.co
 0.0.0.0 rocketfuel.com
+0.0.0.0 rockhonor.com
 0.0.0.0 rocks.io
 0.0.0.0 rockwall.investments
 0.0.0.0 rodhaengefdr.info
@@ -19335,6 +19346,7 @@
 0.0.0.0 trends-a.op-mobile.opera.com
 0.0.0.0 trends.mobile.sina.cn
 0.0.0.0 trends.revcontent.com
+0.0.0.0 trendshoe.club
 0.0.0.0 trendswa.com
 0.0.0.0 trenpyle.com
 0.0.0.0 trenzm.com
