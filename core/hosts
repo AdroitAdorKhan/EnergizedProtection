@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.264
-# Release: 264
-# Entries: 22,921
+# Version: 19.09.265
+# Release: 265
+# Entries: 22,920
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 21 Sep 19 20:00:29
+# Updated: Sun, 22 Sep 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -13900,7 +13900,6 @@
 0.0.0.0 openwifi.ucweb.com
 0.0.0.0 openx-rtb.adfonic.net
 0.0.0.0 openx.angelsgroup.org.uk
-0.0.0.0 openx.blindferret.com
 0.0.0.0 openx.com
 0.0.0.0 openx.ennaharonline.com
 0.0.0.0 openx.jp
