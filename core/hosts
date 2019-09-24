@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.266
-# Release: 266
-# Entries: 22,926
+# Version: 19.09.267
+# Release: 267
+# Entries: 22,935
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 23 Sep 19 20:00:47
+# Updated: Tue, 24 Sep 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5110,12 +5110,14 @@
 0.0.0.0 bigdata.adsunflower.com
 0.0.0.0 bigdata.advmob.cn
 0.0.0.0 bigdate.biz
+0.0.0.0 bigdonsbbq.com
 0.0.0.0 bigfarm.goodgamestudios.com
 0.0.0.0 bigmobileads.com
 0.0.0.0 bigpulpit.com
 0.0.0.0 bigsharkmedia.com
 0.0.0.0 bigtasy.gq
 0.0.0.0 bigworldsports.com
+0.0.0.0 bijoux.resutaurant.com
 0.0.0.0 bikinibody.co.uk
 0.0.0.0 billboard.cz
 0.0.0.0 billhamilton.blog
@@ -10160,6 +10162,7 @@
 0.0.0.0 hotjatt.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
+0.0.0.0 hotong.store
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotshoesshop.top
 0.0.0.0 hotstar.pubnub.net
@@ -11688,6 +11691,7 @@
 0.0.0.0 letrenhegenmi.pro
 0.0.0.0 letrightertrentors.pro
 0.0.0.0 letsgoshopping.tk
+0.0.0.0 letsnautic.es
 0.0.0.0 lettucelimit.com
 0.0.0.0 letv.allyes.com
 0.0.0.0 levelrate.de
@@ -11875,6 +11879,7 @@
 0.0.0.0 lodeo-win.adtdp.com
 0.0.0.0 lodsjsr.ga
 0.0.0.0 lodwgqjcflr.com
+0.0.0.0 lofentous.com
 0.0.0.0 log-01.ec2.us.east.liverail.com
 0.0.0.0 log-b.liverail.com
 0.0.0.0 log-ingestion.samsungacr.com
@@ -12278,6 +12283,7 @@
 0.0.0.0 mapspublications.us
 0.0.0.0 marchex.com
 0.0.0.0 marfeel.com
+0.0.0.0 margarite.es
 0.0.0.0 mariadeabreu.ga
 0.0.0.0 mariadeabreu.gq
 0.0.0.0 marial.pro
@@ -12538,6 +12544,7 @@
 0.0.0.0 mercurio.exsigma.com
 0.0.0.0 mergemining.com
 0.0.0.0 mermaidswimco.com
+0.0.0.0 merrellden.online
 0.0.0.0 merrelleco.online
 0.0.0.0 merrellian.online
 0.0.0.0 merrescarpe.online
@@ -16304,6 +16311,7 @@
 0.0.0.0 salomk.com
 0.0.0.0 salomon-hu.com
 0.0.0.0 salomoncl.online
+0.0.0.0 salomoncle.online
 0.0.0.0 salomonechaussure.com
 0.0.0.0 salomoneschuhe.com
 0.0.0.0 salomoneshoes.online
@@ -17723,6 +17731,7 @@
 0.0.0.0 sumwan.com
 0.0.0.0 sunfeed.me
 0.0.0.0 sunmedia.net
+0.0.0.0 sunnyome.com
 0.0.0.0 sunrisepcsupport.com
 0.0.0.0 sunrisepcsupport.in
 0.0.0.0 suntrustlb.online
