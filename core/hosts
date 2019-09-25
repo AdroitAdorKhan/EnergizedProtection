@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.267
-# Release: 267
-# Entries: 22,935
+# Version: 19.09.268
+# Release: 268
+# Entries: 22,933
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 24 Sep 19 20:00:20
+# Updated: Wed, 25 Sep 19 20:00:33
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2580,7 +2580,6 @@
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adserver.pazienti.it
 0.0.0.0 adserver.pl
-0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.portugalmail.pt
 0.0.0.0 adserver.pressboard.ca
@@ -18424,7 +18423,6 @@
 0.0.0.0 tools1000.com
 0.0.0.0 toolzcz.xyz
 0.0.0.0 toothbrushnote.com
-0.0.0.0 top-casting-termine.de
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-site-list.com
 0.0.0.0 top.cherisht.com
