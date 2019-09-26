@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.268
-# Release: 268
-# Entries: 22,933
+# Version: 19.09.269
+# Release: 269
+# Entries: 22,932
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 25 Sep 19 20:00:33
+# Updated: Thu, 26 Sep 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -14059,7 +14059,6 @@
 0.0.0.0 p-tky-ebs.adsymptotic.com
 0.0.0.0 p-v2.presage.io
 0.0.0.0 p.addthis.com
-0.0.0.0 p.adpdx.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 p.algovid.com
 0.0.0.0 p.appbrain.com
