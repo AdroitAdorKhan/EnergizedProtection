@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.269
-# Release: 269
-# Entries: 22,932
+# Version: 19.09.270
+# Release: 270
+# Entries: 22,931
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 26 Sep 19 20:00:18
+# Updated: Fri, 27 Sep 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -16367,7 +16367,6 @@
 0.0.0.0 sbaffiliates.com
 0.0.0.0 sbcpower.com
 0.0.0.0 sbeacon.sina.com.cn
-0.0.0.0 sbhmn-miner.com
 0.0.0.0 sbobet-info.com
 0.0.0.0 sbs-ad.com
 0.0.0.0 sbx.pagesjaunes.fr
