@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.270
-# Release: 270
-# Entries: 22,931
+# Version: 19.09.271
+# Release: 271
+# Entries: 22,929
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 Sep 19 20:00:17
+# Updated: Sat, 28 Sep 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -7726,7 +7726,6 @@
 0.0.0.0 ditwrite.com
 0.0.0.0 dj-updates.com
 0.0.0.0 djfbgghicgigeiacecf.ru
-0.0.0.0 djfhwosjck.bid
 0.0.0.0 djhhy.com
 0.0.0.0 djtflbt20bdde.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
@@ -13253,7 +13252,6 @@
 0.0.0.0 nai.outbrain.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
-0.0.0.0 najsiejfnc.win
 0.0.0.0 nala.engine.adbooth.com
 0.0.0.0 nameketathar.pro
 0.0.0.0 nametraff.com
