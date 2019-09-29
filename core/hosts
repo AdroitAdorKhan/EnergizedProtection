@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.271
-# Release: 271
-# Entries: 22,929
+# Version: 19.09.272
+# Release: 272
+# Entries: 22,857
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 28 Sep 19 20:00:17
+# Updated: Sun, 29 Sep 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2869,7 +2869,6 @@
 0.0.0.0 adsflame.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsfundi.com
-0.0.0.0 adsfundi.net
 0.0.0.0 adsfuse.com
 0.0.0.0 adsh.m.taobao.com
 0.0.0.0 adshare.toutiao.com
@@ -3197,7 +3196,6 @@
 0.0.0.0 advombat.ru
 0.0.0.0 advplatform.net
 0.0.0.0 advs.brznetwork.com
-0.0.0.0 advserver.xyz
 0.0.0.0 advsmedia.com
 0.0.0.0 advstat.net
 0.0.0.0 adw.ero-advertising.com
@@ -4113,7 +4111,6 @@
 0.0.0.0 apigate.centili.com
 0.0.0.0 apim.analyticsecurity.com
 0.0.0.0 apips.pubmatic.com
-0.0.0.0 apis.adsymptotic.com
 0.0.0.0 apisandbox.trafficfabrik.com
 0.0.0.0 apissug.ucweb.com
 0.0.0.0 apiuccenter.ucweb.com
@@ -4349,7 +4346,6 @@
 0.0.0.0 asicpool.com
 0.0.0.0 asicpool.info
 0.0.0.0 asicpool.org
-0.0.0.0 asicpool.us
 0.0.0.0 asicsgelcontend4.com
 0.0.0.0 asicsreduceri.com
 0.0.0.0 asicssport.club
@@ -5630,7 +5626,6 @@
 0.0.0.0 c2.video-ak.cdn.spotify.com
 0.0.0.0 c2hit.tut.by
 0.0.0.0 c2i-cdn.startappnetwork.com
-0.0.0.0 c2i.startappnetwork.com
 0.0.0.0 c2s-dynadmic.liverail.com
 0.0.0.0 c2s-fbaudience.liverail.com
 0.0.0.0 c2s-iponweb.liverail.com
@@ -7247,7 +7242,6 @@
 0.0.0.0 d.r10.mopub.com
 0.0.0.0 d.reddit.com
 0.0.0.0 d.scorecardresearch.com
-0.0.0.0 d.sdgndsfajfsdf.ltd
 0.0.0.0 d.skimresources.com
 0.0.0.0 d.smopy.com
 0.0.0.0 d.tds.adlabs.ru
@@ -7352,14 +7346,12 @@
 0.0.0.0 data-ingress-ae1.tapad.com
 0.0.0.0 data-ingress-euw1.tapad.com
 0.0.0.0 data-ipv6.flurry.com
-0.0.0.0 data-service.mopub.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.adbuddiz.com
 0.0.0.0 data.adroll.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.agkn.com
-0.0.0.0 data.api.kaffnet.com
 0.0.0.0 data.brightcove.com
 0.0.0.0 data.camscanner.com
 0.0.0.0 data.cnn.com
@@ -9728,7 +9720,6 @@
 0.0.0.0 gs80.ronatorda.com
 0.0.0.0 gsimon.edu.free.fr
 0.0.0.0 gsmtop.net
-0.0.0.0 gsn.chameleon.ad
 0.0.0.0 gsspat.jp
 0.0.0.0 gssprt.jp
 0.0.0.0 gstatic-as.pro
@@ -10233,7 +10224,6 @@
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtadoquesada.es
 0.0.0.0 hurtteeth.com
-0.0.0.0 hushmine.pro
 0.0.0.0 huskers.nmn.speedera.net
 0.0.0.0 hvh.notifications.website
 0.0.0.0 hw-cdn-ap.trafficjunky.net
@@ -10848,7 +10838,6 @@
 0.0.0.0 info.appia.com
 0.0.0.0 info.cxense.com
 0.0.0.0 info.flurry.com
-0.0.0.0 info.inmobi.com
 0.0.0.0 info.muxy.io
 0.0.0.0 info.sbobet.com
 0.0.0.0 info.umeng.com
@@ -11119,7 +11108,6 @@
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivylanefloristry.com
 0.0.0.0 ivypixel.com
-0.0.0.0 iwanttoearn.money
 0.0.0.0 iwb-deployer-1.sys.adgear.com
 0.0.0.0 ixdqmmovnvbkl.com
 0.0.0.0 ixnp.com
@@ -11540,7 +11528,6 @@
 0.0.0.0 kzhav.voluumtrk.com
 0.0.0.0 l-v1.presage.io
 0.0.0.0 l.ad4.com.cn
-0.0.0.0 l.dlx.addthis.com
 0.0.0.0 l.erovideo.by
 0.0.0.0 l.funzone.by
 0.0.0.0 l.getxml.org
@@ -11842,7 +11829,6 @@
 0.0.0.0 lkqd.net
 0.0.0.0 ll.atdmt.com
 0.0.0.0 llamamegratis.es
-0.0.0.0 llpstream.atdmt.com
 0.0.0.0 lmjxrhph.com
 0.0.0.0 lnboxf400.gdn
 0.0.0.0 load.jsecoin.com
@@ -12203,7 +12189,6 @@
 0.0.0.0 madbbs.org
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
-0.0.0.0 madmining.club
 0.0.0.0 madnet.ru
 0.0.0.0 mads.advertising.com
 0.0.0.0 mads.amazon-adsystem.com
@@ -14218,7 +14203,6 @@
 0.0.0.0 p2pool.neocities.org
 0.0.0.0 p2pool.org
 0.0.0.0 p2pool.site
-0.0.0.0 p2pool.soon.it
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2poolmining.de
 0.0.0.0 p2poolmining.net
@@ -15036,7 +15020,6 @@
 0.0.0.0 postback.supersonicads.com
 0.0.0.0 postitial.com
 0.0.0.0 postrelease.com
-0.0.0.0 potenza.cz
 0.0.0.0 power.vuer.net
 0.0.0.0 powerad.ai
 0.0.0.0 poweradvertising.co.uk
@@ -15618,8 +15601,6 @@
 0.0.0.0 rbfr-rbs.com
 0.0.0.0 rbgpb.com
 0.0.0.0 rbius.co
-0.0.0.0 rbklong.info
-0.0.0.0 rbkshort.info
 0.0.0.0 rbnes.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbnt9.voluumtrk.com
@@ -15869,7 +15850,6 @@
 0.0.0.0 resonate.com
 0.0.0.0 resource.clinkad.com
 0.0.0.0 resources.infolinks.com
-0.0.0.0 resources.inmobi.com
 0.0.0.0 resources.mixpanel.com
 0.0.0.0 respecials.com
 0.0.0.0 responsidelok.info
@@ -17093,7 +17073,6 @@
 0.0.0.0 southamerica.email
 0.0.0.0 sovrn.com
 0.0.0.0 sovrn.sync.go.sonobi.com
-0.0.0.0 soyminero.es
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp.fastclick.net
 0.0.0.0 sp.popcash.net
@@ -17427,7 +17406,6 @@
 0.0.0.0 static.appstore.baidu.co.th
 0.0.0.0 static.brightcove.com
 0.0.0.0 static.cdn.adblade.com
-0.0.0.0 static.chameleon.ad
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clickadu.com
 0.0.0.0 static.clmbtech.com
@@ -18132,7 +18110,6 @@
 0.0.0.0 tensitionschoo.club
 0.0.0.0 teosredic.com
 0.0.0.0 teracreative.com
-0.0.0.0 teracycle.net
 0.0.0.0 termerdistice.pro
 0.0.0.0 teronemerom.info
 0.0.0.0 terraclicks.com
@@ -19900,7 +19877,6 @@
 0.0.0.0 userreplay.com
 0.0.0.0 users.ero-advertising.com
 0.0.0.0 users.quantumgraph.com
-0.0.0.0 usetting.lau1.uae.uc.cn
 0.0.0.0 usevideo.adsrvr.org
 0.0.0.0 usp1.baidu.com
 0.0.0.0 usr.mgid.com
@@ -20105,7 +20081,6 @@
 0.0.0.0 vidcpm.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-ads.rubiconproject.com
-0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video-cdn.wshareit.com
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 video-loader.com
@@ -21096,7 +21071,6 @@
 0.0.0.0 www.analytics.ero-advertising.com
 0.0.0.0 www.analytics.icons8.com
 0.0.0.0 www.analytics.picsart.com
-0.0.0.0 www.anbalxkcpwa.com
 0.0.0.0 www.andoidtraffic.ru
 0.0.0.0 www.andriod.co
 0.0.0.0 www.androidm.info
@@ -21151,7 +21125,6 @@
 0.0.0.0 www.avantlink.com
 0.0.0.0 www.avocarrot.com
 0.0.0.0 www.avsponsor.biz
-0.0.0.0 www.awcpmsaiv.com
 0.0.0.0 www.awin1.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.axiom-project.eu
@@ -21199,7 +21172,6 @@
 0.0.0.0 www.betsonsport.ru
 0.0.0.0 www.beylikduzumasajmutluson.com
 0.0.0.0 www.bfast.com
-0.0.0.0 www.bfeofwzszuis.com
 0.0.0.0 www.bid.axiatraders.com
 0.0.0.0 www.bid.grandonmedia.com
 0.0.0.0 www.bidgear.com
@@ -21218,8 +21190,6 @@
 0.0.0.0 www.blogg.website
 0.0.0.0 www.blogoman-24.com
 0.0.0.0 www.bluekai.com
-0.0.0.0 www.bmdjnvorps.com
-0.0.0.0 www.bnqfbcnzdt.com
 0.0.0.0 www.bnserving.com
 0.0.0.0 www.bodloft.com
 0.0.0.0 www.boomoffer07.com
@@ -21247,7 +21217,6 @@
 0.0.0.0 www.camsoda.com
 0.0.0.0 www.casinoportugal.pt
 0.0.0.0 www.cata.ero-advertising.com
-0.0.0.0 www.cbzjukldosooj.com
 0.0.0.0 www.cdn.adblade.com
 0.0.0.0 www.cdn.atdmt.com
 0.0.0.0 www.cdn.beginads.com
@@ -21312,7 +21281,6 @@
 0.0.0.0 www.cpm20.com
 0.0.0.0 www.cpsee.com
 0.0.0.0 www.cpu2cash.link
-0.0.0.0 www.cqpmmfxvibjr.com
 0.0.0.0 www.crashlytics.com
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
@@ -21335,7 +21303,6 @@
 0.0.0.0 www.daaa.ero-advertising.com
 0.0.0.0 www.daea.ero-advertising.com
 0.0.0.0 www.daia.ero-advertising.com
-0.0.0.0 www.dalqybwdy.com
 0.0.0.0 www.dat2.ero-advertising.com
 0.0.0.0 www.data-days.com
 0.0.0.0 www.data-ero-advertising.com
@@ -21354,7 +21321,6 @@
 0.0.0.0 www.dbxqk.voluumtrk.com
 0.0.0.0 www.definitimedia.com
 0.0.0.0 www.deta.ero-advertising.com
-0.0.0.0 www.deuqpxrht.com
 0.0.0.0 www.devblaze.win
 0.0.0.0 www.devbrowse.win
 0.0.0.0 www.devoknet.ru
@@ -21403,7 +21369,6 @@
 0.0.0.0 www.eeopet.site
 0.0.0.0 www.effective-ads.com
 0.0.0.0 www.egorlz.xyz
-0.0.0.0 www.egqvppwseieyu.com
 0.0.0.0 www.el-lada.com
 0.0.0.0 www.elasticad.com
 0.0.0.0 www.elasticsystems.com
@@ -21423,7 +21388,6 @@
 0.0.0.0 www.exoclick.com
 0.0.0.0 www.ext.privacyassistant.net
 0.0.0.0 www.ezonlinesupport.com
-0.0.0.0 www.ezqkuwqlvnv.com
 0.0.0.0 www.f0kuf.voluumtrk.com
 0.0.0.0 www.facebookwiki.net
 0.0.0.0 www.fakehub.com
@@ -21468,7 +21432,6 @@
 0.0.0.0 www.frrbsrbs.com
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.ft95.org
-0.0.0.0 www.ftxmicgc.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.funnwebs.com
 0.0.0.0 www.funnybox.mobi
@@ -21527,7 +21490,6 @@
 0.0.0.0 www.greerlies.pro
 0.0.0.0 www.gsn.chameleon.ad
 0.0.0.0 www.guardwebext.xyz
-0.0.0.0 www.guknpywmxk.com
 0.0.0.0 www.gulugulutest.com
 0.0.0.0 www.gunungemas.cc
 0.0.0.0 www.gus.host
@@ -21581,8 +21543,6 @@
 0.0.0.0 www.ico.bitcomo.com
 0.0.0.0 www.idspaces.ero-advertising.com
 0.0.0.0 www.iesnare.com
-0.0.0.0 www.ifbwyogrfjo.com
-0.0.0.0 www.ihgwekwwxbuxy.com
 0.0.0.0 www.ijsl1.voluumtrk.com
 0.0.0.0 www.ikiweb.it
 0.0.0.0 www.im.mobsweet.com
@@ -21607,7 +21567,6 @@
 0.0.0.0 www.inwind.ws
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioh9.com
-0.0.0.0 www.iojpbletb.com
 0.0.0.0 www.iplogger.com
 0.0.0.0 www.iplogger.org
 0.0.0.0 www.iplogger.ru
@@ -21633,13 +21592,10 @@
 0.0.0.0 www.izmirburak.com
 0.0.0.0 www.j1alc.voluumtrk.com
 0.0.0.0 www.j1cw9.voluumtrk2.com
-0.0.0.0 www.jbzdpixig.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jetbytes.com
-0.0.0.0 www.jgjvhtnshqjc.com
 0.0.0.0 www.jmdsolutions.yolasite.com
 0.0.0.0 www.jobsgg.com
-0.0.0.0 www.jorsdbphuyng.com
 0.0.0.0 www.jounrop.com
 0.0.0.0 www.joydownload.com
 0.0.0.0 www.joyfulgame.mobi
@@ -21677,11 +21633,9 @@
 0.0.0.0 www.leadcapitalcrp.com
 0.0.0.0 www.leadzuaf.com
 0.0.0.0 www.lecap-services.fr
-0.0.0.0 www.lediyxobgmrgeb.com
 0.0.0.0 www.leguide.com
 0.0.0.0 www.leninsubscribe.com
 0.0.0.0 www.lenzmx.com
-0.0.0.0 www.lfahycetwt.com
 0.0.0.0 www.liga228.xyz
 0.0.0.0 www.ligaibc365.com
 0.0.0.0 www.ligatus.com
@@ -21690,7 +21644,6 @@
 0.0.0.0 www.linkszb.com
 0.0.0.0 www.linktrking.com
 0.0.0.0 www.linkwelove.com
-0.0.0.0 www.listat.biz
 0.0.0.0 www.liveadexchanger.com
 0.0.0.0 www.liveadoptimizer.com
 0.0.0.0 www.livefyre.com
@@ -21788,7 +21741,6 @@
 0.0.0.0 www.naiadsystems.com
 0.0.0.0 www.nata.ero-advertising.com
 0.0.0.0 www.nbcudigitaladops.com
-0.0.0.0 www.nchxiaxafowid.com
 0.0.0.0 www.ncmzm.voluumtrk.com
 0.0.0.0 www.neodatagroup.com
 0.0.0.0 www.neomobile.net
@@ -21807,8 +21759,6 @@
 0.0.0.0 www.nextlnk3.com
 0.0.0.0 www.nextlnk4.com
 0.0.0.0 www.nfbio.dk
-0.0.0.0 www.nimjdyknjzcp.com
-0.0.0.0 www.njawafwpmv.com
 0.0.0.0 www.njfy6.voluumtrk.com
 0.0.0.0 www.nl1.ero-advertising.com
 0.0.0.0 www.nl2.ero-advertising.com
@@ -21819,17 +21769,13 @@
 0.0.0.0 www.nufa-ad.com
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
-0.0.0.0 www.nuhwyavc.com
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
-0.0.0.0 www.ohscoczrnhzd.com
 0.0.0.0 www.oipzyrzffum.ovh
-0.0.0.0 www.ojstdedb.com
-0.0.0.0 www.ojwmlieqguqg.com
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.ol14x.voluumtrk.com
@@ -21854,7 +21800,6 @@
 0.0.0.0 www.outlookemailtech.com
 0.0.0.0 www.outlookproblemshelp.com
 0.0.0.0 www.outlookrepairhelp.com
-0.0.0.0 www.oviwtvswp.com
 0.0.0.0 www.p.skimresources.com
 0.0.0.0 www.p187425.clksite.com
 0.0.0.0 www.p2047.clksite.com
@@ -21934,7 +21879,6 @@
 0.0.0.0 www.protect-your-privacy-now.com
 0.0.0.0 www.protectantivirext.biz
 0.0.0.0 www.protecttoolext.com
-0.0.0.0 www.pskadmzl.com
 0.0.0.0 www.ptewiki.com
 0.0.0.0 www.pub.axiatraders.com
 0.0.0.0 www.pub.grandonmedia.com
@@ -21946,15 +21890,11 @@
 0.0.0.0 www.pushedwebnews.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.pvtizjqlcvj.com
-0.0.0.0 www.qcnrblgdonypg.com
 0.0.0.0 www.qcoldtui1999.com
 0.0.0.0 www.qenklbb.com
-0.0.0.0 www.qithimsuejs.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qlitics.com
 0.0.0.0 www.qlvopwghgwa.com
-0.0.0.0 www.qnkiueuflzdold.com
-0.0.0.0 www.qqipjtzgo.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
@@ -22030,7 +21970,6 @@
 0.0.0.0 www.rotator.beginads.com
 0.0.0.0 www.royalbet90.win
 0.0.0.0 www.rp3oq.voluumtrk.com
-0.0.0.0 www.rqqljktze.com
 0.0.0.0 www.rs.ero-advertising.com
 0.0.0.0 www.rs2.ero-advertising.com
 0.0.0.0 www.rtalabel.org
@@ -22100,7 +22039,6 @@
 0.0.0.0 www.software-techie-top-dev.win
 0.0.0.0 www.sonobi.com
 0.0.0.0 www.soperson.com
-0.0.0.0 www.sorqbhulun.com
 0.0.0.0 www.sovrn.com
 0.0.0.0 www.spaces.ero-advertising.com
 0.0.0.0 www.spain-rb.com
@@ -22272,7 +22210,6 @@
 0.0.0.0 www.uc123.com
 0.0.0.0 www.ucfly.com
 0.0.0.0 www.ucweb.com
-0.0.0.0 www.uggvuuquxj.com
 0.0.0.0 www.uhhoatxt.com
 0.0.0.0 www.ukrb-uk.com
 0.0.0.0 www.umbs.ero-advertising.com
@@ -22313,9 +22250,7 @@
 0.0.0.0 www.vop.it
 0.0.0.0 www.vosteran.com
 0.0.0.0 www.vosteransearch.com
-0.0.0.0 www.vouzgwau.com
 0.0.0.0 www.vpn-scanning0.site
-0.0.0.0 www.vqfoxxxnunqkgm.com
 0.0.0.0 www.vrbatanalyzer.com
 0.0.0.0 www.vrl.m.conviva.com
 0.0.0.0 www.vt-rbs.com
@@ -22362,7 +22297,6 @@
 0.0.0.0 www.wsw.ero-advertising.com
 0.0.0.0 www.wt-eu02.net
 0.0.0.0 www.wta.ero-advertising.com
-0.0.0.0 www.wtgkustlgat.com
 0.0.0.0 www.wtseticket.com
 0.0.0.0 www.wtwcdgfpi.com
 0.0.0.0 www.ww2.ero-advertising.com
@@ -22426,11 +22360,8 @@
 0.0.0.0 www.yoocws.com
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.yourtuber.info
-0.0.0.0 www.yrsjqzfku.com
 0.0.0.0 www.yserch.com
-0.0.0.0 www.ytxuslppbj.com
 0.0.0.0 www.ywpkgqasoe.bid
-0.0.0.0 www.yximgdpivguxke.com
 0.0.0.0 www.z.moatads.com
 0.0.0.0 www.z9n5o.voluumtrk.com
 0.0.0.0 www.zamora.axiatraders.com
@@ -22440,7 +22371,6 @@
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zeropark.com
-0.0.0.0 www.ziebgbikz.com
 0.0.0.0 www.zindas.info
 0.0.0.0 www.zl1.quebec-bin.com
 0.0.0.0 www.zlx.com.br
@@ -22449,11 +22379,9 @@
 0.0.0.0 www.zog.link
 0.0.0.0 www.zoorate.com
 0.0.0.0 www.zspttttiyda.com
-0.0.0.0 www.ztstwgxjhkuwj.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
 0.0.0.0 www.zwnlqwfdbu.com
-0.0.0.0 www.zwprxzbnzxc.com
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zyxow.com
 0.0.0.0 www1.algolia.com
