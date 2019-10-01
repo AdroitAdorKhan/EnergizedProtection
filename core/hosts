@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.09.273
-# Release: 273
-# Entries: 22,878
+# Version: 19.10.274
+# Release: 274
+# Entries: 22,870
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 30 Sep 19 20:00:19
+# Updated: Tue, 01 Oct 19 20:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3959,7 +3959,6 @@
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.c.uc.cn
-0.0.0.0 api.c1oudmobi.net
 0.0.0.0 api.cashmyvisit.com
 0.0.0.0 api.centili.com
 0.0.0.0 api.chartbeat.com
@@ -5944,7 +5943,6 @@
 0.0.0.0 cdn.adsenseguard.com
 0.0.0.0 cdn.adskeeper.co.uk
 0.0.0.0 cdn.adsoptimal.com
-0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.advertserve.com
@@ -6151,7 +6149,6 @@
 0.0.0.0 ce801fd6d7a.com
 0.0.0.0 cea9d3d4f74fb831.com
 0.0.0.0 ceafdegiijieiacdb.ru
-0.0.0.0 ceast.adsymptotic.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cedemo.com
@@ -6551,7 +6548,6 @@
 0.0.0.0 clothsdinfg.xyz
 0.0.0.0 cloud-test.adhese.com
 0.0.0.0 cloud-us.analytics-egain.com
-0.0.0.0 cloud-wp.org
 0.0.0.0 cloud.ucweb.com
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudcoins.biz
@@ -19317,7 +19313,6 @@
 0.0.0.0 travelstool.com
 0.0.0.0 traviilo.com
 0.0.0.0 travis.bosscasinos.com
-0.0.0.0 trax-ad.jp
 0.0.0.0 trax.gamespot.com
 0.0.0.0 trc.kissmetrics.com
 0.0.0.0 trc.sanook.com
@@ -20747,7 +20742,6 @@
 0.0.0.0 wp.kinott.ru
 0.0.0.0 wp2.appnext.com
 0.0.0.0 wpad.example.com
-0.0.0.0 wpconnect.org
 0.0.0.0 wpgwonline.com
 0.0.0.0 wpk-auth.ucweb.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
@@ -21605,7 +21599,6 @@
 0.0.0.0 www.iupqelechcmj.com
 0.0.0.0 www.ivgfyhbcfcepai.com
 0.0.0.0 www.ivideopiuvisti.com
-0.0.0.0 www.ivwbox.de
 0.0.0.0 www.iyjph.voluumtrk.com
 0.0.0.0 www.iyogi.com
 0.0.0.0 www.iyogiblog.com
@@ -21784,7 +21777,6 @@
 0.0.0.0 www.nl2.ero-advertising.com
 0.0.0.0 www.nners.ero-advertising.com
 0.0.0.0 www.norton-comsetup.co.uk
-0.0.0.0 www.notalyyj.com
 0.0.0.0 www.npept.voluumtrk.com
 0.0.0.0 www.nufa-ad.com
 0.0.0.0 www.nugg.ad
