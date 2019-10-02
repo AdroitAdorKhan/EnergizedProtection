@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.274
-# Release: 274
-# Entries: 22,870
+# Version: 19.10.275
+# Release: 275
+# Entries: 22,866
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 01 Oct 19 20:00:19
+# Updated: Wed, 02 Oct 19 20:00:27
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -11475,7 +11475,6 @@
 0.0.0.0 kmpiframe.keepmeposted.com.mt
 0.0.0.0 kmsexporters.com
 0.0.0.0 knifeoctopus.com
-0.0.0.0 kniverto.com
 0.0.0.0 knorex.com
 0.0.0.0 knowd.com
 0.0.0.0 ko.snstatic.fi
@@ -12605,6 +12604,7 @@
 0.0.0.0 mi.mspu.us.re.getclicky.com
 0.0.0.0 mi61l.cn
 0.0.0.0 mialltrack2.com
+0.0.0.0 mialmaenverso.es
 0.0.0.0 miami.ero-advertising.com
 0.0.0.0 miami2.ero-advertising.com
 0.0.0.0 miamicarsoutlet.com
@@ -13147,7 +13147,6 @@
 0.0.0.0 mycasinoaccounts.com
 0.0.0.0 mycelium.com
 0.0.0.0 mychainpools.com
-0.0.0.0 mycoinwallet.net
 0.0.0.0 mycounter.ua
 0.0.0.0 mydas.mobi
 0.0.0.0 mydisk.uc.cn
@@ -14815,7 +14814,6 @@
 0.0.0.0 planetactive.com
 0.0.0.0 planetadigital.es
 0.0.0.0 planetmiraculous.com
-0.0.0.0 planniver.com
 0.0.0.0 plasticosmorell.es
 0.0.0.0 plataforma.cxad.cxense.com
 0.0.0.0 platform-api.sharethis.com
@@ -15769,6 +15767,7 @@
 0.0.0.0 reimagenetwork.adk2.co
 0.0.0.0 reinvigorate.net
 0.0.0.0 reiqwxxd.com
+0.0.0.0 rejasdesanesteban.es
 0.0.0.0 rejektmusik.com
 0.0.0.0 rek.mobi
 0.0.0.0 reklam.rfsl.se
@@ -16308,6 +16307,7 @@
 0.0.0.0 salomonsen.online
 0.0.0.0 salomonses.online
 0.0.0.0 salomonson.online
+0.0.0.0 salomonsrn.online
 0.0.0.0 salomonuzapato.com
 0.0.0.0 salomonxshop.com
 0.0.0.0 salon.umeng.com
@@ -16357,7 +16357,6 @@
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sbobet-info.com
 0.0.0.0 sbs-ad.com
-0.0.0.0 sbx.pagesjaunes.fr
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scaRlETCoAt.US
@@ -19219,7 +19218,6 @@
 0.0.0.0 trackmedia101.com
 0.0.0.0 trackmysales.com
 0.0.0.0 trackoi.com
-0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tracktor.co.uk
 0.0.0.0 trackvoluum.com
 0.0.0.0 trackword.net
@@ -21809,7 +21807,6 @@
 0.0.0.0 www.orion.iad.appboy.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlookemailsetup.com
-0.0.0.0 www.outlookemailtech.com
 0.0.0.0 www.outlookproblemshelp.com
 0.0.0.0 www.outlookrepairhelp.com
 0.0.0.0 www.p.skimresources.com
@@ -21839,7 +21836,6 @@
 0.0.0.0 www.performanceonclick.com
 0.0.0.0 www.permutive.com
 0.0.0.0 www.pflexads.com
-0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.phpmyadmin.ads.ero-advertising.com
 0.0.0.0 www.phpmyadmin.ero-advertising.com
 0.0.0.0 www.phpmyadmin.js.ero-advertising.com
