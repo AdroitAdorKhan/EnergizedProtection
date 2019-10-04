@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.276
-# Release: 276
-# Entries: 22,973
+# Version: 19.10.277
+# Release: 277
+# Entries: 22,972
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 03 Oct 19 20:00:20
+# Updated: Fri, 04 Oct 19 20:00:25
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -21887,7 +21887,6 @@
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
-0.0.0.0 www.oevujdgj.com
 0.0.0.0 www.oipzyrzffum.ovh
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
