@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.279
-# Release: 279
-# Entries: 22,981
+# Version: 19.10.280
+# Release: 280
+# Entries: 22,993
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 06 Oct 19 20:00:17
+# Updated: Mon, 07 Oct 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -429,6 +429,7 @@
 0.0.0.0 69.video-ak.cdn.spotify.com
 0.0.0.0 69oxt4q05.com
 0.0.0.0 6c.video-ak.cdn.spotify.com
+0.0.0.0 6c7105f4aa34.com
 0.0.0.0 6ce0a8be8375b.com
 0.0.0.0 6d.video-ak.cdn.spotify.com
 0.0.0.0 6e.video-ak.cdn.spotify.com
@@ -506,6 +507,7 @@
 0.0.0.0 888promos.com
 0.0.0.0 88b776ad17.com
 0.0.0.0 89.video-ak.cdn.spotify.com
+0.0.0.0 89292c2dbc.com
 0.0.0.0 8a.video-ak.cdn.spotify.com
 0.0.0.0 8a8cq8c8yyqjs2xr.pro
 0.0.0.0 8b.video-ak.cdn.spotify.com
@@ -3331,7 +3333,6 @@
 0.0.0.0 affiliates.babylon.com
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 affiliates.globat.com
-0.0.0.0 affiliates.internationaljock.com
 0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.rozetka.com.ua
 0.0.0.0 affiliates.souq.com
@@ -8235,6 +8236,7 @@
 0.0.0.0 easyhash.pro
 0.0.0.0 easyhits4u.com
 0.0.0.0 easyinline.com
+0.0.0.0 easylist.club
 0.0.0.0 easymcenter.com
 0.0.0.0 easytechy.co.uk
 0.0.0.0 easytechy.com
@@ -8307,6 +8309,7 @@
 0.0.0.0 edinco.es
 0.0.0.0 edlkfue8flzpivh.ru
 0.0.0.0 ednplus.com
+0.0.0.0 edvlegv1faamdta.ru
 0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 ee.video-ak.cdn.spotify.com
 0.0.0.0 ee01gws.advertising.com
@@ -8767,6 +8770,7 @@
 0.0.0.0 f4.video-ak.cdn.spotify.com
 0.0.0.0 f4d86b2711099d.com
 0.0.0.0 f5.video-ak.cdn.spotify.com
+0.0.0.0 f550e969f0b.com
 0.0.0.0 f5biz.com
 0.0.0.0 f6.video-ak.cdn.spotify.com
 0.0.0.0 f7.video-ak.cdn.spotify.com
@@ -9405,6 +9409,7 @@
 0.0.0.0 gdzhndrthckf.com
 0.0.0.0 ge.appcloudbox.net
 0.0.0.0 geannyal.com
+0.0.0.0 gecfhfgfifefbegjaeb.ru
 0.0.0.0 gecxceztcnhkmh.com
 0.0.0.0 geede.info
 0.0.0.0 geekcash.org
@@ -10772,7 +10777,6 @@
 0.0.0.0 imiclk.com
 0.0.0.0 imimobile.com
 0.0.0.0 immensehoney.com
-0.0.0.0 imnsmvmjrdiwwr.com
 0.0.0.0 imonomy.com
 0.0.0.0 imovil.online
 0.0.0.0 imp-dsp.bidgear.com
@@ -11718,7 +11722,6 @@
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 ledinund.com
-0.0.0.0 lediyxobgmrgeb.com
 0.0.0.0 leechiza.net
 0.0.0.0 leftren.com
 0.0.0.0 legalonlinepharmacy.com
@@ -13411,6 +13414,7 @@
 0.0.0.0 netflare.info
 0.0.0.0 netgearrouterhelp.com
 0.0.0.0 netincap.com
+0.0.0.0 netitrabrit.pro
 0.0.0.0 netmng.com
 0.0.0.0 netrosol.net
 0.0.0.0 netseer.com
@@ -15852,6 +15856,7 @@
 0.0.0.0 registeramo.com
 0.0.0.0 registrati.privalia.com
 0.0.0.0 regnow.com
+0.0.0.0 reharhowheck.info
 0.0.0.0 reimagenetwork.adk2.co
 0.0.0.0 reinvigorate.net
 0.0.0.0 reiqwxxd.com
@@ -18469,6 +18474,7 @@
 0.0.0.0 tnwjldvivhgr.com
 0.0.0.0 toastpool.com
 0.0.0.0 tob-cms.bj.bcebos.com
+0.0.0.0 tobidy.io
 0.0.0.0 toboads.com
 0.0.0.0 todacell.com
 0.0.0.0 today.algolia.com
@@ -19868,6 +19874,7 @@
 0.0.0.0 unrummaged.com
 0.0.0.0 untd.com
 0.0.0.0 untidyquestion.com
+0.0.0.0 untotlowith.info
 0.0.0.0 untouchwarfar.info
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwrittenspot.com
@@ -19957,6 +19964,7 @@
 0.0.0.0 usa-casino-online.com
 0.0.0.0 usa-usage.ime.cootek.com
 0.0.0.0 usa.ime.cootek.com
+0.0.0.0 usa.mohini-ger.com
 0.0.0.0 usa.paula-secundinus.com
 0.0.0.0 usa.photios-raj.com
 0.0.0.0 usa.xanthos-alf.com
@@ -20052,6 +20060,7 @@
 0.0.0.0 v3.logger.pw
 0.0.0.0 v3g4s.com
 0.0.0.0 v3m.youzu.com
+0.0.0.0 v8yej.rdtk.io
 0.0.0.0 v9.com
 0.0.0.0 v9banners.com
 0.0.0.0 v9bet88.com
@@ -20723,6 +20732,7 @@
 0.0.0.0 wildbearads.go2affise.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 wilf.cn
+0.0.0.0 wilkedrighrolma.pro
 0.0.0.0 wilsontimes.ads2.creativecirclemedia.com
 0.0.0.0 wilysis.com
 0.0.0.0 win-media-ams5.fastclick.net
@@ -21401,6 +21411,7 @@
 0.0.0.0 www.cpm20.com
 0.0.0.0 www.cpsee.com
 0.0.0.0 www.cpu2cash.link
+0.0.0.0 www.cqkqukynmny.com
 0.0.0.0 www.crashlytics.com
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
@@ -22492,6 +22503,7 @@
 0.0.0.0 www.zeropark.com
 0.0.0.0 www.zindas.info
 0.0.0.0 www.zl1.quebec-bin.com
+0.0.0.0 www.zlfgedpuxrbpgm.com
 0.0.0.0 www.zlx.com.br
 0.0.0.0 www.znacktv.it
 0.0.0.0 www.zo1.sierra-boa.com
@@ -22538,6 +22550,7 @@
 0.0.0.0 wyl1ccany.com
 0.0.0.0 wyl1kkany.com
 0.0.0.0 wynather.com
+0.0.0.0 wyont.queensiteforapp.com
 0.0.0.0 wysasys.com
 0.0.0.0 wzfoygianhe.com
 0.0.0.0 wzrkt.com
@@ -22752,7 +22765,6 @@
 0.0.0.0 ydjak.com
 0.0.0.0 ydthazdza.com
 0.0.0.0 ydworld.com
-0.0.0.0 ydzakntxe.com
 0.0.0.0 yeabble.com
 0.0.0.0 yeagdfyw.com
 0.0.0.0 yeezyshoes.gq
@@ -22802,7 +22814,6 @@
 0.0.0.0 yj.p.adnxs.com
 0.0.0.0 ykatr.youku.com
 0.0.0.0 ykrec.youku.com
-0.0.0.0 ykykbowk.com
 0.0.0.0 yldbt.com
 0.0.0.0 ylkhts.cc
 0.0.0.0 ylkkp.com
@@ -22967,6 +22978,7 @@
 0.0.0.0 zinterest.ga
 0.0.0.0 zintext.com
 0.0.0.0 zl1.quebec-bin.com
+0.0.0.0 zlfgedpuxrbpgm.com
 0.0.0.0 zlp6s.pw
 0.0.0.0 zlx.com.br
 0.0.0.0 zme8o3l1c4.com
