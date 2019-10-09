@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.281
-# Release: 281
-# Entries: 22,993
+# Version: 19.10.282
+# Release: 282
+# Entries: 23,027
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 08 Oct 19 20:00:19
+# Updated: Wed, 09 Oct 19 20:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -179,7 +179,9 @@
 0.0.0.0 2015goodsunglasses.com
 0.0.0.0 2016.appsflyer.com
 0.0.0.0 2016.sina.cn
+0.0.0.0 20552817p.rfihub.com
 0.0.0.0 206ads.com
+0.0.0.0 20dd02e5c51.com
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20thcenturysculpture.com
 0.0.0.0 21.video-ak.cdn.spotify.com
@@ -252,6 +254,7 @@
 0.0.0.0 30.video-ak.cdn.spotify.com
 0.0.0.0 31.tityx.com
 0.0.0.0 31.video-ak.cdn.spotify.com
+0.0.0.0 3179329.catchtheclick.com
 0.0.0.0 31b8253e5fc.com
 0.0.0.0 32.video-ak.cdn.spotify.com
 0.0.0.0 32b4oilo.com
@@ -342,6 +345,7 @@
 0.0.0.0 48.video-ak.cdn.spotify.com
 0.0.0.0 489ea64f39.com
 0.0.0.0 49.video-ak.cdn.spotify.com
+0.0.0.0 4953227.fls.doubleclick.net
 0.0.0.0 49oa3o49b6.com
 0.0.0.0 4a.video-ak.cdn.spotify.com
 0.0.0.0 4affiliate.net
@@ -714,6 +718,7 @@
 0.0.0.0 aa53df329975c325.com
 0.0.0.0 aaashoeschina.com
 0.0.0.0 aaddzz.com
+0.0.0.0 aafb807c2a.com
 0.0.0.0 aamobile.info
 0.0.0.0 aan.amazon.com
 0.0.0.0 aan9.2568781.com
@@ -2179,6 +2184,7 @@
 0.0.0.0 ads.msn-int.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
+0.0.0.0 ads.muxiv.com
 0.0.0.0 ads.mybanktracker.com
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.nayemador.com
@@ -7261,6 +7267,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 d.appstore.baidu.co.th
 0.0.0.0 d.audiencerun.com
+0.0.0.0 d.fotw.xyz
 0.0.0.0 d.greece-search.com
 0.0.0.0 d.gunnepaa.xyz
 0.0.0.0 d.mordi.xyz
@@ -8335,6 +8342,7 @@
 0.0.0.0 efhabjaabgfbbegjacj.ru
 0.0.0.0 efpadea.store
 0.0.0.0 efspshop.xyz
+0.0.0.0 efully.info
 0.0.0.0 egamingonline.com
 0.0.0.0 egqvppwseieyu.com
 0.0.0.0 egschool.org
@@ -9099,6 +9107,7 @@
 0.0.0.0 forsagir.com
 0.0.0.0 forshady.com
 0.0.0.0 fortatoneterrow.info
+0.0.0.0 forthathestal.info
 0.0.0.0 fortlachanhecksof.info
 0.0.0.0 fortnite-stats.site
 0.0.0.0 fortpush.com
@@ -10365,6 +10374,7 @@
 0.0.0.0 i7xls.voluumtrk.com
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 ia4.notifications.website
+0.0.0.0 iabtechlab.com
 0.0.0.0 iacpromotion.s3.amazonaws.com
 0.0.0.0 iact.atdmt.com
 0.0.0.0 iad-1-apex.go.sonobi.com
@@ -11206,6 +11216,7 @@
 0.0.0.0 japan.inmobi.com
 0.0.0.0 japanese.academy
 0.0.0.0 japtr.com
+0.0.0.0 jardimueble.es
 0.0.0.0 jasonsvid.com
 0.0.0.0 jatxt.com
 0.0.0.0 jaunithuw.com
@@ -11312,6 +11323,7 @@
 0.0.0.0 jppcj.voluumtrk.com
 0.0.0.0 jquery-bin.com
 0.0.0.0 jquerystatistics.org
+0.0.0.0 jroosevelt.com
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js-apac-ss.ysm.yahoo.com
 0.0.0.0 js-ru.redtram.com
@@ -12368,7 +12380,9 @@
 0.0.0.0 marketspace.com.es
 0.0.0.0 marktcom.h-bid.com
 0.0.0.0 marktplaats.demdex.net
+0.0.0.0 maroola.aditms.me
 0.0.0.0 maroonspider.com
+0.0.0.0 marpacca.es
 0.0.0.0 marsads.com
 0.0.0.0 martensbootdeals.club
 0.0.0.0 marticula.com
@@ -12779,6 +12793,7 @@
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 mipwm.com
 0.0.0.0 mirago.com
+0.0.0.0 mircrew-releases.com
 0.0.0.0 mirrorpersonalinjury.co.uk
 0.0.0.0 mis.shtranssion.com
 0.0.0.0 missarty.com
@@ -13371,6 +13386,7 @@
 0.0.0.0 ndparking.com
 0.0.0.0 ndyzz.com
 0.0.0.0 nearbyad.com
+0.0.0.0 nebitek.com
 0.0.0.0 neblotech.com
 0.0.0.0 necessarywax.com
 0.0.0.0 nedstat.com
@@ -13528,6 +13544,7 @@
 0.0.0.0 nfmkmks.xyz
 0.0.0.0 nfsxzxusedje.xyz
 0.0.0.0 nfviojecoo.tw
+0.0.0.0 nfvipb.com
 0.0.0.0 ng-demo-ad-server.cxad.cxense.com
 0.0.0.0 ng-pilot-adserver.cxad.cxense.com
 0.0.0.0 ng001.hasmobi.net
@@ -13624,6 +13641,7 @@
 0.0.0.0 north-train.com
 0.0.0.0 northerns.site
 0.0.0.0 northfacea.club
+0.0.0.0 northfacexx.uk.com
 0.0.0.0 northmay.com
 0.0.0.0 norton-comsetup.co.uk
 0.0.0.0 norvos-cdn.polarmobile.com
@@ -14034,6 +14052,7 @@
 0.0.0.0 optout3.advertising.com
 0.0.0.0 optout3.nexage.com
 0.0.0.0 opulence.es
+0.0.0.0 opyyykrdyuum.com
 0.0.0.0 oqn2ujcvgki0fgqy.pro
 0.0.0.0 oqpvqnc.top
 0.0.0.0 orangeoperation.com
@@ -15444,6 +15463,7 @@
 0.0.0.0 pushokey.com
 0.0.0.0 pushomac.com
 0.0.0.0 pushosub.com
+0.0.0.0 pushosubk.com
 0.0.0.0 pushsar.com
 0.0.0.0 pushscan.com
 0.0.0.0 pushsender.pro
@@ -16395,6 +16415,7 @@
 0.0.0.0 salomon-hu.com
 0.0.0.0 salomoncl.online
 0.0.0.0 salomoncle.online
+0.0.0.0 salomone.online
 0.0.0.0 salomonechaussure.com
 0.0.0.0 salomoneschuhe.com
 0.0.0.0 salomoneshoes.online
@@ -16933,6 +16954,7 @@
 0.0.0.0 simage9.pubmatic.com
 0.0.0.0 simba.m.taobao.com
 0.0.0.0 similarsabine.com
+0.0.0.0 simontok.app
 0.0.0.0 simpio.com
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simpleco.in
@@ -17375,6 +17397,7 @@
 0.0.0.0 ssv.admost.com
 0.0.0.0 ssvim.com
 0.0.0.0 ssw.live.com
+0.0.0.0 ssypntfmi.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
@@ -20411,6 +20434,7 @@
 0.0.0.0 vuer.net
 0.0.0.0 vungle.com
 0.0.0.0 vupulse.com
+0.0.0.0 vuukle-bigquery.appspot.com
 0.0.0.0 vuuwd.com
 0.0.0.0 vv84.bj.bcebos.com
 0.0.0.0 vwprafiwoiut.com
@@ -20577,6 +20601,7 @@
 0.0.0.0 webchain.network
 0.0.0.0 webclicks24.com
 0.0.0.0 webcounter.cz
+0.0.0.0 webdesignenet.info
 0.0.0.0 webdesignmarketing.us
 0.0.0.0 webgains.com
 0.0.0.0 webgw.twnmm.com
@@ -21175,6 +21200,7 @@
 0.0.0.0 www.adzerk.net
 0.0.0.0 www.ae1a1e258b8b016.com
 0.0.0.0 www.aeckcjy.com
+0.0.0.0 www.aehdgzigy.com
 0.0.0.0 www.aeirhucw.com
 0.0.0.0 www.aejtg.voluumtrk.com
 0.0.0.0 www.aerserv.com
@@ -21524,6 +21550,7 @@
 0.0.0.0 www.facebookwiki.net
 0.0.0.0 www.fakehub.com
 0.0.0.0 www.fanners.ero-advertising.com
+0.0.0.0 www.fantasyescortblogs.com
 0.0.0.0 www.fastclick.net
 0.0.0.0 www.fastpillshop.ru
 0.0.0.0 www.fata.ero-advertising.com
@@ -21721,6 +21748,7 @@
 0.0.0.0 www.iyogi.com
 0.0.0.0 www.iyogiblog.com
 0.0.0.0 www.izmirburak.com
+0.0.0.0 www.izmirend.net
 0.0.0.0 www.j1alc.voluumtrk.com
 0.0.0.0 www.j1cw9.voluumtrk2.com
 0.0.0.0 www.jdoqocy.com
@@ -21924,6 +21952,7 @@
 0.0.0.0 www.oovvuu.com
 0.0.0.0 www.opads.ero-advertising.com
 0.0.0.0 www.opencache.com
+0.0.0.0 www.opyyykrdyuum.com
 0.0.0.0 www.orion.iad.appboy.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlookemailsetup.com
@@ -21944,6 +21973,7 @@
 0.0.0.0 www.party-nngvitbizn.now.sh
 0.0.0.0 www.pasitodoble.win
 0.0.0.0 www.pata.ero-advertising.com
+0.0.0.0 www.pawaiescort.com
 0.0.0.0 www.paytonpapers.org
 0.0.0.0 www.pazienti.it
 0.0.0.0 www.pc8.us
@@ -22159,6 +22189,7 @@
 0.0.0.0 www.smrt.re
 0.0.0.0 www.smtp.ero-advertising.com
 0.0.0.0 www.snaphackonline.com
+0.0.0.0 www.snckdjuymeopsc.com
 0.0.0.0 www.so.2mdn.net
 0.0.0.0 www.sobberinfo.com
 0.0.0.0 www.socapo.com
@@ -22195,6 +22226,7 @@
 0.0.0.0 www.src.eeduelements.com
 0.0.0.0 www.srppykbedhqp.com
 0.0.0.0 www.srv.pixel.parsely.com
+0.0.0.0 www.ssypntfmi.com
 0.0.0.0 www.stack-sonar.com
 0.0.0.0 www.stackcommerce.com
 0.0.0.0 www.stage.tvpage.com
@@ -22409,6 +22441,7 @@
 0.0.0.0 www.wetrafficstars.mobi
 0.0.0.0 www.whatsaappp.com
 0.0.0.0 www.whatsapps.com
+0.0.0.0 www.whdzxabhqsdnlc.com
 0.0.0.0 www.whstatic.com
 0.0.0.0 www.wiki.adspaces.ero-advertising.com
 0.0.0.0 www.wiki.ero-advertising.com
@@ -23033,6 +23066,7 @@
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 zyora.co
 0.0.0.0 zypenetwork.com
+0.0.0.0 zysurqmarket.com
 0.0.0.0 zyxow.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 zz.trafficfabrik.com
