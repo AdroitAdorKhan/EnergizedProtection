@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.293
-# Release: 293
-# Entries: 25,322
+# Version: 19.10.294
+# Release: 294
+# Entries: 25,305
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 20 Oct 19 20:00:18
+# Updated: Mon, 21 Oct 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2255,7 +2255,6 @@
 0.0.0.0 ads.shoplove.com
 0.0.0.0 ads.shopstyle.com
 0.0.0.0 ads.simplyhired.com
-0.0.0.0 ads.sina.com
 0.0.0.0 ads.sina.com.cn
 0.0.0.0 ads.singlescash.com
 0.0.0.0 ads.skeettools.com
@@ -2488,7 +2487,6 @@
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adcash.com
-0.0.0.0 adserver.admost.com
 0.0.0.0 adserver.adotmob.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adtech.advertising.com
@@ -3776,7 +3774,6 @@
 0.0.0.0 analytics.edgekey.ne
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.edgesuite.net
-0.0.0.0 analytics.eduxe.com.br
 0.0.0.0 analytics.electro-com.ru
 0.0.0.0 analytics.elfsight.com
 0.0.0.0 analytics.emarketer.com
@@ -4647,7 +4644,6 @@
 0.0.0.0 app.opmnstr.com
 0.0.0.0 app.optimizely.com
 0.0.0.0 app.paygate-prod.shareitpay.in
-0.0.0.0 app.pendo.io
 0.0.0.0 app.pubguard.com
 0.0.0.0 app.roximity.com
 0.0.0.0 app.tads.techtunes.com.bd
@@ -9873,7 +9869,6 @@
 0.0.0.0 fotosdelamor.es
 0.0.0.0 fourarithmetic.com
 0.0.0.0 fout.jp
-0.0.0.0 foxx.to
 0.0.0.0 foyerproperties.com
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 fp.onedigitalad.com
@@ -10425,7 +10420,6 @@
 0.0.0.0 go.aerserv.com
 0.0.0.0 go.algolia.com
 0.0.0.0 go.americapixel.com
-0.0.0.0 go.amplitude.com
 0.0.0.0 go.applovin.com
 0.0.0.0 go.appnexus.com
 0.0.0.0 go.bcvc.mobi
@@ -13854,7 +13848,6 @@
 0.0.0.0 minewhat.com
 0.0.0.0 minexcash.com
 0.0.0.0 minexmr.com
-0.0.0.0 minexmr.ml
 0.0.0.0 minexmr.org
 0.0.0.0 minexpool.nl
 0.0.0.0 minez.zone
@@ -17418,7 +17411,6 @@
 0.0.0.0 ritzysponge.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 rixaka.com
-0.0.0.0 rizzotto.tk
 0.0.0.0 rj.baidu.com
 0.0.0.0 rj.m.taobao.co
 0.0.0.0 rj.m.taobao.com
@@ -19012,7 +19004,6 @@
 0.0.0.0 stat.zkmobi.com
 0.0.0.0 stat001.com
 0.0.0.0 stat24.com
-0.0.0.0 stat24.meta.ua
 0.0.0.0 statcounter.va-endpoint.com
 0.0.0.0 statesol.net
 0.0.0.0 statgw2.devtodev.com
@@ -22844,7 +22835,6 @@
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
-0.0.0.0 webminepool.tk
 0.0.0.0 webminer.pro
 0.0.0.0 webmining.co
 0.0.0.0 weboohost.com
@@ -23273,7 +23263,6 @@
 0.0.0.0 www.a.ero-advertising.com
 0.0.0.0 www.a.qwertize.com
 0.0.0.0 www.a.rad.msn.com
-0.0.0.0 www.aaitudxr.com
 0.0.0.0 www.aata.ero-advertising.com
 0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accu-chek.it
@@ -23557,7 +23546,6 @@
 0.0.0.0 www.beedoctor.in.th
 0.0.0.0 www.belkintechsupport247.com
 0.0.0.0 www.benesserelab.com
-0.0.0.0 www.best2017games.com
 0.0.0.0 www.bestcasinocharts.com
 0.0.0.0 www.bestearnidea.com
 0.0.0.0 www.bestgame.directory
@@ -23712,7 +23700,6 @@
 0.0.0.0 www.dbg52463.moatads.com
 0.0.0.0 www.dbta.ero-advertising.com
 0.0.0.0 www.dbxqk.voluumtrk.com
-0.0.0.0 www.ddfnykqqiexse.com
 0.0.0.0 www.definitimedia.com
 0.0.0.0 www.demdex.net
 0.0.0.0 www.deta.ero-advertising.com
@@ -23972,7 +23959,6 @@
 0.0.0.0 www.it.boostperform.com
 0.0.0.0 www.italiaonline.com
 0.0.0.0 www.iubenda.com
-0.0.0.0 www.iupqelechcmj.com
 0.0.0.0 www.ivgfyhbcfcepai.com
 0.0.0.0 www.ivideopiuvisti.com
 0.0.0.0 www.iyjph.voluumtrk.com
@@ -24366,7 +24352,6 @@
 0.0.0.0 www.rtb-adsterra.flshtrk.store
 0.0.0.0 www.runative.com
 0.0.0.0 www.rvty.net
-0.0.0.0 www.rylhghmjrsgb.com
 0.0.0.0 www.s.clickiocdn.com
 0.0.0.0 www.s.ero-advertising.com
 0.0.0.0 www.s.update.moatads.com
@@ -24400,7 +24385,6 @@
 0.0.0.0 www.services.wes.df.telemetry.microsoft.com
 0.0.0.0 www.sex-and-flirt.com
 0.0.0.0 www.sglala.com
-0.0.0.0 www.sgycfrrkz.com
 0.0.0.0 www.sgzsviqlvcxc.com
 0.0.0.0 www.sharethrough.com
 0.0.0.0 www.shecards.net
@@ -24525,7 +24509,6 @@
 0.0.0.0 www.theannoyingsite.com
 0.0.0.0 www.thebestplayer.mobi
 0.0.0.0 www.thefilter.com
-0.0.0.0 www.thehollywoodnews.com
 0.0.0.0 www.themediafire.com
 0.0.0.0 www.theofficeonpirie.com
 0.0.0.0 www.thestartmagazine.com
