@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.294
-# Release: 294
-# Entries: 25,305
+# Version: 19.10.295
+# Release: 295
+# Entries: 25,293
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 21 Oct 19 20:00:20
+# Updated: Tue, 22 Oct 19 20:00:24
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2013,7 +2013,6 @@
 0.0.0.0 ads.brightcove.com
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.bumq.com
-0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.casumoaffiliates.com
 0.0.0.0 ads.cavello.com
 0.0.0.0 ads.cb-cdn.com
@@ -2517,7 +2516,6 @@
 0.0.0.0 adserver.ikiweb.it
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.juicyads.com
-0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.mindshare.de
 0.0.0.0 adserver.mopub.com
 0.0.0.0 adserver.mopub.com	
@@ -2531,7 +2529,6 @@
 0.0.0.0 adserver.portugalmail.pt
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.quizdingo.com
-0.0.0.0 adserver.realhomesex.net
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 adserver.sharewareonline.com
@@ -9278,7 +9275,6 @@
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.eu
-0.0.0.0 eth.pp.ua
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
 0.0.0.0 ethereumpool.co
@@ -13430,7 +13426,6 @@
 0.0.0.0 marchex.com
 0.0.0.0 marfeel.com
 0.0.0.0 margarite.es
-0.0.0.0 mariadeabreu.ga
 0.0.0.0 mariadeabreu.gq
 0.0.0.0 marial.pro
 0.0.0.0 marimedia.com
@@ -13730,7 +13725,6 @@
 0.0.0.0 metrics.ctv.ca
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.gclb.brightcove.com
-0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.hitman.io
@@ -19597,7 +19591,6 @@
 0.0.0.0 taggify.net
 0.0.0.0 tagila.adk2.co
 0.0.0.0 tagjunction.com
-0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
@@ -23011,7 +23004,6 @@
 0.0.0.0 winterclothings.club
 0.0.0.0 winterclothingsale.club
 0.0.0.0 winterclothingssale.club
-0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
 0.0.0.0 wisemana.com
 0.0.0.0 wisepops.com
@@ -23436,7 +23428,6 @@
 0.0.0.0 www.afs.ero-advertising.com
 0.0.0.0 www.afternic.com
 0.0.0.0 www.agkn.com
-0.0.0.0 www.agqjjcwm.com
 0.0.0.0 www.ahi26.voluumtrk.com
 0.0.0.0 www.aidps.atdmt.com
 0.0.0.0 www.alb.reddit.com
@@ -23812,7 +23803,6 @@
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.frtyr.com
 0.0.0.0 www.ft95.org
-0.0.0.0 www.fullstory.com
 0.0.0.0 www.funnwebs.com
 0.0.0.0 www.funnybox.mobi
 0.0.0.0 www.g.msn.com
@@ -24145,7 +24135,6 @@
 0.0.0.0 www.nugg.ad
 0.0.0.0 www.nuggad.net
 0.0.0.0 www.nutaku.net
-0.0.0.0 www.nzlydrgumirn.com
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
 0.0.0.0 www.oca.telemetry.microsoft.com
@@ -25334,7 +25323,6 @@
 0.0.0.0 zuoping.ml
 0.0.0.0 zv0wp.voluumtrk.com
 0.0.0.0 zv1.sierra-boa.com
-0.0.0.0 zvuhanie.ml
 0.0.0.0 zwaar.org
 0.0.0.0 zwnlqwfdbu.com
 0.0.0.0 zwprxzbnzxc.com
