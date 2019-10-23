@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.295
-# Release: 295
-# Entries: 25,293
+# Version: 19.10.296
+# Release: 296
+# Entries: 25,266
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 22 Oct 19 20:00:24
+# Updated: Wed, 23 Oct 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3494,7 +3494,6 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 alt.indigital.lt
 0.0.0.0 alt.zincbutter.download
-0.0.0.0 alta.eqmob.com
 0.0.0.0 altavista.ovh
 0.0.0.0 alternativeadverts.com
 0.0.0.0 altifsgoods.xyz
@@ -3607,7 +3606,6 @@
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.1and1.com
 0.0.0.0 analytics.1und1.de
-0.0.0.0 analytics.21cn.com
 0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.30m.com
 0.0.0.0 analytics.3voie.fr
@@ -6592,7 +6590,6 @@
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tvdez.com
 0.0.0.0 cdn.umeng.com
-0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.user-api.com
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn.vdopia.com
@@ -9657,7 +9654,6 @@
 0.0.0.0 fendde.com
 0.0.0.0 fendidiorbags.com
 0.0.0.0 fenixm.com
-0.0.0.0 fentazi.gq
 0.0.0.0 ferreteriamestre.es
 0.0.0.0 fethungi.com
 0.0.0.0 fexclick.baidu.com
@@ -10649,7 +10645,6 @@
 0.0.0.0 guce.tacoda.at.atwola.com
 0.0.0.0 guce.vidible.tv
 0.0.0.0 guesswow.com
-0.0.0.0 guest-stat.com
 0.0.0.0 gui.secure.mobile.contentabc.com
 0.0.0.0 guillermorodriguez.es
 0.0.0.0 guitaralliance.com
@@ -11867,7 +11862,6 @@
 0.0.0.0 inmobiassets.inmobicdn.com
 0.0.0.0 inmobicdn.com
 0.0.0.0 inmobicdn.net
-0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 inneractive-assets.s3.amazonaws.com
@@ -13193,7 +13187,6 @@
 0.0.0.0 lyta.redigy.cz
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
-0.0.0.0 lzobilie.cf
 0.0.0.0 m-adash.ut.taobao.com
 0.0.0.0 m-cw.addthis.com
 0.0.0.0 m-dev.addthis.com
@@ -13811,7 +13804,6 @@
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minecraftpool.com
 0.0.0.0 minelearnto.ga
-0.0.0.0 minelearnto.gq
 0.0.0.0 minelearnto.ml
 0.0.0.0 minemonero.gq
 0.0.0.0 minemonero.pro
@@ -13865,7 +13857,6 @@
 0.0.0.0 minisite.letv.com
 0.0.0.0 minisite.rqmob.com
 0.0.0.0 ministedik.info
-0.0.0.0 minmissy.ga
 0.0.0.0 minmissy.gq
 0.0.0.0 minodazi.com
 0.0.0.0 minormeeting.com
@@ -15961,7 +15952,6 @@
 0.0.0.0 pixel-sc2.adsymptotic.com
 0.0.0.0 pixel-test.tapad.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
-0.0.0.0 pixel-useast.adsymptotic.com
 0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.adsafeprotected.com
@@ -17122,7 +17112,6 @@
 0.0.0.0 rebajapandora.es
 0.0.0.0 rebbeningat.info
 0.0.0.0 rebelsubway.com
-0.0.0.0 rebootv5.adsunflower.com
 0.0.0.0 rec.in.tira.cn
 0.0.0.0 rec.uc.cn
 0.0.0.0 recentphenomenon.com
@@ -17382,7 +17371,6 @@
 0.0.0.0 richwebmaster.com
 0.0.0.0 richwebmedia.com
 0.0.0.0 ridingintractable.com
-0.0.0.0 riefly.id
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 righthenwilbetrin.info
 0.0.0.0 rightmedia.com
@@ -18768,7 +18756,6 @@
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotify.demdex.net
 0.0.0.0 spottyfly.com
-0.0.0.0 spottysense.com
 0.0.0.0 spotx.tv
 0.0.0.0 spotxchange.com
 0.0.0.0 spoutable.com
@@ -19464,7 +19451,6 @@
 0.0.0.0 synad2.nuffnang.co.th
 0.0.0.0 synad3.nuffnang.co.th
 0.0.0.0 sync-ayl.adotmob.com
-0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adaptv.advertising.com
@@ -20350,7 +20336,6 @@
 0.0.0.0 track.bridge.systems
 0.0.0.0 track.brighteroption.com
 0.0.0.0 track.briskfile.com
-0.0.0.0 track.brucelead.com
 0.0.0.0 track.businessunionorg.com
 0.0.0.0 track.bustykimberxxx.com
 0.0.0.0 track.bustysolos.com
@@ -20745,7 +20730,6 @@
 0.0.0.0 track.msadcenter.szc.com
 0.0.0.0 track.msadcenter.tirj.com
 0.0.0.0 track.msadcenter.tnuw.com
-0.0.0.0 track.msadcenter.toj.com
 0.0.0.0 track.msadcenter.trg.com
 0.0.0.0 track.msadcenter.tux.com
 0.0.0.0 track.msadcenter.usm.com
@@ -21342,7 +21326,6 @@
 0.0.0.0 tracking.immobilienscout24.at
 0.0.0.0 tracking.interspar.at
 0.0.0.0 tracking.intl.miui.com
-0.0.0.0 tracking.klickthru.com
 0.0.0.0 tracking.leanmobi.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.linktogame.com
@@ -21883,7 +21866,6 @@
 0.0.0.0 ucheephu.com
 0.0.0.0 ucintsec.ucweb.com
 0.0.0.0 ucip.uc.cn
-0.0.0.0 uclylhzwg.com
 0.0.0.0 ucnews.ucweb.com
 0.0.0.0 ucnews.xenderbox.com
 0.0.0.0 ucoin.uc.cn
@@ -22103,7 +22085,6 @@
 0.0.0.0 us.rayjump.com
 0.0.0.0 us.tracking.justpremium.com
 0.0.0.0 us.uclx.ucweb.com
-0.0.0.0 us.unidingcom.com
 0.0.0.0 us.webtrack.com
 0.0.0.0 us.y.atwola.com
 0.0.0.0 us01.rayjump.com
@@ -22447,7 +22428,6 @@
 0.0.0.0 videoplayer.vice.technology
 0.0.0.0 videoplaza.com
 0.0.0.0 videoplaza.tv
-0.0.0.0 videoplus.vo.llnwd.net
 0.0.0.0 videopreview.sp.uae.uc.cn
 0.0.0.0 videopush.baidu.com
 0.0.0.0 videoroll.net
@@ -22658,7 +22638,6 @@
 0.0.0.0 w.m.taobao.com
 0.0.0.0 w.myspicylinks.com
 0.0.0.0 w.sharethis.com
-0.0.0.0 w.uptolike.com
 0.0.0.0 w.ushareit.com
 0.0.0.0 w.vip1.ams1.inmobi.com
 0.0.0.0 w.watchmovie.fun
@@ -22766,7 +22745,6 @@
 0.0.0.0 wdc8.mediation.nexage.com
 0.0.0.0 wdc8.nexage.com
 0.0.0.0 wdcstage-rtb.applovin.com
-0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 wdjaccount.open.uc.cn
 0.0.0.0 wdjaccountapi.open.uc.cn
 0.0.0.0 wdjbxcdriyjoeu.com
@@ -22867,7 +22845,6 @@
 0.0.0.0 webtrendslive.com
 0.0.0.0 webview.avazunativeads.com
 0.0.0.0 webview.c.avazunativeads.com
-0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 webxmr.com
 0.0.0.0 webyc.com
 0.0.0.0 wecar.ooo
@@ -22912,7 +22889,6 @@
 0.0.0.0 wheelches.info
 0.0.0.0 whenu.com
 0.0.0.0 whereapps.com
-0.0.0.0 whereismommy.gq
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whispa.com
@@ -23463,7 +23439,6 @@
 0.0.0.0 www.apmebf.com
 0.0.0.0 www.appanalytics.io
 0.0.0.0 www.appbrain.com
-0.0.0.0 www.appflood.com
 0.0.0.0 www.appia.com
 0.0.0.0 www.appk.mobi
 0.0.0.0 www.applovin.com
@@ -23476,7 +23451,6 @@
 0.0.0.0 www.appservestar.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 www.apptornado.com
-0.0.0.0 www.apxadtracking.net
 0.0.0.0 www.areametrics.com
 0.0.0.0 www.ariocroft.com
 0.0.0.0 www.arkonziv.com
@@ -24950,7 +24924,6 @@
 0.0.0.0 xn--blockhain-pfb.com
 0.0.0.0 xn--discrd-zxa.com
 0.0.0.0 xn--disordapp-s3a.com
-0.0.0.0 xn--etereum-yt3c.com
 0.0.0.0 xn--g3ckiih5mbk.com
 0.0.0.0 xn--googl-fsa.xyz
 0.0.0.0 xn--j7q197g.com
