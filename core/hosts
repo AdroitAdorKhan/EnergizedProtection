@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.296
-# Release: 296
-# Entries: 25,266
+# Version: 19.10.297
+# Release: 297
+# Entries: 25,265
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 23 Oct 19 20:00:18
+# Updated: Thu, 24 Oct 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -17620,7 +17620,6 @@
 0.0.0.0 rydohimowa.info
 0.0.0.0 ryllae.com
 0.0.0.0 ryminos.com
-0.0.0.0 ryybhoklizmuew.com
 0.0.0.0 rzekbhnk.top
 0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-bid.rmp.rakuten.com
