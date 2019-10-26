@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.298
-# Release: 298
-# Entries: 25,265
+# Version: 19.10.299
+# Release: 299
+# Entries: 25,261
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 25 Oct 19 20:00:21
+# Updated: Sat, 26 Oct 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1991,7 +1991,6 @@
 0.0.0.0 ads.austrianwings.info
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.avocarrot.com
-0.0.0.0 ads.avocet.io
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.beriltech.com
@@ -2213,7 +2212,6 @@
 0.0.0.0 ads.petspot-gmbh.com
 0.0.0.0 ads.phonemates.com
 0.0.0.0 ads.pinger.com
-0.0.0.0 ads.pof.com
 0.0.0.0 ads.pokerhuis.com
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.primissima.it
@@ -4213,7 +4211,6 @@
 0.0.0.0 analytics.wetpaint.me
 0.0.0.0 analytics.whatculture.com
 0.0.0.0 analytics.wintage.su
-0.0.0.0 analytics.wishabi.ca
 0.0.0.0 analytics.witglobal.net
 0.0.0.0 analytics.wittyfeed.com
 0.0.0.0 analytics.wizardsbd.com
@@ -17214,7 +17211,6 @@
 0.0.0.0 reklama.mironet.cz
 0.0.0.0 reklama.reflektor.cz
 0.0.0.0 reklamcsere.hu
-0.0.0.0 reklame.unwired-i.net
 0.0.0.0 reklamport.com
 0.0.0.0 reklamz.com
 0.0.0.0 rekordr.net
