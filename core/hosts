@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.299
-# Release: 299
-# Entries: 25,261
+# Version: 19.10.300
+# Release: 300
+# Entries: 25,292
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 26 Oct 19 20:00:20
+# Updated: Sun, 27 Oct 19 20:00:30
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2793,6 +2793,7 @@
 0.0.0.0 adservice.google.xn--ngbrx
 0.0.0.0 adservice.google.xn--node
 0.0.0.0 adservice.tohsoft.com
+0.0.0.0 adservices.google.com
 0.0.0.0 adserving.kiosked.iponweb.net
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservingfactory.com
@@ -4761,6 +4762,7 @@
 0.0.0.0 apt.insight.adsrvr.org
 0.0.0.0 apt.match.adsrvr.org
 0.0.0.0 apt.newrelic.com
+0.0.0.0 aptalebow.site
 0.0.0.0 apture.com
 0.0.0.0 apus.rayjump.com
 0.0.0.0 apvdr.com
@@ -4856,8 +4858,10 @@
 0.0.0.0 asicsreduceri.com
 0.0.0.0 asicssport.club
 0.0.0.0 asp.animelab.com
+0.0.0.0 aspboxant.club
 0.0.0.0 asqpniwvxea.com
 0.0.0.0 asrety.com
+0.0.0.0 assampant.club
 0.0.0.0 asset.bnz88.news
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset1.sponsorpay.com
@@ -4986,6 +4990,7 @@
 0.0.0.0 audriasite.pro
 0.0.0.0 aueilz.ml
 0.0.0.0 auethw.qkurtnucn.com
+0.0.0.0 augheguw.net
 0.0.0.0 augur.io
 0.0.0.0 auspipe.com
 0.0.0.0 auth-canary.flurry.com
@@ -6689,6 +6694,7 @@
 0.0.0.0 celtra.com
 0.0.0.0 cementlog.com
 0.0.0.0 cemeta-ucads.ucweb.com
+0.0.0.0 cening-setects.com
 0.0.0.0 centerpointmedia.com
 0.0.0.0 centili.com
 0.0.0.0 centionbreased.info
@@ -7190,6 +7196,7 @@
 0.0.0.0 co2aqu.atdmt.com
 0.0.0.0 co4glinati.ru
 0.0.0.0 coandroid.ru
+0.0.0.0 coazuthu.net
 0.0.0.0 cobalten.com
 0.0.0.0 coconuts.boy.jp
 0.0.0.0 codacy.pubmatic.com
@@ -7297,8 +7304,12 @@
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.xhamster.com
+0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector0.xhamster.com		
 0.0.0.0 collector1.xhamster.desi
 0.0.0.0 collector1.xhamster2.com
+0.0.0.0 collector2.xhamster.com
+0.0.0.0 collector2.xhamster2.com
 0.0.0.0 collector3.xhamster.com
 0.0.0.0 collector3.xhamster.desi
 0.0.0.0 collector3.xhamster2.com
@@ -7333,6 +7344,7 @@
 0.0.0.0 comgnnyx.com
 0.0.0.0 comicnewspaper.com
 0.0.0.0 comicsnewspaper.com
+0.0.0.0 cominghamer.info
 0.0.0.0 comining.io
 0.0.0.0 comjs.moatads.com
 0.0.0.0 commank.pro
@@ -7894,6 +7906,7 @@
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
+0.0.0.0 d1r90st78epsag.cloudfront.net
 0.0.0.0 d2.video-ak.cdn.spotify.com
 0.0.0.0 d2.yengo.com
 0.0.0.0 d20i5e3rqc90ne.cloudfront.net
@@ -9756,6 +9769,7 @@
 0.0.0.0 fkehg.com
 0.0.0.0 fkey.r.xoxknct.com
 0.0.0.0 fkey.s.xoxknct.com
+0.0.0.0 fkloazpi.com
 0.0.0.0 fkqrjsghoradylfslg.com
 0.0.0.0 fkskin.s.xoxknct.com
 0.0.0.0 flagads.net
@@ -10311,6 +10325,7 @@
 0.0.0.0 gigabyte.club
 0.0.0.0 gigarho.com
 0.0.0.0 gigsis.net
+0.0.0.0 giijgeicchgigegjaee.ru
 0.0.0.0 gillga.com
 0.0.0.0 gillynn.com
 0.0.0.0 gimg.baidu.com
@@ -11342,6 +11357,7 @@
 0.0.0.0 id.google.co.za
 0.0.0.0 id.google.co.zm
 0.0.0.0 id.google.co.zw
+0.0.0.0 id.google.com
 0.0.0.0 id.google.com.af
 0.0.0.0 id.google.com.ag
 0.0.0.0 id.google.com.ai
@@ -12102,6 +12118,7 @@
 0.0.0.0 isupportcorp.com
 0.0.0.0 isupportteam.com
 0.0.0.0 isuwifauzap.com
+0.0.0.0 iszyb5kpwcti.ru
 0.0.0.0 it-go.kelkoogroup.net
 0.0.0.0 it.admob.com
 0.0.0.0 it.adserver.yahoo.com
@@ -12530,6 +12547,7 @@
 0.0.0.0 kmpiframe.keepmeposted.com.mt
 0.0.0.0 kmsexporters.com
 0.0.0.0 knifeoctopus.com
+0.0.0.0 knl.mntzrlt.net
 0.0.0.0 knorex.com
 0.0.0.0 knowd.com
 0.0.0.0 ko.support.appsflyer.com
@@ -12661,6 +12679,7 @@
 0.0.0.0 latest.accountkit.com
 0.0.0.0 latestbags.club
 0.0.0.0 latestweddingdress.info
+0.0.0.0 latforddom.pro
 0.0.0.0 laugh.plantationfront.pw
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
@@ -12990,6 +13009,7 @@
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.hunantv.com
+0.0.0.0 log.indiamart.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.lkjuio.com
 0.0.0.0 log.mix.sina.com.cn
@@ -13272,6 +13292,7 @@
 0.0.0.0 m1.fjgbigejedcbgegjadi.ru
 0.0.0.0 m1.fwmrm.net
 0.0.0.0 m1.gfiadihbdcigdbdfaec.ru
+0.0.0.0 m1.giijgeicchgigegjaee.ru
 0.0.0.0 m10s8.com
 0.0.0.0 m2.ai
 0.0.0.0 m2.amanad.adtdp.com
@@ -13284,6 +13305,7 @@
 0.0.0.0 m2.fiahcdedjfiaeiacadh.ru
 0.0.0.0 m2.fjgbigejedcbgegjadi.ru
 0.0.0.0 m2.gfiadihbdcigdbdfaec.ru
+0.0.0.0 m2.giijgeicchgigegjaee.ru
 0.0.0.0 m2.trafficjunky.net
 0.0.0.0 m2pub.adk2.co
 0.0.0.0 m2pub.com
@@ -13297,6 +13319,7 @@
 0.0.0.0 m3.efhabjaabgfbbegjacj.ru
 0.0.0.0 m3.fjgbigejedcbgegjadi.ru
 0.0.0.0 m3.gfiadihbdcigdbdfaec.ru
+0.0.0.0 m3.giijgeicchgigegjaee.ru
 0.0.0.0 m32.media
 0.0.0.0 m3gce.ads.tremorhub.com
 0.0.0.0 m5.top10ranking.pl
@@ -13517,6 +13540,7 @@
 0.0.0.0 mbp.yimg.com
 0.0.0.0 mbuyu.nl
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yandex.ru
 0.0.0.0 mcafeemyaccount.com
 0.0.0.0 mcamlike.store
 0.0.0.0 mcdn.batmobi.net
@@ -15562,6 +15586,7 @@
 0.0.0.0 p351909.cdaz.icu
 0.0.0.0 p352527.cdaz.icu
 0.0.0.0 p352817.cdaz.icu
+0.0.0.0 p352817.clksite.com
 0.0.0.0 p35296.cdaz.icu
 0.0.0.0 p35296.clksite.com
 0.0.0.0 p35296.intab.site
@@ -15571,6 +15596,7 @@
 0.0.0.0 p359161.cdaz.icu
 0.0.0.0 p359161.clksite.com
 0.0.0.0 p366607.clksite.com
+0.0.0.0 p368417.clksite.com
 0.0.0.0 p37703.dnsecho.opera.com
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 p4.firrectly.top
@@ -18696,7 +18722,6 @@
 0.0.0.0 speedclics.ero-advertising.com
 0.0.0.0 speeddials.opera.com
 0.0.0.0 speederagtm.speedera.net
-0.0.0.0 speedlicks.ero-advertising.com
 0.0.0.0 speednetwork
 0.0.0.0 speednetwork1.adk2.co
 0.0.0.0 speednetwork13.adk2.co
@@ -19952,6 +19977,7 @@
 0.0.0.0 time.pd.ak.o.brightcove.com
 0.0.0.0 time.uds.ak.o.brightcove.com
 0.0.0.0 timeinc.trc.taboola.com
+0.0.0.0 timesaptizen.info
 0.0.0.0 timeteh.com
 0.0.0.0 timetofun.mobi
 0.0.0.0 timetogame.com
@@ -20342,7 +20368,6 @@
 0.0.0.0 track.campaignmonitor.com
 0.0.0.0 track.cassandracruz.com
 0.0.0.0 track.catalinacruz.com
-0.0.0.0 track.catalogs.com
 0.0.0.0 track.catfaclick.com
 0.0.0.0 track.ce1.click
 0.0.0.0 track.cedsdigital.it
@@ -23227,6 +23252,7 @@
 0.0.0.0 www.a.qwertize.com
 0.0.0.0 www.a.rad.msn.com
 0.0.0.0 www.aata.ero-advertising.com
+0.0.0.0 www.aayeljzpuu.com
 0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accu-chek.it
 0.0.0.0 www.acdn.adnxs.com
@@ -23748,6 +23774,7 @@
 0.0.0.0 www.fireabsorb.fun
 0.0.0.0 www.firstclass-download.com
 0.0.0.0 www.fixnow.us
+0.0.0.0 www.fkloazpi.com
 0.0.0.0 www.flashtest.ero-advertising.com
 0.0.0.0 www.flatdee.ero-advertising.com
 0.0.0.0 www.flatfae.ero-advertising.com
@@ -23910,6 +23937,7 @@
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.iqjkxyrbsl.com
 0.0.0.0 www.iqkmob.com
+0.0.0.0 www.iqtygxmjgbakm.com
 0.0.0.0 www.irtyf.com
 0.0.0.0 www.isupportcorp.com
 0.0.0.0 www.isupportteam.com
@@ -24080,6 +24108,7 @@
 0.0.0.0 www.neodatagroup.com
 0.0.0.0 www.neomobile.net
 0.0.0.0 www.neotrivius.com
+0.0.0.0 www.neowin.net
 0.0.0.0 www.netgearrouterhelp.com
 0.0.0.0 www.netsize.com
 0.0.0.0 www.netweek.it
@@ -24690,6 +24719,7 @@
 0.0.0.0 www.yoocws.com
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.yourtuber.info
+0.0.0.0 www.ypmwkketrdbwn.com
 0.0.0.0 www.yserch.com
 0.0.0.0 www.ywpkgqasoe.bid
 0.0.0.0 www.z.moatads.com
@@ -25119,6 +25149,7 @@
 0.0.0.0 youtube-sex.club
 0.0.0.0 youtube.adlook.me
 0.0.0.0 youyong.gq
+0.0.0.0 ypmwkketrdbwn.com
 0.0.0.0 ypool.net
 0.0.0.0 yps.link
 0.0.0.0 yqucllrbg.com
