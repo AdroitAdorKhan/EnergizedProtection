@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.300
-# Release: 300
-# Entries: 25,292
+# Version: 19.10.301
+# Release: 301
+# Entries: 25,302
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 27 Oct 19 20:00:30
+# Updated: Mon, 28 Oct 19 20:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -134,6 +134,7 @@
 0.0.0.0 19.video-ak.cdn.spotify.com
 0.0.0.0 191gm.com
 0.0.0.0 198935.engine.mobileapptracking.com
+0.0.0.0 19b6ab73ccb000.com
 0.0.0.0 1a.video-ak.cdn.spotify.com
 0.0.0.0 1b.video-ak.cdn.spotify.com
 0.0.0.0 1b969cef84d93b43.com
@@ -293,6 +294,7 @@
 0.0.0.0 365sbaffiliates.com
 0.0.0.0 37.tityx.com
 0.0.0.0 37.video-ak.cdn.spotify.com
+0.0.0.0 3724f6534b1c7.com
 0.0.0.0 38.video-ak.cdn.spotify.com
 0.0.0.0 381b56a86b7.com
 0.0.0.0 38389438.com
@@ -414,6 +416,7 @@
 0.0.0.0 58coin.com
 0.0.0.0 58fc6fe53e.com
 0.0.0.0 5a.video-ak.cdn.spotify.com
+0.0.0.0 5a4bddecbc4.com
 0.0.0.0 5bee90e0ee.com
 0.0.0.0 5c.video-ak.cdn.spotify.com
 0.0.0.0 5c5757df82c.com
@@ -450,6 +453,7 @@
 0.0.0.0 68a6d200.contentabc.com
 0.0.0.0 69.video-ak.cdn.spotify.com
 0.0.0.0 69oxt4q05.com
+0.0.0.0 6b714f6277c9faa.com
 0.0.0.0 6c.video-ak.cdn.spotify.com
 0.0.0.0 6c7105f4aa34.com
 0.0.0.0 6ce0a8be8375b.com
@@ -630,7 +634,6 @@
 0.0.0.0 a.adskeeper.co.uk
 0.0.0.0 a.adsrvr.org
 0.0.0.0 a.adtech.de
-0.0.0.0 a.adtng.com
 0.0.0.0 a.analytics.yahoo.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applovin.com
@@ -2222,7 +2225,6 @@
 0.0.0.0 ads.proboards.com
 0.0.0.0 ads.proc.cc
 0.0.0.0 ads.prod.appia.com
-0.0.0.0 ads.program3.com
 0.0.0.0 ads.psd2html.com
 0.0.0.0 ads.publick.apa.net
 0.0.0.0 ads.pubmatic.com
@@ -2502,7 +2504,6 @@
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.doccheck.com
 0.0.0.0 adserver.exoticads.com
-0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.gamesvillage.it
 0.0.0.0 adserver.goforandroid.com
@@ -2858,7 +2859,6 @@
 0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
-0.0.0.0 adspacds.ero-advertising.com
 0.0.0.0 adspaces.ero-ades.ero-advertising.com
 0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 adspaces.ero-apaces.ero-advertising.com
@@ -3804,7 +3804,6 @@
 0.0.0.0 analytics.freedom.press
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.fs-bdash.com
-0.0.0.0 analytics.fuckingawesome.com
 0.0.0.0 analytics.fusepowered.com
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.gandi.net
@@ -6379,7 +6378,6 @@
 0.0.0.0 cdejido.es
 0.0.0.0 cdhiaqb3unbsye.ru
 0.0.0.0 cdmstudy.site
-0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-1.trafficfabrik.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn-a2-ncl.optimizely.com
@@ -7914,6 +7912,7 @@
 0.0.0.0 d27tpsznug51gz.cloudfront.net
 0.0.0.0 d29i6o40xcgdai.cloudfront.net
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
+0.0.0.0 d2anahhhmp1ffz.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
@@ -7942,6 +7941,7 @@
 0.0.0.0 d5.video-ak.cdn.spotify.com
 0.0.0.0 d6.video-ak.cdn.spotify.com
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
+0.0.0.0 d6afd39ace.com
 0.0.0.0 d7.video-ak.cdn.spotify.com
 0.0.0.0 d8.video-ak.cdn.spotify.com
 0.0.0.0 d824d7f5cbcb0e00.com
@@ -8055,6 +8055,7 @@
 0.0.0.0 date.ero-advertising.com
 0.0.0.0 date.studynerdz.com
 0.0.0.0 dateresolved
+0.0.0.0 dates.promo
 0.0.0.0 dating-banners.com
 0.0.0.0 dating.mgid.com
 0.0.0.0 dating4singlesonline1.com
@@ -9019,6 +9020,7 @@
 0.0.0.0 ee02gws.advertising.com
 0.0.0.0 ee02hmq.advertising.com
 0.0.0.0 ee12gp4.advertising.com
+0.0.0.0 ee3b191a7070.com
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adk2.co
 0.0.0.0 ee9a8f4a53.com
 0.0.0.0 eebfffjegjajjiacaci.ru
@@ -9193,6 +9195,7 @@
 0.0.0.0 enviousthread.com
 0.0.0.0 eo8vs.voluumtrk.com
 0.0.0.0 eolihot.com
+0.0.0.0 eopazyxdkppnz.com
 0.0.0.0 eosads.com
 0.0.0.0 ep-uswest.ifc.inmobi.com
 0.0.0.0 ep.xone.com
@@ -9964,7 +9967,6 @@
 0.0.0.0 free-mind-movies.info
 0.0.0.0 free.atdmt.com
 0.0.0.0 free.sencelles.info
-0.0.0.0 free404go.cf
 0.0.0.0 free404go.gq
 0.0.0.0 free4faucet.com
 0.0.0.0 freeadult.games
@@ -10013,7 +10015,6 @@
 0.0.0.0 friesmeasureretain.info
 0.0.0.0 frightenedpotato.com
 0.0.0.0 friv4.me
-0.0.0.0 fromonetilltwo.cf
 0.0.0.0 fromthedeskofmikestewart.com
 0.0.0.0 frrbsrbs.com
 0.0.0.0 frtyi.com
@@ -11015,7 +11016,6 @@
 0.0.0.0 hkgprod-rtbwin.applovin.com
 0.0.0.0 hkgstage-rtb.applovin.com
 0.0.0.0 hkgstage-rtbwin.applovin.com
-0.0.0.0 hkhotpewfxr.com
 0.0.0.0 hkng001.batmobi.net
 0.0.0.0 hl-img.peco.uodoo.com
 0.0.0.0 hlok.qertewrt.com
@@ -11077,7 +11077,6 @@
 0.0.0.0 hot-mob.com
 0.0.0.0 hot.browser.intl.miui.com
 0.0.0.0 hot.newsfeed.intl.miui.com
-0.0.0.0 hotchat-im.iqiyi.com
 0.0.0.0 hotcheapshop.store
 0.0.0.0 hotchedmothe.club
 0.0.0.0 hotdogsandads.com
@@ -12411,6 +12410,7 @@
 0.0.0.0 jwpevent.1rx.io
 0.0.0.0 jwpltx.com
 0.0.0.0 jz.genieessp.com
+0.0.0.0 jzcqmatkjfihv.com
 0.0.0.0 jzqce.com
 0.0.0.0 jzt.jd.com
 0.0.0.0 jzwjq.ads.tremorhub.com
@@ -13086,7 +13086,6 @@
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
-0.0.0.0 lokalfed.cf
 0.0.0.0 lokalfed.ga
 0.0.0.0 lokalfed.gq
 0.0.0.0 lokalfed.ml
@@ -13824,7 +13823,6 @@
 0.0.0.0 mindshare.de
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minecraftpool.com
-0.0.0.0 minelearnto.ga
 0.0.0.0 minelearnto.ml
 0.0.0.0 minemonero.gq
 0.0.0.0 minemonero.pro
@@ -16446,6 +16444,7 @@
 0.0.0.0 prague-trk.adtdp.com
 0.0.0.0 pray.priests.top
 0.0.0.0 prchecker.info
+0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 preads.skypeassets.net
 0.0.0.0 prebid-cache.pub.network
 0.0.0.0 prebid.adnxs.com
@@ -16825,6 +16824,7 @@
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 q.azcentral.com
+0.0.0.0 q.myvisualiq.net	
 0.0.0.0 q.trafficfabrik.com
 0.0.0.0 q1-tdsge.com
 0.0.0.0 q1media.com
@@ -16834,6 +16834,7 @@
 0.0.0.0 qa-admin.actionbutton.co
 0.0.0.0 qa-api.actionbutton.co
 0.0.0.0 qa-craft.advertising.com
+0.0.0.0 qa.myvisualiq.net	
 0.0.0.0 qa.rlcdn.com
 0.0.0.0 qa.tacoda.at.atwola.com
 0.0.0.0 qaapi.skype.net
@@ -16938,6 +16939,7 @@
 0.0.0.0 r.l.admob.com
 0.0.0.0 r.l.youku.com
 0.0.0.0 r.msn.com
+0.0.0.0 r.myvisualiq.net
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.soarsvr.com
@@ -17475,7 +17477,6 @@
 0.0.0.0 rontotlearwass.pro
 0.0.0.0 roosterfirework.com
 0.0.0.0 ropa.buyfashionshop.com
-0.0.0.0 ropkrhilt.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselinlin.com
 0.0.0.0 rosemand.pro
@@ -17859,6 +17860,7 @@
 0.0.0.0 sarisaville.com
 0.0.0.0 sas2017.ereality.org
 0.0.0.0 sascdn.com
+0.0.0.0 sasha.dates.promo
 0.0.0.0 saveads.net
 0.0.0.0 savorystructure.com
 0.0.0.0 sax.peakonspot.com
@@ -19895,6 +19897,7 @@
 0.0.0.0 theonecdn.com
 0.0.0.0 thepiratebay.cr
 0.0.0.0 therapistla.com
+0.0.0.0 therentsse.pro
 0.0.0.0 therichkids.com
 0.0.0.0 thermoven.es
 0.0.0.0 therneserutybin.info
@@ -21817,6 +21820,7 @@
 0.0.0.0 u.eg.bav.baidu.com
 0.0.0.0 u.medialytics.com
 0.0.0.0 u.moatads.com
+0.0.0.0 u.myvisualiq.net
 0.0.0.0 u.outbrain.com
 0.0.0.0 u.th.bav.baidu.com
 0.0.0.0 u.uc.cn
@@ -22206,6 +22210,7 @@
 0.0.0.0 v.amazon-adsystem.com
 0.0.0.0 v.l.youku.com
 0.0.0.0 v.movad.de
+0.0.0.0 v.myvisualiq.net
 0.0.0.0 v.uc.cn
 0.0.0.0 v1.addthis.com
 0.0.0.0 v1.addthisedge.com
@@ -22345,7 +22350,6 @@
 0.0.0.0 verresof.com
 0.0.0.0 versiliaguide.com
 0.0.0.0 version1.radiobanners.radionomy.agency.adhese.com
-0.0.0.0 versusafteberr.ga
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
 0.0.0.0 vertco.in
@@ -22452,6 +22456,7 @@
 0.0.0.0 videopush.baidu.com
 0.0.0.0 videoroll.net
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
+0.0.0.0 videos.fyi
 0.0.0.0 videos.oovvuu.com
 0.0.0.0 videos2.vidible.tv
 0.0.0.0 videosalon.by
@@ -23578,6 +23583,7 @@
 0.0.0.0 www.burstnet.com
 0.0.0.0 www.buysellads.com
 0.0.0.0 www.buzzcity.net
+0.0.0.0 www.bwjteztqdlg.com
 0.0.0.0 www.by007.cn
 0.0.0.0 www.bylki.me
 0.0.0.0 www.c.atdmt.com
@@ -23695,6 +23701,7 @@
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.df.telemetry.microsoft.com
 0.0.0.0 www.dfw1.vip.inmobi.com
+0.0.0.0 www.dfyudpyceqoy.com
 0.0.0.0 www.digiad.co
 0.0.0.0 www.digitalbees.it
 0.0.0.0 www.digitaldsp.com
@@ -23739,6 +23746,7 @@
 0.0.0.0 www.elviajeroinquieto.com
 0.0.0.0 www.embed.sendtonews.com
 0.0.0.0 www.eo8vs.voluumtrk.com
+0.0.0.0 www.eopazyxdkppnz.com
 0.0.0.0 www.eqads.com
 0.0.0.0 www.ero-adverising.com.ero-advertising.com
 0.0.0.0 www.ero-advertising.com
@@ -23974,6 +23982,7 @@
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
+0.0.0.0 www.jzcqmatkjfihv.com
 0.0.0.0 www.karisimbi.net
 0.0.0.0 www.kds.ero-advertising.com
 0.0.0.0 www.keepload.online
@@ -24740,6 +24749,7 @@
 0.0.0.0 www.zspttttiyda.com
 0.0.0.0 www.zv0wp.voluumtrk.com
 0.0.0.0 www.zv1.sierra-boa.com
+0.0.0.0 www.zwigjtgnzfn.com
 0.0.0.0 www.zwnlqwfdbu.com
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zyxow.com
@@ -25157,7 +25167,6 @@
 0.0.0.0 yrlubestore.com
 0.0.0.0 yrmkp.instagirlshub.com
 0.0.0.0 yrsjqzfku.com
-0.0.0.0 yrtumngfdsdgf.ga
 0.0.0.0 yserch.com
 0.0.0.0 yt.advmaker.su
 0.0.0.0 yt.moatads.com
@@ -25323,6 +25332,7 @@
 0.0.0.0 zv0wp.voluumtrk.com
 0.0.0.0 zv1.sierra-boa.com
 0.0.0.0 zwaar.org
+0.0.0.0 zwigjtgnzfn.com
 0.0.0.0 zwnlqwfdbu.com
 0.0.0.0 zwprxzbnzxc.com
 0.0.0.0 zww.ero-advertising.com
