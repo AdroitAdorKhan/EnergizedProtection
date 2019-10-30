@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.302
-# Release: 302
-# Entries: 25,469
+# Version: 19.10.303
+# Release: 303
+# Entries: 25,497
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 29 Oct 19 20:00:27
+# Updated: Wed, 30 Oct 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -140,6 +140,7 @@
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1c.video-ak.cdn.spotify.com
 0.0.0.0 1ccbt.com
+0.0.0.0 1cloud-tech-sites.info
 0.0.0.0 1d.video-ak.cdn.spotify.com
 0.0.0.0 1d5ddc19790.traffic-c.com
 0.0.0.0 1e.video-ak.cdn.spotify.com
@@ -490,6 +491,7 @@
 0.0.0.0 7949453bcd85.com
 0.0.0.0 798c7003dbb.com
 0.0.0.0 7a.video-ak.cdn.spotify.com
+0.0.0.0 7a3d62b42e1.com
 0.0.0.0 7a4edfa2757.com
 0.0.0.0 7b.video-ak.cdn.spotify.com
 0.0.0.0 7bb15da640.com
@@ -4262,7 +4264,6 @@
 0.0.0.0 analytics.yopify.com.herokudns.com
 0.0.0.0 analytics.youporn.phncdn.com
 0.0.0.0 analytics.youramigo.com
-0.0.0.0 analytics.zdbb.net
 0.0.0.0 analytics.zendesk.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 analytics.zhaopin.cn
@@ -6547,6 +6548,7 @@
 0.0.0.0 cdn.evidon.com
 0.0.0.0 cdn.evrhst.com
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 cdn.feed.eotech.co
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn.foxpush.net
@@ -8604,6 +8606,7 @@
 0.0.0.0 dordeaux.com
 0.0.0.0 dorectertnerow.info
 0.0.0.0 doretma.com
+0.0.0.0 dormitysature.info
 0.0.0.0 dotandad.com
 0.0.0.0 dotisouldheck.pro
 0.0.0.0 dotomi.com
@@ -8789,6 +8792,7 @@
 0.0.0.0 dv36o6ux8o.s.ad6media.fr
 0.0.0.0 dvd-electronics.at
 0.0.0.0 dvdiri0etkensr.ru
+0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwarfpool.com
 0.0.0.0 dwcreations.net
 0.0.0.0 dwxcuzd9jnttzq.ru
@@ -8972,6 +8976,7 @@
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea.video-ak.cdn.spotify.com
 0.0.0.0 eacdn.com
+0.0.0.0 eacf62ab31.com
 0.0.0.0 eadexchange.com
 0.0.0.0 eads.ir
 0.0.0.0 eadv.it
@@ -9254,6 +9259,7 @@
 0.0.0.0 entionale.info
 0.0.0.0 entity-search.service.newrelic.com
 0.0.0.0 entrecard.s3.amazonaws.com
+0.0.0.0 entrexperit.pro
 0.0.0.0 entry.baidu.com
 0.0.0.0 enviousthread.com
 0.0.0.0 eo8vs.voluumtrk.com
@@ -9342,6 +9348,7 @@
 0.0.0.0 et.w.eastus.avi.inmobi.com
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 etargetnet.com
+0.0.0.0 etarynoneta.pro
 0.0.0.0 etc-poolcrypto.org
 0.0.0.0 etcmine.pro
 0.0.0.0 etcodes.com
@@ -9548,6 +9555,7 @@
 0.0.0.0 ezonlinesupport.com
 0.0.0.0 ezqkuwqlvnv.com
 0.0.0.0 eztexting.com
+0.0.0.0 eztravel.info
 0.0.0.0 eztvtoday.imageshack.host
 0.0.0.0 eztvtorrentnet.imageshack.host
 0.0.0.0 ezula.com
@@ -9589,6 +9597,7 @@
 0.0.0.0 f97e014599.com
 0.0.0.0 f9k1iiwg.emltrk.com
 0.0.0.0 fa.video-ak.cdn.spotify.com
+0.0.0.0 fa6da5d0146b.com
 0.0.0.0 fa76535d143ed.com
 0.0.0.0 fabriefly.mobi
 0.0.0.0 fabrkrup.com
@@ -9700,6 +9709,7 @@
 0.0.0.0 feed.adrelayer.com
 0.0.0.0 feed.baidu.com
 0.0.0.0 feed.bnz88.news
+0.0.0.0 feed.eotech.co
 0.0.0.0 feed.r-tb.com
 0.0.0.0 feed.seodollars.com
 0.0.0.0 feed.taboola.com
@@ -9749,7 +9759,6 @@
 0.0.0.0 fhatfee.ero-advertising.com
 0.0.0.0 fhr.cdn.mozilla.net
 0.0.0.0 fhr.data.mozilla.com
-0.0.0.0 fhtlyoqzyjjof.com
 0.0.0.0 fi.ads.justpremium.com
 0.0.0.0 fi.adserver.yahoo.com
 0.0.0.0 fi.advertising.com
@@ -10116,8 +10125,10 @@
 0.0.0.0 fulltraffic.net
 0.0.0.0 functionalclam.com
 0.0.0.0 functionalcrown.com
+0.0.0.0 funhot247.host
 0.0.0.0 funklicks.com
 0.0.0.0 funnwebs.com
+0.0.0.0 funny247.host
 0.0.0.0 funnybox.mobi
 0.0.0.0 funpageexchange.com
 0.0.0.0 funsafetab.com
@@ -11193,6 +11204,7 @@
 0.0.0.0 hqyenmzgxk.com
 0.0.0.0 hr.batmobi.net
 0.0.0.0 hrahdmon.com
+0.0.0.0 hrdc16.xyz
 0.0.0.0 href.li
 0.0.0.0 hrtya.com
 0.0.0.0 hs-analytics.net
@@ -11616,7 +11628,6 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
 0.0.0.0 ieuyrz.cf
-0.0.0.0 if1j0ytgkypa.tk
 0.0.0.0 ifa.tube8live.com
 0.0.0.0 ifacelog.iqiyi.com
 0.0.0.0 ifc3.vip.dfw1.inmobi.com
@@ -12456,12 +12467,14 @@
 0.0.0.0 jsretra.com
 0.0.0.0 jssdk-api.rayjump.com
 0.0.0.0 jssdk.rayjump.com
+0.0.0.0 jstveqeybqzoh.com
 0.0.0.0 jsu.adskeeper.co.uk
 0.0.0.0 jsu.mgid.com
 0.0.0.0 jtactive.com
 0.0.0.0 jtneoqbd.com
 0.0.0.0 jtti.net
 0.0.0.0 jucan.ga
+0.0.0.0 judua3rtinpst0s.xyz
 0.0.0.0 juiceads.net
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
@@ -12590,7 +12603,6 @@
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywordsconnect.com
 0.0.0.0 kf.uc.cn
-0.0.0.0 kfxrukfzqazrs.com
 0.0.0.0 kfz-park-betzing.de
 0.0.0.0 kg.snapads.com
 0.0.0.0 khlgauqt2000.com
@@ -12693,9 +12705,11 @@
 0.0.0.0 kugo.cc
 0.0.0.0 kuikdelivery.com
 0.0.0.0 kumpulblogger.com
+0.0.0.0 kumpzfcczy.com
 0.0.0.0 kunlun.co
 0.0.0.0 kuox.es
 0.0.0.0 kw.ads.justpremium.com
+0.0.0.0 kwhgsdnkrusyw.com
 0.0.0.0 kwurl.ucweb.com
 0.0.0.0 kz6c.piguiqproxy.com
 0.0.0.0 l-idsync.rlcdn.com
@@ -12855,6 +12869,7 @@
 0.0.0.0 learn.mixpanel.com
 0.0.0.0 learn.newrelic.com
 0.0.0.0 learning-services-media.brightcove.com
+0.0.0.0 lease.funhot247.host
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 ledinund.com
@@ -13182,7 +13197,6 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lokalfed.ga
-0.0.0.0 lokalfed.gq
 0.0.0.0 lokalfed.ml
 0.0.0.0 lokalfed.tk
 0.0.0.0 lol.umengcloud.com
@@ -13251,6 +13265,7 @@
 0.0.0.0 ltctrain.com
 0.0.0.0 ltdapple.com
 0.0.0.0 ltgollersftr.com
+0.0.0.0 ltlxvxjjmvhn.me
 0.0.0.0 ltnewsale.com
 0.0.0.0 ltp2qzteb4.s.ad6media.fr
 0.0.0.0 lu.ads.justpremium.com
@@ -13537,7 +13552,6 @@
 0.0.0.0 marchex.com
 0.0.0.0 marfeel.com
 0.0.0.0 margarite.es
-0.0.0.0 mariadeabreu.gq
 0.0.0.0 marial.pro
 0.0.0.0 marimedia.com
 0.0.0.0 mark.reevoo.com
@@ -14010,7 +14024,6 @@
 0.0.0.0 ml314.com
 0.0.0.0 mlands.ru
 0.0.0.0 mlb.did.ijinshan.com
-0.0.0.0 mlcr0soft.gq
 0.0.0.0 mlcros0ft.gq
 0.0.0.0 mlcros0ft.tk
 0.0.0.0 mlcrosolt.tk
@@ -14031,6 +14044,7 @@
 0.0.0.0 mmstat.ucweb.com
 0.0.0.0 mmsubtitles.co
 0.0.0.0 mmtro.com
+0.0.0.0 mmunitedaw.info
 0.0.0.0 mn.moatads.com
 0.0.0.0 mnet-ad.net
 0.0.0.0 mnetads.com
@@ -14997,6 +15011,7 @@
 0.0.0.0 ns6.ucweb.com
 0.0.0.0 ns7.ucweb.com
 0.0.0.0 ns74.appservestar.com
+0.0.0.0 ns8469rfvth42.xyz
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 nscontext.com
@@ -15066,6 +15081,7 @@
 0.0.0.0 oadj.taptica.com
 0.0.0.0 oainternetservices.com
 0.0.0.0 oakmanner.ga
+0.0.0.0 oalselry.com
 0.0.0.0 oao-js-tag.onemobile.yahoo.com
 0.0.0.0 oappi.com
 0.0.0.0 oas.repubblica.it
@@ -15393,7 +15409,6 @@
 0.0.0.0 oss.ucdl.pp.uc.cn
 0.0.0.0 osupdate.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
-0.0.0.0 ot.knotwork.com
 0.0.0.0 otcdeal.com
 0.0.0.0 otcdn2.auditude.com
 0.0.0.0 oth.mgid.com
@@ -16599,6 +16614,7 @@
 0.0.0.0 prestadsng.com
 0.0.0.0 presto-internals.adotmob.com
 0.0.0.0 presto-prod.adotmob.com
+0.0.0.0 prevdo1.ml
 0.0.0.0 preview.adform.com
 0.0.0.0 preview.admixer.net
 0.0.0.0 preview.adsnative.com
@@ -17915,6 +17931,7 @@
 0.0.0.0 safelyawake.com
 0.0.0.0 safeonlinesites.com
 0.0.0.0 safety.google.com.bnkkmrloiq.fv2h1x84fypxxk0xkbtjatjkajltcgwma.science
+0.0.0.0 safeurl.maxthon.cn
 0.0.0.0 sageanalyst.net
 0.0.0.0 sail-horizon.com
 0.0.0.0 sakthikaa.com
@@ -18232,7 +18249,6 @@
 0.0.0.0 sellebrity.com.ssl.re.getclicky.com
 0.0.0.0 sellhealth.com
 0.0.0.0 seloger.demdex.net
-0.0.0.0 selverrytony.cf
 0.0.0.0 selverrytony.tk
 0.0.0.0 sem.juiceadv.com
 0.0.0.0 semanticrep.com
@@ -19873,6 +19889,7 @@
 0.0.0.0 techtricksworld.com
 0.0.0.0 techvedic.co.uk
 0.0.0.0 techvedic.com
+0.0.0.0 techvip.site
 0.0.0.0 techzglobal.com
 0.0.0.0 tecnobid.com
 0.0.0.0 tecphones.com
@@ -22056,6 +22073,7 @@
 0.0.0.0 ugdturner.com
 0.0.0.0 uggbc.com
 0.0.0.0 uggvuuquxj.com
+0.0.0.0 ugyuyuccjgrtht.com
 0.0.0.0 uhhoatxt.com
 0.0.0.0 uhughed.club
 0.0.0.0 ui.pubguard.com
@@ -22219,6 +22237,7 @@
 0.0.0.0 urldelivery.com
 0.0.0.0 urlp.skimresources.com
 0.0.0.0 urls.admixer.net
+0.0.0.0 urlsec.qq.com
 0.0.0.0 urps.org
 0.0.0.0 us-ads.openx.net
 0.0.0.0 us-east-1.onemobile.yahoo.com
@@ -22725,6 +22744,7 @@
 0.0.0.0 vosteran.com
 0.0.0.0 vosteransearch.com
 0.0.0.0 vouzgwau.com
+0.0.0.0 vowtravel.info
 0.0.0.0 voxel.mpx.mopub.com
 0.0.0.0 voxel.read.mongostats.mopub.com
 0.0.0.0 voxel.write.mongostats.mopub.com
@@ -22873,6 +22893,7 @@
 0.0.0.0 wartfielduneres.pro
 0.0.0.0 waryfog.com
 0.0.0.0 wasm.stream
+0.0.0.0 wasshoneaningar.pro
 0.0.0.0 wasspargotitta.club
 0.0.0.0 wat.ad.daum.net
 0.0.0.0 watchdog.energized.pro
@@ -23415,7 +23436,6 @@
 0.0.0.0 www.a.qwertize.com
 0.0.0.0 www.a.rad.msn.com
 0.0.0.0 www.aata.ero-advertising.com
-0.0.0.0 www.aayeljzpuu.com
 0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accu-chek.it
 0.0.0.0 www.acdn.adnxs.com
@@ -23883,6 +23903,7 @@
 0.0.0.0 www.dt2xr6g2i5.com
 0.0.0.0 www.dtta.ero-advertising.com
 0.0.0.0 www.duapps.com
+0.0.0.0 www.dwaceiiywjwcyf.com
 0.0.0.0 www.e-5682.adzerk.net
 0.0.0.0 www.e-9675.adzerk.net
 0.0.0.0 www.e-hpaces.ero-advertising.com
@@ -23966,7 +23987,6 @@
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.frtyr.com
 0.0.0.0 www.ft95.org
-0.0.0.0 www.funnwebs.com
 0.0.0.0 www.funnybox.mobi
 0.0.0.0 www.g.msn.com
 0.0.0.0 www.g00.xda-developers.com
@@ -24104,7 +24124,6 @@
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.iqjkxyrbsl.com
 0.0.0.0 www.iqkmob.com
-0.0.0.0 www.iqtygxmjgbakm.com
 0.0.0.0 www.irtyf.com
 0.0.0.0 www.isupportcorp.com
 0.0.0.0 www.isupportteam.com
@@ -24139,6 +24158,7 @@
 0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.jsonp.moatads.com
+0.0.0.0 www.jstveqeybqzoh.com
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
@@ -24157,7 +24177,9 @@
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuaptrk.com
+0.0.0.0 www.kumpzfcczy.com
 0.0.0.0 www.kw.ads.justpremium.com
+0.0.0.0 www.kwhgsdnkrusyw.com
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.larosanotizia.com
 0.0.0.0 www.latinshortcodes.com
@@ -24685,6 +24707,7 @@
 0.0.0.0 www.tiumbs.ero-advertising.com
 0.0.0.0 www.tkmbldhj.jounrop.com
 0.0.0.0 www.tkqlhce.com
+0.0.0.0 www.tkroqotredk.com
 0.0.0.0 www.tms.triboomedia.it
 0.0.0.0 www.tnctrx.com
 0.0.0.0 www.tnkexchange.com
@@ -24743,6 +24766,7 @@
 0.0.0.0 www.uc123.com
 0.0.0.0 www.ucfly.com
 0.0.0.0 www.ucweb.com
+0.0.0.0 www.ugyuyuccjgrtht.com
 0.0.0.0 www.uhhoatxt.com
 0.0.0.0 www.ukrb-uk.com
 0.0.0.0 www.umbs.ero-advertising.com
@@ -24755,6 +24779,7 @@
 0.0.0.0 www.uorhedemxtni.com
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.urldelivery.com
+0.0.0.0 www.urlsec.qq.com
 0.0.0.0 www.us.ads.justpremium.com
 0.0.0.0 www.us.digitaldsp.com
 0.0.0.0 www.us.unidingcom.com
@@ -24902,6 +24927,8 @@
 0.0.0.0 www.zanox.com
 0.0.0.0 www.zarget.com
 0.0.0.0 www.zekiatagur.com
+0.0.0.0 www.zendplace.pro
+0.0.0.0 www.zenfield.pro
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zeropark.com
 0.0.0.0 www.zindas.info
@@ -25402,7 +25429,6 @@
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zckphynp.com
 0.0.0.0 zclmine.pro
-0.0.0.0 zdnet.com
 0.0.0.0 zdunex25.e398mod.com
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com
@@ -25415,6 +25441,7 @@
 0.0.0.0 zemanta.com
 0.0.0.0 zencudo.co.uk
 0.0.0.0 zendo.online
+0.0.0.0 zendplace.pro
 0.0.0.0 zenfulyogaabq.com
 0.0.0.0 zenkreka.com
 0.0.0.0 zenmine.pro
@@ -25503,6 +25530,7 @@
 0.0.0.0 zwnlqwfdbu.com
 0.0.0.0 zwprxzbnzxc.com
 0.0.0.0 zww.ero-advertising.com
+0.0.0.0 zwyr157wwiu6eior.com
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zx9s.smcheck.org
 0.0.0.0 zy16eoat1w.com
