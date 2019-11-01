@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.10.304
-# Release: 304
-# Entries: 25,585
+# Version: 19.11.305
+# Release: 305
+# Entries: 25,666
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 31 Oct 19 20:00:20
+# Updated: Fri, 01 Nov 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -706,7 +706,6 @@
 0.0.0.0 a.wossabeerarg.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a.xfanclub.ru
-0.0.0.0 a.zdbb.net
 0.0.0.0 a.zog.link
 0.0.0.0 a0.video-ak.cdn.spotify.com
 0.0.0.0 a1.adform.net
@@ -2262,7 +2261,6 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
-0.0.0.0 ads.realitytraffic.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.renren.com
@@ -3360,6 +3358,7 @@
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 ag-gb.adskeeper.co.uk
 0.0.0.0 agahi.naz.ir
+0.0.0.0 agariev.com
 0.0.0.0 agcdn.com
 0.0.0.0 agensonline.com
 0.0.0.0 agent.tamedia.com.tw
@@ -3391,6 +3390,8 @@
 0.0.0.0 ahashpool.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahi26.voluumtrk.com
+0.0.0.0 ahrcwekji.com
+0.0.0.0 ahwzvnqc.com
 0.0.0.0 ai-cf.addthis.com
 0.0.0.0 ai-embedded.addthis.com
 0.0.0.0 ai-gb.adskeeper.co.uk
@@ -3635,6 +3636,7 @@
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-server.gimbal.com
+0.0.0.0 analytics-sm.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics-udg.netdna-ssl.com
@@ -3671,7 +3673,6 @@
 0.0.0.0 analytics.allovoisins.com
 0.0.0.0 analytics.alternativet.dk
 0.0.0.0 analytics.ama.gov.pt
-0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.ambient-platform.com
 0.0.0.0 analytics.amp.services
 0.0.0.0 analytics.amplitude.com
@@ -4361,9 +4362,6 @@
 0.0.0.0 anunturi.top
 0.0.0.0 anxiousapples.com
 0.0.0.0 anyaspasp.club
-0.0.0.0 anybest.host
-0.0.0.0 anybest.pw
-0.0.0.0 anybest.site
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 anyclip-media.com
 0.0.0.0 anygen-explores.info
@@ -8167,7 +8165,6 @@
 0.0.0.0 dc.kaffnet.com
 0.0.0.0 dc.letv.com
 0.0.0.0 dc.log.kaffnet.com
-0.0.0.0 dc.meitustat.com
 0.0.0.0 dc.pxl.ace.advertising.com
 0.0.0.0 dc.railgun.works
 0.0.0.0 dc.video-ak.cdn.spotify.com
@@ -8421,6 +8418,7 @@
 0.0.0.0 diag.atdmt.com
 0.0.0.0 dialerporn.com
 0.0.0.0 dialgold.com
+0.0.0.0 dialyearse.info
 0.0.0.0 dianomi.com
 0.0.0.0 dianomioffers.co.uk
 0.0.0.0 dicke.live
@@ -8802,9 +8800,6 @@
 0.0.0.0 dub-1-sync.go.sonobi.com
 0.0.0.0 dub-1-xcp.go.sonobi.com
 0.0.0.0 dub-1.go.sonobi.com
-0.0.0.0 dubester.pw
-0.0.0.0 dubester.site
-0.0.0.0 dubester.space
 0.0.0.0 duclick.baidu.com
 0.0.0.0 dumedia.ru
 0.0.0.0 dummy-sync.adhese.com
@@ -9729,6 +9724,7 @@
 0.0.0.0 fdplttrk.com
 0.0.0.0 fdvilavipz.com
 0.0.0.0 fe.video-ak.cdn.spotify.com
+0.0.0.0 fe67a10d92.com
 0.0.0.0 featence.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 featurelink.com
@@ -11287,7 +11283,6 @@
 0.0.0.0 huodong.umeng.com
 0.0.0.0 huodong.vip.youku.com
 0.0.0.0 huosu-api.shareitgames.com
-0.0.0.0 huosu-static-test.shareitgames.com
 0.0.0.0 huosu-static.shareitgames.com
 0.0.0.0 huosu.shareitgames.com
 0.0.0.0 hurricanedigitalmedia.com
@@ -12643,6 +12638,7 @@
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywordsconnect.com
 0.0.0.0 kf.uc.cn
+0.0.0.0 kfc.com-oc.com
 0.0.0.0 kfz-park-betzing.de
 0.0.0.0 kg.snapads.com
 0.0.0.0 khlgauqt2000.com
@@ -13962,9 +13958,6 @@
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midnightclicking.com
 0.0.0.0 midogtest.net
-0.0.0.0 mighbest.host
-0.0.0.0 mighbest.pw
-0.0.0.0 mighbest.site
 0.0.0.0 milanospurghi.com
 0.0.0.0 milasparreprob.club
 0.0.0.0 milips.info
@@ -14794,6 +14787,7 @@
 0.0.0.0 news.uodoo.com
 0.0.0.0 news98.biz
 0.0.0.0 newsadst.com
+0.0.0.0 newsatads.com
 0.0.0.0 newsbreakshere.com
 0.0.0.0 newschanel.biz
 0.0.0.0 newsepads.com
@@ -16215,52 +16209,77 @@
 0.0.0.0 pl.youku.com
 0.0.0.0 pl107907.pvclouds.com
 0.0.0.0 pl108258.puserving.com
+0.0.0.0 pl109176.pvclouds.com
 0.0.0.0 pl12725537.pvclouds.com
+0.0.0.0 pl13156769.pvclouds.com
+0.0.0.0 pl14023151.pvclouds.com
+0.0.0.0 pl14295210.pvclouds.com
 0.0.0.0 pl14330951.pvclouds.com
 0.0.0.0 pl14336753.pvclouds.com
 0.0.0.0 pl14336884.pvclouds.com
+0.0.0.0 pl14369770.pvclouds.com
 0.0.0.0 pl14374597.puserving.com
 0.0.0.0 pl14377378.pvclouds.com
 0.0.0.0 pl14378584.pvclouds.com
+0.0.0.0 pl14395697.pvclouds.com
 0.0.0.0 pl14404998.pvclouds.com
 0.0.0.0 pl14406315.pvclouds.com
 0.0.0.0 pl14416066.pvclouds.com
 0.0.0.0 pl14421878.pvclouds.com
+0.0.0.0 pl14431297.pvclouds.com
+0.0.0.0 pl14437414.pvclouds.com
+0.0.0.0 pl14445532.pvclouds.com
 0.0.0.0 pl14446319.pvclouds.com
+0.0.0.0 pl14462520.pvclouds.com
 0.0.0.0 pl14463655.pvclouds.com
+0.0.0.0 pl14470019.pvclouds.com
 0.0.0.0 pl14475817.pvclouds.com
 0.0.0.0 pl14476413.pvclouds.com
 0.0.0.0 pl14477446.pvclouds.com
 0.0.0.0 pl14477475.pvclouds.com
+0.0.0.0 pl14480019.pvclouds.com
 0.0.0.0 pl14481521.pvclouds.com
 0.0.0.0 pl14482782.pvclouds.com
+0.0.0.0 pl14488530.pvclouds.com
 0.0.0.0 pl14553324.pvclouds.com
+0.0.0.0 pl14555071.pvclouds.com
 0.0.0.0 pl14557413.pvclouds.com
+0.0.0.0 pl14557459.pvclouds.com
 0.0.0.0 pl14563162.pvclouds.com
 0.0.0.0 pl14659153.pvclouds.com
+0.0.0.0 pl14681522.pvclouds.com
 0.0.0.0 pl14682122.pvclouds.com
 0.0.0.0 pl14691471.pvclouds.com
+0.0.0.0 pl14692114.pvclouds.com
 0.0.0.0 pl14704306.pvclouds.com
 0.0.0.0 pl14706458.pvclouds.com
 0.0.0.0 pl14714387.pvclouds.com
 0.0.0.0 pl14899427.pvclouds.com
+0.0.0.0 pl14936241.pvclouds.com
 0.0.0.0 pl14936942.pvclouds.com
+0.0.0.0 pl14953533.pvclouds.com
 0.0.0.0 pl14956056.pvclouds.com
 0.0.0.0 pl14960438.pvclouds.com
 0.0.0.0 pl14965928.pvclouds.com
 0.0.0.0 pl14969788.pvclouds.com
 0.0.0.0 pl14974422.pvclouds.com
 0.0.0.0 pl14977509.pvclouds.com
+0.0.0.0 pl14985070.pvclouds.com
 0.0.0.0 pl14991186.pvclouds.com
 0.0.0.0 pl14993490.pvclouds.com
 0.0.0.0 pl14993808.pvclouds.com
+0.0.0.0 pl14995214.pvclouds.com
+0.0.0.0 pl14999236.pvclouds.com
 0.0.0.0 pl14999383.pvclouds.com
+0.0.0.0 pl15002151.pvclouds.com
 0.0.0.0 pl15003268.pvclouds.com
 0.0.0.0 pl15003476.pvclouds.com
 0.0.0.0 pl15003517.pvclouds.com
 0.0.0.0 pl15009653.pvclouds.com
 0.0.0.0 pl15009659.pvclouds.com
 0.0.0.0 pl15009857.pvclouds.com
+0.0.0.0 pl15009910.pvclouds.com
+0.0.0.0 pl15010217.pvclouds.com
 0.0.0.0 pl15010655.pvclouds.com
 0.0.0.0 pl15011970.pvclouds.com
 0.0.0.0 pl15013700.pvclouds.com
@@ -16269,32 +16288,46 @@
 0.0.0.0 pl15019130.pvclouds.com
 0.0.0.0 pl15019199.pvclouds.com
 0.0.0.0 pl15019246.pvclouds.com
+0.0.0.0 pl15019852.pvclouds.com
 0.0.0.0 pl15020719.pvclouds.com
+0.0.0.0 pl15020800.pvclouds.com
+0.0.0.0 pl15020803.pvclouds.com
 0.0.0.0 pl15021919.pvclouds.com
 0.0.0.0 pl15022971.pvclouds.com
 0.0.0.0 pl15024061.pvclouds.com
 0.0.0.0 pl15025075.pvclouds.com
+0.0.0.0 pl15025191.pvclouds.com
+0.0.0.0 pl15025195.pvclouds.com
 0.0.0.0 pl15025767.pvclouds.com
+0.0.0.0 pl15027013.pvclouds.com
 0.0.0.0 pl15029971.pvclouds.com
+0.0.0.0 pl15031694.pvclouds.com
 0.0.0.0 pl15031753.pvclouds.com
 0.0.0.0 pl15032302.pvclouds.com
 0.0.0.0 pl15032303.pvclouds.com
+0.0.0.0 pl15032879.pvclouds.com
 0.0.0.0 pl15033091.pvclouds.com
 0.0.0.0 pl15033382.pvclouds.com
 0.0.0.0 pl15033491.pvclouds.com
+0.0.0.0 pl15033762.pvclouds.com
 0.0.0.0 pl15033817.pvclouds.com
+0.0.0.0 pl15033830.pvclouds.com
 0.0.0.0 pl15035177.pvclouds.com
 0.0.0.0 pl15035538.pvclouds.com
 0.0.0.0 pl15036596.pvclouds.com
+0.0.0.0 pl15037239.pvclouds.com
 0.0.0.0 pl15037325.pvclouds.com
 0.0.0.0 pl15037674.pvclouds.com
 0.0.0.0 pl15037849.pvclouds.com
+0.0.0.0 pl15039423.pvclouds.com
+0.0.0.0 pl15039702.pvclouds.com
 0.0.0.0 pl15039716.pvclouds.com
 0.0.0.0 pl15039717.pvclouds.com
 0.0.0.0 pl15039842.pvclouds.com
 0.0.0.0 pl15039845.pvclouds.com
 0.0.0.0 pl15039848.pvclouds.com
 0.0.0.0 pl15040433.pvclouds.com
+0.0.0.0 pl15040977.pvclouds.com
 0.0.0.0 pl15041257.pvclouds.com
 0.0.0.0 pl15041527.pvclouds.com
 0.0.0.0 pl15042188.pvclouds.com
@@ -16304,11 +16337,13 @@
 0.0.0.0 pl15043961.pvclouds.com
 0.0.0.0 pl15044245.pvclouds.com
 0.0.0.0 pl15044614.pvclouds.com
+0.0.0.0 pl15044859.pvclouds.com
 0.0.0.0 pl15045036.pvclouds.com
 0.0.0.0 pl15045080.pvclouds.com
 0.0.0.0 pl15045338.pvclouds.com
 0.0.0.0 pl15045339.pvclouds.com
 0.0.0.0 pl15045351.pvclouds.com
+0.0.0.0 pl15045468.pvclouds.com
 0.0.0.0 pl15045883.pvclouds.com
 0.0.0.0 pl15045912.pvclouds.com
 0.0.0.0 pl15047230.pvclouds.com
@@ -16321,6 +16356,8 @@
 0.0.0.0 pl15049101.pvclouds.com
 0.0.0.0 pl15049477.pvclouds.com
 0.0.0.0 pl15051060.pvclouds.com
+0.0.0.0 pl15051409.pvclouds.com
+0.0.0.0 pl15051411.pvclouds.com
 0.0.0.0 pl15051434.pvclouds.com
 0.0.0.0 pl15051881.pvclouds.com
 0.0.0.0 pl15052426.pvclouds.com
@@ -16330,13 +16367,61 @@
 0.0.0.0 pl15053906.pvclouds.com
 0.0.0.0 pl15054496.pvclouds.com
 0.0.0.0 pl15055490.pvclouds.com
+0.0.0.0 pl15061690.pvclouds.com
+0.0.0.0 pl15063350.pvclouds.com
+0.0.0.0 pl15065551.pvclouds.com
+0.0.0.0 pl15067590.pvclouds.com
+0.0.0.0 pl15068418.pvclouds.com
+0.0.0.0 pl15074549.pvclouds.com
 0.0.0.0 pl15078087.pvclouds.com
 0.0.0.0 pl15080358.pvclouds.com
+0.0.0.0 pl15081932.pvclouds.com
+0.0.0.0 pl15089363.pvclouds.com
+0.0.0.0 pl15090815.pvclouds.com
+0.0.0.0 pl15093292.pvclouds.com
+0.0.0.0 pl15095808.pvclouds.com
+0.0.0.0 pl15100424.pvclouds.com
 0.0.0.0 pl15105504.pvclouds.com
+0.0.0.0 pl15112841.pvclouds.com
 0.0.0.0 pl15117601.pvclouds.com
+0.0.0.0 pl15117602.pvclouds.com
+0.0.0.0 pl15120117.pvclouds.com
+0.0.0.0 pl15125465.pvclouds.com
+0.0.0.0 pl15127457.pvclouds.com
+0.0.0.0 pl15128338.pvclouds.com
+0.0.0.0 pl15135055.pvclouds.com
+0.0.0.0 pl15135749.pvclouds.com
+0.0.0.0 pl15135751.pvclouds.com
+0.0.0.0 pl15135753.pvclouds.com
+0.0.0.0 pl15173035.pvclouds.com
+0.0.0.0 pl15178109.pvclouds.com
+0.0.0.0 pl15187019.pvclouds.com
+0.0.0.0 pl15189613.pvclouds.com
+0.0.0.0 pl15192648.pvclouds.com
+0.0.0.0 pl15192958.pvclouds.com
+0.0.0.0 pl15196161.pvclouds.com
+0.0.0.0 pl15196201.pvclouds.com
+0.0.0.0 pl15198340.pvclouds.com
+0.0.0.0 pl15198588.pvclouds.com
+0.0.0.0 pl15198867.pvclouds.com
+0.0.0.0 pl15198873.pvclouds.com
+0.0.0.0 pl15199111.pvclouds.com
+0.0.0.0 pl15200125.pvclouds.com
+0.0.0.0 pl15201493.pvclouds.com
+0.0.0.0 pl15202210.pvclouds.com
+0.0.0.0 pl15202824.pvclouds.com
+0.0.0.0 pl15203121.pvclouds.com
+0.0.0.0 pl15203281.pvclouds.com
+0.0.0.0 pl15208011.pvclouds.com
+0.0.0.0 pl15209543.pvclouds.com
+0.0.0.0 pl15209890.pvclouds.com
+0.0.0.0 pl15210251.pvclouds.com
+0.0.0.0 pl15210361.pvclouds.com
+0.0.0.0 pl3864592.pvclouds.com
 0.0.0.0 pl3865463.puserving.com
 0.0.0.0 pl3941628.pvclouds.com
 0.0.0.0 pl5102.puserving.com
+0.0.0.0 pl9193954.pvclouds.com
 0.0.0.0 pl9194965.pvclouds.com
 0.0.0.0 place206.nighter.club
 0.0.0.0 place412.nighter.club
@@ -17038,6 +17123,7 @@
 0.0.0.0 qcoldtui1999.com
 0.0.0.0 qcontentdelivery.info
 0.0.0.0 qctop.com
+0.0.0.0 qd3u5eeuos.com
 0.0.0.0 qdcdn.me
 0.0.0.0 qenklbb.com
 0.0.0.0 qensa.com
@@ -17109,6 +17195,7 @@
 0.0.0.0 quotc.smartclick.net
 0.0.0.0 qvgjqhfnbdeur.com
 0.0.0.0 qvilmdus.com
+0.0.0.0 qvvxyuuyinxp.com
 0.0.0.0 qwb.adblade.com
 0.0.0.0 qwertize.com
 0.0.0.0 qwkiafssml.com
@@ -17199,7 +17286,6 @@
 0.0.0.0 rangzhan.ga
 0.0.0.0 rank-master.com
 0.0.0.0 ranking-hits.de
-0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 rankingchart.de
@@ -17730,6 +17816,7 @@
 0.0.0.0 rsalchk.com
 0.0.0.0 rsc-tracker.adfonic.net
 0.0.0.0 rscdn.cxense.com
+0.0.0.0 rsmykgvarkm.com
 0.0.0.0 rss.buysellads.com
 0.0.0.0 rsts.adtdp.com
 0.0.0.0 rt-usa.applovin.com
@@ -18349,7 +18436,6 @@
 0.0.0.0 serv-ac.com
 0.0.0.0 serv.boltz.xyz
 0.0.0.0 serv0.com
-0.0.0.0 serv1swork.com
 0.0.0.0 serval-j.adtdp.com
 0.0.0.0 serval.adtdp.com
 0.0.0.0 serve-staging.eyeviewads.com
@@ -19986,7 +20072,6 @@
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.swiftkey.com
-0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.firstpartyapps.oaspapps.com
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.jivosite.com
@@ -20295,7 +20380,6 @@
 0.0.0.0 tokenomicthai.com
 0.0.0.0 tokfb.adsrvr.org
 0.0.0.0 tokvideo.adsrvr.org
-0.0.0.0 tokyodrift.ga
 0.0.0.0 tollfreeforwarding.com
 0.0.0.0 tolmeaicq.top
 0.0.0.0 tom.itv.com
@@ -20659,7 +20743,6 @@
 0.0.0.0 track.dalenetwork.com
 0.0.0.0 track.dankcash.com
 0.0.0.0 track.dannixxx.com
-0.0.0.0 track.datescan.info
 0.0.0.0 track.datingagencyapp.com
 0.0.0.0 track.dblol.com
 0.0.0.0 track.ddfadventures.com
@@ -21330,7 +21413,6 @@
 0.0.0.0 track.whatwhowhywhere.com
 0.0.0.0 track.whitespace57.com
 0.0.0.0 track.wickedreports.com
-0.0.0.0 track.wildblue.com
 0.0.0.0 track.wizkidhosting.com
 0.0.0.0 track.wordzen.com
 0.0.0.0 track.workablemetro.com
@@ -23608,7 +23690,6 @@
 0.0.0.0 www.adition.com
 0.0.0.0 www.adjarabet.com
 0.0.0.0 www.adjust.com
-0.0.0.0 www.adk2x.com
 0.0.0.0 www.adlmerge.com
 0.0.0.0 www.adlook.me
 0.0.0.0 www.admantx.com
@@ -23697,6 +23778,8 @@
 0.0.0.0 www.afternic.com
 0.0.0.0 www.agkn.com
 0.0.0.0 www.ahi26.voluumtrk.com
+0.0.0.0 www.ahrcwekji.com
+0.0.0.0 www.ahwzvnqc.com
 0.0.0.0 www.aidps.atdmt.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.allgames4you.mobi
@@ -23849,7 +23932,6 @@
 0.0.0.0 www.burstnet.com
 0.0.0.0 www.buysellads.com
 0.0.0.0 www.buzzcity.net
-0.0.0.0 www.bwjteztqdlg.com
 0.0.0.0 www.by007.cn
 0.0.0.0 www.bylki.me
 0.0.0.0 www.c.atdmt.com
@@ -23967,7 +24049,6 @@
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.df.telemetry.microsoft.com
 0.0.0.0 www.dfw1.vip.inmobi.com
-0.0.0.0 www.dfyudpyceqoy.com
 0.0.0.0 www.digiad.co
 0.0.0.0 www.digitalbees.it
 0.0.0.0 www.digitaldsp.com
@@ -24013,7 +24094,6 @@
 0.0.0.0 www.elviajeroinquieto.com
 0.0.0.0 www.embed.sendtonews.com
 0.0.0.0 www.eo8vs.voluumtrk.com
-0.0.0.0 www.eopazyxdkppnz.com
 0.0.0.0 www.eqads.com
 0.0.0.0 www.ero-adverising.com.ero-advertising.com
 0.0.0.0 www.ero-advertising.com
@@ -24416,6 +24496,7 @@
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
+0.0.0.0 www.obfkwtiwavn.com
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
@@ -24542,6 +24623,7 @@
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
 0.0.0.0 www.quizzasport.com
+0.0.0.0 www.qvvxyuuyinxp.com
 0.0.0.0 www.qwertize.com
 0.0.0.0 www.qwkiafssml.com
 0.0.0.0 www.r.adstrack45.com
@@ -24618,6 +24700,7 @@
 0.0.0.0 www.rp3oq.voluumtrk.com
 0.0.0.0 www.rs.ero-advertising.com
 0.0.0.0 www.rs2.ero-advertising.com
+0.0.0.0 www.rsmykgvarkm.com
 0.0.0.0 www.rtalabel.org
 0.0.0.0 www.rtb-adsterra.flshtrk.store
 0.0.0.0 www.runative.com
@@ -25006,7 +25089,6 @@
 0.0.0.0 www.yoocws.com
 0.0.0.0 www.youradexchange.com
 0.0.0.0 www.yourtuber.info
-0.0.0.0 www.ypmwkketrdbwn.com
 0.0.0.0 www.yserch.com
 0.0.0.0 www.ywpkgqasoe.bid
 0.0.0.0 www.z.moatads.com
@@ -25186,7 +25268,6 @@
 0.0.0.0 xilbalar.com
 0.0.0.0 ximad.com
 0.0.0.0 xinchao13.gq
-0.0.0.0 xinchao13.ml
 0.0.0.0 xingag.demdex.net
 0.0.0.0 xingjxcgbdylbj.store
 0.0.0.0 xintolls.top
