@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.306
 # Release: 306
-# Entries: 25,647
+# Entries: 25,649
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Nov 19 20:00:18
+# Updated: Sat, 02 Nov 19 20:30:13
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4010,7 +4010,6 @@
 0.0.0.0 analytics.onlyonlinemarketing.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.openaire.eu
-0.0.0.0 analytics.openload.co
 0.0.0.0 analytics.optilead.co.uk
 0.0.0.0 analytics.orbee.co
 0.0.0.0 analytics.orenshmu.com
@@ -6126,6 +6125,7 @@
 0.0.0.0 c1.infomobi.me
 0.0.0.0 c1.niumobi.com
 0.0.0.0 c1.nowlinux.com
+0.0.0.0 c1.popads.net
 0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.video-ak.cdn.spotify.com
 0.0.0.0 c17.adnxs.com
@@ -6610,6 +6610,7 @@
 0.0.0.0 cdn.pozvonim.com
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.pubmatic.com
+0.0.0.0 cdn.pubnative.net
 0.0.0.0 cdn.pushnami.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.revive-adserver.net
@@ -19800,6 +19801,7 @@
 0.0.0.0 syndication.dynsrvtyu.com
 0.0.0.0 syndication.dynsrvwer.com
 0.0.0.0 syndication.exdynsrv.com
+0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.realsrv.com
 0.0.0.0 syndication.trafficreps.com
 0.0.0.0 syndication0.exoclick.com
