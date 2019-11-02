@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.306
 # Release: 306
-# Entries: 25,649
+# Entries: 25,647
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Nov 19 20:30:13
+# Updated: Sat, 02 Nov 19 21:53:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -8932,7 +8932,6 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 e-viral.com
 0.0.0.0 e-wheel-shop.net
-0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 e.adzerk.net
 0.0.0.0 e.analytics.yahoo.com
 0.0.0.0 e.apsalar.com
@@ -12164,7 +12163,6 @@
 0.0.0.0 ioads.ero-advertising.com
 0.0.0.0 ioecumy.ga
 0.0.0.0 ioh9.com
-0.0.0.0 ioms.bfmio.com
 0.0.0.0 ioph0.com
 0.0.0.0 iopljuiedfrjt.gq
 0.0.0.0 ioredi.com
