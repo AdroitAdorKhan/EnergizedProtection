@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.306
 # Release: 306
-# Entries: 25,647
+# Entries: 25,646
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Nov 19 21:53:16
+# Updated: Sat, 02 Nov 19 22:33:47
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -20655,7 +20655,6 @@
 0.0.0.0 track.brafiliados.com.br
 0.0.0.0 track.braincash.com
 0.0.0.0 track.brbbf.com
-0.0.0.0 track.brealtime.com
 0.0.0.0 track.bridge.systems
 0.0.0.0 track.brighteroption.com
 0.0.0.0 track.briskfile.com
