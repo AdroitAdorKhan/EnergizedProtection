@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.306
-# Release: 306
-# Entries: 25,646
+# Version: 19.11.307
+# Release: 307
+# Entries: 25,649
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Nov 19 22:33:47
+# Updated: Sun, 03 Nov 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -60,6 +60,7 @@
 0.0.0.0 02.video-ak.cdn.spotify.com
 0.0.0.0 023hysj.com
 0.0.0.0 03.video-ak.cdn.spotify.com
+0.0.0.0 03e1e6cf6aafe.com
 0.0.0.0 04.video-ak.cdn.spotify.com
 0.0.0.0 05.video-ak.cdn.spotify.com
 0.0.0.0 06.video-ak.cdn.spotify.com
@@ -731,6 +732,7 @@
 0.0.0.0 a4cdn.contentabc.com
 0.0.0.0 a5.video-ak.cdn.spotify.com
 0.0.0.0 a510fe1652b.com
+0.0.0.0 a5940061b3e.com
 0.0.0.0 a5a5a.com
 0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a6.video-ak.cdn.spotify.com
@@ -2337,6 +2339,7 @@
 0.0.0.0 ads.vertoz.com
 0.0.0.0 ads.vgchartz.com
 0.0.0.0 ads.vidible.tv
+0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.viralize.tv
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.vntsm.com
@@ -2365,6 +2368,7 @@
 0.0.0.0 ads.y-0.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zamante.adhese.com
@@ -3245,6 +3249,7 @@
 0.0.0.0 ae22000.pubmatic.com
 0.0.0.0 ae25079147984d4d.com
 0.0.0.0 ae330a9aaf74ca9fb97bccc01339ba7a.adk2.co
+0.0.0.0 ae33e6607f.com
 0.0.0.0 ae82465c7e.com
 0.0.0.0 aeckcjy.com
 0.0.0.0 aef1a599af1af4.com
@@ -4888,6 +4893,7 @@
 0.0.0.0 asicsgelcontend4.com
 0.0.0.0 asicsreduceri.com
 0.0.0.0 asicssport.club
+0.0.0.0 askalbass.club
 0.0.0.0 asp.animelab.com
 0.0.0.0 aspboxant.club
 0.0.0.0 asqpniwvxea.com
@@ -6318,6 +6324,7 @@
 0.0.0.0 cartoonhdcom.imageshack.host
 0.0.0.0 cartorkins.com
 0.0.0.0 cartsavvybunny.com
+0.0.0.0 cas.criteo.com
 0.0.0.0 cas.pxl.ace.advertising.com
 0.0.0.0 cas.xoxknct.com
 0.0.0.0 casale-cm.p.veruta.comupoll.umengcloud.com
@@ -6604,6 +6611,7 @@
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.pbrd.co
+0.0.0.0 cdn.performit.club
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.po.net
 0.0.0.0 cdn.popcash.net
@@ -6621,6 +6629,7 @@
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.securefastoffers.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.sendpulse.com
 0.0.0.0 cdn.shareitgames.com
 0.0.0.0 cdn.siteswithcontent.com
 0.0.0.0 cdn.skimresources.com
@@ -6628,6 +6637,7 @@
 0.0.0.0 cdn.skyrocket.adtdp.com
 0.0.0.0 cdn.smartclick.net
 0.0.0.0 cdn.smartnews-ads.com
+0.0.0.0 cdn.softonixs.club
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.spotxchange.com
 0.0.0.0 cdn.stickyadstv.com
@@ -6775,6 +6785,7 @@
 0.0.0.0 cf.video-ak.cdn.spotify.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.flurry.com
+0.0.0.0 cfknxewzz.com
 0.0.0.0 cftest.adsnative.com
 0.0.0.0 cgociipdf.com
 0.0.0.0 ch.ads.justpremium.com
@@ -7330,6 +7341,7 @@
 0.0.0.0 coinworker.com
 0.0.0.0 coinzilla.io
 0.0.0.0 cold-cold-freezing.com
+0.0.0.0 collect.adback.co
 0.0.0.0 collection.russelltice.com
 0.0.0.0 collector-001.newrelic.com
 0.0.0.0 collector-003.newrelic.com
@@ -9018,6 +9030,7 @@
 0.0.0.0 easytechy.co.uk
 0.0.0.0 easytechy.com
 0.0.0.0 eb.video-ak.cdn.spotify.com
+0.0.0.0 eb17376f3d2a.com
 0.0.0.0 ebagcjidhechgegjacg.ru
 0.0.0.0 ebannertraffic.com
 0.0.0.0 ebayadvertising.com
@@ -10059,7 +10072,6 @@
 0.0.0.0 free-mind-movies.info
 0.0.0.0 free.atdmt.com
 0.0.0.0 free.sencelles.info
-0.0.0.0 free404go.gq
 0.0.0.0 free4faucet.com
 0.0.0.0 freeadult.games
 0.0.0.0 freeallmusictop.imageshack.host
@@ -12608,6 +12620,7 @@
 0.0.0.0 ketchapp.org
 0.0.0.0 ketodietplus.com
 0.0.0.0 ketoweightloss.com
+0.0.0.0 key.seckeyserv.me
 0.0.0.0 keyboardgalleryshops.com
 0.0.0.0 keydot.net
 0.0.0.0 keyio.ga
@@ -13216,6 +13229,7 @@
 0.0.0.0 logs177.xiti.com
 0.0.0.0 logs2.appsflyer.com
 0.0.0.0 logserver.insight.ucweb.com
+0.0.0.0 logsink.zedge.net
 0.0.0.0 logssug-sf.ucweb.com
 0.0.0.0 logssug.ucweb.com
 0.0.0.0 logtest.moatads.com
@@ -13224,7 +13238,6 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lokalfed.ga
 0.0.0.0 lokalfed.ml
-0.0.0.0 lokalfed.tk
 0.0.0.0 lol.umengcloud.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 lolicmw.org
@@ -13962,8 +13975,6 @@
 0.0.0.0 mindshare.de
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minecraftpool.com
-0.0.0.0 minelearnto.ml
-0.0.0.0 minemonero.gq
 0.0.0.0 minemonero.pro
 0.0.0.0 minemoney.co
 0.0.0.0 minemytraffic.com
@@ -14048,7 +14059,6 @@
 0.0.0.0 ml314.com
 0.0.0.0 mlands.ru
 0.0.0.0 mlb.did.ijinshan.com
-0.0.0.0 mlcros0ft.gq
 0.0.0.0 mlcros0ft.tk
 0.0.0.0 mlm.de
 0.0.0.0 mlt01.com
@@ -14165,6 +14175,7 @@
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobilefuse.net
+0.0.0.0 mobilegames.mobi
 0.0.0.0 mobileiconnect.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilemessenger.com
@@ -14842,6 +14853,7 @@
 0.0.0.0 nglmedia.com
 0.0.0.0 ngpipes.analytics.mbga.jp
 0.0.0.0 nhl.speedera.net
+0.0.0.0 nhoralgrab.info
 0.0.0.0 nhsrv.cf
 0.0.0.0 nhvw3-ee61f.ads.tremorhub.com
 0.0.0.0 nhvw3-uz8ne.ads.tremorhub.com
@@ -16194,6 +16206,7 @@
 0.0.0.0 pl-v2.presage.io
 0.0.0.0 pl.ads.justpremium.com
 0.0.0.0 pl.allsportsfree.club
+0.0.0.0 pl.performit.club
 0.0.0.0 pl.youku.com
 0.0.0.0 pl107907.pvclouds.com
 0.0.0.0 pl108258.puserving.com
@@ -17082,7 +17095,6 @@
 0.0.0.0 pxgcdn.com
 0.0.0.0 pxl.ace.advertising.com
 0.0.0.0 pxl.iqm.com
-0.0.0.0 pxthyfgzm.com
 0.0.0.0 py.moatads.com
 0.0.0.0 pyq6n.com
 0.0.0.0 q.addthis.com
@@ -17095,8 +17107,6 @@
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q1xyxm89.com
 0.0.0.0 q2melbourne.com
-0.0.0.0 qa-admin.actionbutton.co
-0.0.0.0 qa-api.actionbutton.co
 0.0.0.0 qa-craft.advertising.com
 0.0.0.0 qa.ads.justpremium.com
 0.0.0.0 qa.myvisualiq.net	
@@ -17813,7 +17823,6 @@
 0.0.0.0 rt.gsspat.jp
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtax.criteo.com
-0.0.0.0 rtb-adsterra.flshtrk.store
 0.0.0.0 rtb-ca1.tapad.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtb-dashboard.mgid.com
@@ -18242,7 +18251,6 @@
 0.0.0.0 sdk.ad.smaato.net
 0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk.adform.com
-0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adotmob.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.appbrain.com
@@ -18391,7 +18399,6 @@
 0.0.0.0 sellebrity.com.ssl.re.getclicky.com
 0.0.0.0 sellhealth.com
 0.0.0.0 seloger.demdex.net
-0.0.0.0 selverrytony.tk
 0.0.0.0 sem.juiceadv.com
 0.0.0.0 semanticrep.com
 0.0.0.0 semasio.net
@@ -18471,6 +18478,7 @@
 0.0.0.0 servicer.adskeeper.co.uk
 0.0.0.0 servicer.mgid.com
 0.0.0.0 servicer.traffic-media.co.uk
+0.0.0.0 services.bilsyndication.com
 0.0.0.0 services.brightcove.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 services.insurads.com
@@ -18721,7 +18729,6 @@
 0.0.0.0 singular.net
 0.0.0.0 sinlocal.es
 0.0.0.0 sinoa.com
-0.0.0.0 sinussoda.ga
 0.0.0.0 sinvideo.adsrvr.org
 0.0.0.0 sionicmedia.com
 0.0.0.0 siovv.voluumtrk.com
@@ -21879,6 +21886,7 @@
 0.0.0.0 trk-sha.adsrvr.org
 0.0.0.0 trk-vpc-us-west-1-b.vidible.tv
 0.0.0.0 trk.adjust.com
+0.0.0.0 trk.allsports4free.online
 0.0.0.0 trk.atdmt.com
 0.0.0.0 trk.bhs4.com
 0.0.0.0 trk.billysrv.com
@@ -21888,6 +21896,7 @@
 0.0.0.0 trk.leadoffer.xyz
 0.0.0.0 trk.ometria.com
 0.0.0.0 trk.opanw.com
+0.0.0.0 trk.performit.xyz
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.prod.ap-northeast-1.vidible.tv
 0.0.0.0 trk.prod.eu-central-1.vidible.tv
@@ -23590,7 +23599,6 @@
 0.0.0.0 www.acdn.adnxs.com
 0.0.0.0 www.ach.appodeal.com
 0.0.0.0 www.acspaces.ero-advertising.com
-0.0.0.0 www.actionbutton.co
 0.0.0.0 www.ad-2.tk
 0.0.0.0 www.ad-center.com
 0.0.0.0 www.ad-serving.co
@@ -23933,6 +23941,7 @@
 0.0.0.0 www.cellybean.com
 0.0.0.0 www.centili.com
 0.0.0.0 www.ceromobi.club
+0.0.0.0 www.cfknxewzz.com
 0.0.0.0 www.cfzp1.voluumtrk.com
 0.0.0.0 www.chameleon.ad
 0.0.0.0 www.chartbeat.com
@@ -24052,7 +24061,6 @@
 0.0.0.0 www.dt2xr6g2i5.com
 0.0.0.0 www.dtta.ero-advertising.com
 0.0.0.0 www.duapps.com
-0.0.0.0 www.dwaceiiywjwcyf.com
 0.0.0.0 www.e-5682.adzerk.net
 0.0.0.0 www.e-9675.adzerk.net
 0.0.0.0 www.e-hpaces.ero-advertising.com
@@ -24325,9 +24333,7 @@
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuaptrk.com
-0.0.0.0 www.kumpzfcczy.com
 0.0.0.0 www.kw.ads.justpremium.com
-0.0.0.0 www.kwhgsdnkrusyw.com
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.larosanotizia.com
 0.0.0.0 www.latinshortcodes.com
@@ -24412,6 +24418,7 @@
 0.0.0.0 www.mobile4fun.it
 0.0.0.0 www.mobileads.ero-advertising.com
 0.0.0.0 www.mobilecontents.mobi
+0.0.0.0 www.mobilegames.mobi
 0.0.0.0 www.mobilemusic.mobi
 0.0.0.0 www.mobilepay.it
 0.0.0.0 www.mobistation.cloud
@@ -24477,7 +24484,6 @@
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
-0.0.0.0 www.obfkwtiwavn.com
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
@@ -24554,7 +24560,6 @@
 0.0.0.0 www.pntra.com
 0.0.0.0 www.pntrac.com
 0.0.0.0 www.pntrack.com
-0.0.0.0 www.pnzamawzgw.com
 0.0.0.0 www.popacs.ero-advertising.com
 0.0.0.0 www.popads.ero-advertising.com
 0.0.0.0 www.popaflex.com
@@ -24606,7 +24611,6 @@
 0.0.0.0 www.quizzasport.com
 0.0.0.0 www.qvvxyuuyinxp.com
 0.0.0.0 www.qwertize.com
-0.0.0.0 www.qwkiafssml.com
 0.0.0.0 www.r.adstrack45.com
 0.0.0.0 www.r.skimresources.com
 0.0.0.0 www.r1oman.com
@@ -24897,7 +24901,6 @@
 0.0.0.0 www.triboomedia.it
 0.0.0.0 www.trueamateurs.com
 0.0.0.0 www.truefilen32.com
-0.0.0.0 www.ttwitter.com
 0.0.0.0 www.tubeadvertising.eu
 0.0.0.0 www.tubepick.com
 0.0.0.0 www.tubepops.com
@@ -24917,7 +24920,6 @@
 0.0.0.0 www.uc123.com
 0.0.0.0 www.ucfly.com
 0.0.0.0 www.ucweb.com
-0.0.0.0 www.ugyuyuccjgrtht.com
 0.0.0.0 www.uhhoatxt.com
 0.0.0.0 www.ukrb-uk.com
 0.0.0.0 www.umbs.ero-advertising.com
@@ -24955,6 +24957,7 @@
 0.0.0.0 www.viralcpm.com
 0.0.0.0 www.visiblemeasures.com
 0.0.0.0 www.vistaproblems.com
+0.0.0.0 www.viunypnvhcw.com
 0.0.0.0 www.vlbtjqngtvuqo.com
 0.0.0.0 www.volantix.com
 0.0.0.0 www.voluumtrk.com
@@ -25060,6 +25063,7 @@
 0.0.0.0 www.yardzing.com
 0.0.0.0 www.yengo.com
 0.0.0.0 www.yes8sg.com
+0.0.0.0 www.yfibjzosrqrtmv.com
 0.0.0.0 www.yibacurd.com
 0.0.0.0 www.yieldlab.net
 0.0.0.0 www.yip.su
@@ -25247,7 +25251,6 @@
 0.0.0.0 xiduek.gq
 0.0.0.0 xilbalar.com
 0.0.0.0 ximad.com
-0.0.0.0 xinchao13.gq
 0.0.0.0 xingag.demdex.net
 0.0.0.0 xingjxcgbdylbj.store
 0.0.0.0 xintolls.top
