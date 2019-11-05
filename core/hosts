@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.308
-# Release: 308
-# Entries: 25,835
+# Version: 19.11.309
+# Release: 309
+# Entries: 25,825
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 04 Nov 19 20:00:15
+# Updated: Tue, 05 Nov 19 20:00:25
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -259,7 +259,6 @@
 0.0.0.0 2giga.download
 0.0.0.0 2go7v1nes8.com
 0.0.0.0 2ip.ru
-0.0.0.0 2k20.tk
 0.0.0.0 2leep.com
 0.0.0.0 2ma.ltd
 0.0.0.0 2mdn.info
@@ -2341,7 +2340,6 @@
 0.0.0.0 ads.thrillsaffiliates.com
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.toonpass.com
-0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 ads.trafficjunky.com
 0.0.0.0 ads.trafficjunky.net
@@ -4704,7 +4702,6 @@
 0.0.0.0 app.pubguard.com
 0.0.0.0 app.roximity.com
 0.0.0.0 app.tads.techtunes.com.bd
-0.0.0.0 app.top1mobiad1.com
 0.0.0.0 app.uc.cn
 0.0.0.0 app.vidible.tv
 0.0.0.0 app.whappodo.com
@@ -5324,7 +5321,6 @@
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
 0.0.0.0 banners.dine.com
-0.0.0.0 banners.direction-x.com
 0.0.0.0 banners.ero-advertising.com
 0.0.0.0 banners.etermax.com
 0.0.0.0 banners.friendfinder.com
@@ -6765,7 +6761,6 @@
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdns.o333o.com
 0.0.0.0 cdns.ws
-0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnv.ad-stir.com
 0.0.0.0 cds-eu-1.taboola.com
 0.0.0.0 cds-us-east-1.taboola.com
@@ -23666,7 +23661,6 @@
 0.0.0.0 ww55.smartadserver.com
 0.0.0.0 ww57.smartadserver.com
 0.0.0.0 ww7.69oxt4q05.com
-0.0.0.0 ww84.smartadserver.com
 0.0.0.0 wwa.ero-advertising.com
 0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wwbn.com
@@ -23934,7 +23928,6 @@
 0.0.0.0 www.afternic.com
 0.0.0.0 www.agkn.com
 0.0.0.0 www.ahi26.voluumtrk.com
-0.0.0.0 www.ahwzvnqc.com
 0.0.0.0 www.aidps.atdmt.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.allgames4you.mobi
@@ -24782,7 +24775,6 @@
 0.0.0.0 www.quebec-bin.com
 0.0.0.0 www.queryly.com
 0.0.0.0 www.quizzasport.com
-0.0.0.0 www.qvvxyuuyinxp.com
 0.0.0.0 www.qwertize.com
 0.0.0.0 www.r.adstrack45.com
 0.0.0.0 www.r.skimresources.com
@@ -24860,7 +24852,6 @@
 0.0.0.0 www.rp3oq.voluumtrk.com
 0.0.0.0 www.rs.ero-advertising.com
 0.0.0.0 www.rs2.ero-advertising.com
-0.0.0.0 www.rsmykgvarkm.com
 0.0.0.0 www.rtalabel.org
 0.0.0.0 www.rtb-adsterra.flshtrk.store
 0.0.0.0 www.rtrlseqbudrzfd.com
@@ -25537,7 +25528,6 @@
 0.0.0.0 xz15801.com
 0.0.0.0 xzpool.com
 0.0.0.0 y.analytics.yahoo.com
-0.0.0.0 y.cdn.adblade.com
 0.0.0.0 y.flurry.com
 0.0.0.0 y.hailhydra.org
 0.0.0.0 y.ibsys.com
