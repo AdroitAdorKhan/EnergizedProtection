@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.309
-# Release: 309
-# Entries: 25,825
+# Version: 19.11.310
+# Release: 310
+# Entries: 25,813
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 05 Nov 19 20:00:25
+# Updated: Wed, 06 Nov 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2115,7 +2115,6 @@
 0.0.0.0 ads.eskimi.com
 0.0.0.0 ads.evga.com
 0.0.0.0 ads.evidon.com
-0.0.0.0 ads.exactdrive.com
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.exosrv.com
@@ -14060,9 +14059,6 @@
 0.0.0.0 minereasy.com
 0.0.0.0 minerhills.com
 0.0.0.0 minermaniac.com
-0.0.0.0 minero-proxy-01.now.sh
-0.0.0.0 minero-proxy-02.now.sh
-0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero-proxy-04.now.sh
 0.0.0.0 minero.cc
 0.0.0.0 minero.ru
@@ -15937,7 +15933,6 @@
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-server7.de
-0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
@@ -16011,7 +16006,6 @@
 0.0.0.0 partners.priceline.com
 0.0.0.0 partners.swoop.com
 0.0.0.0 partnerssl.googleadservices.com
-0.0.0.0 party-nngvitbizn.now.sh
 0.0.0.0 partycasino.com
 0.0.0.0 partypartners.com
 0.0.0.0 partypoker.com
@@ -18990,7 +18984,6 @@
 0.0.0.0 smartfashiongirl.com
 0.0.0.0 smarticle.video.ums.uc.cn
 0.0.0.0 smartling-connector.vidible.tv
-0.0.0.0 smartmine.club
 0.0.0.0 smartoffer.site
 0.0.0.0 smartoffers.tabacco.space
 0.0.0.0 smartshare.tv
@@ -24485,7 +24478,6 @@
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
-0.0.0.0 www.karisimbi.net
 0.0.0.0 www.kds.ero-advertising.com
 0.0.0.0 www.keepload.online
 0.0.0.0 www.kelkoo.com
@@ -24572,8 +24564,6 @@
 0.0.0.0 www.microsoft-chat.com
 0.0.0.0 www.millionairedream.co
 0.0.0.0 www.mindshare.de
-0.0.0.0 www.minero-proxy-02.now.sh
-0.0.0.0 www.minero-proxy-03.now.sh
 0.0.0.0 www.minero-proxy-04.now.sh
 0.0.0.0 www.mirago.com
 0.0.0.0 www.mixpanel.com
@@ -24689,7 +24679,6 @@
 0.0.0.0 www.pakistanelevators.pk
 0.0.0.0 www.palikan.com
 0.0.0.0 www.papoto.com
-0.0.0.0 www.party-nngvitbizn.now.sh
 0.0.0.0 www.pasitodoble.win
 0.0.0.0 www.pata.ero-advertising.com
 0.0.0.0 www.pawaiescort.com
@@ -24854,7 +24843,6 @@
 0.0.0.0 www.rs2.ero-advertising.com
 0.0.0.0 www.rtalabel.org
 0.0.0.0 www.rtb-adsterra.flshtrk.store
-0.0.0.0 www.rtrlseqbudrzfd.com
 0.0.0.0 www.runative.com
 0.0.0.0 www.rvty.net
 0.0.0.0 www.s.clickiocdn.com
