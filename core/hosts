@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.310
-# Release: 310
-# Entries: 25,813
+# Version: 19.11.311
+# Release: 311
+# Entries: 25,804
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 06 Nov 19 20:00:20
+# Updated: Thu, 07 Nov 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -17489,7 +17489,6 @@
 0.0.0.0 rcm-cn.amazon-adsystem.com
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
-0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm-it.amazon.it
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcm.amazon.com
@@ -23914,7 +23913,6 @@
 0.0.0.0 www.aejtg.voluumtrk.com
 0.0.0.0 www.aerserv.com
 0.0.0.0 www.afco2go.com
-0.0.0.0 www.afcxojqr.com
 0.0.0.0 www.affiliatefuture.com
 0.0.0.0 www.affrh2023.com
 0.0.0.0 www.afs.ero-advertising.com
@@ -24035,7 +24033,6 @@
 0.0.0.0 www.betpromo247.com
 0.0.0.0 www.betrad.com
 0.0.0.0 www.betsonsport.ru
-0.0.0.0 www.bexrnrxbgh.com
 0.0.0.0 www.beylikduzumasajmutluson.com
 0.0.0.0 www.bfast.com
 0.0.0.0 www.bid.axiatraders.com
@@ -24091,13 +24088,11 @@
 0.0.0.0 www.cdn3.net
 0.0.0.0 www.cdnallyouwantonline.innocraft.cloud
 0.0.0.0 www.cdnmedia.xyz
-0.0.0.0 www.cedcdoqkrjabs.com
 0.0.0.0 www.cedemo.com
 0.0.0.0 www.cedsdigital.it
 0.0.0.0 www.cellybean.com
 0.0.0.0 www.centili.com
 0.0.0.0 www.ceromobi.club
-0.0.0.0 www.cfknxewzz.com
 0.0.0.0 www.cfzp1.voluumtrk.com
 0.0.0.0 www.chameleon.ad
 0.0.0.0 www.chartbeat.com
@@ -24253,7 +24248,6 @@
 0.0.0.0 www.ex.umengcloud.com
 0.0.0.0 www.exoclick.com
 0.0.0.0 www.ext.privacyassistant.net
-0.0.0.0 www.ezhdgoeat.com
 0.0.0.0 www.ezonlinesupport.com
 0.0.0.0 www.f0kuf.voluumtrk.com
 0.0.0.0 www.facebookwiki.net
@@ -24283,8 +24277,6 @@
 0.0.0.0 www.flex.msn.com
 0.0.0.0 www.flurry.com
 0.0.0.0 www.flw.ero-advertising.com
-0.0.0.0 www.fmgdzqpcaliqs.com
-0.0.0.0 www.fmpevnvced.com
 0.0.0.0 www.fnatfee.ero-advertising.com
 0.0.0.0 www.follamigos.com
 0.0.0.0 www.formats.juiceadv.com
@@ -25110,7 +25102,6 @@
 0.0.0.0 www.viralcpm.com
 0.0.0.0 www.visiblemeasures.com
 0.0.0.0 www.vistaproblems.com
-0.0.0.0 www.viunypnvhcw.com
 0.0.0.0 www.vlbtjqngtvuqo.com
 0.0.0.0 www.volantix.com
 0.0.0.0 www.voluumtrk.com
