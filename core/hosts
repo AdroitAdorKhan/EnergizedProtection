@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.311
-# Release: 311
-# Entries: 25,804
+# Version: 19.11.312
+# Release: 312
+# Entries: 25,784
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 07 Nov 19 20:00:21
+# Updated: Fri, 08 Nov 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3763,7 +3763,6 @@
 0.0.0.0 analytics.carambatv.ru
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccgateway.net
-0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analytics.cdn.cxense.com
 0.0.0.0 analytics.ceneo.pl
 0.0.0.0 analytics.cert.pl
@@ -3972,7 +3971,6 @@
 0.0.0.0 analytics.map.qq.com
 0.0.0.0 analytics.mapline.com
 0.0.0.0 analytics.marketingpiper.com.re.getclicky.com
-0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.mecloud.vn
 0.0.0.0 analytics.mediamath.com
 0.0.0.0 analytics.meituan.net
@@ -4108,7 +4106,6 @@
 0.0.0.0 analytics.resonate.com
 0.0.0.0 analytics.revee.com
 0.0.0.0 analytics.reyrey.net
-0.0.0.0 analytics.robinhood.com
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.ron.gr
 0.0.0.0 analytics.rotapost.ru
@@ -4291,7 +4288,6 @@
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.yomedia.vn
-0.0.0.0 analytics.yopify.com
 0.0.0.0 analytics.yopify.com.herokudns.com
 0.0.0.0 analytics.youporn.phncdn.com
 0.0.0.0 analytics.youramigo.com
@@ -6216,7 +6212,6 @@
 0.0.0.0 c91c7fb5801.com
 0.0.0.0 ca.ads.justpremium.com
 0.0.0.0 ca.adserver.yahoo.com
-0.0.0.0 ca.clcknads.pro
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.video-ak.cdn.spotify.com
 0.0.0.0 cabanella.net
@@ -7009,7 +7004,6 @@
 0.0.0.0 click.fool.com
 0.0.0.0 click.goingtothead.com
 0.0.0.0 click.google-analytics.com
-0.0.0.0 click.gowadogo.com
 0.0.0.0 click.green-red.com
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 click.hunantv.com
@@ -7407,12 +7401,10 @@
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector0.xhamster.com		
-0.0.0.0 collector1.xhamster.desi
 0.0.0.0 collector1.xhamster2.com
 0.0.0.0 collector2.xhamster.com
 0.0.0.0 collector2.xhamster2.com
 0.0.0.0 collector3.xhamster.com
-0.0.0.0 collector3.xhamster.desi
 0.0.0.0 collector3.xhamster2.com
 0.0.0.0 college-knowledge.us
 0.0.0.0 collegeprowler.adblade.com
@@ -7749,7 +7741,6 @@
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crashlogs.mobilegame.woniu.com
-0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlytics.com
 0.0.0.0 crashstats-collector.opera.com
 0.0.0.0 craveandlamb.com
@@ -7817,7 +7808,6 @@
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crossleather.com
 0.0.0.0 crossmediapanel.com
-0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromo.zeptolab.com
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 crosspromotion.weplayer.cc
@@ -9782,7 +9772,6 @@
 0.0.0.0 feed.taboola.com
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedback-api-dev.wshareit.com
-0.0.0.0 feedback-api.wshareit.com
 0.0.0.0 feedback.adform.com
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.miui.com
@@ -13306,7 +13295,6 @@
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
-0.0.0.0 lokalfed.ga
 0.0.0.0 lokalfed.ml
 0.0.0.0 lol.umengcloud.com
 0.0.0.0 loles.neostrada.pl
@@ -16834,7 +16822,6 @@
 0.0.0.0 prague-trk.adtdp.com
 0.0.0.0 pray.priests.top
 0.0.0.0 prchecker.info
-0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 pre3.ads.justpremium.com
 0.0.0.0 preads.skypeassets.net
 0.0.0.0 prebid-cache.pub.network
@@ -18158,7 +18145,6 @@
 0.0.0.0 s2ns2.advertising.com
 0.0.0.0 s2ns2.nexage.com
 0.0.0.0 s2s-tracking.sonic-us.supersonicads.com
-0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.appsflyer.com
 0.0.0.0 s3.addthis.com
 0.0.0.0 s3.buysellads.com
@@ -19642,7 +19628,6 @@
 0.0.0.0 stc.fx.fastcontentdelivery.com
 0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
-0.0.0.0 steeflssow.ml
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 steenbergen.web.ero-advertising.com
@@ -20309,7 +20294,6 @@
 0.0.0.0 thaibestcalendar.com
 0.0.0.0 thaitokenomic.com
 0.0.0.0 thaitokenomics.com
-0.0.0.0 thales.adsrvr.org
 0.0.0.0 thatrowrofired.info
 0.0.0.0 thauftoa.net
 0.0.0.0 theadex.com
@@ -21011,7 +20995,6 @@
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.iconfinder.com
 0.0.0.0 track.ideatrck.com
-0.0.0.0 track.idtargeting.com
 0.0.0.0 track.ilovecpa.com
 0.0.0.0 track.impactfive.com
 0.0.0.0 track.in.omgpm.com
@@ -21031,7 +21014,6 @@
 0.0.0.0 track.jobst-audio.de
 0.0.0.0 track.jonellebrooks.com
 0.0.0.0 track.jpassport.jp
-0.0.0.0 track.junggglex.com
 0.0.0.0 track.jungletap.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.justcloud.com
@@ -21440,7 +21422,6 @@
 0.0.0.0 track.teenmodels.com
 0.0.0.0 track.temptingtrannys.com
 0.0.0.0 track.tend.io
-0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.tesiteca.it
 0.0.0.0 track.textpartners.com
@@ -25847,7 +25828,6 @@
 0.0.0.0 zyxow.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 zz.trafficfabrik.com
-0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzhengre.com
 0.0.0.0 zzposr.ga
 0.0.0.0 zzposr.gq
