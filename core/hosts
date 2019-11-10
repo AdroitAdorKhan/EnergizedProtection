@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.313
-# Release: 313
-# Entries: 25,926
+# Version: 19.11.314
+# Release: 314
+# Entries: 25,970
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 09 Nov 19 20:00:19
+# Updated: Sun, 10 Nov 19 20:00:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2140,7 +2140,6 @@
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.foxnews.com
-0.0.0.0 ads.freecity.de
 0.0.0.0 ads.ft.com
 0.0.0.0 ads.fusepowered.com
 0.0.0.0 ads.gamecity.net
@@ -4523,6 +4522,7 @@
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.content-ad.net
+0.0.0.0 api.content.ad
 0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.cossette.adgear.com
 0.0.0.0 api.cpu.baidu.com
@@ -4690,6 +4690,7 @@
 0.0.0.0 app.clickadilla.com
 0.0.0.0 app.clickpay.money
 0.0.0.0 app.comagic.ru
+0.0.0.0 app.content.ad
 0.0.0.0 app.crashlytics.com
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.flurry.com
@@ -5477,6 +5478,7 @@
 0.0.0.0 behavioralengine.com
 0.0.0.0 behhfhjagichibdfgj.ru
 0.0.0.0 beihu.gq
+0.0.0.0 beilm.co
 0.0.0.0 beineiros.xyz
 0.0.0.0 beiven.pw
 0.0.0.0 belementsa.info
@@ -5642,6 +5644,7 @@
 0.0.0.0 billytesting.com
 0.0.0.0 bilsyndication.com
 0.0.0.0 bimbayaes.online
+0.0.0.0 bimbaylolaes.top
 0.0.0.0 bimbaylolan.online
 0.0.0.0 bimbaylolane.online
 0.0.0.0 bimbaylolanes.online
@@ -8403,6 +8406,7 @@
 0.0.0.0 dev.demdex.net
 0.0.0.0 dev.flurry.com
 0.0.0.0 dev.green-red.com
+0.0.0.0 dev.hb.brainlyads.com
 0.0.0.0 dev.mobadvent.com
 0.0.0.0 dev.taboola.com
 0.0.0.0 dev.tracking.moportals.com
@@ -8775,6 +8779,7 @@
 0.0.0.0 driverequest.com
 0.0.0.0 drmartensau.com
 0.0.0.0 drmartenshoes.club
+0.0.0.0 drmartenshopsl.club
 0.0.0.0 drmartensportugal.com
 0.0.0.0 drmartensres.online
 0.0.0.0 drmartensventa.online
@@ -9568,6 +9573,7 @@
 0.0.0.0 ex.resourcecdns.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 exactdrive.com
+0.0.0.0 example.content.ad
 0.0.0.0 example.mgid.com
 0.0.0.0 exch-e.atdmt.com
 0.0.0.0 exch-eu.atdmt.com
@@ -9634,6 +9640,7 @@
 0.0.0.0 eyeblaster.com
 0.0.0.0 eyeota.net
 0.0.0.0 eyereturn.com
+0.0.0.0 eyesee-studio.com
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewonder.com
 0.0.0.0 eytqtjpjnmeas.com
@@ -10011,6 +10018,7 @@
 0.0.0.0 forcedolphin.com
 0.0.0.0 forecast.ucweb.com
 0.0.0.0 forecast.uodoo.com
+0.0.0.0 forestchild-leather.com
 0.0.0.0 forex-affiliate.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forexfinancexxfx.info
@@ -10942,6 +10950,7 @@
 0.0.0.0 hardsextube-bud.gravityrd-services.com
 0.0.0.0 hardtofindmilk.com
 0.0.0.0 hare.colorvshop.com
+0.0.0.0 harishmsale.com
 0.0.0.0 haroonsaadiq.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
@@ -10993,6 +11002,7 @@
 0.0.0.0 hb.adtelligent.com
 0.0.0.0 hb.adx.adform.net
 0.0.0.0 hb.adx2.adform.net
+0.0.0.0 hb.brainlyads.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 hb.rayjump.com
 0.0.0.0 hb.ssp.advertising.com
@@ -11056,6 +11066,7 @@
 0.0.0.0 help.bingads.microsoft.com
 0.0.0.0 help.brightcove.com
 0.0.0.0 help.clickadilla.com
+0.0.0.0 help.content.ad
 0.0.0.0 help.exoclick.com
 0.0.0.0 help.juicyads.com
 0.0.0.0 help.mixpanel.com
@@ -13718,6 +13729,7 @@
 0.0.0.0 marfeel.com
 0.0.0.0 margarite.es
 0.0.0.0 marial.pro
+0.0.0.0 mariamartinezcoach.es
 0.0.0.0 marimedia.com
 0.0.0.0 mark.reevoo.com
 0.0.0.0 mark.skyrocket.adtdp.com
@@ -13758,6 +13770,7 @@
 0.0.0.0 martinbootsalestores.site
 0.0.0.0 marvel.appia.com
 0.0.0.0 mas-sdk.amazon-adsystem.com
+0.0.0.0 masalladelogos.com
 0.0.0.0 mashionalkov.info
 0.0.0.0 mashraf.de
 0.0.0.0 maslakescort.com
@@ -13863,6 +13876,7 @@
 0.0.0.0 media.888.com
 0.0.0.0 media.admob.com
 0.0.0.0 media.bidgear.com
+0.0.0.0 media.content.ad
 0.0.0.0 media.fastclick.net
 0.0.0.0 media.innity.com
 0.0.0.0 media.innity.net
@@ -14057,6 +14071,7 @@
 0.0.0.0 mgcashgate.com
 0.0.0.0 mgid.com
 0.0.0.0 mgtbn.listenmusic.fun
+0.0.0.0 mhncbsale.com
 0.0.0.0 mi-c.es
 0.0.0.0 mi-de-ner-nis3.info
 0.0.0.0 mi-mi-fa.com
@@ -15216,6 +15231,7 @@
 0.0.0.0 nuseek.com
 0.0.0.0 nustonetransformations.net
 0.0.0.0 nuttyorganization.com
+0.0.0.0 nuzlihakiim.com
 0.0.0.0 nv.uashaql.net
 0.0.0.0 nvidia.demdex.net
 0.0.0.0 nvxzjmowusg.com
@@ -16069,6 +16085,7 @@
 0.0.0.0 partnerprogram.liverail.com
 0.0.0.0 partners.adjust.com
 0.0.0.0 partners.appsflyer.com
+0.0.0.0 partners.content.ad
 0.0.0.0 partners.cxense.com
 0.0.0.0 partners.ecortb.com
 0.0.0.0 partners.priceline.com
@@ -16124,6 +16141,7 @@
 0.0.0.0 payperpost.com
 0.0.0.0 payserve.com
 0.0.0.0 payservice.shareitpay.in
+0.0.0.0 payszmi.com
 0.0.0.0 paytonpapers.org
 0.0.0.0 pazienti.it
 0.0.0.0 pazmey.com
@@ -17547,6 +17565,7 @@
 0.0.0.0 rbnes.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbnt9.voluumtrk.com
+0.0.0.0 rbnzx.com
 0.0.0.0 rbpad.com
 0.0.0.0 rbs-chile.com
 0.0.0.0 rbs-sk.com
@@ -17781,6 +17800,7 @@
 0.0.0.0 report.ad.snappea.com
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.crashlytics.com
+0.0.0.0 report.hb.brainlyads.com
 0.0.0.0 report.newsgenious.com
 0.0.0.0 report.rayjump.com
 0.0.0.0 report.webclicks24.com
@@ -17830,6 +17850,7 @@
 0.0.0.0 respecials.com
 0.0.0.0 responses.df.telemetry.microsoft.com
 0.0.0.0 responsidelok.info
+0.0.0.0 rest.content.ad
 0.0.0.0 rest.sharethis.com
 0.0.0.0 rest.wsq.umeng.com
 0.0.0.0 restaop.ga
@@ -18039,7 +18060,16 @@
 0.0.0.0 rtb-dashboard.mgid.com
 0.0.0.0 rtb-eq.tapad.com
 0.0.0.0 rtb-eu.tapad.com
+0.0.0.0 rtb-fe-us-e1.content.ad
+0.0.0.0 rtb-fe-us-e2.content.ad
+0.0.0.0 rtb-fe-us-e3.content.ad
+0.0.0.0 rtb-fe-us-e4.content.ad
+0.0.0.0 rtb-fe-us-e5.content.ad
+0.0.0.0 rtb-fe-us-e6.content.ad
+0.0.0.0 rtb-fe-us-w1.content.ad
+0.0.0.0 rtb-fe-us-w2.content.ad
 0.0.0.0 rtb-media.me
+0.0.0.0 rtb-px.content.ad
 0.0.0.0 rtb-trk.adcolony.com
 0.0.0.0 rtb-us-east.tapad.com
 0.0.0.0 rtb-useast.rtbidhost.com
@@ -19381,9 +19411,13 @@
 0.0.0.0 sslcheckerapi.com
 0.0.0.0 sslgateways.com
 0.0.0.0 ssp-3-9f58.trnox.com
+0.0.0.0 ssp-fe-us-e1.content.ad
+0.0.0.0 ssp-fe-us-e2.content.ad
+0.0.0.0 ssp-px.content.ad
 0.0.0.0 ssp.adinch.com
 0.0.0.0 ssp.adlook.me
 0.0.0.0 ssp.clickadu.com
+0.0.0.0 ssp.content.ad
 0.0.0.0 ssp.lkgd.net
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.zog.link
@@ -20163,6 +20197,7 @@
 0.0.0.0 tangerinenet.biz
 0.0.0.0 tangibleteam.com
 0.0.0.0 tantametinwass.pro
+0.0.0.0 tantzz.com
 0.0.0.0 taobuy-api.batmobi.net
 0.0.0.0 taodropship.com
 0.0.0.0 tap-cdn.rubiconproject.com
@@ -20239,6 +20274,7 @@
 0.0.0.0 tcads.net
 0.0.0.0 tclck.com
 0.0.0.0 tcm.optica.ero-advertising.com
+0.0.0.0 tcoor.xyz
 0.0.0.0 td-click-haproxy.supersonicads.com
 0.0.0.0 td-click.sonic-us.supersonicads.com
 0.0.0.0 td-service.appcloudbox.net
@@ -20334,8 +20370,10 @@
 0.0.0.0 test-admin.flurry.com
 0.0.0.0 test-collector.eqads.com
 0.0.0.0 test-dsp.rayjump.com
+0.0.0.0 test-help.content.ad
 0.0.0.0 test-hybird1.rayjump.com
 0.0.0.0 test-user-sync.adhese.com
+0.0.0.0 test-www.content.ad
 0.0.0.0 test.ad-stir.com
 0.0.0.0 test.adapter.kaffnet.com
 0.0.0.0 test.adfonic.net
@@ -20367,6 +20405,7 @@
 0.0.0.0 testclick.adhoc2.net
 0.0.0.0 testdemo.pubmatic.com
 0.0.0.0 testdevices.appsflyer.com
+0.0.0.0 testeviron.content.ad
 0.0.0.0 testfilter.com
 0.0.0.0 testing.adbooth.com
 0.0.0.0 testing.ads.mopub.com
@@ -20722,6 +20761,7 @@
 0.0.0.0 toyscrates.com
 0.0.0.0 toyscv.com
 0.0.0.0 toysdool.com
+0.0.0.0 toyseu.top
 0.0.0.0 tpb.okyesmobi.com
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
@@ -22069,6 +22109,7 @@
 0.0.0.0 trekdata.com
 0.0.0.0 trekmedia.net
 0.0.0.0 treksol.net
+0.0.0.0 trekvipa.com
 0.0.0.0 trekvipb.com
 0.0.0.0 tremember.info
 0.0.0.0 tremendoustime.com
@@ -22544,6 +22585,7 @@
 0.0.0.0 union.uc.cn
 0.0.0.0 unionimage.baidu.com
 0.0.0.0 unionslot.lau1.uae.uc.cn
+0.0.0.0 unit.content.ad
 0.0.0.0 unitedtwentytimesblogspotcom.cdaz.icu
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 universalpool.net
@@ -22992,6 +23034,7 @@
 0.0.0.0 video.baidu.co.th
 0.0.0.0 video.batmobi.net
 0.0.0.0 video.cedemo.com
+0.0.0.0 video.content.ad
 0.0.0.0 video.fyber.com
 0.0.0.0 video.market.xiaomi.com
 0.0.0.0 video.mgid.com
@@ -24230,6 +24273,7 @@
 0.0.0.0 www.computertechsupport.us
 0.0.0.0 www.comscore.com
 0.0.0.0 www.consumerproductsusa.com
+0.0.0.0 www.content.ad
 0.0.0.0 www.contentcastling.com
 0.0.0.0 www.contentsitesrv.com
 0.0.0.0 www.contextweb.com
