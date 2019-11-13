@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.316
-# Release: 316
-# Entries: 26,000
+# Version: 19.11.317
+# Release: 317
+# Entries: 26,033
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 12 Nov 19 20:00:18
+# Updated: Wed, 13 Nov 19 20:00:29
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -136,6 +136,7 @@
 0.0.0.0 18videos.by
 0.0.0.0 19.video-ak.cdn.spotify.com
 0.0.0.0 191gm.com
+0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 198935.engine.mobileapptracking.com
 0.0.0.0 19b6ab73ccb000.com
 0.0.0.0 1a.video-ak.cdn.spotify.com
@@ -4604,6 +4605,7 @@
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 api.redshell.io
 0.0.0.0 api.revcontent.com
+0.0.0.0 api.rikka.app
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rmsi.adswizz.com
 0.0.0.0 api.rollbar.com
@@ -4959,6 +4961,7 @@
 0.0.0.0 assist.js.skimresources.com
 0.0.0.0 assist.skimresources.com
 0.0.0.0 assistjs.skimresources.com
+0.0.0.0 assoass.global
 0.0.0.0 assoc-amazon.com
 0.0.0.0 assoc-amazon.fr
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
@@ -6147,6 +6150,7 @@
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c.open.dotcunitedgroup.com
 0.0.0.0 c.parsely.com
+0.0.0.0 c.pleasurefindyou.info
 0.0.0.0 c.pub.network
 0.0.0.0 c.pubguard.com
 0.0.0.0 c.r10.mopub.com
@@ -7332,7 +7336,6 @@
 0.0.0.0 codepushupdates.azureedge.net
 0.0.0.0 coderdog.com
 0.0.0.0 coderlab.us
-0.0.0.0 codesandbox.io
 0.0.0.0 codicebusiness.shinystat.com
 0.0.0.0 codingagent.com
 0.0.0.0 codonamarket.com
@@ -7927,6 +7930,7 @@
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ctrlaltdel99.com
 0.0.0.0 ctrmanager.com
+0.0.0.0 cttghjfhsw.com
 0.0.0.0 ctzkvca0fupsrhd.ru
 0.0.0.0 cubecdn.net
 0.0.0.0 cubiboak.com
@@ -11247,6 +11251,7 @@
 0.0.0.0 hnsearch.algolia.com
 0.0.0.0 ho.lazada.co.th
 0.0.0.0 hobbsfashiondresses.com
+0.0.0.0 hoenytype.com
 0.0.0.0 hokabranddiscount.club
 0.0.0.0 hokaishop.com
 0.0.0.0 hokashoes.site
@@ -11432,6 +11437,7 @@
 0.0.0.0 i.bestcontentpc.top
 0.0.0.0 i.beverly-downing.xyz
 0.0.0.0 i.bimbolive.com
+0.0.0.0 i.clean.gg
 0.0.0.0 i.flow.browser.oppomobile.com
 0.0.0.0 i.frg.im
 0.0.0.0 i.hailhydra.org
@@ -13140,7 +13146,6 @@
 0.0.0.0 link.ad-center.com
 0.0.0.0 link.brightcove.com
 0.0.0.0 link.outbrain.com
-0.0.0.0 link.safelinkconverter.com
 0.0.0.0 link.safesslredirect.company
 0.0.0.0 link4ads.com
 0.0.0.0 link4app.com
@@ -13243,7 +13248,9 @@
 0.0.0.0 loader.topadvert.ru
 0.0.0.0 loading321.com
 0.0.0.0 loadus.exelator.com
+0.0.0.0 local-chicks-here1.com
 0.0.0.0 localadbuy.com
+0.0.0.0 localdates4.com
 0.0.0.0 localedgemedia.com
 0.0.0.0 localguide.church
 0.0.0.0 localhost.in.getclicky.com
@@ -13297,6 +13304,7 @@
 0.0.0.0 log.internetat.tv
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.lkjuio.com
+0.0.0.0 log.mangaina.com
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.ngsm.nexon.com
@@ -13325,6 +13333,7 @@
 0.0.0.0 log.v2.hunantv.com
 0.0.0.0 log.vcdn.io
 0.0.0.0 log.wp.haokan.mobi
+0.0.0.0 log.xzcs3zlph.com
 0.0.0.0 log3.optimizely.com
 0.0.0.0 logapi.rayjump.com
 0.0.0.0 logcollector.viewster.com
@@ -13965,6 +13974,7 @@
 0.0.0.0 meet.r.xoxknct.com
 0.0.0.0 meet.s.xoxknct.com
 0.0.0.0 meetic-partners.com
+0.0.0.0 meezauch.net
 0.0.0.0 mega-deals.mobi
 0.0.0.0 mega-download.info
 0.0.0.0 megaad.nz
@@ -14054,7 +14064,6 @@
 0.0.0.0 metrilo.com
 0.0.0.0 mettlertoledointernational.demdex.net
 0.0.0.0 meuaparelho.net
-0.0.0.0 mewkid.net
 0.0.0.0 meya41w7.com
 0.0.0.0 meyeaps.ml
 0.0.0.0 mfadsrvr.com
@@ -15415,6 +15424,7 @@
 0.0.0.0 onclkds.com
 0.0.0.0 ondeletrofi.info
 0.0.0.0 one-jj.github.io
+0.0.0.0 one-xahxc.world
 0.0.0.0 one.mobotimeapp.com
 0.0.0.0 one.newrelic.com
 0.0.0.0 oneandonlynetwork.com
@@ -15619,6 +15629,7 @@
 0.0.0.0 oss.ucdl.pp.uc.cn
 0.0.0.0 osupdate.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
+0.0.0.0 otag.h2os.com
 0.0.0.0 otcdeal.com
 0.0.0.0 otcdn2.auditude.com
 0.0.0.0 oth.mgid.com
@@ -17931,6 +17942,7 @@
 0.0.0.0 ringtonepartner.com
 0.0.0.0 rionasshop.com
 0.0.0.0 riontorspersed.info
+0.0.0.0 riotpixels.com
 0.0.0.0 riowrite.com
 0.0.0.0 ris-gateway.supersonicads.com
 0.0.0.0 risk.ad-center.com
@@ -18428,6 +18440,7 @@
 0.0.0.0 sb6.scorecardresearch.com
 0.0.0.0 sba.about.co.kr
 0.0.0.0 sbaffiliates.com
+0.0.0.0 sbardlhk.com
 0.0.0.0 sbcpower.com
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sbobet-info.com
@@ -18619,6 +18632,7 @@
 0.0.0.0 securejoinsite.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepayment.cc
+0.0.0.0 securepubads.g.doubleclick.ne
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securestatic.es
 0.0.0.0 securev4vcapi.adcolony.com
@@ -18980,7 +18994,16 @@
 0.0.0.0 sin1.g.adnxs.com
 0.0.0.0 sincerebuffalo.com
 0.0.0.0 sincerespy.com
+0.0.0.0 sinder1.com
+0.0.0.0 sinder10.com
+0.0.0.0 sinder2.com
+0.0.0.0 sinder3.com
+0.0.0.0 sinder4.com
+0.0.0.0 sinder5.com
+0.0.0.0 sinder6.com
+0.0.0.0 sinder7.com
 0.0.0.0 sinder8.com
+0.0.0.0 sinder9.com
 0.0.0.0 sindirect.adsrvr.org
 0.0.0.0 sinefight-skinesia.com
 0.0.0.0 sinfb.adsrvr.org
@@ -22572,6 +22595,7 @@
 0.0.0.0 umwatsonc.telemetry.microsoft.com
 0.0.0.0 umzzaftkqgx.com
 0.0.0.0 un.www.uc.cn
+0.0.0.0 unagi-na.amazon.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unconf.adkmob.com
 0.0.0.0 underclick.ru
@@ -24387,6 +24411,7 @@
 0.0.0.0 www.eeopet.site
 0.0.0.0 www.effective-ads.com
 0.0.0.0 www.egorlz.xyz
+0.0.0.0 www.ehkvtodjwanjfk.com
 0.0.0.0 www.el-lada.com
 0.0.0.0 www.elasticad.com
 0.0.0.0 www.elasticsystems.com
@@ -24454,6 +24479,7 @@
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.frtyr.com
 0.0.0.0 www.ft95.org
+0.0.0.0 www.fuckbookmobile.com
 0.0.0.0 www.funnybox.mobi
 0.0.0.0 www.fyoewyqwpzc.com
 0.0.0.0 www.fzorwhus.com
@@ -24569,11 +24595,13 @@
 0.0.0.0 www.iesnare.com
 0.0.0.0 www.ifzwbqzqs.com
 0.0.0.0 www.ijsl1.voluumtrk.com
+0.0.0.0 www.ijugatdyiuwxq.com
 0.0.0.0 www.ikiweb.it
 0.0.0.0 www.im.mobsweet.com
 0.0.0.0 www.imads.ero-advertising.com
 0.0.0.0 www.imeds.ero-advertising.com
 0.0.0.0 www.img4.juiceadv.com
+0.0.0.0 www.imhizxejm.com
 0.0.0.0 www.in2pcfix.com
 0.0.0.0 www.infinity-info.com
 0.0.0.0 www.infloots.pro
@@ -24678,6 +24706,7 @@
 0.0.0.0 www.loadmill.com
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
+0.0.0.0 www.lowaosan.com
 0.0.0.0 www.lp-site.com
 0.0.0.0 www.lptrack.co
 0.0.0.0 www.luxury138asyik.com
@@ -24692,6 +24721,7 @@
 0.0.0.0 www.mackeeperapp.zeobit.com
 0.0.0.0 www.madvertise.com
 0.0.0.0 www.maebtjn.com
+0.0.0.0 www.malayporn.me
 0.0.0.0 www.maribacaberita.com
 0.0.0.0 www.marketgid.com
 0.0.0.0 www.massabola.com
@@ -24749,6 +24779,7 @@
 0.0.0.0 www.movieads.ero-advertising.com
 0.0.0.0 www.mozila-firefox.com
 0.0.0.0 www.mozook.com
+0.0.0.0 www.mpudcfnsnpj.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mx.ero-advertising.com
@@ -25028,6 +25059,7 @@
 0.0.0.0 www.saranagrup.com
 0.0.0.0 www.sastrk.com
 0.0.0.0 www.sayyac.com
+0.0.0.0 www.sbardlhk.com
 0.0.0.0 www.sbobet-info.com
 0.0.0.0 www.sc.pages04.net
 0.0.0.0 www.scanning.website
@@ -25230,6 +25262,7 @@
 0.0.0.0 www.tvmds.tvpassport.com
 0.0.0.0 www.tvpage.com
 0.0.0.0 www.tvpassport.com
+0.0.0.0 www.txnpdfvqkuzrd.com
 0.0.0.0 www.typo3.ero-advertising.com
 0.0.0.0 www.tzarmedia.com
 0.0.0.0 www.ublock.org
