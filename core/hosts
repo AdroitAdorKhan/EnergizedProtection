@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.319
-# Release: 319
-# Entries: 26,033
+# Version: 19.11.320
+# Release: 320
+# Entries: 26,051
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Nov 19 20:00:19
+# Updated: Sat, 16 Nov 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -6326,6 +6326,7 @@
 0.0.0.0 campaigns3.kissmetrics.com
 0.0.0.0 campanja.com
 0.0.0.0 campershoes.club
+0.0.0.0 campervip.top
 0.0.0.0 campingforthefunofit.com
 0.0.0.0 campuslandmark.com
 0.0.0.0 camsoda.com
@@ -7453,6 +7454,7 @@
 0.0.0.0 com.au.re.getclicky.com
 0.0.0.0 com.re.getclicky.com
 0.0.0.0 com.ssl.re.getclicky.com
+0.0.0.0 comalll.store
 0.0.0.0 comboapp.com
 0.0.0.0 combotag.com
 0.0.0.0 comcastathena.demdex.net
@@ -8782,6 +8784,7 @@
 0.0.0.0 dreamaquarium.com
 0.0.0.0 dreamitsystems.com
 0.0.0.0 driverequest.com
+0.0.0.0 drmartensam.online
 0.0.0.0 drmartensau.com
 0.0.0.0 drmartenshoes.club
 0.0.0.0 drmartenshopsl.club
@@ -10474,6 +10477,7 @@
 0.0.0.0 geoxaventa.com
 0.0.0.0 geoxen.online
 0.0.0.0 geoxes.online
+0.0.0.0 geoxsale.online
 0.0.0.0 geoxshoponline.com
 0.0.0.0 gerison.appanalytics.io
 0.0.0.0 germinatemall.com
@@ -10843,6 +10847,7 @@
 0.0.0.0 gstatic-as.pro
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gt.ads.justpremium.com
+0.0.0.0 gtangen.com
 0.0.0.0 gtm.oasisfeng.com
 0.0.0.0 gtop100.com
 0.0.0.0 gtsads.com
@@ -10896,6 +10901,7 @@
 0.0.0.0 gwc1f.voluumtrk.com
 0.0.0.0 gwlog.vmate.in
 0.0.0.0 gx101.com
+0.0.0.0 gxjsnjcwd.myshopify.com
 0.0.0.0 gynax.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
@@ -11254,6 +11260,7 @@
 0.0.0.0 hoenytype.com
 0.0.0.0 hokabranddiscount.club
 0.0.0.0 hokaishop.com
+0.0.0.0 hokaoneonexshop.com
 0.0.0.0 hokashoes.site
 0.0.0.0 holacasita.com
 0.0.0.0 holder.com.ua
@@ -11301,6 +11308,7 @@
 0.0.0.0 hotelia.us
 0.0.0.0 hotelnamaskarswm.com
 0.0.0.0 hotelscombined.com.au
+0.0.0.0 hotelsdevice.top
 0.0.0.0 hotjatt.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
@@ -11377,6 +11385,7 @@
 0.0.0.0 hummingbird.mopub.com
 0.0.0.0 humparsi.com
 0.0.0.0 humsoolt.net
+0.0.0.0 huntereoutlets.com
 0.0.0.0 huntmad.com
 0.0.0.0 hunttercheap.store
 0.0.0.0 huochepiao.uodoo.com
@@ -13665,6 +13674,7 @@
 0.0.0.0 magento2.algolia.com
 0.0.0.0 magentoconnect.algolia.com
 0.0.0.0 magicadz.co
+0.0.0.0 magliecalciocn.net
 0.0.0.0 magnetadservices.com
 0.0.0.0 magnetic.com
 0.0.0.0 magnetisemedia.com
@@ -13738,6 +13748,7 @@
 0.0.0.0 mapspublications.us
 0.0.0.0 marabunta-sjc3.btrll.com
 0.0.0.0 marchex.com
+0.0.0.0 marekstore.es
 0.0.0.0 marfeel.com
 0.0.0.0 margarite.es
 0.0.0.0 marial.pro
@@ -13984,6 +13995,7 @@
 0.0.0.0 megapopads.com
 0.0.0.0 megapu.sh
 0.0.0.0 megastats.com
+0.0.0.0 megatubo.es
 0.0.0.0 megawerbung.de
 0.0.0.0 megawinners.mobi
 0.0.0.0 meilidream.com
@@ -14694,6 +14706,7 @@
 0.0.0.0 myinfotopia.com
 0.0.0.0 mylevfpqmlt.com
 0.0.0.0 mylink-today.com
+0.0.0.0 mymailco.top
 0.0.0.0 mymoneyfixing.top
 0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mymusic-video.info
@@ -15406,6 +15419,7 @@
 0.0.0.0 omine.org
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 omniscientspark.com
+0.0.0.0 omnisphero.com
 0.0.0.0 omnitechsupport.com
 0.0.0.0 omniture.com
 0.0.0.0 omtrdc.net
@@ -16971,6 +16985,7 @@
 0.0.0.0 premixture.com
 0.0.0.0 premlp-pt11.365lpodds.com
 0.0.0.0 premws-pt11.365lpodds.com
+0.0.0.0 prepara
 0.0.0.0 preplbslog.umeng.com
 0.0.0.0 prequire.info
 0.0.0.0 presage.io
@@ -17072,6 +17087,7 @@
 0.0.0.0 projectwonderful.com
 0.0.0.0 promethean.api.smartlauncher.net
 0.0.0.0 prometheus-shop.com
+0.0.0.0 prominentyouth.com
 0.0.0.0 promo-carlsjr.glasgro.com
 0.0.0.0 promo-elcorral.glasgro.com
 0.0.0.0 promo-kfc.glasgro.com
@@ -17575,6 +17591,7 @@
 0.0.0.0 rbdmc.com
 0.0.0.0 rbdps.com
 0.0.0.0 rbdyu.com
+0.0.0.0 rbeous.com
 0.0.0.0 rbese.com
 0.0.0.0 rbeus.co
 0.0.0.0 rbfr-rbs.com
@@ -20212,6 +20229,7 @@
 0.0.0.0 take-your-prize22.life
 0.0.0.0 takeoutn.tk
 0.0.0.0 takethisoffer.com
+0.0.0.0 takmoodmarket.com
 0.0.0.0 takru.com
 0.0.0.0 talab.org
 0.0.0.0 talaymarket.com
