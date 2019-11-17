@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.320
-# Release: 320
-# Entries: 26,051
+# Version: 19.11.321
+# Release: 321
+# Entries: 26,045
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 16 Nov 19 20:00:17
+# Updated: Sun, 17 Nov 19 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2101,7 +2101,6 @@
 0.0.0.0 ads.donau.pixelpoint.at
 0.0.0.0 ads.dotomi.com
 0.0.0.0 ads.eagletribune.com
-0.0.0.0 ads.easy-forex.com
 0.0.0.0 ads.ebay.com
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.edadeal.ru
@@ -2377,7 +2376,6 @@
 0.0.0.0 ads.w55c.net
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
-0.0.0.0 ads.watson.ch
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.webmasterpoint.org
 0.0.0.0 ads.websiteservices.com
@@ -2415,7 +2413,6 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
 0.0.0.0 ads1.virtual-nights.com
-0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads180.com
 0.0.0.0 ads2-adnow.com
 0.0.0.0 ads2.bangkokpost.co.th
@@ -3934,7 +3931,6 @@
 0.0.0.0 analytics.kochava.com
 0.0.0.0 analytics.kongregate.io
 0.0.0.0 analytics.ku6.com
-0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 analytics.kwpsurveys.com
 0.0.0.0 analytics.lagoondivers.be
 0.0.0.0 analytics.landolsi.de
@@ -7307,7 +7303,6 @@
 0.0.0.0 cnservice.org
 0.0.0.0 cnt.my
 0.0.0.0 cnt.rambler.ru
-0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cntdy.mobi
 0.0.0.0 co.ads.justpremium.com
@@ -24891,7 +24886,6 @@
 0.0.0.0 www.pages04.net
 0.0.0.0 www.pakistanelevators.pk
 0.0.0.0 www.palikan.com
-0.0.0.0 www.papoto.com
 0.0.0.0 www.pasitodoble.win
 0.0.0.0 www.pata.ero-advertising.com
 0.0.0.0 www.pawaiescort.com
