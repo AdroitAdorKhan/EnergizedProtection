@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.321
-# Release: 321
-# Entries: 26,045
+# Version: 19.11.322
+# Release: 322
+# Entries: 26,041
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 17 Nov 19 20:00:15
+# Updated: Mon, 18 Nov 19 20:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -12041,7 +12041,6 @@
 0.0.0.0 incolnperchitect.pro
 0.0.0.0 income.cloverdeer.press
 0.0.0.0 increas.eu
-0.0.0.0 indecode.inmobi.com
 0.0.0.0 index.appsflyer.com
 0.0.0.0 index.umeng.com
 0.0.0.0 indexstats.com
@@ -12328,6 +12327,7 @@
 0.0.0.0 ipromote.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipv4.adrta.com
+0.0.0.0 ipv6-wildcard.applovin.com.edgekey.net
 0.0.0.0 ipv6.adrta.com
 0.0.0.0 ipx.moatads.com
 0.0.0.0 iq.ads.justpremium.com
@@ -15890,7 +15890,6 @@
 0.0.0.0 p2pool.org
 0.0.0.0 p2pool.site
 0.0.0.0 p2poolmining.com
-0.0.0.0 p2poolmining.de
 0.0.0.0 p2poolmining.net
 0.0.0.0 p2x.moatads.com
 0.0.0.0 p3.firrectly.top
@@ -20692,7 +20691,6 @@
 0.0.0.0 tokvideo.adsrvr.org
 0.0.0.0 tollfreeforwarding.com
 0.0.0.0 tolmeaicq.top
-0.0.0.0 tom.itv.com
 0.0.0.0 tomato.yeaheamobi.com
 0.0.0.0 tomekas.com
 0.0.0.0 tomoting.com
@@ -24424,7 +24422,6 @@
 0.0.0.0 www.eeopet.site
 0.0.0.0 www.effective-ads.com
 0.0.0.0 www.egorlz.xyz
-0.0.0.0 www.ehkvtodjwanjfk.com
 0.0.0.0 www.el-lada.com
 0.0.0.0 www.elasticad.com
 0.0.0.0 www.elasticsystems.com
@@ -25071,7 +25068,6 @@
 0.0.0.0 www.saranagrup.com
 0.0.0.0 www.sastrk.com
 0.0.0.0 www.sayyac.com
-0.0.0.0 www.sbardlhk.com
 0.0.0.0 www.sbobet-info.com
 0.0.0.0 www.sc.pages04.net
 0.0.0.0 www.scanning.website
