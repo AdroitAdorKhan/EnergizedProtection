@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.322
-# Release: 322
-# Entries: 26,041
+# Version: 19.11.323
+# Release: 323
+# Entries: 26,060
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 18 Nov 19 20:00:19
+# Updated: Tue, 19 Nov 19 05:54:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3605,6 +3605,7 @@
 0.0.0.0 amoad.com
 0.0.0.0 amobee.com
 0.0.0.0 amoilshop.eu
+0.0.0.0 amoreventure.online
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp-service.addthis.com
 0.0.0.0 amp-test.adzerk.net
@@ -5066,6 +5067,7 @@
 0.0.0.0 augur.io
 0.0.0.0 auspipe.com
 0.0.0.0 auth-canary.flurry.com
+0.0.0.0 auth.espritgames.ru
 0.0.0.0 auth.flurry.com
 0.0.0.0 auth.runative.com
 0.0.0.0 authcaptcha.com
@@ -5508,6 +5510,7 @@
 0.0.0.0 best-realgirls.com
 0.0.0.0 best-top.ro
 0.0.0.0 best.hot-blogs.info
+0.0.0.0 best.peekclickshndrk.com
 0.0.0.0 best2017games.com
 0.0.0.0 bestadbid.com
 0.0.0.0 bestboundary.com
@@ -5519,6 +5522,7 @@
 0.0.0.0 bestforexplmdb.com
 0.0.0.0 bestgame.directory
 0.0.0.0 bestgameads.com
+0.0.0.0 bestgethsksl.pro
 0.0.0.0 besthitsnow.com
 0.0.0.0 besti.ga
 0.0.0.0 bestit.co
@@ -6605,6 +6609,7 @@
 0.0.0.0 cdn.engine.spotscenered.info
 0.0.0.0 cdn.envybox.io
 0.0.0.0 cdn.eqads.com
+0.0.0.0 cdn.espritgames.ru
 0.0.0.0 cdn.evidon.com
 0.0.0.0 cdn.evrhst.com
 0.0.0.0 cdn.feed.eotech.co
@@ -7036,6 +7041,7 @@
 0.0.0.0 click.meitustat.com
 0.0.0.0 click.moreinfo.support
 0.0.0.0 click.mz.simba.taobao.com
+0.0.0.0 click.nativclick.com
 0.0.0.0 click.onedigitalad.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
@@ -8097,6 +8103,7 @@
 0.0.0.0 dailymotion-testing.demand.go.sonobi.com
 0.0.0.0 dailymotion.adformdsp.net
 0.0.0.0 dailymotion.demand.go.sonobi.com
+0.0.0.0 dailytrendsonline.net
 0.0.0.0 daldt.adsafeprotected.com
 0.0.0.0 dalpixel.adsafeprotected.com
 0.0.0.0 damdoor.com
@@ -9166,6 +9173,7 @@
 0.0.0.0 editorial.outbrain.com
 0.0.0.0 edlkfue8flzpivh.ru
 0.0.0.0 ednplus.com
+0.0.0.0 educationvilla.xyz
 0.0.0.0 edvlegv1faamdta.ru
 0.0.0.0 ee.video-ak.cdn.spotify.com
 0.0.0.0 ee01gws.advertising.com
@@ -9419,6 +9427,7 @@
 0.0.0.0 esnrb.com
 0.0.0.0 espaijove.es
 0.0.0.0 esponlocation.com
+0.0.0.0 espritgames.com
 0.0.0.0 esroutlet.com
 0.0.0.0 essayads.com
 0.0.0.0 essaycoupons.com
@@ -9985,6 +9994,7 @@
 0.0.0.0 fluentmobile.com
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
+0.0.0.0 flusnlb.com
 0.0.0.0 flux-cloud.icu
 0.0.0.0 flw.ero-advertising.com
 0.0.0.0 flyertown.ca
@@ -10000,6 +10010,7 @@
 0.0.0.0 fnatfee.ero-advertising.com
 0.0.0.0 fnkyyrgraizy.com
 0.0.0.0 foamybox.com
+0.0.0.0 foazasis.com
 0.0.0.0 focas.jp
 0.0.0.0 focus.kissmetrics.com
 0.0.0.0 fodlkf9d1p.com
@@ -10755,6 +10766,7 @@
 0.0.0.0 gpbaru.net
 0.0.0.0 gpigs-database.org
 0.0.0.0 gpjph.com
+0.0.0.0 gplinks.in
 0.0.0.0 gpumining.cc
 0.0.0.0 gq1.flurry.com
 0.0.0.0 gqwhyjh.com
@@ -12964,6 +12976,7 @@
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 latest.accountkit.com
 0.0.0.0 latestbags.club
+0.0.0.0 latestsocial.com
 0.0.0.0 latestweddingdress.info
 0.0.0.0 latforddom.pro
 0.0.0.0 laugh.plantationfront.pw
@@ -13458,6 +13471,7 @@
 0.0.0.0 ltlxvxjjmvhn.me
 0.0.0.0 ltnewsale.com
 0.0.0.0 ltp2qzteb4.s.ad6media.fr
+0.0.0.0 ltsnnqhtx.com
 0.0.0.0 lu.ads.justpremium.com
 0.0.0.0 lucasrealestategroup.com
 0.0.0.0 lucidmedia.com
@@ -14198,6 +14212,7 @@
 0.0.0.0 mircrew-releases.com
 0.0.0.0 mirrorpersonalinjury.co.uk
 0.0.0.0 mis.shtranssion.com
+0.0.0.0 misc.espritgames.ru
 0.0.0.0 missarty.com
 0.0.0.0 misstrends.com
 0.0.0.0 misterbell.com
@@ -14475,6 +14490,7 @@
 0.0.0.0 more.nexage.com
 0.0.0.0 morebitcoin.club
 0.0.0.0 moreoncamping.com
+0.0.0.0 moreventure.online
 0.0.0.0 moriaxmr.com
 0.0.0.0 moritava.com
 0.0.0.0 morningdigit.com
@@ -14680,6 +14696,7 @@
 0.0.0.0 mycelium.com
 0.0.0.0 mychainpools.com
 0.0.0.0 mycounter.ua
+0.0.0.0 mydailytips.net
 0.0.0.0 mydas.mobi
 0.0.0.0 mydash.yieldlab.net
 0.0.0.0 mydisk.uc.cn
@@ -15636,9 +15653,9 @@
 0.0.0.0 ospreymedialp.com
 0.0.0.0 oss.message.umeng.com
 0.0.0.0 oss.ucdl.pp.uc.cn
+0.0.0.0 ostatic.espritgames.ru
 0.0.0.0 osupdate.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
-0.0.0.0 otag.h2os.com
 0.0.0.0 otcdeal.com
 0.0.0.0 otcdn2.auditude.com
 0.0.0.0 oth.mgid.com
@@ -16236,6 +16253,7 @@
 0.0.0.0 perceivequarter.com
 0.0.0.0 percentmobile.com
 0.0.0.0 perf.logsss.com
+0.0.0.0 perfect-match.org
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfectionholic.com
 0.0.0.0 perfectmarket.com
@@ -16979,7 +16997,6 @@
 0.0.0.0 premixture.com
 0.0.0.0 premlp-pt11.365lpodds.com
 0.0.0.0 premws-pt11.365lpodds.com
-0.0.0.0 prepara
 0.0.0.0 preplbslog.umeng.com
 0.0.0.0 prequire.info
 0.0.0.0 presage.io
@@ -17068,6 +17085,7 @@
 0.0.0.0 proext.com
 0.0.0.0 profed.es
 0.0.0.0 profero.com
+0.0.0.0 proficientcity.akamaized.net
 0.0.0.0 profile-eu.exe.bid
 0.0.0.0 profitablesoft.top
 0.0.0.0 profitfast.online
@@ -18212,6 +18230,7 @@
 0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-cdn-tag.medialytics.com
+0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-img.traffic-media.co.uk
 0.0.0.0 s-imp.rmp.rakuten.com
@@ -18961,6 +18980,7 @@
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sighash.info
 0.0.0.0 signalhq.com
+0.0.0.0 signanravell.info
 0.0.0.0 signaturebankingbyunited.com
 0.0.0.0 signin.brightcove.com
 0.0.0.0 signin.kissmetrics.com
@@ -19297,6 +19317,7 @@
 0.0.0.0 sparechange.io
 0.0.0.0 sparkpool.com
 0.0.0.0 sparkstudios.com
+0.0.0.0 sparzauber.com
 0.0.0.0 spcdnresource-akcf.i-mobile.co.jp
 0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 spd.atdmt.com
@@ -23548,6 +23569,7 @@
 0.0.0.0 weewhaik.com
 0.0.0.0 wegcash.com
 0.0.0.0 weishi.baidu.com
+0.0.0.0 welcome.espritgames.com
 0.0.0.0 welldonelisa.com
 0.0.0.0 wellgroomedbat.com
 0.0.0.0 wellmadefrog.com
@@ -24403,6 +24425,7 @@
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.downcloud.net
 0.0.0.0 www.dpbolvw.net
+0.0.0.0 www.dragonawaken.com.de
 0.0.0.0 www.drivenetwork.ru
 0.0.0.0 www.dt2xr6g2i5.com
 0.0.0.0 www.dtta.ero-advertising.com
@@ -24491,8 +24514,6 @@
 0.0.0.0 www.ft95.org
 0.0.0.0 www.fuckbookmobile.com
 0.0.0.0 www.funnybox.mobi
-0.0.0.0 www.fyoewyqwpzc.com
-0.0.0.0 www.fzorwhus.com
 0.0.0.0 www.g.msn.com
 0.0.0.0 www.g00.xda-developers.com
 0.0.0.0 www.g11em.voluumtrk.com
@@ -24596,6 +24617,7 @@
 0.0.0.0 www.hs.appsdorado.com
 0.0.0.0 www.hsselite.com
 0.0.0.0 www.ht8n8.voluumtrk.com
+0.0.0.0 www.htgpsnbtha.com
 0.0.0.0 www.hubi.com
 0.0.0.0 www.hypertrack.com
 0.0.0.0 www.i.skimresources.com
@@ -24605,13 +24627,11 @@
 0.0.0.0 www.iesnare.com
 0.0.0.0 www.ifzwbqzqs.com
 0.0.0.0 www.ijsl1.voluumtrk.com
-0.0.0.0 www.ijugatdyiuwxq.com
 0.0.0.0 www.ikiweb.it
 0.0.0.0 www.im.mobsweet.com
 0.0.0.0 www.imads.ero-advertising.com
 0.0.0.0 www.imeds.ero-advertising.com
 0.0.0.0 www.img4.juiceadv.com
-0.0.0.0 www.imhizxejm.com
 0.0.0.0 www.in2pcfix.com
 0.0.0.0 www.infinity-info.com
 0.0.0.0 www.infloots.pro
@@ -24716,9 +24736,9 @@
 0.0.0.0 www.loadmill.com
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
-0.0.0.0 www.lowaosan.com
 0.0.0.0 www.lp-site.com
 0.0.0.0 www.lptrack.co
+0.0.0.0 www.ltsnnqhtx.com
 0.0.0.0 www.luxury138asyik.com
 0.0.0.0 www.lvmobi.com
 0.0.0.0 www.lwsxrphion.com
@@ -24769,6 +24789,7 @@
 0.0.0.0 www.mixpanel.com
 0.0.0.0 www.mniqkjtvqal.com
 0.0.0.0 www.moatads.com
+0.0.0.0 www.mob1ledev1ces.com
 0.0.0.0 www.mobclix.com
 0.0.0.0 www.mobcon.pro
 0.0.0.0 www.mobidea.com
@@ -24789,7 +24810,6 @@
 0.0.0.0 www.movieads.ero-advertising.com
 0.0.0.0 www.mozila-firefox.com
 0.0.0.0 www.mozook.com
-0.0.0.0 www.mpudcfnsnpj.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mx.ero-advertising.com
@@ -25270,7 +25290,6 @@
 0.0.0.0 www.tvmds.tvpassport.com
 0.0.0.0 www.tvpage.com
 0.0.0.0 www.tvpassport.com
-0.0.0.0 www.txnpdfvqkuzrd.com
 0.0.0.0 www.typo3.ero-advertising.com
 0.0.0.0 www.tzarmedia.com
 0.0.0.0 www.ublock.org
