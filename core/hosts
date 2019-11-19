@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.323
 # Release: 323
-# Entries: 26,213
+# Entries: 26,212
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 19 Nov 19 08:00:17
+# Updated: Tue, 19 Nov 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2272,7 +2272,6 @@
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.imprezzer.com
 0.0.0.0 ads.indiaresults.com
-0.0.0.0 ads.indiatimes.com
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.intentiq.com
