@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.324
 # Release: 324
-# Entries: 26,212
+# Entries: 26,208
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 20 Nov 19 08:00:18
+# Updated: Wed, 20 Nov 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4555,7 +4555,6 @@
 0.0.0.0 api.ad.ad-stir.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.smaato.net
-0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adbuddiz.com
 0.0.0.0 api.adcolony.com
 0.0.0.0 api.addictiveads.com
@@ -7980,7 +7979,6 @@
 0.0.0.0 cryptominer.net
 0.0.0.0 cryptomineros.com
 0.0.0.0 cryptomininggame.com
-0.0.0.0 cryptominingpool.eu
 0.0.0.0 cryptonator.com
 0.0.0.0 cryptonight.net
 0.0.0.0 cryptonotemining.org
@@ -8114,7 +8112,6 @@
 0.0.0.0 d.batmobi.net
 0.0.0.0 d.fotw.xyz
 0.0.0.0 d.go-mpulse.net
-0.0.0.0 d.greece-search.com
 0.0.0.0 d.gunnepaa.xyz
 0.0.0.0 d.iclwy.xyz
 0.0.0.0 d.mordi.xyz
@@ -13681,7 +13678,6 @@
 0.0.0.0 m.it.appsdorado.com
 0.0.0.0 m.jucydate.com
 0.0.0.0 m.lsiwd.cn
-0.0.0.0 m.miricommunity.net
 0.0.0.0 m.mixadvert.com
 0.0.0.0 m.mntz.life
 0.0.0.0 m.nexage.com
