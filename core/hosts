@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.326
 # Release: 326
-# Entries: 26,204
+# Entries: 26,219
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 22 Nov 19 08:00:19
+# Updated: Fri, 22 Nov 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -890,7 +890,6 @@
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-test1.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
-0.0.0.0 aax-fe-pek.amazon-adsystem.com
 0.0.0.0 aax-fe-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-fe-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -3203,6 +3202,7 @@
 0.0.0.0 advertiser.applovin.com
 0.0.0.0 advertiser.authenticshows.com
 0.0.0.0 advertiser.fyber.com
+0.0.0.0 advertiser.simply.com
 0.0.0.0 advertiser.wbtrk.net
 0.0.0.0 advertiser.xyou.com
 0.0.0.0 advertisers.adbuddiz.com
@@ -4554,6 +4554,7 @@
 0.0.0.0 api.ad.ad-stir.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.smaato.net
+0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adbuddiz.com
 0.0.0.0 api.adcolony.com
 0.0.0.0 api.addictiveads.com
@@ -6347,6 +6348,7 @@
 0.0.0.0 cache.celtra.com
 0.0.0.0 cache.nmn.speedera.net
 0.0.0.0 cadatabank.adtdp.com
+0.0.0.0 cadskis.com
 0.0.0.0 caesar.wan.panda.tv
 0.0.0.0 cafepharma.adblade.com
 0.0.0.0 caigiees.com
@@ -8980,6 +8982,7 @@
 0.0.0.0 dv36o6ux8o.s.ad6media.fr
 0.0.0.0 dvd-electronics.at
 0.0.0.0 dvdiri0etkensr.ru
+0.0.0.0 dvoyy3qexr.com
 0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwarfpool.com
 0.0.0.0 dwcreations.net
@@ -10388,6 +10391,7 @@
 0.0.0.0 fxt1.uc.cn
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 fyber.com
+0.0.0.0 fydistianper.com
 0.0.0.0 fygotetwassla.info
 0.0.0.0 fz.letv.com
 0.0.0.0 fzrqfakeaqikwm.com
@@ -10631,6 +10635,7 @@
 0.0.0.0 giddycoat.com
 0.0.0.0 gif-ads.top
 0.0.0.0 gifmaker.s.xoxknct.com
+0.0.0.0 giftwinwinning2019.club
 0.0.0.0 gigabyte.club
 0.0.0.0 gigarho.com
 0.0.0.0 gigsis.net
@@ -11527,7 +11532,6 @@
 0.0.0.0 hybridclient.naiadsystems.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hydramedia.com
-0.0.0.0 hydrax.net
 0.0.0.0 hyena.cz
 0.0.0.0 hype-ads.com
 0.0.0.0 hypemakers.net
@@ -11615,6 +11619,7 @@
 0.0.0.0 iad3.btrll.com
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 iag37.bemobtrk.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iam-preprod.inmobi.com
@@ -12585,6 +12590,7 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jdouzzxkyukv.com
 0.0.0.0 jeansame.store
+0.0.0.0 jeclittrecheckrep.info
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jellopads.com
@@ -15276,6 +15282,7 @@
 0.0.0.0 notify.traffic-media.co.uk
 0.0.0.0 notify.zhushou.sogou.com
 0.0.0.0 notmining.org
+0.0.0.0 notontherbabla.com
 0.0.0.0 notressitropl.info
 0.0.0.0 notvp.com
 0.0.0.0 nova.adswizz.com
@@ -15529,6 +15536,7 @@
 0.0.0.0 olala1.com
 0.0.0.0 olala3.com
 0.0.0.0 olala4.com
+0.0.0.0 olarshalrolli.com
 0.0.0.0 oldsupport.kissmetrics.com
 0.0.0.0 oldtiger.net
 0.0.0.0 oleking.com
@@ -18855,6 +18863,7 @@
 0.0.0.0 septembership.com
 0.0.0.0 septimus-kyr.com
 0.0.0.0 sepyw.top
+0.0.0.0 serconmp.com
 0.0.0.0 serialbay.com
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serv-ac.com
@@ -19041,6 +19050,7 @@
 0.0.0.0 shoeskvot.gdn
 0.0.0.0 shoesmonline.com
 0.0.0.0 shoesvalley.cn
+0.0.0.0 shofteph.com
 0.0.0.0 shokala.com
 0.0.0.0 shoopsty.com
 0.0.0.0 shop.fashionjbl.com
@@ -19142,7 +19152,6 @@
 0.0.0.0 simpletexting.com
 0.0.0.0 simpletix.getclicky.com
 0.0.0.0 simpli.fi
-0.0.0.0 simply.com
 0.0.0.0 simplycast.com
 0.0.0.0 simsite.outbrain.com
 0.0.0.0 simsomshop.com
@@ -19405,6 +19414,7 @@
 0.0.0.0 sombersurprise.com
 0.0.0.0 sombes.com
 0.0.0.0 sommelier.zdbb.net
+0.0.0.0 sonagerthrou.com
 0.0.0.0 sonar.adswizz.com
 0.0.0.0 sonet.demdex.net
 0.0.0.0 songbird.cardinalcommerce.com
@@ -21317,7 +21327,6 @@
 0.0.0.0 track.healthtrader.com
 0.0.0.0 track.healthytrking.com
 0.0.0.0 track.heyzap.com
-0.0.0.0 track.hockeycurve.com
 0.0.0.0 track.holly-harlow.com
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hooligapps.com
@@ -22409,6 +22418,7 @@
 0.0.0.0 truckmovers.life
 0.0.0.0 truckmovers.vip
 0.0.0.0 truckrental.app
+0.0.0.0 trucksid.com
 0.0.0.0 truckstomatoes.com
 0.0.0.0 trudigital.live
 0.0.0.0 truebaren.speedera.net
@@ -22428,6 +22438,7 @@
 0.0.0.0 trumptrain.app
 0.0.0.0 trumptrainlive.com
 0.0.0.0 trunk.guce.advertising.com
+0.0.0.0 trupir-asia.info
 0.0.0.0 trustalio.net
 0.0.0.0 trustalio.org
 0.0.0.0 trusted-collector-bk.tmocce.com
@@ -24332,6 +24343,7 @@
 0.0.0.0 www.awin1.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.axiom-project.eu
+0.0.0.0 www.aycksenkb.com
 0.0.0.0 www.b.ads1.msn.com
 0.0.0.0 www.b.ads2.msads.net
 0.0.0.0 www.b.rad.msn.com
@@ -24808,6 +24820,7 @@
 0.0.0.0 www.j1cw9.voluumtrk2.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jetbytes.com
+0.0.0.0 www.jkxyxiwqdl.com
 0.0.0.0 www.jmdsolutions.yolasite.com
 0.0.0.0 www.jobsgg.com
 0.0.0.0 www.jounrop.com
@@ -24868,6 +24881,7 @@
 0.0.0.0 www.livepromo.net
 0.0.0.0 www.liverail.com
 0.0.0.0 www.loadmill.com
+0.0.0.0 www.localxstreet.xyz
 0.0.0.0 www.lodwgqjcflr.com
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
 0.0.0.0 www.lowaosan.com
@@ -25003,6 +25017,7 @@
 0.0.0.0 www.oca.telemetry.microsoft.com
 0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.oemzjlekhzq.com
+0.0.0.0 www.oipcqenejq.com
 0.0.0.0 www.oipzyrzffum.ovh
 0.0.0.0 www.ok-rb.top
 0.0.0.0 www.okyesmobi.com
