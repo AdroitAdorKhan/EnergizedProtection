@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.325
-# Release: 325
-# Entries: 26,207
+# Version: 19.11.326
+# Release: 326
+# Entries: 26,204
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 21 Nov 19 20:00:21
+# Updated: Fri, 22 Nov 19 08:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3044,7 +3044,6 @@
 0.0.0.0 adstaces.ero-advertising.com
 0.0.0.0 adstage.io
 0.0.0.0 adstargeting.com
-0.0.0.0 adstat.4u.pl
 0.0.0.0 adstatic.com
 0.0.0.0 adstats.snapads.com
 0.0.0.0 adsted.adk2.co
@@ -18357,7 +18356,6 @@
 0.0.0.0 ryllae.com
 0.0.0.0 ryminos.com
 0.0.0.0 rzekbhnk.top
-0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-cdn-tag.medialytics.com
 0.0.0.0 s-img.adskeeper.co.uk
@@ -19913,7 +19911,6 @@
 0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.itsimple.com.au.re.getclicky.com
 0.0.0.0 stats.jdog.net.re.getclicky.com
-0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.marketingtruthserum.com.re.getclicky.com
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.optijob.com.re.getclicky.com
