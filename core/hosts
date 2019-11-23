@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.326
-# Release: 326
-# Entries: 26,219
+# Version: 19.11.327
+# Release: 327
+# Entries: 26,218
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 22 Nov 19 20:00:21
+# Updated: Sat, 23 Nov 19 08:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -19918,7 +19918,6 @@
 0.0.0.0 stats.idealmainos.fi.re.getclicky.com
 0.0.0.0 stats.in.th
 0.0.0.0 stats.interactivesearchmarketing.com.re.getclicky.com
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.itsimple.com.au.re.getclicky.com
 0.0.0.0 stats.jdog.net.re.getclicky.com
 0.0.0.0 stats.marketingtruthserum.com.re.getclicky.com
