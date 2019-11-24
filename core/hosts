@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.327
-# Release: 327
-# Entries: 26,216
+# Version: 19.11.328
+# Release: 328
+# Entries: 26,215
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 23 Nov 19 20:00:21
+# Updated: Sun, 24 Nov 19 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -24803,7 +24803,6 @@
 0.0.0.0 www.it.appsdorado.com
 0.0.0.0 www.it.boostperform.com
 0.0.0.0 www.italiaonline.com
-0.0.0.0 www.itraffictrade.com
 0.0.0.0 www.iubenda.com
 0.0.0.0 www.ivgfyhbcfcepai.com
 0.0.0.0 www.ivideopiuvisti.com
