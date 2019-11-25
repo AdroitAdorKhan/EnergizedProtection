@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.328
-# Release: 328
-# Entries: 26,215
+# Version: 19.11.329
+# Release: 329
+# Entries: 26,211
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 24 Nov 19 20:00:16
+# Updated: Mon, 25 Nov 19 08:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -6826,7 +6826,6 @@
 0.0.0.0 cdn01.static.adfalcon.com
 0.0.0.0 cdn02.seedr.com
 0.0.0.0 cdn1.ad-center.com
-0.0.0.0 cdn1.adexprt.com
 0.0.0.0 cdn1.ads.contentabc.com
 0.0.0.0 cdn1.appia.com
 0.0.0.0 cdn1.crispadvertising.com
@@ -10851,7 +10850,6 @@
 0.0.0.0 gorgeousground.com
 0.0.0.0 gorgonkil.com
 0.0.0.0 gosfragoods.com
-0.0.0.0 goshakha.com
 0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
 0.0.0.0 gotagy.adk2.co
@@ -17067,7 +17065,6 @@
 0.0.0.0 poweradvertising.co.uk
 0.0.0.0 powerflashlight2019.s.xoxknct.com
 0.0.0.0 powerlinks.com
-0.0.0.0 powerltc.net
 0.0.0.0 powermaster.s.xoxknct.com
 0.0.0.0 powersaver.s.xoxknct.com
 0.0.0.0 powertradeprofit.com
@@ -23167,7 +23164,6 @@
 0.0.0.0 version1.radiobanners.radionomy.agency.adhese.com
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
-0.0.0.0 vertco.in
 0.0.0.0 verticalmass.com
 0.0.0.0 vertismedia.co.uk
 0.0.0.0 vertoz.adk2.co
