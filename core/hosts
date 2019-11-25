@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.11.329
 # Release: 329
-# Entries: 26,211
+# Entries: 26,208
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 25 Nov 19 08:00:17
+# Updated: Mon, 25 Nov 19 20:00:25
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2329,7 +2329,6 @@
 0.0.0.0 ads.mybanktracker.com
 0.0.0.0 ads.nayemador.com
 0.0.0.0 ads.nc.cname.inmobi.com
-0.0.0.0 ads.netcraft.com
 0.0.0.0 ads.netflix.com
 0.0.0.0 ads.netweek.it
 0.0.0.0 ads.newgrounds.com
@@ -6841,7 +6840,6 @@
 0.0.0.0 cdn11.trafficjunky.net
 0.0.0.0 cdn12.contentabc.com
 0.0.0.0 cdn2.ad-center.com
-0.0.0.0 cdn2.adexprt.com
 0.0.0.0 cdn2.contentabc.com
 0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cdn2.editmysite.com
@@ -6851,7 +6849,6 @@
 0.0.0.0 cdn2.shareitgames.com
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn2.wshareit.com
-0.0.0.0 cdn3.adexprt.com
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn3.net
