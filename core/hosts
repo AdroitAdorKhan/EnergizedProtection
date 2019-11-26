@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.11.329
-# Release: 329
-# Entries: 26,208
+# Version: 19.11.330
+# Release: 330
+# Entries: 26,207
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 25 Nov 19 20:00:25
+# Updated: Tue, 26 Nov 19 08:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -21132,7 +21132,6 @@
 0.0.0.0 track.boomoffer07.com
 0.0.0.0 track.boyspass.com
 0.0.0.0 track.brafiliados.com.br
-0.0.0.0 track.braincash.com
 0.0.0.0 track.brbbf.com
 0.0.0.0 track.bridge.systems
 0.0.0.0 track.brighteroption.com
