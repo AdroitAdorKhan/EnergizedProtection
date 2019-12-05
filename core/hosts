@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.338
-# Release: 338
-# Entries: 26,206
+# Version: 19.12.339
+# Release: 339
+# Entries: 26,205
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 04 Dec 19 20:00:19
+# Updated: Thu, 05 Dec 19 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4199,7 +4199,6 @@
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.redlink.com.ar
 0.0.0.0 analytics.resonate.com
-0.0.0.0 analytics.revee.com
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.robinhood.com
 0.0.0.0 analytics.rogersmedia.com
