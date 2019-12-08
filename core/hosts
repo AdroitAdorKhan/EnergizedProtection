@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.341
-# Release: 341
-# Entries: 26,263
+# Version: 19.12.342
+# Release: 342
+# Entries: 26,266
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 07 Dec 19 20:00:18
+# Updated: Sun, 08 Dec 19 08:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5604,7 +5604,6 @@
 0.0.0.0 beriacroft.com
 0.0.0.0 beringmedia.com
 0.0.0.0 berp.com
-0.0.0.0 besstahete.info
 0.0.0.0 best-light.top
 0.0.0.0 best-pr.info
 0.0.0.0 best-realgirls.com
@@ -6360,6 +6359,7 @@
 0.0.0.0 cahrttclos.club
 0.0.0.0 caigiees.com
 0.0.0.0 caithamo.net
+0.0.0.0 caiyung.com
 0.0.0.0 cajalwinterconference.es
 0.0.0.0 cajgbabcfhjceiacabd.ru
 0.0.0.0 cal.newrelic.com
@@ -8666,6 +8666,7 @@
 0.0.0.0 displayincloud.adk2.co
 0.0.0.0 displaypagerank.com
 0.0.0.0 dispop.com
+0.0.0.0 dispositivodig.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.ad-stir.com
 0.0.0.0 dist.adp.ad-stir.com
@@ -13825,6 +13826,7 @@
 0.0.0.0 magento.algolia.com
 0.0.0.0 magento2.algolia.com
 0.0.0.0 magentoconnect.algolia.com
+0.0.0.0 magic-drone.net
 0.0.0.0 magicadz.co
 0.0.0.0 magliecalciocn.net
 0.0.0.0 magnetadservices.com
@@ -19403,6 +19405,7 @@
 0.0.0.0 snv.bluekai.com
 0.0.0.0 snw-inv-eu.admixer.net
 0.0.0.0 snwmedia.adk2.co
+0.0.0.0 snypitsale.com
 0.0.0.0 so-excited.com
 0.0.0.0 so-ext-tf.rlcdn.com
 0.0.0.0 so.rlcdn.com
