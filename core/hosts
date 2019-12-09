@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.343
 # Release: 343
-# Entries: 26,303
+# Entries: 26,300
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 09 Dec 19 08:00:18
+# Updated: Mon, 09 Dec 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -8616,7 +8616,6 @@
 0.0.0.0 diff2.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 digg.analytics.live.com
-0.0.0.0 diggerhash.com
 0.0.0.0 digi.tapad.com
 0.0.0.0 digin.adreach.co
 0.0.0.0 digipathmedia.com
@@ -17313,7 +17312,6 @@
 0.0.0.0 promote.green-red.com
 0.0.0.0 promote.pair.com
 0.0.0.0 promoted.com
-0.0.0.0 promotion-campaigns.com
 0.0.0.0 promotion.polarisoffice.com
 0.0.0.0 promotpkcc.com
 0.0.0.0 pronetadvertising.com
@@ -23713,7 +23711,6 @@
 0.0.0.0 web3.adshares.net
 0.0.0.0 web4wedding.es
 0.0.0.0 web9.adblade.com
-0.0.0.0 webads.co.nz
 0.0.0.0 webads.nl
 0.0.0.0 webanalytics.btelligent.net
 0.0.0.0 webanalytics.crownpeak.com.re.getclicky.com
