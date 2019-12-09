@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.342
-# Release: 342
-# Entries: 26,305
+# Version: 19.12.343
+# Release: 343
+# Entries: 26,303
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 08 Dec 19 20:00:19
+# Updated: Mon, 09 Dec 19 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -9378,7 +9378,6 @@
 0.0.0.0 elecomponentes.com
 0.0.0.0 electosake.com
 0.0.0.0 electrolledo.es
-0.0.0.0 electroneum.ovh
 0.0.0.0 electronica-electrodomesticos.com
 0.0.0.0 electronicsshoph.info
 0.0.0.0 elegants-best.com
@@ -23466,7 +23465,6 @@
 0.0.0.0 vocento.cxsearch.cxense.com
 0.0.0.0 vocento.recs.cxense.com
 0.0.0.0 vocmd.ucweb.com
-0.0.0.0 vogo-vogo.ru
 0.0.0.0 vogosita.com
 0.0.0.0 vogozaw.ru
 0.0.0.0 voicefive.com
