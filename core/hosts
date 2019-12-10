@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.344
 # Release: 344
-# Entries: 26,299
+# Entries: 26,298
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 10 Dec 19 08:00:20
+# Updated: Tue, 10 Dec 19 20:00:27
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2184,7 +2184,6 @@
 0.0.0.0 ads.complex.com
 0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.creative-serving.com
-0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 ads.dennisnet.co.uk
