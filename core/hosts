@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.343
-# Release: 343
-# Entries: 26,300
+# Version: 19.12.344
+# Release: 344
+# Entries: 26,299
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 09 Dec 19 20:00:20
+# Updated: Tue, 10 Dec 19 08:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -14897,7 +14897,6 @@
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypool.online
 0.0.0.0 mypowermall.com
-0.0.0.0 myregeneaf.com
 0.0.0.0 myrobotearn.top
 0.0.0.0 myrobotinsurance.com
 0.0.0.0 mys2016.info
