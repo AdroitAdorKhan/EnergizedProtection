@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.345
 # Release: 345
-# Entries: 26,356
+# Entries: 26,355
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 Dec 19 08:00:19
+# Updated: Wed, 11 Dec 19 20:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1839,7 +1839,6 @@
 0.0.0.0 admob.co.nz
 0.0.0.0 admob.co.uk
 0.0.0.0 admob.com
-0.0.0.0 admob.cz
 0.0.0.0 admob.de
 0.0.0.0 admob.dk
 0.0.0.0 admob.es
