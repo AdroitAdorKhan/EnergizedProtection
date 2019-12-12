@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.345
-# Release: 345
-# Entries: 26,355
+# Version: 19.12.346
+# Release: 346
+# Entries: 26,360
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 Dec 19 20:00:17
+# Updated: Thu, 12 Dec 19 08:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2614,7 +2614,6 @@
 0.0.0.0 adsensecamp.com
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adsenseguard.com
-0.0.0.0 adserv.gamezone.de
 0.0.0.0 adserv.tritonmedia.com
 0.0.0.0 adserve-ams.1rx.io
 0.0.0.0 adserve-nj.1rx.io
@@ -5716,6 +5715,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.eyeviewads.com
 0.0.0.0 bidder.mdspinc.com
+0.0.0.0 bidder.rtk.io
 0.0.0.0 bidder.us.east.liverail.com
 0.0.0.0 bidder.us.west.liverail.com
 0.0.0.0 bidgear.com
@@ -7691,6 +7691,7 @@
 0.0.0.0 console.adsnative.com
 0.0.0.0 console.brightcove.com
 0.0.0.0 console.pagefair.com
+0.0.0.0 console.rtk.io
 0.0.0.0 console.uc123.com
 0.0.0.0 consumergenepool.com
 0.0.0.0 consumerproductsusa.com
@@ -11000,6 +11001,7 @@
 0.0.0.0 groupfabric.com
 0.0.0.0 groupmarketing.ru
 0.0.0.0 grow.kissmetrics.com
+0.0.0.0 grow.rtk.io
 0.0.0.0 growth-support.applovin.com
 0.0.0.0 growthea.com
 0.0.0.0 grrqxsl.com
@@ -13563,6 +13565,7 @@
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.flurry.com
 0.0.0.0 login.newrelic.com
+0.0.0.0 login.rtk.io
 0.0.0.0 login.uc.cn
 0.0.0.0 login.uc123.com
 0.0.0.0 login.vidible.tv
@@ -15476,6 +15479,7 @@
 0.0.0.0 ny.outbrain.com
 0.0.0.0 nyadmcncserve-05y06a.com
 0.0.0.0 nyantai.uodoo.com
+0.0.0.0 nyc.thor.rtk.io
 0.0.0.0 nychi2.outbrain.com
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 nyidt.adsafeprotected.com
@@ -19062,6 +19066,7 @@
 0.0.0.0 sfapplog.uc.cn
 0.0.0.0 sfb-rtb.applovin.com
 0.0.0.0 sfo-goog.applovin.com
+0.0.0.0 sfo.thor.rtk.io
 0.0.0.0 sfoprod-rtbwin.applovin.com
 0.0.0.0 sfostage-rtb.applovin.com
 0.0.0.0 sfostage-rtbwin.applovin.com
@@ -25348,9 +25353,9 @@
 0.0.0.0 www.rs2.ero-advertising.com
 0.0.0.0 www.rtalabel.org
 0.0.0.0 www.rtb-adsterra.flshtrk.store
+0.0.0.0 www.rtk.io
 0.0.0.0 www.runative.com
 0.0.0.0 www.rvty.net
-0.0.0.0 www.rxsptuki.com
 0.0.0.0 www.s.clickiocdn.com
 0.0.0.0 www.s.ero-advertising.com
 0.0.0.0 www.s.update.moatads.com
