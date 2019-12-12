@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.346
 # Release: 346
-# Entries: 26,360
+# Entries: 26,356
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 Dec 19 08:00:20
+# Updated: Thu, 12 Dec 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -13565,7 +13565,6 @@
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.flurry.com
 0.0.0.0 login.newrelic.com
-0.0.0.0 login.rtk.io
 0.0.0.0 login.uc.cn
 0.0.0.0 login.uc123.com
 0.0.0.0 login.vidible.tv
@@ -24569,7 +24568,6 @@
 0.0.0.0 www.cata.ero-advertising.com
 0.0.0.0 www.cdn.adblade.com
 0.0.0.0 www.cdn.atdmt.com
-0.0.0.0 www.cdn.beginads.com
 0.0.0.0 www.cdn3.net
 0.0.0.0 www.cdnallyouwantonline.innocraft.cloud
 0.0.0.0 www.cdnmedia.xyz
@@ -25345,7 +25343,6 @@
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.rotatemyurls.com
 0.0.0.0 www.rotator.axiatraders.com
-0.0.0.0 www.rotator.beginads.com
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.royalbet90.win
 0.0.0.0 www.rp3oq.voluumtrk.com
@@ -25546,7 +25543,6 @@
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracker.ero-advertising.com
 0.0.0.0 www.trackico.io
-0.0.0.0 www.tracking.beginads.com
 0.0.0.0 www.tracking.ero-advertising.com
 0.0.0.0 www.tracking.w2mobile.com
 0.0.0.0 www.trackinit.com
