@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.347
 # Release: 347
-# Entries: 26,356
+# Entries: 26,354
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 13 Dec 19 08:00:21
+# Updated: Fri, 13 Dec 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -21536,7 +21536,6 @@
 0.0.0.0 track.locsensads.com
 0.0.0.0 track.loop.games
 0.0.0.0 track.loopme.me
-0.0.0.0 track.loox.io
 0.0.0.0 track.loveandsex.biz
 0.0.0.0 track.lt
 0.0.0.0 track.m1-eu.pro
@@ -25337,7 +25336,6 @@
 0.0.0.0 www.rgryk.voluumtrk.com
 0.0.0.0 www.rhfgjld.com
 0.0.0.0 www.rlcdn.com
-0.0.0.0 www.rmtwnrwnhu.com
 0.0.0.0 www.rocks.io
 0.0.0.0 www.rollbar.com
 0.0.0.0 www.roosterfirework.com
