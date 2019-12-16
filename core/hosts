@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.349
-# Release: 349
-# Entries: 26,393
+# Version: 19.12.350
+# Release: 350
+# Entries: 26,391
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 15 Dec 19 20:00:19
+# Updated: Mon, 16 Dec 19 08:00:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -14399,7 +14399,6 @@
 0.0.0.0 mini5.opera-mini.net
 0.0.0.0 minicamerass.club
 0.0.0.0 minimumpay.info
-0.0.0.0 mining-dutch.nl
 0.0.0.0 mining-pool.io
 0.0.0.0 mining.akroma.org
 0.0.0.0 mining4.co.uk
@@ -16125,7 +16124,6 @@
 0.0.0.0 p299886.clksite.com
 0.0.0.0 p299918.clksite.com
 0.0.0.0 p2ads.com
-0.0.0.0 p2p-multipool.eu
 0.0.0.0 p2pminers.com
 0.0.0.0 p2pmining.com
 0.0.0.0 p2pool.in
