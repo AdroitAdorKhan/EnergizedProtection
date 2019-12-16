@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.350
 # Release: 350
-# Entries: 26,391
+# Entries: 26,390
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 16 Dec 19 08:00:23
+# Updated: Mon, 16 Dec 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -9622,7 +9622,6 @@
 0.0.0.0 ethertrench.com
 0.0.0.0 ethfans.org
 0.0.0.0 ethfw0370q.com
-0.0.0.0 ethicalads.net
 0.0.0.0 ethonline.io
 0.0.0.0 ethosdistro.com
 0.0.0.0 ethpmgoods.eu
