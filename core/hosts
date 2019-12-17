@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.350
-# Release: 350
-# Entries: 26,390
+# Version: 19.12.351
+# Release: 351
+# Entries: 26,414
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 16 Dec 19 20:00:21
+# Updated: Tue, 17 Dec 19 08:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3515,6 +3515,7 @@
 0.0.0.0 ahashpool.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahi26.voluumtrk.com
+0.0.0.0 ahmahm.com
 0.0.0.0 ahrcwekji.com
 0.0.0.0 ahwzvnqc.com
 0.0.0.0 ai-cf.addthis.com
@@ -3974,7 +3975,6 @@
 0.0.0.0 analytics.freedom.press
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.fs-bdash.com
-0.0.0.0 analytics.fusepowered.com
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.gandi.net
 0.0.0.0 analytics.ganji.com
@@ -4645,7 +4645,6 @@
 0.0.0.0 api.exoclick.com
 0.0.0.0 api.flurry.com
 0.0.0.0 api.freebasics.com
-0.0.0.0 api.fusepowered.com
 0.0.0.0 api.game.letvstore.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.getclicky.com
@@ -6035,6 +6034,7 @@
 0.0.0.0 botasdrmartens.com
 0.0.0.0 botasdrmartens.com.mx
 0.0.0.0 bottlecapspool.com
+0.0.0.0 boudinotassociates.com
 0.0.0.0 boudja.com
 0.0.0.0 boultrated.info
 0.0.0.0 bounceexchange.com
@@ -6567,6 +6567,7 @@
 0.0.0.0 catestore.online
 0.0.0.0 catmex.online
 0.0.0.0 catrebaja.online
+0.0.0.0 catshoes.store
 0.0.0.0 cattienda.online
 0.0.0.0 catventas.online
 0.0.0.0 catwrite.com
@@ -8381,6 +8382,7 @@
 0.0.0.0 dd.video-ak.cdn.spotify.com
 0.0.0.0 dd5364b2fe8.com
 0.0.0.0 dd713.bj.bcebos.com
+0.0.0.0 dda.red
 0.0.0.0 ddl.okyesmobi.com
 0.0.0.0 ddnd.net
 0.0.0.0 ddnk.advertur.ru
@@ -8714,6 +8716,7 @@
 0.0.0.0 ditcoin.io
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditwrite.com
+0.0.0.0 dizimobonline.com
 0.0.0.0 dj-updates.com
 0.0.0.0 djfbgghicgigeiacecf.ru
 0.0.0.0 djhhy.com
@@ -8936,6 +8939,7 @@
 0.0.0.0 dreamaquarium.com
 0.0.0.0 dreamitsystems.com
 0.0.0.0 driverequest.com
+0.0.0.0 drjuanperez.es
 0.0.0.0 drmartensam.online
 0.0.0.0 drmartensau.com
 0.0.0.0 drmartenshoes.club
@@ -10564,6 +10568,7 @@
 0.0.0.0 garimediagroup.com.re.getclicky.com
 0.0.0.0 garlicpool.org
 0.0.0.0 garmineshops.com
+0.0.0.0 garminsshop.club
 0.0.0.0 garristo.com
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 garwatch.club
@@ -11306,6 +11311,7 @@
 0.0.0.0 hgbnr.com
 0.0.0.0 hgdat.com
 0.0.0.0 hgfsdzfs.com
+0.0.0.0 hguidstore.xyz
 0.0.0.0 hh-btr.com
 0.0.0.0 hhlrnfmn.com
 0.0.0.0 hiadone.com
@@ -11455,6 +11461,7 @@
 0.0.0.0 holder.com.ua
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
+0.0.0.0 hollylight.store
 0.0.0.0 holmeshelp.uc.cn
 0.0.0.0 holmeshelp.ucweb.com
 0.0.0.0 holographic.city
@@ -13134,6 +13141,7 @@
 0.0.0.0 labs.adacts.com
 0.0.0.0 labs.revcontent.com
 0.0.0.0 laclothes.club
+0.0.0.0 lacolombina.es
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladsblue.com
 0.0.0.0 ladsdown.com
@@ -13261,6 +13269,7 @@
 0.0.0.0 learn.newrelic.com
 0.0.0.0 learning-services-media.brightcove.com
 0.0.0.0 lease.funhot247.host
+0.0.0.0 lebijoutier.es
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 ledinund.com
@@ -14429,6 +14438,8 @@
 0.0.0.0 missarty.com
 0.0.0.0 misstrends.com
 0.0.0.0 misterbell.com
+0.0.0.0 mitiendaderopa.com
+0.0.0.0 miumiuespana.es
 0.0.0.0 miusey.com
 0.0.0.0 miva.com
 0.0.0.0 mix.kinostuff.com
@@ -14668,6 +14679,7 @@
 0.0.0.0 moneyexpert.co.uk
 0.0.0.0 moneyexpert.com
 0.0.0.0 moneymakers.es
+0.0.0.0 monika-scraplife.com
 0.0.0.0 monitor.clickcease.com
 0.0.0.0 monitor.sddan.mgr.consensu.org
 0.0.0.0 monitor.tercept.com
@@ -14719,6 +14731,7 @@
 0.0.0.0 motu.p4p.sina.com.cn
 0.0.0.0 mountaintail.com
 0.0.0.0 mousestats.com
+0.0.0.0 mousk.es
 0.0.0.0 mouthaddled.top
 0.0.0.0 movad.de
 0.0.0.0 moveadrenaline.com
@@ -15263,6 +15276,7 @@
 0.0.0.0 nicehash.com
 0.0.0.0 nicheads.com
 0.0.0.0 nickhel.com
+0.0.0.0 nid.red
 0.0.0.0 nikebn.com
 0.0.0.0 nikebt.com
 0.0.0.0 nikecoupon.com
@@ -15339,6 +15353,7 @@
 0.0.0.0 nondescriptstocking.com
 0.0.0.0 nonstoppartner.de
 0.0.0.0 noracora.com
+0.0.0.0 norc.red
 0.0.0.0 norclothes.club
 0.0.0.0 norct.com
 0.0.0.0 norcx.com
@@ -15609,6 +15624,7 @@
 0.0.0.0 ogga-eauve.com
 0.0.0.0 oggda.com
 0.0.0.0 oggifinogi.com
+0.0.0.0 oglenews.com
 0.0.0.0 oglinagoods.com
 0.0.0.0 ogrovom.xyz
 0.0.0.0 ohmcasting.com
@@ -17013,6 +17029,7 @@
 0.0.0.0 points2shop.com
 0.0.0.0 poker-trumps.com
 0.0.0.0 poketraff.com
+0.0.0.0 pol.red
 0.0.0.0 polaris.cxsearch.cxense.com
 0.0.0.0 polarmobile.com
 0.0.0.0 policityseriod.info
@@ -17861,6 +17878,7 @@
 0.0.0.0 rbfr-rbs.com
 0.0.0.0 rbgpb.com
 0.0.0.0 rbius.co
+0.0.0.0 rbmcl.com
 0.0.0.0 rbnes.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbnt9.voluumtrk.com
@@ -19584,6 +19602,7 @@
 0.0.0.0 spaceoptimizer.u.xoxknct.com
 0.0.0.0 spacepools.org
 0.0.0.0 spaces.ero-advertising.com
+0.0.0.0 spadepods.com
 0.0.0.0 spain-rb.com
 0.0.0.0 spambo.us
 0.0.0.0 spannenk.gq
@@ -20334,6 +20353,7 @@
 0.0.0.0 survey.tapad.com
 0.0.0.0 survey.umeng.com
 0.0.0.0 survey1.umeng.com
+0.0.0.0 susansmetalart.com
 0.0.0.0 sushipool.com
 0.0.0.0 susm0q6jys.com
 0.0.0.0 sutora.ga
@@ -20651,6 +20671,7 @@
 0.0.0.0 tech.game-bonuses.club
 0.0.0.0 techblog.outbrain.com
 0.0.0.0 techclicks.net
+0.0.0.0 techeroe.com
 0.0.0.0 techexpertsolution.com
 0.0.0.0 techgenie.com
 0.0.0.0 techieschoice.com
@@ -20836,6 +20857,7 @@
 0.0.0.0 thetrendystock.com
 0.0.0.0 thetreuntalle.pro
 0.0.0.0 theundergroundvenue.ie
+0.0.0.0 thewestlakegallery.ca
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
@@ -22866,6 +22888,7 @@
 0.0.0.0 ugcdata.vmate.in
 0.0.0.0 ugdturner.com
 0.0.0.0 uggbc.com
+0.0.0.0 uggs.red
 0.0.0.0 uggvuuquxj.com
 0.0.0.0 ugyuyuccjgrtht.com
 0.0.0.0 uhhoatxt.com
@@ -23467,6 +23490,7 @@
 0.0.0.0 viighj.com
 0.0.0.0 vijs.rayjump.com
 0.0.0.0 villagevanityfur.com
+0.0.0.0 villasmocambo.com
 0.0.0.0 villaxl.adform.net
 0.0.0.0 vimovil.com
 0.0.0.0 vinbet.biz
