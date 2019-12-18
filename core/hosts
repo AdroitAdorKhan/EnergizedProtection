@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.351
-# Release: 351
-# Entries: 26,414
+# Version: 19.12.352
+# Release: 352
+# Entries: 26,412
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 17 Dec 19 20:00:18
+# Updated: Wed, 18 Dec 19 08:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2426,7 +2426,6 @@
 0.0.0.0 ads.superawesome.tv
 0.0.0.0 ads.supersonicads.com
 0.0.0.0 ads.supplyframe.akadns.net
-0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.taboola.com
 0.0.0.0 ads.tagsrvr.com
 0.0.0.0 ads.talkbusiness.net
@@ -15401,7 +15400,6 @@
 0.0.0.0 nova.adswizz.com
 0.0.0.0 nova.deliveryengine.adswizz.com
 0.0.0.0 novadune.com
-0.0.0.0 novaminers.tk
 0.0.0.0 novatokmedia.com
 0.0.0.0 novelapi.uc.cn
 0.0.0.0 novem.pl
