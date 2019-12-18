@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.352
 # Release: 352
-# Entries: 26,412
+# Entries: 26,411
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 18 Dec 19 08:00:17
+# Updated: Wed, 18 Dec 19 20:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -15988,7 +15988,6 @@
 0.0.0.0 p1.optout.agkn.com
 0.0.0.0 p102692.clksite.com
 0.0.0.0 p102947.cdaz.icu
-0.0.0.0 p102947.clksite.com
 0.0.0.0 p104441.clksite.com
 0.0.0.0 p108212.cdaz.icu
 0.0.0.0 p109877.retdaz.fun
