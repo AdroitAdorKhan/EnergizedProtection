@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.353
 # Release: 353
-# Entries: 26,411
+# Entries: 26,408
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 Dec 19 08:00:21
+# Updated: Thu, 19 Dec 19 20:00:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2238,7 +2238,6 @@
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.fool.com
 0.0.0.0 ads.forbes.net
-0.0.0.0 ads.forium.de
 0.0.0.0 ads.fotoable.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
@@ -16145,7 +16144,6 @@
 0.0.0.0 p2pool.org
 0.0.0.0 p2pool.site
 0.0.0.0 p2poolmining.com
-0.0.0.0 p2poolmining.net
 0.0.0.0 p2x.moatads.com
 0.0.0.0 p3.firrectly.top
 0.0.0.0 p300074.cdaz.icu
@@ -21186,7 +21184,6 @@
 0.0.0.0 track.aadserver.net
 0.0.0.0 track.accessplans.com
 0.0.0.0 track.accesstrade.vn
-0.0.0.0 track.acclaimnetwork.com
 0.0.0.0 track.accountreg.com
 0.0.0.0 track.actdedicated.com
 0.0.0.0 track.ad-x.info
