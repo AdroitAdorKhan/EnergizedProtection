@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.354
 # Release: 354
-# Entries: 26,405
+# Entries: 26,404
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 Dec 19 08:00:19
+# Updated: Fri, 20 Dec 19 20:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -22922,7 +22922,6 @@
 0.0.0.0 um2.eqads.comx.skimresources.com
 0.0.0.0 um3.eqads.com
 0.0.0.0 umbel.com
-0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umcdn.uc.cn
 0.0.0.0 umcdn.ucweb.com
 0.0.0.0 umcdnpc.ucweb.com
