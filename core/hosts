@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.353
-# Release: 353
-# Entries: 26,408
+# Version: 19.12.354
+# Release: 354
+# Entries: 26,405
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 Dec 19 20:00:23
+# Updated: Fri, 20 Dec 19 08:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3489,7 +3489,6 @@
 0.0.0.0 aggreports.appsflyer.com
 0.0.0.0 agkn.com
 0.0.0.0 agl-intl.hotstar.com
-0.0.0.0 agl.hotstar.com
 0.0.0.0 aglocobanners.com
 0.0.0.0 agmtrk.com
 0.0.0.0 agomwefq.com
@@ -7829,7 +7828,6 @@
 0.0.0.0 counter.mgid.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
-0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.sparklit.com
@@ -21002,7 +21000,6 @@
 0.0.0.0 todacell.com
 0.0.0.0 today.algolia.com
 0.0.0.0 todigroup.adk2.co
-0.0.0.0 todogecoin.biz
 0.0.0.0 toecircle.com
 0.0.0.0 toexten.com
 0.0.0.0 tofretonlepa.info
