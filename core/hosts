@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.354
-# Release: 354
-# Entries: 26,404
+# Version: 19.12.355
+# Release: 355
+# Entries: 26,410
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 Dec 19 20:00:21
+# Updated: Sat, 21 Dec 19 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3198,7 +3198,6 @@
 0.0.0.0 advert.dyna.ultraweb.hu
 0.0.0.0 advert.smarter-wireless.net
 0.0.0.0 advertarium.com.ua
-0.0.0.0 adverteerdirect.nl
 0.0.0.0 adverticum.com
 0.0.0.0 adverticum.net
 0.0.0.0 adverticus.de
@@ -7929,6 +7928,7 @@
 0.0.0.0 crazylead.com
 0.0.0.0 crazypopups.com
 0.0.0.0 crazyshoes.club
+0.0.0.0 crbags.online
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
 0.0.0.0 cre-dp.sina.cn
@@ -11295,7 +11295,6 @@
 0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hetofreplome.info
 0.0.0.0 hexagram.com
-0.0.0.0 hexamining.io
 0.0.0.0 hexasoft.com.my
 0.0.0.0 heyos.com
 0.0.0.0 heywire.com
@@ -11442,6 +11441,7 @@
 0.0.0.0 hm.adform.net
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.xiaomi.com
+0.0.0.0 hmallkiosk.xyz
 0.0.0.0 hmnlta.adk2.co
 0.0.0.0 hmsgroup.global
 0.0.0.0 hnaws.gq
@@ -13144,6 +13144,7 @@
 0.0.0.0 ladsims.com
 0.0.0.0 ladsoks.com
 0.0.0.0 ladsup.com
+0.0.0.0 lagence-up.fr
 0.0.0.0 lagink.store
 0.0.0.0 lagrabadora.es
 0.0.0.0 lahoradegelves.es
@@ -14365,6 +14366,7 @@
 0.0.0.0 minandoando.com
 0.0.0.0 minanmedia.com
 0.0.0.0 minardict.pro
+0.0.0.0 mind-soft.com
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmemobile.com
 0.0.0.0 mindshare.de
@@ -16323,6 +16325,7 @@
 0.0.0.0 pandajetech.com
 0.0.0.0 pandanetwork.club
 0.0.0.0 pandapool.io
+0.0.0.0 pandoracharmsoutlet.es
 0.0.0.0 panel.clickadu.com
 0.0.0.0 panel.scorecardresearch.com
 0.0.0.0 panelsave.com
@@ -18467,7 +18470,6 @@
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rules2.addapptr.com
 0.0.0.0 rules3.addapptr.com
-0.0.0.0 rum.logsss.com
 0.0.0.0 rum.nanovisor.io
 0.0.0.0 rum.optimizely.com
 0.0.0.0 rum.serv-ac.com
@@ -19197,6 +19199,7 @@
 0.0.0.0 shofteph.com
 0.0.0.0 shokala.com
 0.0.0.0 shoopsty.com
+0.0.0.0 shop-shoes.com
 0.0.0.0 shop.fashionjbl.com
 0.0.0.0 shop.gnezdo.ru
 0.0.0.0 shop.hotluska.com
@@ -19368,6 +19371,7 @@
 0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 sjepm.adsafeprotected.com
 0.0.0.0 sjevideo.adsafeprotected.com
+0.0.0.0 sjoe.club
 0.0.0.0 sjs.trckonspot.com
 0.0.0.0 sk-rb.com
 0.0.0.0 skdev.io
@@ -20694,6 +20698,7 @@
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommend.telemetry.microsoft.com
 0.0.0.0 telecomunicate.com
+0.0.0.0 telefonoz.com
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.swiftkey.com
@@ -23324,6 +23329,7 @@
 0.0.0.0 vendosupport.com
 0.0.0.0 venezuelanoticia.com
 0.0.0.0 vennala.pw
+0.0.0.0 venomcomics.es
 0.0.0.0 vente-privee.com
 0.0.0.0 ventedemodeenligne.store
 0.0.0.0 ventivmedia.com
