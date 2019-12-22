@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.355
-# Release: 355
-# Entries: 26,408
+# Version: 19.12.356
+# Release: 356
+# Entries: 26,407
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 21 Dec 19 20:00:18
+# Updated: Sun, 22 Dec 19 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5258,7 +5258,6 @@
 0.0.0.0 axill.com
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axmxugd3dpqwmsi.ru
-0.0.0.0 axoncoho.tk
 0.0.0.0 axonix.com
 0.0.0.0 ay-gb.mgid.com
 0.0.0.0 ayboll.com
