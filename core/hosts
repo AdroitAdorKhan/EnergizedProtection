@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.357
-# Release: 357
-# Entries: 26,407
+# Version: 19.12.358
+# Release: 358
+# Entries: 26,409
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 23 Dec 19 20:00:17
+# Updated: Tue, 24 Dec 19 08:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5406,6 +5406,7 @@
 0.0.0.0 banner.nixnet.cz
 0.0.0.0 banner.northsky.com
 0.0.0.0 banner.orb.net
+0.0.0.0 banner.org.ua
 0.0.0.0 banner.penguin.cz
 0.0.0.0 banner.tanto.de
 0.0.0.0 banner.tripple.at
@@ -13999,6 +14000,7 @@
 0.0.0.0 marketing.net.daraz.com.bd
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketing.outbrain.com
+0.0.0.0 marketingplatform.google.com
 0.0.0.0 marketleverage.com
 0.0.0.0 marketphones.com
 0.0.0.0 marketplace.trafficjunky.net
