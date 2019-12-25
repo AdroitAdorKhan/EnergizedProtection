@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.358
-# Release: 358
-# Entries: 26,409
+# Version: 19.12.359
+# Release: 359
+# Entries: 26,408
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 24 Dec 19 20:00:17
+# Updated: Wed, 25 Dec 19 08:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -11561,7 +11561,6 @@
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
-0.0.0.0 httpp.gdn
 0.0.0.0 hu.ads.justpremium.com
 0.0.0.0 huangye.miui.com
 0.0.0.0 hub.appsflyer.com
