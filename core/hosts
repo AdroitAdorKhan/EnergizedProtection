@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.360
 # Release: 360
-# Entries: 26,407
+# Entries: 26,408
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 26 Dec 19 08:00:16
+# Updated: Thu, 26 Dec 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -8856,6 +8856,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 doublemax.net
 0.0.0.0 doublepimp.com
+0.0.0.0 doublepimpads.com
 0.0.0.0 doubleverify.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 doucedora.com
