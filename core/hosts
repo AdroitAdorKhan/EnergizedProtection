@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.361
 # Release: 361
-# Entries: 26,406
+# Entries: 26,403
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 Dec 19 08:00:16
+# Updated: Fri, 27 Dec 19 20:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5411,7 +5411,6 @@
 0.0.0.0 banner.tanto.de
 0.0.0.0 banner.tripple.at
 0.0.0.0 banner.vadian.net
-0.0.0.0 banner.vrtzads.com
 0.0.0.0 bannerbank.ru
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannercde.com
@@ -10016,7 +10015,6 @@
 0.0.0.0 fethungi.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexiaen.com
-0.0.0.0 feynmanhopeful.eu
 0.0.0.0 ff.uc.cn
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 ff.win.taobao.com
@@ -11028,7 +11026,6 @@
 0.0.0.0 gs.andriod.co
 0.0.0.0 gs80.ronatorda.com
 0.0.0.0 gsimon.edu.free.fr
-0.0.0.0 gsmtop.net
 0.0.0.0 gsspat.jp
 0.0.0.0 gssprt.jp
 0.0.0.0 gstatic-as.pro
