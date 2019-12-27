@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.360
-# Release: 360
-# Entries: 26,408
+# Version: 19.12.361
+# Release: 361
+# Entries: 26,406
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 26 Dec 19 20:00:16
+# Updated: Fri, 27 Dec 19 08:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -13356,7 +13356,6 @@
 0.0.0.0 lightothansinheg.pro
 0.0.0.0 lightspeedcash.com
 0.0.0.0 lightspeedmining.com
-0.0.0.0 like.fund
 0.0.0.0 like.indyhotlike.com
 0.0.0.0 lilil.bid
 0.0.0.0 limetorrentinfo.imageshack.host
@@ -14104,7 +14103,6 @@
 0.0.0.0 mdotlabs.com
 0.0.0.0 mdsmeds.com
 0.0.0.0 mdvkn.com
-0.0.0.0 mdwnte.com
 0.0.0.0 me.adform.com
 0.0.0.0 me.ads.justpremium.com
 0.0.0.0 me.studynerdz.com
