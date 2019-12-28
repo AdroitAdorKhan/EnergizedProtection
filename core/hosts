@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.361
-# Release: 361
-# Entries: 26,403
+# Version: 19.12.362
+# Release: 362
+# Entries: 26,400
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 Dec 19 20:00:16
+# Updated: Sat, 28 Dec 19 08:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4257,7 +4257,6 @@
 0.0.0.0 analytics.social.unity.com
 0.0.0.0 analytics.socialbakers.com
 0.0.0.0 analytics.socialblade.com
-0.0.0.0 analytics.solidbau.at
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.soup.io
 0.0.0.0 analytics.spankbang.com
@@ -10772,7 +10771,6 @@
 0.0.0.0 globaladv.net
 0.0.0.0 globalbikeshop.com
 0.0.0.0 globalismedia.com
-0.0.0.0 globalpool.org
 0.0.0.0 globalsuccessclub.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltechexpert.com
@@ -24254,7 +24252,6 @@
 0.0.0.0 www.7h7ve.voluumtrk.com
 0.0.0.0 www.80.utroro.com
 0.0.0.0 www.87lcn.voluumtrk.com
-0.0.0.0 www.888poker.com
 0.0.0.0 www.8s32e590un.com
 0.0.0.0 www.91support.com
 0.0.0.0 www.920087982.world
