@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.362
-# Release: 362
-# Entries: 26,400
+# Version: 19.12.363
+# Release: 363
+# Entries: 26,418
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 28 Dec 19 20:00:17
+# Updated: Sun, 29 Dec 19 08:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1574,6 +1574,7 @@
 0.0.0.0 addthisedge.com
 0.0.0.0 addtoany.com
 0.0.0.0 addynamo.net
+0.0.0.0 ade-shop.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adecn.adnxs.com
@@ -5765,6 +5766,7 @@
 0.0.0.0 bimbaylolanes.online
 0.0.0.0 bimbaylolasales.store
 0.0.0.0 bimbaylolashop.online
+0.0.0.0 bimbyloaventa.online
 0.0.0.0 bimlocal.com
 0.0.0.0 bimomanias.com
 0.0.0.0 bimylobolsos.com
@@ -5790,6 +5792,7 @@
 0.0.0.0 bioskop55.me
 0.0.0.0 bip.presage.io
 0.0.0.0 birkenstockplus.store
+0.0.0.0 birollgoods.com
 0.0.0.0 birthdayexpress.speedera.net
 0.0.0.0 biskerando.com
 0.0.0.0 bitaccess.co
@@ -7408,6 +7411,7 @@
 0.0.0.0 cmd.hermes.wshareit.com
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmi.flurry.com
+0.0.0.0 cmofashion.com
 0.0.0.0 cmonitor.iqiyi.com
 0.0.0.0 cmotru-76.com
 0.0.0.0 cmp.adreach.co
@@ -7934,6 +7938,7 @@
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creafi.com
+0.0.0.0 creambing.com
 0.0.0.0 creation.conversation-memory.com
 0.0.0.0 creativawebperu.es
 0.0.0.0 creative-clicks-inv-wus.admixer.net
@@ -9290,6 +9295,7 @@
 0.0.0.0 ecomlines.info
 0.0.0.0 ecommerce-images.algolia.com
 0.0.0.0 economicpizzas.com
+0.0.0.0 ecosolactiva.es
 0.0.0.0 ecoupons.com
 0.0.0.0 ecpa.pw
 0.0.0.0 ecpm.adbooth.com
@@ -9461,6 +9467,7 @@
 0.0.0.0 empower.fitness
 0.0.0.0 emptyspaceads.com
 0.0.0.0 emu.sharethis.com
+0.0.0.0 emyxshop.com
 0.0.0.0 en.ad-stir.com
 0.0.0.0 en.admixer.co.kr
 0.0.0.0 en.browser.baidu.com
@@ -10413,6 +10420,7 @@
 0.0.0.0 funsafetabsearch.com
 0.0.0.0 funzone.by
 0.0.0.0 furginator.pw
+0.0.0.0 furladay.com
 0.0.0.0 furtherescottom.info
 0.0.0.0 fus.yad2.co.il
 0.0.0.0 fusion.di.se
@@ -10645,6 +10653,7 @@
 0.0.0.0 geognorwaytienda.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
+0.0.0.0 geonorwayes.online
 0.0.0.0 geonorwayeventa.com
 0.0.0.0 geonorwayventa.com
 0.0.0.0 geoplugin.net
@@ -11572,6 +11581,7 @@
 0.0.0.0 hummingbird.mopub.com
 0.0.0.0 humparsi.com
 0.0.0.0 humsoolt.net
+0.0.0.0 hunterbotas.online
 0.0.0.0 huntereoutlets.com
 0.0.0.0 huntmad.com
 0.0.0.0 hunttercheap.store
@@ -12373,6 +12383,7 @@
 0.0.0.0 instayp.yieldlab.net
 0.0.0.0 insticator.com
 0.0.0.0 instinctiveads.com
+0.0.0.0 institutogreenfield.com
 0.0.0.0 instivate.com
 0.0.0.0 instory-log.ucnews.ucweb.com
 0.0.0.0 instory.ucnews.ucweb.com
@@ -13169,6 +13180,7 @@
 0.0.0.0 laptopsshoppingsl.club
 0.0.0.0 larentisol.com
 0.0.0.0 large-format.net
+0.0.0.0 laropa.store
 0.0.0.0 larosanotizia.com
 0.0.0.0 lascositasdemarieta.es
 0.0.0.0 laserhairremovalstore.com
@@ -13957,6 +13969,7 @@
 0.0.0.0 manita.es
 0.0.0.0 manorparty.com
 0.0.0.0 manual-img.ads.noticel.com
+0.0.0.0 manzanista.com
 0.0.0.0 manzile.com
 0.0.0.0 map.brightcove.com
 0.0.0.0 maphoster.com
@@ -15045,6 +15058,7 @@
 0.0.0.0 nativesubscribe.pro
 0.0.0.0 nativex.com
 0.0.0.0 natm.hasmobi.net
+0.0.0.0 naturcool.es
 0.0.0.0 naughtyxparty.com
 0.0.0.0 nauhohag.net
 0.0.0.0 nautical.jewelry
@@ -15333,6 +15347,7 @@
 0.0.0.0 nocroom.com
 0.0.0.0 nodc.us
 0.0.0.0 nodejs.algolia.com
+0.0.0.0 nohasevilla.es
 0.0.0.0 noiselessplough.com
 0.0.0.0 nojbconvtg.com
 0.0.0.0 nojs.green-red.com
@@ -16962,6 +16977,7 @@
 0.0.0.0 playtokyo2018.brightcove.com
 0.0.0.0 playtomic.com
 0.0.0.0 playukinternet.com
+0.0.0.0 plazadetecnologia.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pleasecome.xyz
 0.0.0.0 pleasewait.co
@@ -18946,6 +18962,7 @@
 0.0.0.0 seedr.cdnvideo.ru
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 seethedress.com
+0.0.0.0 seeyome.com
 0.0.0.0 seg-1.adjust.com
 0.0.0.0 seg-2.adjust.com
 0.0.0.0 seg.sharethis.com
@@ -23525,6 +23542,7 @@
 0.0.0.0 vivebox.net
 0.0.0.0 vivieasy.com
 0.0.0.0 vivtracking.com
+0.0.0.0 vivyonline.com
 0.0.0.0 vixnixxer.com
 0.0.0.0 vj.quanjingpay.com
 0.0.0.0 vjuguete.com
@@ -26182,6 +26200,7 @@
 0.0.0.0 yip.su
 0.0.0.0 yiq6p.com
 0.0.0.0 yiudy.com
+0.0.0.0 yivette.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.moatads.com
 0.0.0.0 yj.p.adnxs.com
@@ -26208,7 +26227,6 @@
 0.0.0.0 yobr.net
 0.0.0.0 yoc-adserver.com
 0.0.0.0 yoc-performance.com
-0.0.0.0 yoc.mobi
 0.0.0.0 yoc.optout.skimresources.com
 0.0.0.0 yoggrt.com
 0.0.0.0 yoku.pro
