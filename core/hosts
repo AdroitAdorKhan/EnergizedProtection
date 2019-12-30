@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 19.12.363
-# Release: 363
-# Entries: 26,418
+# Version: 19.12.364
+# Release: 364
+# Entries: 26,415
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 29 Dec 19 20:00:20
+# Updated: Mon, 30 Dec 19 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2270,7 +2270,6 @@
 0.0.0.0 ads.hasofferc.com
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
-0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.honestpartners.com
 0.0.0.0 ads.horyzon-media.com
@@ -13859,7 +13858,6 @@
 0.0.0.0 m32.media
 0.0.0.0 m3gce.ads.tremorhub.com
 0.0.0.0 m5.top10ranking.pl
-0.0.0.0 m57ku6sm.com
 0.0.0.0 m73lae5cpmgrv38.com
 0.0.0.0 m8654.mobsweet.com
 0.0.0.0 m9.io
@@ -25568,7 +25566,6 @@
 0.0.0.0 www.telemetry.urs.microsoft.com
 0.0.0.0 www.tenjin.com
 0.0.0.0 www.tercept.com
-0.0.0.0 www.tex.ero-advertising.com
 0.0.0.0 www.th.browser.baidu.com
 0.0.0.0 www.th.hao123.com
 0.0.0.0 www.theadgateway.com
