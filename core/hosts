@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 19.12.364
 # Release: 364
-# Entries: 26,415
+# Entries: 26,414
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 30 Dec 19 08:00:18
+# Updated: Mon, 30 Dec 19 20:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -773,7 +773,6 @@
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
-0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.audiencerun.com
 0.0.0.0 a.baidu.com
 0.0.0.0 a.bestcontentfacility.top
