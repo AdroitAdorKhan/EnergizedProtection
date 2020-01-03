@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.002
-# Release: 002
-# Entries: 26,413
+# Version: 20.01.003
+# Release: 003
+# Entries: 26,411
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 02 Jan 20 20:00:14
+# Updated: Fri, 03 Jan 20 08:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -8507,7 +8507,6 @@
 0.0.0.0 deploygate.com
 0.0.0.0 deployportal.moportals.com
 0.0.0.0 deportshoes.com
-0.0.0.0 deris.info
 0.0.0.0 derlatas.com
 0.0.0.0 deryjobmeetin.info
 0.0.0.0 descarga
@@ -15906,7 +15905,6 @@
 0.0.0.0 othersonline.com
 0.0.0.0 otify.bugsnag.com
 0.0.0.0 otnolatrnup.com
-0.0.0.0 ough.info
 0.0.0.0 ouhegapy.net
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 oupushee.com
