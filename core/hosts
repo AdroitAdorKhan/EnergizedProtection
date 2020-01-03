@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.003
 # Release: 003
-# Entries: 26,411
+# Entries: 26,409
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 03 Jan 20 08:00:18
+# Updated: Fri, 03 Jan 20 20:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -11246,7 +11246,6 @@
 0.0.0.0 heap.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 heapio.com
-0.0.0.0 heato.info
 0.0.0.0 hebiichigo.com
 0.0.0.0 hechisheortal.pro
 0.0.0.0 heckhaphanofres.info
@@ -15490,7 +15489,6 @@
 0.0.0.0 nudooapfildwbz.com
 0.0.0.0 nufa-ad.com
 0.0.0.0 nuffnang.co.th
-0.0.0.0 nugg.ad
 0.0.0.0 nui.media
 0.0.0.0 nullrefexcep.com
 0.0.0.0 numbers.md
