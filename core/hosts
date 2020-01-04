@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.003
-# Release: 003
-# Entries: 26,409
+# Version: 20.01.004
+# Release: 004
+# Entries: 26,408
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 03 Jan 20 20:00:15
+# Updated: Sat, 04 Jan 20 08:00:13
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -13276,7 +13276,6 @@
 0.0.0.0 leftren.com
 0.0.0.0 legalonlinepharmacy.com
 0.0.0.0 legalovo.net
-0.0.0.0 legco.info
 0.0.0.0 legistrike.pro
 0.0.0.0 legolas-media.com
 0.0.0.0 leguide.com
