@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.005
-# Release: 005
-# Entries: 26,408
+# Version: 20.01.006
+# Release: 006
+# Entries: 26,418
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Jan 20 20:00:16
+# Updated: Mon, 06 Jan 20 08:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3541,6 +3541,7 @@
 0.0.0.0 airflow.maribacaberita.com
 0.0.0.0 airpush.com
 0.0.0.0 airtrack.adtdp.com
+0.0.0.0 airyclub.com
 0.0.0.0 airygal.com
 0.0.0.0 aistat.net
 0.0.0.0 aituo.shoptotopbrand.com
@@ -5497,6 +5498,7 @@
 0.0.0.0 bay.adtdp.com
 0.0.0.0 bayctrk.com
 0.0.0.0 baymaleti.net
+0.0.0.0 bayozo.com
 0.0.0.0 baypops.com
 0.0.0.0 bb.video-ak.cdn.spotify.com
 0.0.0.0 bbcdeaac07.com
@@ -6094,6 +6096,7 @@
 0.0.0.0 brokerbabe.com
 0.0.0.0 brominer.com
 0.0.0.0 broo.net
+0.0.0.0 brookses.online
 0.0.0.0 broomboxmain.com
 0.0.0.0 browser-tools.systems
 0.0.0.0 browser.baidu.com
@@ -6981,6 +6984,7 @@
 0.0.0.0 channel-7-news.com
 0.0.0.0 channel1vids.com
 0.0.0.0 channelintelligence.com
+0.0.0.0 chaquetanorway.online
 0.0.0.0 charalli.pro
 0.0.0.0 chardwardse.club
 0.0.0.0 chargeplatform.com
@@ -9420,6 +9424,7 @@
 0.0.0.0 elitetoplist.com
 0.0.0.0 elixmedia.com
 0.0.0.0 ellaism.org
+0.0.0.0 elmundodelcuero.com
 0.0.0.0 elthamely.com
 0.0.0.0 eltrafiko.com
 0.0.0.0 elviajeroinquieto.com
@@ -10754,6 +10759,7 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glasgro.com
 0.0.0.0 glasses-sale.com
+0.0.0.0 glasses2you.lpages.co
 0.0.0.0 glauchos.com
 0.0.0.0 glb.r.skimresources.com
 0.0.0.0 glb.skimresources.com
@@ -13042,6 +13048,7 @@
 0.0.0.0 knowd.com
 0.0.0.0 ko.support.appsflyer.com
 0.0.0.0 ko.taboola.com
+0.0.0.0 ko.wexmin.com
 0.0.0.0 koacojus.net
 0.0.0.0 koajco.online
 0.0.0.0 kochava.com
@@ -14841,6 +14848,7 @@
 0.0.0.0 multissp.yieldlab.net
 0.0.0.0 multiview.com
 0.0.0.0 mundo-baby.com
+0.0.0.0 mundodelperros.com
 0.0.0.0 mundomotorsport.es
 0.0.0.0 munited08blogspotcom.imageshack.host
 0.0.0.0 munited99blogspotcom.imageshack.host
@@ -16490,6 +16498,7 @@
 0.0.0.0 pentos-cdn.staging.polarmobile.com
 0.0.0.0 penuma.com
 0.0.0.0 peoplecentral.brightcove.com
+0.0.0.0 pepejeansale.online
 0.0.0.0 pepejeansees.online
 0.0.0.0 pepimantas.es
 0.0.0.0 pepperjamnetwork.com
@@ -18066,7 +18075,6 @@
 0.0.0.0 rejektmusik.com
 0.0.0.0 rek.mobi
 0.0.0.0 reklama.mironet.cz
-0.0.0.0 reklama.reflektor.cz
 0.0.0.0 reklamcsere.hu
 0.0.0.0 reklamport.com
 0.0.0.0 reklamz.com
@@ -18911,7 +18919,6 @@
 0.0.0.0 secure.addthis.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.advertising.com
-0.0.0.0 secure.adzerk.net
 0.0.0.0 secure.audienceinsights.net
 0.0.0.0 secure.audienceinsights.netsecure.audienceinsights.net
 0.0.0.0 secure.bannerfarm.ace.advertising.com
@@ -19066,6 +19073,7 @@
 0.0.0.0 services.vlicdn2.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 servicesupport.hicloud.com
+0.0.0.0 serviciosbenidorm.es
 0.0.0.0 serving-sys.com
 0.0.0.0 serving-system.com
 0.0.0.0 serving.adbetclickin.pink
@@ -19204,6 +19212,7 @@
 0.0.0.0 shop.hotluska.com
 0.0.0.0 shop.hyperstech.com
 0.0.0.0 shopalyst.com
+0.0.0.0 shopca.club
 0.0.0.0 shopcameras.club
 0.0.0.0 shopclick.biz
 0.0.0.0 shopcompute.site
@@ -20916,6 +20925,7 @@
 0.0.0.0 timberlandan.online
 0.0.0.0 timberlandboots.online
 0.0.0.0 timberlandetienda.online
+0.0.0.0 timberlandeuoutlet.com
 0.0.0.0 timberlandmshop.com
 0.0.0.0 timberlandonshops.com
 0.0.0.0 timberlandukshops.com
@@ -21061,7 +21071,6 @@
 0.0.0.0 topad.mobi
 0.0.0.0 topads.ero-advertising.com
 0.0.0.0 topages.pw
-0.0.0.0 topbarh.box.sk
 0.0.0.0 topblogarea.se
 0.0.0.0 topbucks.com
 0.0.0.0 topddl.net
@@ -21073,6 +21082,7 @@
 0.0.0.0 topfuisale.site
 0.0.0.0 topgamesites.net
 0.0.0.0 topgreatxoffers.com
+0.0.0.0 topiprix.com
 0.0.0.0 toplaptopshop.club
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
@@ -25442,7 +25452,6 @@
 0.0.0.0 www.sex-and-flirt.com
 0.0.0.0 www.sglala.com
 0.0.0.0 www.sgzsviqlvcxc.com
-0.0.0.0 www.sharethrough.com
 0.0.0.0 www.shecards.net
 0.0.0.0 www.sheldonbrown.com
 0.0.0.0 www.shglegle.com
@@ -26366,6 +26375,7 @@
 0.0.0.0 zeusclicks.com
 0.0.0.0 zeushoki.com
 0.0.0.0 zeuspoker.olala2.com
+0.0.0.0 zezzla.com
 0.0.0.0 zferral.com
 0.0.0.0 zgalaxyplays.com
 0.0.0.0 zgalaxystore.com
