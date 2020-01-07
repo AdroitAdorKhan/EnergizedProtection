@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.007
 # Release: 007
-# Entries: 26,416
+# Entries: 26,427
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 07 Jan 20 08:00:19
+# Updated: Tue, 07 Jan 20 20:00:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3518,6 +3518,7 @@
 0.0.0.0 ai.addthis.com
 0.0.0.0 ai.goodsblock.mgid.com
 0.0.0.0 ai.m.taobao.com
+0.0.0.0 aicleaner.shouji.360.cn
 0.0.0.0 aidigua.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 aidraulreve.com
@@ -6137,7 +6138,6 @@
 0.0.0.0 btcprominer.life
 0.0.0.0 btds.zog.link
 0.0.0.0 btez8.xyz
-0.0.0.0 btgmine.pro
 0.0.0.0 btgpool.pro
 0.0.0.0 btlaunch.baidu.com
 0.0.0.0 btopenworld.com
@@ -6486,6 +6486,7 @@
 0.0.0.0 carcc.net
 0.0.0.0 card-helper.net
 0.0.0.0 card.shareitpay.in
+0.0.0.0 care.help.360.cn
 0.0.0.0 careers.inmobi.com
 0.0.0.0 careers.outbrain.com
 0.0.0.0 careers.taboola.com
@@ -9665,6 +9666,7 @@
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 eucmpixel.onedigitalad.com
 0.0.0.0 eucsoft.com
+0.0.0.0 eul.s.360.cn
 0.0.0.0 eur-ukp.adsrvr.org
 0.0.0.0 eurekster.com
 0.0.0.0 eurobanks.live
@@ -10470,6 +10472,7 @@
 0.0.0.0 g.baidu.com
 0.0.0.0 g.click.taobao.com
 0.0.0.0 g.kcolbda.com
+0.0.0.0 g.s.360.cn
 0.0.0.0 g.scorecardresearch.com
 0.0.0.0 g.skimresources.com
 0.0.0.0 g.tbcdn.cn
@@ -14097,6 +14100,10 @@
 0.0.0.0 mcdstorage.com
 0.0.0.0 mchpowtyj.com
 0.0.0.0 mckinseyknowledge.demdex.net
+0.0.0.0 mclean.cloud.360safe.com
+0.0.0.0 mclean.f.360.cn
+0.0.0.0 mclean.lato.cloud.360safe.com
+0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 mco-1-apex.go.sonobi.com
 0.0.0.0 mco-1-sync.go.sonobi.com
 0.0.0.0 mco-1-xcp.go.sonobi.com
@@ -14876,6 +14883,10 @@
 0.0.0.0 muwmedia.com
 0.0.0.0 mv.outbrain.com
 0.0.0.0 mvbemeggnodty.com
+0.0.0.0 mvconf.cloud.360safe.com
+0.0.0.0 mvconf.f.360.cn
+0.0.0.0 mvconf.lato.cloud.360safe.com
+0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 mve.btrll.com
 0.0.0.0 mver.agkn.com
 0.0.0.0 mvnuyjsdgle.com
@@ -15980,6 +15991,7 @@
 0.0.0.0 p.medialytics.com
 0.0.0.0 p.moatads.com
 0.0.0.0 p.open.uc.cn
+0.0.0.0 p.s.360.cn
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.skimresources.comp.skimresources.com
 0.0.0.0 p.static.ads-twitter.com
@@ -26158,7 +26170,6 @@
 0.0.0.0 yellowfakeagent.top
 0.0.0.0 yellowmango.eu
 0.0.0.0 yelohi-inv-eus.admixer.net
-0.0.0.0 yelts.net
 0.0.0.0 yemonisoni.com
 0.0.0.0 yen.appsfire.net
 0.0.0.0 yengo.com
