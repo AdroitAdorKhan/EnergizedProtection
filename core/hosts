@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.006
-# Release: 006
-# Entries: 26,418
+# Version: 20.01.007
+# Release: 007
+# Entries: 26,416
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Jan 20 20:00:15
+# Updated: Tue, 07 Jan 20 08:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1256,7 +1256,6 @@
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
-0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ad.onliner.by
 0.0.0.0 ad.open.uc.cn
@@ -15749,7 +15748,6 @@
 0.0.0.0 onthe.io
 0.0.0.0 ontv.las.uae.uc.cn
 0.0.0.0 onunughegmar.club
-0.0.0.0 onvid.club
 0.0.0.0 onward.adworx.at
 0.0.0.0 onwardinated.com
 0.0.0.0 onyemantee.pro
