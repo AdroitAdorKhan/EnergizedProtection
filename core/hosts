@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.010
 # Release: 010
-# Entries: 26,432
+# Entries: 26,434
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Jan 20 00:00:19
+# Updated: Fri, 10 Jan 20 06:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -6302,7 +6302,6 @@
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.infomobi.me
 0.0.0.0 c1.niumobi.com
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1.popads.net
 0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.video-ak.cdn.spotify.com
@@ -8208,6 +8207,7 @@
 0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 d3abb56a170f.com
 0.0.0.0 d3al52d8cojds7.cloudfront.net
+0.0.0.0 d3dkhq0wwdwodv.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3oltyb66oj2v8.cloudfront.net
 0.0.0.0 d3owq2fdwtdp2j.cloudfront.net
@@ -11496,6 +11496,7 @@
 0.0.0.0 hostgrater.com
 0.0.0.0 hostingcloud.party
 0.0.0.0 hostingcloud.racing
+0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingpagevas.com
 0.0.0.0 hostpx.moatads.com
 0.0.0.0 hosts-weborama.adhese.com		
@@ -24955,6 +24956,7 @@
 0.0.0.0 www.hkoxlirf.com
 0.0.0.0 www.hnnp4ixxkl.com
 0.0.0.0 www.hostingcloud.racing
+0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostingpagevas.com
 0.0.0.0 www.hostmonster.com
 0.0.0.0 www.hotjar.com
