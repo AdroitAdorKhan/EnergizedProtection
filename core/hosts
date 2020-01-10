@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.010
-# Release: 010
-# Entries: 26,433
+# Version: 20.01.011
+# Release: 011
+# Entries: 26,435
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Jan 20 18:00:27
+# Updated: Sat, 11 Jan 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -791,6 +791,7 @@
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 a.exosrv.comhttps
+0.0.0.0 a.faymobi.com
 0.0.0.0 a.glcdn.co
 0.0.0.0 a.global.msads.net
 0.0.0.0 a.idealmedia.com
@@ -9945,6 +9946,7 @@
 0.0.0.0 faxo.com
 0.0.0.0 faxzhasfboots.club
 0.0.0.0 faye.crashlytics.com
+0.0.0.0 faymobi.com
 0.0.0.0 fayumo.ga
 0.0.0.0 faz.demdex.net
 0.0.0.0 fazu.info
