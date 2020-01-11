@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.011
-# Release: 011
-# Entries: 26,431
+# Version: 20.01.012
+# Release: 012
+# Entries: 26,432
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Jan 20 18:00:17
+# Updated: Sun, 12 Jan 20 00:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -24420,6 +24420,7 @@
 0.0.0.0 www.adsances.ero-advertising.com
 0.0.0.0 www.adsco.re
 0.0.0.0 www.adserver.html.it
+0.0.0.0 www.adservice.google.com
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adslot.com
 0.0.0.0 www.adsnative.com
