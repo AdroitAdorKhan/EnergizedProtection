@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.011
 # Release: 011
-# Entries: 26,432
+# Entries: 26,431
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Jan 20 12:00:15
+# Updated: Sat, 11 Jan 20 18:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5378,7 +5378,6 @@
 0.0.0.0 bann14s.ero-advertising.com
 0.0.0.0 bann1rs.ero-advertising.com
 0.0.0.0 banne3s.ero-advertising.com
-0.0.0.0 banne4s.ero-advertising.com
 0.0.0.0 banner-exchange-24.de
 0.0.0.0 banner-gateway.supersonicads.com
 0.0.0.0 banner-rotation.com
