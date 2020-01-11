@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.011
 # Release: 011
-# Entries: 26,435
+# Entries: 26,432
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Jan 20 06:00:20
+# Updated: Sat, 11 Jan 20 12:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2348,7 +2348,6 @@
 0.0.0.0 ads.nordcurrent.com
 0.0.0.0 ads.nordichardware.se
 0.0.0.0 ads.nrc.adhese.com
-0.0.0.0 ads.nwsource.com
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
 0.0.0.0 ads.nzcity.co.nz
@@ -10182,7 +10181,6 @@
 0.0.0.0 fms2.doubleclick.speedera.net
 0.0.0.0 fnatfee.ero-advertising.com
 0.0.0.0 fnkyyrgraizy.com
-0.0.0.0 foamybox.com
 0.0.0.0 foazasis.com
 0.0.0.0 focas.jp
 0.0.0.0 focus.kissmetrics.com
@@ -26071,7 +26069,6 @@
 0.0.0.0 xn--lttefreiheit-dlb.de
 0.0.0.0 xn--mgbac6b9e.net
 0.0.0.0 xn--minecrft-5za.com
-0.0.0.0 xn--mymonro-x8a.com
 0.0.0.0 xn--s-eca.net
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zcrt01bvsr.com
