@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.013
 # Release: 013
-# Entries: 26,465
+# Entries: 26,490
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 13 Jan 20 12:00:18
+# Updated: Mon, 13 Jan 20 18:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -850,6 +850,7 @@
 0.0.0.0 a2-38-65-20-19.adform.net
 0.0.0.0 a2.adform.net
 0.0.0.0 a2.adformdsp.net
+0.0.0.0 a2.contentabc.com
 0.0.0.0 a2.medialytics.com
 0.0.0.0 a2.video-ak.cdn.spotify.com
 0.0.0.0 a2dfp.net
@@ -857,6 +858,7 @@
 0.0.0.0 a3.play-top.mobi
 0.0.0.0 a3.video-ak.cdn.spotify.com
 0.0.0.0 a3artplay.com
+0.0.0.0 a3cdn.contentabc.com
 0.0.0.0 a4.video-ak.cdn.spotify.com
 0.0.0.0 a433.com
 0.0.0.0 a4cdn.contentabc.com
@@ -1429,6 +1431,7 @@
 0.0.0.0 ad4screen.com
 0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
+0.0.0.0 ad5.contentabc.com
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad57m.adk2.co
 0.0.0.0 ad6.banners.ero-advertising.com
@@ -2206,6 +2209,7 @@
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.donau.pixelpoint.at
 0.0.0.0 ads.dotomi.com
+0.0.0.0 ads.dropkickmedia.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.ebay.com
 0.0.0.0 ads.economist.com
@@ -3586,6 +3590,7 @@
 0.0.0.0 al.resulticks.com.re.getclicky.com
 0.0.0.0 alairelibrees.online
 0.0.0.0 alapsblu.com
+0.0.0.0 albalbant.com
 0.0.0.0 albumhoffman.es
 0.0.0.0 alchemysocial.com
 0.0.0.0 alchetron.com
@@ -4530,6 +4535,7 @@
 0.0.0.0 apex-ad.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 apf.ads.justpremium.com
+0.0.0.0 aphycolourses.info
 0.0.0.0 api-02.360dialog.io
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
@@ -4933,6 +4939,7 @@
 0.0.0.0 apt.match.adsrvr.org
 0.0.0.0 apt.newrelic.com
 0.0.0.0 aptalebow.site
+0.0.0.0 aptapebog.online
 0.0.0.0 apture.com
 0.0.0.0 apus.rayjump.com
 0.0.0.0 apvdr.com
@@ -5204,6 +5211,7 @@
 0.0.0.0 av.adblade.com
 0.0.0.0 av.beap.bc.yahoo.com
 0.0.0.0 av.revcontent.com		
+0.0.0.0 av1.contentabc.com
 0.0.0.0 av5k.com
 0.0.0.0 avads.co.uk
 0.0.0.0 avalanchers.com
@@ -5580,6 +5588,7 @@
 0.0.0.0 bedsbreath.com
 0.0.0.0 beead.co.uk
 0.0.0.0 beead.net
+0.0.0.0 beeashale.club
 0.0.0.0 beedoctor.in.th
 0.0.0.0 beegreen.com.co
 0.0.0.0 beemray.com
@@ -5651,6 +5660,7 @@
 0.0.0.0 bestsexualpartner1.com
 0.0.0.0 beststockprices.us
 0.0.0.0 bestvideo.uodoo.com
+0.0.0.0 bestvideo2019.xyz
 0.0.0.0 bet3000partners.com
 0.0.0.0 bet365affiliates.com
 0.0.0.0 beta-dashboard.mgid.com
@@ -5933,6 +5943,7 @@
 0.0.0.0 blogcounter.de
 0.0.0.0 blogg.website
 0.0.0.0 blogherads.com
+0.0.0.0 blogimgs.sina.tw
 0.0.0.0 blogohertz.com
 0.0.0.0 blogoman-24.com
 0.0.0.0 blogpt.taboola.com
@@ -7124,6 +7135,7 @@
 0.0.0.0 classical-versace.com
 0.0.0.0 classicpool.io
 0.0.0.0 classicrumor.com
+0.0.0.0 classionreactice.info
 0.0.0.0 clck.idealmedia.com
 0.0.0.0 clck.mgid.com
 0.0.0.0 clckads.org
@@ -7410,6 +7422,7 @@
 0.0.0.0 cm.ushareit.com
 0.0.0.0 cm.www.uc.cn
 0.0.0.0 cm2.adform.net
+0.0.0.0 cm2.kiseouhgf.info
 0.0.0.0 cm3.adform.net
 0.0.0.0 cmap.ace.advertising.com
 0.0.0.0 cmap.ox.ace.advertising.com
@@ -7704,6 +7717,7 @@
 0.0.0.0 console.pagefair.com
 0.0.0.0 console.rtk.io
 0.0.0.0 console.uc123.com
+0.0.0.0 consorcraightyc.info
 0.0.0.0 consumergenepool.com
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 contact.mixpanel.com
@@ -8185,6 +8199,7 @@
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
+0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.net
 0.0.0.0 d2.video-ak.cdn.spotify.com
@@ -8655,6 +8670,7 @@
 0.0.0.0 digitalmerkat.com
 0.0.0.0 digitaltarget.ru
 0.0.0.0 digitotal.xyz
+0.0.0.0 digyepnag.club
 0.0.0.0 dijon.live
 0.0.0.0 diksdiamond.com
 0.0.0.0 dimaggio.heartlight.org
@@ -9458,6 +9474,7 @@
 0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
+0.0.0.0 ememoricane.info
 0.0.0.0 emeraldcityautobody.com
 0.0.0.0 emerse.com
 0.0.0.0 emetriq.de
@@ -17468,6 +17485,7 @@
 0.0.0.0 ps.popcash.net
 0.0.0.0 ps7894.com
 0.0.0.0 psa.carambo.la
+0.0.0.0 psaukrik.net
 0.0.0.0 pseqcs05.com
 0.0.0.0 psma02.com
 0.0.0.0 psnkrefrfh.com
@@ -18288,7 +18306,6 @@
 0.0.0.0 ringtonepartner.com
 0.0.0.0 rionasshop.com
 0.0.0.0 riontorspersed.info
-0.0.0.0 riotpixels.com
 0.0.0.0 riowrite.com
 0.0.0.0 ris-gateway.supersonicads.com
 0.0.0.0 risk.ad-center.com
@@ -19780,6 +19797,7 @@
 0.0.0.0 srv.bebi.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.clickfuse.com
+0.0.0.0 srv.dropkickmedia.com
 0.0.0.0 srv.moportals.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv01.howingo.com
@@ -20552,6 +20570,7 @@
 0.0.0.0 tableviewer.club
 0.0.0.0 tablighatnovin.com
 0.0.0.0 tablighgram.com
+0.0.0.0 tabookbusines.info
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
@@ -22977,6 +22996,7 @@
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 ultsearch.com
+0.0.0.0 ultycurveylips.info
 0.0.0.0 um-21.btrll.com
 0.0.0.0 um-23.btrll.com
 0.0.0.0 um.eqads.com
@@ -23198,6 +23218,7 @@
 0.0.0.0 users.ero-advertising.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 usevideo.adsrvr.org
+0.0.0.0 usinesmycete.info
 0.0.0.0 usp1.baidu.com
 0.0.0.0 usr.mgid.com
 0.0.0.0 uss3star.com
@@ -24339,6 +24360,7 @@
 0.0.0.0 www.a.qwertize.com
 0.0.0.0 www.a.rad.msn.com
 0.0.0.0 www.aata.ero-advertising.com
+0.0.0.0 www.abcinfo.cc
 0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.accu-chek.it
 0.0.0.0 www.acdn.adnxs.com
@@ -24727,6 +24749,7 @@
 0.0.0.0 www.comscore.com
 0.0.0.0 www.consumerproductsusa.com
 0.0.0.0 www.content.ad
+0.0.0.0 www.contentabc.com
 0.0.0.0 www.contentcastling.com
 0.0.0.0 www.contentsitesrv.com
 0.0.0.0 www.contextweb.com
@@ -24854,6 +24877,7 @@
 0.0.0.0 www.fanners.ero-advertising.com
 0.0.0.0 www.fantasyescortblogs.com
 0.0.0.0 www.fastclick.net
+0.0.0.0 www.fastcounter.de
 0.0.0.0 www.fastpillshop.ru
 0.0.0.0 www.fata.ero-advertising.com
 0.0.0.0 www.fatrvclgpnb.com
@@ -25004,6 +25028,7 @@
 0.0.0.0 www.htgpsnbtha.com
 0.0.0.0 www.hubi.com
 0.0.0.0 www.hypertrack.com
+0.0.0.0 www.hzyxmywj.com
 0.0.0.0 www.i.skimresources.com
 0.0.0.0 www.i7xls.voluumtrk.com
 0.0.0.0 www.ico.bitcomo.com
