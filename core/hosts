@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.017
 # Release: 017
-# Entries: 26,516
+# Entries: 26,520
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Jan 20 00:00:21
+# Updated: Fri, 17 Jan 20 06:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -56,6 +56,7 @@
 0.0.0.0 01.video-ak.cdn.spotify.com
 0.0.0.0 01cd92d513e.com
 0.0.0.0 01ced816b84.com
+0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 02.gw.flurry.com
 0.0.0.0 02.video-ak.cdn.spotify.com
 0.0.0.0 023hysj.com
@@ -541,6 +542,7 @@
 0.0.0.0 5eec0dafe20e2.com
 0.0.0.0 5gl1x9qc.com
 0.0.0.0 5iclx7wa4q.com
+0.0.0.0 5kv261gjmq04c9.com
 0.0.0.0 5mcwl.pw
 0.0.0.0 5mles.com
 0.0.0.0 5nt1gx7o57.com
@@ -3718,6 +3720,7 @@
 0.0.0.0 amobee.com
 0.0.0.0 amoilshop.eu
 0.0.0.0 amoreventure.online
+0.0.0.0 amorluv.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp-service.addthis.com
 0.0.0.0 amp-test.adzerk.net
@@ -9395,6 +9398,7 @@
 0.0.0.0 egamingonline.com
 0.0.0.0 egqvppwseieyu.com
 0.0.0.0 egschool.org
+0.0.0.0 eh8jq4cmq8j9g5.com
 0.0.0.0 eh8jq4cmq8j9g5.com/favicon.ico
 0.0.0.0 ehashcoins.org
 0.0.0.0 ehceicafgdjcdbdfada.ru
@@ -23947,6 +23951,7 @@
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 weborama.io
+0.0.0.0 webpagetest.net
 0.0.0.0 webpower.com
 0.0.0.0 webreseau.com
 0.0.0.0 webs.getclicky.com
@@ -25051,7 +25056,6 @@
 0.0.0.0 www.htgpsnbtha.com
 0.0.0.0 www.hubi.com
 0.0.0.0 www.hypertrack.com
-0.0.0.0 www.hzyxmywj.com
 0.0.0.0 www.i.skimresources.com
 0.0.0.0 www.i7xls.voluumtrk.com
 0.0.0.0 www.ico.bitcomo.com
