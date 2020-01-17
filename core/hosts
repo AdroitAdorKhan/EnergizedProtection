@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.017
 # Release: 017
-# Entries: 26,520
+# Entries: 26,521
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Jan 20 06:00:22
+# Updated: Fri, 17 Jan 20 12:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -24113,6 +24113,7 @@
 0.0.0.0 windowslivemailtech.com
 0.0.0.0 windowsonlinesupportnow.com
 0.0.0.0 windowsoutlookhelp.com
+0.0.0.0 windowsphishingalert158.s3.amazonaws.com
 0.0.0.0 windowssupportnow.com
 0.0.0.0 windowssupportnumber.com
 0.0.0.0 windowsvistahelpnow.com
