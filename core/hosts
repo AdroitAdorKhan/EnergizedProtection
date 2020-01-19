@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.019
 # Release: 019
-# Entries: 26,539
+# Entries: 26,537
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 19 Jan 20 12:00:15
+# Updated: Sun, 19 Jan 20 18:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1716,7 +1716,6 @@
 0.0.0.0 adit-media.com
 0.0.0.0 aditic.net
 0.0.0.0 adition.com
-0.0.0.0 adition.de
 0.0.0.0 adition.net
 0.0.0.0 aditize.com
 0.0.0.0 adizio.com
@@ -2362,7 +2361,6 @@
 0.0.0.0 ads.nzcity.co.nz
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.okcimg.com
-0.0.0.0 ads.olivebrandresponse.com
 0.0.0.0 ads.opera.com
 0.0.0.0 ads.oregonlive.com
 0.0.0.0 ads.pantip.com
