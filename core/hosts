@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.019
-# Release: 019
-# Entries: 26,537
+# Version: 20.01.020
+# Release: 020
+# Entries: 26,578
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 19 Jan 20 18:00:21
+# Updated: Mon, 20 Jan 20 00:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -347,8 +347,10 @@
 0.0.0.0 2e27bf1f09307aeb.com
 0.0.0.0 2f.video-ak.cdn.spotify.com
 0.0.0.0 2fc.smartclick.net
+0.0.0.0 2ffilter.adright.co	
 0.0.0.0 2fib.adnxs.com
 0.0.0.0 2fidsync.rlcdn.com
+0.0.0.0 2fmy.adright.co	
 0.0.0.0 2fr.skimresources.com
 0.0.0.0 2fsvastx.moatads.com
 0.0.0.0 2ft.frtyr.com
@@ -414,6 +416,8 @@
 0.0.0.0 3cinteractive.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3d.video-ak.cdn.spotify.com
+0.0.0.0 3dfilter.adright.co	
+0.0.0.0 3dmy.adright.co
 0.0.0.0 3ds.ero-advertising.com
 0.0.0.0 3e.video-ak.cdn.spotify.com
 0.0.0.0 3e1.cn
@@ -1647,6 +1651,7 @@
 0.0.0.0 adgitize.com
 0.0.0.0 adglare.com
 0.0.0.0 adglare.net
+0.0.0.0 adglobal.tech
 0.0.0.0 adgoi.com
 0.0.0.0 adgorithms.com
 0.0.0.0 adgoto.com
@@ -2388,6 +2393,7 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
+0.0.0.0 ads.realmemobile.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.renren.com
@@ -3313,6 +3319,8 @@
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.nl
 0.0.0.0 adwpaces.ero-advertising.com
+0.0.0.0 adx-id-ads.realmemobile.com
+0.0.0.0 adx-in-ads.realmemobile.com
 0.0.0.0 adx-static.ksosoft.com
 0.0.0.0 adx-tc.adform.net
 0.0.0.0 adx-tk.rayjump.com
@@ -4069,6 +4077,7 @@
 0.0.0.0 analytics.llnl.gov
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.localytics.com
+0.0.0.0 analytics.logger.pw
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.loop-cloud.de
 0.0.0.0 analytics.loveandcoffee.io
@@ -4385,6 +4394,7 @@
 0.0.0.0 analytics.wittyfeed.com
 0.0.0.0 analytics.wizardsbd.com
 0.0.0.0 analytics.wolfgangs.com
+0.0.0.0 analytics.wonderanal.com
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.worldnow.com
 0.0.0.0 analytics.worldtable.co
@@ -5542,6 +5552,9 @@
 0.0.0.0 bd.video-ak.cdn.spotify.com
 0.0.0.0 bd.workbefit.com
 0.0.0.0 bdads.mobi
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-id-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdawg.us
 0.0.0.0 bdccjeifcaiggegjai.ru
@@ -5862,6 +5875,7 @@
 0.0.0.0 bizoninvest.com
 0.0.0.0 bizzclick.com
 0.0.0.0 bj1110.online
+0.0.0.0 bjdata-ads.realmemobile.com
 0.0.0.0 bjhdrx.com
 0.0.0.0 bjhmt.com
 0.0.0.0 bjrfnps4efhldfj.ru
@@ -6043,6 +6057,7 @@
 0.0.0.0 boredcrown.com
 0.0.0.0 boringcoat.com
 0.0.0.0 boriouseruwer.info
+0.0.0.0 borzov-udo.com
 0.0.0.0 bos.ads.nexage.com
 0.0.0.0 bos.ads0.nexage.com
 0.0.0.0 bose.demdex.net
@@ -8309,16 +8324,24 @@
 0.0.0.0 dashingsweater.com
 0.0.0.0 dastmall.xyz
 0.0.0.0 dat2.ero-advertising.com
+0.0.0.0 data-ads.realmemobile.com
+0.0.0.0 data-cl-f-ads.realmemobile.com
+0.0.0.0 data-cl-id-ads.realmemobile.com
+0.0.0.0 data-cl-in-ads.realmemobile.com
 0.0.0.0 data-data-vac.com
 0.0.0.0 data-days.com
 0.0.0.0 data-dictionary.service.newrelic.com
 0.0.0.0 data-ero-advertising.com
+0.0.0.0 data-f-ads.realmemobile.com
 0.0.0.0 data-failover.ero-advertising.com
+0.0.0.0 data-id-ads.realmemobile.com
+0.0.0.0 data-in-ads.realmemobile.com
 0.0.0.0 data-ingress-ae1.tapad.com
 0.0.0.0 data-ingress-euw1.tapad.com
 0.0.0.0 data-ipv6.flurry.com
 0.0.0.0 data-service.mopub.com
 0.0.0.0 data-service2.mopub.com
+0.0.0.0 data-sg-ads.realmemobile.com
 0.0.0.0 data-us.ero-advertising.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.adbuddiz.com
@@ -9400,7 +9423,6 @@
 0.0.0.0 egqvppwseieyu.com
 0.0.0.0 egschool.org
 0.0.0.0 eh8jq4cmq8j9g5.com
-0.0.0.0 eh8jq4cmq8j9g5.com/favicon.ico
 0.0.0.0 ehashcoins.org
 0.0.0.0 ehceicafgdjcdbdfada.ru
 0.0.0.0 ehealthcaresolutions.com
@@ -10056,6 +10078,7 @@
 0.0.0.0 fendidiorbags.com
 0.0.0.0 fenixm.com
 0.0.0.0 ferreteriamestre.es
+0.0.0.0 fesrsxtmkjgms.com
 0.0.0.0 fethungi.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexiaen.com
@@ -10100,6 +10123,7 @@
 0.0.0.0 fill.juicyads.com
 0.0.0.0 filmnewspaper.com
 0.0.0.0 filmux.biz
+0.0.0.0 filter.adright.co
 0.0.0.0 filter.pop.adacts.com
 0.0.0.0 filter.popmonetizer.com
 0.0.0.0 filter.xmlads.bid
@@ -13584,6 +13608,7 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.btopenworld.com
+0.0.0.0 log.byteoversea.com
 0.0.0.0 log.chartbeat.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.fc.yahoo.com
@@ -14973,6 +14998,7 @@
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my-rigs.com
+0.0.0.0 my.adright.co			
 0.0.0.0 my.adserver.yahoo.com
 0.0.0.0 my.brightcove.com
 0.0.0.0 my.hellobar.com
@@ -15172,6 +15198,7 @@
 0.0.0.0 nebitek.com
 0.0.0.0 neblotech.com
 0.0.0.0 necessarywax.com
+0.0.0.0 nedconstance.info
 0.0.0.0 nedstat.com
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedstatpro.net
@@ -15667,7 +15694,6 @@
 0.0.0.0 oclasrv.com
 0.0.0.0 ocm.revcontent.com
 0.0.0.0 oconner.biz
-0.0.0.0 ocsp.int-x3.letsencrypt.org/
 0.0.0.0 ocsp.msocsp.comcdn.bttrack.com
 0.0.0.0 oculustrack.com
 0.0.0.0 ocx.umeng.com
@@ -17637,6 +17663,7 @@
 0.0.0.0 push-cdn.wshareit.com
 0.0.0.0 push-me-up.com
 0.0.0.0 push-notifications.top
+0.0.0.0 push.adright.co
 0.0.0.0 push.clickadilla.com
 0.0.0.0 push.ez123support.com
 0.0.0.0 push.headline.uodoo.com
@@ -18372,6 +18399,7 @@
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rnewsr.com
 0.0.0.0 rnmd.net
+0.0.0.0 rnorlexanderly.info
 0.0.0.0 ro.ads.justpremium.com
 0.0.0.0 ro.adserver.yahoo.com
 0.0.0.0 ro.go.zog.link
@@ -20058,6 +20086,7 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adform.com
 0.0.0.0 static.adhoc2.net
+0.0.0.0 static.adright.co
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.adsnative.com
@@ -20129,7 +20158,6 @@
 0.0.0.0 static.wossabeerarg.com
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.youappi.com
-0.0.0.0 static.zdassets.com
 0.0.0.0 static.zdbb.net
 0.0.0.0 static.zotabox.com
 0.0.0.0 static.zucks.net.zimg.jp
@@ -20190,6 +20218,7 @@
 0.0.0.0 stats.itsimple.com.au.re.getclicky.com
 0.0.0.0 stats.jdog.net.re.getclicky.com
 0.0.0.0 stats.jpush.cn
+0.0.0.0 stats.logger.pw
 0.0.0.0 stats.marketingtruthserum.com.re.getclicky.com
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.optijob.com.re.getclicky.com
@@ -22926,6 +22955,7 @@
 0.0.0.0 uae-2.la4lbg.uc.cn
 0.0.0.0 uae.la.ucweb.com
 0.0.0.0 uae.zc.cdn.uodoo.com
+0.0.0.0 uapi-ads.realmemobile.com
 0.0.0.0 uarating.com
 0.0.0.0 uashoes.club
 0.0.0.0 uaswitcher.org
@@ -23332,6 +23362,7 @@
 0.0.0.0 v3.moatads.com
 0.0.0.0 v3g4s.com
 0.0.0.0 v3m.youzu.com
+0.0.0.0 v4.logger.pw
 0.0.0.0 v4.moatads.com
 0.0.0.0 v8yej.rdtk.io
 0.0.0.0 v9.com
@@ -24501,6 +24532,7 @@
 0.0.0.0 www.adplay-mobile.com
 0.0.0.0 www.adpushup.com
 0.0.0.0 www.adreach.co
+0.0.0.0 www.adright.co
 0.0.0.0 www.adroll.com
 0.0.0.0 www.adrta.com
 0.0.0.0 www.ads-imp.adhese.com				
@@ -24927,12 +24959,14 @@
 0.0.0.0 www.fbfd396918c60838.com
 0.0.0.0 www.fbookindia.com
 0.0.0.0 www.fbtsotbs.com
+0.0.0.0 www.fesrsxtmkjgms.com
 0.0.0.0 www.ff81k.voluumtrk.com
 0.0.0.0 www.ffruntimechecker.com
 0.0.0.0 www.fgoogle.com
 0.0.0.0 www.fhatfee.ero-advertising.com
 0.0.0.0 www.fighissimo.net
 0.0.0.0 www.filepin.com
+0.0.0.0 www.filter.adright.co
 0.0.0.0 www.fireabsorb.fun
 0.0.0.0 www.firstclass-download.com
 0.0.0.0 www.fixnow.us
@@ -25274,6 +25308,7 @@
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.murieh.space
 0.0.0.0 www.mx.ero-advertising.com
+0.0.0.0 www.my.adright.co
 0.0.0.0 www.my4kvideo.info
 0.0.0.0 www.myappfree.com
 0.0.0.0 www.mybb.ero-advertising.com
@@ -25906,6 +25941,7 @@
 0.0.0.0 www.xddwwyfvpwh.com
 0.0.0.0 www.xenddwrxygjcbq.com
 0.0.0.0 www.xmeeting.com
+0.0.0.0 www.xml.adright.co
 0.0.0.0 www.xmlads.bid
 0.0.0.0 www.xmtrk.com
 0.0.0.0 www.xn--adspace-kvg.ero-advertising.com
@@ -26124,6 +26160,7 @@
 0.0.0.0 xiuythi.gameteam.mobi
 0.0.0.0 xjfjx8hw.com
 0.0.0.0 xjj5k.bemobtrk.com
+0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xmasit.me
 0.0.0.0 xmaswrite.com
@@ -26131,10 +26168,14 @@
 0.0.0.0 xmeeting.com
 0.0.0.0 xmejor.com
 0.0.0.0 xminingpool.com
+0.0.0.0 xml-eu.adright.co
+0.0.0.0 xml-us.adright.co	
 0.0.0.0 xml.adokutcontextual.com
 0.0.0.0 xml.adop.co
 0.0.0.0 xml.adoperatorx.com
+0.0.0.0 xml.adright.co
 0.0.0.0 xml.adright.com
+0.0.0.0 xml.adright.coxml.adright.co
 0.0.0.0 xml.adservme.com
 0.0.0.0 xml.blueparrot.media
 0.0.0.0 xml.clickredirection.com
