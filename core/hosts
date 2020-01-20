@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.020
-# Release: 020
-# Entries: 26,578
+# Version: 20.01.021
+# Release: 021
+# Entries: 26,577
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 20 Jan 20 18:00:14
+# Updated: Tue, 21 Jan 20 00:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -24959,7 +24959,6 @@
 0.0.0.0 www.fbfd396918c60838.com
 0.0.0.0 www.fbookindia.com
 0.0.0.0 www.fbtsotbs.com
-0.0.0.0 www.fesrsxtmkjgms.com
 0.0.0.0 www.ff81k.voluumtrk.com
 0.0.0.0 www.ffruntimechecker.com
 0.0.0.0 www.fgoogle.com
