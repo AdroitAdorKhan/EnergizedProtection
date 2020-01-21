@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.021
-# Release: 021
-# Entries: 26,608
+# Version: 20.01.022
+# Release: 022
+# Entries: 26,637
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 21 Jan 20 18:00:16
+# Updated: Wed, 22 Jan 20 00:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -347,9 +347,11 @@
 0.0.0.0 2e27bf1f09307aeb.com
 0.0.0.0 2f.video-ak.cdn.spotify.com
 0.0.0.0 2fc.smartclick.net
+0.0.0.0 2ffilter.adright.co
 0.0.0.0 2ffilter.adright.co	
 0.0.0.0 2fib.adnxs.com
 0.0.0.0 2fidsync.rlcdn.com
+0.0.0.0 2fmy.adright.co
 0.0.0.0 2fmy.adright.co	
 0.0.0.0 2fr.skimresources.com
 0.0.0.0 2fsvastx.moatads.com
@@ -416,6 +418,7 @@
 0.0.0.0 3cinteractive.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3d.video-ak.cdn.spotify.com
+0.0.0.0 3dfilter.adright.co
 0.0.0.0 3dfilter.adright.co	
 0.0.0.0 3dmy.adright.co
 0.0.0.0 3ds.ero-advertising.com
@@ -1464,6 +1467,7 @@
 0.0.0.0 adapi.addealsnetwork.com
 0.0.0.0 adapi.kikakeyboard.com
 0.0.0.0 adapt.tv
+0.0.0.0 adaptv.pixel.invitemedia.com
 0.0.0.0 adaranth.com
 0.0.0.0 adash-c.ut.taobao.com
 0.0.0.0 adash.m.taobao.com
@@ -2605,6 +2609,7 @@
 0.0.0.0 adsbybumq.bumq.com
 0.0.0.0 adscale-emea.adnxs.com
 0.0.0.0 adscale.de
+0.0.0.0 adscale.pixel.invitemedia.com
 0.0.0.0 adscan.yelabapp.com
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 adscendmedia.com
@@ -3579,6 +3584,7 @@
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtech.de
+0.0.0.0 akamai.invitemedia.com
 0.0.0.0 akamai.o.brightcove.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akamai.taboola.com
@@ -5073,6 +5079,7 @@
 0.0.0.0 assets.crashlytics.com
 0.0.0.0 assets.gaysexuality.com
 0.0.0.0 assets.insnw.net
+0.0.0.0 assets.invitemedia.com
 0.0.0.0 assets.map.brightcove.com
 0.0.0.0 assets.pornpreviews.com
 0.0.0.0 assets.revcontent.com
@@ -6390,6 +6397,7 @@
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 ca.clcknads.pro
 0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 ca.lijit.pixel.invitemedia.com
 0.0.0.0 ca.video-ak.cdn.spotify.com
 0.0.0.0 cabanella.net
 0.0.0.0 cabbage.recipes
@@ -7777,6 +7785,7 @@
 0.0.0.0 contextuads.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextweb.com
+0.0.0.0 contextweb.pixel.invitemedia.com
 0.0.0.0 control-test-ec.adaptv.advertising.com
 0.0.0.0 control.ads.bbm.com
 0.0.0.0 control.advmob.cn
@@ -7792,6 +7801,7 @@
 0.0.0.0 conversean.online
 0.0.0.0 conversechucktaylor.es
 0.0.0.0 converseoutletmadrid.es
+0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 conversionbet.com
 0.0.0.0 conversionruler.com
 0.0.0.0 conversions.adaptv.advertising.com
@@ -8317,6 +8327,7 @@
 0.0.0.0 dashboard.algolia.com
 0.0.0.0 dashboard.appsflyer.com
 0.0.0.0 dashboard.evolveplatform.net
+0.0.0.0 dashboard.invitemedia.com
 0.0.0.0 dashboard.mgid.com
 0.0.0.0 dashboard.trafficforce.com
 0.0.0.0 dashboardtest.appsflyer.com
@@ -9405,6 +9416,7 @@
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adk2.co
 0.0.0.0 ee9a8f4a53.com
 0.0.0.0 eebfffjegjajjiacaci.ru
+0.0.0.0 eec.pixel.prod2.invitemedia.com
 0.0.0.0 eedclicks.ero-advertising.com
 0.0.0.0 eeduelements.com
 0.0.0.0 eegnacou.com
@@ -9719,6 +9731,7 @@
 0.0.0.0 eu.event.cmp.advertising.com
 0.0.0.0 eu.h-bid.com
 0.0.0.0 eu.metrics.adswizz.com
+0.0.0.0 eu.pixel.prod2.invitemedia.com
 0.0.0.0 eu1-spiky.wzrkt.com
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eu2.madsone.com
@@ -10529,6 +10542,7 @@
 0.0.0.0 fygotetwassla.info
 0.0.0.0 fz.letv.com
 0.0.0.0 fzrqfakeaqikwm.com
+0.0.0.0 g-pixel.invitemedia.com
 0.0.0.0 g.163.com
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.agkn.com
@@ -11656,6 +11670,7 @@
 0.0.0.0 huhit.site
 0.0.0.0 huijol.gq
 0.0.0.0 hukcoburg.demdex.net
+0.0.0.0 hulu.pixel.invitemedia.com
 0.0.0.0 humandemand.com
 0.0.0.0 hummingbird.mopub.com
 0.0.0.0 humparsi.com
@@ -13452,6 +13467,7 @@
 0.0.0.0 lightothansinheg.pro
 0.0.0.0 lightspeedcash.com
 0.0.0.0 lightspeedmining.com
+0.0.0.0 lijit.pixel.invitemedia.com
 0.0.0.0 like.indyhotlike.com
 0.0.0.0 lilil.bid
 0.0.0.0 limetorrentinfo.imageshack.host
@@ -13537,6 +13553,7 @@
 0.0.0.0 livepreview.adform.com
 0.0.0.0 livepromo.net
 0.0.0.0 liverail-c10r.liverail.com
+0.0.0.0 liverail.bid.invitemedia.com
 0.0.0.0 liverail.com
 0.0.0.0 liverail.demand.go.sonobi.com
 0.0.0.0 liverail.rtb.tapad.com
@@ -15008,6 +15025,7 @@
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my-rigs.com
+0.0.0.0 my.adright.co
 0.0.0.0 my.adright.co			
 0.0.0.0 my.adserver.yahoo.com
 0.0.0.0 my.brightcove.com
@@ -15921,6 +15939,7 @@
 0.0.0.0 openx.net
 0.0.0.0 openx.notebookspec.com
 0.0.0.0 openx.org
+0.0.0.0 openx.px.invitemedia.com
 0.0.0.0 openxadexchange.com
 0.0.0.0 openxenterprise.com
 0.0.0.0 openxmarket.asia
@@ -16787,6 +16806,7 @@
 0.0.0.0 pixel.heckhaphanofres.info
 0.0.0.0 pixel.hengaredi.pro
 0.0.0.0 pixel.ingest.at.atwola.com
+0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.justresonter.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.milasparreprob.club
@@ -16794,6 +16814,7 @@
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel.onyemantee.pro
 0.0.0.0 pixel.othepbuttit.com
+0.0.0.0 pixel.prod2.invitemedia.com
 0.0.0.0 pixel.rayjump.com
 0.0.0.0 pixel.reckintersupwas.info
 0.0.0.0 pixel.ronatorda.com
@@ -17470,6 +17491,7 @@
 0.0.0.0 prod.us-west-1.int.vidible.tv
 0.0.0.0 prod.us-west-2.int.vidible.tv
 0.0.0.0 prod.vidible.tv
+0.0.0.0 prod2.invitemedia.com
 0.0.0.0 producer.getwisdom.io
 0.0.0.0 production-api.areametrics.com
 0.0.0.0 production-ultimate-assets.ratecity.com.au
@@ -19106,6 +19128,7 @@
 0.0.0.0 seg-1.adjust.com
 0.0.0.0 seg-2.adjust.com
 0.0.0.0 seg.sharethis.com
+0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segpaycs.com
 0.0.0.0 segretaria24.it
@@ -20623,6 +20646,7 @@
 0.0.0.0 t.gotporn.com
 0.0.0.0 t.grtyo.com
 0.0.0.0 t.hoood.info
+0.0.0.0 t.invitemedia.com
 0.0.0.0 t.irtyf.com
 0.0.0.0 t.lpf.ninja
 0.0.0.0 t.neodatagroup.com
@@ -23391,6 +23415,8 @@
 0.0.0.0 v9banners.com
 0.0.0.0 v9bet88.com
 0.0.0.0 va-endpoint.com
+0.0.0.0 va.pixel.prod2.invitemedia.com
+0.0.0.0 va.px.invitemedia.com
 0.0.0.0 vacaneedasap.com
 0.0.0.0 vacwrite.com
 0.0.0.0 vadpay.com
@@ -23719,6 +23745,7 @@
 0.0.0.0 vm5apis.com
 0.0.0.0 vmco.adk2.co
 0.0.0.0 vmedia.trafforsrv.com
+0.0.0.0 vmm-pixel.invitemedia.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 vmomentapi.apk.v-mate.mobi
 0.0.0.0 vmwareinc.demdex.net
@@ -25156,6 +25183,7 @@
 0.0.0.0 www.intellitxt.com
 0.0.0.0 www.interia.pl
 0.0.0.0 www.intext.ero-advertising.com
+0.0.0.0 www.invitemedia.com
 0.0.0.0 www.inwind.ws
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioh9.com
@@ -26199,6 +26227,7 @@
 0.0.0.0 xmejor.com
 0.0.0.0 xminingpool.com
 0.0.0.0 xml-eu.adright.co
+0.0.0.0 xml-us.adright.co
 0.0.0.0 xml-us.adright.co	
 0.0.0.0 xml.adokutcontextual.com
 0.0.0.0 xml.adop.co
