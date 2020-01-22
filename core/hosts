@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.022
 # Release: 022
-# Entries: 26,637
+# Entries: 26,635
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 22 Jan 20 00:00:22
+# Updated: Wed, 22 Jan 20 06:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -24504,7 +24504,6 @@
 0.0.0.0 www.ad1.ads.ero-advertising.com
 0.0.0.0 www.ad1.adspaces.ero-advertising.com
 0.0.0.0 www.ad1.api.ero-advertising.com
-0.0.0.0 www.ad1.banners.ero-advertising.com
 0.0.0.0 www.ad1.ero-advertising.com
 0.0.0.0 www.ad2.adspaces.ero-advertising.com
 0.0.0.0 www.ad2.api.ero-advertising.com
@@ -25376,7 +25375,6 @@
 0.0.0.0 www.myishop.co.uk
 0.0.0.0 www.myornamenti.com
 0.0.0.0 www.myrobotearn.top
-0.0.0.0 www.mysterysnooper.com
 0.0.0.0 www.mywot.net
 0.0.0.0 www.n7621.voluumtrk.com
 0.0.0.0 www.nagubalqryvirelv.com
