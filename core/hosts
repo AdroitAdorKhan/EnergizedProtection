@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.023
-# Release: 023
-# Entries: 27,635
+# Version: 20.01.024
+# Release: 024
+# Entries: 27,634
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 23 Jan 20 18:00:26
+# Updated: Fri, 24 Jan 20 00:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -26473,7 +26473,6 @@
 0.0.0.0 www.premiumsent.com
 0.0.0.0 www.preview.msn.com
 0.0.0.0 www.priests.top
-0.0.0.0 www.printer-techsupport.net
 0.0.0.0 www.privacyassistant.net
 0.0.0.0 www.prize-mania.mobi
 0.0.0.0 www.prizes-sg.com
