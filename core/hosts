@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.023
 # Release: 023
-# Entries: 27,636
+# Entries: 27,635
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 23 Jan 20 06:00:20
+# Updated: Thu, 23 Jan 20 12:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -12256,7 +12256,6 @@
 0.0.0.0 iag37.bemobtrk.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iam-preprod.inmobi.com
-0.0.0.0 iamediaserve.com
 0.0.0.0 iapadmin.inmobi.com
 0.0.0.0 iapclick.wadogo.avi.ams1.inmobi.com
 0.0.0.0 iapi.juicyads.com
