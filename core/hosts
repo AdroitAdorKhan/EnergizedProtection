@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.024
 # Release: 024
-# Entries: 27,634
+# Entries: 27,633
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 24 Jan 20 00:00:17
+# Updated: Fri, 24 Jan 20 06:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -162,7 +162,6 @@
 0.0.0.0 15257dddaccde96.com
 0.0.0.0 152media.adk2.co
 0.0.0.0 16.video-ak.cdn.spotify.com
-0.0.0.0 165a7.v.fwmrm.net
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 168dianpu.com
 0.0.0.0 16yp1ji92a.com
