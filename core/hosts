@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.025
 # Release: 025
-# Entries: 27,633
+# Entries: 27,634
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 25 Jan 20 12:01:15
+# Updated: Sat, 25 Jan 20 18:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -17270,6 +17270,7 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 perkasaqq.com
 0.0.0.0 permutive.com
+0.0.0.0 perr.l-err.biz
 0.0.0.0 perrrrsik.org
 0.0.0.0 perscdn.taboola.com
 0.0.0.0 persevered.com
