@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.01.029
-# Release: 029
-# Entries: 27,696
+# Version: 20.01.030
+# Release: 030
+# Entries: 27,746
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 29 Jan 20 18:00:18
+# Updated: Thu, 30 Jan 20 00:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1758,6 +1758,7 @@
 0.0.0.0 adforgames.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
+0.0.0.0 adfox-c2s-ams.creativecdn.com
 0.0.0.0 adfox.ru
 0.0.0.0 adfpaces.ero-advertising.com
 0.0.0.0 adframesrc.com
@@ -3859,6 +3860,7 @@
 0.0.0.0 amarktflow.com
 0.0.0.0 amaumomt.com
 0.0.0.0 amazemobilemedia.com
+0.0.0.0 amazinelistrun.pro
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazingfunnvideos.com
 0.0.0.0 amazon-adsystem.com
@@ -5418,6 +5420,7 @@
 0.0.0.0 auethw.qkurtnucn.com
 0.0.0.0 augheguw.net
 0.0.0.0 augur.io
+0.0.0.0 ausagauw.net
 0.0.0.0 auspipe.com
 0.0.0.0 auth-canary.flurry.com
 0.0.0.0 auth.adfox.ru
@@ -5846,6 +5849,7 @@
 0.0.0.0 beemray.com
 0.0.0.0 beertrail.online
 0.0.0.0 beetoken.com
+0.0.0.0 beewanuk.net
 0.0.0.0 befirstcdn.com
 0.0.0.0 beget.tech
 0.0.0.0 begun.ru
@@ -5872,6 +5876,7 @@
 0.0.0.0 benesserelab.com
 0.0.0.0 benstock.free.fr
 0.0.0.0 beon.vidible.tv
+0.0.0.0 beonixom.com
 0.0.0.0 beonutritiontherapy.ca
 0.0.0.0 bepolite.eu
 0.0.0.0 bergansshop.xyz
@@ -6151,6 +6156,7 @@
 0.0.0.0 blatfee.ero-advertising.com
 0.0.0.0 blatwalm.com
 0.0.0.0 blazepool.com
+0.0.0.0 blebesidents.info
 0.0.0.0 blingbucks.com
 0.0.0.0 blinkadr.com
 0.0.0.0 blinkxevent.1rx.io
@@ -6383,6 +6389,7 @@
 0.0.0.0 broo.net
 0.0.0.0 brookses.online
 0.0.0.0 broomboxmain.com
+0.0.0.0 brotherenuryc.pro
 0.0.0.0 browser-tools.systems
 0.0.0.0 browser.baidu.com
 0.0.0.0 browser.cloud.uc.cn
@@ -6474,6 +6481,7 @@
 0.0.0.0 butheptesitrew.pro
 0.0.0.0 buthestienjo.pro
 0.0.0.0 buthoprus.narod.ru
+0.0.0.0 butrathakinrol.info
 0.0.0.0 butterburst.com
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 butwisparperne.info
@@ -6908,6 +6916,7 @@
 0.0.0.0 cclk.co
 0.0.0.0 ccma.demdex.net
 0.0.0.0 ccminer.org
+0.0.0.0 ccnfauk8bkkzvd.ru
 0.0.0.0 ccrt-en.ad-stir.com
 0.0.0.0 ccrt-ja.ad-stir.com
 0.0.0.0 ccryptoknight.cc
@@ -8572,6 +8581,7 @@
 0.0.0.0 d.appstore.baidu.co.th
 0.0.0.0 d.audiencerun.com
 0.0.0.0 d.batmobi.net
+0.0.0.0 d.brstej.com
 0.0.0.0 d.fotw.xyz
 0.0.0.0 d.go-mpulse.net
 0.0.0.0 d.gunnepaa.xyz
@@ -10178,6 +10188,7 @@
 0.0.0.0 event.maribacaberita.com
 0.0.0.0 event.scorecardresearch.com
 0.0.0.0 event.spotxchange.com
+0.0.0.0 eventifiederik.pro
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 eventraliaclinental.info
 0.0.0.0 events.addapptr.com
@@ -10368,6 +10379,7 @@
 0.0.0.0 factorcontest.com
 0.0.0.0 fadeaibgfihegegjadc.ru
 0.0.0.0 fadedprofit.com
+0.0.0.0 fadsanz.com
 0.0.0.0 faggrim.com
 0.0.0.0 fahdsite.pro
 0.0.0.0 fahrdienstinberlin.de
@@ -10752,6 +10764,7 @@
 0.0.0.0 fr.exoclick.com
 0.0.0.0 fr.go.zog.link
 0.0.0.0 fr.support.appsflyer.com
+0.0.0.0 fr33fastd0wnl0ad.space
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fra1-mobile.adnxs.com
 0.0.0.0 fra1.appnexus.com
@@ -12010,6 +12023,7 @@
 0.0.0.0 hmnlta.adk2.co
 0.0.0.0 hmsgroup.global
 0.0.0.0 hnaws.gq
+0.0.0.0 hnntube.com
 0.0.0.0 hnsearch.algolia.com
 0.0.0.0 ho.lazada.co.th
 0.0.0.0 hobbsfashiondresses.com
@@ -12059,6 +12073,7 @@
 0.0.0.0 hosts-weborama.adhese.com		
 0.0.0.0 hot-hits.us
 0.0.0.0 hot-mob.com
+0.0.0.0 hot-sex-tube.com
 0.0.0.0 hot.browser.intl.miui.com
 0.0.0.0 hot.newsfeed.intl.miui.com
 0.0.0.0 hotcheapshop.store
@@ -12157,6 +12172,7 @@
 0.0.0.0 huosu-api.shareitgames.com
 0.0.0.0 huosu-static.shareitgames.com
 0.0.0.0 huosu.shareitgames.com
+0.0.0.0 hurchaseeffectionpe.info
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtadoquesada.es
 0.0.0.0 hurtteeth.com
@@ -13284,6 +13300,7 @@
 0.0.0.0 jdouzzxkyukv.com
 0.0.0.0 jeansame.store
 0.0.0.0 jeclittrecheckrep.info
+0.0.0.0 jectsinteredse.info
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jellopads.com
@@ -13769,6 +13786,7 @@
 0.0.0.0 laclothes.club
 0.0.0.0 lacolombina.es
 0.0.0.0 ladbrokesaffiliates.com.au
+0.0.0.0 ladon.wshareit.com
 0.0.0.0 ladsblue.com
 0.0.0.0 ladsdown.com
 0.0.0.0 ladsims.com
@@ -15809,6 +15827,7 @@
 0.0.0.0 ndparking.com
 0.0.0.0 ndyzz.com
 0.0.0.0 nearbyad.com
+0.0.0.0 nebcative-pringical.icu
 0.0.0.0 nebitek.com
 0.0.0.0 neblotech.com
 0.0.0.0 necessarywax.com
@@ -16305,6 +16324,7 @@
 0.0.0.0 oata.ero-advertising.com
 0.0.0.0 oauth.brightcove.com
 0.0.0.0 oba.media.net
+0.0.0.0 obaukads.com
 0.0.0.0 obeus.com
 0.0.0.0 obeyter.com
 0.0.0.0 obfp.admixer.net
@@ -17008,6 +17028,7 @@
 0.0.0.0 p369103.clksite.com
 0.0.0.0 p369186.retdaz.fun
 0.0.0.0 p371092.retdaz.fun
+0.0.0.0 p375584.clksite.com
 0.0.0.0 p37703.dnsecho.opera.com
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 p4.firrectly.top
@@ -17225,6 +17246,7 @@
 0.0.0.0 pbcde.com
 0.0.0.0 pbnet.ru
 0.0.0.0 pbrd.co
+0.0.0.0 pbs.alfasense.com
 0.0.0.0 pbterra.com
 0.0.0.0 pc-ads.com
 0.0.0.0 pc.belicimo.pw
@@ -17277,6 +17299,7 @@
 0.0.0.0 peer39.net
 0.0.0.0 peerclicktrk.com
 0.0.0.0 pelectronicscore.me
+0.0.0.0 pelishd.us
 0.0.0.0 peluqueriaprincesa19.es
 0.0.0.0 pemlo.freehookups.mobi
 0.0.0.0 pennyotcstock.com
@@ -17338,6 +17361,7 @@
 0.0.0.0 pgssl.com
 0.0.0.0 ph.adserver.yahoo.com
 0.0.0.0 pharmausabuyonline.com
+0.0.0.0 pharougn.com
 0.0.0.0 phauwooz.net
 0.0.0.0 phee1oci.com
 0.0.0.0 pheedo.com
@@ -17431,6 +17455,7 @@
 0.0.0.0 piwik.opendesktop.org
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.btrll.com
+0.0.0.0 pix.ssp.otm-r.com
 0.0.0.0 pix.user-clicks.com
 0.0.0.0 pix2.btrll.com
 0.0.0.0 pixazza.com
@@ -18182,6 +18207,7 @@
 0.0.0.0 proficientcity.akamaized.net
 0.0.0.0 profile-eu.exe.bid
 0.0.0.0 profile.localytics.com
+0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 profitablesoft.top
 0.0.0.0 profitfast.online
 0.0.0.0 profithash.com
@@ -19721,6 +19747,7 @@
 0.0.0.0 scriptall.tk
 0.0.0.0 scripte-monster.de
 0.0.0.0 scripts.24.co.za
+0.0.0.0 scripts.advmusic.net
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.stage.kissmetrics.com
 0.0.0.0 scrubsky.com
@@ -20069,6 +20096,7 @@
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 sg.rayjump.com
 0.0.0.0 sg.taboola.com
+0.0.0.0 sg.wowphones.site
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg12.zopim.comssl.gstatic.comstatic.getclicky.com
 0.0.0.0 sg3.af.beap.bc.yahoo.com
@@ -20244,6 +20272,7 @@
 0.0.0.0 simba.m.taobao.com
 0.0.0.0 simg.media.net
 0.0.0.0 similarsabine.com
+0.0.0.0 simkl.net
 0.0.0.0 simontok.app
 0.0.0.0 simpio.com
 0.0.0.0 simpleanalytics.io
@@ -21339,6 +21368,7 @@
 0.0.0.0 superads.cn
 0.0.0.0 supercell.net
 0.0.0.0 superclix.de
+0.0.0.0 supercounters.com
 0.0.0.0 supergames.me
 0.0.0.0 superimad.com
 0.0.0.0 superinterstitial.com
@@ -21956,6 +21986,7 @@
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
 0.0.0.0 thiscdn.com
+0.0.0.0 thkexopsciqums.com
 0.0.0.0 thn.gratonrewardcenter.icu
 0.0.0.0 thomastorch.com
 0.0.0.0 thor.blindferret.media
@@ -23584,6 +23615,7 @@
 0.0.0.0 trc.taboolasyndication.com
 0.0.0.0 trck.bebi.com
 0.0.0.0 trck.easytrck123.com
+0.0.0.0 trck.trfsltions.info
 0.0.0.0 trcklink.fun
 0.0.0.0 trcko.com
 0.0.0.0 trckonspot.com
@@ -23773,6 +23805,7 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndolls.com
 0.0.0.0 tt.smaxdn.com
+0.0.0.0 ttriggestspardiansc.info
 0.0.0.0 ttwitter.com
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tu.moatads.com
@@ -24067,6 +24100,7 @@
 0.0.0.0 umcdn.uc.cn
 0.0.0.0 umcdn.ucweb.com
 0.0.0.0 umcdnpc.ucweb.com
+0.0.0.0 umdsmartgrowth.org
 0.0.0.0 umebiggestern.club
 0.0.0.0 umeng.co
 0.0.0.0 umeng.com
@@ -24194,6 +24228,7 @@
 0.0.0.0 uptopopunder.com
 0.0.0.0 upug11000.pubmatic.com
 0.0.0.0 upv4.moatads.com
+0.0.0.0 upwzuqfcvbeqo.com
 0.0.0.0 upzyde-inv-eu.admixer.net
 0.0.0.0 urbanairship.com
 0.0.0.0 urbanityadnetwork.com
@@ -24723,6 +24758,7 @@
 0.0.0.0 vmwareinc.demdex.net
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vn.adserver.yahoo.com
+0.0.0.0 vnrherdsxr.com
 0.0.0.0 vntsm.com
 0.0.0.0 vnuipbo.com
 0.0.0.0 vo2.qrlsx.com
@@ -24776,6 +24812,7 @@
 0.0.0.0 vpn1.us
 0.0.0.0 vpnfaster.s.xoxknct.com
 0.0.0.0 vpnfortorrents.co
+0.0.0.0 vpnfortorrents.page
 0.0.0.0 vpon.com
 0.0.0.0 vpool.io
 0.0.0.0 vps.uc.cn
@@ -25024,6 +25061,7 @@
 0.0.0.0 weborama.fr
 0.0.0.0 weborama.io
 0.0.0.0 webpagetest.net
+0.0.0.0 webpick-cdn.s3.amazonaws.com
 0.0.0.0 webpower.com
 0.0.0.0 webreseau.com
 0.0.0.0 webs.getclicky.com
@@ -25127,6 +25165,7 @@
 0.0.0.0 widget.engageya.com
 0.0.0.0 widget.manychat.com
 0.0.0.0 widget.privy.com
+0.0.0.0 widget.supercounters.com
 0.0.0.0 widget.weibo.com
 0.0.0.0 widget.whatshelp.io
 0.0.0.0 widget.yavli.com
@@ -25197,6 +25236,7 @@
 0.0.0.0 wingads.com
 0.0.0.0 winnerkur.com
 0.0.0.0 winnotice.skyrocket.adtdp.com
+0.0.0.0 winoladber.com
 0.0.0.0 winterbassseries.com
 0.0.0.0 winterclothestore.club
 0.0.0.0 winterclothings.club
@@ -26244,6 +26284,7 @@
 0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.jsonp.moatads.com
+0.0.0.0 www.jsozjlxamxrly.com
 0.0.0.0 www.jstveqeybqzoh.com
 0.0.0.0 www.jsytsckqon.com
 0.0.0.0 www.juicyads.com
@@ -26464,6 +26505,7 @@
 0.0.0.0 www.outlookrepairhelp.com
 0.0.0.0 www.ouyayule.com
 0.0.0.0 www.owdojmypl.com
+0.0.0.0 www.owkbqoby.com
 0.0.0.0 www.ozbwaijtzfwel.com
 0.0.0.0 www.p.skimresources.com
 0.0.0.0 www.p187425.clksite.com
@@ -26556,6 +26598,7 @@
 0.0.0.0 www.puserving.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.pvtizjqlcvj.com
+0.0.0.0 www.pwondjwwgqahw.com
 0.0.0.0 www.qcoldtui1999.com
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qksrv.net
@@ -26641,6 +26684,7 @@
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.royalbet90.win
 0.0.0.0 www.rp3oq.voluumtrk.com
+0.0.0.0 www.rrshibwsq.com
 0.0.0.0 www.rs.ero-advertising.com
 0.0.0.0 www.rs2.ero-advertising.com
 0.0.0.0 www.rtalabel.org
@@ -26781,6 +26825,7 @@
 0.0.0.0 www.supportmg.com
 0.0.0.0 www.supportoid.com
 0.0.0.0 www.supportpcclean.com
+0.0.0.0 www.swqlzufnbngw.com
 0.0.0.0 www.swt3r.voluumtrk.com
 0.0.0.0 www.t.skimresources.com
 0.0.0.0 www.t2lgo.com
@@ -26818,6 +26863,7 @@
 0.0.0.0 www.theofficeonpirie.com
 0.0.0.0 www.thestartmagazine.com
 0.0.0.0 www.theworldbd.com
+0.0.0.0 www.thkexopsciqums.com
 0.0.0.0 www.thumb.ero-advertising.com
 0.0.0.0 www.thumbads.ero-advertising.com
 0.0.0.0 www.thumbs.xlaces.ero-advertising.com
@@ -26901,6 +26947,7 @@
 0.0.0.0 www.uodoo.com
 0.0.0.0 www.uorhedemxtni.com
 0.0.0.0 www.update-your-pc.info
+0.0.0.0 www.upwzuqfcvbeqo.com
 0.0.0.0 www.uqelijcu.com
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.urlsec.qq.com
@@ -27246,6 +27293,7 @@
 0.0.0.0 xg4ken.com
 0.0.0.0 xgmlmmulciz.com
 0.0.0.0 xgx3f3588.com
+0.0.0.0 xh.video
 0.0.0.0 xhdessigual.club
 0.0.0.0 xiao.smamuhh1metro.com
 0.0.0.0 xiaom-en.com
@@ -27518,6 +27566,7 @@
 0.0.0.0 youplay2019now.com
 0.0.0.0 youpool.io
 0.0.0.0 youporn.sexy
+0.0.0.0 your-bestsex-here1.com
 0.0.0.0 your.appload.xyz
 0.0.0.0 youradexchange.com
 0.0.0.0 youredfox.ru
@@ -27734,6 +27783,7 @@
 0.0.0.0 zx6s.smcheck.org
 0.0.0.0 zx9s.smcheck.org
 0.0.0.0 zy16eoat1w.com
+0.0.0.0 zyf03k.xyz
 0.0.0.0 zyora.co
 0.0.0.0 zypenetwork.com
 0.0.0.0 zysurqmarket.com
