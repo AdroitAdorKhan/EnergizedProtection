@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.030
 # Release: 030
-# Entries: 27,745
+# Entries: 27,744
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jan 20 06:00:19
+# Updated: Thu, 30 Jan 20 12:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -942,7 +942,6 @@
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.spankbang.com
 0.0.0.0 a.stun.kaptcha.com
-0.0.0.0 a.teads.tv
 0.0.0.0 a.top4top.net
 0.0.0.0 a.tracker.tcd.re
 0.0.0.0 a.tvpage.com
