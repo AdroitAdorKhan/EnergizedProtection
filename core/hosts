@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.01.030
 # Release: 030
-# Entries: 27,746
+# Entries: 27,745
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jan 20 00:00:17
+# Updated: Thu, 30 Jan 20 06:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4510,7 +4510,6 @@
 0.0.0.0 analytics.tochka-tech.com
 0.0.0.0 analytics.tomherbers.de
 0.0.0.0 analytics.tool.lu
-0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.trackerstatus.info
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.traderlink.com
