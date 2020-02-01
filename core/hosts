@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.032
 # Release: 032
-# Entries: 27,730
+# Entries: 27,729
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 01 Feb 20 12:00:17
+# Updated: Sat, 01 Feb 20 18:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -12670,7 +12670,6 @@
 0.0.0.0 imces.vip.dfw1.inmobi.com
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 imedia.adk2.co
-0.0.0.0 imedia.co.il
 0.0.0.0 imediarevenue.com
 0.0.0.0 imeds.ero-advertising.com
 0.0.0.0 imeinv.uodoo.com
