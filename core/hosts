@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.032
-# Release: 032
-# Entries: 27,729
+# Version: 20.02.033
+# Release: 033
+# Entries: 27,728
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 01 Feb 20 18:00:19
+# Updated: Sun, 02 Feb 20 00:00:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -24134,7 +24134,6 @@
 0.0.0.0 unit.content.ad
 0.0.0.0 unitedtwentytimesblogspotcom.cdaz.icu
 0.0.0.0 unityads.unity3d.com
-0.0.0.0 universalpool.net
 0.0.0.0 universalsa.info
 0.0.0.0 universe-biz.microad.co.jp
 0.0.0.0 universe.microad.co.jp
