@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.032
 # Release: 032
-# Entries: 27,736
+# Entries: 27,733
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 01 Feb 20 00:00:16
+# Updated: Sat, 01 Feb 20 06:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -21515,7 +21515,6 @@
 0.0.0.0 syndication-whk1.exoclick.com
 0.0.0.0 syndication.contentabc.com
 0.0.0.0 syndication.dynsrvtbg.com
-0.0.0.0 syndication.dynsrvtyu.com
 0.0.0.0 syndication.dynsrvwer.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
@@ -25546,7 +25545,6 @@
 0.0.0.0 www.ad4screen.com
 0.0.0.0 www.ad5.adspaces.ero-advertising.com
 0.0.0.0 www.ad5.banners.ero-advertising.com
-0.0.0.0 www.ad5.fpa.ero-advertising.com
 0.0.0.0 www.ad6.adspaces.ero-advertising.com
 0.0.0.0 www.ad6.banners.ero-advertising.com
 0.0.0.0 www.ad7.adspaces.ero-advertising.com
@@ -26389,7 +26387,6 @@
 0.0.0.0 www.minero-proxy-04.now.sh
 0.0.0.0 www.mirago.com
 0.0.0.0 www.mixpanel.com
-0.0.0.0 www.mlyqbqha.com
 0.0.0.0 www.mniqkjtvqal.com
 0.0.0.0 www.moatads.com
 0.0.0.0 www.mob1ledev1ces.com
