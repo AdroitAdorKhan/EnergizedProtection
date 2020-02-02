@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.033
 # Release: 033
-# Entries: 27,728
+# Entries: 27,726
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 02 Feb 20 00:00:15
+# Updated: Sun, 02 Feb 20 06:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1012,7 +1012,6 @@
 0.0.0.0 aatrckr.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
-0.0.0.0 aax-eu-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-test1.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
@@ -10698,7 +10697,6 @@
 0.0.0.0 foodwears.com
 0.0.0.0 foopa.info
 0.0.0.0 footnote.com
-0.0.0.0 forbes.media.net
 0.0.0.0 forbesvid-a.akamaihd.net
 0.0.0.0 forced-lose.de
 0.0.0.0 forcedolphin.com
