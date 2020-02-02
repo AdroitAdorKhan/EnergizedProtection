@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.033
-# Release: 033
-# Entries: 27,726
+# Version: 20.02.034
+# Release: 034
+# Entries: 27,728
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 02 Feb 20 18:00:17
+# Updated: Mon, 03 Feb 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -15081,6 +15081,7 @@
 0.0.0.0 mineqrl.net
 0.0.0.0 miner.ad
 0.0.0.0 miner.center
+0.0.0.0 miner.nicehash.com
 0.0.0.0 miner.rocks
 0.0.0.0 miner.shareasale.com
 0.0.0.0 minerad.com
@@ -16018,7 +16019,6 @@
 0.0.0.0 nhvw3-uz8ne.ads.tremorhub.com
 0.0.0.0 nic.ad.jp
 0.0.0.0 nicego-h5.batmobi.net
-0.0.0.0 nicehash.com
 0.0.0.0 nicheads.com
 0.0.0.0 nickhel.com
 0.0.0.0 nid.red
@@ -25241,6 +25241,7 @@
 0.0.0.0 wiz.outbrain.com
 0.0.0.0 wizardsbd.com
 0.0.0.0 wks.ero-advertising.com
+0.0.0.0 wlbetboo.adsrv.eacdn.com
 0.0.0.0 wlbetclic.adsrv.eacdn.com
 0.0.0.0 wlmarketing.com
 0.0.0.0 wlneteller.adsrv.eacdn.com
@@ -25552,6 +25553,7 @@
 0.0.0.0 www.adbank.network
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 www.adbetclickin.pink
+0.0.0.0 www.adbetnetwork.com
 0.0.0.0 www.adbit.biz
 0.0.0.0 www.adblade.com
 0.0.0.0 www.adblockanalytics.com
