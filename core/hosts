@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.034
 # Release: 034
-# Entries: 27,728
+# Entries: 27,727
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 03 Feb 20 06:00:19
+# Updated: Mon, 03 Feb 20 12:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -14783,7 +14783,6 @@
 0.0.0.0 mckinseyknowledge.demdex.net
 0.0.0.0 mclean.cloud.360safe.com
 0.0.0.0 mclean.f.360.cn
-0.0.0.0 mclean.lato.cloud.360safe.com
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 mco-1-apex.go.sonobi.com
 0.0.0.0 mco-1-sync.go.sonobi.com
