@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.035
 # Release: 035
-# Entries: 27,726
+# Entries: 27,741
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 04 Feb 20 00:00:16
+# Updated: Tue, 04 Feb 20 06:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2565,7 +2565,6 @@
 0.0.0.0 ads.sofcom.com.au
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.sonobi.com
-0.0.0.0 ads.space.com
 0.0.0.0 ads.sparkflow.net
 0.0.0.0 ads.speedfinancial.online
 0.0.0.0 ads.sprout-ad.com
@@ -2598,6 +2597,7 @@
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
 0.0.0.0 ads.tripod.lycos.nl
+0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.uknetguide.co.uk
@@ -2703,7 +2703,9 @@
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
 0.0.0.0 ads5-adnow.com
+0.0.0.0 ads5-asia-south1.truecaller.com
 0.0.0.0 ads5-eu.truecaller.com
+0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5-se1.truecaller.com
 0.0.0.0 ads5.bangkokpost.co.th
 0.0.0.0 ads5.canoe.ca
@@ -5743,6 +5745,9 @@
 0.0.0.0 batasales.online
 0.0.0.0 batbuilding.com
 0.0.0.0 batch.upsight-api.com
+0.0.0.0 batchlogging4-asia-south1.truecaller.com
+0.0.0.0 batchlogging4-eu.truecaller.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 bathouph.net
 0.0.0.0 batmobi.net
@@ -11522,6 +11527,7 @@
 0.0.0.0 graph.internet.org
 0.0.0.0 graph.sanook.com
 0.0.0.0 graph.snappea.com
+0.0.0.0 graph4.truecaller.com
 0.0.0.0 graphql.api.dailymotion.com
 0.0.0.0 graphql.kumparan.com
 0.0.0.0 gratisnetwork.com
@@ -14017,6 +14023,7 @@
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
 0.0.0.0 link-booster.de
+0.0.0.0 link-reports-eu.truecaller.com
 0.0.0.0 link-reports-noneu.truecaller.com
 0.0.0.0 link.ad-center.com
 0.0.0.0 link.brightcove.com
@@ -14245,6 +14252,7 @@
 0.0.0.0 loggia-deauville.com
 0.0.0.0 logging.adtilt.com
 0.0.0.0 logging.at.atwola.com
+0.0.0.0 logging5.truecaller.com
 0.0.0.0 logic.perfecttds.net
 0.0.0.0 login.adfox.ru
 0.0.0.0 login.cxense.com
@@ -17498,6 +17506,7 @@
 0.0.0.0 pixel.tapad.comp.skimresources.com
 0.0.0.0 pixel.titjolacruso.info
 0.0.0.0 pixel.tontwiredat.info
+0.0.0.0 pixel.truecaller.com
 0.0.0.0 pixel.typacodosof.info
 0.0.0.0 pixel.vdo.ai
 0.0.0.0 pixel.watch
@@ -18102,6 +18111,9 @@
 0.0.0.0 preprod.adswizz.com
 0.0.0.0 prequire.info
 0.0.0.0 presage.io
+0.0.0.0 presence-gcp-asia-south1.truecaller.com
+0.0.0.0 presence-grpc-noneu.truecaller.com
+0.0.0.0 presence-grpc.truecaller.com
 0.0.0.0 presentation-hkg1.turn.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 preskalyn.com
@@ -21622,6 +21634,8 @@
 0.0.0.0 tagcontrolapi.evidon.com
 0.0.0.0 tagcontrolcollector.evidon.com
 0.0.0.0 taggify.net
+0.0.0.0 tagging5-noneu.truecaller.com
+0.0.0.0 tagging5.truecaller.com
 0.0.0.0 tagila.adk2.co
 0.0.0.0 tagjunction.com
 0.0.0.0 tagmanager.smartadserver.com
@@ -24305,6 +24319,7 @@
 0.0.0.0 user-sync-mycujoo.adhese.com	
 0.0.0.0 user-sync-orange.adhese.com
 0.0.0.0 user-sync.adhese.com
+0.0.0.0 userapps.truecaller.com
 0.0.0.0 usercash.com
 0.0.0.0 userdata.andrcool.com
 0.0.0.0 usergrid.com
