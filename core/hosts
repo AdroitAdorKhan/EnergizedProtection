@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.036
-# Release: 036
-# Entries: 27,733
+# Version: 20.02.037
+# Release: 037
+# Entries: 27,732
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 05 Feb 20 18:00:18
+# Updated: Thu, 06 Feb 20 00:00:25
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -26592,7 +26592,6 @@
 0.0.0.0 www.puserving.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.pvtizjqlcvj.com
-0.0.0.0 www.pwondjwwgqahw.com
 0.0.0.0 www.qcoldtui1999.com
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qksrv.net
