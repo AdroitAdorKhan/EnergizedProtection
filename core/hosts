@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.036
 # Release: 036
-# Entries: 27,737
+# Entries: 27,733
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 05 Feb 20 00:00:22
+# Updated: Wed, 05 Feb 20 06:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5311,7 +5311,6 @@
 0.0.0.0 assoass.global
 0.0.0.0 assoc-amazon.com
 0.0.0.0 assoc-amazon.fr
-0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-us.amazon-adsystem.com
 0.0.0.0 assurland.speedera.net
 0.0.0.0 ast.adsperf.com
@@ -19509,7 +19508,6 @@
 0.0.0.0 s1.thstats.com
 0.0.0.0 s10.addthis.com
 0.0.0.0 s10.hiadspaces.ero-advertising.com
-0.0.0.0 s10.hipaces.ero-advertising.com
 0.0.0.0 s10.his.ero-advertising.com
 0.0.0.0 s10.hispaces.ero-advertising.com
 0.0.0.0 s10.histas.ero-advertising.com
@@ -25678,7 +25676,6 @@
 0.0.0.0 www.adwolf.ru
 0.0.0.0 www.adworldmedia.com
 0.0.0.0 www.adworx.at
-0.0.0.0 www.adwpaces.ero-advertising.com
 0.0.0.0 www.adxmeb.com
 0.0.0.0 www.adxtro.com
 0.0.0.0 www.adzerk.com
@@ -26690,7 +26687,6 @@
 0.0.0.0 www.s.clickiocdn.com
 0.0.0.0 www.s.ero-advertising.com
 0.0.0.0 www.s.update.moatads.com
-0.0.0.0 www.s10.hiadspaces.ero-advertising.com
 0.0.0.0 www.s10.hipaces.ero-advertising.com
 0.0.0.0 www.s10.his.ero-advertising.com
 0.0.0.0 www.s10.hispaces.ero-advertising.com
