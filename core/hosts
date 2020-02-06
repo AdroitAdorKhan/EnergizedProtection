@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.037
 # Release: 037
-# Entries: 27,730
+# Entries: 27,726
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 06 Feb 20 12:00:17
+# Updated: Thu, 06 Feb 20 18:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1518,7 +1518,6 @@
 0.0.0.0 ad2up.com
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 ad3.adriver.ru
-0.0.0.0 ad3.adspaces.ero-advertising.com
 0.0.0.0 ad3.api.ero-advertising.com
 0.0.0.0 ad3.banners.ero-advertising.com
 0.0.0.0 ad3.eu
@@ -9481,7 +9480,6 @@
 0.0.0.0 dts.ushareit.com
 0.0.0.0 dtstesting.com
 0.0.0.0 dtstr.adgear.com
-0.0.0.0 dtta.ero-advertising.com
 0.0.0.0 dtzads.com
 0.0.0.0 duapps.com
 0.0.0.0 dub-1-apex.go.sonobi.com
@@ -25534,7 +25532,6 @@
 0.0.0.0 www.ad2.banners.ero-advertising.com
 0.0.0.0 www.ad2.ero-advertising.com
 0.0.0.0 www.ad2.thumbs.ero-advertising.com
-0.0.0.0 www.ad3.adspaces.ero-advertising.com
 0.0.0.0 www.ad3.api.ero-advertising.com
 0.0.0.0 www.ad3.banners.ero-advertising.com
 0.0.0.0 www.ad3.fpa.ero-advertising.com
@@ -26001,7 +25998,6 @@
 0.0.0.0 www.dragonawaken.com.de
 0.0.0.0 www.drivenetwork.ru
 0.0.0.0 www.dt2xr6g2i5.com
-0.0.0.0 www.dtta.ero-advertising.com
 0.0.0.0 www.duapps.com
 0.0.0.0 www.e-5682.adzerk.net
 0.0.0.0 www.e-9675.adzerk.net
