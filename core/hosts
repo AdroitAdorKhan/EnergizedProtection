@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.037
 # Release: 037
-# Entries: 27,732
+# Entries: 27,730
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 06 Feb 20 06:00:27
+# Updated: Thu, 06 Feb 20 12:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1420,7 +1420,6 @@
 0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.tw.doubleclick.net
-0.0.0.0 ad.twitchguru.com
 0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 ad.unikat.at
 0.0.0.0 ad.unimhk.com
@@ -2393,7 +2392,6 @@
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.foxnews.com
-0.0.0.0 ads.ft.com
 0.0.0.0 ads.fusepowered.com
 0.0.0.0 ads.gamecity.net
 0.0.0.0 ads.gamespyid.com
