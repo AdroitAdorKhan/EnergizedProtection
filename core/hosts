@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.038
 # Release: 038
-# Entries: 27,725
+# Entries: 27,728
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 07 Feb 20 00:00:20
+# Updated: Fri, 07 Feb 20 06:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2312,6 +2312,7 @@
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.blogherads.com
+0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
@@ -2562,6 +2563,7 @@
 0.0.0.0 ads.sofcom.com.au
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.sonobi.com
+0.0.0.0 ads.space.com
 0.0.0.0 ads.sparkflow.net
 0.0.0.0 ads.speedfinancial.online
 0.0.0.0 ads.sprout-ad.com
@@ -6388,7 +6390,6 @@
 0.0.0.0 browser-tools.systems
 0.0.0.0 browser.baidu.com
 0.0.0.0 browser.cloud.uc.cn
-0.0.0.0 browser.cloud.ucweb.com
 0.0.0.0 browser.cloud.wx.ucdns.uc.cn
 0.0.0.0 browsermine.com
 0.0.0.0 browserpusher.com
@@ -10698,7 +10699,6 @@
 0.0.0.0 forbesvid-a.akamaihd.net
 0.0.0.0 forced-lose.de
 0.0.0.0 forcedolphin.com
-0.0.0.0 forecast.ucweb.com
 0.0.0.0 forecast.uodoo.com
 0.0.0.0 forestchild-leather.com
 0.0.0.0 forex-affiliate.com
@@ -16608,7 +16608,6 @@
 0.0.0.0 optimost.com
 0.0.0.0 optimusblue.com
 0.0.0.0 optinemailpro.com
-0.0.0.0 optinmonster.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
@@ -20408,6 +20407,7 @@
 0.0.0.0 sls-api.wshareit.com
 0.0.0.0 slughtessing.info
 0.0.0.0 slushpool.com
+0.0.0.0 sm.monitoring.stackpath.com
 0.0.0.0 sm3na.com
 0.0.0.0 smaato.adfonic.net
 0.0.0.0 smaato.com
@@ -20457,7 +20457,6 @@
 0.0.0.0 smetrics.politico.com
 0.0.0.0 smetrics.ryanair.com
 0.0.0.0 smetrics.washingtonpost.com
-0.0.0.0 smiledirectclub.com
 0.0.0.0 smilered.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smintmouse.com
@@ -23468,6 +23467,7 @@
 0.0.0.0 tracking.shopstylecollective.com
 0.0.0.0 tracking.socketlabs.com
 0.0.0.0 tracking.sokrati.com
+0.0.0.0 tracking.stackpath.com
 0.0.0.0 tracking.stampready.net
 0.0.0.0 tracking.sumatoad.com
 0.0.0.0 tracking.supeera.com
@@ -26176,6 +26176,7 @@
 0.0.0.0 www.hibids10.com
 0.0.0.0 www.hicpm10.com
 0.0.0.0 www.hilltopads.net
+0.0.0.0 www.histats.com
 0.0.0.0 www.hit.gemius.pl
 0.0.0.0 www.hitcpm.com
 0.0.0.0 www.hkoxlirf.com
@@ -26437,6 +26438,7 @@
 0.0.0.0 www.netgearrouterhelp.com
 0.0.0.0 www.netsize.com
 0.0.0.0 www.netweek.it
+0.0.0.0 www.newlimitedoffer.com
 0.0.0.0 www.newre-conversions.clickmeter.com
 0.0.0.0 www.newrelic.com
 0.0.0.0 www.newspot.co
@@ -26585,6 +26587,7 @@
 0.0.0.0 www.puserving.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.pvtizjqlcvj.com
+0.0.0.0 www.pwondjwwgqahw.com
 0.0.0.0 www.qcoldtui1999.com
 0.0.0.0 www.qenklbb.com
 0.0.0.0 www.qksrv.net
