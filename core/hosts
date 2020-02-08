@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.039
 # Release: 039
-# Entries: 27,728
+# Entries: 27,725
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 08 Feb 20 12:00:17
+# Updated: Sat, 08 Feb 20 18:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -10847,7 +10847,6 @@
 0.0.0.0 freecontent.com
 0.0.0.0 freecontent.date
 0.0.0.0 freecontent.faith
-0.0.0.0 freecontent.info
 0.0.0.0 freecontent.net
 0.0.0.0 freecontent.party
 0.0.0.0 freecontent.stream
@@ -11748,7 +11747,6 @@
 0.0.0.0 haupsoti.net
 0.0.0.0 havamedia.net
 0.0.0.0 havenwrite.com
-0.0.0.0 havio.pl
 0.0.0.0 hawebs.adform.com
 0.0.0.0 hazingfun.com
 0.0.0.0 hb-247.com
@@ -15094,7 +15092,6 @@
 0.0.0.0 minero.ru
 0.0.0.0 minerpool.net
 0.0.0.0 miners.pro
-0.0.0.0 minerxmr.com
 0.0.0.0 minescripts.info
 0.0.0.0 mineshaft.ml
 0.0.0.0 minether.co
