@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.040
 # Release: 040
-# Entries: 27,725
+# Entries: 27,718
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 09 Feb 20 00:00:21
+# Updated: Sun, 09 Feb 20 06:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3207,7 +3207,6 @@
 0.0.0.0 adsrvr.io
 0.0.0.0 adsrvr.org
 0.0.0.0 adssl-dc2.adtech.de
-0.0.0.0 adsspaces.ero-advertising.com
 0.0.0.0 adsstat.com
 0.0.0.0 adstaces.ero-advertising.com
 0.0.0.0 adstage.io
@@ -15052,7 +15051,6 @@
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 middycdn-a.akamaihd.net
-0.0.0.0 midnightclicking.com
 0.0.0.0 midogtest.net
 0.0.0.0 milanospurghi.com
 0.0.0.0 milasparreprob.club
@@ -15070,7 +15068,6 @@
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmemobile.com
 0.0.0.0 mindshare.de
-0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minecraftpool.com
 0.0.0.0 minemonero.pro
 0.0.0.0 minemoney.co
@@ -15107,7 +15104,6 @@
 0.0.0.0 minicamerass.club
 0.0.0.0 minimumpay.info
 0.0.0.0 mining-pool.io
-0.0.0.0 mining.akroma.org
 0.0.0.0 mining4.co.uk
 0.0.0.0 miningexpress.com
 0.0.0.0 miningfield.com
@@ -21949,7 +21945,6 @@
 0.0.0.0 thenursetoday.com
 0.0.0.0 theofficeonpirie.com
 0.0.0.0 theonecdn.com
-0.0.0.0 thepiratebay.cr
 0.0.0.0 therapistla.com
 0.0.0.0 therentsse.pro
 0.0.0.0 therichkids.com
@@ -25530,7 +25525,6 @@
 0.0.0.0 www.ad2.thumbs.ero-advertising.com
 0.0.0.0 www.ad3.api.ero-advertising.com
 0.0.0.0 www.ad3.banners.ero-advertising.com
-0.0.0.0 www.ad3.fpa.ero-advertising.com
 0.0.0.0 www.ad4.adspaces.ero-advertising.com
 0.0.0.0 www.ad4.api.ero-advertising.com
 0.0.0.0 www.ad4.banners.ero-advertising.com
@@ -25640,7 +25634,6 @@
 0.0.0.0 www.adspyglass.com
 0.0.0.0 www.adsrv.me
 0.0.0.0 www.adsrvr.org
-0.0.0.0 www.adsspaces.ero-advertising.com
 0.0.0.0 www.adstaces.ero-advertising.com
 0.0.0.0 www.adsterra.com
 0.0.0.0 www.adstrack45.com
