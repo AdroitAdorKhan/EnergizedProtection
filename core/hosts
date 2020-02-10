@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.041
 # Release: 041
-# Entries: 27,718
+# Entries: 27,716
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Feb 20 00:00:22
+# Updated: Mon, 10 Feb 20 06:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2534,7 +2534,6 @@
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.renren.com
-0.0.0.0 ads.resoom.de
 0.0.0.0 ads.rmb.adhese.com
 0.0.0.0 ads.roularta.adhese.com
 0.0.0.0 ads.rss-services.com
@@ -19103,7 +19102,6 @@
 0.0.0.0 revmob.com
 0.0.0.0 revresponse.com
 0.0.0.0 revrtb.net
-0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 rewardisement.com
 0.0.0.0 rewardsaffiliates.com
