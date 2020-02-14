@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.045
 # Release: 045
-# Entries: 27,744
+# Entries: 27,741
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 14 Feb 20 00:00:21
+# Updated: Fri, 14 Feb 20 06:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1014,7 +1014,6 @@
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-test1.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-fe-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-fe-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -1022,7 +1021,6 @@
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb-adx.amazon-adsystem.com
-0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-test.amazon-adsystem.com
 0.0.0.0 aax-us-east-test1.amazon-adsystem.com
 0.0.0.0 aax-us-east-test2.amazon-adsystem.com
@@ -5264,7 +5262,6 @@
 0.0.0.0 asiatrip.info
 0.0.0.0 asicpool.com
 0.0.0.0 asicpool.info
-0.0.0.0 asicpool.org
 0.0.0.0 asicsgelcontend4.com
 0.0.0.0 asicsreduceri.com
 0.0.0.0 asicssport.club
