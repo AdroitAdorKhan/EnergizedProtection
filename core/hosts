@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.046
-# Release: 046
-# Entries: 27,738
+# Version: 20.02.047
+# Release: 047
+# Entries: 27,737
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 15 Feb 20 18:00:17
+# Updated: Sun, 16 Feb 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5171,7 +5171,6 @@
 0.0.0.0 aq.goodsblock.mgid.com
 0.0.0.0 aqnaqn.com
 0.0.0.0 aqotbmnzra.com
-0.0.0.0 aqqgli3vle.bid
 0.0.0.0 aquaticowl.com
 0.0.0.0 aqwmiphorpa.com
 0.0.0.0 ar-gb.adskeeper.co.uk
