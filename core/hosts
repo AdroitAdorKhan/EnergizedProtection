@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.046
 # Release: 046
-# Entries: 27,739
+# Entries: 27,738
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 15 Feb 20 06:00:20
+# Updated: Sat, 15 Feb 20 12:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1191,7 +1191,6 @@
 0.0.0.0 ad-bay.com
 0.0.0.0 ad-blacklist.p24.hu
 0.0.0.0 ad-brix.com
-0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 ad-center.com
 0.0.0.0 ad-check.disconnect.me
 0.0.0.0 ad-clicks.com
