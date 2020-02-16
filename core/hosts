@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.047
-# Release: 047
-# Entries: 27,737
+# Version: 20.02.048
+# Release: 048
+# Entries: 27,749
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 16 Feb 20 18:00:19
+# Updated: Mon, 17 Feb 20 00:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4252,6 +4252,7 @@
 0.0.0.0 analytics.lucidchart.eu
 0.0.0.0 analytics.lucidpress.com
 0.0.0.0 analytics.luckypool.io
+0.0.0.0 analytics.m2.ai
 0.0.0.0 analytics.ma.tune.com
 0.0.0.0 analytics.magelan.it
 0.0.0.0 analytics.mail-corp.com
@@ -4590,7 +4591,9 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics.zillowcloud.com
 0.0.0.0 analytics.zoho.com
+0.0.0.0 analytics2.m2.ai
 0.0.0.0 analytics2.tercept.com
+0.0.0.0 analytics2orig.m2.ai
 0.0.0.0 analytics6.snoobi.com
 0.0.0.0 analyticselb.localytics.com
 0.0.0.0 analyzer.nugg.ad
@@ -5470,7 +5473,6 @@
 0.0.0.0 avres.net
 0.0.0.0 avsads.com
 0.0.0.0 avsponsor.biz
-0.0.0.0 avualrhg9p.bid
 0.0.0.0 aw-gb.mgid.com
 0.0.0.0 aw.dw.impact-ad.jp
 0.0.0.0 awake-stats.jpush.cn
@@ -5816,6 +5818,11 @@
 0.0.0.0 beaconads.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 bead-ad.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beap-bc.yahoo.com
@@ -5956,6 +5963,7 @@
 0.0.0.0 bfm.adfox.ru
 0.0.0.0 bfmio.com
 0.0.0.0 bfp.bidgear.com
+0.0.0.0 bgd1.purplepatch.online
 0.0.0.0 bgdccajgbfgijiaccba.ru
 0.0.0.0 bgrndi.com
 0.0.0.0 bh.ads.justpremium.com
@@ -11844,6 +11852,7 @@
 0.0.0.0 helptofix.co
 0.0.0.0 hengaredi.pro
 0.0.0.0 henorightontor.pro
+0.0.0.0 hentai.cafe
 0.0.0.0 hentaicounter.com
 0.0.0.0 hentaifapland.com
 0.0.0.0 heplopetithe.pro
@@ -15391,6 +15400,7 @@
 0.0.0.0 monika-scraplife.com
 0.0.0.0 monitor.clickcease.com
 0.0.0.0 monitor.outbrain.com
+0.0.0.0 monitor.purplepatch.online
 0.0.0.0 monitor.sddan.mgr.consensu.org
 0.0.0.0 monitor.tercept.com
 0.0.0.0 monitor.yieldbird.com
@@ -15509,6 +15519,7 @@
 0.0.0.0 ms.adsperf.com
 0.0.0.0 ms.analytics.live.com
 0.0.0.0 ms.applovin.com
+0.0.0.0 ms.purplepatch.online
 0.0.0.0 msads.net
 0.0.0.0 msapi.appsflyer.com
 0.0.0.0 msdkevents.1rx.io
@@ -17872,7 +17883,6 @@
 0.0.0.0 polokz.com
 0.0.0.0 polomc.com
 0.0.0.0 poloniex.agency
-0.0.0.0 poloniex.com
 0.0.0.0 poloniex.live
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
@@ -18409,6 +18419,7 @@
 0.0.0.0 purch.demand.go.sonobi.com
 0.0.0.0 purch.sync.go.sonobi.com
 0.0.0.0 purebros.it
+0.0.0.0 purplepatch.online
 0.0.0.0 puserving.com
 0.0.0.0 push-cdn.wshareit.com
 0.0.0.0 push-me-up.com
@@ -26591,6 +26602,7 @@
 0.0.0.0 www.pulsepoint.com
 0.0.0.0 www.punchsub.net
 0.0.0.0 www.purebros.it
+0.0.0.0 www.purplepatch.online
 0.0.0.0 www.puserving.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.pvtizjqlcvj.com
