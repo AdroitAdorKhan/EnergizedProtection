@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.048
-# Release: 048
-# Entries: 27,749
+# Version: 20.02.049
+# Release: 049
+# Entries: 27,750
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Feb 20 18:00:17
+# Updated: Tue, 18 Feb 20 00:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -16146,6 +16146,7 @@
 0.0.0.0 notice.central-messages.com
 0.0.0.0 notification-system.tools
 0.0.0.0 notification-time.com
+0.0.0.0 notifications.tubecup.net
 0.0.0.0 notifications.website
 0.0.0.0 notify-monad.com
 0.0.0.0 notify.bugsnag.com
@@ -18752,7 +18753,6 @@
 0.0.0.0 rb-sk.com
 0.0.0.0 rb-sk.org
 0.0.0.0 rb.adnxs.com
-0.0.0.0 rb1.design.ru
 0.0.0.0 rbaef.com
 0.0.0.0 rbbrn.com
 0.0.0.0 rbbs.net
@@ -21175,6 +21175,7 @@
 0.0.0.0 stats.speedclicks.ero-advertising.com
 0.0.0.0 stats.systemres.com.re.getclicky.com
 0.0.0.0 stats.townnews.com
+0.0.0.0 stats.tubecup.net
 0.0.0.0 stats.webclicktracer.com.re.getclicky.com
 0.0.0.0 stats.webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 stats.webstarts.com.re.getclicky.com
