@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 27,750
+# Entries: 27,748
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 06:00:20
+# Updated: Tue, 18 Feb 20 12:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3159,7 +3159,6 @@
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
 0.0.0.0 adsolutions.yp.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adspaces.ero-ades.ero-advertising.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -8456,7 +8455,6 @@
 0.0.0.0 cryptoserb.com
 0.0.0.0 cryptotab.net
 0.0.0.0 cryptoverto.com
-0.0.0.0 cryptown.netlify.com
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.genieesspv.jp
 0.0.0.0 cs.gssprt.jp
