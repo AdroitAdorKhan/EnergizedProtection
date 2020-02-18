@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 27,751
+# Entries: 27,750
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:39:27
+# Updated: Tue, 18 Feb 20 06:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -11001,7 +11001,6 @@
 0.0.0.0 g17media.com
 0.0.0.0 g1hmcmp.com
 0.0.0.0 g1thub.com
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2247755016.com
 0.0.0.0 g2281971609.com
 0.0.0.0 g2438896021.com
