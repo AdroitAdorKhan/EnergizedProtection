@@ -29,7 +29,7 @@
 # Entries: 27,748
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:00:22
+# Updated: Wed, 19 Feb 20 06:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1171,7 +1171,6 @@
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 activity.uc.cn
 0.0.0.0 activity.umeng.com
-0.0.0.0 activity.windows.com
 0.0.0.0 activity.wshareit.com
 0.0.0.0 actpx.com
 0.0.0.0 actualdeals.com
@@ -7952,6 +7951,7 @@
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-soompi.viki.io
 0.0.0.0 collector.abc-host.net.au
+0.0.0.0 collector.bikroy.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.cloudmosa.net
 0.0.0.0 collector.eqads.com
@@ -17457,7 +17457,6 @@
 0.0.0.0 pix.user-clicks.com
 0.0.0.0 pix2.btrll.com
 0.0.0.0 pixazza.com
-0.0.0.0 pixel-apc.adsymptotic.com
 0.0.0.0 pixel-insight.ucweb.com
 0.0.0.0 pixel-sc2.adsymptotic.com
 0.0.0.0 pixel-test.tapad.com
@@ -23256,6 +23255,7 @@
 0.0.0.0 tracker.affiliate.media.net
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.bestshopping.com
+0.0.0.0 tracker.bikroy.com
 0.0.0.0 tracker.btzoo.eu
 0.0.0.0 tracker.bumq.com
 0.0.0.0 tracker.cdn-analytics.host
