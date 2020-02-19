@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 27,748
+# Entries: 27,746
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 06:00:18
+# Updated: Wed, 19 Feb 20 12:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -16716,7 +16716,6 @@
 0.0.0.0 outlookemailtech.com
 0.0.0.0 outlookproblemshelp.com
 0.0.0.0 outlookrepairhelp.com
-0.0.0.0 outlooksetting.com
 0.0.0.0 outlooksettings.com
 0.0.0.0 outloud.outbrain.com
 0.0.0.0 outrain.com
@@ -23066,7 +23065,6 @@
 0.0.0.0 track.taohaobuy.com
 0.0.0.0 track.tap4joy.com
 0.0.0.0 track.tapatalk.com
-0.0.0.0 track.tapgerine.net
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tasty-natural-lifestyles.com
 0.0.0.0 track.tastyfoodcombos.com
