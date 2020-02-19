@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 27,746
+# Entries: 27,745
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:00:18
+# Updated: Wed, 19 Feb 20 18:00:27
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -4838,7 +4838,6 @@
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.cxense.com
-0.0.0.0 api.data-monitor.info
 0.0.0.0 api.dedipass.com
 0.0.0.0 api.direct.yandex.com
 0.0.0.0 api.dsp.batmobi.net
