@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 27,815
+# Entries: 27,814
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 06:00:20
+# Updated: Thu, 20 Feb 20 12:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1663,7 +1663,6 @@
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.lv
-0.0.0.0 adclick.pk
 0.0.0.0 adclick.ushareit.com
 0.0.0.0 adclick.zkmobi.com
 0.0.0.0 adclickafrica.com
