@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.053
-# Release: 053
-# Entries: 27,813
+# Version: 20.02.054
+# Release: 054
+# Entries: 27,830
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 18:00:16
+# Updated: Sun, 23 Feb 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1549,6 +1549,7 @@
 0.0.0.0 ad4mat.net
 0.0.0.0 ad4screen.com
 0.0.0.0 ad5.adriver.ru
+0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.contentabc.com
 0.0.0.0 ad5.fpa.ero-advertising.com
@@ -2819,6 +2820,7 @@
 0.0.0.0 adserver.nexage.com
 0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.oddschecker.com
+0.0.0.0 adserver.ouedkniss.com
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adserver.pazienti.it
 0.0.0.0 adserver.pl
@@ -3497,6 +3499,7 @@
 0.0.0.0 adxcore.com
 0.0.0.0 adxm.hasmobi.net
 0.0.0.0 adxmeb.com
+0.0.0.0 adxmed.com
 0.0.0.0 adxpansion.com
 0.0.0.0 adxportal.admixer.net
 0.0.0.0 adxpose.com
@@ -4337,6 +4340,7 @@
 0.0.0.0 analytics.orbee.co
 0.0.0.0 analytics.orenshmu.com
 0.0.0.0 analytics.osvaldo.pt
+0.0.0.0 analytics.ouedkniss.com
 0.0.0.0 analytics.ovative.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
@@ -5483,6 +5487,7 @@
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awcpmsaiv.com
 0.0.0.0 awecrptjmp.com
+0.0.0.0 aweinkbum.com
 0.0.0.0 awempire.com
 0.0.0.0 aweproto.com
 0.0.0.0 awin.com
@@ -6474,6 +6479,7 @@
 0.0.0.0 bunny-net.com
 0.0.0.0 buran.nugg.ad
 0.0.0.0 burantz.com
+0.0.0.0 burbaabeg.com
 0.0.0.0 burstly.ads.nexage.com
 0.0.0.0 burstly.com
 0.0.0.0 burstmedia.com
@@ -14423,6 +14429,7 @@
 0.0.0.0 lympstoneband.co.uk
 0.0.0.0 lyncdiscover.vibrantmedia.com
 0.0.0.0 lyncdiscover.xaxis.com
+0.0.0.0 lynormationpas.info
 0.0.0.0 lyr.pubmatic.com
 0.0.0.0 lyr77000c.pubmatic.com
 0.0.0.0 lyr88000c.pubmatic.com
@@ -15837,6 +15844,7 @@
 0.0.0.0 nbylhvbswplcj.com
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ncedivisite.info
+0.0.0.0 ncefoundanges.info
 0.0.0.0 nclex.me
 0.0.0.0 ncompra.com
 0.0.0.0 ncrjsserver.com
@@ -16328,6 +16336,7 @@
 0.0.0.0 oadj.taptica.com
 0.0.0.0 oainternetservices.com
 0.0.0.0 oakmanner.ga
+0.0.0.0 oakpyxyea.com
 0.0.0.0 oalselry.com
 0.0.0.0 oao-js-tag.onemobile.yahoo.com
 0.0.0.0 oappi.com
@@ -16714,6 +16723,7 @@
 0.0.0.0 othersonline.com
 0.0.0.0 otify.bugsnag.com
 0.0.0.0 otnolatrnup.com
+0.0.0.0 ouedkniss.com
 0.0.0.0 ouhegapy.net
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 oupushee.com
@@ -18008,7 +18018,9 @@
 0.0.0.0 pop.ero-advertising.com
 0.0.0.0 pop.eroadvertising.com
 0.0.0.0 pop.kissmetrics.com
+0.0.0.0 pop.ouedkniss.com
 0.0.0.0 pop.trafficshop.com
+0.0.0.0 pop3.ouedkniss.com
 0.0.0.0 popacs.ero-advertising.com
 0.0.0.0 popadon.com
 0.0.0.0 popads.ero-advertising.com
@@ -18429,6 +18441,7 @@
 0.0.0.0 pubnation.com
 0.0.0.0 pubnative.net
 0.0.0.0 pubreport.webeyemob.com
+0.0.0.0 pubs.ouedkniss.com
 0.0.0.0 pubsgcmpixel.onedigitalad.com
 0.0.0.0 pubx.co
 0.0.0.0 pubyun.com
@@ -18918,7 +18931,6 @@
 0.0.0.0 receptivereaction.com
 0.0.0.0 recibimos
 0.0.0.0 recino.com
-0.0.0.0 reckendrees.systems
 0.0.0.0 reckintersupwas.info
 0.0.0.0 reckless-addict.net
 0.0.0.0 reco.flow.headline.uodoo.com
@@ -19472,6 +19484,7 @@
 0.0.0.0 ruranterropti.pro
 0.0.0.0 rusinlepading.pro
 0.0.0.0 rusuka.net
+0.0.0.0 rutadzbeg.site
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 rutor.info
 0.0.0.0 rutrk.org
@@ -20511,6 +20524,7 @@
 0.0.0.0 smartoffers.tabacco.space
 0.0.0.0 smartshare.tv
 0.0.0.0 smarttds.ru
+0.0.0.0 smartverifysite.com
 0.0.0.0 smartyads.com
 0.0.0.0 smashseek.com
 0.0.0.0 smashsurprise.com
@@ -21037,6 +21051,7 @@
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.openinstall.io
+0.0.0.0 stat.ouedkniss.com
 0.0.0.0 stat.pl
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stat.smartyads.com
@@ -22438,6 +22453,7 @@
 0.0.0.0 track.adwad.ru
 0.0.0.0 track.adwo.com
 0.0.0.0 track.adxmea.com
+0.0.0.0 track.adxmed.com
 0.0.0.0 track.adxmi.com
 0.0.0.0 track.afcpatrk.com
 0.0.0.0 track.affiliate-b.com
@@ -26570,6 +26586,7 @@
 0.0.0.0 www.opmnstr.com
 0.0.0.0 www.optimizely.com
 0.0.0.0 www.orion.iad.appboy.com
+0.0.0.0 www.ouedkniss.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlookemailsetup.com
 0.0.0.0 www.outlookrepairhelp.com
