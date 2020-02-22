@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.053
 # Release: 053
-# Entries: 27,814
+# Entries: 27,813
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:00:19
+# Updated: Sat, 22 Feb 20 06:00:26
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1549,7 +1549,6 @@
 0.0.0.0 ad4mat.net
 0.0.0.0 ad4screen.com
 0.0.0.0 ad5.adriver.ru
-0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.contentabc.com
 0.0.0.0 ad5.fpa.ero-advertising.com
@@ -3739,6 +3738,7 @@
 0.0.0.0 akamai.o.brightcove.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akamai.taboola.com
+0.0.0.0 akashdayalgroups.com
 0.0.0.0 akavita.com
 0.0.0.0 akestrofst.info
 0.0.0.0 akhbarak.uodoo.com
@@ -7757,6 +7757,7 @@
 0.0.0.0 clothingsshopping.club
 0.0.0.0 clotholip.xyz
 0.0.0.0 clothsdinfg.xyz
+0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-test.adhese.com
 0.0.0.0 cloud-test.adhese.com			
 0.0.0.0 cloud-us.analytics-egain.com
@@ -25491,7 +25492,6 @@
 0.0.0.0 ww57.smartadserver.com
 0.0.0.0 ww7.69oxt4q05.com
 0.0.0.0 wwa.ero-advertising.com
-0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wwbn.com
 0.0.0.0 wwmcuhvqaf.com
 0.0.0.0 wws.ero-advertising.com
@@ -25615,7 +25615,6 @@
 0.0.0.0 www.ad2.thumbs.ero-advertising.com
 0.0.0.0 www.ad3.api.ero-advertising.com
 0.0.0.0 www.ad3.banners.ero-advertising.com
-0.0.0.0 www.ad4.adspaces.ero-advertising.com
 0.0.0.0 www.ad4.api.ero-advertising.com
 0.0.0.0 www.ad4.banners.ero-advertising.com
 0.0.0.0 www.ad4.layerads.ero-advertising.com
@@ -25770,6 +25769,7 @@
 0.0.0.0 www.agkn.com
 0.0.0.0 www.ahi26.voluumtrk.com
 0.0.0.0 www.aidps.atdmt.com
+0.0.0.0 www.akashdayalgroups.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.allgames4you.mobi
 0.0.0.0 www.allyoucan.it
@@ -26311,7 +26311,6 @@
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioh9.com
 0.0.0.0 www.iplogger.com
-0.0.0.0 www.iplogger.org
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.ipuss.tv
