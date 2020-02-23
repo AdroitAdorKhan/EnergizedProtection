@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.054
-# Release: 054
-# Entries: 27,830
+# Version: 20.02.055
+# Release: 055
+# Entries: 27,833
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 18:00:23
+# Updated: Mon, 24 Feb 20 00:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -10546,6 +10546,7 @@
 0.0.0.0 ff.win.taobao.com
 0.0.0.0 ff04d18e06.com
 0.0.0.0 ffdrg.ml
+0.0.0.0 ffilelogapp.nimo.tv
 0.0.0.0 ffruntimechecker.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fgbaaiggaijibbbad.ru
@@ -15004,6 +15005,7 @@
 0.0.0.0 metranetprod.amobee.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.kleientertainment.com
+0.0.0.0 metric.nimo.tv
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metricfast.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
@@ -27614,6 +27616,7 @@
 0.0.0.0 ylkhts.cc
 0.0.0.0 ylkkp.com
 0.0.0.0 yllix.com
+0.0.0.0 ylog.nimo.tv
 0.0.0.0 ylx-1.com
 0.0.0.0 ylx-4.com
 0.0.0.0 ylx-i.advertica-cdn2.com
