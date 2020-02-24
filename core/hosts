@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.055
-# Release: 055
-# Entries: 27,833
+# Version: 20.02.056
+# Release: 056
+# Entries: 27,835
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:00:20
+# Updated: Tue, 25 Feb 20 00:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -906,6 +906,7 @@
 0.0.0.0 a.dlx.addthis.com
 0.0.0.0 a.dtprofit.com
 0.0.0.0 a.ero-advertising.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.exosrv.com
@@ -926,6 +927,7 @@
 0.0.0.0 a.mp.uc.cn
 0.0.0.0 a.net-c61.stream
 0.0.0.0 a.ns.ish.atdmt.com
+0.0.0.0 a.nytimes.com
 0.0.0.0 a.o333o.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optmstr.com
