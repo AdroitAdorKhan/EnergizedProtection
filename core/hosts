@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.058
 # Release: 058
-# Entries: 27,834
+# Entries: 27,833
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 27 Feb 20 00:00:25
+# Updated: Thu, 27 Feb 20 06:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -15120,7 +15120,6 @@
 0.0.0.0 minerad.com
 0.0.0.0 minercircle.com
 0.0.0.0 minerclaim.net
-0.0.0.0 minereasy.com
 0.0.0.0 minerhills.com
 0.0.0.0 minermaniac.com
 0.0.0.0 minero-proxy-04.now.sh
