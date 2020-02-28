@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.059
 # Release: 059
-# Entries: 27,832
+# Entries: 27,828
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Feb 20 00:00:20
+# Updated: Fri, 28 Feb 20 06:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -7523,7 +7523,6 @@
 0.0.0.0 clevermining.com
 0.0.0.0 clevernt.com
 0.0.0.0 clevv.com
-0.0.0.0 clgserv.pro
 0.0.0.0 clic2pub.com
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click-it-now.online
@@ -7902,7 +7901,6 @@
 0.0.0.0 coin-miners.info
 0.0.0.0 coinad.com
 0.0.0.0 coinat.com
-0.0.0.0 coinblind.com
 0.0.0.0 coinblockers.com
 0.0.0.0 coincadence.com
 0.0.0.0 coincheck.com
@@ -25648,7 +25646,6 @@
 0.0.0.0 www.ad7.api.ero-advertising.com
 0.0.0.0 www.ad7.thumbs.ero-advertising.com
 0.0.0.0 www.ad8.adspaces.ero-advertising.com
-0.0.0.0 www.ad8.api.ero-advertising.com
 0.0.0.0 www.ad8.banners.ero-advertising.com
 0.0.0.0 www.adacts.com
 0.0.0.0 www.adagionet.com
@@ -26379,7 +26376,6 @@
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.junkcleaner2017.u.xoxknct.com
-0.0.0.0 www.kds.ero-advertising.com
 0.0.0.0 www.keepload.online
 0.0.0.0 www.kelkoo.com
 0.0.0.0 www.khlgauqt2000.com
