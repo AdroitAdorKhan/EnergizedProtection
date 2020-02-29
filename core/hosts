@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.060
 # Release: 060
-# Entries: 2,770
+# Entries: 2,666
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 29 Feb 20 12:00:17
+# Updated: Sat, 29 Feb 20 14:27:33
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -58,24 +58,15 @@
 0.0.0.0 24siete.tienda-online.com
 0.0.0.0 284419414.log.optimizely.com
 0.0.0.0 2baners.ero-advertising.com
-0.0.0.0 2ds.ero-advertising.com
-0.0.0.0 2fbanners.ero-advertising.com
-0.0.0.0 2fflatfee.ero-advertising.com
-0.0.0.0 2fspeedclicks.ero-advertising.com
 0.0.0.0 2ip.ru
 0.0.0.0 2no.co
-0.0.0.0 2way.org.uk
 0.0.0.0 30-day-change.com
 0.0.0.0 365games.es
-0.0.0.0 3ds.ero-advertising.com
-0.0.0.0 4436230.fls.doubleclick.net
-0.0.0.0 4448269.fls.doubleclick.net
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 568vovhs6ekbupjo.pro
 0.0.0.0 5kv261gjmq04c9.com
 0.0.0.0 75unpf.top
 0.0.0.0 91e2.com
-0.0.0.0 9ata.ero-advertising.com
 0.0.0.0 a.faymobi.com
 0.0.0.0 a.tvpage.com
 0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
@@ -89,13 +80,11 @@
 0.0.0.0 abs.ireaderm.net
 0.0.0.0 acasavalencia.es
 0.0.0.0 accionpro.es
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 achabab.es
 0.0.0.0 aclolek.es
 0.0.0.0 acme.top
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acs-pharmacy.com
-0.0.0.0 acspaces.ero-advertising.com
 0.0.0.0 ad.360in.com
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 ad.api.kaffnet.com
@@ -106,42 +95,24 @@
 0.0.0.0 ad.state.mi.us
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad0.adspaces.ero-advertising.com
-0.0.0.0 ad0.api.ero-advertising.com
-0.0.0.0 ad0.banners.ero-advertising.com
-0.0.0.0 ad0.data2.ero-advertising.com
-0.0.0.0 ad1.ads.ero-advertising.com
 0.0.0.0 ad1.adspaces.ero-advertising.com
 0.0.0.0 ad1.api.ero-advertising.com
 0.0.0.0 ad1.banners.ero-advertising.com
 0.0.0.0 ad1.ero-advertising.com
 0.0.0.0 ad2.adspaces.ero-advertising.com
-0.0.0.0 ad2.api.ero-advertising.com
-0.0.0.0 ad2.banners.ero-advertising.com
-0.0.0.0 ad2.ero-advertising.com
-0.0.0.0 ad2.thumbs.ero-advertising.com
 0.0.0.0 ad2iction.com
 0.0.0.0 ad3.adspaces.ero-advertising.com
-0.0.0.0 ad3.api.ero-advertising.com
-0.0.0.0 ad3.banners.ero-advertising.com
-0.0.0.0 ad3.fpa.ero-advertising.com
-0.0.0.0 ad4.adspaces.ero-advertising.com
 0.0.0.0 ad4.api.ero-advertising.com
 0.0.0.0 ad4.banners.ero-advertising.com
 0.0.0.0 ad4.com.cn
 0.0.0.0 ad4.layerads.ero-advertising.com
-0.0.0.0 ad4.thumbs.ero-advertising.com
 0.0.0.0 ad5.adspaces.ero-advertising.com
-0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad6.adspaces.ero-advertising.com
 0.0.0.0 ad6.banners.ero-advertising.com
 0.0.0.0 ad7.adspaces.ero-advertising.com
-0.0.0.0 ad7.api.ero-advertising.com
 0.0.0.0 ad7.banners.ero-advertising.com
 0.0.0.0 ad7.thumbs.ero-advertising.com
-0.0.0.0 ad8.adspaces.ero-advertising.com
-0.0.0.0 ad8.api.ero-advertising.com
-0.0.0.0 ad8.banners.ero-advertising.com
 0.0.0.0 adcl.pchome.com.tw
 0.0.0.0 ade-shop.com
 0.0.0.0 adeninavarra.es
@@ -155,18 +126,15 @@
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adolfodominguezes.com
 0.0.0.0 ads.alphonso.tv
-0.0.0.0 ads.chacomedia.com
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.feedly.com
 0.0.0.0 ads.proc.cc
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.yap.yahoo.com
-0.0.0.0 ads1.ero-advertising.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads5.truecaller.com
-0.0.0.0 adsances.ero-advertising.com
 0.0.0.0 adsbb.depositfiles.com
 0.0.0.0 adscan.yelabapp.com
 0.0.0.0 adserver.admost.com
@@ -177,14 +145,11 @@
 0.0.0.0 adspaces.ero-ades.ero-advertising.com
 0.0.0.0 adspaces.ero-apaces.ero-advertising.com
 0.0.0.0 adspaces2.ero-advertising.com
-0.0.0.0 adspaes.ero-advertising.com
 0.0.0.0 adspages.ero-advertising.com
 0.0.0.0 adspcces.ero-advertising.com
 0.0.0.0 adsspaces.ero-advertising.com
 0.0.0.0 adstaces.ero-advertising.com
 0.0.0.0 adtekmedia.com
-0.0.0.0 adv.axiatraders.com
-0.0.0.0 adv.grandonmedia.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adver10.clickmon.co.kr
 0.0.0.0 adver11.clickmon.co.kr
@@ -271,13 +236,11 @@
 0.0.0.0 api.adthor.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.applink.mob.com
-0.0.0.0 api.axiatraders.com
 0.0.0.0 api.b2c.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.eqmob.com
-0.0.0.0 api.grandonmedia.com
 0.0.0.0 api.ireaderm.net
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.moengage.com
@@ -285,7 +248,6 @@
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.rollbar.com
-0.0.0.0 api.segment.io
 0.0.0.0 api.stats.appa.pe
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.tvpage.com
@@ -302,8 +264,6 @@
 0.0.0.0 appcdn.tvpage.com
 0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
 0.0.0.0 appier.net
-0.0.0.0 apple.com-fasting.live
-0.0.0.0 apple.com-notice.info
 0.0.0.0 applianceswarehouse.com.au
 0.0.0.0 applog.camera360.com
 0.0.0.0 applog.uc.cn
@@ -383,9 +343,6 @@
 0.0.0.0 betpromo247.com
 0.0.0.0 beyourshop.ru
 0.0.0.0 beztecs.com
-0.0.0.0 bi-collector.oneapm.com
-0.0.0.0 bid.axiatraders.com
-0.0.0.0 bid.grandonmedia.com
 0.0.0.0 bidder.rtk.io
 0.0.0.0 bidgear.com
 0.0.0.0 bigakuonline.com
@@ -492,7 +449,6 @@
 0.0.0.0 canadajacet.club
 0.0.0.0 canonshop.site
 0.0.0.0 canuck-method.com
-0.0.0.0 capture.trackjs.com
 0.0.0.0 carauto.es
 0.0.0.0 care.help.360.cn
 0.0.0.0 carhartt-wipes.online
@@ -528,7 +484,6 @@
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.auditude.com
-0.0.0.0 cdn.beginads.com
 0.0.0.0 cdn.bitmedianetwork.com
 0.0.0.0 cdn.castoola.com
 0.0.0.0 cdn.discoveryad.castoola.tv
@@ -544,7 +499,6 @@
 0.0.0.0 cdnjs.tvpage.com
 0.0.0.0 cdrwxpsale.com
 0.0.0.0 cefseia.top
-0.0.0.0 ceromobi.club
 0.0.0.0 cexfaq.top
 0.0.0.0 chaleco.mallstosale.com
 0.0.0.0 chambb.com
@@ -567,7 +521,6 @@
 0.0.0.0 clarkseushop.com
 0.0.0.0 classical-versace.com
 0.0.0.0 classicrumor.com
-0.0.0.0 click.axiatraders.com
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 climbingcloth.club
@@ -599,7 +552,6 @@
 0.0.0.0 columbiatienda.com.mx
 0.0.0.0 columbiaventa.online
 0.0.0.0 com-fasting.live
-0.0.0.0 com-notice.info
 0.0.0.0 comalll.store
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comoquieresvivir.es
@@ -652,7 +604,6 @@
 0.0.0.0 cutephoto.cu
 0.0.0.0 cutmaxstore.com
 0.0.0.0 cvehiclefast.club
-0.0.0.0 cvent.axiatraders.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 cyhners.ero-advertising.com
 0.0.0.0 d-and-h.com
@@ -706,13 +657,10 @@
 0.0.0.0 despackets.club
 0.0.0.0 destore.online
 0.0.0.0 deta.ero-advertising.com
-0.0.0.0 dev.appboy.com
-0.0.0.0 device-api.urbanairship.com
 0.0.0.0 dewaletevo.top
 0.0.0.0 diadeboda.es
 0.0.0.0 digitaljunkiesgaming.com
 0.0.0.0 diksdiamond.com
-0.0.0.0 dimaria.alphonso.tv
 0.0.0.0 directalex.com
 0.0.0.0 discountstoresl.club
 0.0.0.0 discounttoresl.club
@@ -844,7 +792,6 @@
 0.0.0.0 events3alt.adcolony.com
 0.0.0.0 everyhouse.gq
 0.0.0.0 exchange.face2trade.com
-0.0.0.0 ext.privacyassistant.net
 0.0.0.0 eyesee-studio.com
 0.0.0.0 f.gm.mob.com
 0.0.0.0 faceeera.com
@@ -907,8 +854,6 @@
 0.0.0.0 forsagir.com
 0.0.0.0 forshady.com
 0.0.0.0 fort.caizus.com
-0.0.0.0 fortnight.space
-0.0.0.0 fortnitechat.site
 0.0.0.0 forum.adspaces.ero-advertising.com
 0.0.0.0 forum.ero-advertising.com
 0.0.0.0 forums.adspaces.ero-advertising.com
@@ -994,8 +939,6 @@
 0.0.0.0 gouitop.com
 0.0.0.0 gpboots.online
 0.0.0.0 grabify.link
-0.0.0.0 grandonmedia.com
-0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 greatcamerasale.club
 0.0.0.0 greatcamerasale.site
@@ -1015,7 +958,6 @@
 0.0.0.0 guodin.gq
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gxjsnjcwd.myshopify.com
-0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 haircarehot.ga
 0.0.0.0 hairville.net
 0.0.0.0 halaru.com
@@ -1038,7 +980,6 @@
 0.0.0.0 hdgrears.com
 0.0.0.0 hereclips.top
 0.0.0.0 hersouthernstyle.com
-0.0.0.0 hexagram.rtk.io
 0.0.0.0 hguidstore.xyz
 0.0.0.0 himalayaoutdoors.co.nz
 0.0.0.0 hishirts.ru
@@ -1070,7 +1011,6 @@
 0.0.0.0 hotstar.worldgravity.com
 0.0.0.0 houseconcern.com
 0.0.0.0 housemarket.com.mx
-0.0.0.0 howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 hrtya.com
 0.0.0.0 hsndirect.co.uk
 0.0.0.0 hugecovers.com
@@ -1085,7 +1025,6 @@
 0.0.0.0 ibasket.es
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 icefollow.com
-0.0.0.0 icloud.com-locations.in
 0.0.0.0 iconify.es
 0.0.0.0 icynana.com
 0.0.0.0 idspaces.ero-advertising.com
@@ -1279,7 +1218,6 @@
 0.0.0.0 logger.zcoup.com
 0.0.0.0 loggia-deauville.com
 0.0.0.0 login.dotomi.com
-0.0.0.0 login.dotomi.net
 0.0.0.0 login.rtk.io
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logs.gaana.com
@@ -1330,7 +1268,6 @@
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 mabainim.ga
 0.0.0.0 mabinsale.com
-0.0.0.0 mackeeperapp.zeobit.com
 0.0.0.0 madame-spain.com
 0.0.0.0 madienergias.es
 0.0.0.0 mads.amazon.com
@@ -1376,8 +1313,6 @@
 0.0.0.0 mclean.f.360.cn
 0.0.0.0 mclean.lato.cloud.360safe.com
 0.0.0.0 mclean.uk.cloud.360safe.com
-0.0.0.0 mediabarterexchange.com
-0.0.0.0 mediadirectx.com
 0.0.0.0 medicaltrust24.com
 0.0.0.0 meet-gem.com
 0.0.0.0 megatubo.es
@@ -1468,7 +1403,6 @@
 0.0.0.0 mymailco.top
 0.0.0.0 myornamenti.com
 0.0.0.0 mysterysnooper.com
-0.0.0.0 mywot.com
 0.0.0.0 mywot.net
 0.0.0.0 n13x4nfw8frika.com
 0.0.0.0 nadena.es
@@ -1482,7 +1416,6 @@
 0.0.0.0 ncompra.com
 0.0.0.0 nebitek.com
 0.0.0.0 nevadoadrian.es
-0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 newbalanceazapato.com
 0.0.0.0 newbalancehungary.com
 0.0.0.0 newbalancenba.online
@@ -1629,7 +1562,6 @@
 0.0.0.0 pepejeansale.online
 0.0.0.0 pepejeansees.online
 0.0.0.0 pepimantas.es
-0.0.0.0 perf.mmstat.com
 0.0.0.0 peuimas.cf
 0.0.0.0 pgsalesshopping.club
 0.0.0.0 photo.0234408.cn
@@ -1689,17 +1621,13 @@
 0.0.0.0 premierequeen.com
 0.0.0.0 primeagentsites.com
 0.0.0.0 print-nano.com
-0.0.0.0 privacyassistant.net
 0.0.0.0 profed.es
 0.0.0.0 profile.localytics.com
 0.0.0.0 prometheus-shop.com
 0.0.0.0 prominentyouth.com
-0.0.0.0 promo.buzzclicks.com
-0.0.0.0 promotion.com-rewards.club
 0.0.0.0 prov.alphonso.tv
 0.0.0.0 proxy.alphonso.tv
 0.0.0.0 puanys.com
-0.0.0.0 pub.axiatraders.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pull-3045.kxcdn.com
 0.0.0.0 pullover.onlytoshopp.com
@@ -1719,7 +1647,6 @@
 0.0.0.0 quienlainvito.es
 0.0.0.0 quieya.ga
 0.0.0.0 qzdqvmall.com
-0.0.0.0 r.search.yahoo.com
 0.0.0.0 rabbk.com
 0.0.0.0 radleyoutlet.com
 0.0.0.0 rafontens.com
@@ -1775,9 +1702,6 @@
 0.0.0.0 roselinlin.com
 0.0.0.0 rosezn.com
 0.0.0.0 rosgkhgoods.com
-0.0.0.0 rotator.axiatraders.com
-0.0.0.0 rotator.beginads.com
-0.0.0.0 rotator.buzzclicks.com
 0.0.0.0 rouashop.com
 0.0.0.0 rs.ero-advertising.com
 0.0.0.0 rs2.ero-advertising.com
@@ -1964,7 +1888,6 @@
 0.0.0.0 ssgspkgoods.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.widgets.webengage.com
-0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 ssp.face2trade.com
 0.0.0.0 ssp.lkgd.net
 0.0.0.0 ssp.streamrail.net
@@ -1980,7 +1903,6 @@
 0.0.0.0 stats.ero-advertising.com
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.speedclicks.ero-advertising.com
-0.0.0.0 stealthedeal.com
 0.0.0.0 steenbergen.web.ero-advertising.com
 0.0.0.0 stonewallcamps.com
 0.0.0.0 stopify.co
@@ -1995,7 +1917,6 @@
 0.0.0.0 supforu.com
 0.0.0.0 supload.com
 0.0.0.0 supplementsketo.com
-0.0.0.0 support.apple.com-notice.info
 0.0.0.0 susansmetalart.com
 0.0.0.0 sutora.ga
 0.0.0.0 suuntoaventa.com
@@ -2042,7 +1963,6 @@
 0.0.0.0 tergun.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.e.ad.xiaomi.com
-0.0.0.0 test.new.api.ad.xiaomi.com
 0.0.0.0 tex.ero-advertising.com
 0.0.0.0 tgujoldswa.cf
 0.0.0.0 theannoyingsite.com
@@ -2121,10 +2041,8 @@
 0.0.0.0 trace.svc.ui.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 track.tenjin.io
-0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 tracking.beginads.com
 0.0.0.0 tracking.ero-advertising.com
-0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.miui.com
@@ -2150,7 +2068,6 @@
 0.0.0.0 tvmds.tvpassport.com
 0.0.0.0 tvpage.com
 0.0.0.0 twitchrobots.com
-0.0.0.0 twitter.cm
 0.0.0.0 tyeisq.ga
 0.0.0.0 typo3.ero-advertising.com
 0.0.0.0 uashoes.club
@@ -2365,7 +2282,6 @@
 0.0.0.0 www.ads.mp.mydas.mobi
 0.0.0.0 www.ads.proc.cc
 0.0.0.0 www.ads1.ero-advertising.com
-0.0.0.0 www.ads2live.com
 0.0.0.0 www.adsances.ero-advertising.com
 0.0.0.0 www.adspacds.ero-advertising.com
 0.0.0.0 www.adspaces.ero-ades.ero-advertising.com
@@ -2385,7 +2301,6 @@
 0.0.0.0 www.adzerk.com
 0.0.0.0 www.afs.ero-advertising.com
 0.0.0.0 www.akashdayalgroups.com
-0.0.0.0 www.alliance4media.com
 0.0.0.0 www.alphonso.tv
 0.0.0.0 www.amarktflow.com
 0.0.0.0 www.amazonco.uk
@@ -2398,7 +2313,6 @@
 0.0.0.0 www.analytics.publitas.com
 0.0.0.0 www.anners.ero-advertising.com
 0.0.0.0 www.annualconsumersurvey.com
-0.0.0.0 www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.ad.snappea.com
 0.0.0.0 www.api.ad.xiaomi.com
 0.0.0.0 www.api.admob.xiaomi.com
@@ -2411,8 +2325,6 @@
 0.0.0.0 www.api.sec.intl.miui.com
 0.0.0.0 www.api.setting.intl.miui.com
 0.0.0.0 www.app.storage.yunvm.com
-0.0.0.0 www.apple.com-fasting.live
-0.0.0.0 www.apple.com-notice.info
 0.0.0.0 www.applicationunificationcontroller.com
 0.0.0.0 www.applog.camera360.com
 0.0.0.0 www.apps.id.net
@@ -2420,7 +2332,6 @@
 0.0.0.0 www.ase.clmbtech.com
 0.0.0.0 www.ata.ero-advertising.com
 0.0.0.0 www.authbe.sec.intl.miui.com
-0.0.0.0 www.axiatraders.com
 0.0.0.0 www.bacr.com.pk
 0.0.0.0 www.ban3ers.ero-advertising.com
 0.0.0.0 www.ban4ers.ero-advertising.com
@@ -2439,7 +2350,6 @@
 0.0.0.0 www.bannevs.ero-advertising.com
 0.0.0.0 www.bavners2.ero-advertising.com
 0.0.0.0 www.beauty-tea.com
-0.0.0.0 www.beginads.com
 0.0.0.0 www.best2017games.com
 0.0.0.0 www.betpromo247.com
 0.0.0.0 www.bi-collector.oneapm.com
@@ -2453,9 +2363,7 @@
 0.0.0.0 www.blog.intext.ero-advertising.com
 0.0.0.0 www.blog.roboinside.me
 0.0.0.0 www.btw.ero-advertising.com
-0.0.0.0 www.buzzclicks.com
 0.0.0.0 www.camsoda.com
-0.0.0.0 www.canuck-method.com
 0.0.0.0 www.cata.ero-advertising.com
 0.0.0.0 www.cc.sys.intl.xiaomi.com
 0.0.0.0 www.cc.sys.miui.com
@@ -2464,13 +2372,11 @@
 0.0.0.0 www.cdn.ad.xiaomi.com
 0.0.0.0 www.cdn.beginads.com
 0.0.0.0 www.ceromobi.club
-0.0.0.0 www.chacomedia.com
 0.0.0.0 www.chat.adspaces.ero-advertising.com
 0.0.0.0 www.chat.ero-advertising.com
 0.0.0.0 www.click.axiatraders.com
 0.0.0.0 www.click.grandonmedia.com
 0.0.0.0 www.com-fasting.live
-0.0.0.0 www.com-notice.info
 0.0.0.0 www.consumerproductsusa.com
 0.0.0.0 www.convhkmp.taboola.com
 0.0.0.0 www.convlatbmp.taboola.com
@@ -2507,7 +2413,6 @@
 0.0.0.0 www.e.ad.xiaomi.com
 0.0.0.0 www.ecommerce.roboinside.me
 0.0.0.0 www.eedclicks.ero-advertising.com
-0.0.0.0 www.elixmedia.com
 0.0.0.0 www.embed.sendtonews.com
 0.0.0.0 www.ero-adverising.com.ero-advertising.com
 0.0.0.0 www.ero-advertising.com
@@ -2564,7 +2469,6 @@
 0.0.0.0 www.in-starlive-preroll.videoplaza.tv
 0.0.0.0 www.in-starlive.videoplaza.tv
 0.0.0.0 www.in-viacom18.videoplaza.tv
-0.0.0.0 www.indiaonclick.com
 0.0.0.0 www.intext.ero-advertising.com
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.iplogger.com
@@ -2591,7 +2495,6 @@
 0.0.0.0 www.myishop.co.uk
 0.0.0.0 www.myornamenti.com
 0.0.0.0 www.mysterysnooper.com
-0.0.0.0 www.mywot.com
 0.0.0.0 www.mywot.net
 0.0.0.0 www.nata.ero-advertising.com
 0.0.0.0 www.new.api.ad.xiaomi.com
@@ -2614,11 +2517,9 @@
 0.0.0.0 www.phpmyadmin.js.ero-advertising.com
 0.0.0.0 www.piwik.adspaces.ero-advertising.com
 0.0.0.0 www.piwik.ero-advertising.com
-0.0.0.0 www.plaimedia.com
 0.0.0.0 www.playamo.com
 0.0.0.0 www.popacs.ero-advertising.com
 0.0.0.0 www.popads.ero-advertising.com
-0.0.0.0 www.powertradeprofit.com
 0.0.0.0 www.prebid.adnxs.com
 0.0.0.0 www.privacyassistant.net
 0.0.0.0 www.promo.buzzclicks.com
@@ -2637,7 +2538,6 @@
 0.0.0.0 www.rollbar.com
 0.0.0.0 www.rotator.axiatraders.com
 0.0.0.0 www.rotator.beginads.com
-0.0.0.0 www.rotator.buzzclicks.com
 0.0.0.0 www.rs.ero-advertising.com
 0.0.0.0 www.rs2.ero-advertising.com
 0.0.0.0 www.rtb-adsterra.flshtrk.store
@@ -2680,7 +2580,6 @@
 0.0.0.0 www.storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 www.superlogout.github.io
 0.0.0.0 www.supload.com
-0.0.0.0 www.support.apple.com-notice.info
 0.0.0.0 www.talk99.cn
 0.0.0.0 www.tcm.optica.ero-advertising.com
 0.0.0.0 www.test.ad.xiaomi.com
@@ -2699,7 +2598,6 @@
 0.0.0.0 www.tracking.ero-advertising.com
 0.0.0.0 www.tracking.intl.miui.com
 0.0.0.0 www.tracking.miui.com
-0.0.0.0 www.tradersbrokers.com
 0.0.0.0 www.trafforsrv.com
 0.0.0.0 www.treasuredata.com
 0.0.0.0 www.ttwitter.com
@@ -2711,7 +2609,6 @@
 0.0.0.0 www.umbs.ero-advertising.com
 0.0.0.0 www.urlsec.qq.com
 0.0.0.0 www.users.ero-advertising.com
-0.0.0.0 www.vdtrack.com
 0.0.0.0 www.victory1999.com
 0.0.0.0 www.vidutils.taboola.com
 0.0.0.0 www.vrl.m.conviva.com
@@ -2789,7 +2686,6 @@
 0.0.0.0 yuppldwefhrw.ga
 0.0.0.0 z.moatads.com
 0.0.0.0 zajshoeses.site
-0.0.0.0 zamora.axiatraders.com
 0.0.0.0 zap-msk.com
 0.0.0.0 zapatillasbest.com
 0.0.0.0 zapatillasnikefactory.es
