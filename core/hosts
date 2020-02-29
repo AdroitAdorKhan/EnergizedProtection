@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.02.059
-# Release: 059
+# Version: 20.02.060
+# Release: 060
 # Entries: 27,828
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Feb 20 18:00:18
+# Updated: Sat, 29 Feb 20 18:00:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -849,6 +849,7 @@
 0.0.0.0 9utwbj08.top
 0.0.0.0 9uznl.bemobtrk.com
 0.0.0.0 9vuq3.bemobtrk.com
+0.0.0.0 @@ -1,20882 +0,0 @@
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Clakcp.com
@@ -11442,7 +11443,6 @@
 0.0.0.0 goldenbotas.online
 0.0.0.0 goldengoosebrand.com
 0.0.0.0 goldennoncepool.com
-0.0.0.0 goldoffer.online
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
 0.0.0.0 gomez-latency-ox3-ed.openx.com
