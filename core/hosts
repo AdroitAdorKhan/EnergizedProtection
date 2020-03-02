@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.062
-# Release: 062
-# Entries: 27,941
+# Version: 20.03.063
+# Release: 063
+# Entries: 27,940
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 02 Mar 20 18:00:20
+# Updated: Tue, 03 Mar 20 00:00:24
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -15461,7 +15461,6 @@
 0.0.0.0 monerise.com
 0.0.0.0 monero-miner.com
 0.0.0.0 monero-miner.net
-0.0.0.0 monero.farm
 0.0.0.0 monero.org
 0.0.0.0 monero.us.to
 0.0.0.0 monerohash.com
