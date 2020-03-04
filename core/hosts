@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.064
 # Release: 064
-# Entries: 27,978
+# Entries: 27,976
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 04 Mar 20 12:00:16
+# Updated: Wed, 04 Mar 20 18:00:26
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1944,7 +1944,6 @@
 0.0.0.0 admedo.com
 0.0.0.0 admeld.adnxs.com
 0.0.0.0 admeld.com
-0.0.0.0 admerize.be
 0.0.0.0 admeta.com
 0.0.0.0 admex.com
 0.0.0.0 admicro.vn
@@ -25948,7 +25947,6 @@
 0.0.0.0 www.anners.ero-advertising.com
 0.0.0.0 www.annonce-legale.top
 0.0.0.0 www.annoncelegalepascher.fr
-0.0.0.0 www.annualconsumersurvey.com
 0.0.0.0 www.antivirus-help.com
 0.0.0.0 www.antivirus-mobile.club
 0.0.0.0 www.antivirus-new.com
