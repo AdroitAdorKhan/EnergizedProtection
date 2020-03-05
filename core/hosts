@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.065
 # Release: 065
-# Entries: 27,976
+# Entries: 27,977
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 05 Mar 20 12:00:17
+# Updated: Thu, 05 Mar 20 18:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -20255,6 +20255,7 @@
 0.0.0.0 sf9r6l.joyfulgame.mobi
 0.0.0.0 sfapplog.uc.cn
 0.0.0.0 sfb-rtb.applovin.com
+0.0.0.0 sfcxv.xyz
 0.0.0.0 sfo-goog.applovin.com
 0.0.0.0 sfo.thor.rtk.io
 0.0.0.0 sfoprod-rtbwin.applovin.com
