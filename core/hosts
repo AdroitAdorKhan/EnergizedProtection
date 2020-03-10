@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.070
-# Release: 070
-# Entries: 27,979
+# Version: 20.03.071
+# Release: 071
+# Entries: 27,981
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 10 Mar 20 00:00:21
+# Updated: Wed, 11 Mar 20 00:00:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -17953,6 +17953,7 @@
 0.0.0.0 play.tapsell.me
 0.0.0.0 play.wan.panda.tv
 0.0.0.0 play4traffic.com
+0.0.0.0 playamo30.com
 0.0.0.0 playcam.s.xoxknct.com
 0.0.0.0 player-cdn.beachfrontmedia.com
 0.0.0.0 player.adtelligent.com
@@ -26777,6 +26778,7 @@
 0.0.0.0 www.play.leadzuaf.com
 0.0.0.0 www.playamo.com
 0.0.0.0 www.playamo23.com
+0.0.0.0 www.playamo30.com
 0.0.0.0 www.playtokyo.brightcove.com
 0.0.0.0 www.playuc.xyz
 0.0.0.0 www.pleasewait.co
