@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.078
-# Release: 078
-# Entries: 34,021
+# Version: 20.03.079
+# Release: 079
+# Entries: 34,020
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 18 Mar 20 00:00:35
+# Updated: Thu, 19 Mar 20 00:00:36
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -31942,7 +31942,6 @@
 0.0.0.0 www.bestearnidea.com
 0.0.0.0 www.bestgame.directory
 0.0.0.0 www.bestmobileapps.mobi
-0.0.0.0 www.bestmobiworld.com
 0.0.0.0 www.betpromo247.com
 0.0.0.0 www.betrad.com
 0.0.0.0 www.betsonsport.ru
