@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.079
-# Release: 079
-# Entries: 34,020
+# Version: 20.03.080
+# Release: 080
+# Entries: 34,036
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 Mar 20 00:00:36
+# Updated: Fri, 20 Mar 20 00:00:31
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2889,6 +2889,7 @@
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-g.juicyads.com
 0.0.0.0 adserver-h.juicyads.com
+0.0.0.0 adserver-prod-1937829349.us-east-2.elb.amazonaws.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adcash.com
@@ -5174,6 +5175,7 @@
 0.0.0.0 api.gslb.brightcove.com
 0.0.0.0 api.hasoffers.com
 0.0.0.0 api.hypertrack.com
+0.0.0.0 api.icolorfast.com
 0.0.0.0 api.inbvur.com
 0.0.0.0 api.infomobi.me
 0.0.0.0 api.inmobi.com
@@ -5265,6 +5267,7 @@
 0.0.0.0 api.ucmate.info
 0.0.0.0 api.umeng.com
 0.0.0.0 api.unthem.com
+0.0.0.0 api.uparpu.com
 0.0.0.0 api.ushareit.com
 0.0.0.0 api.utm.uodoo.com
 0.0.0.0 api.venyoo.ru
@@ -5409,6 +5412,7 @@
 0.0.0.0 appia.com
 0.0.0.0 appier.com
 0.0.0.0 appier.net
+0.0.0.0 appinstall.click
 0.0.0.0 appintop.com
 0.0.0.0 appk.mobi
 0.0.0.0 apple.speedera.net
@@ -7814,6 +7818,7 @@
 0.0.0.0 cccorbieres.ch
 0.0.0.0 ccfahdbiafddgegjabe.ru
 0.0.0.0 cclk.co
+0.0.0.0 ccloud.sdkclickurl.com
 0.0.0.0 ccma.demdex.net
 0.0.0.0 ccminer.org
 0.0.0.0 ccnfauk8bkkzvd.ru
@@ -8525,6 +8530,7 @@
 0.0.0.0 click.clickkmobi.com
 0.0.0.0 click.dailynews.support
 0.0.0.0 click.definitimedia.com
+0.0.0.0 click.dl-now.app
 0.0.0.0 click.e.trafficjunky.com
 0.0.0.0 click.eclk.club
 0.0.0.0 click.expmediadirect.com
@@ -9589,6 +9595,7 @@
 0.0.0.0 ctl.buyt.in
 0.0.0.0 ctm-media.com
 0.0.0.0 ctnetwork.hu
+0.0.0.0 ctobsnssdk.com
 0.0.0.0 ctoid.net
 0.0.0.0 ctouw.com
 0.0.0.0 ctrack.trafficjunky.net
@@ -9943,6 +9950,7 @@
 0.0.0.0 datt.ero-advertising.com
 0.0.0.0 daua.ero-advertising.com
 0.0.0.0 daunenjacke-de.com
+0.0.0.0 daup.uparpu.com
 0.0.0.0 dava.ero-advertising.com
 0.0.0.0 davemtom.com
 0.0.0.0 davidcoburnmep.co.uk
@@ -11871,6 +11879,7 @@
 0.0.0.0 eventsalt30.adcolony.com
 0.0.0.0 eventus-webdesign.de
 0.0.0.0 evepcynlxks.com
+0.0.0.0 everest.castbox.fm
 0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergreen-rc.rlcdn.com
@@ -11952,6 +11961,7 @@
 0.0.0.0 exoticads.com
 0.0.0.0 exoticwoodsltd.com
 0.0.0.0 exp.glispa.com
+0.0.0.0 exp.host
 0.0.0.0 expanse.tech
 0.0.0.0 expectorslapsino.info
 0.0.0.0 experianmarketingservices.digital
@@ -16763,6 +16773,7 @@
 0.0.0.0 ksmsmjmall.com
 0.0.0.0 kstj.baidu.com
 0.0.0.0 ksukpuyqs.com
+0.0.0.0 kswj.unionapps.info
 0.0.0.0 kt-g.de
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktcommunity.de
@@ -17488,6 +17499,7 @@
 0.0.0.0 logger.c1oudmobi.net
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.dailymotion.com
+0.0.0.0 logger.icolorfast.com
 0.0.0.0 logger.ntracecloud.com
 0.0.0.0 logger.nugg.ad
 0.0.0.0 logger.pw
@@ -27685,6 +27697,8 @@
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 tobiasunger.de
 0.0.0.0 tobidy.io
+0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 toblog.ctobsnssdk.com.w.cdngslb.com
 0.0.0.0 toboads.com
 0.0.0.0 todacell.com
 0.0.0.0 today.algolia.com
@@ -27959,6 +27973,7 @@
 0.0.0.0 track.adspire.io
 0.0.0.0 track.adsplay.in
 0.0.0.0 track.adspruce.com
+0.0.0.0 track.adstack.co
 0.0.0.0 track.adsushi.de
 0.0.0.0 track.adthrive.com
 0.0.0.0 track.adtraction.com
@@ -29903,6 +29918,7 @@
 0.0.0.0 up4.ucweb.com
 0.0.0.0 upads.info
 0.0.0.0 upalytics.com
+0.0.0.0 uparpu.com
 0.0.0.0 upccz.demdex.net
 0.0.0.0 upcloud.security.baidu.co.th
 0.0.0.0 upcofunctionalcoatings.com
