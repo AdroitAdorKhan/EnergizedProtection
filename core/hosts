@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.080
-# Release: 080
-# Entries: 34,036
+# Version: 20.03.081
+# Release: 081
+# Entries: 34,033
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 Mar 20 00:00:31
+# Updated: Sat, 21 Mar 20 00:00:34
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1908,7 +1908,6 @@
 0.0.0.0 adimages.scrippsnetworks.com
 0.0.0.0 adimages.sina.com.hk
 0.0.0.0 adimg.cnet.com
-0.0.0.0 adimg.com.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 adimg.ru
 0.0.0.0 adimg.uimserv.net
@@ -1989,7 +1988,6 @@
 0.0.0.0 adlink.wf
 0.0.0.0 adlinktech.com
 0.0.0.0 adlmerge.com
-0.0.0.0 adlog.com.com
 0.0.0.0 adlog.flurry.com
 0.0.0.0 adlogistics.nl
 0.0.0.0 adloox.com
@@ -2434,7 +2432,6 @@
 0.0.0.0 ads.co.com
 0.0.0.0 ads.colombiaonline.com
 0.0.0.0 ads.com
-0.0.0.0 ads.com.com
 0.0.0.0 ads.commonmedia.de
 0.0.0.0 ads.complex.com
 0.0.0.0 ads.contentabc.com
