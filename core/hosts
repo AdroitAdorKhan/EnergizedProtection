@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.085
-# Release: 085
-# Entries: 34,033
+# Version: 20.03.086
+# Release: 086
+# Entries: 34,035
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 25 Mar 20 00:00:42
+# Updated: Thu, 26 Mar 20 00:00:37
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -9947,6 +9947,7 @@
 0.0.0.0 datt.ero-advertising.com
 0.0.0.0 daua.ero-advertising.com
 0.0.0.0 daunenjacke-de.com
+0.0.0.0 daunteegyptian.pro
 0.0.0.0 daup.uparpu.com
 0.0.0.0 dava.ero-advertising.com
 0.0.0.0 davemtom.com
@@ -31564,6 +31565,7 @@
 0.0.0.0 wwmcuhvqaf.com
 0.0.0.0 wwrwssale.com
 0.0.0.0 wws.ero-advertising.com
+0.0.0.0 wwtsg.xyz
 0.0.0.0 wwv4ez0n.com
 0.0.0.0 wwvv.secure-notifications.co
 0.0.0.0 www-akamai.outbrain.com
