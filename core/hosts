@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.086
-# Release: 086
-# Entries: 34,035
+# Version: 20.03.087
+# Release: 087
+# Entries: 34,034
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 26 Mar 20 00:00:37
+# Updated: Fri, 27 Mar 20 00:00:37
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1312,7 +1312,6 @@
 0.0.0.0 ad.886644.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.abcnews.com
-0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.ad-stir.com
 0.0.0.0 ad.adapter.kaffnet.com
