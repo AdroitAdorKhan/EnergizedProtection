@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.087
-# Release: 087
-# Entries: 34,034
+# Version: 20.03.088
+# Release: 088
+# Entries: 34,033
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 Mar 20 00:00:37
+# Updated: Sat, 28 Mar 20 00:00:35
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -32283,7 +32283,6 @@
 0.0.0.0 www.googlew.com
 0.0.0.0 www.googlo.co
 0.0.0.0 www.googltrace.com
-0.0.0.0 www.goooooooooogle.com
 0.0.0.0 www.gopay2.me
 0.0.0.0 www.gopjn.com
 0.0.0.0 www.gototrk.com
