@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.03.091
-# Release: 091
-# Entries: 34,035
+# Version: 20.04.097
+# Release: 097
+# Entries: 34,044
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 31 Mar 20 10:24:46
+# Updated: Mon, 06 Apr 20 15:26:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1182,6 +1182,7 @@
 0.0.0.0 accountreview.outbrain.com
 0.0.0.0 accounts.brightcove.com
 0.0.0.0 accounts.livefyre.com
+0.0.0.0 accountsx.bounceme.net
 0.0.0.0 accu-chek.it
 0.0.0.0 accuen.optout.agkn.com
 0.0.0.0 acdn.adnxs.com
@@ -1486,7 +1487,6 @@
 0.0.0.0 ad.static.pornhd.com
 0.0.0.0 ad.studynerdz.com
 0.0.0.0 ad.technoratimedia.com
-0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.toutiao.com
 0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.turn.com
@@ -7658,6 +7658,7 @@
 0.0.0.0 capiecke.xyz
 0.0.0.0 capitalaktiv.de
 0.0.0.0 capitaldistrictlocalfirst.org
+0.0.0.0 capitana.onthewifi.com
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 cappadociahotel.net
 0.0.0.0 capping.mgid.com
@@ -10935,6 +10936,7 @@
 0.0.0.0 dynalyst-sync.adtdp.com
 0.0.0.0 dynamicadx.com
 0.0.0.0 dynamicbitsolutions.com
+0.0.0.0 dynamics.ddnsking.com
 0.0.0.0 dynamicyield.com
 0.0.0.0 dynamircal.com
 0.0.0.0 dynamitedata.com
@@ -15707,6 +15709,7 @@
 0.0.0.0 invitesugar.com
 0.0.0.0 invivo-bochum.de
 0.0.0.0 inviziads.com
+0.0.0.0 invoke.ml
 0.0.0.0 involve-you.net
 0.0.0.0 inwemo.com
 0.0.0.0 inwind.ws
@@ -16796,6 +16799,7 @@
 0.0.0.0 kulander.de
 0.0.0.0 kulinarium7.at
 0.0.0.0 kulinartika.at
+0.0.0.0 kulkarni.bounceme.net
 0.0.0.0 kulturbar-oberkassel.de
 0.0.0.0 kulturburg.ch
 0.0.0.0 kulturforum-schwaz.at
@@ -27483,6 +27487,7 @@
 0.0.0.0 theship.club
 0.0.0.0 thesliceredondobeach.com
 0.0.0.0 thesmallchurch.org
+0.0.0.0 thestar.serveblog.net
 0.0.0.0 thethandarinhec.info
 0.0.0.0 thetrafficstat.net
 0.0.0.0 thetransfiguration.co.uk
@@ -30769,6 +30774,7 @@
 0.0.0.0 vuukle-bigquery.appspot.com
 0.0.0.0 vuuwd.com
 0.0.0.0 vv84.bj.bcebos.com
+0.0.0.0 vvavesltd.servebeer.com
 0.0.0.0 vvdior.com
 0.0.0.0 vw.btrll.com
 0.0.0.0 vwprafiwoiut.com
@@ -32002,6 +32008,7 @@
 0.0.0.0 www.buzzcity.net
 0.0.0.0 www.by007.cn
 0.0.0.0 www.bylki.me
+0.0.0.0 www.bywebsite.com
 0.0.0.0 www.c.atdmt.com
 0.0.0.0 www.c.medialink.mobi
 0.0.0.0 www.c.msn.com
@@ -32853,6 +32860,7 @@
 0.0.0.0 www.sam-brodie.com
 0.0.0.0 www.saranagrup.com
 0.0.0.0 www.sastrk.com
+0.0.0.0 www.saumweb.com
 0.0.0.0 www.sayyac.com
 0.0.0.0 www.sbardlhk.com
 0.0.0.0 www.sbobet-info.com
@@ -33143,6 +33151,7 @@
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webcalcio.net
 0.0.0.0 www.webclicks24.com
+0.0.0.0 www.webhaat.com
 0.0.0.0 www.webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 www.webmailer.de
 0.0.0.0 www.webmine.cz
