@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.097
-# Release: 097
-# Entries: 34,044
+# Version: 20.04.098
+# Release: 098
+# Entries: 34,045
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Apr 20 15:26:02
+# Updated: Tue, 07 Apr 20 00:00:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -27040,6 +27040,7 @@
 0.0.0.0 tajurimarket.com
 0.0.0.0 takaanshop.com
 0.0.0.0 take-your-prize22.life
+0.0.0.0 takehotprizzes3.live
 0.0.0.0 takeoutn.tk
 0.0.0.0 takethisoffer.com
 0.0.0.0 takmoodmarket.com
