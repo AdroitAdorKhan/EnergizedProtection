@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.098
-# Release: 098
-# Entries: 34,045
+# Version: 20.04.099
+# Release: 099
+# Entries: 34,048
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 07 Apr 20 00:00:18
+# Updated: Wed, 08 Apr 20 00:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -703,7 +703,6 @@
 0.0.0.0 619de07af53f8.com
 0.0.0.0 6387d781a4cf.com
 0.0.0.0 63fc818000.com
-0.0.0.0 64.myxmr.pw
 0.0.0.0 64.video-ak.cdn.spotify.com
 0.0.0.0 6519508.fls.doubleclick.net
 0.0.0.0 659.digitaldsp.com
@@ -2268,6 +2267,7 @@
 0.0.0.0 ads-afp.aws.amobee.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-b.use1.prod.vidible.tv
+0.0.0.0 ads-bi.zenkube.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-businessinsider.adhese.com	
 0.0.0.0 ads-by.madadsmedia.com
@@ -2830,6 +2830,7 @@
 0.0.0.0 ads9-adnow.com
 0.0.0.0 ads9.bangkokpost.co.th
 0.0.0.0 ads9.matichon.co.th
+0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
 0.0.0.0 adsalesforce.com
@@ -18551,6 +18552,7 @@
 0.0.0.0 mesos-gcp-lb.algolia.com
 0.0.0.0 message.umeng.com
 0.0.0.0 messagenovice.com
+0.0.0.0 messaging.insurads.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 messner.co.at
 0.0.0.0 metabase.amobee.com
@@ -19264,6 +19266,7 @@
 0.0.0.0 msapi.appsflyer.com
 0.0.0.0 msdkevents.1rx.io
 0.0.0.0 msf-outdoor.com
+0.0.0.0 msg-0209861dced41c7ef.insurads.com
 0.0.0.0 msg-2.me
 0.0.0.0 msg.71.am
 0.0.0.0 msg.ettoday.net
