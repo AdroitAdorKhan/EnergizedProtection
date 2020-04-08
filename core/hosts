@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.099
-# Release: 099
-# Entries: 34,048
+# Version: 20.04.100
+# Release: 100
+# Entries: 34,046
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 08 Apr 20 00:00:22
+# Updated: Thu, 09 Apr 20 00:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -16153,7 +16153,6 @@
 0.0.0.0 js.eyeviewads.com
 0.0.0.0 js.fhxiaoshuo.com
 0.0.0.0 js.genieessp.com
-0.0.0.0 js.grt02.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.hotlog.ru
 0.0.0.0 js.hs-analytics.net
@@ -19266,7 +19265,6 @@
 0.0.0.0 msapi.appsflyer.com
 0.0.0.0 msdkevents.1rx.io
 0.0.0.0 msf-outdoor.com
-0.0.0.0 msg-0209861dced41c7ef.insurads.com
 0.0.0.0 msg-2.me
 0.0.0.0 msg.71.am
 0.0.0.0 msg.ettoday.net
