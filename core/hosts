@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.101
-# Release: 101
-# Entries: 34,046
+# Version: 20.04.102
+# Release: 102
+# Entries: 34,047
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Apr 20 00:00:25
+# Updated: Sat, 11 Apr 20 00:00:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -21533,6 +21533,7 @@
 0.0.0.0 pewe24.com
 0.0.0.0 pezrphjl.com
 0.0.0.0 pf.static.ads-twitter.com
+0.0.0.0 pf4y2a54hx.com
 0.0.0.0 pfa-online-integ2.amobee.com
 0.0.0.0 pfaff-at-home.de
 0.0.0.0 pfandhaus-eberts.com
