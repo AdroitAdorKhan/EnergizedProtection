@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.102
-# Release: 102
-# Entries: 34,047
+# Version: 20.04.103
+# Release: 103
+# Entries: 34,052
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Apr 20 00:00:21
+# Updated: Sun, 12 Apr 20 00:00:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -10767,6 +10767,7 @@
 0.0.0.0 drglaser.de
 0.0.0.0 driblaonline.com
 0.0.0.0 dricasinonight.com
+0.0.0.0 drive.staticcontent.kz
 0.0.0.0 driverequest.com
 0.0.0.0 drjuanperez.es
 0.0.0.0 drk-suesser-see.de
@@ -13470,6 +13471,7 @@
 0.0.0.0 globalbikeshop.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globalmasksuppliers.com
+0.0.0.0 globalpagee-prod-webex.com
 0.0.0.0 globalsuccessclub.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltechexpert.com
@@ -14530,6 +14532,7 @@
 0.0.0.0 horsteschment.de
 0.0.0.0 hortestoz.com
 0.0.0.0 hospiz-im-ahrtal.de
+0.0.0.0 host.moresecurity.kz
 0.0.0.0 hosted.stats.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hostgrater.com
@@ -18572,6 +18575,7 @@
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.kleientertainment.com
 0.0.0.0 metric.nimo.tv
+0.0.0.0 metric.onlinefonts.kz
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metricfast.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
@@ -33045,6 +33049,7 @@
 0.0.0.0 www.trackinit.com
 0.0.0.0 www.trackmedia101.com
 0.0.0.0 www.tradeadexchange.com
+0.0.0.0 www.traffclick.ru
 0.0.0.0 www.traffic-media.co.uk
 0.0.0.0 www.traffic-sharing.com
 0.0.0.0 www.traffic.admvncln.com
