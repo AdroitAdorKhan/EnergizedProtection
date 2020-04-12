@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.103
-# Release: 103
+# Version: 20.04.104
+# Release: 104
 # Entries: 34,052
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 12 Apr 20 00:00:17
+# Updated: Mon, 13 Apr 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -2568,7 +2568,6 @@
 0.0.0.0 ads.mediaon.it
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.metrofamilymagazine.com
-0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.miarroba.com
 0.0.0.0 ads.mobadvent.com
 0.0.0.0 ads.mobafftrck.com
@@ -9451,6 +9450,7 @@
 0.0.0.0 creative-serving.com
 0.0.0.0 creative-ucads.ucweb.com
 0.0.0.0 creative.adform.com
+0.0.0.0 creative.hpyrdr.com
 0.0.0.0 creative.skyrocket.adtdp.com
 0.0.0.0 creative.sonobi.com
 0.0.0.0 creative.speednetwork13.com
