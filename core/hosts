@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.104
-# Release: 104
-# Entries: 34,052
+# Version: 20.04.105
+# Release: 105
+# Entries: 34,055
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 13 Apr 20 00:00:19
+# Updated: Tue, 14 Apr 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -49,6 +49,9 @@
 # --------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # --------------------------------------------
+0.0.0.0 0.0.0.0.beeglivesex.com
+0.0.0.0 0.0.0.0.creative.hpyrdr.com
+0.0.0.0 0.0.0.0.hpyrdr.com
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 000lex4.wcomhost.com
 0.0.0.0 007drones.de
