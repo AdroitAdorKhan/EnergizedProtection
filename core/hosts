@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.107
-# Release: 107
-# Entries: 34,055
+# Version: 20.04.108
+# Release: 108
+# Entries: 34,054
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 16 Apr 20 00:00:23
+# Updated: Fri, 17 Apr 20 00:00:24
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -1425,7 +1425,6 @@
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 ad.juliepost.com
-0.0.0.0 ad.keenspace.com
 0.0.0.0 ad.kodansha.net
 0.0.0.0 ad.kr.doubleclick.net
 0.0.0.0 ad.kronospan-express.com
