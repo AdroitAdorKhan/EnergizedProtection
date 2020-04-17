@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.108
-# Release: 108
-# Entries: 34,054
+# Version: 20.04.109
+# Release: 109
+# Entries: 34,055
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Apr 20 00:00:24
+# Updated: Sat, 18 Apr 20 00:00:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -13933,6 +13933,8 @@
 0.0.0.0 haarformersalon-am-dom.de
 0.0.0.0 hachingforever.de
 0.0.0.0 hadsecz.com
+0.0.0.0 hadslims.com
+0.0.0.0 hadsoks.com
 0.0.0.0 haehnchenhausen.de
 0.0.0.0 haemmerle-joachim.de
 0.0.0.0 haendedruck.at
@@ -32358,7 +32360,6 @@
 0.0.0.0 www.hostmonster.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.howingo.com
-0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 www.hpsafe.isupportcorp.com
 0.0.0.0 www.hrtya.com
 0.0.0.0 www.hs.appsdorado.com
