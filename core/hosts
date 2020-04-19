@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.110
-# Release: 110
-# Entries: 34,055
+# Version: 20.04.111
+# Release: 111
+# Entries: 34,080
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 19 Apr 20 00:00:20
+# Updated: Mon, 20 Apr 20 00:00:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5923,6 +5923,7 @@
 0.0.0.0 awltovhc.com
 0.0.0.0 aws-ajax.com
 0.0.0.0 aws-assets.bttrack.com
+0.0.0.0 aws-update.net
 0.0.0.0 aws.apex.go.sonobi.com
 0.0.0.0 aws.go.sonobi.com
 0.0.0.0 aws.napi.ucweb.com
@@ -9286,6 +9287,7 @@
 0.0.0.0 corinnaswelt.de
 0.0.0.0 corn-sconto.gratis
 0.0.0.0 corneey.com
+0.0.0.0 corp-github.com
 0.0.0.0 corp-ldap.openx.com
 0.0.0.0 corp-login.openx.com
 0.0.0.0 corp.appnexus.com
@@ -10004,6 +10006,7 @@
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 dda.red
 0.0.0.0 ddkwwstore.com
+0.0.0.0 ddl.okgoodmobi.com
 0.0.0.0 ddl.okyesmobi.com
 0.0.0.0 ddnd.net
 0.0.0.0 ddnk.advertur.ru
@@ -11601,6 +11604,7 @@
 0.0.0.0 enrichment.moportals.com
 0.0.0.0 ensighten.com
 0.0.0.0 enstylish.com
+0.0.0.0 ensure-https.com
 0.0.0.0 enter.media.net
 0.0.0.0 enterads.com
 0.0.0.0 entercasino.com
@@ -13400,9 +13404,12 @@
 0.0.0.0 girlwhatsappnumberslistblogspotcom.imageshack.host
 0.0.0.0 gisbertschoeler.de
 0.0.0.0 gisela-kallenbach.de
+0.0.0.0 git-hub.co
 0.0.0.0 git-pages.adotmob.com
+0.0.0.0 git-secure-service.in
 0.0.0.0 git.adotmob.com
 0.0.0.0 gitgrub.pro
+0.0.0.0 githb.co
 0.0.0.0 github.algolia.com
 0.0.0.0 github.umeng.com
 0.0.0.0 gitishcreasu.info
@@ -13493,6 +13500,17 @@
 0.0.0.0 glothouw.link
 0.0.0.0 glowdot.com
 0.0.0.0 glsdk.logsss.com
+0.0.0.0 glt-app.net
+0.0.0.0 glt-hub.com
+0.0.0.0 glthub.co
+0.0.0.0 glthub.info
+0.0.0.0 glthub.net
+0.0.0.0 glthubb.info
+0.0.0.0 glthube.app
+0.0.0.0 glthubs.com
+0.0.0.0 glthubs.info
+0.0.0.0 glthubs.net
+0.0.0.0 glthubse.info
 0.0.0.0 glueckaufstadt.de
 0.0.0.0 gluwagoods.com
 0.0.0.0 gm-wibbeke.de
@@ -15136,6 +15154,7 @@
 0.0.0.0 ik54l.bemobtrk.com
 0.0.0.0 ikaben.com
 0.0.0.0 ikarus-flugdienst.de
+0.0.0.0 ikezijik.ga
 0.0.0.0 ikjhssgmith.info
 0.0.0.0 ikliklmarket.eu
 0.0.0.0 il1.adriver.ru
@@ -17631,6 +17650,7 @@
 0.0.0.0 loxtk.com
 0.0.0.0 loyaltrend-de.com
 0.0.0.0 lp-site.com
+0.0.0.0 lp.cooktracking.com
 0.0.0.0 lp.liverail.com
 0.0.0.0 lp.lptrack.co
 0.0.0.0 lp.moviesfanatic.com
@@ -25459,6 +25479,7 @@
 0.0.0.0 skypronz6j.s.ad6media.fr
 0.0.0.0 skyscrpr.com
 0.0.0.0 skyviewsexpress.com
+0.0.0.0 slack-app.net
 0.0.0.0 slandshaknews.com
 0.0.0.0 slanzashop.com
 0.0.0.0 slapi-bts.logsss.com
@@ -26017,6 +26038,7 @@
 0.0.0.0 ssl-avd.innity.com
 0.0.0.0 ssl-avd.innity.net
 0.0.0.0 ssl-com.cdn.ampproject.org
+0.0.0.0 ssl-connection.net
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl-i.cdn.openx.com
 0.0.0.0 ssl-i.xx.openx.com
@@ -26035,6 +26057,7 @@
 0.0.0.0 sslcheckerapi.com
 0.0.0.0 sslgateways.com
 0.0.0.0 ssmrvmarket.com
+0.0.0.0 sso-github.com
 0.0.0.0 sso.openx.com
 0.0.0.0 ssomgr-api.amobee.com
 0.0.0.0 ssp-3-9f58.trnox.com
@@ -26598,6 +26621,7 @@
 0.0.0.0 strongintel.com
 0.0.0.0 stroopwafelpost.nl
 0.0.0.0 structurerod.com
+0.0.0.0 sts-github.com
 0.0.0.0 sts-kleintransporte.de
 0.0.0.0 sts.advertising.microsoft.com
 0.0.0.0 sts.batmobi.net
@@ -29477,6 +29501,7 @@
 0.0.0.0 tshirtluxe.com
 0.0.0.0 tshirtnow.net
 0.0.0.0 tshirtshopi.com
+0.0.0.0 tsl-github.com
 0.0.0.0 tsmrel.ga
 0.0.0.0 tsnr.net
 0.0.0.0 tsoundmvp.me
