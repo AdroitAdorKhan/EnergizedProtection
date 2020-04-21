@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.112
-# Release: 112
-# Entries: 34,080
+# Version: 20.04.113
+# Release: 113
+# Entries: 34,084
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 21 Apr 20 00:00:23
+# Updated: Wed, 22 Apr 20 00:00:23
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -3492,6 +3492,7 @@
 0.0.0.0 advertisespace.com
 0.0.0.0 advertiseworld.com
 0.0.0.0 advertising-api.gumgum.com
+0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 advertising-eu.amazon.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 advertising.amazon.de
@@ -20072,6 +20073,7 @@
 0.0.0.0 norcx.com
 0.0.0.0 nord-hardware.com
 0.0.0.0 nord.adr.com.ua
+0.0.0.0 nordfreevpn.com
 0.0.0.0 nordfriesenpower.de
 0.0.0.0 nordichardware.se
 0.0.0.0 nordparka.com
@@ -30759,6 +30761,7 @@
 0.0.0.0 vpn.outbrain.com
 0.0.0.0 vpn.vibrantmedia.com
 0.0.0.0 vpn1.us
+0.0.0.0 vpn4test.net
 0.0.0.0 vpnfaster.s.xoxknct.com
 0.0.0.0 vpnfortorrents.co
 0.0.0.0 vpnfortorrents.page
@@ -31541,6 +31544,7 @@
 0.0.0.0 ws.webcaster.pro
 0.0.0.0 ws1.tapjoyads.com
 0.0.0.0 ws2.tapjoyads.com
+0.0.0.0 ws38.watashinonegai.ru
 0.0.0.0 wscs-at.com
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wsgfstore.top
