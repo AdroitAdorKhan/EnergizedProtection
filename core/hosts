@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.04.114
-# Release: 114
+# Version: 20.04.115
+# Release: 115
 # Entries: 34,084
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 23 Apr 20 00:00:17
+# Updated: Fri, 24 Apr 20 00:00:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
 # --------------------------------------------
 #
@@ -5156,6 +5156,7 @@
 0.0.0.0 api.cxense.com
 0.0.0.0 api.dedipass.com
 0.0.0.0 api.direct.yandex.com
+0.0.0.0 api.doubles.click
 0.0.0.0 api.dsp.batmobi.net
 0.0.0.0 api.elysium.opera.com
 0.0.0.0 api.eqmob.com
@@ -6733,7 +6734,6 @@
 0.0.0.0 binancecash.com
 0.0.0.0 binancesignin.com
 0.0.0.0 binanceus.com
-0.0.0.0 binarce.com
 0.0.0.0 binaryearnforex.top
 0.0.0.0 binaryrobotplus.top
 0.0.0.0 bindingflow.com
@@ -7968,6 +7968,7 @@
 0.0.0.0 cdn.digiad.co
 0.0.0.0 cdn.discoveryad.castoola.tv
 0.0.0.0 cdn.domdex.com
+0.0.0.0 cdn.doublesclick.me
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.addroplet.com
 0.0.0.0 cdn.engine.phn.doublepimp.com
@@ -11669,7 +11670,6 @@
 0.0.0.0 erosyndc.com
 0.0.0.0 erovation.com
 0.0.0.0 err.taobao.com
-0.0.0.0 errantshed.co.uk
 0.0.0.0 erraticreaction.com
 0.0.0.0 errevi.de
 0.0.0.0 errlog.amanad.adtdp.com
@@ -12803,9 +12803,7 @@
 0.0.0.0 freecontent.date
 0.0.0.0 freecontent.faith
 0.0.0.0 freecontent.net
-0.0.0.0 freecontent.party
 0.0.0.0 freecontent.stream
-0.0.0.0 freecontent.trade
 0.0.0.0 freedomfestjacksonmi.com
 0.0.0.0 freedomtreeltd.com
 0.0.0.0 freegameanalytics.com
@@ -18082,6 +18080,7 @@
 0.0.0.0 manzile.com
 0.0.0.0 maochic.com
 0.0.0.0 map.brightcove.com
+0.0.0.0 maper.info
 0.0.0.0 maphoster.com
 0.0.0.0 maphuahin.com
 0.0.0.0 maplefarmmedia.com
@@ -26208,6 +26207,7 @@
 0.0.0.0 starlayer.com
 0.0.0.0 starmedia24.com
 0.0.0.0 starshopping24.store
+0.0.0.0 start.apiforssl.com
 0.0.0.0 start.freeze.com
 0.0.0.0 start.pcfaster.com
 0.0.0.0 start.watchmovie.fun
@@ -26308,6 +26308,7 @@
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.contentabc.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.doublesclick.info
 0.0.0.0 static.e93-apps.com
 0.0.0.0 static.eclick.vn
 0.0.0.0 static.emsservice.de
@@ -26479,6 +26480,8 @@
 0.0.0.0 status.mixpanel.com
 0.0.0.0 status.mopub.com
 0.0.0.0 status.newrelic.com
+0.0.0.0 status.search-sslkey-flush.com
+0.0.0.0 status.verifyingbycf.com
 0.0.0.0 status.wowtrk.com
 0.0.0.0 statxpress.com
 0.0.0.0 staub-profis.com
@@ -27487,7 +27490,6 @@
 0.0.0.0 themaharajasexpress.de
 0.0.0.0 themediafire.com
 0.0.0.0 themindbodyspiritblog.com
-0.0.0.0 theminingpool.thruhere.net
 0.0.0.0 themiride.com
 0.0.0.0 themissionofmoms.com
 0.0.0.0 thencouserechan.info
@@ -33565,7 +33567,6 @@
 0.0.0.0 xn--adspace-kvg.ero-advertising.com
 0.0.0.0 xn--blackdiamondespaa-uxb.es
 0.0.0.0 xn--blockchan-n5a.com
-0.0.0.0 xn--blockhain-pfb.com
 0.0.0.0 xn--discrd-zxa.com
 0.0.0.0 xn--disordapp-s3a.com
 0.0.0.0 xn--g3ckiih5mbk.com
@@ -33639,7 +33640,6 @@
 0.0.0.0 xy7elite.com
 0.0.0.0 xyhora.de
 0.0.0.0 xz15801.com
-0.0.0.0 xzpool.com
 0.0.0.0 y.amobee.com
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 y.flurry.com
