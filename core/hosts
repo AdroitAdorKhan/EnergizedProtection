@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.138
 # Release: 138
-# Entries: 26,816
+# Entries: 26,815
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 17 May 20 03:01:40
+# Updated: Sun, 17 May 20 05:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25226,7 +25226,6 @@
 0.0.0.0 www.cookiescript.info
 0.0.0.0 www.coollcloud.com
 0.0.0.0 www.covid19testbrevard.com
-0.0.0.0 www.cpm10.com
 0.0.0.0 www.cpm20.com
 0.0.0.0 www.cpsee.com
 0.0.0.0 www.crashlytics.com
