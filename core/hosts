@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.138
 # Release: 138
-# Entries: 26,843
+# Entries: 26,841
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 17 May 20 17:45:16
+# Updated: Sun, 17 May 20 23:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -482,6 +482,7 @@
 0.0.0.0 5-g.cn
 0.0.0.0 5-jahre-weltwaerts.de
 0.0.0.0 5.d.mytopgames.net
+0.0.0.0 508ec56533e3937e.com
 0.0.0.0 50websads.com
 0.0.0.0 51yes.com
 0.0.0.0 544c27b3f0aae2.com
@@ -6043,6 +6044,7 @@
 0.0.0.0 c4dm.adcolony.com
 0.0.0.0 c4owk.controlapplink.com
 0.0.0.0 c5.adalyser.com
+0.0.0.0 c5b39ff13b3259df.com
 0.0.0.0 c73186.com
 0.0.0.0 c8.net.ua
 0.0.0.0 ca.ads.justpremium.com
@@ -10002,7 +10004,6 @@
 0.0.0.0 freeallmusictop.imageshack.host
 0.0.0.0 freebanner.com
 0.0.0.0 freebiesurveys.com
-0.0.0.0 freebitco.in
 0.0.0.0 freecontent.bid
 0.0.0.0 freecontent.date
 0.0.0.0 freecontent.net
@@ -10408,7 +10409,6 @@
 0.0.0.0 ggimg.tapas.net
 0.0.0.0 ggltrck.com
 0.0.0.0 ggntadmnwwm.com
-0.0.0.0 ghash.io
 0.0.0.0 ghhitzplus.com
 0.0.0.0 ghostvogue.com
 0.0.0.0 ghoto-12.win
@@ -19967,7 +19967,6 @@
 0.0.0.0 slot.union.ucweb.com
 0.0.0.0 sls-api.wshareit.com
 0.0.0.0 slughtessing.info
-0.0.0.0 slushpool.com
 0.0.0.0 slutmedtandlaegeskraek.dk
 0.0.0.0 sm.monitoring.stackpath.com
 0.0.0.0 sm3na.com
@@ -23962,7 +23961,6 @@
 0.0.0.0 vi-serve.com
 0.0.0.0 via.appia.com
 0.0.0.0 via.placeholder.com
-0.0.0.0 viabtc.com
 0.0.0.0 viadata.store
 0.0.0.0 viamichelin.ads.trafficjunky.net
 0.0.0.0 viamichelin.media.trafficjunky.net
