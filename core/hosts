@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.139
 # Release: 139
-# Entries: 26,846
+# Entries: 26,848
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 18 May 20 17:45:21
+# Updated: Mon, 18 May 20 23:45:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8492,6 +8492,7 @@
 0.0.0.0 dolomiti-bikeguide.com
 0.0.0.0 dom-dev-analytics.bhg.tools
 0.0.0.0 domail.com
+0.0.0.0 domain.name
 0.0.0.0 domainadvertising.com
 0.0.0.0 domainbuyingservices.com
 0.0.0.0 domaining.in
@@ -10704,6 +10705,7 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.bustle.com
 0.0.0.0 graph.digiseller.ru
+0.0.0.0 graph.facebook.com.domain.name
 0.0.0.0 graph.feature.fm
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.internet.org
@@ -25305,6 +25307,7 @@
 0.0.0.0 www.dobre-programy.xyz
 0.0.0.0 www.dobreprogramy.pro
 0.0.0.0 www.dogecoinfaucets.info
+0.0.0.0 www.domain.name
 0.0.0.0 www.domivideos.com
 0.0.0.0 www.doodlemobile.com
 0.0.0.0 www.dotandad.com
@@ -26016,7 +26019,6 @@
 0.0.0.0 www.techvedic.com
 0.0.0.0 www.teddygirls.cc
 0.0.0.0 www.tekka.it
-0.0.0.0 www.telemetry.appex.bing.net:443
 0.0.0.0 www.tenjin.com
 0.0.0.0 www.tercept.com
 0.0.0.0 www.theadgateway.com
