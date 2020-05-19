@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.140
 # Release: 140
-# Entries: 26,848
+# Entries: 26,845
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 19 May 20 05:45:31
+# Updated: Tue, 19 May 20 11:45:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13422,7 +13422,6 @@
 0.0.0.0 linkwash.de
 0.0.0.0 linkworth.com
 0.0.0.0 linkybank.com
-0.0.0.0 linux.cocoss2d.com
 0.0.0.0 linux.css2.com
 0.0.0.0 linux.unitys3d.com
 0.0.0.0 linux2.googlerenewals.net
@@ -16008,7 +16007,6 @@
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 opyyykrdyuum.com
 0.0.0.0 oqn2ujcvgki0fgqy.pro
-0.0.0.0 ora.blindsidefantasy.com
 0.0.0.0 ora.carlaarrabitoarchitetto.com
 0.0.0.0 orabbix.zabbixmonitor.net
 0.0.0.0 orangedust.de
@@ -23573,7 +23571,6 @@
 0.0.0.0 update.estrongs.com
 0.0.0.0 update.eu.com
 0.0.0.0 update.fortinetantivirus.com
-0.0.0.0 update.microsoftonlines.net
 0.0.0.0 update.moatads.com
 0.0.0.0 update.openx.com
 0.0.0.0 update.sdk.batmobi.net
