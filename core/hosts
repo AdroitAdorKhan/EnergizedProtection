@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.144
 # Release: 144
-# Entries: 26,842
+# Entries: 26,840
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 23 May 20 05:45:20
+# Updated: Sat, 23 May 20 11:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2079,7 +2079,6 @@
 0.0.0.0 ads.pokerhuis.com
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.primissima.it
-0.0.0.0 ads.printscr.com
 0.0.0.0 ads.prisacom.com
 0.0.0.0 ads.prnt.sc
 0.0.0.0 ads.pro-market.net
@@ -26482,7 +26481,6 @@
 0.0.0.0 xs.instreamatic.com
 0.0.0.0 xsa5x.bemobtrk.com
 0.0.0.0 xsgcobwd.com
-0.0.0.0 xskcjzamlkxwo.gq
 0.0.0.0 xtendadvert.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtop.me
