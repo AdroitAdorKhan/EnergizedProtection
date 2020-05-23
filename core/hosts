@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.144
 # Release: 144
-# Entries: 26,840
+# Entries: 26,839
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 23 May 20 17:45:17
+# Updated: Sat, 23 May 20 23:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -985,7 +985,6 @@
 0.0.0.0 ad.depo.hu
 0.0.0.0 ad.deviantart.com
 0.0.0.0 ad.diamond.ne.jp
-0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.dmm.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
