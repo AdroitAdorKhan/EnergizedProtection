@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.05.145
-# Release: 145
-# Entries: 26,971
+# Version: 20.05.146
+# Release: 146
+# Entries: 26,982
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 24 May 20 23:45:15
+# Updated: Mon, 25 May 20 05:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -847,6 +847,7 @@
 0.0.0.0 acalvet.com
 0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 acbras.com
+0.0.0.0 accaii.com
 0.0.0.0 acccountsgoog1e.com
 0.0.0.0 accelacomm.com
 0.0.0.0 acceptable.a-ads.com
@@ -4369,6 +4370,7 @@
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.leadiacloud.com
+0.0.0.0 api.leanplum.com
 0.0.0.0 api.livefyre.com
 0.0.0.0 api.m.taobao.com
 0.0.0.0 api.madadsmedia.com
@@ -7122,6 +7124,7 @@
 0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-test.adhese.com
 0.0.0.0 cloud-us.analytics-egain.com
+0.0.0.0 cloud.chatbeacon.io
 0.0.0.0 cloud.uc.cn
 0.0.0.0 cloud.ucweb.com
 0.0.0.0 cloudads-a.akamaihd.net
@@ -8871,7 +8874,6 @@
 0.0.0.0 e-elb-us-east-1-01.adzerk.net
 0.0.0.0 e-find.co
 0.0.0.0 e-generator.com
-0.0.0.0 e-geräteundhaus.com
 0.0.0.0 e-halle.ch
 0.0.0.0 e-hpaces.ero-advertising.com
 0.0.0.0 e-leclerc-market.de
@@ -10477,7 +10479,6 @@
 0.0.0.0 getunlocked.com
 0.0.0.0 geyan.gepush.com
 0.0.0.0 gezwitschere.de
-0.0.0.0 gfe.nvidia.com
 0.0.0.0 gfi-cloud.de
 0.0.0.0 gfiadihbdcigdbdfaec.ru
 0.0.0.0 gfstrck.com
@@ -10971,6 +10972,7 @@
 0.0.0.0 hanhertigepar.pro
 0.0.0.0 hannaken.com
 0.0.0.0 hantinlethemsed.info
+0.0.0.0 hanyaiklan.com
 0.0.0.0 hao.360.cn
 0.0.0.0 hao.uc.cn
 0.0.0.0 haobtc.com
@@ -12441,6 +12443,7 @@
 0.0.0.0 ipairs.de
 0.0.0.0 ipbc.io
 0.0.0.0 ipc.skimresources.com
+0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 ipelucas.com
 0.0.0.0 iperceptions.com
 0.0.0.0 iphone.aut5.com
@@ -12526,6 +12529,7 @@
 0.0.0.0 its-that-easy.com
 0.0.0.0 itspsmup.com
 0.0.0.0 itsupport.outbrain.com
+0.0.0.0 ituqqdepo.com
 0.0.0.0 itx4.smartadserver.com
 0.0.0.0 itx5-publicidad.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
@@ -13283,6 +13287,7 @@
 0.0.0.0 layer33000nf.pubmatic.com
 0.0.0.0 layerads.ero-advertising.com
 0.0.0.0 layers.ero-advertising.com
+0.0.0.0 lazada-id.lazada.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
 0.0.0.0 lb.ads.justpremium.com
 0.0.0.0 lb.skimresources.com
 0.0.0.0 lb.statsevent.com
@@ -13445,6 +13450,7 @@
 0.0.0.0 lifemymall.com
 0.0.0.0 lifestreetmedia.com
 0.0.0.0 liftdna.com
+0.0.0.0 ligadewa8.com
 0.0.0.0 ligatus.com
 0.0.0.0 ligatus.de
 0.0.0.0 lighmekedrof.com
@@ -17542,7 +17548,6 @@
 0.0.0.0 polaris.cxsearch.cxense.com
 0.0.0.0 polarmobile.com
 0.0.0.0 polenboeller-deutschland.com
-0.0.0.0 polenböller-deutschland.com
 0.0.0.0 policityseriod.info
 0.0.0.0 policy.catchyoutube.toptools100.com
 0.0.0.0 policy.video.iqiyi.com
@@ -17843,6 +17848,7 @@
 0.0.0.0 prod.ap-southeast-1.int.vidible.tv
 0.0.0.0 prod.embut.manycomponents.com
 0.0.0.0 prod.eu-central-1.int.vidible.tv
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prod.us-east-1.int.vidible.tv
 0.0.0.0 prod.us-west-1.int.vidible.tv
 0.0.0.0 prod.us-west-2.int.vidible.tv
@@ -18771,6 +18777,7 @@
 0.0.0.0 rfit.hirship.com
 0.0.0.0 rfp.fout.jp
 0.0.0.0 rfrsnqen.com
+0.0.0.0 rg-id.lazada.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
 0.0.0.0 rg.yottos.com
 0.0.0.0 rgaudit.1rx.io
 0.0.0.0 rhein-entree.de
@@ -19824,7 +19831,6 @@
 0.0.0.0 shecards.net
 0.0.0.0 sheheaven.com
 0.0.0.0 sheinse.com
-0.0.0.0 sheldonbrown.com
 0.0.0.0 sher.index.hu
 0.0.0.0 shermore.info
 0.0.0.0 shetarget.com
@@ -20121,6 +20127,7 @@
 0.0.0.0 smashsurprise.com
 0.0.0.0 smc.demdex.net
 0.0.0.0 smentcirrhoea.club
+0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.boston.com
 0.0.0.0 smetrics.ctv.ca
 0.0.0.0 smetrics.foxnews.com
@@ -21511,6 +21518,7 @@
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry.nvidia.com
+0.0.0.0 telemetry.ros.rockstargames.com
 0.0.0.0 telemetry.sdk.ams1.appgw.inmobi.com
 0.0.0.0 telemetry.sdk.ams1.avi.inmobi.com
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
@@ -21837,6 +21845,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tokenads.com
 0.0.0.0 tokfb.adsrvr.org
+0.0.0.0 tokopedia.link
 0.0.0.0 tokvideo.adsrvr.org
 0.0.0.0 tolivo.de
 0.0.0.0 tollfreeforwarding.com
@@ -21914,6 +21923,7 @@
 0.0.0.0 topstats.com
 0.0.0.0 topswp.com
 0.0.0.0 toptools100.com
+0.0.0.0 topwwnews.com
 0.0.0.0 toresonetalet.pro
 0.0.0.0 torgatedga35slsu.onion.pet
 0.0.0.0 tormeno.com
@@ -24016,6 +24026,7 @@
 0.0.0.0 venatusmedia.com
 0.0.0.0 vendexo.com
 0.0.0.0 vendosupport.com
+0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 venezuelanoticia.com
 0.0.0.0 vennala.pw
 0.0.0.0 vente-privee.com
@@ -25745,6 +25756,7 @@
 0.0.0.0 www.maxonclick.com
 0.0.0.0 www.mb102.com
 0.0.0.0 www.mb103.com
+0.0.0.0 www.mbo4d.co
 0.0.0.0 www.mdotlabs.com
 0.0.0.0 www.me.ads.justpremium.com
 0.0.0.0 www.media.net
@@ -26046,7 +26058,6 @@
 0.0.0.0 www.sglala.com
 0.0.0.0 www.sgtrackingap.com
 0.0.0.0 www.shecards.net
-0.0.0.0 www.sheldonbrown.com
 0.0.0.0 www.shglegle.com
 0.0.0.0 www.shinystat.com
 0.0.0.0 www.shopstylecollective.com
