@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.146
 # Release: 146
-# Entries: 26,982
+# Entries: 26,981
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 25 May 20 05:45:17
+# Updated: Mon, 25 May 20 11:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15554,7 +15554,6 @@
 0.0.0.0 nitmus.com
 0.0.0.0 nitratory.com
 0.0.0.0 nitroclicks.com
-0.0.0.0 nitroqensports.eu
 0.0.0.0 niusmart.shop
 0.0.0.0 nivea.adform.net
 0.0.0.0 nixnet.cz
