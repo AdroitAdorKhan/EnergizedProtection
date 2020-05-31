@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.05.152
 # Release: 152
-# Entries: 27,158
+# Entries: 27,157
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 31 May 20 17:45:15
+# Updated: Sun, 31 May 20 23:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7626,7 +7626,6 @@
 0.0.0.0 count.ly
 0.0.0.0 count.rin.ru
 0.0.0.0 count.video.sina.com.cn
-0.0.0.0 count.west263.com
 0.0.0.0 countante.info
 0.0.0.0 counted.com
 0.0.0.0 counter.24smi.info
