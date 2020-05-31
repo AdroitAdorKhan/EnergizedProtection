@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.05.152
-# Release: 152
-# Entries: 27,157
+# Version: 20.06.153
+# Release: 153
+# Entries: 27,174
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 31 May 20 23:45:17
+# Updated: Mon, 01 Jun 20 05:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4173,6 +4173,7 @@
 0.0.0.0 anquan.baidu.com
 0.0.0.0 anstrex.com
 0.0.0.0 answerstedhctbek.onion.pet
+0.0.0.0 antiadblocksystems.com
 0.0.0.0 antifraud-sg.empello.net
 0.0.0.0 antifraud.empello.net
 0.0.0.0 antik-kump.at
@@ -5086,6 +5087,7 @@
 0.0.0.0 b54.in
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 b60228e270e363f6.com
+0.0.0.0 b8pfulzbyj7h.com
 0.0.0.0 babanetwork.vidible.tv
 0.0.0.0 babs.tv2.dk
 0.0.0.0 babykosy.com
@@ -5405,6 +5407,7 @@
 0.0.0.0 belointeractive.com
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
+0.0.0.0 beludicolor.com
 0.0.0.0 belvertising.be
 0.0.0.0 belwrite.com
 0.0.0.0 bemob.entrepreneurmindmap.net
@@ -5489,6 +5492,7 @@
 0.0.0.0 beta.umeng.com
 0.0.0.0 beta1.studio.ev1.inmobi.com
 0.0.0.0 beta2-pre.ads.justpremium.com
+0.0.0.0 betimbur.com
 0.0.0.0 betonethathadfa.pro
 0.0.0.0 betpartners.it
 0.0.0.0 betpromo247.com
@@ -9991,6 +9995,7 @@
 0.0.0.0 follow.maribacaberita.com
 0.0.0.0 folmetor.com
 0.0.0.0 folmy.de
+0.0.0.0 fontainsuny.club
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foodandcot.com
 0.0.0.0 foodfromfriends.co.nz
@@ -11436,6 +11441,7 @@
 0.0.0.0 hollowshake.com
 0.0.0.0 hollylight.store
 0.0.0.0 hollymoda.com
+0.0.0.0 hollywood.to
 0.0.0.0 holmeshelp.uc.cn
 0.0.0.0 holmeshelp.ucweb.com
 0.0.0.0 holographic.city
@@ -11710,6 +11716,7 @@
 0.0.0.0 ich-natuerlich.de
 0.0.0.0 ichecknotifyfriends.info
 0.0.0.0 ichica-wn-test1.adtdp.com
+0.0.0.0 iclickcdn.com
 0.0.0.0 ico.bitcomo.com
 0.0.0.0 iconadserver.com
 0.0.0.0 iconiclouisvuitton.com
@@ -12744,6 +12751,7 @@
 0.0.0.0 jira.openx.com
 0.0.0.0 jira.outbrain.com
 0.0.0.0 jiratest.pubmatic.com
+0.0.0.0 jistaumt.com
 0.0.0.0 jita.rtk.io
 0.0.0.0 jivosite.com
 0.0.0.0 jivox.com
@@ -13842,6 +13850,7 @@
 0.0.0.0 looprita.com
 0.0.0.0 loovincy.com
 0.0.0.0 lop.com
+0.0.0.0 lopzitpup.com
 0.0.0.0 loracmoon.com
 0.0.0.0 lorenjenna.com
 0.0.0.0 lorettiwatches.com
@@ -17461,6 +17470,7 @@
 0.0.0.0 pl15216242.passeura.com
 0.0.0.0 pl15217264.passeura.com
 0.0.0.0 pl15225655.passeura.com
+0.0.0.0 pl15267041.passeura.com
 0.0.0.0 pl15277121.passtechusa.com
 0.0.0.0 pl15298710.passtechusa.com
 0.0.0.0 pl15301890.passtechusa.com
@@ -20211,6 +20221,7 @@
 0.0.0.0 slhnj.com
 0.0.0.0 slickdeals.demdex.net
 0.0.0.0 slicktext.com
+0.0.0.0 slideff.com
 0.0.0.0 slient.ucdl.pp.uc.cn
 0.0.0.0 slikslik.com
 0.0.0.0 slimtrade.com
@@ -20586,6 +20597,7 @@
 0.0.0.0 srv.moportals.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv01.howingo.com
+0.0.0.0 srv208.hollywood.to
 0.0.0.0 srv26.adcash.com
 0.0.0.0 srv999.hollywood.to
 0.0.0.0 srvcc-cdn.media.net
@@ -21022,6 +21034,7 @@
 0.0.0.0 stazumik.net
 0.0.0.0 stb-greupner.de
 0.0.0.0 stc.fx.fastcontentdelivery.com
+0.0.0.0 stc.hollywood.to
 0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 steelhouse.com
@@ -21918,6 +21931,7 @@
 0.0.0.0 titbinegothe.info
 0.0.0.0 titihaus.de
 0.0.0.0 titjolacruso.info
+0.0.0.0 titoaktop.com
 0.0.0.0 tityx.com
 0.0.0.0 tiumbs.ero-advertising.com
 0.0.0.0 tiwar.net
@@ -23786,6 +23800,7 @@
 0.0.0.0 undhathaletold.pro
 0.0.0.0 undmathenhem.info
 0.0.0.0 undratheshecken.pro
+0.0.0.0 unelekidan.com
 0.0.0.0 unendliche-begrenzung.de
 0.0.0.0 unet.ucweb.com
 0.0.0.0 ungstlateriag.club
@@ -24238,6 +24253,7 @@
 0.0.0.0 vg-mtrack.rayjump.com
 0.0.0.0 vg-old-setting.rayjump.com
 0.0.0.0 vg-setting.rayjump.com
+0.0.0.0 vgw35hwr4w6x.com
 0.0.0.0 vhguyeu.ml
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vhmnetwork.com
@@ -25052,7 +25068,6 @@
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.hghit.com
 0.0.0.0 ws.sharethis.com
-0.0.0.0 ws.webcaster.pro
 0.0.0.0 ws1.tapjoyads.com
 0.0.0.0 ws2.tapjoyads.com
 0.0.0.0 ws38.watashinonegai.ru
@@ -25372,6 +25387,7 @@
 0.0.0.0 www.andriod.co
 0.0.0.0 www.anners.ero-advertising.com
 0.0.0.0 www.annoncelegalepascher.fr
+0.0.0.0 www.antiadblocksystems.com
 0.0.0.0 www.antiquedealersydney.com.au
 0.0.0.0 www.antivirus-help.com
 0.0.0.0 www.antivirus-mobile.club
@@ -25833,6 +25849,7 @@
 0.0.0.0 www.iugwmpnszxxwti.com
 0.0.0.0 www.ivideopiuvisti.com
 0.0.0.0 www.iwlvufxv.com
+0.0.0.0 www.iwmbuzz.com
 0.0.0.0 www.iyjph.voluumtrk.com
 0.0.0.0 www.iyogi.com
 0.0.0.0 www.izmirburak.com
