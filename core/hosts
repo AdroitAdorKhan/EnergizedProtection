@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.153
 # Release: 153
-# Entries: 27,172
+# Entries: 27,171
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 01 Jun 20 17:45:18
+# Updated: Mon, 01 Jun 20 23:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9234,7 +9234,6 @@
 0.0.0.0 emea.af.beap.bc.yahoo.com
 0.0.0.0 emebo.com
 0.0.0.0 emediate.dk
-0.0.0.0 emediate.eu
 0.0.0.0 ememoricane.info
 0.0.0.0 emeraldcityautobody.com
 0.0.0.0 emerelle-nails.de
