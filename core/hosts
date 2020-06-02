@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.154
 # Release: 154
-# Entries: 27,203
+# Entries: 27,202
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 02 Jun 20 11:45:15
+# Updated: Tue, 02 Jun 20 17:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -22816,7 +22816,6 @@
 0.0.0.0 track.scanguard.com
 0.0.0.0 track.scanmyphones.com
 0.0.0.0 track.scoota.co
-0.0.0.0 track.scorpiointeractive.com
 0.0.0.0 track.seadform.net
 0.0.0.0 track.searchignite.com
 0.0.0.0 track.searchiq.co
