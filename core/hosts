@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.154
 # Release: 154
-# Entries: 27,171
+# Entries: 27,203
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 02 Jun 20 05:45:16
+# Updated: Tue, 02 Jun 20 11:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -131,6 +131,7 @@
 0.0.0.0 12finance.com
 0.0.0.0 12place.com
 0.0.0.0 12xlgm0.edvfwlacluo.com
+0.0.0.0 12xlwin3.net
 0.0.0.0 13377xsite.imageshack.host
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13xr7th.edvfwlacluo.com
@@ -140,6 +141,8 @@
 0.0.0.0 15257dddaccde96.com
 0.0.0.0 152media.adk2.co
 0.0.0.0 15438.xyz
+0.0.0.0 1591041031.m-wlmw.com
+0.0.0.0 1591041119.m-wlmw.com
 0.0.0.0 15c15bi.edvfwlacluo.com
 0.0.0.0 15elon9.edvfwlacluo.com
 0.0.0.0 15iqb7n.edvfwlacluo.com
@@ -911,6 +914,7 @@
 0.0.0.0 acs.adgear.com
 0.0.0.0 acs.adtdp.com
 0.0.0.0 acs.maribacaberita.com
+0.0.0.0 acscdn.com
 0.0.0.0 acspaces.ero-advertising.com
 0.0.0.0 acsseo.com
 0.0.0.0 act.uc.cn
@@ -4761,6 +4765,7 @@
 0.0.0.0 as.sexad.net
 0.0.0.0 as.webmd.com
 0.0.0.0 as54rdxfzxs.appspot.com
+0.0.0.0 asacdn.com
 0.0.0.0 asafesite.com
 0.0.0.0 ascentgrow.com
 0.0.0.0 ascr.nexage.com
@@ -4954,6 +4959,7 @@
 0.0.0.0 authedwebmine.cz
 0.0.0.0 authentication.taboola.com
 0.0.0.0 authorne.info
+0.0.0.0 authorneryj.club
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autocounter.idealmedia.com
@@ -6527,6 +6533,7 @@
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn.foxpush.net
+0.0.0.0 cdn.ftd.agency
 0.0.0.0 cdn.g.wan.douyu.com
 0.0.0.0 cdn.googletoolservices.com
 0.0.0.0 cdn.hashflare.eu
@@ -6834,6 +6841,7 @@
 0.0.0.0 chef.algolia.com
 0.0.0.0 chef.bluekai.com
 0.0.0.0 chekazpools.com
+0.0.0.0 cheksoam.com
 0.0.0.0 chelisa.com
 0.0.0.0 cherrybird.com
 0.0.0.0 cherryemoore.com
@@ -9642,6 +9650,7 @@
 0.0.0.0 f.th.bav.baidu.com
 0.0.0.0 f.watchmovie.fun
 0.0.0.0 f0kuf.voluumtrk.com
+0.0.0.0 f1.cdn.ftd.agency
 0.0.0.0 f10.baidu.com
 0.0.0.0 f1tbit.com
 0.0.0.0 f2.doodlemobile.com
@@ -10210,6 +10219,7 @@
 0.0.0.0 fst.securefastoffers.com
 0.0.0.0 fsv-steinitz.de
 0.0.0.0 fsvastx.moatads.com
+0.0.0.0 ftd.agency
 0.0.0.0 ftjcfx.com
 0.0.0.0 ftm-soryn-kg.at
 0.0.0.0 ftp.dns-info.dyndns.pro
@@ -10741,7 +10751,6 @@
 0.0.0.0 go.ucweb.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.watchmovie.fun
-0.0.0.0 go.youlamedia.com
 0.0.0.0 go.zog.link
 0.0.0.0 go1.aniview.com
 0.0.0.0 go1.ero-advertising.com
@@ -10969,6 +10978,7 @@
 0.0.0.0 gunpartners.com
 0.0.0.0 guodin.gq
 0.0.0.0 guoyhfjrpt.com
+0.0.0.0 gupchup.app
 0.0.0.0 guppymedia.com
 0.0.0.0 guratterjecrec.pro
 0.0.0.0 guru.finance
@@ -12059,7 +12069,6 @@
 0.0.0.0 imagesync-lhr.pubmatic.com
 0.0.0.0 imagesync22000nf.pubmatic.com
 0.0.0.0 imagetopng.club
-0.0.0.0 imagetot.com
 0.0.0.0 imagizer.imageshack.com
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imarketservices.com
@@ -13969,6 +13978,7 @@
 0.0.0.0 m-sso.openx.com
 0.0.0.0 m-test.addthis.com
 0.0.0.0 m-tr.gearbest.com
+0.0.0.0 m-wlmw.com
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.ad6media.fr
 0.0.0.0 m.adcash.com
@@ -14546,6 +14556,7 @@
 0.0.0.0 mellowads.com
 0.0.0.0 melodyrun.music.s.xoxknct.com
 0.0.0.0 melonmail.melon.com.au
+0.0.0.0 melredirnxt.top
 0.0.0.0 meltdsp.com
 0.0.0.0 memarket.biz
 0.0.0.0 members.popcash.net
@@ -14800,6 +14811,7 @@
 0.0.0.0 mnoa6ez1eq.com
 0.0.0.0 mnp.nkr.am
 0.0.0.0 mntz.life
+0.0.0.0 mntzr-january2019.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 mo7her.incest.click
 0.0.0.0 moat.com
@@ -15349,6 +15361,7 @@
 0.0.0.0 namastenova.ca
 0.0.0.0 name.laf-shop.com
 0.0.0.0 nameketathar.pro
+0.0.0.0 namel.net
 0.0.0.0 nametraff.com
 0.0.0.0 namimedia.com
 0.0.0.0 nanashoe.com
@@ -15609,8 +15622,10 @@
 0.0.0.0 ng001.hasmobi.net
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 ngdp-staging.flurry.com
+0.0.0.0 nglingapparen.fun
 0.0.0.0 nglmedia.com
 0.0.0.0 ngp1.infopicked.com
+0.0.0.0 ngp1.intnotif.club
 0.0.0.0 ngp4.infopicked.com
 0.0.0.0 ngp4.intnotif.club
 0.0.0.0 ngpipes.analytics.mbga.jp
@@ -15621,6 +15636,7 @@
 0.0.0.0 nhp-haberland.de
 0.0.0.0 nhvw3-ee61f.ads.tremorhub.com
 0.0.0.0 nhvw3-uz8ne.ads.tremorhub.com
+0.0.0.0 nibzitgas.com
 0.0.0.0 nic.ad.jp
 0.0.0.0 nicego-h5.batmobi.net
 0.0.0.0 nicemice.cf
@@ -15947,6 +15963,7 @@
 0.0.0.0 ofeetles.pro
 0.0.0.0 ofertasfarmacias.es
 0.0.0.0 offer.lenzmx.com
+0.0.0.0 offer.mntzr-january2019.com
 0.0.0.0 offer.netaffs.in
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
@@ -16650,6 +16667,7 @@
 0.0.0.0 p374863.infopicked.com
 0.0.0.0 p375584.clksite.com
 0.0.0.0 p375584.infopicked.com
+0.0.0.0 p376122.clksite.com
 0.0.0.0 p37703.dnsecho.opera.com
 0.0.0.0 p377939.infopicked.com
 0.0.0.0 p380424.infopicked.com
@@ -17934,6 +17952,7 @@
 0.0.0.0 privatkellerei-hochleitner.de
 0.0.0.0 prize-mania.mobi
 0.0.0.0 prizel.com
+0.0.0.0 prizewheel.club
 0.0.0.0 prlds.appia.com
 0.0.0.0 prlic.brightcove.com
 0.0.0.0 prm-native.com
@@ -18638,6 +18657,7 @@
 0.0.0.0 rechtsanwalt-fiore.de
 0.0.0.0 rechtsanwalt-klett.de
 0.0.0.0 recino.com
+0.0.0.0 reckinbuttiten.pro
 0.0.0.0 reckintersupwas.info
 0.0.0.0 reckless-addict.net
 0.0.0.0 reco.flow.headline.uodoo.com
@@ -18718,6 +18738,7 @@
 0.0.0.0 reflectivereward.com
 0.0.0.0 reflexonature.free.fr
 0.0.0.0 refpa.top
+0.0.0.0 refpakrtsb.top
 0.0.0.0 refpamjeql.top
 0.0.0.0 refpaqru.host
 0.0.0.0 refpaydc.top
@@ -19159,6 +19180,7 @@
 0.0.0.0 rtbx.adgrx.com
 0.0.0.0 rtclocketsun.info
 0.0.0.0 rtd.tubemogul.com
+0.0.0.0 rtfslp5ejugqsy.ru
 0.0.0.0 rtg.liveads.jp
 0.0.0.0 rtk.io
 0.0.0.0 rtlog.byteoversea.com
@@ -19670,6 +19692,7 @@
 0.0.0.0 secondscreenindexer.adswizz.com
 0.0.0.0 secondstreetmedia.com
 0.0.0.0 secretivecub.com
+0.0.0.0 secretplaces.club
 0.0.0.0 secretpursuit.com
 0.0.0.0 secretspiders.com
 0.0.0.0 secure-adnxs.edgekey.net
@@ -19909,6 +19932,7 @@
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 sg-old-setting.rayjump.com
 0.0.0.0 sg-setting.rayjump.com
+0.0.0.0 sg.12xlwin3.net
 0.0.0.0 sg.adserver.yahoo.com
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.mtrack.rayjump.com
@@ -23089,6 +23113,7 @@
 0.0.0.0 trackers.free-counters.co.uk
 0.0.0.0 trackersimulator.org
 0.0.0.0 trackerssl.p2ps.io
+0.0.0.0 trackeruniverse.com
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking-ams5.cj.com
 0.0.0.0 tracking-dc6.cj.com
@@ -23347,6 +23372,7 @@
 0.0.0.0 trendcounter.com
 0.0.0.0 trending.revcontent.com
 0.0.0.0 trendingpatrol.com
+0.0.0.0 trendingvidz.net
 0.0.0.0 trendmd.com
 0.0.0.0 trendnews.com
 0.0.0.0 trends-a.op-mobile.opera.com
@@ -23889,6 +23915,7 @@
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 upornia.com
 0.0.0.0 uprek.com
+0.0.0.0 uprimp.com
 0.0.0.0 uprock.net
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 ups.ksmobile.net
@@ -24949,6 +24976,7 @@
 0.0.0.0 wirecomic.com
 0.0.0.0 wirlaufenzurschule.de
 0.0.0.0 wisepops.com
+0.0.0.0 witcfehryenier5.live
 0.0.0.0 witch-counter.de
 0.0.0.0 withinknuko.club
 0.0.0.0 wittnerdeals.site
@@ -25350,6 +25378,7 @@
 0.0.0.0 www.adworx.at
 0.0.0.0 www.adxmeb.com
 0.0.0.0 www.adxtro.com
+0.0.0.0 www.adzbazar.com
 0.0.0.0 www.adzerk.com
 0.0.0.0 www.adzerk.net
 0.0.0.0 www.ae1a1e258b8b016.com
@@ -26033,6 +26062,7 @@
 0.0.0.0 www.nmrlcnuok.com
 0.0.0.0 www.nners.ero-advertising.com
 0.0.0.0 www.npept.voluumtrk.com
+0.0.0.0 www.nryceuula.com
 0.0.0.0 www.nuggad.net
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.o333o.com
@@ -26682,6 +26712,7 @@
 0.0.0.0 x.shopsavvy.com
 0.0.0.0 x.skimresources.com
 0.0.0.0 x.skimresources.comx.skimresources.com
+0.0.0.0 x.trc81.com
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 x7xirtzmot.com
 0.0.0.0 xad.com
@@ -27038,6 +27069,7 @@
 0.0.0.0 z.analytics.yahoo.com
 0.0.0.0 z.applovin.com
 0.0.0.0 z.cdn.adbetnet.com
+0.0.0.0 z.cdn.ftd.agency
 0.0.0.0 z.exoclick.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z.opmnstr.com
