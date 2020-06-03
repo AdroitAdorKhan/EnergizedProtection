@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.155
-# Release: 155
-# Entries: 27,201
+# Version: 20.06.156
+# Release: 156
+# Entries: 27,230
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 03 Jun 20 23:45:18
+# Updated: Thu, 04 Jun 20 05:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -60,6 +60,7 @@
 0.0.0.0 0latfee.ero-advertising.com
 0.0.0.0 0le8u.bemobtrk.com
 0.0.0.0 0n7uf.voluumtrk.com
+0.0.0.0 0pb8hx.com
 0.0.0.0 0s0vn.bemobtrk.com
 0.0.0.0 0sywjs4r1x.com
 0.0.0.0 0xf4a5.tk
@@ -575,6 +576,7 @@
 0.0.0.0 6lhw4.bemobtrk.com
 0.0.0.0 6moxhf9rmm.com
 0.0.0.0 6ngyq.bemobtrk.com
+0.0.0.0 6sercher.biz
 0.0.0.0 6trllz.edvfwlacluo.com
 0.0.0.0 6zi.notifications.website
 0.0.0.0 729dcbaa57e80c1e.com
@@ -1377,7 +1379,6 @@
 0.0.0.0 adclick.eqmob.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 adclick.lv
 0.0.0.0 adclick.ushareit.com
 0.0.0.0 adclick.zkmobi.com
 0.0.0.0 adclickafrica.com
@@ -5403,6 +5404,7 @@
 0.0.0.0 begun.ru
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 behavingsoping.club
 0.0.0.0 behavioralengine.com
 0.0.0.0 beilm.co
 0.0.0.0 beiven.pw
@@ -5742,6 +5744,7 @@
 0.0.0.0 blogohertz.com
 0.0.0.0 blogoman-24.com
 0.0.0.0 blogpt.taboola.com
+0.0.0.0 blogspop.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 bloomsocks.ca
@@ -6956,6 +6959,7 @@
 0.0.0.0 clckads.org
 0.0.0.0 clcknads.pro
 0.0.0.0 cldlr.com
+0.0.0.0 clean4app.xyz
 0.0.0.0 cleana.online
 0.0.0.0 cleanmydevice.r.xoxknct.com
 0.0.0.0 cleanmydevice.s.xoxknct.com
@@ -7461,6 +7465,7 @@
 0.0.0.0 config.ad.snappea.com
 0.0.0.0 config.ams1.appgw.inmobi.com
 0.0.0.0 config.appjolt.com
+0.0.0.0 config.c0nect.com
 0.0.0.0 config.eastus.avi.inmobi.com
 0.0.0.0 config.flurry.com
 0.0.0.0 config.inmobi.com
@@ -8319,6 +8324,7 @@
 0.0.0.0 designer-second-hand-shop.com
 0.0.0.0 designer.dynamic-dns.net
 0.0.0.0 desilady.mobi
+0.0.0.0 desivideo.online
 0.0.0.0 desklks.com
 0.0.0.0 desktest1.xyz
 0.0.0.0 desktest5.xyz
@@ -8455,6 +8461,7 @@
 0.0.0.0 digi.tapad.com
 0.0.0.0 digigerate-store.de
 0.0.0.0 digin.adreach.co
+0.0.0.0 diginamis.com
 0.0.0.0 digipathmedia.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digitalbees.it
@@ -9837,6 +9844,7 @@
 0.0.0.0 ff.uc.cn
 0.0.0.0 ffdgbserv.ml
 0.0.0.0 ffilelogapp.nimo.tv
+0.0.0.0 ffload02.top
 0.0.0.0 ffw-spirkelbach.de
 0.0.0.0 ffw-unterbechingen.de
 0.0.0.0 ffxcam.fairfax.com.au
@@ -10564,6 +10572,7 @@
 0.0.0.0 getunlocked.com
 0.0.0.0 geyan.gepush.com
 0.0.0.0 gezwitschere.de
+0.0.0.0 gf.desivideo.online
 0.0.0.0 gfi-cloud.de
 0.0.0.0 gfiadihbdcigdbdfaec.ru
 0.0.0.0 gfstrck.com
@@ -10710,6 +10719,7 @@
 0.0.0.0 go.bcvc.mobi
 0.0.0.0 go.bebi.com
 0.0.0.0 go.brightcove.com
+0.0.0.0 go.c0nect.com
 0.0.0.0 go.cj.com
 0.0.0.0 go.ero-advertising.com
 0.0.0.0 go.eroadvertising.com
@@ -11593,6 +11603,7 @@
 0.0.0.0 hw-cdn-ap.trafficjunky.net
 0.0.0.0 hw-cdn.contentabc.com
 0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.contentabc.com
 0.0.0.0 hw-img.applovin.com
 0.0.0.0 hw-img.datpiff.com
@@ -12947,6 +12958,7 @@
 0.0.0.0 justteck.com
 0.0.0.0 justuno.com
 0.0.0.0 justwebads.com
+0.0.0.0 jutick-eu.info
 0.0.0.0 juwelier-m-blome.de
 0.0.0.0 jwpevent.1rx.io
 0.0.0.0 jwpltx.com
@@ -13139,6 +13151,7 @@
 0.0.0.0 kloodo-media.com
 0.0.0.0 klostercafesaarn.de
 0.0.0.0 klsattelschnallen.de
+0.0.0.0 klsdee.com
 0.0.0.0 klunker-plus.de
 0.0.0.0 klzv-z341.de
 0.0.0.0 kmgegotashop.online
@@ -13164,6 +13177,7 @@
 0.0.0.0 kommworkout.de
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
+0.0.0.0 kompoz.me
 0.0.0.0 konsolen-kost.net
 0.0.0.0 konsolenparadies.de
 0.0.0.0 kontera.com
@@ -13591,6 +13605,7 @@
 0.0.0.0 linkexchange.ru
 0.0.0.0 linkexchangers.net
 0.0.0.0 linkgrand.com
+0.0.0.0 linknoddle4.com
 0.0.0.0 linknotification.com
 0.0.0.0 linkoffers.net
 0.0.0.0 linkprice.com
@@ -13841,6 +13856,7 @@
 0.0.0.0 loneeaglerecords.com
 0.0.0.0 lonelygirls.net
 0.0.0.0 longinglettuce.com
+0.0.0.0 lonkem.com
 0.0.0.0 loodyas.com
 0.0.0.0 look.ichlnk.com
 0.0.0.0 look.kfiopkln.com
@@ -13947,6 +13963,7 @@
 0.0.0.0 lvsave.com
 0.0.0.0 lvsstore.com
 0.0.0.0 lwsxrphion.com
+0.0.0.0 lx-bet94687.world
 0.0.0.0 lx2rv.com
 0.0.0.0 lxqcgj.com
 0.0.0.0 ly.ads.justpremium.com
@@ -15117,6 +15134,7 @@
 0.0.0.0 mrelektroshop.com
 0.0.0.0 mresell.macworld.co.uk
 0.0.0.0 mrjaeger-optik.de
+0.0.0.0 mrjb7hvcks.com
 0.0.0.0 mrmontero.de
 0.0.0.0 mrnerd.de
 0.0.0.0 mrollium.de
@@ -15478,6 +15496,7 @@
 0.0.0.0 netitrabrit.pro
 0.0.0.0 netjum.com
 0.0.0.0 netmng.com
+0.0.0.0 netpatas.com
 0.0.0.0 netrosol.net
 0.0.0.0 nets.help.adfox.ru
 0.0.0.0 netsec.at
@@ -15836,6 +15855,7 @@
 0.0.0.0 nsmartad.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nt.smartclick.net
+0.0.0.0 ntalvb6cdlrl.com
 0.0.0.0 ntaryan.com
 0.0.0.0 ntent.com
 0.0.0.0 nttdocomo-uh.com
@@ -16320,6 +16340,7 @@
 0.0.0.0 outmanlets.com
 0.0.0.0 outrain.com
 0.0.0.0 ov5tb.bemobtrk.com
+0.0.0.0 overzoruaon.com
 0.0.0.0 oviwtvswp.com
 0.0.0.0 ovtopli.ru
 0.0.0.0 ow-gateway.supersonicads.com
@@ -17910,6 +17931,7 @@
 0.0.0.0 presence-grpc.truecaller.com
 0.0.0.0 presentation-hkg1.turn.com
 0.0.0.0 presetrabbits.com
+0.0.0.0 press-here-to-continue.com
 0.0.0.0 press.flurry.com
 0.0.0.0 presscommtech.com
 0.0.0.0 prestadsng.com
@@ -20286,6 +20308,7 @@
 0.0.0.0 smartgmwatch.club
 0.0.0.0 smarticle.video.ums.uc.cn
 0.0.0.0 smartling-connector.vidible.tv
+0.0.0.0 smartnetglobal.xyz
 0.0.0.0 smartoffer.site
 0.0.0.0 smartoffers.tabacco.space
 0.0.0.0 smartshare.tv
@@ -21149,7 +21172,6 @@
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 strikeiron.com
 0.0.0.0 strip.taobaocdn.com
-0.0.0.0 stripe.network
 0.0.0.0 stripedburst.com
 0.0.0.0 striver.live
 0.0.0.0 strivers.live
@@ -21920,6 +21942,7 @@
 0.0.0.0 tierpension-fuerst.at
 0.0.0.0 tierschutzverein-oberursel.com
 0.0.0.0 tikjbfpd.com
+0.0.0.0 tiktok-news.com
 0.0.0.0 tiledenherred.pro
 0.0.0.0 tiller.co
 0.0.0.0 timberlandberlin.de
@@ -23538,6 +23561,7 @@
 0.0.0.0 tulistado.com
 0.0.0.0 tullys.app
 0.0.0.0 tulsilyte.com
+0.0.0.0 tune-mobile.com
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 tuppbags.com
 0.0.0.0 tur-tur-key.com
@@ -24579,6 +24603,7 @@
 0.0.0.0 vz-assets.applovin.com
 0.0.0.0 vz-cdn.contentabc.com
 0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 vz-cdn2.contentabc.com
 0.0.0.0 vz-img.applovin.com
 0.0.0.0 vz-vid.applovin.com
@@ -25634,6 +25659,7 @@
 0.0.0.0 www.de.cj.com
 0.0.0.0 www.definitimedia.com
 0.0.0.0 www.demdex.net
+0.0.0.0 www.desivideo.online
 0.0.0.0 www.deta.ero-advertising.com
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.dfw1.vip.inmobi.com
@@ -25938,6 +25964,7 @@
 0.0.0.0 www.loadmill.com
 0.0.0.0 www.localxstreet.xyz
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
+0.0.0.0 www.lonkem.com
 0.0.0.0 www.lowaosan.com
 0.0.0.0 www.lp-site.com
 0.0.0.0 www.lptrack.co
@@ -26164,6 +26191,7 @@
 0.0.0.0 www.predictionds.com
 0.0.0.0 www.pregnancy.adblade.com
 0.0.0.0 www.premiumsent.com
+0.0.0.0 www.press-here-to-continue.com
 0.0.0.0 www.prize-mania.mobi
 0.0.0.0 www.prizes-sg.com
 0.0.0.0 www.promo.buzzclicks.com
@@ -26819,6 +26847,7 @@
 0.0.0.0 xn--s-eca.net
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xnl.ads.justpremium.com
+0.0.0.0 xnxx321.com
 0.0.0.0 xoada0pzosa.appspot.com
 0.0.0.0 xoclkrvstrafms.com
 0.0.0.0 xokako.com
