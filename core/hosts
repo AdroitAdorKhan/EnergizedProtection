@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.156
 # Release: 156
-# Entries: 27,229
+# Entries: 27,258
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 04 Jun 20 11:45:15
+# Updated: Thu, 04 Jun 20 17:45:27
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3449,6 +3449,7 @@
 0.0.0.0 amisc.iasds01.com
 0.0.0.0 amlug.net
 0.0.0.0 ammadv.it
+0.0.0.0 ammapettai.com
 0.0.0.0 amo-mackensen.de
 0.0.0.0 amoad.com
 0.0.0.0 amobee.com
@@ -4810,6 +4811,7 @@
 0.0.0.0 assets.bttrack.com
 0.0.0.0 assets.buysellads.com
 0.0.0.0 assets.crashlytics.com
+0.0.0.0 assets.deployads.com
 0.0.0.0 assets.gaysexuality.com
 0.0.0.0 assets.insnw.net
 0.0.0.0 assets.invitemedia.com
@@ -6094,6 +6096,7 @@
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.casalemedia.com
 0.0.0.0 c.contentsitesrv.com
+0.0.0.0 c.deployads.com
 0.0.0.0 c.evidon.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.jsrdn.com
@@ -7990,6 +7993,7 @@
 0.0.0.0 d.scorecardresearch.com
 0.0.0.0 d.skimresources.com
 0.0.0.0 d.smopy.com
+0.0.0.0 d.w-x.co
 0.0.0.0 d.watchmovie.fun
 0.0.0.0 d.workflowboard.com
 0.0.0.0 d00.sina.com.cn
@@ -8209,6 +8213,7 @@
 0.0.0.0 dealdotcom.com
 0.0.0.0 dealeractive.com.re.getclicky.com
 0.0.0.0 dealmas-es.com
+0.0.0.0 deals.deployads.com
 0.0.0.0 dealshopper.de
 0.0.0.0 deanmediagroup.com
 0.0.0.0 deanners.com
@@ -8974,6 +8979,7 @@
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.baidu.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 e.deployads.com
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 e.kde.cz
 0.0.0.0 e.listenmusic.fun
@@ -9259,6 +9265,7 @@
 0.0.0.0 emma-facialharmony.at
 0.0.0.0 emmas-cafe.de
 0.0.0.0 emoji.uc.cn
+0.0.0.0 emolapnay.com
 0.0.0.0 emoticon.sns.iqiyi.com
 0.0.0.0 empiremoney.com
 0.0.0.0 empirescooters.com
@@ -9654,6 +9661,7 @@
 0.0.0.0 f.mobclix.com
 0.0.0.0 f.sd.baidu.com
 0.0.0.0 f.th.bav.baidu.com
+0.0.0.0 f.w-x.co
 0.0.0.0 f.watchmovie.fun
 0.0.0.0 f0kuf.voluumtrk.com
 0.0.0.0 f1.cdn.ftd.agency
@@ -10149,6 +10157,7 @@
 0.0.0.0 frailoffer.com
 0.0.0.0 fraktion-bfz-gruene.de
 0.0.0.0 fralexgaming.at
+0.0.0.0 frame.deployads.com
 0.0.0.0 framentyder.pro
 0.0.0.0 francoistsjacqu.info
 0.0.0.0 franken2-band.de
@@ -10884,6 +10893,7 @@
 0.0.0.0 graph.feature.fm
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.internet.org
+0.0.0.0 graph.microsoft.com
 0.0.0.0 graph.sanook.com
 0.0.0.0 graph.snappea.com
 0.0.0.0 graph4.truecaller.com
@@ -13225,7 +13235,6 @@
 0.0.0.0 kstj.baidu.com
 0.0.0.0 ksukpuyqs.com
 0.0.0.0 kswj.unionapps.info
-0.0.0.0 kt-g.de
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktcommunity.de
 0.0.0.0 ktg-frischedienst.de
@@ -16350,6 +16359,7 @@
 0.0.0.0 owebmoney.ru
 0.0.0.0 owliwant.com
 0.0.0.0 owlsr.us
+0.0.0.0 owncutone.com
 0.0.0.0 ox-d.advanceweb.com
 0.0.0.0 ox-data.adsrvr.org
 0.0.0.0 ox.pxl.ace.advertising.com
@@ -16923,6 +16933,7 @@
 0.0.0.0 pazmey.com
 0.0.0.0 pb.adriver.ru
 0.0.0.0 pb.h-bid.com
+0.0.0.0 pbc.deployads.com
 0.0.0.0 pbcde.com
 0.0.0.0 pbndswdswyhdjfn.com
 0.0.0.0 pbnet.ru
@@ -16930,6 +16941,7 @@
 0.0.0.0 pbnmainkcn.cn
 0.0.0.0 pbrd.co
 0.0.0.0 pbs.alfasense.com
+0.0.0.0 pbs.deployads.com
 0.0.0.0 pbterra.com
 0.0.0.0 pc-ads.com
 0.0.0.0 pc-bubble.de
@@ -18295,6 +18307,7 @@
 0.0.0.0 pushomac.com
 0.0.0.0 pushosub.com
 0.0.0.0 pushosubk.com
+0.0.0.0 pushp.svc.ms
 0.0.0.0 pushsar.com
 0.0.0.0 pushscan.com
 0.0.0.0 pushsender.pro
@@ -18904,6 +18917,7 @@
 0.0.0.0 resultlinks.com
 0.0.0.0 resultlove.com
 0.0.0.0 results.celebration-staff.com
+0.0.0.0 results.deployads.com
 0.0.0.0 retargeter.com
 0.0.0.0 retention.appsflyer.com
 0.0.0.0 retiremely.com
@@ -19301,11 +19315,13 @@
 0.0.0.0 s.appbrain.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.cpro.baidu.com
+0.0.0.0 s.dev.w-x.co
 0.0.0.0 s.ero-advertising.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.img.mix.sina.com.cn
 0.0.0.0 s.inedomedia.com.re.getclicky.com
 0.0.0.0 s.innovid.com
+0.0.0.0 s.int.w-x.co
 0.0.0.0 s.jpush.cn
 0.0.0.0 s.liveads.jp
 0.0.0.0 s.logsss.com
@@ -19325,6 +19341,7 @@
 0.0.0.0 s.outbrain.com
 0.0.0.0 s.p.youku.com
 0.0.0.0 s.pcfaster.baidu.co.th
+0.0.0.0 s.prod.w-x.co
 0.0.0.0 s.servedby-buysellads.com
 0.0.0.0 s.sharethis.com
 0.0.0.0 s.skimlinks.com
@@ -19689,6 +19706,7 @@
 0.0.0.0 sea1c-ls.naiadsystems.com
 0.0.0.0 seadform.net
 0.0.0.0 seafood.center
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.abclauncher.com
 0.0.0.0 search.addthis.com
 0.0.0.0 search.adjust.com
@@ -20467,6 +20485,7 @@
 0.0.0.0 spadepods.com
 0.0.0.0 spambo.us
 0.0.0.0 spannenk.ml
+0.0.0.0 sparagken.com
 0.0.0.0 sparcmedia-inv-eu.admixer.net
 0.0.0.0 sparcmedia-inv-wus.admixer.net
 0.0.0.0 sparechange.io
@@ -20602,7 +20621,6 @@
 0.0.0.0 srch.atdmt.com
 0.0.0.0 srcu.com
 0.0.0.0 srd.simba.taobao.com
-0.0.0.0 sri.jsintegrity.com
 0.0.0.0 srkft.com
 0.0.0.0 srppykbedhqp.com
 0.0.0.0 srv-ca-to-1.buysellads.com
@@ -20702,6 +20720,7 @@
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp.clickadu.com
 0.0.0.0 ssp.content.ad
+0.0.0.0 ssp.deployads.com
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.zog.link
 0.0.0.0 ssp1.adinch.com
@@ -21339,6 +21358,7 @@
 0.0.0.0 svast.moatads.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 svastx.moatads.comsvastx.moatads.com
+0.0.0.0 svc.ms
 0.0.0.0 svgbarbis.de
 0.0.0.0 svjat0rx99.com
 0.0.0.0 sw.wpu.sh
@@ -21521,10 +21541,12 @@
 0.0.0.0 tagila.adk2.co
 0.0.0.0 tagjunction.com
 0.0.0.0 tagmanager.smartadserver.com
+0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 tags.deployads.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.foxnews.com
 0.0.0.0 tags.h12-media.com
@@ -21805,6 +21827,7 @@
 0.0.0.0 tgdfm.adtdp.com
 0.0.0.0 tgkox.bemobtrk.com
 0.0.0.0 tgtmedia.com
+0.0.0.0 tgwidget.com
 0.0.0.0 tgwvi.bemobtrk.com
 0.0.0.0 th-ssl.effectivemeasure.net
 0.0.0.0 th.adserver.yahoo.com
@@ -23485,6 +23508,7 @@
 0.0.0.0 truefilen32.com
 0.0.0.0 truehits.net
 0.0.0.0 trueinfusion.com
+0.0.0.0 truesweb.com
 0.0.0.0 truex.com
 0.0.0.0 trulitea.com
 0.0.0.0 trumpcare.app
@@ -23668,6 +23692,7 @@
 0.0.0.0 u.uc.cn
 0.0.0.0 u.uc123.com
 0.0.0.0 u.ucfly.com
+0.0.0.0 u.w-x.co
 0.0.0.0 u002fz.moatads.com
 0.0.0.0 u1.img.mobile.sina.cn
 0.0.0.0 u1.uc123.com
@@ -24005,6 +24030,7 @@
 0.0.0.0 us.uclx.ucweb.com
 0.0.0.0 us.y.atwola.com
 0.0.0.0 us01.rayjump.com
+0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1.ero-advertising.com
 0.0.0.0 us1.evadavdsp.pro
 0.0.0.0 usa-casino-online.com
@@ -24118,7 +24144,9 @@
 0.0.0.0 v.amazon-adsystem.com
 0.0.0.0 v.movad.de
 0.0.0.0 v.myvisualiq.net
+0.0.0.0 v.prod.w-x.co
 0.0.0.0 v.uc.cn
+0.0.0.0 v.w-x.co
 0.0.0.0 v1.addthis.com
 0.0.0.0 v1.addthisedge.com
 0.0.0.0 v1.myapptrack.club
@@ -25658,6 +25686,7 @@
 0.0.0.0 www.de.cj.com
 0.0.0.0 www.definitimedia.com
 0.0.0.0 www.demdex.net
+0.0.0.0 www.deployads.com
 0.0.0.0 www.desivideo.online
 0.0.0.0 www.deta.ero-advertising.com
 0.0.0.0 www.dexchangeinc.com
