@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.156
 # Release: 156
-# Entries: 27,258
+# Entries: 27,271
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 04 Jun 20 17:45:27
+# Updated: Thu, 04 Jun 20 23:45:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -930,6 +930,7 @@
 0.0.0.0 actives.youku.com
 0.0.0.0 activisionblizzardin.demdex.net
 0.0.0.0 activity.browser.intl.miui.com
+0.0.0.0 activity.ldmnq.com
 0.0.0.0 activity.uc.cn
 0.0.0.0 activity.umeng.com
 0.0.0.0 actpx.com
@@ -1096,6 +1097,7 @@
 0.0.0.0 ad.juliepost.com
 0.0.0.0 ad.kodansha.net
 0.0.0.0 ad.kr.doubleclick.net
+0.0.0.0 ad.kr.ldmnq.com
 0.0.0.0 ad.ksosoft.com
 0.0.0.0 ad.ksyun.com
 0.0.0.0 ad.leon.ru
@@ -4868,6 +4870,7 @@
 0.0.0.0 ateoildim.club
 0.0.0.0 atesco.de
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 athletes.bz
 0.0.0.0 atkraken.com
 0.0.0.0 atlantafreespeech.com
 0.0.0.0 atlantis.awin.com
@@ -9287,6 +9290,7 @@
 0.0.0.0 endenburg-online.de
 0.0.0.0 endingthefed.com
 0.0.0.0 endurableshop.com
+0.0.0.0 enewsletter.oc3web.com
 0.0.0.0 engadget.vidible.tv
 0.0.0.0 engage.bidsystem.com
 0.0.0.0 engage.wixapps.net
@@ -10639,6 +10643,7 @@
 0.0.0.0 giymdemo.pubmatic.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.applog.ucdns.uc.cn
+0.0.0.0 gj.ldmnq.com
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gj.track.ucdns.uc.cn
 0.0.0.0 gj2iv.bemobtrk.com
@@ -14322,6 +14327,7 @@
 0.0.0.0 matixo.me
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.hellohi.me
+0.0.0.0 matomo.tarnkappe.info
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
 0.0.0.0 matthiascrone.de
@@ -14518,6 +14524,7 @@
 0.0.0.0 mediaz.angloinfo.com
 0.0.0.0 medicalsmilesgmbh.com
 0.0.0.0 medicalundbeauty.at
+0.0.0.0 medicarebluerx.net
 0.0.0.0 medienschwarm.at
 0.0.0.0 medienselbstgestalten.de
 0.0.0.0 medikamente-kaufen-24.net
@@ -14831,6 +14838,7 @@
 0.0.0.0 mn.moatads.com
 0.0.0.0 mnet-ad.net
 0.0.0.0 mnetads.com
+0.0.0.0 mnews.atode.cc
 0.0.0.0 mng-ads.com
 0.0.0.0 mnoa6ez1eq.com
 0.0.0.0 mnp.nkr.am
@@ -21823,7 +21831,6 @@
 0.0.0.0 textlinks.com
 0.0.0.0 tf-host-03.trafficfabrik.com
 0.0.0.0 tf.jucydate.com
-0.0.0.0 tfag.de
 0.0.0.0 tgdfm.adtdp.com
 0.0.0.0 tgkox.bemobtrk.com
 0.0.0.0 tgtmedia.com
@@ -21860,6 +21867,7 @@
 0.0.0.0 thedemocraticpost.com
 0.0.0.0 thediscoveryrun.com
 0.0.0.0 thedoctors.healthfindings.website
+0.0.0.0 thedunhamfamily.com
 0.0.0.0 thefilter.com
 0.0.0.0 thefuncoolstuff.com
 0.0.0.0 thegamesearcher.com
@@ -25535,6 +25543,7 @@
 0.0.0.0 www.bannersmonster.com
 0.0.0.0 www.bannevs.ero-advertising.com
 0.0.0.0 www.banzaiadv.it
+0.0.0.0 www.barleyslist.org
 0.0.0.0 www.batmobi.net
 0.0.0.0 www.bavners2.ero-advertising.com
 0.0.0.0 www.bbvj6.voluumtrk.com
@@ -25554,6 +25563,7 @@
 0.0.0.0 www.bidgear.com
 0.0.0.0 www.bidvertiser.com
 0.0.0.0 www.bigworldsports.com
+0.0.0.0 www.bikoms.ru
 0.0.0.0 www.bioskop378.com
 0.0.0.0 www.bioskop55.me
 0.0.0.0 www.bitadexchange.com
@@ -25960,12 +25970,14 @@
 0.0.0.0 www.kelkoo.com
 0.0.0.0 www.kickass.cd
 0.0.0.0 www.kinesisthamont.be
+0.0.0.0 www.king-spalding.us
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.koapkmobi.com
 0.0.0.0 www.kopimi.com
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuntovire.fi
+0.0.0.0 www.kurapica.net
 0.0.0.0 www.kw.ads.justpremium.com
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.kzmleuhgqifvzy.com
@@ -26305,6 +26317,7 @@
 0.0.0.0 www.s10.histats.com.ero-advertising.com
 0.0.0.0 www.s10paces.ero-advertising.com
 0.0.0.0 www.sa.ads.justpremium.com
+0.0.0.0 www.sadmonky.com
 0.0.0.0 www.saranagrup.com
 0.0.0.0 www.sastrk.com
 0.0.0.0 www.saumweb.com
