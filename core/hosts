@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.156
 # Release: 156
-# Entries: 27,230
+# Entries: 27,229
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 04 Jun 20 05:45:15
+# Updated: Thu, 04 Jun 20 11:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13402,7 +13402,6 @@
 0.0.0.0 lazada-id.lazada.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
 0.0.0.0 lb.ads.justpremium.com
 0.0.0.0 lb.skimresources.com
-0.0.0.0 lb.statsevent.com
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 lb.yieldlab.net
 0.0.0.0 lb4.a-ads.com
