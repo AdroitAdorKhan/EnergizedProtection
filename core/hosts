@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.156
-# Release: 156
-# Entries: 27,271
+# Version: 20.06.157
+# Release: 157
+# Entries: 27,270
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 04 Jun 20 23:45:21
+# Updated: Fri, 05 Jun 20 05:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9997,7 +9997,6 @@
 0.0.0.0 flyertown.ca
 0.0.0.0 flygo.ru
 0.0.0.0 flyhighhigh.com
-0.0.0.0 flymining.ch
 0.0.0.0 flymining.cloud
 0.0.0.0 flypool.org
 0.0.0.0 flytte-udlandet.dk
