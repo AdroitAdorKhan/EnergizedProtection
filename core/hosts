@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.157
-# Release: 157
-# Entries: 27,269
+# Version: 20.06.158
+# Release: 158
+# Entries: 27,383
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 05 Jun 20 23:45:18
+# Updated: Sat, 06 Jun 20 05:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -305,6 +305,7 @@
 0.0.0.0 24log.de
 0.0.0.0 24pm-affiliation.com
 0.0.0.0 24siete.tienda-online.com
+0.0.0.0 24vunvrv.com
 0.0.0.0 252fclk.tradedoubler.com
 0.0.0.0 26.winprizes926.fun
 0.0.0.0 264g1.fasdfgsdf.com
@@ -316,6 +317,7 @@
 0.0.0.0 29d65cebb82ef9f.com
 0.0.0.0 2a12be6140880286.com
 0.0.0.0 2baners.ero-advertising.com
+0.0.0.0 2cnjuh34jbman.com
 0.0.0.0 2crg1.voluumtrk.com
 0.0.0.0 2d7bd9e6eb370143.com
 0.0.0.0 2ds.ero-advertising.com
@@ -572,6 +574,7 @@
 0.0.0.0 6b714f6277c9faa.com
 0.0.0.0 6eez7ouig7gwguf6.pro
 0.0.0.0 6h04j.bemobtrk.com
+0.0.0.0 6i4uibyg0c82.com
 0.0.0.0 6ldu6qa.com
 0.0.0.0 6lhw4.bemobtrk.com
 0.0.0.0 6moxhf9rmm.com
@@ -2164,6 +2167,7 @@
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.renren.com
 0.0.0.0 ads.rss-services.com
+0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.s-i-r.de
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.scorecardresearch.com
@@ -4439,6 +4443,7 @@
 0.0.0.0 api.rmsi.adswizz.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 api.rqmob.com
+0.0.0.0 api.rubiconproject.com
 0.0.0.0 api.runative.com
 0.0.0.0 api.sabavision.com
 0.0.0.0 api.safedk.com
@@ -4744,6 +4749,7 @@
 0.0.0.0 arouersobesite.free.fr
 0.0.0.0 arrassley.info
 0.0.0.0 ars-textilia.at
+0.0.0.0 arsenal.rubiconproject.com
 0.0.0.0 arshika.com
 0.0.0.0 art-con-shop.de
 0.0.0.0 artamarketing.com
@@ -4807,6 +4813,7 @@
 0.0.0.0 asset1.sponsorpay.com
 0.0.0.0 assetize.com
 0.0.0.0 assets-news-bcdn.dailyhunt.in
+0.0.0.0 assets-rfm.rubiconproject.com
 0.0.0.0 assets.appia.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.bttrack.com
@@ -4819,6 +4826,8 @@
 0.0.0.0 assets.map.brightcove.com
 0.0.0.0 assets.pornpreviews.com
 0.0.0.0 assets.revcontent.com
+0.0.0.0 assets.rfm.rubiconproject.com
+0.0.0.0 assets.rubiconproject.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.sizedoesmatter.com
 0.0.0.0 assets.taboola.com
@@ -4828,6 +4837,7 @@
 0.0.0.0 assets1.adroll.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assets2.insnw.net
+0.0.0.0 assets2.rubiconproject.com
 0.0.0.0 assist.advmob.cn
 0.0.0.0 assist.js.skimresources.com
 0.0.0.0 assist.skimresources.com
@@ -5361,10 +5371,21 @@
 0.0.0.0 beachampass.at
 0.0.0.0 beachfrontmedia.com
 0.0.0.0 beachrankings.com
+0.0.0.0 beacon-apac-ane1.rubiconproject.com
+0.0.0.0 beacon-apac-hkg1.rubiconproject.com
+0.0.0.0 beacon-apac-nrt1.rubiconproject.com
+0.0.0.0 beacon-eu-ams3.rubiconproject.com
+0.0.0.0 beacon-eu2.rubiconproject.com
+0.0.0.0 beacon-nf.rubiconproject.com
+0.0.0.0 beacon-us-east.rubiconproject.com
+0.0.0.0 beacon-us-iad2.rubiconproject.com
+0.0.0.0 beacon-us-iad3.rubiconproject.com
+0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 beacon.9165619.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
+0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacon.sina.com.cn
 0.0.0.0 beaconadnetwork.com
@@ -5798,6 +5819,7 @@
 0.0.0.0 bnsjb1ab1e.com
 0.0.0.0 bnster.com
 0.0.0.0 boarrabsinsand.pro
+0.0.0.0 boayipids.com
 0.0.0.0 bob.algolia.com
 0.0.0.0 boc-forum.de
 0.0.0.0 bochhansl.at
@@ -6397,6 +6419,12 @@
 0.0.0.0 cbzjukldosooj.com
 0.0.0.0 cc.adserver.yahoo.com
 0.0.0.0 cc.st
+0.0.0.0 cca-ams3.rubiconproject.com
+0.0.0.0 cca-fra2.rubiconproject.com
+0.0.0.0 cca-hkg1.rubiconproject.com
+0.0.0.0 cca-iad2.rubiconproject.com
+0.0.0.0 cca-iad3.rubiconproject.com
+0.0.0.0 cca-sjc2.rubiconproject.com
 0.0.0.0 ccc.adacts.com
 0.0.0.0 cclk.co
 0.0.0.0 ccloud.sdkclickurl.com
@@ -6587,6 +6615,7 @@
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.pbrd.co
 0.0.0.0 cdn.performit.club
@@ -6605,6 +6634,7 @@
 0.0.0.0 cdn.rlcdn.com
 0.0.0.0 cdn.rlnads.net
 0.0.0.0 cdn.rqmob.com
+0.0.0.0 cdn.rubiconproject.com
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.securefastoffers.com
@@ -7816,6 +7846,7 @@
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crossrider.com
 0.0.0.0 crowd.amobee.com
+0.0.0.0 crowd.rubiconproject.com
 0.0.0.0 crowdgravity.com
 0.0.0.0 crownpeak.com.re.getclicky.com
 0.0.0.0 crp-concursos.com
@@ -7823,6 +7854,7 @@
 0.0.0.0 crrepo.com
 0.0.0.0 crs.baidu.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crt.sectigo.com
 0.0.0.0 crtmatix.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 cruxpool.com
@@ -8004,6 +8036,7 @@
 0.0.0.0 d24ak3f2b.top
 0.0.0.0 d3.moatads.com
 0.0.0.0 d4.click-here.pro
+0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d824d7f5cbcb0e00.com
 0.0.0.0 d869381a42af33b.com
 0.0.0.0 da-ads.com
@@ -8018,6 +8051,7 @@
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dable.io
 0.0.0.0 dadsecs.com
+0.0.0.0 dadslims.com
 0.0.0.0 dadspmz.com
 0.0.0.0 daea.ero-advertising.com
 0.0.0.0 dai-ads.bbmessaging.com
@@ -8296,6 +8330,7 @@
 0.0.0.0 deltapool.net
 0.0.0.0 demand.bidgear.com
 0.0.0.0 demand.mopub.com
+0.0.0.0 demand.rubiconproject.com
 0.0.0.0 demand.yieldbird.com
 0.0.0.0 demdex.net
 0.0.0.0 demicrofonos.com
@@ -8367,6 +8402,7 @@
 0.0.0.0 dev.hb.brainlyads.com
 0.0.0.0 dev.medialogistics2020.ca
 0.0.0.0 dev.mobadvent.com
+0.0.0.0 dev.rubiconproject.com
 0.0.0.0 dev.taboola.com
 0.0.0.0 dev.tracking.moportals.com
 0.0.0.0 dev.trafficforce.com
@@ -8824,6 +8860,7 @@
 0.0.0.0 dsp1.madnet.ru
 0.0.0.0 dsp24.adinch.com
 0.0.0.0 dsp28.adinch.com
+0.0.0.0 dspdash.rubiconproject.com
 0.0.0.0 dspres.rayjump.com
 0.0.0.0 dstaging.adgear.com
 0.0.0.0 dstillery.com
@@ -9057,6 +9094,7 @@
 0.0.0.0 eccoes.online
 0.0.0.0 ecdn.analysis.fi
 0.0.0.0 ecdn.batmobi.net
+0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 ecgajcijcbgiibdgach.ru
 0.0.0.0 echoserver.production.infolinks.com
 0.0.0.0 ecircle-ag.com
@@ -9327,6 +9365,7 @@
 0.0.0.0 enterads.com
 0.0.0.0 entercasino.com
 0.0.0.0 enterprise-updates.bugsnag.com
+0.0.0.0 enterpriseenrollment.rubiconproject.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 entionale.info
 0.0.0.0 entity-search.service.newrelic.com
@@ -9353,6 +9392,7 @@
 0.0.0.0 epool.io
 0.0.0.0 eprice.demdex.net
 0.0.0.0 eproof.com
+0.0.0.0 epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com
 0.0.0.0 eqads.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqit9pzsxz.appspot.com
@@ -9574,6 +9614,10 @@
 0.0.0.0 exactdrive.com
 0.0.0.0 example.content.ad
 0.0.0.0 example.mgid.com
+0.0.0.0 exapi-apac.rubiconproject.com
+0.0.0.0 exapi-eu.rubiconproject.com
+0.0.0.0 exapi-us-east.rubiconproject.com
+0.0.0.0 exapi-us-west.rubiconproject.com
 0.0.0.0 exch-e.atdmt.com
 0.0.0.0 exch-eu.atdmt.com
 0.0.0.0 exch-w.atdmt.com
@@ -9753,6 +9797,7 @@
 0.0.0.0 fastcooler2017.s.xoxknct.com
 0.0.0.0 fastdocuments.net
 0.0.0.0 fasten4you.de
+0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastlink.pl
 0.0.0.0 fastspeedtest.ml
@@ -9954,6 +9999,8 @@
 0.0.0.0 fkskin.s.xoxknct.com
 0.0.0.0 flagads.net
 0.0.0.0 flakyfeast.com
+0.0.0.0 flapi1.rubiconproject.com
+0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flashtest.ero-advertising.com
 0.0.0.0 flashx.co
@@ -10534,6 +10581,7 @@
 0.0.0.0 geo.moatads.comgeo.moatads.com
 0.0.0.0 geo.oovvuu.com
 0.0.0.0 geo.us.h-bid.com
+0.0.0.0 geo.yahoo.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
@@ -10754,6 +10802,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pulsepoint.com
 0.0.0.0 go.rayjump.com
+0.0.0.0 go.rubiconproject.com
 0.0.0.0 go.sasengine.ru
 0.0.0.0 go.sastech.ru
 0.0.0.0 go.searchlock.com
@@ -10787,6 +10836,7 @@
 0.0.0.0 goasshax.at
 0.0.0.0 gobba.myeffect.net
 0.0.0.0 gobrashop.com
+0.0.0.0 gobuyersupport.rubiconproject.com
 0.0.0.0 goe.moatads.com
 0.0.0.0 goedauto.tianustores.com
 0.0.0.0 goember.com
@@ -10897,6 +10947,7 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.internet.org
 0.0.0.0 graph.microsoft.com
+0.0.0.0 graph.qq.com
 0.0.0.0 graph.sanook.com
 0.0.0.0 graph.snappea.com
 0.0.0.0 graph4.truecaller.com
@@ -11978,6 +12029,7 @@
 0.0.0.0 idevent.ucnews.ucweb.com
 0.0.0.0 idm-su.baidu.com
 0.0.0.0 idm.bce.baidu.com
+0.0.0.0 idm.rubiconproject.com
 0.0.0.0 idmatch.adform.net
 0.0.0.0 idn.adreach.co
 0.0.0.0 idownloadgalore.com
@@ -12361,6 +12413,7 @@
 0.0.0.0 innovid.com
 0.0.0.0 inoplugs.com
 0.0.0.0 inorbitad.com
+0.0.0.0 inovatik.com
 0.0.0.0 inpage.metrica.yandex.com
 0.0.0.0 inpage.metrika.yandex.com
 0.0.0.0 inpagepush.com
@@ -12369,6 +12422,7 @@
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 inringtone.com
 0.0.0.0 insafe.ucweb.com
+0.0.0.0 inservinea.com
 0.0.0.0 inshopys.com
 0.0.0.0 inside.outbrain.com
 0.0.0.0 inside.xaxis.com
@@ -12519,6 +12573,7 @@
 0.0.0.0 invernetter.info
 0.0.0.0 investopedia.adblade.com
 0.0.0.0 investor.brightcove.com
+0.0.0.0 investor.rubiconproject.com
 0.0.0.0 investxxaz.club
 0.0.0.0 invideo.ero-advertising.com
 0.0.0.0 inview.amanad.adtdp.com
@@ -13047,6 +13102,7 @@
 0.0.0.0 kaymopk.com
 0.0.0.0 kb.adacts.com
 0.0.0.0 kb.bluekai.com
+0.0.0.0 kb.rubiconproject.com
 0.0.0.0 kbxj2.bemobtrk.com
 0.0.0.0 kbymnqiomnegs.com
 0.0.0.0 kcolbda.com
@@ -13103,6 +13159,7 @@
 0.0.0.0 kga9szxosa.appspot.com
 0.0.0.0 kgp4e.bemobtrk.com
 0.0.0.0 kgxemdznctlmya.com
+0.0.0.0 khg97644rvbg.com
 0.0.0.0 kibana.appsflyer.com
 0.0.0.0 kibana.sonic-us.supersonicads.com
 0.0.0.0 kibanainfra.appsflyer.com
@@ -13685,6 +13742,7 @@
 0.0.0.0 lixi88.com
 0.0.0.0 lixi88.info
 0.0.0.0 lizardslaugh.com
+0.0.0.0 lk1mft33pj2f.com
 0.0.0.0 lkqd.com
 0.0.0.0 lkqd.net
 0.0.0.0 ll.ads.bittorrent.com
@@ -13821,6 +13879,7 @@
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.flurry.com
 0.0.0.0 login.newrelic.com
+0.0.0.0 login.rubiconproject.com
 0.0.0.0 login.uc.cn
 0.0.0.0 login.uc123.com
 0.0.0.0 login.vidible.tv
@@ -14367,6 +14426,7 @@
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcants.de
+0.0.0.0 mcdn-report.wc.yahoodns.net
 0.0.0.0 mcdn.batmobi.net
 0.0.0.0 mcdp-chidc2.outbrain.com
 0.0.0.0 mcdp-nldc1.outbrain.com
@@ -15120,6 +15180,7 @@
 0.0.0.0 mozook.com
 0.0.0.0 mozsocial.cliqz.com
 0.0.0.0 mp.rlcdn.com
+0.0.0.0 mp.rubiconproject.com
 0.0.0.0 mp.uc.cn
 0.0.0.0 mp.ucweb.com
 0.0.0.0 mp.wshareit.com
@@ -15152,6 +15213,7 @@
 0.0.0.0 mrmontero.de
 0.0.0.0 mrnerd.de
 0.0.0.0 mrollium.de
+0.0.0.0 mrp.rubiconproject.com
 0.0.0.0 mrphonedeals.com
 0.0.0.0 mrpiracy.xyz
 0.0.0.0 mrschimneyguy.com
@@ -15204,6 +15266,7 @@
 0.0.0.0 mudesa.ml
 0.0.0.0 muellade.de
 0.0.0.0 mugleafly.com
+0.0.0.0 mugpothop.com
 0.0.0.0 muhsmr.de
 0.0.0.0 muller-geschaft.com
 0.0.0.0 multationprop.club
@@ -15983,6 +16046,7 @@
 0.0.0.0 odbcacher.outbrain.com
 0.0.0.0 odbvgoweulfh.online
 0.0.0.0 oddise.com
+0.0.0.0 odhs.rubiconproject.com
 0.0.0.0 odido24.net
 0.0.0.0 odysseus-nua.com
 0.0.0.0 oecxrvamnvc.com
@@ -16235,6 +16299,8 @@
 0.0.0.0 optimize.buysellads.com
 0.0.0.0 optimize.tercept.com
 0.0.0.0 optimize.viglink.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 optimized-rtp-us-west.rubiconproject.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
 0.0.0.0 optimusblue.com
@@ -16274,6 +16340,7 @@
 0.0.0.0 orci.iasds01.com
 0.0.0.0 ord-ae.cj.com
 0.0.0.0 order.shopbydays.com
+0.0.0.0 orders.rubiconproject.com
 0.0.0.0 ordoa.de
 0.0.0.0 ore.do
 0.0.0.0 oregon.nmn.speedera.net
@@ -16365,6 +16432,7 @@
 0.0.0.0 owebmoney.ru
 0.0.0.0 owliwant.com
 0.0.0.0 owlsr.us
+0.0.0.0 owltiphem.club
 0.0.0.0 owncutone.com
 0.0.0.0 ox-d.advanceweb.com
 0.0.0.0 ox-data.adsrvr.org
@@ -17170,6 +17238,7 @@
 0.0.0.0 piwik.adspaces.ero-advertising.com
 0.0.0.0 piwik.darken.eu
 0.0.0.0 piwik.ero-advertising.com
+0.0.0.0 piwik.everzones.com
 0.0.0.0 piwik.opendesktop.org
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.btrll.com
@@ -17177,9 +17246,13 @@
 0.0.0.0 pix.user-clicks.com
 0.0.0.0 pix2.btrll.com
 0.0.0.0 pixazza.com
+0.0.0.0 pixel-apac.rubiconproject.com
+0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-insight.ucweb.com
 0.0.0.0 pixel-test.tapad.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
+0.0.0.0 pixel-us-east.rubiconproject.com
+0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.adbuyer.com
@@ -17632,6 +17705,7 @@
 0.0.0.0 platform.bidgear.com
 0.0.0.0 platform.cloud-iq.com.au
 0.0.0.0 platform.openx.com
+0.0.0.0 platform.rubiconproject.com
 0.0.0.0 platformiq-del.aquaplatform.com
 0.0.0.0 platinum-projects.de
 0.0.0.0 play-baidu.rayjump.com
@@ -17856,6 +17930,7 @@
 0.0.0.0 possibly.pinkvipshopon.com
 0.0.0.0 post-hasser.de
 0.0.0.0 post.update.mopub.com
+0.0.0.0 post.update.rubiconproject.com
 0.0.0.0 postback.iqm.com
 0.0.0.0 postback.superads.cn
 0.0.0.0 postback.supersonicads.com
@@ -17909,7 +17984,18 @@
 0.0.0.0 prchecker.info
 0.0.0.0 pre3.ads.justpremium.com
 0.0.0.0 preads.skypeassets.net
+0.0.0.0 prebid-a.rubiconproject.com
+0.0.0.0 prebid-cache-apac.rubiconproject.com
+0.0.0.0 prebid-cache-us-east.rubiconproject.com
+0.0.0.0 prebid-cache-us-west.rubiconproject.com
 0.0.0.0 prebid-cache.pub.network
+0.0.0.0 prebid-server-aws-ane1.rubiconproject.com
+0.0.0.0 prebid-server-aws-ase2.rubiconproject.com
+0.0.0.0 prebid-server-aws-euc1.rubiconproject.com
+0.0.0.0 prebid-server-aws-euw1.rubiconproject.com
+0.0.0.0 prebid-server-aws-use1.rubiconproject.com
+0.0.0.0 prebid-server-aws-usw1.rubiconproject.com
+0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid-winners-us-east-1-rtb.adroll.com
 0.0.0.0 prebid-winners-us-west-2-rtb.adroll.com
 0.0.0.0 prebid.adnxs.com
@@ -18379,6 +18465,7 @@
 0.0.0.0 qa.myvisualiq.net
 0.0.0.0 qa.openx.com
 0.0.0.0 qa.rlcdn.com
+0.0.0.0 qa.rubiconproject.com
 0.0.0.0 qa.tacoda.at.atwola.com
 0.0.0.0 qaapi.skype.net
 0.0.0.0 qadservice.com
@@ -18414,6 +18501,7 @@
 0.0.0.0 qnkiueuflzdold.com
 0.0.0.0 qnsr.com
 0.0.0.0 qp.si
+0.0.0.0 qp3lgzt6exyn.com
 0.0.0.0 qpfhd.com
 0.0.0.0 qqipjtzgo.com
 0.0.0.0 qqonline365.club
@@ -18865,6 +18953,7 @@
 0.0.0.0 report.newsgenious.com
 0.0.0.0 report.rayjump.com
 0.0.0.0 report.webclicks24.com
+0.0.0.0 reporting-dashboard.rubiconproject.com
 0.0.0.0 reporting-gc.adgear.com
 0.0.0.0 reporting-ui.rakutenmarketing.com
 0.0.0.0 reporting-visualisation.rakutenmarketing.com
@@ -18910,6 +18999,7 @@
 0.0.0.0 resources.media.net
 0.0.0.0 resources.mixpanel.com
 0.0.0.0 resources.newrelic.com
+0.0.0.0 resources.rubiconproject.com
 0.0.0.0 resources.taboola.com
 0.0.0.0 respecials.com
 0.0.0.0 responses.df.telemetry.microsoft.com
@@ -18956,12 +19046,14 @@
 0.0.0.0 revrtb.net
 0.0.0.0 revstats.com
 0.0.0.0 revttmobile.com
+0.0.0.0 revv.rubiconproject.com
 0.0.0.0 rewardsaffiliates.com
 0.0.0.0 rewe.demdex.net
 0.0.0.0 rexchange.begun.ru
 0.0.0.0 rezeptfrei-24.com
 0.0.0.0 rezeptfrei-bestellen.net
 0.0.0.0 rfit.hirship.com
+0.0.0.0 rfm.rubiconproject.com
 0.0.0.0 rfp.fout.jp
 0.0.0.0 rfrsnqen.com
 0.0.0.0 rg-id.lazada.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
@@ -19181,6 +19273,7 @@
 0.0.0.0 rtb-fe-us-w2.content.ad
 0.0.0.0 rtb-media.me
 0.0.0.0 rtb-px.content.ad
+0.0.0.0 rtb-rules.rubiconproject.com
 0.0.0.0 rtb-trk.adcolony.com
 0.0.0.0 rtb-us-east.tapad.com
 0.0.0.0 rtb-useast.rtbidhost.com
@@ -19710,6 +19803,7 @@
 0.0.0.0 sea.napi.ucweb.com
 0.0.0.0 sea1b-ls.naiadsystems.com
 0.0.0.0 sea1c-ls.naiadsystems.com
+0.0.0.0 seaboblit.com
 0.0.0.0 seadform.net
 0.0.0.0 seafood.center
 0.0.0.0 search-cldellow.deployads.com
@@ -19741,6 +19835,7 @@
 0.0.0.0 secretspiders.com
 0.0.0.0 secure-adnxs.edgekey.net
 0.0.0.0 secure-ads.mopub.com
+0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 secure-dcr-cert.imrworldwide.com
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-ds.serving-sys.com
@@ -20406,6 +20501,8 @@
 0.0.0.0 social.mgid.com
 0.0.0.0 social.mobclix.com
 0.0.0.0 social9.com
+0.0.0.0 socialbars-web1.com
+0.0.0.0 socialbars-web5.com
 0.0.0.0 socialbirth.com
 0.0.0.0 socialelective.com
 0.0.0.0 socialnewpagessearch.com
@@ -20816,6 +20913,7 @@
 0.0.0.0 staging.mocogateway.com
 0.0.0.0 staging.newrelic.com
 0.0.0.0 staging.perfectaudience.com
+0.0.0.0 staging.rubiconproject.com
 0.0.0.0 staging.taboola.com
 0.0.0.0 staging.wowtrk.com
 0.0.0.0 staging2.crazyegg.com
@@ -20928,6 +21026,7 @@
 0.0.0.0 static.clmbtech.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.contentabc.com
+0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.e93-apps.com
 0.0.0.0 static.eclick.vn
@@ -21059,6 +21158,7 @@
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.postgen.com
 0.0.0.0 stats.propellerads.com
+0.0.0.0 stats.rubiconproject.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.speedclicks.ero-advertising.com
 0.0.0.0 stats.systemres.com.re.getclicky.com
@@ -21596,6 +21696,7 @@
 0.0.0.0 tap.ads-twitter.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap.tapad.com
+0.0.0.0 tap2-cdn.rubiconproject.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 taperiaespacio.es
@@ -23948,6 +24049,7 @@
 0.0.0.0 update.fortinetantivirus.com
 0.0.0.0 update.moatads.com
 0.0.0.0 update.openx.com
+0.0.0.0 update.rubiconproject.com
 0.0.0.0 update.sdk.batmobi.net
 0.0.0.0 update.security.baidu.co.th
 0.0.0.0 update.toptools100.com
@@ -24129,6 +24231,7 @@
 0.0.0.0 uvrecav.com
 0.0.0.0 uvrk0.voluumtrk.com
 0.0.0.0 uwsxz.com
+0.0.0.0 ux.rubiconproject.com
 0.0.0.0 uy.ads.justpremium.com
 0.0.0.0 uy054eprsdoz.appspot.com
 0.0.0.0 uy6x.bestnewsworld.info
@@ -24213,6 +24316,7 @@
 0.0.0.0 vanssale.de
 0.0.0.0 vansshoes.shop
 0.0.0.0 vansxc.com
+0.0.0.0 vantage.rubiconproject.com
 0.0.0.0 vanteknotitle.com
 0.0.0.0 vapedia.com
 0.0.0.0 vapi.apk.v-mate.mobi
@@ -24369,11 +24473,13 @@
 0.0.0.0 vidcoin.com
 0.0.0.0 vidcpm.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 video-ads-apex.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video-cdn.wshareit.com
 0.0.0.0 video-demo.appnexus.com
 0.0.0.0 video-fa.scdn.co
+0.0.0.0 video-log-api.rubiconproject.com
 0.0.0.0 video-native.mgid.com
 0.0.0.0 video-seo.vidible.tv
 0.0.0.0 video-vcdn.fastclick.net
@@ -24583,10 +24689,12 @@
 0.0.0.0 vpcdn.webclicks24.com
 0.0.0.0 vpico.com
 0.0.0.0 vpixel.adgrx.com
+0.0.0.0 vpn-dc.rubiconproject.com
 0.0.0.0 vpn-freeproxy.com
 0.0.0.0 vpn.adotmob.com
 0.0.0.0 vpn.appsflyer.com
 0.0.0.0 vpn.outbrain.com
+0.0.0.0 vpn.rubiconproject.com
 0.0.0.0 vpn.vibrantmedia.com
 0.0.0.0 vpn1.us
 0.0.0.0 vpnfaster.s.xoxknct.com
@@ -24808,6 +24916,7 @@
 0.0.0.0 webcalcio.net
 0.0.0.0 webcams.h-bid.com
 0.0.0.0 webcash.nl
+0.0.0.0 webcast.rubiconproject.com
 0.0.0.0 webchain.network
 0.0.0.0 webclicks24.com
 0.0.0.0 webcon.revcontent.com
@@ -25973,6 +26082,7 @@
 0.0.0.0 www.koapkmobi.com
 0.0.0.0 www.kopimi.com
 0.0.0.0 www.korea.inmobi.com
+0.0.0.0 www.kpxbctywsa.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuntovire.fi
 0.0.0.0 www.kurapica.net
@@ -26302,6 +26412,7 @@
 0.0.0.0 www.rtalabel.org
 0.0.0.0 www.rtb-adsterra.flshtrk.store
 0.0.0.0 www.rtk.io
+0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.rummycircle.com
 0.0.0.0 www.runative.com
 0.0.0.0 www.rvty.net
@@ -26852,6 +26963,7 @@
 0.0.0.0 xml.adright.co
 0.0.0.0 xml.adright.com
 0.0.0.0 xml.adservme.com
+0.0.0.0 xml.ak-tracker.com
 0.0.0.0 xml.auxml.com
 0.0.0.0 xml.blueparrot.media
 0.0.0.0 xml.clickredirection.com
@@ -27089,6 +27201,7 @@
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrmkp.instagirlshub.com
 0.0.0.0 yrsjqzfku.com
+0.0.0.0 yrtas.btrll.com
 0.0.0.0 yserch.com
 0.0.0.0 yt.advmaker.su
 0.0.0.0 yt.moatads.com
@@ -27154,6 +27267,7 @@
 0.0.0.0 zanoya.de
 0.0.0.0 zantracker.com
 0.0.0.0 zap-msk.com
+0.0.0.0 zap.buzz
 0.0.0.0 zapaljs.com
 0.0.0.0 zaparena.com
 0.0.0.0 zapatillasbest.com
