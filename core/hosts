@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.158
-# Release: 158
-# Entries: 27,383
+# Version: 20.06.159
+# Release: 159
+# Entries: 27,385
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 06 Jun 20 23:45:15
+# Updated: Sun, 07 Jun 20 05:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5727,6 +5727,8 @@
 0.0.0.0 blankrefer.com
 0.0.0.0 blardenso.com
 0.0.0.0 blast4traffic.com
+0.0.0.0 blasze.com
+0.0.0.0 blasze.tk
 0.0.0.0 blatfee.ero-advertising.com
 0.0.0.0 blatwalm.com
 0.0.0.0 blauer-engel-malzhaus.de
