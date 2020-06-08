@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.160
 # Release: 160
-# Entries: 27,384
+# Entries: 27,431
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 08 Jun 20 17:45:16
+# Updated: Mon, 08 Jun 20 23:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -568,6 +568,7 @@
 0.0.0.0 6735a55d.ngrok.io
 0.0.0.0 676.digitaldsp.com
 0.0.0.0 681683.com
+0.0.0.0 688de7b3822de.com
 0.0.0.0 68a6d200.contentabc.com
 0.0.0.0 69oxt4q05.com
 0.0.0.0 69s.city
@@ -970,6 +971,7 @@
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad-goi.com
 0.0.0.0 ad-maven.com
+0.0.0.0 ad-maven.xml.ak-is.net
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-nb.mgid.com
 0.0.0.0 ad-pay.de
@@ -1171,6 +1173,7 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad.wz.cz
+0.0.0.0 ad.xmovies8.tv
 0.0.0.0 ad.xyniubi.com
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.yieldmanager.com
@@ -3249,6 +3252,7 @@
 0.0.0.0 aim4media.com
 0.0.0.0 aimatch.com
 0.0.0.0 aimg.fc2.com
+0.0.0.0 aimtell.com
 0.0.0.0 aio.media
 0.0.0.0 aio_flashlight.s.xoxknct.com
 0.0.0.0 aiocleaner.s.xoxknct.com
@@ -3263,6 +3267,7 @@
 0.0.0.0 airplaypro-de.com
 0.0.0.0 airpodsdirekt.de
 0.0.0.0 airpush.com
+0.0.0.0 airship.com
 0.0.0.0 airspacemanagement.net.au
 0.0.0.0 airyclub.com
 0.0.0.0 airydress.com
@@ -4189,6 +4194,7 @@
 0.0.0.0 antifraud.empello.net
 0.0.0.0 antik-kump.at
 0.0.0.0 antik-meiers.de
+0.0.0.0 antiphishing.cliqz.com
 0.0.0.0 antiquariat-galerie-rostock.de
 0.0.0.0 antiquitatengeschaft.xyz
 0.0.0.0 antiquitatensammlungonline-shop.xyz
@@ -4360,6 +4366,7 @@
 0.0.0.0 api.clickadu.com
 0.0.0.0 api.clickaine.com
 0.0.0.0 api.clickbank.net
+0.0.0.0 api.cliqz.com
 0.0.0.0 api.cloudembed.net
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.collect.data.intl.miui.com
@@ -4856,6 +4863,7 @@
 0.0.0.0 asv-grenzland.de
 0.0.0.0 asv-motorsport.de
 0.0.0.0 aswpapius.com
+0.0.0.0 aswpsdkus.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at-gb.mgid.com
 0.0.0.0 at.ads.justpremium.com
@@ -6549,6 +6557,7 @@
 0.0.0.0 cdn.callibri.ru
 0.0.0.0 cdn.castoola.com
 0.0.0.0 cdn.celtra.com
+0.0.0.0 cdn.cliqz.com
 0.0.0.0 cdn.cloneapi.icu
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.contentabc.com
@@ -7010,6 +7019,7 @@
 0.0.0.0 clever-technik.com
 0.0.0.0 clevermining.com
 0.0.0.0 clevernt.com
+0.0.0.0 cleverpush.com
 0.0.0.0 clevv.com
 0.0.0.0 clic2pub.com
 0.0.0.0 click-haproxy.supersonicads.com
@@ -8723,6 +8733,7 @@
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 doubleclick.net
+0.0.0.0 doubledeepclick.com
 0.0.0.0 doublemax.net
 0.0.0.0 doublepimp.com
 0.0.0.0 doublepimpads.com
@@ -9336,6 +9347,7 @@
 0.0.0.0 engage.wixapps.net
 0.0.0.0 engagebdr.com
 0.0.0.0 engagebdr.sync.go.sonobi.com
+0.0.0.0 engagespot.co
 0.0.0.0 engblog.mixpanel.com
 0.0.0.0 engelfiguren.com
 0.0.0.0 engine-eu-central-1.adzerk.net
@@ -9863,6 +9875,7 @@
 0.0.0.0 feedback.umeng.com
 0.0.0.0 feedback.whalecloud.com
 0.0.0.0 feedbackresearch.com
+0.0.0.0 feedify.net
 0.0.0.0 feedjit.com
 0.0.0.0 feeds.brightcove.com
 0.0.0.0 feedzpipe.com
@@ -9966,6 +9979,7 @@
 0.0.0.0 fip8b.bemobtrk.com
 0.0.0.0 firaxtech.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firepush.net
 0.0.0.0 firespring.com.re.getclicky.com
 0.0.0.0 firmware.center
 0.0.0.0 firofrebrudidn.info
@@ -10126,6 +10140,7 @@
 0.0.0.0 fourarithmetic.com
 0.0.0.0 fout.jp
 0.0.0.0 fowuh.bemobtrk.com
+0.0.0.0 foxpush.com
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 fp.ignite-vision.com
@@ -10399,6 +10414,7 @@
 0.0.0.0 g6qja8.edvfwlacluo.com
 0.0.0.0 g7-protest.de
 0.0.0.0 ga.clearbit.com
+0.0.0.0 ga.googlevideo.io
 0.0.0.0 ga.opmnstr.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gabrielebriesemeister.de
@@ -10628,6 +10644,7 @@
 0.0.0.0 getexceptional.com
 0.0.0.0 gethoneyseal.com
 0.0.0.0 getpopunder.com
+0.0.0.0 getpushmonkey.com
 0.0.0.0 getscorecash.com
 0.0.0.0 getstarted.infolinks.com
 0.0.0.0 getstarted.trafficjunky.com
@@ -11393,6 +11410,7 @@
 0.0.0.0 hilltopads.net
 0.0.0.0 hilltopgo.com
 0.0.0.0 himediads.com
+0.0.0.0 himselve.info
 0.0.0.0 hinevengindingri.pro
 0.0.0.0 hinnehecalrec.pro
 0.0.0.0 hionedaugsbu.info
@@ -15057,6 +15075,7 @@
 0.0.0.0 modezirkus.eu
 0.0.0.0 modifyeyes.com
 0.0.0.0 modry.cz
+0.0.0.0 moengage.com
 0.0.0.0 mofox.com
 0.0.0.0 mogconsult.ru
 0.0.0.0 moggattice.com
@@ -15144,6 +15163,7 @@
 0.0.0.0 more.nexage.com
 0.0.0.0 morebitcoin.club
 0.0.0.0 morellino.store
+0.0.0.0 morengage.com
 0.0.0.0 morgentau-media.de
 0.0.0.0 moriaxmr.com
 0.0.0.0 moritava.com
@@ -15853,8 +15873,11 @@
 0.0.0.0 notification-system.tools
 0.0.0.0 notification-time.com
 0.0.0.0 notifications.tubecup.net
+0.0.0.0 notifications.website
+0.0.0.0 notificationz.com
 0.0.0.0 notify-master.net
 0.0.0.0 notify-monad.com
+0.0.0.0 notify-service.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.mgid.com
 0.0.0.0 notify.traffic-media.co.uk
@@ -16068,6 +16091,7 @@
 0.0.0.0 offer.netaffs.in
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
+0.0.0.0 offers-api.cliqz.com
 0.0.0.0 offers.appnext.com
 0.0.0.0 offers.brothersail.com
 0.0.0.0 offers.lendingtree.com
@@ -16171,6 +16195,7 @@
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onenetworkdirect.net
 0.0.0.0 onepolaroid.com
+0.0.0.0 onesignal.com
 0.0.0.0 onespot.com
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
@@ -16374,6 +16399,7 @@
 0.0.0.0 ortb.yieldlab.net
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 orzk.net
+0.0.0.0 os.tc
 0.0.0.0 oscdn.batmobi.net
 0.0.0.0 osdsoft.com
 0.0.0.0 osearch.media.net
@@ -17882,6 +17908,7 @@
 0.0.0.0 popmonetizer.com
 0.0.0.0 popmonetizer.net
 0.0.0.0 popmyads.com
+0.0.0.0 popnewsfeed.com
 0.0.0.0 poponclick.com
 0.0.0.0 poppysol.com
 0.0.0.0 pops.ero-advertising.com
@@ -18374,15 +18401,20 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pushads.popcash.net
 0.0.0.0 pushails.com
+0.0.0.0 pushalert.co
 0.0.0.0 pushapi.batmobi.net
+0.0.0.0 pushassist.com
 0.0.0.0 pushazam.com
 0.0.0.0 pushazer.com
 0.0.0.0 pushbank-ulapps.pushdom.co
 0.0.0.0 pushbank.pushdom.co
+0.0.0.0 pushbird.com
+0.0.0.0 pushcrew.com
 0.0.0.0 pushdataapi.zc.uae.uc.cn
 0.0.0.0 pusheds.info
 0.0.0.0 pushedwebnews.com
 0.0.0.0 pushengage.com
+0.0.0.0 pushflew.com
 0.0.0.0 pushima.info
 0.0.0.0 pushinnotify.com
 0.0.0.0 pushkingtds.ru
@@ -18393,6 +18425,8 @@
 0.0.0.0 pushnami.com
 0.0.0.0 pushnest.com
 0.0.0.0 pushnevis.com
+0.0.0.0 pushnews.eu
+0.0.0.0 pushnews.org
 0.0.0.0 pushnginx.news-host.pw
 0.0.0.0 pushnice.com
 0.0.0.0 pushno.com
@@ -18402,10 +18436,14 @@
 0.0.0.0 pushomac.com
 0.0.0.0 pushosub.com
 0.0.0.0 pushosubk.com
+0.0.0.0 pushowl.com
 0.0.0.0 pushp.svc.ms
+0.0.0.0 pushpad.xyz
+0.0.0.0 pushpushgo.com
 0.0.0.0 pushsar.com
 0.0.0.0 pushscan.com
 0.0.0.0 pushsender.pro
+0.0.0.0 pushsroutg.com
 0.0.0.0 pushto.info
 0.0.0.0 pushtoast-a.akamaihd.net
 0.0.0.0 pushtun.info
@@ -18413,6 +18451,7 @@
 0.0.0.0 pushweb.a4.tl
 0.0.0.0 pushwgo.news-host.pw
 0.0.0.0 pushwhy.com
+0.0.0.0 pushwoosh.com
 0.0.0.0 pusk.ru
 0.0.0.0 pussysaga.com
 0.0.0.0 put9n4.edvfwlacluo.com
@@ -19505,6 +19544,8 @@
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.appsflyer.com
 0.0.0.0 s3.addthis.com
+0.0.0.0 s3.amazonaws.com/cdn.aimtell.com
+0.0.0.0 s3.amazonaws.com/shopifyspmprod
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.leadcontrol.net
 0.0.0.0 s3.phluant.com
@@ -19932,6 +19973,7 @@
 0.0.0.0 senddroid.com
 0.0.0.0 sendmepixel.com
 0.0.0.0 sendmepush.com
+0.0.0.0 sendpulse.com
 0.0.0.0 seniorenassistenz-beate-brueckner.de
 0.0.0.0 seniorenheimuhr.de
 0.0.0.0 sensenetworks.com
@@ -21133,6 +21175,7 @@
 0.0.0.0 stats.centrexweb.com.re.getclicky.com
 0.0.0.0 stats.churchanalytics.com.re.getclicky.com
 0.0.0.0 stats.clear-media.com.re.getclicky.com
+0.0.0.0 stats.cliqz.com
 0.0.0.0 stats.data2.ero-advertising.com
 0.0.0.0 stats.digitalimagination.com.re.getclicky.com
 0.0.0.0 stats.dngmediagroup.com.re.getclicky.com
@@ -21344,6 +21387,7 @@
 0.0.0.0 subs.prod.vidible.tv
 0.0.0.0 subs.vidible.tv
 0.0.0.0 subscribe.hearstmags.com
+0.0.0.0 subscribers.com
 0.0.0.0 subtherm.de
 0.0.0.0 subtrack.clickhubs.com
 0.0.0.0 succeedscene.com
@@ -21370,6 +21414,7 @@
 0.0.0.0 sumwan.com
 0.0.0.0 sunamoconstruction.com
 0.0.0.0 sunbeatz.de
+0.0.0.0 sunchannel.me
 0.0.0.0 sundreams-diving.de
 0.0.0.0 sunfeed.me
 0.0.0.0 sunlinestore.com
@@ -23616,6 +23661,7 @@
 0.0.0.0 truefilen32.com
 0.0.0.0 truehits.net
 0.0.0.0 trueinfusion.com
+0.0.0.0 truepush.com
 0.0.0.0 truesweb.com
 0.0.0.0 truex.com
 0.0.0.0 trulitea.com
@@ -24483,6 +24529,7 @@
 0.0.0.0 video-log-api.rubiconproject.com
 0.0.0.0 video-native.mgid.com
 0.0.0.0 video-seo.vidible.tv
+0.0.0.0 video-stats.l.google.com
 0.0.0.0 video-vcdn.fastclick.net
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video.admixer.net
