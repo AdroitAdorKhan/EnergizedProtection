@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.160
 # Release: 160
-# Entries: 27,388
+# Entries: 27,384
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 08 Jun 20 11:45:16
+# Updated: Mon, 08 Jun 20 17:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16398,7 +16398,6 @@
 0.0.0.0 othersonline.com
 0.0.0.0 otnolatrnup.com
 0.0.0.0 otrwaram.com
-0.0.0.0 ouedkniss.com
 0.0.0.0 ouhegapy.net
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 ourkeyskylierou.info
@@ -19871,7 +19870,6 @@
 0.0.0.0 secure.informaction.com
 0.0.0.0 secure.juicyads.com
 0.0.0.0 secure.leadback.advertising.com
-0.0.0.0 secure.livechatinc.com
 0.0.0.0 secure.mobile.contentabc.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 securedopen-bp.com
@@ -23239,12 +23237,10 @@
 0.0.0.0 tracker.ma-static.ru
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.mattel.com
-0.0.0.0 tracker.mg64.net
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novalayer.org
 0.0.0.0 tracker.plasticlovers.co.uk
-0.0.0.0 tracker.pomf.se
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.secureboxes.net
@@ -26269,7 +26265,6 @@
 0.0.0.0 www.opmnstr.com
 0.0.0.0 www.optimizely.com
 0.0.0.0 www.orion.iad.appboy.com
-0.0.0.0 www.ouedkniss.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlookemailsetup.com
 0.0.0.0 www.outlookrepairhelp.com
@@ -27186,6 +27181,7 @@
 0.0.0.0 youngmarble.com
 0.0.0.0 youplay2019now.com
 0.0.0.0 youporn.sexy
+0.0.0.0 your-notice.com
 0.0.0.0 your.appload.xyz
 0.0.0.0 youradexchange.com
 0.0.0.0 yourfoodshop.de
