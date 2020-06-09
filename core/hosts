@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.161
-# Release: 161
-# Entries: 27,990
+# Version: 20.06.162
+# Release: 162
+# Entries: 27,989
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 09 Jun 20 23:45:19
+# Updated: Wed, 10 Jun 20 05:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12328,7 +12328,6 @@
 0.0.0.0 image5.pubmatic.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image8.pubmatic.com
-0.0.0.0 imageads.canoe.ca
 0.0.0.0 imageads.googleadservices.com
 0.0.0.0 imagecash.net
 0.0.0.0 images-cf.taboola.com
