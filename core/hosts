@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.162
 # Release: 162
-# Entries: 27,615
+# Entries: 27,614
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 10 Jun 20 11:45:19
+# Updated: Wed, 10 Jun 20 17:45:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2386,7 +2386,6 @@
 0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5-se1.truecaller.com
 0.0.0.0 ads5.bangkokpost.co.th
-0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.feed-xml.com
 0.0.0.0 ads5.iphone.s3.amazonaws.com
 0.0.0.0 ads5.matichon.co.th
