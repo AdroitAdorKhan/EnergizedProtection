@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.163
 # Release: 163
-# Entries: 27,614
+# Entries: 27,613
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 11 Jun 20 05:45:17
+# Updated: Thu, 11 Jun 20 11:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13572,7 +13572,6 @@
 0.0.0.0 lascositasdemarieta.es
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 laserveradedomaina.com
-0.0.0.0 last.tax-lab.net
 0.0.0.0 lastar.de
 0.0.0.0 lastore.net
 0.0.0.0 latamdcs.com
