@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.165
 # Release: 165
-# Entries: 27,696
+# Entries: 27,738
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 13 Jun 20 11:45:16
+# Updated: Sat, 13 Jun 20 17:45:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1636,8 +1636,11 @@
 0.0.0.0 admagnet.net
 0.0.0.0 admailtiser.com
 0.0.0.0 admamba.com
+0.0.0.0 adman-test-php5.trafficmagnates.com
+0.0.0.0 adman-test.trafficmagnates.com
 0.0.0.0 adman.ee
 0.0.0.0 adman.gr
+0.0.0.0 adman.trafficmagnates.com
 0.0.0.0 admanage.com
 0.0.0.0 admanagement.ch
 0.0.0.0 admanager.btopenworld.com
@@ -4862,6 +4865,7 @@
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 asepurch.pro
 0.0.0.0 asewlfjqwlflkew.com
+0.0.0.0 asg.somecdn.bid
 0.0.0.0 asgh65tfsdxz.appspot.com
 0.0.0.0 ash-lb2.cxense.com
 0.0.0.0 ash-lb3.cxense.com
@@ -5173,14 +5177,19 @@
 0.0.0.0 b.zedo.com
 0.0.0.0 b.zog.link
 0.0.0.0 b13481647cf775c5.com
+0.0.0.0 b1opt.trafficmagnates.com
 0.0.0.0 b223ef51950a9c677c75132f5677870e.adk2.co
 0.0.0.0 b2c-feedapi.vidible.tv
+0.0.0.0 b2rgt.trafficmagnates.com
 0.0.0.0 b3.adinch.com
+0.0.0.0 b3uih.trafficmagnates.com
 0.0.0.0 b3z29k1uxb.com
 0.0.0.0 b4.adinch.com
 0.0.0.0 b42.re
+0.0.0.0 b4krd.trafficmagnates.com
 0.0.0.0 b4psads.com
 0.0.0.0 b54.in
+0.0.0.0 b5uxs.trafficmagnates.com
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 b60228e270e363f6.com
 0.0.0.0 b8pfulzbyj7h.com
@@ -5424,6 +5433,7 @@
 0.0.0.0 bd.moatads.com
 0.0.0.0 bd.tapad.com
 0.0.0.0 bd.workbefit.com
+0.0.0.0 bd202457b.com
 0.0.0.0 bdads.mobi
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-id-ads.realmemobile.com
@@ -6017,6 +6027,7 @@
 0.0.0.0 brigitterieger.at
 0.0.0.0 brisandals.shop
 0.0.0.0 british-banners.com
+0.0.0.0 brkrts.trafficmagnates.com
 0.0.0.0 broadboundary.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
@@ -6228,6 +6239,7 @@
 0.0.0.0 c.y.qq.com
 0.0.0.0 c.yes.youku.com
 0.0.0.0 c0.adalyser.com
+0.0.0.0 c03k4f.trafficmagnates.com
 0.0.0.0 c0nect.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.atdmt.com
@@ -6236,6 +6248,7 @@
 0.0.0.0 c1.niumobi.com
 0.0.0.0 c1.popads.net
 0.0.0.0 c1.smartclick.net
+0.0.0.0 c14e6b.trafficmagnates.com
 0.0.0.0 c17.adnxs.com
 0.0.0.0 c1d2.com
 0.0.0.0 c1exchange.com
@@ -6248,11 +6261,13 @@
 0.0.0.0 c2.taboola.com
 0.0.0.0 c2.u5c93.com
 0.0.0.0 c2.w.inmobi.com
+0.0.0.0 c25u2m.trafficmagnates.com
 0.0.0.0 c2hit.tut.by
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 c2s.startappnetwork.com
 0.0.0.0 c3.adalyser.com
 0.0.0.0 c3.taboola.com
+0.0.0.0 c36i1p.trafficmagnates.com
 0.0.0.0 c3rh.net
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 c4dm.adcolony.com
@@ -8153,6 +8168,9 @@
 0.0.0.0 d3.moatads.com
 0.0.0.0 d33bhlp8xcppz2.cloudfront.net
 0.0.0.0 d38optp29wd03m.cloudfront.net
+0.0.0.0 d3dw9e5ep9si6p.cloudfront.net
+0.0.0.0 d3p.trafficmagnates.com
+0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.click-here.pro
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d824d7f5cbcb0e00.com
@@ -9145,6 +9163,7 @@
 0.0.0.0 e5.click-here.pro
 0.0.0.0 e5019.e2.akamaiedge.net
 0.0.0.0 e5070.g.akamaiedge.net
+0.0.0.0 e52p6v.trafficmagnates.com
 0.0.0.0 e5413.g.akamaiedge.net
 0.0.0.0 e5460.g.akamaiedge.net
 0.0.0.0 e553bcf717698d33.com
@@ -10333,6 +10352,7 @@
 0.0.0.0 freedirtygame.com
 0.0.0.0 freegameanalytics.com
 0.0.0.0 freegamezone.taptica.com
+0.0.0.0 freegeoip.app
 0.0.0.0 freegeoip.net
 0.0.0.0 freegiftcards.co
 0.0.0.0 freehandsrevi.com
@@ -11046,7 +11066,6 @@
 0.0.0.0 graph.feature.fm
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.internet.org
-0.0.0.0 graph.microsoft.com
 0.0.0.0 graph.qq.com
 0.0.0.0 graph.sanook.com
 0.0.0.0 graph.snappea.com
@@ -11197,6 +11216,7 @@
 0.0.0.0 h5.share2.wshareit.com
 0.0.0.0 h5.ucnews.ucweb.com
 0.0.0.0 h5.wannaplay.cn
+0.0.0.0 h53n3o.trafficmagnates.com
 0.0.0.0 h78xb.pw
 0.0.0.0 h8vzwpv.com
 0.0.0.0 ha-api.pushwoosh.com
@@ -12803,6 +12823,7 @@
 0.0.0.0 ip32475903.ahcdn.com
 0.0.0.0 ip46462540.ahcdn.com
 0.0.0.0 ip50610632.ahcdn.com
+0.0.0.0 ip51448347.ahcdn.com
 0.0.0.0 ip57682726.ahcdn.com
 0.0.0.0 ip59439177.ahcdn.com
 0.0.0.0 ip59439325.ahcdn.com
@@ -14513,6 +14534,7 @@
 0.0.0.0 mail.outbrain.com
 0.0.0.0 mail.revcontent.com
 0.0.0.0 mail.smartclick.net
+0.0.0.0 mail.trafficmagnates.com
 0.0.0.0 mail.trafficshop.com
 0.0.0.0 mail.ucfly.com
 0.0.0.0 mail.uodoo.com
@@ -14616,7 +14638,9 @@
 0.0.0.0 marketium.com
 0.0.0.0 marketleverage.com
 0.0.0.0 marketphones.com
+0.0.0.0 marketplace-test.trafficmagnates.com
 0.0.0.0 marketplace.trafficjunky.net
+0.0.0.0 marketplace.trafficmagnates.com
 0.0.0.0 marketplacebanner.awin.com
 0.0.0.0 marketron.com
 0.0.0.0 marketspace.com.es
@@ -15152,6 +15176,7 @@
 0.0.0.0 mlyqbqha.com
 0.0.0.0 mm.a-ads.com
 0.0.0.0 mm.atdmt.com
+0.0.0.0 mm9841.com
 0.0.0.0 mmaglobal.com
 0.0.0.0 mmedia.com
 0.0.0.0 mmgads.com
@@ -17088,6 +17113,7 @@
 0.0.0.0 p5.firrectly.top
 0.0.0.0 p50032.clksite.com
 0.0.0.0 p51808.cdaz.icu
+0.0.0.0 p51u9i.trafficmagnates.com
 0.0.0.0 p53464.clksite.com
 0.0.0.0 p54677.infopicked.com
 0.0.0.0 p6.firrectly.top
@@ -18041,6 +18067,7 @@
 0.0.0.0 plxtejszb.com
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 pm.adsafeprotected.com
+0.0.0.0 pma.trafficmagnates.com
 0.0.0.0 pmetrics.getclicky.com
 0.0.0.0 pmfstream.appnexus.com
 0.0.0.0 pmjwztzpuhb.com
@@ -18480,6 +18507,7 @@
 0.0.0.0 prre.ru
 0.0.0.0 prscripts.com
 0.0.0.0 prsitecheck.com
+0.0.0.0 prtmanage.trafficmagnates.com
 0.0.0.0 prugskh.com
 0.0.0.0 prugskh.net
 0.0.0.0 prxio.github.io
@@ -18518,6 +18546,7 @@
 0.0.0.0 pt.umeng.com
 0.0.0.0 ptedgovern.info
 0.0.0.0 ptewiki.com
+0.0.0.0 ptigjkkds.com
 0.0.0.0 ptmzr.com
 0.0.0.0 pto.protoawe.com
 0.0.0.0 ptp.lolco.net
@@ -18895,6 +18924,7 @@
 0.0.0.0 r42tag.com
 0.0.0.0 r4u-soft.com
 0.0.0.0 r6---sn-q4fl6n7y.c.2mdn.net
+0.0.0.0 r6n8e.trafficmagnates.com
 0.0.0.0 r7mediar.com
 0.0.0.0 ra-albrecht.de
 0.0.0.0 ra-herbst-semmler.de
@@ -19823,6 +19853,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.leadcontrol.net
 0.0.0.0 s3.phluant.com
+0.0.0.0 s3m.trafficmagnates.com
 0.0.0.0 s3ns3.advertising.com
 0.0.0.0 s3ns3.nexage.com
 0.0.0.0 s4.histats.com
@@ -19855,6 +19886,7 @@
 0.0.0.0 saavn.deliveryengine.adswizz.com
 0.0.0.0 sabine-kleinpeter.de
 0.0.0.0 sact.atdmt.com
+0.0.0.0 sad.trafficmagnates.com
 0.0.0.0 sads.mobclix.com
 0.0.0.0 sadskis.com
 0.0.0.0 saemaeul.mireene.com
@@ -19956,6 +19988,7 @@
 0.0.0.0 sb-waschstrasse-ruck.de
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb6.scorecardresearch.com
+0.0.0.0 sb7h2nwbe.trafficmagnates.com
 0.0.0.0 sba.about.co.kr
 0.0.0.0 sbaffiliates.com
 0.0.0.0 sbardlhk.com
@@ -20052,6 +20085,7 @@
 0.0.0.0 sd.sharethis.com
 0.0.0.0 sdad.guru
 0.0.0.0 sdasasyydd.com
+0.0.0.0 sdb.trafficmagnates.com
 0.0.0.0 sdfaswaed2.nokiadns.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-assets.localytics.com
@@ -20787,6 +20821,7 @@
 0.0.0.0 snapdo.com
 0.0.0.0 snapgiant.com
 0.0.0.0 snapmobile.asia
+0.0.0.0 snapsed.club
 0.0.0.0 snaptube.click
 0.0.0.0 snatched-brand.com
 0.0.0.0 sndkorea.co.kr
@@ -21142,6 +21177,7 @@
 0.0.0.0 ssphwy.com
 0.0.0.0 ssqualismother.info
 0.0.0.0 ssrv.adjust.com
+0.0.0.0 sst.trafficmagnates.com
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 sstats.deloitte.com
 0.0.0.0 ssum.casalemedia.com
@@ -21457,6 +21493,7 @@
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.goantiques.com.re.getclicky.com
 0.0.0.0 stats.gremln.com.re.getclicky.com
+0.0.0.0 stats.hprofits.com
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.idealmainos.fi.re.getclicky.com
 0.0.0.0 stats.in.th
@@ -21579,6 +21616,7 @@
 0.0.0.0 storygize.net
 0.0.0.0 stotoys.com
 0.0.0.0 stoveseashore.com
+0.0.0.0 str.trafficmagnates.com
 0.0.0.0 stra.hasmobi.net
 0.0.0.0 stracking.rogers.com
 0.0.0.0 strahlfeind.de
@@ -21921,6 +21959,7 @@
 0.0.0.0 t5.a.market.xiaomi.com
 0.0.0.0 t5glo.bemobtrk.com
 0.0.0.0 t66ex.bemobtrk.com
+0.0.0.0 t70aaa.trafficmagnates.com
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 t8t7frium3.s.ad6media.fr
 0.0.0.0 t9i0r.bemobtrk.com
@@ -23745,6 +23784,7 @@
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
+0.0.0.0 trafficmagnates.com
 0.0.0.0 trafficplan.pl
 0.0.0.0 trafficposse.com
 0.0.0.0 trafficrevenue.net
@@ -23975,6 +24015,7 @@
 0.0.0.0 tuanp123.com
 0.0.0.0 tubberlo.com
 0.0.0.0 tube.buzzoola.com
+0.0.0.0 tube.paperstreetcash.com
 0.0.0.0 tubecorporate.com
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
@@ -26905,6 +26946,7 @@
 0.0.0.0 www.trafficforce.com
 0.0.0.0 www.trafficjunky.com
 0.0.0.0 www.trafficjunky.net
+0.0.0.0 www.trafficmagnates.com
 0.0.0.0 www.trafficshop.com
 0.0.0.0 www.trafforsrv.com
 0.0.0.0 www.trafyield.com
