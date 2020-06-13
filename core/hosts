@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.165
 # Release: 165
-# Entries: 27,697
+# Entries: 27,696
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 13 Jun 20 05:45:14
+# Updated: Sat, 13 Jun 20 11:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16049,7 +16049,6 @@
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nllapps.com
 0.0.0.0 nlntrk.com
-0.0.0.0 nlocalhost.wordtheminer.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nm.brainlyads.com
 0.0.0.0 nm.eqads.com
