@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.166
 # Release: 166
-# Entries: 27,738
+# Entries: 27,695
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 14 Jun 20 17:45:18
+# Updated: Sun, 14 Jun 20 23:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -910,7 +910,6 @@
 0.0.0.0 access.open.uc.cn
 0.0.0.0 accessrequest.taboola.com
 0.0.0.0 accesstrade.net
-0.0.0.0 accmgr.com
 0.0.0.0 account-settings.appsflyer.com
 0.0.0.0 account.umeng.com
 0.0.0.0 accountreview.outbrain.com
@@ -1415,7 +1414,6 @@
 0.0.0.0 adcenter.net
 0.0.0.0 adcenter.nu
 0.0.0.0 adcentriconline.com
-0.0.0.0 adcept.net
 0.0.0.0 adcfrthyo.tk
 0.0.0.0 adchap.com
 0.0.0.0 adchemical.com
@@ -1773,7 +1771,6 @@
 0.0.0.0 adohana.com
 0.0.0.0 adomik.com
 0.0.0.0 adonion.com
-0.0.0.0 adonly.com
 0.0.0.0 adonnews.com
 0.0.0.0 adonspot.com
 0.0.0.0 adonweb.ru
@@ -3415,7 +3412,6 @@
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 aliapp.open.uc.cn
 0.0.0.0 alibaba.zzux.com
-0.0.0.0 alidnx.com
 0.0.0.0 aligames.open.uc.cn
 0.0.0.0 aligamesnode.open.uc.cn
 0.0.0.0 alilinana.com
@@ -3782,7 +3778,6 @@
 0.0.0.0 analytics.gandi.net
 0.0.0.0 analytics.ganji.com
 0.0.0.0 analytics.gazeta.pl
-0.0.0.0 analytics.general-changelog-team.fr
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.getstream.io
@@ -4416,7 +4411,6 @@
 0.0.0.0 api.atdmt.com
 0.0.0.0 api.awin.com
 0.0.0.0 api.batmobi.net
-0.0.0.0 api.batterylab.duapps.com
 0.0.0.0 api.bdexpress.uodoo.com
 0.0.0.0 api.bttrack.com
 0.0.0.0 api.bugsnag.com
@@ -5548,7 +5542,6 @@
 0.0.0.0 berkesteermaster.com
 0.0.0.0 berlinbesonders.de
 0.0.0.0 berp.com
-0.0.0.0 berufskraftfahrer-europa.de
 0.0.0.0 besclothes.com
 0.0.0.0 best-girls-ever.com
 0.0.0.0 best-pr.info
@@ -5854,7 +5847,6 @@
 0.0.0.0 blogspop.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
-0.0.0.0 bloomsocks.ca
 0.0.0.0 blox.es
 0.0.0.0 blrvpn.inmobi.com
 0.0.0.0 blu.adsunflower.com
@@ -6347,7 +6339,6 @@
 0.0.0.0 callback.onlinepbx.ru
 0.0.0.0 callbackhunter.com
 0.0.0.0 callbackkiller.ru
-0.0.0.0 callbeau.com
 0.0.0.0 callfire.com
 0.0.0.0 callkeeper.ru
 0.0.0.0 callloop.com
@@ -6425,7 +6416,6 @@
 0.0.0.0 carola-stauche.de
 0.0.0.0 carrefour.adform.net
 0.0.0.0 carry-shop.com
-0.0.0.0 carstek.com
 0.0.0.0 cartoonhdcom.imageshack.host
 0.0.0.0 cartorkins.com
 0.0.0.0 cartpanda24.com
@@ -7797,7 +7787,6 @@
 0.0.0.0 correctchaos.com
 0.0.0.0 cortalconsors.demdex.net
 0.0.0.0 corwrite.com
-0.0.0.0 cosiloon.com
 0.0.0.0 cosmos.cyberads.io
 0.0.0.0 cosmos.marfeel.com
 0.0.0.0 cossette.adgear.com
@@ -7955,7 +7944,6 @@
 0.0.0.0 creditsansjustificatif.me
 0.0.0.0 cricket-img.wshareit.com
 0.0.0.0 cricketbox.com
-0.0.0.0 crilns.com
 0.0.0.0 crispads.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 crispmedia.com
@@ -8408,7 +8396,6 @@
 0.0.0.0 deepc.cc
 0.0.0.0 deepintent.com
 0.0.0.0 deepmetrix.com
-0.0.0.0 deerboots.club
 0.0.0.0 deezer.adswizz.com
 0.0.0.0 default-search.net
 0.0.0.0 default.ads.justpremium.com
@@ -8584,7 +8571,6 @@
 0.0.0.0 dgb-goettingen.de
 0.0.0.0 dgeceaghdcaebegjacd.ru
 0.0.0.0 dgeggjwyhkrr.com
-0.0.0.0 dghgutalvz.com
 0.0.0.0 dgmatix.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
@@ -9365,7 +9351,6 @@
 0.0.0.0 elektrohoppe.de
 0.0.0.0 elektron-market.com
 0.0.0.0 elektronerd.eu
-0.0.0.0 elektronik-aktion.com
 0.0.0.0 elektroniknetzteil.de
 0.0.0.0 elektronisch-gerate.com
 0.0.0.0 elektronlinestore.com
@@ -9930,7 +9915,6 @@
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
 0.0.0.0 fav.simba.taobao.com
-0.0.0.0 favorablo.com
 0.0.0.0 favornote.com
 0.0.0.0 faxo.com
 0.0.0.0 faye.crashlytics.com
@@ -9951,7 +9935,6 @@
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fd6fq54s6df541q23sdxfg.eu
-0.0.0.0 fd9523b31ff93b5c.com
 0.0.0.0 fdeddechfdfgjiacade.ru
 0.0.0.0 fdvilavipz.com
 0.0.0.0 featured.perfectionholic.com
@@ -9985,7 +9968,6 @@
 0.0.0.0 feedzpipe.com
 0.0.0.0 feesocrald.com
 0.0.0.0 feetpuzzle.com
-0.0.0.0 feewind.com
 0.0.0.0 feewoajy.net
 0.0.0.0 fehjys.ga
 0.0.0.0 feingoldscheideanstalt-seit1974.de
@@ -10329,7 +10311,6 @@
 0.0.0.0 franken2-band.de
 0.0.0.0 frankfurt-mund-zu-mund.de
 0.0.0.0 frankfurter-scheune.de
-0.0.0.0 franklin25.de
 0.0.0.0 franz-ermold.de
 0.0.0.0 fratellimall.com
 0.0.0.0 fraubrit-shoppt.de
@@ -10877,7 +10858,6 @@
 0.0.0.0 gma.alicdn.com
 0.0.0.0 gmads.net
 0.0.0.0 gmboxx.com
-0.0.0.0 gmhd-ua.com
 0.0.0.0 gml.email
 0.0.0.0 gmodules.com
 0.0.0.0 gnomicfun.com
@@ -11176,7 +11156,6 @@
 0.0.0.0 gus.host
 0.0.0.0 gustaver.ddns.net
 0.0.0.0 gut.vipluckyshop.com
-0.0.0.0 guteapotheke.co.za
 0.0.0.0 gutes-produkt.com
 0.0.0.0 gutontparindi.info
 0.0.0.0 gv-inv-eus.admixer.net
@@ -12441,7 +12420,6 @@
 0.0.0.0 inentasky.com
 0.0.0.0 inetinteractive.com
 0.0.0.0 inetlog.ru
-0.0.0.0 inetsiteworld.de
 0.0.0.0 inetzteil.de
 0.0.0.0 inewcontentdelivery.info
 0.0.0.0 inf5.uae2grp.ucweb.com
@@ -12996,7 +12974,6 @@
 0.0.0.0 javtoys.com
 0.0.0.0 jaws.dditscdn.com
 0.0.0.0 jazzdance-freiburg.de
-0.0.0.0 jazzworlddj.com
 0.0.0.0 jb-trailer.de
 0.0.0.0 jbcam.cz
 0.0.0.0 jbcapsforum.tk
@@ -13628,7 +13605,6 @@
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 lastar.de
-0.0.0.0 lastore.net
 0.0.0.0 latamdcs.com
 0.0.0.0 latest.accountkit.com
 0.0.0.0 latest.newstenth.com
@@ -13745,7 +13721,6 @@
 0.0.0.0 lehanusepardo.info
 0.0.0.0 leichter-berlin.de
 0.0.0.0 leidl-skischule.de
-0.0.0.0 lemonscoco.com
 0.0.0.0 lenas-boutique.com
 0.0.0.0 leninsubscribe.com
 0.0.0.0 lensphotostore.site
@@ -13756,7 +13731,6 @@
 0.0.0.0 lepintor.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 lepoint.demdex.net
-0.0.0.0 lerniversum.de
 0.0.0.0 lesehunde.de
 0.0.0.0 lesperis.com
 0.0.0.0 lessblog.pro
@@ -15435,7 +15409,6 @@
 0.0.0.0 moradu.com
 0.0.0.0 more.nexage.com
 0.0.0.0 morebitcoin.club
-0.0.0.0 morellino.store
 0.0.0.0 morengage.com
 0.0.0.0 morgentau-media.de
 0.0.0.0 moriaxmr.com
@@ -15803,7 +15776,6 @@
 0.0.0.0 navrcholu.cz
 0.0.0.0 navvy.media.net
 0.0.0.0 navvyncal.media.net
-0.0.0.0 navyfedera1.org
 0.0.0.0 nazar.adsnative.com
 0.0.0.0 nbajerseysales.pro
 0.0.0.0 nbastreamio.imageshack.host
@@ -16666,7 +16638,6 @@
 0.0.0.0 ortando.de
 0.0.0.0 ortb.yieldlab.net
 0.0.0.0 ortshk.tapas.net
-0.0.0.0 orzk.net
 0.0.0.0 os.tc
 0.0.0.0 oscdn.batmobi.net
 0.0.0.0 osdsoft.com
@@ -19529,7 +19500,6 @@
 0.0.0.0 rosilyloompap.work
 0.0.0.0 rossogato.com
 0.0.0.0 rostocklimo.de
-0.0.0.0 roswithabraun-sauerstein.de
 0.0.0.0 rosymerry.com
 0.0.0.0 rotaban.ru
 0.0.0.0 rotaryevents.ca
@@ -19917,7 +19887,6 @@
 0.0.0.0 salesnleads.com
 0.0.0.0 salewa-rucksack.de
 0.0.0.0 salomon-hu.com
-0.0.0.0 salomonode.online
 0.0.0.0 salomonschoenensale.com
 0.0.0.0 salomonschuh.de
 0.0.0.0 salomonschuhe.at
@@ -19932,8 +19901,6 @@
 0.0.0.0 sampexo.waptrick.org
 0.0.0.0 sample.mgstage.com
 0.0.0.0 samples.eyeviewads.com
-0.0.0.0 samsoniten.online
-0.0.0.0 samsonites.online
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 samsung.apps.linkpc.net
 0.0.0.0 samsung.demdex.net
@@ -20537,7 +20504,6 @@
 0.0.0.0 shopstylecollective.com
 0.0.0.0 shoptop.uz
 0.0.0.0 shopvipmall.co
-0.0.0.0 shopyjt.vejaoutfit.site
 0.0.0.0 shopzyapp.com
 0.0.0.0 short.adnet.cash
 0.0.0.0 shorteh.com
@@ -20614,7 +20580,6 @@
 0.0.0.0 simg.media.net
 0.0.0.0 similaun.at
 0.0.0.0 simkl.net
-0.0.0.0 simone-siegmann.de
 0.0.0.0 simontok.app
 0.0.0.0 simpio.com
 0.0.0.0 simpleanalytics.io
@@ -22093,7 +22058,6 @@
 0.0.0.0 targetpoint.com
 0.0.0.0 targetspot.com
 0.0.0.0 tarttendency.com
-0.0.0.0 tasche.brandudesigner.com
 0.0.0.0 tasks.kissmetrics.com
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tatango.com
@@ -22533,7 +22497,6 @@
 0.0.0.0 tomato.yeaheamobi.com
 0.0.0.0 tomekas.com
 0.0.0.0 tomkyle1233.de
-0.0.0.0 tommysale.online
 0.0.0.0 tomoting.com
 0.0.0.0 tompool.org
 0.0.0.0 tonefuse.com
@@ -23885,7 +23848,6 @@
 0.0.0.0 trigami.com
 0.0.0.0 trik.vidible.tv
 0.0.0.0 trikotset.com
-0.0.0.0 trilns.com
 0.0.0.0 trimpur.com
 0.0.0.0 tripcarrot.biz
 0.0.0.0 triplej.site
@@ -24002,7 +23964,6 @@
 0.0.0.0 tshirtnow.net
 0.0.0.0 tsmrel.ga
 0.0.0.0 tsrid.cxense.com
-0.0.0.0 tsv-noechling.at
 0.0.0.0 tsv5l.bemobtrk.com
 0.0.0.0 tsvansbachpiranhas.de
 0.0.0.0 tsyndicate.com
@@ -24262,7 +24223,6 @@
 0.0.0.0 uk.boffinsoft.com
 0.0.0.0 uk.cj.com
 0.0.0.0 uk.openx.com
-0.0.0.0 uk.quostax.com
 0.0.0.0 uk2kg.bemobtrk.com
 0.0.0.0 ukapp.cj.com
 0.0.0.0 ukbanners.com
@@ -24921,7 +24881,6 @@
 0.0.0.0 viraldoo.com
 0.0.0.0 viralmediatech.com
 0.0.0.0 viralupdatestoday.com
-0.0.0.0 viralvideos.tips
 0.0.0.0 virlan.co
 0.0.0.0 virtual-nights.com
 0.0.0.0 virtual.foundation
@@ -25318,7 +25277,6 @@
 0.0.0.0 webstats.adspaces.ero-advertising.com
 0.0.0.0 webstats.gnome.org
 0.0.0.0 webstats.zecken.de
-0.0.0.0 webstats.zserv.tuwien.ac.at
 0.0.0.0 webstats4u.com
 0.0.0.0 webstore.ucweb.com
 0.0.0.0 webtracker.jp
@@ -26596,7 +26554,6 @@
 0.0.0.0 www.oipzyrzffum.ovh
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.ol14x.voluumtrk.com
-0.0.0.0 www.olkrzytv.com
 0.0.0.0 www.omaze.com
 0.0.0.0 www.omnitechsupport.com
 0.0.0.0 www.onclickclear.com
