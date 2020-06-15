@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.167
 # Release: 167
-# Entries: 27,859
+# Entries: 27,886
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 15 Jun 20 11:45:16
+# Updated: Mon, 15 Jun 20 17:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -93,6 +93,7 @@
 0.0.0.0 100ass.com
 0.0.0.0 101010.pl
 0.0.0.0 101com.com
+0.0.0.0 102vod-adaptive.akamaized.net
 0.0.0.0 10510523.collect.igodigital.com
 0.0.0.0 1059362.collect.igodigital.com
 0.0.0.0 10733458.collect.igodigital.com
@@ -729,6 +730,7 @@
 0.0.0.0 91e2.com
 0.0.0.0 91pool.com
 0.0.0.0 91support.com
+0.0.0.0 920sbo17zn88.com
 0.0.0.0 93.tityx.com
 0.0.0.0 944e66f8683ac43c.com
 0.0.0.0 94982c5b634975e50103ce96082d2827.adk2.co
@@ -2980,6 +2982,7 @@
 0.0.0.0 adsted.adk2.co
 0.0.0.0 adsterra.com
 0.0.0.0 adstest.weather.com
+0.0.0.0 adstonesik.club
 0.0.0.0 adstracker.appsgeyser.com
 0.0.0.0 adstract.adk2.co
 0.0.0.0 adstract.com
@@ -6079,6 +6082,7 @@
 0.0.0.0 bose.demdex.net
 0.0.0.0 bot2.googlerenewals.net
 0.0.0.0 botasdrmartens.com.mx
+0.0.0.0 bots.trafficon.co
 0.0.0.0 boudinotassociates.com
 0.0.0.0 boudja.com
 0.0.0.0 bounceexchange.com
@@ -6187,6 +6191,7 @@
 0.0.0.0 bssp.zog.link
 0.0.0.0 bsw.pxl.ace.advertising.com
 0.0.0.0 bt9wj.bemobtrk.com
+0.0.0.0 btc-revolution.cc
 0.0.0.0 btcchina.com
 0.0.0.0 btcguild.com
 0.0.0.0 btcpay.clickaine.com
@@ -7560,6 +7565,7 @@
 0.0.0.0 coedmediagroup.com
 0.0.0.0 coelen-architekt.de
 0.0.0.0 coffemokko.com
+0.0.0.0 cogleapad.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cogocast.net
 0.0.0.0 cogsdigital.com
@@ -8235,6 +8241,7 @@
 0.0.0.0 cxense.com
 0.0.0.0 cxmwz.com
 0.0.0.0 cxpublic.com
+0.0.0.0 cxqipms0brqnjvh.ru
 0.0.0.0 cy-dragon.store
 0.0.0.0 cyanfun.com
 0.0.0.0 cyberbounty.com
@@ -8282,18 +8289,22 @@
 0.0.0.0 d.workflowboard.com
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 d01fa.net
+0.0.0.0 d1d5p7uxjr4j28.cloudfront.net
 0.0.0.0 d1tqp15egmc1qo.cloudfront.net
 0.0.0.0 d1wsidr7aabb18.cloudfront.net
 0.0.0.0 d2.yengo.com
 0.0.0.0 d24ak3f2b.top
+0.0.0.0 d29xw9s9x32j3w.cloudfront.net
 0.0.0.0 d2yz0oamomyxzv.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d33bhlp8xcppz2.cloudfront.net
+0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d38optp29wd03m.cloudfront.net
 0.0.0.0 d3dw9e5ep9si6p.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.click-here.pro
+0.0.0.0 d7016uqa4s0lw.cloudfront.net
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d824d7f5cbcb0e00.com
 0.0.0.0 d869381a42af33b.com
@@ -8769,6 +8780,7 @@
 0.0.0.0 digitaltarget.ru
 0.0.0.0 dignitasolution.com
 0.0.0.0 digyepnag.club
+0.0.0.0 diheehgebiibahhiace.ru
 0.0.0.0 dillas-pfandhaus.de
 0.0.0.0 dimaggio.heartlight.org
 0.0.0.0 dimandis.com
@@ -9917,6 +9929,7 @@
 0.0.0.0 exrno.com
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 extend.tv
+0.0.0.0 external-media.trafficon.co
 0.0.0.0 extra.bet365.com
 0.0.0.0 extra.thebigboss.org
 0.0.0.0 extra33.com
@@ -10183,6 +10196,7 @@
 0.0.0.0 filter.xmlads.bid
 0.0.0.0 filters.adtidy.org
 0.0.0.0 fim.adnxs.com
+0.0.0.0 fimpromote.club
 0.0.0.0 fimserve.com
 0.0.0.0 finalgaming.co
 0.0.0.0 finance.cxense.com
@@ -10328,6 +10342,7 @@
 0.0.0.0 forexfinancexxfx.info
 0.0.0.0 forgethenar.info
 0.0.0.0 formats.juiceadv.com
+0.0.0.0 forms.trafficon.co
 0.0.0.0 formulawire.com
 0.0.0.0 forpyke.com
 0.0.0.0 forre.st
@@ -10830,6 +10845,7 @@
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.joinsafelyonline.com
+0.0.0.0 geol.startbundlingnow.com
 0.0.0.0 geolocation.1trust.app
 0.0.0.0 geonorwayes.online
 0.0.0.0 geoplugin.net
@@ -21133,6 +21149,7 @@
 0.0.0.0 splicky.com
 0.0.0.0 splinky.com
 0.0.0.0 splitroute.adserver.yahoo.com
+0.0.0.0 splitter.trafficon.co
 0.0.0.0 splut.com
 0.0.0.0 spm.it
 0.0.0.0 spnet5.i-mobile.co.jp
@@ -21645,6 +21662,7 @@
 0.0.0.0 stats.systemres.com.re.getclicky.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.tubecup.net
+0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.webclicktracer.com.re.getclicky.com
 0.0.0.0 stats.webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 stats.webstarts.com.re.getclicky.com
@@ -21760,6 +21778,7 @@
 0.0.0.0 streamate.com
 0.0.0.0 streamdefence.com
 0.0.0.0 streamdream.ws
+0.0.0.0 streamerpr.trafficon.co
 0.0.0.0 streaming.adswizz.com
 0.0.0.0 streaming.content4you.net
 0.0.0.0 streaminit.live
@@ -21862,6 +21881,7 @@
 0.0.0.0 sup-cube.de
 0.0.0.0 sup.adfox.ru
 0.0.0.0 suparewards.com
+0.0.0.0 supative-fetioner.icu
 0.0.0.0 super-links.net
 0.0.0.0 super-route.com
 0.0.0.0 super.rayjump.com
@@ -23829,6 +23849,7 @@
 0.0.0.0 tracking.tomshardware.co.uk
 0.0.0.0 tracking.tomshardware.com
 0.0.0.0 tracking.trackset.com
+0.0.0.0 tracking.tracktraff.online
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 tracking.trksrv.com
 0.0.0.0 tracking.trnox.com
@@ -23894,6 +23915,7 @@
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
 0.0.0.0 trafficmagnates.com
+0.0.0.0 trafficon.co
 0.0.0.0 trafficplan.pl
 0.0.0.0 trafficposse.com
 0.0.0.0 trafficrevenue.net
@@ -23912,6 +23934,7 @@
 0.0.0.0 trafficzap.com
 0.0.0.0 traffiq.com
 0.0.0.0 trafflict.com
+0.0.0.0 trafforms.co
 0.0.0.0 trafforsrv.com
 0.0.0.0 traffpartners.com
 0.0.0.0 trafic.ro
@@ -24358,6 +24381,7 @@
 0.0.0.0 ui2.awin.com
 0.0.0.0 uijed.ml
 0.0.0.0 uimserv.net
+0.0.0.0 uinames.com
 0.0.0.0 uj3wazyk5u4hnvtk.onion.pet
 0.0.0.0 uk-market.openx.com
 0.0.0.0 uk-polo.com
@@ -25012,6 +25036,7 @@
 0.0.0.0 vijs.rayjump.com
 0.0.0.0 villasmocambo.com
 0.0.0.0 villaxl.adform.net
+0.0.0.0 vimjarawl.com
 0.0.0.0 vimovil.com
 0.0.0.0 vinbet.biz
 0.0.0.0 vindicosuite.com
@@ -26228,6 +26253,7 @@
 0.0.0.0 www.cookiescript.info
 0.0.0.0 www.coollcloud.com
 0.0.0.0 www.cosmos.cyberads.io
+0.0.0.0 www.countryflags.io
 0.0.0.0 www.covid19testbrevard.com
 0.0.0.0 www.cpm20.com
 0.0.0.0 www.cpsee.com
@@ -27171,6 +27197,7 @@
 0.0.0.0 www.wisemana.com
 0.0.0.0 www.wizardsbd.com
 0.0.0.0 www.wks.ero-advertising.com
+0.0.0.0 www.worldwide-breakingnews.com
 0.0.0.0 www.wow.ero-advertising.com
 0.0.0.0 www.wowtrk.com
 0.0.0.0 www.wpu.sh
