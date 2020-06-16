@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.168
-# Release: 168
-# Entries: 27,922
+# Version: 20.06.169
+# Release: 169
+# Entries: 27,928
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 16 Jun 20 23:45:20
+# Updated: Wed, 17 Jun 20 05:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4592,6 +4592,7 @@
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.moengage.com
 0.0.0.0 api.mp.uc.cn
+0.0.0.0 api.naiadsystems.com
 0.0.0.0 api.newrelic.com
 0.0.0.0 api.news.uodoo.com
 0.0.0.0 api.newsfeed.intl.miui.com
@@ -5921,6 +5922,7 @@
 0.0.0.0 black6adv.com
 0.0.0.0 blackhole.algolia.com
 0.0.0.0 blackhole2.algolia.com
+0.0.0.0 blacklabel.naiadsystems.com
 0.0.0.0 blacurlik.com
 0.0.0.0 blade-bi.microad.co.jp
 0.0.0.0 blaghfpd.com
@@ -14730,6 +14732,7 @@
 0.0.0.0 manfred-juenemann.de
 0.0.0.0 mangold-band.de
 0.0.0.0 mangold-immobilien.de
+0.0.0.0 manifest-server.naiadsystems.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 manifest.prod.boltdns.net
 0.0.0.0 manual-img.ads.noticel.com
@@ -16401,7 +16404,6 @@
 0.0.0.0 nuzlihakiim.com
 0.0.0.0 nv.uashaql.net
 0.0.0.0 nvidia.demdex.net
-0.0.0.0 nvms1.vcdngo.com
 0.0.0.0 nvms2.vcdngo.com
 0.0.0.0 nvxzjmowusg.com
 0.0.0.0 nwfhalifax.com
@@ -20230,6 +20232,7 @@
 0.0.0.0 scottcrabiel.com
 0.0.0.0 scounter.rambler.ru
 0.0.0.0 scoutwatch.btrll.com
+0.0.0.0 scp.naiadsystems.com
 0.0.0.0 scrap.me
 0.0.0.0 scratch.eqads.com
 0.0.0.0 scratch2cash.com
@@ -20389,6 +20392,7 @@
 0.0.0.0 secure.juicyads.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.mobile.contentabc.com
+0.0.0.0 secure.naiadsystems.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 securedopen-bp.com
 0.0.0.0 securegfm.com
@@ -21426,6 +21430,7 @@
 0.0.0.0 staging.blog.adblade.com
 0.0.0.0 staging.clickadilla.com
 0.0.0.0 staging.mocogateway.com
+0.0.0.0 staging.naiadsystems.com
 0.0.0.0 staging.newrelic.com
 0.0.0.0 staging.perfectaudience.com
 0.0.0.0 staging.rubiconproject.com
@@ -22037,6 +22042,7 @@
 0.0.0.0 sync2.audtd.com
 0.0.0.0 sync3.adsniper.ru
 0.0.0.0 synchroscript.adswizz.com
+0.0.0.0 syncstatus.naiadsystems.com
 0.0.0.0 syndapop.com
 0.0.0.0 syndication-adblock.exoclick.com
 0.0.0.0 syndication-evo.exoclick.com
@@ -24415,7 +24421,6 @@
 0.0.0.0 uk-polo.com
 0.0.0.0 uk-webservices.cj.com
 0.0.0.0 uk.ads.justpremium.com
-0.0.0.0 uk.ads.justpremium.comuk.ads.justpremium.com
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 uk.advertising.com
 0.0.0.0 uk.at.atwola.com
@@ -25467,6 +25472,7 @@
 0.0.0.0 webpick-cdn.s3.amazonaws.com
 0.0.0.0 webpick-cdn.s3.us-west-2.amazonaws.com
 0.0.0.0 webreseau.com
+0.0.0.0 webrtc.naiadsystems.com
 0.0.0.0 webs.getclicky.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websearchmsn.media.net
