@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.168
 # Release: 168
-# Entries: 27,886
+# Entries: 27,890
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 16 Jun 20 05:45:17
+# Updated: Tue, 16 Jun 20 11:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7515,6 +7515,7 @@
 0.0.0.0 cms.eqads.com
 0.0.0.0 cms.newrelic.com
 0.0.0.0 cms.ucweb.com
+0.0.0.0 cn-geo1.uber.com
 0.0.0.0 cn.adriver.ru
 0.0.0.0 cn.ads.justpremium.com
 0.0.0.0 cn.adserver.yahoo.com
@@ -9963,6 +9964,7 @@
 0.0.0.0 f.gm.mob.com
 0.0.0.0 f.mobclix.com
 0.0.0.0 f.sd.baidu.com
+0.0.0.0 f.shopee.sg
 0.0.0.0 f.th.bav.baidu.com
 0.0.0.0 f.w-x.co
 0.0.0.0 f.watchmovie.fun
@@ -10702,6 +10704,7 @@
 0.0.0.0 gamersad.com
 0.0.0.0 games.mgid.com
 0.0.0.0 games.myfastappz.com
+0.0.0.0 games.shopee.tw
 0.0.0.0 gamesbdr.com
 0.0.0.0 gamesites100.net
 0.0.0.0 gamesites200.com
@@ -24655,6 +24658,7 @@
 0.0.0.0 userreplay.com
 0.0.0.0 users.ero-advertising.com
 0.0.0.0 users.quantumgraph.com
+0.0.0.0 userstats.shopee.tw
 0.0.0.0 usevideo.adsrvr.org
 0.0.0.0 ushub.awin.com
 0.0.0.0 usinesmycete.info
