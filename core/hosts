@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.168
 # Release: 168
-# Entries: 27,923
+# Entries: 27,922
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 16 Jun 20 17:45:29
+# Updated: Tue, 16 Jun 20 23:45:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17327,7 +17327,6 @@
 0.0.0.0 pagefair.net
 0.0.0.0 pagepeel.ero-advertising.com
 0.0.0.0 pagerank-ranking.com
-0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-server7.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank4you.com
