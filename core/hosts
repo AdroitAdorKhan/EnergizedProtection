@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.169
-# Release: 169
-# Entries: 27,929
+# Version: 20.06.170
+# Release: 170
+# Entries: 27,928
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 17 Jun 20 23:45:19
+# Updated: Thu, 18 Jun 20 05:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1226,7 +1226,6 @@
 0.0.0.0 ad.gr.doubleclick.net
 0.0.0.0 ad.hani.co.kr
 0.0.0.0 ad.hr.doubleclick.net
-0.0.0.0 ad.httpool.com
 0.0.0.0 ad.hu.doubleclick.net
 0.0.0.0 ad.hyena.cz
 0.0.0.0 ad.i2idata.com
