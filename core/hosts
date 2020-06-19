@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.171
 # Release: 171
-# Entries: 27,703
+# Entries: 27,707
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 19 Jun 20 11:45:22
+# Updated: Fri, 19 Jun 20 17:45:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4807,6 +4807,7 @@
 0.0.0.0 appsnack.com
 0.0.0.0 appsrv.display.io
 0.0.0.0 appstatic3.plugrush.com
+0.0.0.0 appstatico.electronic.us
 0.0.0.0 appsupdate.sinaapp.com
 0.0.0.0 appsupport.qq.com
 0.0.0.0 apptap.com
@@ -5727,6 +5728,7 @@
 0.0.0.0 bhsure.com
 0.0.0.0 bht.aqmobi.com
 0.0.0.0 bi-verteilerkreis.at
+0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.mgid.com
 0.0.0.0 biartau.id
 0.0.0.0 bibei.uc.cn
@@ -10906,6 +10908,7 @@
 0.0.0.0 glamberg.eu
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glasgro.com
+0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 glasses-sale.com
 0.0.0.0 glasses2you.lpages.co
 0.0.0.0 glauchos.com
@@ -24817,6 +24820,7 @@
 0.0.0.0 video.cedemo.com
 0.0.0.0 video.content.ad
 0.0.0.0 video.fyber.com
+0.0.0.0 video.manhuaren.com
 0.0.0.0 video.market.xiaomi.com
 0.0.0.0 video.mgid.com
 0.0.0.0 video.moatads.com
