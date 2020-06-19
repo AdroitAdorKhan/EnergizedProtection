@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.171
 # Release: 171
-# Entries: 27,705
+# Entries: 27,703
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 19 Jun 20 05:45:23
+# Updated: Fri, 19 Jun 20 11:45:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26355,7 +26355,6 @@
 0.0.0.0 www.inwind.ws
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioh9.com
-0.0.0.0 www.iplogger.com
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.ipuss.tv
@@ -27007,7 +27006,6 @@
 0.0.0.0 www.webcalcio.net
 0.0.0.0 www.webclicks24.com
 0.0.0.0 www.webdesignfact.com
-0.0.0.0 www.webhaat.com
 0.0.0.0 www.webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 www.webmailer.de
 0.0.0.0 www.webmine.cz
