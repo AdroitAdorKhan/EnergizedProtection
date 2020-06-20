@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.172
 # Release: 172
-# Entries: 27,707
+# Entries: 27,724
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 20 Jun 20 11:45:17
+# Updated: Sat, 20 Jun 20 17:45:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1036,6 +1036,7 @@
 0.0.0.0 acds.vidible.tv
 0.0.0.0 ace-tag.advertising.com
 0.0.0.0 ace.advertising.com
+0.0.0.0 ace.loginfra.com
 0.0.0.0 ace1.advertising.com
 0.0.0.0 acento.com
 0.0.0.0 acf-webmaster.net
@@ -1228,6 +1229,7 @@
 0.0.0.0 ad.infoseek.com
 0.0.0.0 ad.innotate.net
 0.0.0.0 ad.inter-edu.com
+0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.ipredictive.com
 0.0.0.0 ad.ir.ru
 0.0.0.0 ad.ish.atdmt.com
@@ -3536,10 +3538,13 @@
 0.0.0.0 alogus.umeng.com
 0.0.0.0 alp.adgear.com
 0.0.0.0 alpereum.ch
+0.0.0.0 alpha-ace.loginfra.com
 0.0.0.0 alpha-ads.aerserv.com
 0.0.0.0 alpha-assets.adcolony.com
+0.0.0.0 alpha-cc.loginfra.com
 0.0.0.0 alpha-elektroniks.net
 0.0.0.0 alpha-events.aerserv.com
+0.0.0.0 alpha-lcs.loginfra.com
 0.0.0.0 alpha-tech.store
 0.0.0.0 alpha.accountkit.com
 0.0.0.0 alpha.atdmt.com
@@ -4532,6 +4537,7 @@
 0.0.0.0 api.h1.he7ll.com
 0.0.0.0 api.hasoffers.com
 0.0.0.0 api.icolorfast.com
+0.0.0.0 api.idio.co
 0.0.0.0 api.inbvur.com
 0.0.0.0 api.infomobi.me
 0.0.0.0 api.inmobi.com
@@ -5320,7 +5326,6 @@
 0.0.0.0 balloontexture.com
 0.0.0.0 balzbambii.de
 0.0.0.0 bam-bam-slam.com
-0.0.0.0 bam.nr-data.net
 0.0.0.0 bambinitestblog.de
 0.0.0.0 bamboo.revcontent.com
 0.0.0.0 ban3ers.ero-advertising.com
@@ -5993,6 +5998,7 @@
 0.0.0.0 bognerjackesale.com
 0.0.0.0 bohemianpool.com
 0.0.0.0 bohemuchnehe.club
+0.0.0.0 boi9osyg1uwtyafn.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 bokechengshiqipai.com
@@ -6581,6 +6587,7 @@
 0.0.0.0 cbsi.com
 0.0.0.0 cbzjukldosooj.com
 0.0.0.0 cc.adserver.yahoo.com
+0.0.0.0 cc.loginfra.com
 0.0.0.0 cc.st
 0.0.0.0 cca-ams3.rubiconproject.com
 0.0.0.0 cca-fra2.rubiconproject.com
@@ -13210,6 +13217,7 @@
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.hotlog.ru
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.idio.co
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.mgid.com
 0.0.0.0 js.moatads.com
@@ -13540,6 +13548,8 @@
 0.0.0.0 kr.admob.com
 0.0.0.0 kr.adserver.yahoo.com
 0.0.0.0 kr.applovin.com
+0.0.0.0 kr.cc.loginfra.com
+0.0.0.0 kr.lcs.loginfra.com
 0.0.0.0 kr.taptica.com
 0.0.0.0 kr3.af.beap.bc.yahoo.com
 0.0.0.0 kr9apzxosa.appspot.com
@@ -13745,6 +13755,7 @@
 0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 lcidc.liadm.com
 0.0.0.0 lcljoefresh.demdex.net
+0.0.0.0 lcs.loginfra.com
 0.0.0.0 lct.addthis.com
 0.0.0.0 ldap-2.adotmob.com
 0.0.0.0 ldap.a4.tl
@@ -14151,6 +14162,7 @@
 0.0.0.0 login.yahoo-change-password.com
 0.0.0.0 login.yahoo.com.id24556.tk
 0.0.0.0 login.yahoo.user-id.0xf4a5.tk
+0.0.0.0 loginfra.com
 0.0.0.0 loginwebmailnic.dynssl.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logkzudhrg.com
@@ -19786,6 +19798,7 @@
 0.0.0.0 s.cpro.baidu.com
 0.0.0.0 s.ero-advertising.com
 0.0.0.0 s.go-mpulse.net
+0.0.0.0 s.idio.co
 0.0.0.0 s.img.mix.sina.com.cn
 0.0.0.0 s.inedomedia.com.re.getclicky.com
 0.0.0.0 s.innovid.com
@@ -20448,6 +20461,7 @@
 0.0.0.0 sg.12xlwin3.net
 0.0.0.0 sg.adserver.yahoo.com
 0.0.0.0 sg.akamai.startappservice.com
+0.0.0.0 sg.cc.loginfra.com
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.mtrack.rayjump.com
 0.0.0.0 sg.napi.ucweb.com
@@ -21927,6 +21941,7 @@
 0.0.0.0 t.gotporn.com
 0.0.0.0 t.grtyo.com
 0.0.0.0 t.hoood.info
+0.0.0.0 t.idio.co
 0.0.0.0 t.invitemedia.com
 0.0.0.0 t.irtyf.com
 0.0.0.0 t.liveads.jp
@@ -24483,6 +24498,7 @@
 0.0.0.0 use-sync.adhese.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-va1.adsrvr.org
+0.0.0.0 use.cc.loginfra.com
 0.0.0.0 use.fb.adsrvr.org
 0.0.0.0 usedirect.adsrvr.org
 0.0.0.0 usefb.adsrvr.org
@@ -27655,6 +27671,7 @@
 0.0.0.0 zeta.international
 0.0.0.0 zeta.plus
 0.0.0.0 zetzethaustechnik.de
+0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zeushoki.com
 0.0.0.0 zeuspoker.olala2.com
