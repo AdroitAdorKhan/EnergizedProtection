@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.174
 # Release: 174
-# Entries: 27,622
+# Entries: 27,621
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 22 Jun 20 17:45:21
+# Updated: Mon, 22 Jun 20 23:45:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2189,7 +2189,6 @@
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.greengeeks.com
 0.0.0.0 ads.grindinggears.com
-0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.gumgum.com
