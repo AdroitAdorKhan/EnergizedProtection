@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.175
 # Release: 175
-# Entries: 27,621
+# Entries: 27,618
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 23 Jun 20 05:45:18
+# Updated: Tue, 23 Jun 20 11:45:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2353,11 +2353,8 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.tremorhub.com
-0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
-0.0.0.0 ads.tripod.lycos.it
-0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.twitter.com
