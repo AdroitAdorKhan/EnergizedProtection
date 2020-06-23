@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.175
-# Release: 175
-# Entries: 27,593
+# Version: 20.06.176
+# Release: 176
+# Entries: 27,592
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 23 Jun 20 23:45:22
+# Updated: Wed, 24 Jun 20 05:45:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11857,7 +11857,6 @@
 0.0.0.0 i.w.dfw1.vip.inmobi.com
 0.0.0.0 i.w.eastus.avi.inmobi.com
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 i.xx.openx.com
 0.0.0.0 i08qax.edvfwlacluo.com
 0.0.0.0 i1.bonus.express
 0.0.0.0 i1.dl-ad.com
