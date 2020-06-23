@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.175
 # Release: 175
-# Entries: 27,614
+# Entries: 27,593
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 23 Jun 20 17:45:20
+# Updated: Tue, 23 Jun 20 23:45:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1521,7 +1521,6 @@
 0.0.0.0 adclick.eqmob.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 adclick.ushareit.com
 0.0.0.0 adclick.zkmobi.com
 0.0.0.0 adclickafrica.com
 0.0.0.0 adclickmedia.com
@@ -2258,7 +2257,6 @@
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.msn-int.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muxiv.com
 0.0.0.0 ads.mybanktracker.com
 0.0.0.0 ads.nayemador.com
@@ -4856,7 +4854,6 @@
 0.0.0.0 archswimming.com
 0.0.0.0 arcteryxoutlets.com
 0.0.0.0 are-services.de
-0.0.0.0 are-ter.com
 0.0.0.0 area51-ts.com
 0.0.0.0 area51.unity.amobee.com
 0.0.0.0 areametrics.com
@@ -4902,7 +4899,6 @@
 0.0.0.0 artifact-registry.service.newrelic.com
 0.0.0.0 artifactory.amobee.com
 0.0.0.0 arts-apparel.com
-0.0.0.0 artsimorgh.com
 0.0.0.0 artstudio91.com
 0.0.0.0 artwork-berlin.de
 0.0.0.0 arwa.app
@@ -5860,8 +5856,6 @@
 0.0.0.0 black-elektroniks.com
 0.0.0.0 black-js.github.io
 0.0.0.0 black6adv.com
-0.0.0.0 blackhole.algolia.com
-0.0.0.0 blackhole2.algolia.com
 0.0.0.0 blacklabel.naiadsystems.com
 0.0.0.0 blacurlik.com
 0.0.0.0 blade-bi.microad.co.jp
@@ -8978,7 +8972,6 @@
 0.0.0.0 dragooo.net
 0.0.0.0 dragzebra.com
 0.0.0.0 drawbrid.ge
-0.0.0.0 drdedun.com
 0.0.0.0 dreadditevelidot.onion.pet
 0.0.0.0 dream-skin.co
 0.0.0.0 dreamaquarium.com
@@ -9353,7 +9346,6 @@
 0.0.0.0 eegnacou.com
 0.0.0.0 efancylife.com
 0.0.0.0 effective-ads.com
-0.0.0.0 effectivelyreport.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 efficaciouscactus.com
@@ -9666,7 +9658,6 @@
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-adserver.cxad.cxense.com
 0.0.0.0 eu-central-1.onemobile.yahoo.com
-0.0.0.0 eu-ma.sam4m.com
 0.0.0.0 eu-pn1.adserver.yahoo.com
 0.0.0.0 eu-pn2.adserver.yahoo.com
 0.0.0.0 eu-pn3.adserver.yahoo.com
@@ -11435,7 +11426,6 @@
 0.0.0.0 hecrowcati.info
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 heikos-kramladen.de
-0.0.0.0 heimatstuecke.at
 0.0.0.0 heimtierbedarfonlineshop.xyz
 0.0.0.0 heinertkrowas.de
 0.0.0.0 heixbai.com
@@ -15665,7 +15655,6 @@
 0.0.0.0 myhousecouture.com
 0.0.0.0 myimg.bid
 0.0.0.0 mylevfpqmlt.com
-0.0.0.0 mylink-today.com
 0.0.0.0 mynavi.ucweb.com
 0.0.0.0 mynavvfedera1.org
 0.0.0.0 mynewspepper.com
@@ -16350,7 +16339,6 @@
 0.0.0.0 officialwheeper.de
 0.0.0.0 offline-video-cdn.wshareit.com
 0.0.0.0 offlineattrib.adsrvr.org
-0.0.0.0 offmp4.app
 0.0.0.0 offoonguser.com
 0.0.0.0 ofgogoatan.com
 0.0.0.0 ofhappinyer.com
@@ -18213,7 +18201,6 @@
 0.0.0.0 powerlinks.com
 0.0.0.0 powermaster.s.xoxknct.com
 0.0.0.0 powersaver.s.xoxknct.com
-0.0.0.0 powersite.nl
 0.0.0.0 powersitemainservfjr.org
 0.0.0.0 powersol.de
 0.0.0.0 poxaharap.com
@@ -20292,7 +20279,6 @@
 0.0.0.0 server.adform.net
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adversal.com
-0.0.0.0 server.algolia.com
 0.0.0.0 server.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 server.viralcpm.com
@@ -20631,7 +20617,6 @@
 0.0.0.0 sitestats.ttcportals.com.re.getclicky.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sizesidewalk.com
-0.0.0.0 sizmek.com
 0.0.0.0 sj2-ae.cj.com
 0.0.0.0 sjc-delivery-10.sys.adgear.com
 0.0.0.0 sjc-delivery-7.sys.adgear.com
@@ -22268,7 +22253,6 @@
 0.0.0.0 thenursetoday.com
 0.0.0.0 theoceanroomsbirmingham.com
 0.0.0.0 theonecdn.com
-0.0.0.0 theos-abholmarkt.de
 0.0.0.0 thephones.net
 0.0.0.0 thephotostick.com
 0.0.0.0 thepopcodes.com
@@ -22756,7 +22740,6 @@
 0.0.0.0 track.clickhubs.com
 0.0.0.0 track.clickon.co.il
 0.0.0.0 track.clicksure.com
-0.0.0.0 track.clicktracking.com
 0.0.0.0 track.clickworkzmedia.com
 0.0.0.0 track.climaxcontrol.pl
 0.0.0.0 track.cliqrr.com
@@ -23032,7 +23015,6 @@
 0.0.0.0 track.msadcenter.bvp.com
 0.0.0.0 track.msadcenter.cclu.com
 0.0.0.0 track.msadcenter.cdn.com
-0.0.0.0 track.msadcenter.ceio.com
 0.0.0.0 track.msadcenter.chpn.com
 0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 track.msadcenter.dgt.com
@@ -24261,7 +24243,6 @@
 0.0.0.0 unpm-upaas.ucweb.com
 0.0.0.0 unreshiramor.com
 0.0.0.0 unrulymedia.com
-0.0.0.0 unrummaged.com
 0.0.0.0 untd.com
 0.0.0.0 untidyquestion.com
 0.0.0.0 untotlowith.info
@@ -25554,7 +25535,6 @@
 0.0.0.0 ww400.smartadserver.fr
 0.0.0.0 ww55.smartadserver.com
 0.0.0.0 ww57.smartadserver.com
-0.0.0.0 ww7.69oxt4q05.com
 0.0.0.0 wwa.ero-advertising.com
 0.0.0.0 wwbn.com
 0.0.0.0 wwmcuhvqaf.com
@@ -26352,7 +26332,6 @@
 0.0.0.0 www.liveadexchanger.com
 0.0.0.0 www.liveadoptimizer.com
 0.0.0.0 www.liveads.jp
-0.0.0.0 www.livepromo.net
 0.0.0.0 www.liverail.com
 0.0.0.0 www.lkvifcxvqkwrl.com
 0.0.0.0 www.loadmill.com
