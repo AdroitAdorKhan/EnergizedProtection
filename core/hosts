@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.176
 # Release: 176
-# Entries: 27,592
+# Entries: 27,570
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 24 Jun 20 05:45:19
+# Updated: Wed, 24 Jun 20 11:45:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -495,7 +495,6 @@
 0.0.0.0 3607715.notifysrv.com
 0.0.0.0 3608083.notifysrv.com
 0.0.0.0 360ads.com
-0.0.0.0 360adstrack.com
 0.0.0.0 360installer.com
 0.0.0.0 360yield.com
 0.0.0.0 3621607.notifysrv.com
@@ -645,7 +644,6 @@
 0.0.0.0 7208777.collect.igodigital.com
 0.0.0.0 7208780.collect.igodigital.com
 0.0.0.0 7208781.collect.igodigital.com
-0.0.0.0 7209624.recs.igodigital.com
 0.0.0.0 7217216.collect.igodigital.com
 0.0.0.0 7226605.collect.igodigital.com
 0.0.0.0 7227070.collect.igodigital.com
@@ -1494,7 +1492,6 @@
 0.0.0.0 adbutler.de
 0.0.0.0 adbutter.net
 0.0.0.0 adbuyer.com
-0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 adc-ad-assets.adtilt.com
 0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch-staging.adcolony.com
@@ -3122,7 +3119,6 @@
 0.0.0.0 advertising.expedia.com
 0.0.0.0 advertising.gawker.com
 0.0.0.0 advertising.lavenir.net
-0.0.0.0 advertising.lycos.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 advertising.nttr.co.jp
 0.0.0.0 advertising.nypost.com
@@ -4290,9 +4286,7 @@
 0.0.0.0 annchea.com
 0.0.0.0 anners.ero-advertising.com
 0.0.0.0 anniecloth.com
-0.0.0.0 annualconsumersurvey.com
 0.0.0.0 annuzine.com
-0.0.0.0 annymoremusic.de
 0.0.0.0 anon.amazon-de.speedera.net
 0.0.0.0 anon.amazon.speedera.net
 0.0.0.0 anon.bn24.speedera.net
@@ -5878,7 +5872,6 @@
 0.0.0.0 blissfulonline.com
 0.0.0.0 blitzangebote24.de
 0.0.0.0 blizardom.com
-0.0.0.0 block.s3block.com
 0.0.0.0 block.s4block.com
 0.0.0.0 blockmunch.club
 0.0.0.0 blog-assets.newrelic.com
@@ -7721,7 +7714,6 @@
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
-0.0.0.0 consettsafcsa.com
 0.0.0.0 considedefinit.fun
 0.0.0.0 console.adsnative.com
 0.0.0.0 console.brightcove.com
@@ -8453,7 +8445,6 @@
 0.0.0.0 debugtbs.qq.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decigames.co.uk
-0.0.0.0 decision.cc
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
 0.0.0.0 decisivedrawer.com
@@ -12984,7 +12975,6 @@
 0.0.0.0 jalousien-neufend.de
 0.0.0.0 jambooo.de
 0.0.0.0 jamexistence.com
-0.0.0.0 jamf-cloud.openx.com
 0.0.0.0 jamoso.de
 0.0.0.0 jana-hartnigk.de
 0.0.0.0 jango.com
@@ -13505,7 +13495,6 @@
 0.0.0.0 ksukpuyqs.com
 0.0.0.0 kswj.unionapps.info
 0.0.0.0 kt5850pjz0.com
-0.0.0.0 ktcommunity.de
 0.0.0.0 ktg-frischedienst.de
 0.0.0.0 ktornado.com
 0.0.0.0 ktracker.kumparan.com
@@ -13517,7 +13506,6 @@
 0.0.0.0 kugo.cc
 0.0.0.0 kuitego.com
 0.0.0.0 kulinarium7.at
-0.0.0.0 kulinartika.at
 0.0.0.0 kulkarni.bounceme.net
 0.0.0.0 kumpulblogger.com
 0.0.0.0 kumpzfcczy.com
@@ -14693,7 +14681,6 @@
 0.0.0.0 mazon24.com
 0.0.0.0 mb-npltf.com
 0.0.0.0 mb-npltfpro.com
-0.0.0.0 mb-training.net
 0.0.0.0 mb.moatads.com
 0.0.0.0 mb.taboola.com
 0.0.0.0 mb01.com
@@ -15202,7 +15189,6 @@
 0.0.0.0 mobads4app.com
 0.0.0.0 mobalert.net
 0.0.0.0 mobbahjug.com
-0.0.0.0 mobcdn.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobday.com
 0.0.0.0 mobfox.com
@@ -17117,7 +17103,6 @@
 0.0.0.0 pabloskysale.online
 0.0.0.0 pabloskyshop.online
 0.0.0.0 pacemaker.online
-0.0.0.0 pacmo.com
 0.0.0.0 pact.thecon.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsdelivery.com
@@ -22364,7 +22349,6 @@
 0.0.0.0 tir94wepsdxox.appspot.com
 0.0.0.0 tischlerei-fischler.at
 0.0.0.0 titbinegothe.info
-0.0.0.0 titihaus.de
 0.0.0.0 titjolacruso.info
 0.0.0.0 titoaktop.com
 0.0.0.0 tityx.com
@@ -22716,7 +22700,6 @@
 0.0.0.0 track.briskfile.com
 0.0.0.0 track.businessunionorg.com
 0.0.0.0 track.bustykimberxxx.com
-0.0.0.0 track.bustysolos.com
 0.0.0.0 track.buybox.click
 0.0.0.0 track.buyma.com
 0.0.0.0 track.buysellads.com
@@ -23120,7 +23103,6 @@
 0.0.0.0 track.newbiegirls.com
 0.0.0.0 track.newslettersponsor.com
 0.0.0.0 track.newsolos.com
-0.0.0.0 track.next-level-track.com
 0.0.0.0 track.nextsmart.me
 0.0.0.0 track.nexusaffiliate.com
 0.0.0.0 track.nifty.com
@@ -25164,7 +25146,6 @@
 0.0.0.0 weblockapp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 webmarker.de
-0.0.0.0 webmaster-partnerprogramme24.de
 0.0.0.0 webmastercentral.pc.cdn.bitgravity.com
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
@@ -26308,7 +26289,6 @@
 0.0.0.0 www.kpxbctywsa.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuntovire.fi
-0.0.0.0 www.kurapica.net
 0.0.0.0 www.kw.ads.justpremium.com
 0.0.0.0 www.kzhav.voluumtrk.com
 0.0.0.0 www.kzmleuhgqifvzy.com
@@ -26570,7 +26550,6 @@
 0.0.0.0 www.prizes-sg.com
 0.0.0.0 www.promo.buzzclicks.com
 0.0.0.0 www.promorich.com
-0.0.0.0 www.promotion.com-rewards.club
 0.0.0.0 www.propellerads.com
 0.0.0.0 www.propush.net
 0.0.0.0 www.ptewiki.com
@@ -27483,7 +27462,6 @@
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
 0.0.0.0 zanoya.de
-0.0.0.0 zantracker.com
 0.0.0.0 zap-msk.com
 0.0.0.0 zap.buzz
 0.0.0.0 zapaljs.com
