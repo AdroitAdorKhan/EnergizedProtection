@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.176
 # Release: 176
-# Entries: 27,570
+# Entries: 27,569
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 24 Jun 20 11:45:20
+# Updated: Wed, 24 Jun 20 17:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14570,7 +14570,6 @@
 0.0.0.0 maphuahin.com
 0.0.0.0 maps.adcolony.com
 0.0.0.0 maps.newrelic.com
-0.0.0.0 mapspublications.us
 0.0.0.0 marabunta-sjc3.btrll.com
 0.0.0.0 marchadvertisingnetwork5.com
 0.0.0.0 marchex.com
