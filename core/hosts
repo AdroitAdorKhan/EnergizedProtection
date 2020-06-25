@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.177
-# Release: 177
-# Entries: 27,577
+# Version: 20.06.178
+# Release: 178
+# Entries: 27,578
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Jun 20 23:45:16
+# Updated: Fri, 26 Jun 20 05:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13856,6 +13856,7 @@
 0.0.0.0 link-reports-noneu.truecaller.com
 0.0.0.0 link.ad-center.com
 0.0.0.0 link.brightcove.com
+0.0.0.0 link.getmailspring.com
 0.0.0.0 link.outbrain.com
 0.0.0.0 link.safesslredirect.company
 0.0.0.0 link4ads.com
