@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.178
 # Release: 178
-# Entries: 27,534
+# Entries: 27,531
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Jun 20 11:45:16
+# Updated: Fri, 26 Jun 20 17:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1916,7 +1916,6 @@
 0.0.0.0 adprime.ir
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adprofile.net
-0.0.0.0 adprotected.com
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpushup.com
 0.0.0.0 adpv1.admixer.co.kr
@@ -2066,7 +2065,6 @@
 0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.affiliateclub.com
-0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.aitype.net
 0.0.0.0 ads.alibaba.com
@@ -9481,7 +9479,6 @@
 0.0.0.0 endurableshop.com
 0.0.0.0 enewsletter.oc3web.com
 0.0.0.0 engadget.vidible.tv
-0.0.0.0 engage.bidsystem.com
 0.0.0.0 engage.wixapps.net
 0.0.0.0 engagebdr.com
 0.0.0.0 engagebdr.sync.go.sonobi.com
