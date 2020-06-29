@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.06.181
 # Release: 181
-# Entries: 27,471
+# Entries: 27,498
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 29 Jun 20 11:45:19
+# Updated: Mon, 29 Jun 20 17:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1090,6 +1090,7 @@
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-bay.com
+0.0.0.0 ad-beta.flipboard.com
 0.0.0.0 ad-blacklist.p24.hu
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-center.com
@@ -1444,6 +1445,7 @@
 0.0.0.0 adaos-ads.net
 0.0.0.0 adap.tv
 0.0.0.0 adapi.addealsnetwork.com
+0.0.0.0 adapi.flipboard.com
 0.0.0.0 adapt.tv
 0.0.0.0 adaptersdepot.com
 0.0.0.0 adaptv.pixel.invitemedia.com
@@ -3826,6 +3828,7 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.ff.avast.sec.miui.com
 0.0.0.0 analytics.firespring.com.re.getclicky.com
+0.0.0.0 analytics.flipboard.com
 0.0.0.0 analytics.flurry-cdn.com
 0.0.0.0 analytics.fortinet.com
 0.0.0.0 analytics.fosrv.com
@@ -3932,6 +3935,7 @@
 0.0.0.0 analytics.magelan.it
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.mailmunch.co
+0.0.0.0 analytics.makewebbetter.com
 0.0.0.0 analytics.map.qq.com
 0.0.0.0 analytics.mapline.com
 0.0.0.0 analytics.marketingpiper.com.re.getclicky.com
@@ -4758,6 +4762,7 @@
 0.0.0.0 appotlnal.ru
 0.0.0.0 appraisal.group
 0.0.0.0 appredeem.com
+0.0.0.0 apprefaculty.pro
 0.0.0.0 apprupt.com
 0.0.0.0 apps-ios.crashlytics.com
 0.0.0.0 apps.adjust.io
@@ -5511,6 +5516,7 @@
 0.0.0.0 beacon.9165619.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.carfax.com
+0.0.0.0 beacon.flipboard.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 beacon.scorecardresearch.com
@@ -7178,6 +7184,7 @@
 0.0.0.0 click.payserve.com
 0.0.0.0 click.pclk.name
 0.0.0.0 click.qianqian.com
+0.0.0.0 click.s10.exacttarget.com
 0.0.0.0 click.scour.com
 0.0.0.0 click.startappservice.com
 0.0.0.0 click.testyourluck32.club
@@ -13186,6 +13193,7 @@
 0.0.0.0 junkremoval.s.xoxknct.com
 0.0.0.0 junksweeper.s.xoxknct.com
 0.0.0.0 jursp.com
+0.0.0.0 jusege.xyz
 0.0.0.0 jusforbest.com
 0.0.0.0 jusorpa.ru
 0.0.0.0 jusos-koblenz.de
@@ -13756,6 +13764,7 @@
 0.0.0.0 lianlianxian-test.shareitgames.com
 0.0.0.0 lianlianxian.shareitgames.com
 0.0.0.0 lib.adnxs.com
+0.0.0.0 libedgolart.com
 0.0.0.0 libertyseguros.demdex.net
 0.0.0.0 liborihof.de
 0.0.0.0 libreriamedina.com
@@ -13983,6 +13992,7 @@
 0.0.0.0 log.test.v-mate.mobi
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.toutiao50.com
+0.0.0.0 log.tracemyip.org
 0.0.0.0 log.trendingnow.video
 0.0.0.0 log.umengcloud.com
 0.0.0.0 log.umsns.com
@@ -15698,6 +15708,7 @@
 0.0.0.0 navigator.io
 0.0.0.0 navigis.uc.cn
 0.0.0.0 navimaps.ini.uae.uc.cn
+0.0.0.0 navismithapis-cdn.com
 0.0.0.0 navoria.de
 0.0.0.0 navrcholu.cz
 0.0.0.0 navvy.media.net
@@ -16952,6 +16963,7 @@
 0.0.0.0 p375584.infopicked.com
 0.0.0.0 p376122.clksite.com
 0.0.0.0 p37703.dnsecho.opera.com
+0.0.0.0 p377939.clksite.com
 0.0.0.0 p377939.infopicked.com
 0.0.0.0 p380424.infopicked.com
 0.0.0.0 p384321.infopicked.com
@@ -18202,6 +18214,7 @@
 0.0.0.0 presetrabbits.com
 0.0.0.0 press-here-to-continue.com
 0.0.0.0 press.flurry.com
+0.0.0.0 press.vin
 0.0.0.0 presscommtech.com
 0.0.0.0 prestadsng.com
 0.0.0.0 prestigeuhren.eu
@@ -18347,6 +18360,7 @@
 0.0.0.0 pronewsplus.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 propellerads.com
+0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
 0.0.0.0 proper.io
 0.0.0.0 props.id
@@ -19663,7 +19677,6 @@
 0.0.0.0 s.zimedia.com.tw
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
-0.0.0.0 s01.riotpixels.net
 0.0.0.0 s03.mytags.xyz
 0.0.0.0 s1-adfly.com
 0.0.0.0 s1-eu.adform.net
@@ -21737,6 +21750,8 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.atdmt.com
 0.0.0.0 t.frtyi.com
+0.0.0.0 t.frtyj.com
+0.0.0.0 t.frtyk.com
 0.0.0.0 t.frtyr.com
 0.0.0.0 t.gotporn.com
 0.0.0.0 t.grtyo.com
@@ -22019,6 +22034,7 @@
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetryverification.net
+0.0.0.0 tellypic.xyz
 0.0.0.0 telwrite.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 temelio.com
@@ -22144,6 +22160,7 @@
 0.0.0.0 theloungenet.com
 0.0.0.0 themediafire.com
 0.0.0.0 themoil.site
+0.0.0.0 themoneytizer.com
 0.0.0.0 thencouserechan.info
 0.0.0.0 thenlighmetanna.pro
 0.0.0.0 thenursetoday.com
@@ -22470,6 +22487,7 @@
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr54sdsazxas.appspot.com
+0.0.0.0 trac.i3.dmm.com
 0.0.0.0 trace.intl.iqiyi.com
 0.0.0.0 trace.qq.com
 0.0.0.0 traceadmanager.com
@@ -23012,6 +23030,7 @@
 0.0.0.0 track.netzero.net
 0.0.0.0 track.neutraloppurtunity.com
 0.0.0.0 track.neux.de
+0.0.0.0 track.new-incoming.email
 0.0.0.0 track.newbiegirls.com
 0.0.0.0 track.newslettersponsor.com
 0.0.0.0 track.newsolos.com
@@ -24005,6 +24024,8 @@
 0.0.0.0 udplus.umeng.com
 0.0.0.0 uds.ak.o.brightcove.com
 0.0.0.0 udv.batmobi.net
+0.0.0.0 ue-c.flipboard.com
+0.0.0.0 ue-test.flipboard.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 uecmpixel.onedigitalad.com
 0.0.0.0 uedata.amazon.com
@@ -24228,6 +24249,8 @@
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-east-1-d.adroll.com
 0.0.0.0 us-east-1.onemobile.yahoo.com
+0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
 0.0.0.0 us-east-dmp-web-pixel.adblade.com
 0.0.0.0 us-east-rtb.adblade.com
 0.0.0.0 us-east-web.adblade.com
@@ -24295,6 +24318,7 @@
 0.0.0.0 userapps.truecaller.com
 0.0.0.0 usercash.com
 0.0.0.0 userdata.andrcool.com
+0.0.0.0 userheat.com
 0.0.0.0 userimg.qunar.com
 0.0.0.0 userpanel.ero-advertising.com
 0.0.0.0 userreplay.com
@@ -26010,6 +26034,7 @@
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.frtyi.com
 0.0.0.0 www.frtyr.com
+0.0.0.0 www.fsisiw3i.com
 0.0.0.0 www.ft95.org
 0.0.0.0 www.fuckbookmobile.com
 0.0.0.0 www.fuckmeboss.com
@@ -26426,6 +26451,7 @@
 0.0.0.0 www.playuc.xyz
 0.0.0.0 www.pleasewait.co
 0.0.0.0 www.pleasewait.co.uk
+0.0.0.0 www.plufdsb.com
 0.0.0.0 www.plustgl.info
 0.0.0.0 www.pntra.com
 0.0.0.0 www.pntrac.com
@@ -27350,6 +27376,7 @@
 0.0.0.0 z.exoclick.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z.opmnstr.com
+0.0.0.0 z0000g.yvmads.com
 0.0.0.0 z11yv3xpzk.com
 0.0.0.0 z1hr.hotchedmothe.club
 0.0.0.0 z2q1s7jvfw.s.ad6media.fr
