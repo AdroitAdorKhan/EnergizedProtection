@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.06.181
-# Release: 181
-# Entries: 27,498
+# Version: 20.06.182
+# Release: 182
+# Entries: 27,495
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 29 Jun 20 23:45:16
+# Updated: Tue, 30 Jun 20 05:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10951,7 +10951,6 @@
 0.0.0.0 go3.adversal.com
 0.0.0.0 goadservices.com
 0.0.0.0 goasshax.at
-0.0.0.0 gobba.myeffect.net
 0.0.0.0 gobrashop.com
 0.0.0.0 gobuyersupport.rubiconproject.com
 0.0.0.0 goe.moatads.com
@@ -11170,7 +11169,6 @@
 0.0.0.0 guru.finance
 0.0.0.0 gururevenue.com
 0.0.0.0 gus.host
-0.0.0.0 gustaver.ddns.net
 0.0.0.0 gut.vipluckyshop.com
 0.0.0.0 gutontparindi.info
 0.0.0.0 gv-inv-eus.admixer.net
@@ -14921,7 +14919,6 @@
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.adage.com
 0.0.0.0 metrics.api.drift.com
-0.0.0.0 metrics.bestbuy.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.consumerreports.org
