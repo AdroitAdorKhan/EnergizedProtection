@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.07.183
 # Release: 183
-# Entries: 27,493
+# Entries: 27,454
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 01 Jul 20 11:45:16
+# Updated: Wed, 01 Jul 20 17:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1059,7 +1059,6 @@
 0.0.0.0 acspaces.ero-advertising.com
 0.0.0.0 acsseo.com
 0.0.0.0 act.uc.cn
-0.0.0.0 acting-studio.de
 0.0.0.0 actioncutok.com
 0.0.0.0 actiondesk.com
 0.0.0.0 actions-am.taboola.com
@@ -3882,7 +3881,6 @@
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.int.applicationinsights.io
 0.0.0.0 analytics.ionic.io
-0.0.0.0 analytics.ip-profis.de
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.iris.tv
 0.0.0.0 analytics.islamicfinder.org
@@ -4028,7 +4026,6 @@
 0.0.0.0 analytics.placed.com
 0.0.0.0 analytics.plaid.com
 0.0.0.0 analytics.plex.tv
-0.0.0.0 analytics.po.st
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 analytics.poferries.com
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -5634,7 +5631,6 @@
 0.0.0.0 bet365affiliates.com
 0.0.0.0 beta-collecticon.outlookmobile.com
 0.0.0.0 beta-dashboard.mgid.com
-0.0.0.0 beta-partner.bluekai.com
 0.0.0.0 beta-pre.ads.justpremium.com
 0.0.0.0 beta.accountkit.com
 0.0.0.0 beta.algolia.com
@@ -6564,7 +6560,6 @@
 0.0.0.0 cdas-01.trafficfabrik.com
 0.0.0.0 cdb.amanad.adtdp.com
 0.0.0.0 cde.lkjuio.com
-0.0.0.0 cdejido.es
 0.0.0.0 cdmstudy.site
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn-a2-ncl.optimizely.com
@@ -7007,7 +7002,6 @@
 0.0.0.0 chef-api.igodigital.com
 0.0.0.0 chef.a-ads.com
 0.0.0.0 chef.algolia.com
-0.0.0.0 chef.bluekai.com
 0.0.0.0 chekazpools.com
 0.0.0.0 cheksoam.com
 0.0.0.0 chelisa.com
@@ -7121,7 +7115,6 @@
 0.0.0.0 clck.idealmedia.com
 0.0.0.0 clck.mgid.com
 0.0.0.0 clck.yandex.com
-0.0.0.0 clckads.org
 0.0.0.0 clcknads.pro
 0.0.0.0 cldlr.com
 0.0.0.0 clean4app.xyz
@@ -8603,7 +8596,6 @@
 0.0.0.0 devex.adblade.com
 0.0.0.0 device.jpush.cn
 0.0.0.0 devicecooler.s.xoxknct.com
-0.0.0.0 devportal.bluekai.com
 0.0.0.0 devshaped.com
 0.0.0.0 dewagg.com
 0.0.0.0 dewaletevo.top
@@ -8792,14 +8784,7 @@
 0.0.0.0 dmp.mgid.com
 0.0.0.0 dmp.sina.cn
 0.0.0.0 dmp.umeng.com
-0.0.0.0 dmpbeta14.bluekai.com
-0.0.0.0 dmpbeta6.bluekai.com
-0.0.0.0 dmpboard.bluekai.com
-0.0.0.0 dmphub.bluekai.com
-0.0.0.0 dmpkibana.bluekai.com
 0.0.0.0 dmpr.adform.net
-0.0.0.0 dmpstaging.bluekai.com
-0.0.0.0 dmptest.bluekai.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmv-written-test.h-bid.com
 0.0.0.0 dmxleo.com
@@ -8993,7 +8978,6 @@
 0.0.0.0 dsnau.com
 0.0.0.0 dsnextgen.com
 0.0.0.0 dsnrmg.adk2.co
-0.0.0.0 dsp-eu.exe.bid
 0.0.0.0 dsp-wa.mgid.com
 0.0.0.0 dsp-wa2.mgid.com
 0.0.0.0 dsp.adfarm1.adition.com
@@ -9477,7 +9461,6 @@
 0.0.0.0 engagebdr.sync.go.sonobi.com
 0.0.0.0 engagespot.co
 0.0.0.0 engblog.mixpanel.com
-0.0.0.0 engelfiguren.com
 0.0.0.0 engine-eu-central-1.adzerk.net
 0.0.0.0 engine-us-west-2.adzerk.net
 0.0.0.0 engine.adbooth.com
@@ -9568,7 +9551,6 @@
 0.0.0.0 ersazza.com
 0.0.0.0 erssamplet.pro
 0.0.0.0 eruuludam.mn
-0.0.0.0 ervzx.com
 0.0.0.0 es.ads.justpremium.com
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 es.cj.com
@@ -10218,7 +10200,6 @@
 0.0.0.0 formulawire.com
 0.0.0.0 forpyke.com
 0.0.0.0 forre.st
-0.0.0.0 forsagir.com
 0.0.0.0 forschungglaser.de
 0.0.0.0 forshady.com
 0.0.0.0 forthathestal.info
@@ -10338,7 +10319,6 @@
 0.0.0.0 franken2-band.de
 0.0.0.0 frankfurt-mund-zu-mund.de
 0.0.0.0 frankfurter-scheune.de
-0.0.0.0 franz-ermold.de
 0.0.0.0 fratellimall.com
 0.0.0.0 fraubrit-shoppt.de
 0.0.0.0 fraudmetrix.cn
@@ -10426,7 +10406,6 @@
 0.0.0.0 fuldo.de
 0.0.0.0 fullgerateshop.de
 0.0.0.0 fullpcsoftware.com
-0.0.0.0 fun.thebestubuy.com
 0.0.0.0 functionalclam.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 fundamentello.com
@@ -10660,7 +10639,6 @@
 0.0.0.0 gecfhfgfifefbegjaeb.ru
 0.0.0.0 gecxceztcnhkmh.com
 0.0.0.0 gedspecificano.info
-0.0.0.0 geek-section.com
 0.0.0.0 geekcash.org
 0.0.0.0 gefi-elektronik.de
 0.0.0.0 geheime-casino-tricks.de
@@ -11632,7 +11610,6 @@
 0.0.0.0 horoscope.ucweb.com
 0.0.0.0 horried.pro
 0.0.0.0 horse-racing-affiliate-program.co.uk
-0.0.0.0 horsered.com
 0.0.0.0 horsteschment.de
 0.0.0.0 hortestoz.com
 0.0.0.0 host-62-113-112-127.hosted-by-vdsina.ru
@@ -15027,7 +15004,6 @@
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.org
 0.0.0.0 minexpool.nl
-0.0.0.0 minez.zone
 0.0.0.0 minezone.io
 0.0.0.0 mini5-7.opera-mini.net
 0.0.0.0 mini5.opera-mini.net
@@ -15252,7 +15228,6 @@
 0.0.0.0 modalp.com
 0.0.0.0 modchips24.com
 0.0.0.0 mode-paradise.com
-0.0.0.0 mode-top.de
 0.0.0.0 modehaus-schulz-brakel.de
 0.0.0.0 modekaufen.com
 0.0.0.0 modellbahn-versandhaus.de
@@ -17883,7 +17858,6 @@
 0.0.0.0 platform.appcelerator.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 platform.cloud-iq.com.au
-0.0.0.0 platform.openx.com
 0.0.0.0 platform.rubiconproject.com
 0.0.0.0 platformiq-del.aquaplatform.com
 0.0.0.0 platinum-projects.de
@@ -18482,7 +18456,6 @@
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmatic.edgekey.net
 0.0.0.0 pubmine.com
-0.0.0.0 pubnation.com
 0.0.0.0 pubnative.net
 0.0.0.0 pubreport.webeyemob.com
 0.0.0.0 pubs.ouedkniss.com
@@ -20556,12 +20529,10 @@
 0.0.0.0 skinected.com
 0.0.0.0 skl-874.com
 0.0.0.0 skoovyads.com
-0.0.0.0 sksportde.com
 0.0.0.0 sky777.cc
 0.0.0.0 skydigital.neodatagroup.com
 0.0.0.0 skygo.neodatagroup.com
 0.0.0.0 skylink.vn
-0.0.0.0 skylium.de
 0.0.0.0 skype-online0345.web.app
 0.0.0.0 skypronz6j.s.ad6media.fr
 0.0.0.0 slack-app.net
@@ -21564,7 +21535,6 @@
 0.0.0.0 sumome.com
 0.0.0.0 sumwan.com
 0.0.0.0 sunamoconstruction.com
-0.0.0.0 sunbeatz.de
 0.0.0.0 sunchannel.me
 0.0.0.0 sundreams-diving.de
 0.0.0.0 sunfeed.me
@@ -22196,7 +22166,6 @@
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
 0.0.0.0 thiscdn.com
-0.0.0.0 thisted.de
 0.0.0.0 thkexopsciqums.com
 0.0.0.0 thofandew.com
 0.0.0.0 thomas-saboarmband.de
@@ -22366,7 +22335,6 @@
 0.0.0.0 tonsterandhantan.info
 0.0.0.0 tontathisreprob.info
 0.0.0.0 tontwiredat.info
-0.0.0.0 tool.followafashion.com
 0.0.0.0 toolbar.baidu.com
 0.0.0.0 tools.adskeeper.co.uk
 0.0.0.0 tools.green-red.com
@@ -22686,7 +22654,6 @@
 0.0.0.0 track.dalenetwork.com
 0.0.0.0 track.dankcash.com
 0.0.0.0 track.dannixxx.com
-0.0.0.0 track.datingagencyapp.com
 0.0.0.0 track.dblol.com
 0.0.0.0 track.ddfadventures.com
 0.0.0.0 track.ddmanager.ru
@@ -23868,7 +23835,6 @@
 0.0.0.0 tuzonadigital.com
 0.0.0.0 tv.rlcdn.com
 0.0.0.0 tv.uc.cn
-0.0.0.0 tv333.com
 0.0.0.0 tvads.alphonso.tv
 0.0.0.0 tvc.i3cloud.bid
 0.0.0.0 tveta.naver.net
@@ -24609,7 +24575,6 @@
 0.0.0.0 vid22000c.pubmatic.com
 0.0.0.0 vid44000c.pubmatic.com
 0.0.0.0 vidanalytics.taboola.com
-0.0.0.0 vidasimples.de
 0.0.0.0 vidcoin.com
 0.0.0.0 vidcpm.com
 0.0.0.0 video-ad-stats.googlesyndication.com
@@ -24791,7 +24756,6 @@
 0.0.0.0 voicevegetable.com
 0.0.0.0 voirfilms1.biz
 0.0.0.0 volante.mocoplay.com
-0.0.0.0 volantix.com
 0.0.0.0 volaqm.cf
 0.0.0.0 volkshilfe-mensana.at
 0.0.0.0 voluum.com
@@ -25022,7 +24986,6 @@
 0.0.0.0 weather.toptools100.com
 0.0.0.0 weather.wisemana.com
 0.0.0.0 web-analytics-collector.thescore.com
-0.0.0.0 web-bird.jp
 0.0.0.0 web-devex.adblade.com
 0.0.0.0 web-stat.com
 0.0.0.0 web.adblade.com
@@ -25651,7 +25614,6 @@
 0.0.0.0 www.adtech.de
 0.0.0.0 www.adtng.com
 0.0.0.0 www.adtrue.com
-0.0.0.0 www.adtwbjs.com
 0.0.0.0 www.adultdvdempire.com
 0.0.0.0 www.adulteritories.com
 0.0.0.0 www.adultforce.com
@@ -26783,7 +26745,6 @@
 0.0.0.0 www.viral782.com
 0.0.0.0 www.viralcpm.com
 0.0.0.0 www.visiblemeasures.com
-0.0.0.0 www.volantix.com
 0.0.0.0 www.voluumtrk.com
 0.0.0.0 www.voluumtrk2.com
 0.0.0.0 www.vosteransearch.com
