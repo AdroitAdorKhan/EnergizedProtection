@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.07.185
 # Release: 185
-# Entries: 27,433
+# Entries: 27,435
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 03 Jul 20 05:45:16
+# Updated: Fri, 03 Jul 20 11:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2406,6 +2406,7 @@
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
+0.0.0.0 ads1.opensubtitles.org
 0.0.0.0 ads1.rne.com
 0.0.0.0 ads1.textra.me
 0.0.0.0 ads1.virtual-nights.com
@@ -15691,6 +15692,7 @@
 0.0.0.0 ncedivisite.info
 0.0.0.0 ncefoundanges.info
 0.0.0.0 ncjjfn.org
+0.0.0.0 ndjambo.com
 0.0.0.0 ndjelsefd.com
 0.0.0.0 ndparking.com
 0.0.0.0 ndyzz.com
