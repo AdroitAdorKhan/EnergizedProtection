@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.07.187
-# Release: 187
-# Entries: 27,450
+# Version: 20.07.188
+# Release: 188
+# Entries: 27,454
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Jul 20 23:45:16
+# Updated: Mon, 06 Jul 20 05:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9723,6 +9723,7 @@
 0.0.0.0 events.kaloo.ga
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.samsungads.com
 0.0.0.0 events.startappservice.com
 0.0.0.0 events.superads.cn
 0.0.0.0 events.taboola.com
@@ -11036,6 +11037,7 @@
 0.0.0.0 gpjph.com
 0.0.0.0 gplinks.co
 0.0.0.0 gplinks.in
+0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 gpumining.cc
 0.0.0.0 gq1.flurry.com
 0.0.0.0 gr.ads.justpremium.com
@@ -12663,6 +12665,7 @@
 0.0.0.0 investxxaz.club
 0.0.0.0 invideo.ero-advertising.com
 0.0.0.0 inview.amanad.adtdp.com
+0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 inviteads.adk2.co
 0.0.0.0 invitemedia.com
 0.0.0.0 inviterabbits.com
@@ -16550,6 +16553,7 @@
 0.0.0.0 ortb.yieldlab.net
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 os.tc
+0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 oscdn.batmobi.net
 0.0.0.0 osdsoft.com
 0.0.0.0 osearch.media.net
