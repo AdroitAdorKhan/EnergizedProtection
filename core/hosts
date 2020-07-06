@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.07.188
 # Release: 188
-# Entries: 27,443
+# Entries: 27,441
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Jul 20 11:45:14
+# Updated: Mon, 06 Jul 20 17:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2570,7 +2570,6 @@
 0.0.0.0 adserve-sjo.1rx.io
 0.0.0.0 adserve.advertising.com
 0.0.0.0 adserve.ams.rhythmxchange.com
-0.0.0.0 adserve.io
 0.0.0.0 adserve.kargo.com
 0.0.0.0 adserver-a.juicyads.com
 0.0.0.0 adserver-api-dev.juicyads.com
@@ -9702,7 +9701,6 @@
 0.0.0.0 ev-ph.rdtcdn.com
 0.0.0.0 ev.rdtcdn.com
 0.0.0.0 eva-hommel.de
-0.0.0.0 evalnk.com
 0.0.0.0 evalpha.com
 0.0.0.0 evantative.top
 0.0.0.0 evcalifornia.com
