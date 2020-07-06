@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.07.188
-# Release: 188
-# Entries: 27,441
+# Version: 20.07.189
+# Release: 189
+# Entries: 27,449
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Jul 20 23:45:16
+# Updated: Tue, 07 Jul 20 05:45:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1147,6 +1147,7 @@
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-dev.360in.com
+0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 ad-dev3.souvlatraffic.com
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-ettoday.cdn.hinet.net
@@ -3050,6 +3051,7 @@
 0.0.0.0 adtrace.org
 0.0.0.0 adtrack.king.com
 0.0.0.0 adtrack.ucweb.com
+0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtrackers.net
 0.0.0.0 adtrade.net
 0.0.0.0 adtrieval.com
@@ -5292,6 +5294,7 @@
 0.0.0.0 babykosy.com
 0.0.0.0 baccara-shop.com
 0.0.0.0 backbeatmedia.com
+0.0.0.0 backend-ssp.adstudio.cloud
 0.0.0.0 backend.exoclick.com
 0.0.0.0 backlinks.com
 0.0.0.0 backpack.approachmall.top
@@ -7132,6 +7135,7 @@
 0.0.0.0 ck.juicyads.com
 0.0.0.0 ck.thrillbucks.com
 0.0.0.0 ckpool.org
+0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 cl.ads.justpremium.com
 0.0.0.0 cl.adserver.yahoo.com
 0.0.0.0 cl.untildogtop.com
@@ -13935,6 +13939,7 @@
 0.0.0.0 log-2.samsungacr.com
 0.0.0.0 log-3.samsungacr.com
 0.0.0.0 log-4.adclerks.com
+0.0.0.0 log-ads.r7.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
@@ -14419,6 +14424,7 @@
 0.0.0.0 macinline.com
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 mackefetzt.de
+0.0.0.0 macro.adnami.io
 0.0.0.0 mad-adz.com
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madadsmedia.com
@@ -15070,6 +15076,7 @@
 0.0.0.0 mixpo.com
 0.0.0.0 mizdoc.com
 0.0.0.0 mizonaelec.com
+0.0.0.0 mjp.zimad.com
 0.0.0.0 mjsqm.top
 0.0.0.0 mjxads.internet.com
 0.0.0.0 mk-gbp.com
@@ -27023,6 +27030,7 @@
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xm0siulufost.com
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xmaswrite.com
 0.0.0.0 xmcq.cdn.shareitgames.com
