@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.07.190
-# Release: 190
-# Entries: 27,422
+# Version: 20.07.191
+# Release: 191
+# Entries: 27,423
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 08 Jul 20 23:45:16
+# Updated: Thu, 09 Jul 20 05:45:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26409,6 +26409,7 @@
 0.0.0.0 www.promorich.com
 0.0.0.0 www.propellerads.com
 0.0.0.0 www.propush.net
+0.0.0.0 www.protectmobiletechieai.club
 0.0.0.0 www.ptewiki.com
 0.0.0.0 www.pub-21316.beta.www.mgid.com
 0.0.0.0 www.pub.axiatraders.com
