@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.07.191
 # Release: 191
-# Entries: 27,423
+# Entries: 27,419
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 09 Jul 20 11:45:16
+# Updated: Thu, 09 Jul 20 17:45:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10032,7 +10032,6 @@
 0.0.0.0 feuerwehr-prettin.de
 0.0.0.0 feuerwehr-schweix.de
 0.0.0.0 feuerwehr-wallernhausen.de
-0.0.0.0 feurl.com
 0.0.0.0 feville.com
 0.0.0.0 fewo-schausbreitner.de
 0.0.0.0 fewo-vulkaneifel.de
@@ -10854,6 +10853,7 @@
 0.0.0.0 global.appsflyer.com
 0.0.0.0 global.msads.net
 0.0.0.0 global.msmtrakk07b.com
+0.0.0.0 global.video.intl.xiaomi.com
 0.0.0.0 globaladv.net
 0.0.0.0 globalismedia.com
 0.0.0.0 globalmasksuppliers.com
@@ -12357,6 +12357,7 @@
 0.0.0.0 in.iflowh5.ucweb.com
 0.0.0.0 in.napi.ucweb.com
 0.0.0.0 in.netdeliveryservice.com
+0.0.0.0 in.stat.mi.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 in.uc123.com
 0.0.0.0 in.wzrkt.com
@@ -17141,8 +17142,6 @@
 0.0.0.0 patagoniaeuoutlet.com
 0.0.0.0 paten-fuer-fluechtlinge.de
 0.0.0.0 paternosterkrog.se
-0.0.0.0 path1.xtracloud.net
-0.0.0.0 path3.xtracloud.net
 0.0.0.0 patithatspartal.pro
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 paupepsu.click
@@ -18173,9 +18172,6 @@
 0.0.0.0 preprod.adswizz.com
 0.0.0.0 preprodapi.a4.tl
 0.0.0.0 presage.io
-0.0.0.0 presence-gcp-asia-south1.truecaller.com
-0.0.0.0 presence-grpc-noneu.truecaller.com
-0.0.0.0 presence-grpc.truecaller.com
 0.0.0.0 presentation-hkg1.turn.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 press-here-to-continue.com
@@ -21727,7 +21723,6 @@
 0.0.0.0 t1.a.market.xiaomi.com
 0.0.0.0 t11.rbnt.org
 0.0.0.0 t2.a.market.xiaomi.com
-0.0.0.0 t2.market.mi-img.com
 0.0.0.0 t2lgo.com
 0.0.0.0 t3.a.market.xiaomi.com
 0.0.0.0 t4.a.market.xiaomi.com
@@ -21844,6 +21839,7 @@
 0.0.0.0 tapi.optimizely.com
 0.0.0.0 tapinfluence.com
 0.0.0.0 tapit.com
+0.0.0.0 tapixesa.pro
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
@@ -23427,6 +23423,7 @@
 0.0.0.0 tracking.ibexnetwork.com
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.immobilienscout24.at
+0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.justpremium.com
 0.0.0.0 tracking.lenzmx.com
@@ -26230,7 +26227,6 @@
 0.0.0.0 www.millionairedream.co
 0.0.0.0 www.mindshare.de
 0.0.0.0 www.minero-proxy-04.now.sh
-0.0.0.0 www.minhngoc.net.vn
 0.0.0.0 www.mirago.com
 0.0.0.0 www.mixpanel.com
 0.0.0.0 www.moatads.com
