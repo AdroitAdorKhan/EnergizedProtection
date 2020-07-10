@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.07.192
-# Release: 192
-# Entries: 27,450
+# Version: 20.07.193
+# Release: 193
+# Entries: 27,454
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Jul 20 23:45:16
+# Updated: Sat, 11 Jul 20 05:45:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1245,6 +1245,7 @@
 0.0.0.0 ad.deviantart.com
 0.0.0.0 ad.diamond.ne.jp
 0.0.0.0 ad.dmm.com
+0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.duga.jp
@@ -3123,6 +3124,7 @@
 0.0.0.0 adversalservers.com
 0.0.0.0 advert.bayarea.com
 0.0.0.0 advert.dyna.ultraweb.hu
+0.0.0.0 advert.puzzles.mkjigsaw.com
 0.0.0.0 advert.smarter-wireless.net
 0.0.0.0 advertarium.com.ua
 0.0.0.0 adverticum.com
@@ -8261,6 +8263,7 @@
 0.0.0.0 da032opzasz.appspot.com
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dable.io
+0.0.0.0 dadsats.com
 0.0.0.0 dadsecs.com
 0.0.0.0 dadslims.com
 0.0.0.0 dadspmz.com
@@ -26975,6 +26978,7 @@
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 x7xirtzmot.com
 0.0.0.0 xad.com
+0.0.0.0 xad.dnoticias.pt
 0.0.0.0 xads.zedo.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xapi.apk.v-mate.mobi
