@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.07.194
 # Release: 194
-# Entries: 27,453
+# Entries: 27,450
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 12 Jul 20 05:45:15
+# Updated: Sun, 12 Jul 20 11:45:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6838,6 +6838,7 @@
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.uc.atwola.com
 0.0.0.0 cdn.umeng.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.user-api.com
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn.vdopia.com
@@ -15636,7 +15637,6 @@
 0.0.0.0 n0q201.nexage.com
 0.0.0.0 n13x4nfw8frika.com
 0.0.0.0 n161adserv.com
-0.0.0.0 n2019cov.000webhostapp.com
 0.0.0.0 n2s.co.kr
 0.0.0.0 n4052ad.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
@@ -16231,7 +16231,6 @@
 0.0.0.0 ocsp.msocsp.comcdn.bttrack.com
 0.0.0.0 oculustrack.com
 0.0.0.0 ocx.umeng.com
-0.0.0.0 odaiw3dda.bestnewsworld.info
 0.0.0.0 odas.onedigitalad.com
 0.0.0.0 odb-chidc2.outbrain.com
 0.0.0.0 odb.outbrain.com
@@ -24331,7 +24330,6 @@
 0.0.0.0 ux.rubiconproject.com
 0.0.0.0 uy.ads.justpremium.com
 0.0.0.0 uy054eprsdoz.appspot.com
-0.0.0.0 uy6x.bestnewsworld.info
 0.0.0.0 uzbjd5.edvfwlacluo.com
 0.0.0.0 uzhgex.edvfwlacluo.com
 0.0.0.0 uzlleehrsmibli.com
@@ -25031,7 +25029,6 @@
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 webleads-tracker.com.ssl.re.getclicky.com
 0.0.0.0 weblockapp.com
-0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 webmarker.de
 0.0.0.0 webmastercentral.pc.cdn.bitgravity.com
 0.0.0.0 webmasterplan.com
