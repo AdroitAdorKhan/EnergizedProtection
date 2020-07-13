@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.07.195
-# Release: 195
-# Entries: 20,861
+# Version: 20.07.196
+# Release: 196
+# Entries: 20,860
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 13 Jul 20 23:45:19
+# Updated: Tue, 14 Jul 20 05:45:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20244,7 +20244,6 @@
 0.0.0.0 www.spool.site
 0.0.0.0 www.sportsinteraction.com
 0.0.0.0 www.spotx.tv
-0.0.0.0 www.srppykbedhqp.com
 0.0.0.0 www.ssaimg.com
 0.0.0.0 www.stage.tvpage.com
 0.0.0.0 www.startappservice.com
