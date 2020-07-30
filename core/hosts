@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.07.212
 # Release: 212
-# Entries: 20,909
+# Entries: 20,949
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jul 20 14:37:57
+# Updated: Thu, 30 Jul 20 17:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -87,6 +87,7 @@
 0.0.0.0 100028692.collect.igodigital.com
 0.0.0.0 100041137.collect.igodigital.com
 0.0.0.0 100ass.com
+0.0.0.0 100fl.bemobtrcks.com
 0.0.0.0 101010.pl
 0.0.0.0 102vod-adaptive.akamaized.net
 0.0.0.0 10510523.collect.igodigital.com
@@ -528,6 +529,7 @@
 0.0.0.0 451312.s3.feed-xml.com
 0.0.0.0 451312.s4.feed-xml.com
 0.0.0.0 451312.s5.feed-xml.com
+0.0.0.0 4522776.catchtheclick.com
 0.0.0.0 47361.ns1.dns-info.tk
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 48.nbryb.com
@@ -1994,6 +1996,7 @@
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.textra.me
+0.0.0.0 ads2.uptobox.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads20.adcolony.com
@@ -2123,6 +2126,7 @@
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.ie
 0.0.0.0 adservice.google.nl
+0.0.0.0 adservice.google.ru
 0.0.0.0 adservice.google.tr
 0.0.0.0 adservices.google.com
 0.0.0.0 adservingfactory.com
@@ -2409,6 +2413,7 @@
 0.0.0.0 adxpansion.com
 0.0.0.0 adxportal.admixer.net
 0.0.0.0 adxpose.com
+0.0.0.0 adxpub.com
 0.0.0.0 adxscope.com
 0.0.0.0 adxxx.info
 0.0.0.0 adyield.co
@@ -4254,6 +4259,7 @@
 0.0.0.0 bbelements.com
 0.0.0.0 bbg.demdex.net
 0.0.0.0 bbn.img.com.ua
+0.0.0.0 bbnfcfrvjs.com
 0.0.0.0 bbom2b434493.com
 0.0.0.0 bbs.uc.cn
 0.0.0.0 bbs.ucdns.uc.cn
@@ -4666,6 +4672,7 @@
 0.0.0.0 bold-win-inv-eus.admixer.net
 0.0.0.0 boldmatters.de
 0.0.0.0 bonanza.com
+0.0.0.0 bonga.sms-mail-message.com
 0.0.0.0 bonnyin.at
 0.0.0.0 bonus.express
 0.0.0.0 bonus.gamblingz.net
@@ -5075,6 +5082,7 @@
 0.0.0.0 catdogzoo.ru
 0.0.0.0 catestore.online
 0.0.0.0 cattienda.online
+0.0.0.0 catwenbat.com
 0.0.0.0 catwrite.com
 0.0.0.0 catzapatos.online
 0.0.0.0 cawbarthe.com
@@ -6340,6 +6348,7 @@
 0.0.0.0 d.watchmovie.fun
 0.0.0.0 d.workflowboard.com
 0.0.0.0 d01fa.net
+0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d14qpp2he5atys.cloudfront.net
 0.0.0.0 d1d5p7uxjr4j28.cloudfront.net
 0.0.0.0 d1rg2274px6zb.cloudfront.net
@@ -7358,6 +7367,7 @@
 0.0.0.0 environmentalist.com
 0.0.0.0 enz-z.com
 0.0.0.0 eom-nv.com
+0.0.0.0 eonwayaha.com
 0.0.0.0 eopazyxdkppnz.com
 0.0.0.0 eosads.com
 0.0.0.0 eowo.de
@@ -7808,6 +7818,8 @@
 0.0.0.0 fisari.com
 0.0.0.0 fishney.com
 0.0.0.0 fit-stimul.com
+0.0.0.0 fitgirl-repack.os.tc
+0.0.0.0 fitgirl-repacks.website
 0.0.0.0 fixionmedia.com
 0.0.0.0 fjgbigejedcbgegjadi.ru
 0.0.0.0 fjrfjrsitenchdnfjr.org
@@ -8216,6 +8228,7 @@
 0.0.0.0 gcm-dev.wshareit.com
 0.0.0.0 gcmapi.wshareit.com
 0.0.0.0 gcontentdelivery.info
+0.0.0.0 gcxjczooe.com
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gdaecshop.com
 0.0.0.0 gdeua.hit.gemius.pl
@@ -9239,6 +9252,7 @@
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idreammedia.com
 0.0.0.0 idspaces.ero-advertising.com
+0.0.0.0 idspatchi.com
 0.0.0.0 idsync-ext-staging-weighted.rlcdn.com
 0.0.0.0 idsync-ext-tf.rlcdn.com
 0.0.0.0 idsync-ext-weight-2.rlcdn.com
@@ -10025,6 +10039,7 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 js.mobileoffers-al-download.com
+0.0.0.0 js.mobileoffers-bn-download.com
 0.0.0.0 js.mobileoffers-cb-download.com
 0.0.0.0 js.pmcontent.com
 0.0.0.0 js.qwerty24.net
@@ -10298,6 +10313,7 @@
 0.0.0.0 kouraija.net
 0.0.0.0 koutobey.net
 0.0.0.0 kovla.com
+0.0.0.0 kozoysnsx.com
 0.0.0.0 kpshop.club
 0.0.0.0 kqzyfj.com
 0.0.0.0 kr.adserver.yahoo.com
@@ -10353,6 +10369,7 @@
 0.0.0.0 l.dlx.addthis.com
 0.0.0.0 l.erovideo.by
 0.0.0.0 l.funzone.by
+0.0.0.0 l.getsitecontrol.com
 0.0.0.0 l.getxml.org
 0.0.0.0 l.gm.mob.com
 0.0.0.0 l.wowtrk.com
@@ -10821,6 +10838,7 @@
 0.0.0.0 lol.umengcloud.com
 0.0.0.0 lolkekss.usite.pro
 0.0.0.0 lomiq.de
+0.0.0.0 londonpussy.com
 0.0.0.0 londontea.net
 0.0.0.0 loneeaglerecords.com
 0.0.0.0 lonelygirls.net
@@ -11144,6 +11162,9 @@
 0.0.0.0 magic-drone.net
 0.0.0.0 magicinchristmas.com
 0.0.0.0 magik-all.com
+0.0.0.0 magisk.me
+0.0.0.0 magiskmanager.com
+0.0.0.0 magiskroot.net
 0.0.0.0 magliecalciocn.net
 0.0.0.0 magnetic.com
 0.0.0.0 magnetisemedia.com
@@ -11504,6 +11525,7 @@
 0.0.0.0 meowpushnot.com
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercialtaver.club
+0.0.0.0 message.onemessages.com
 0.0.0.0 messaging.insurads.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 meta.pubguru.com
@@ -13137,6 +13159,7 @@
 0.0.0.0 paropperdint.pro
 0.0.0.0 parperhedtineveng.pro
 0.0.0.0 parsely.com
+0.0.0.0 parsruingmeld.com
 0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.admixer.co.kr
@@ -14442,6 +14465,7 @@
 0.0.0.0 qdcdn.me
 0.0.0.0 qdl8d.bemobtrk.com
 0.0.0.0 qdyfa.bemobtrk.com
+0.0.0.0 qfjherc.com
 0.0.0.0 qfubwupddefjw.com
 0.0.0.0 qgaaaa2.admaym.com
 0.0.0.0 qiniucdn.com
@@ -14628,6 +14652,7 @@
 0.0.0.0 rcwitte.de
 0.0.0.0 rd-ext.rlcdn.com
 0.0.0.0 rd.advertising.com
+0.0.0.0 rd.mobileoffers-5-c-download.com
 0.0.0.0 rd.rlcdn.com
 0.0.0.0 rd.tabelog.com
 0.0.0.0 rd5a.nbryb.com
@@ -15294,6 +15319,7 @@
 0.0.0.0 sapi.adsafeprotected.com
 0.0.0.0 saramond.de
 0.0.0.0 saranagrup.com
+0.0.0.0 sarcasticlinezomby.com
 0.0.0.0 sardinien-sailingcharter.de
 0.0.0.0 sarisaville.com
 0.0.0.0 sas-onlineshopping.com
@@ -15386,6 +15412,7 @@
 0.0.0.0 scripts.advmusic.net
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.stage.kissmetrics.com
+0.0.0.0 scrutchother.club
 0.0.0.0 sctrack.amail.jpush.cn
 0.0.0.0 sd.sharethis.com
 0.0.0.0 sdasasyydd.com
@@ -15537,6 +15564,7 @@
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serien-sidekicks.de
 0.0.0.0 serishirts.com
+0.0.0.0 serv.adxpub.com
 0.0.0.0 serv0.com
 0.0.0.0 serval-j.adtdp.com
 0.0.0.0 serve-sys.com
@@ -16026,6 +16054,7 @@
 0.0.0.0 speakol.com
 0.0.0.0 special-promotions.online
 0.0.0.0 special.offergrid.club
+0.0.0.0 specializedlink.com
 0.0.0.0 specialsections.siteseer.ca
 0.0.0.0 specificmedia.com
 0.0.0.0 specificpop.com
@@ -16170,6 +16199,7 @@
 0.0.0.0 ssl.newsofnp.com
 0.0.0.0 ssl.supersonicads.com
 0.0.0.0 ssl.widgets.webengage.com
+0.0.0.0 ssl2.stsoftindia.com
 0.0.0.0 ssl2anyone3.com
 0.0.0.0 sslad.adcash.com
 0.0.0.0 sslcheckerapi.com
@@ -16667,6 +16697,7 @@
 0.0.0.0 synchroscript.adswizz.com
 0.0.0.0 syncstatus.naiadsystems.com
 0.0.0.0 syndapop.com
+0.0.0.0 syndi.adxpub.com
 0.0.0.0 syndication-adblock.exoclick.com
 0.0.0.0 syndication-evo.exoclick.com
 0.0.0.0 syndication-p.exoclick.com
@@ -18547,6 +18578,7 @@
 0.0.0.0 ukkey3.space
 0.0.0.0 uktbstore.top
 0.0.0.0 ul.cdn946.net
+0.0.0.0 ularsecono.club
 0.0.0.0 ulclick.ru
 0.0.0.0 uldwcpscwzkis.com
 0.0.0.0 uleypool.com
@@ -18668,6 +18700,7 @@
 0.0.0.0 urls.admixer.net
 0.0.0.0 urlsec.qq.com
 0.0.0.0 urlyaobose-gq.tk
+0.0.0.0 urnawareflan.com
 0.0.0.0 urperfit.com
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 us-east-1-d.adroll.com
@@ -18831,6 +18864,7 @@
 0.0.0.0 vaes.pdx.amazon-adsystem.com
 0.0.0.0 vaes.pdx.preprod.amazon-adsystem.com
 0.0.0.0 vagwyn.pw
+0.0.0.0 vaia06o630os.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 validclick.com
 0.0.0.0 valiozo.co
@@ -19316,6 +19350,7 @@
 0.0.0.0 weborama.io
 0.0.0.0 webpick-cdn.s3.amazonaws.com
 0.0.0.0 webpick-cdn.s3.us-west-2.amazonaws.com
+0.0.0.0 webpinp.com
 0.0.0.0 webreseau.com
 0.0.0.0 webrtc.naiadsystems.com
 0.0.0.0 websdk.appsflyer.com
@@ -19482,6 +19517,7 @@
 0.0.0.0 wms-fe.amazon-adsystem.com
 0.0.0.0 wms-in.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 wnprot.com
 0.0.0.0 woa42.bemobtrk.com
 0.0.0.0 woazowup.net
 0.0.0.0 wobeckoat.com
@@ -19731,6 +19767,7 @@
 0.0.0.0 www.adultforce.com
 0.0.0.0 www.adultgamepass.com
 0.0.0.0 www.adv.axiatraders.com
+0.0.0.0 www.adveric.net
 0.0.0.0 www.adversal.com
 0.0.0.0 www.advertising.com
 0.0.0.0 www.adw.ero-advertising.com
@@ -19806,6 +19843,7 @@
 0.0.0.0 www.barleyslist.org
 0.0.0.0 www.batmobi.net
 0.0.0.0 www.bavners2.ero-advertising.com
+0.0.0.0 www.bbnfcfrvjs.com
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bdv.bidvertiser.com
 0.0.0.0 www.beaconadnetwork.com
@@ -19975,6 +20013,7 @@
 0.0.0.0 www.gamefly.speedera.net
 0.0.0.0 www.gata.ero-advertising.com
 0.0.0.0 www.gbhbl.com
+0.0.0.0 www.gcxjczooe.com
 0.0.0.0 www.gesek.net
 0.0.0.0 www.get-express-vpn.com
 0.0.0.0 www.girlsvideosonline.info
@@ -20058,6 +20097,7 @@
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.koapkmobi.com
 0.0.0.0 www.kopimi.com
+0.0.0.0 www.kozoysnsx.com
 0.0.0.0 www.kpxbctywsa.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kuntovire.fi
