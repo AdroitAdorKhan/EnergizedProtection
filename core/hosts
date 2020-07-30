@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.07.212
-# Release: 212
-# Entries: 20,949
+# Version: 20.07.213
+# Release: 213
+# Entries: 20,951
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jul 20 23:45:07
+# Updated: Fri, 31 Jul 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1893,6 +1893,7 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 ads.secureserver.net
+0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.sexier.com
 0.0.0.0 ads.shoplove.com
 0.0.0.0 ads.shopstyle.com
@@ -14265,6 +14266,7 @@
 0.0.0.0 pubhelp.rakutenmarketing.com
 0.0.0.0 pubhelp.taboola.com
 0.0.0.0 public-service-gateway.dr.newrelic.com
+0.0.0.0 public.servenobid.com
 0.0.0.0 publicconfirm.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidad.net
