@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.214
 # Release: 214
-# Entries: 20,949
+# Entries: 20,974
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 01 Aug 20 11:45:07
+# Updated: Sat, 01 Aug 20 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1354,6 +1354,7 @@
 0.0.0.0 adfox-c2s-ams.creativecdn.com
 0.0.0.0 adfox.ru
 0.0.0.0 adfpaces.ero-advertising.com
+0.0.0.0 adfpoint.com
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
 0.0.0.0 adfs.vibrantmedia.com
@@ -4047,6 +4048,7 @@
 0.0.0.0 azd.demdex.net
 0.0.0.0 azjmp.com
 0.0.0.0 azlm-25.cdnamz.com
+0.0.0.0 azpresearch.club
 0.0.0.0 azr-3.cdnamz.com
 0.0.0.0 azure.admixer.net
 0.0.0.0 b-1st.com
@@ -4513,6 +4515,7 @@
 0.0.0.0 birthdayexpress.speedera.net
 0.0.0.0 biskerando.com
 0.0.0.0 bitaccess.co
+0.0.0.0 bitadnetwork.com
 0.0.0.0 bitclub.bz
 0.0.0.0 bitclub.network
 0.0.0.0 bitclubnetwork.com
@@ -6064,6 +6067,7 @@
 0.0.0.0 cookiescript.info
 0.0.0.0 cool-pool.net
 0.0.0.0 coolbrowsering.xyz
+0.0.0.0 coolcpms.com
 0.0.0.0 coolerads.com
 0.0.0.0 coolshoess.club
 0.0.0.0 cooltrendingclub.com
@@ -6352,12 +6356,15 @@
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d14qpp2he5atys.cloudfront.net
 0.0.0.0 d1d5p7uxjr4j28.cloudfront.net
+0.0.0.0 d1dagyb1ctngx1.cloudfront.net
 0.0.0.0 d1rg2274px6zb.cloudfront.net
 0.0.0.0 d1tqp15egmc1qo.cloudfront.net
 0.0.0.0 d1wsidr7aabb18.cloudfront.net
 0.0.0.0 d24ak3f2b.top
+0.0.0.0 d28n7yywqog3r7.cloudfront.net
 0.0.0.0 d29xw9s9x32j3w.cloudfront.net
 0.0.0.0 d2rb60829qiz9y.cloudfront.net
+0.0.0.0 d2x0118v5hofu3.cloudfront.net
 0.0.0.0 d2yz0oamomyxzv.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d33bhlp8xcppz2.cloudfront.net
@@ -6369,6 +6376,7 @@
 0.0.0.0 d3lvir7538n0oi.cloudfront.net
 0.0.0.0 d3mzokty951c5w.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
+0.0.0.0 d3ra9679oeq3gx.cloudfront.net
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.click-here.pro
 0.0.0.0 d6jfiirio372.com
@@ -6677,6 +6685,7 @@
 0.0.0.0 devicecooler.s.xoxknct.com
 0.0.0.0 dewagg.com
 0.0.0.0 dewaletevo.top
+0.0.0.0 dexchangeinc.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 dffijaiagajbedddccc.ru
 0.0.0.0 dfkcnyhd.nl
@@ -6798,6 +6807,7 @@
 0.0.0.0 dlfars.pw
 0.0.0.0 dlfdvyfn.com
 0.0.0.0 dlfvgndsdfsn.com
+0.0.0.0 dlgzith499dss.cloudfront.net
 0.0.0.0 dlmghzdca.com
 0.0.0.0 dlp.adgear.com
 0.0.0.0 dlpstag.adgear.com
@@ -11310,7 +11320,9 @@
 0.0.0.0 matomo.tarnkappe.info
 0.0.0.0 matomy.com
 0.0.0.0 maven.kissmetrics.com
+0.0.0.0 mavenlohi.com
 0.0.0.0 mawsewtow.com
+0.0.0.0 mawssicksager.work
 0.0.0.0 maxacne.com
 0.0.0.0 maxhash.org
 0.0.0.0 maxxdrinks.com
@@ -12527,6 +12539,7 @@
 0.0.0.0 oei1.gq
 0.0.0.0 oekoregelungen.de
 0.0.0.0 oewa.at
+0.0.0.0 ofdittor.com
 0.0.0.0 ofeetles.pro
 0.0.0.0 ofertasfarmacias.es
 0.0.0.0 offer.mntzr-january2019.com
@@ -13101,6 +13114,7 @@
 0.0.0.0 pact.thecon.com
 0.0.0.0 padsdelivery.com
 0.0.0.0 padsecs.com
+0.0.0.0 padskis.com
 0.0.0.0 padssup.com
 0.0.0.0 pagalworldcomcom.imageshack.host
 0.0.0.0 pagead.l.google.com
@@ -13164,6 +13178,7 @@
 0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.admixer.co.kr
+0.0.0.0 partner.domaining.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partner.video.syndication.msn.com
@@ -13288,6 +13303,7 @@
 0.0.0.0 personalize.rlcdn.com
 0.0.0.0 pervas.top
 0.0.0.0 petchesa.net
+0.0.0.0 petfoppew.com
 0.0.0.0 petitelady.top
 0.0.0.0 petra-elsner.de
 0.0.0.0 petssupermart.com
@@ -13351,6 +13367,7 @@
 0.0.0.0 picto-plasma.de
 0.0.0.0 pie.net.pk
 0.0.0.0 pierrebuy.de
+0.0.0.0 pigwinspath.icu
 0.0.0.0 pijnhelingmethode.nl
 0.0.0.0 pillenpalast.com
 0.0.0.0 pimproll.com
@@ -14974,6 +14991,7 @@
 0.0.0.0 rong.adxmeb.com
 0.0.0.0 rontotlearwass.pro
 0.0.0.0 roos-kuebler.de
+0.0.0.0 roostsflewcat.cam
 0.0.0.0 root20system20macosxdriver.serveusers.com
 0.0.0.0 rootconf.media.net
 0.0.0.0 rorochic.com
@@ -15324,6 +15342,7 @@
 0.0.0.0 sarcasticlinezomby.com
 0.0.0.0 sardinien-sailingcharter.de
 0.0.0.0 sarisaville.com
+0.0.0.0 saruch.co
 0.0.0.0 sas-onlineshopping.com
 0.0.0.0 sas2017.ereality.org
 0.0.0.0 sascdn.com
@@ -15422,6 +15441,7 @@
 0.0.0.0 sdfaswaed2.nokiadns.com
 0.0.0.0 sdfjj.nbryb.com
 0.0.0.0 sdfjjd.nbryb.com
+0.0.0.0 sdfjjd.the31news.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdk-services.appsflyer.com
@@ -15769,6 +15789,7 @@
 0.0.0.0 shushoku-seiko.com
 0.0.0.0 shwapno.glasgro.com
 0.0.0.0 shyamacreations.com
+0.0.0.0 shyhuetub.site
 0.0.0.0 si1.go2yd.com
 0.0.0.0 si6ling.incestflix.com
 0.0.0.0 si6ling.taboosex.club
@@ -16136,6 +16157,7 @@
 0.0.0.0 srcu.com
 0.0.0.0 srkft.com
 0.0.0.0 srppykbedhqp.com
+0.0.0.0 srv-2020-07-30-18.pixel.parsely.com
 0.0.0.0 srv-ca-to-1.buysellads.com
 0.0.0.0 srv-eu-ldn-10.buysellads.com
 0.0.0.0 srv-eu-ldn-13.buysellads.com
@@ -17049,6 +17071,7 @@
 0.0.0.0 therneserutybin.info
 0.0.0.0 theseoffersforyou.com
 0.0.0.0 thestar.serveblog.net
+0.0.0.0 thetarhaw.com
 0.0.0.0 thethandarinhec.info
 0.0.0.0 thetransfiguration.co.uk
 0.0.0.0 thewatchmaker1.weebly.com
@@ -18888,6 +18911,7 @@
 0.0.0.0 vapoworld.de
 0.0.0.0 vasc.iasds01.com
 0.0.0.0 vasfxpribls.com
+0.0.0.0 vashoaft.net
 0.0.0.0 vashoot.com
 0.0.0.0 vast-pixel.ad.smaato.net
 0.0.0.0 vast.adsafeprotected.com
@@ -19934,6 +19958,7 @@
 0.0.0.0 www.deployads.com
 0.0.0.0 www.desivideo.online
 0.0.0.0 www.deta.ero-advertising.com
+0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.dfw1.vip.inmobi.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.digiad.co
