@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.215
 # Release: 215
-# Entries: 20,973
+# Entries: 20,975
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 02 Aug 20 17:45:07
+# Updated: Sun, 02 Aug 20 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11766,6 +11766,7 @@
 0.0.0.0 mobileapi.advertising.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilecrashreporting.googleapis.com
+0.0.0.0 mobiledataplansharing.googleapis.com
 0.0.0.0 mobilegames.mobi
 0.0.0.0 mobilenumbersearchblogspotcom.imageshack.host
 0.0.0.0 mobileoffers-bj-download.com
@@ -13277,6 +13278,7 @@
 0.0.0.0 pension-judith.at
 0.0.0.0 pension-podesser.at
 0.0.0.0 penuma.com
+0.0.0.0 people-pa.googleapis.com
 0.0.0.0 pepejeansale.online
 0.0.0.0 pepimantas.es
 0.0.0.0 pepperjamnetwork.com
