@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.216
 # Release: 216
-# Entries: 20,975
+# Entries: 20,974
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 03 Aug 20 11:45:07
+# Updated: Mon, 03 Aug 20 17:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1255,7 +1255,6 @@
 0.0.0.0 adback.adform.net
 0.0.0.0 adbard.net
 0.0.0.0 adbcache.btrll.com
-0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 adbit.co
 0.0.0.0 adblade.com
 0.0.0.0 adblock-proxy.rtty.in
