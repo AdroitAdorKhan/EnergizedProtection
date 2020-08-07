@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.220
 # Release: 220
-# Entries: 20,975
+# Entries: 20,976
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 07 Aug 20 05:45:07
+# Updated: Fri, 07 Aug 20 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13459,6 +13459,7 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.net
 0.0.0.0 pixel.run-syndicate.com
+0.0.0.0 pixel.runative-syndicate.com
 0.0.0.0 pixel.rydohimowa.info
 0.0.0.0 pixel.sandroprabratm.info
 0.0.0.0 pixel.serviceleverage.com
