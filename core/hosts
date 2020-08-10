@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.223
 # Release: 223
-# Entries: 20,975
+# Entries: 20,974
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Aug 20 05:45:09
+# Updated: Mon, 10 Aug 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20732,7 +20732,6 @@
 0.0.0.0 xxxlog.ru
 0.0.0.0 xy7elite.com
 0.0.0.0 xyz.cashnow.ee
-0.0.0.0 xz.jave.xyz
 0.0.0.0 y.amobee.com
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 y.flurry.com
