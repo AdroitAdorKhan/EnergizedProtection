@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.223
-# Release: 223
-# Entries: 20,973
+# Version: 20.08.224
+# Release: 224
+# Entries: 20,975
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Aug 20 23:45:08
+# Updated: Tue, 11 Aug 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3562,6 +3562,7 @@
 0.0.0.0 api.prod.notifier.manycomponents.com
 0.0.0.0 api.prsrvy.com
 0.0.0.0 api.pub.network
+0.0.0.0 api.purpleads.io
 0.0.0.0 api.qrserver.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.queryly.com
@@ -5260,6 +5261,7 @@
 0.0.0.0 cdn.pubguru.com
 0.0.0.0 cdn.pubmatic.com
 0.0.0.0 cdn.pubnative.net
+0.0.0.0 cdn.purpleads.io
 0.0.0.0 cdn.pushnami.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.revive-adserver.net
@@ -6191,6 +6193,7 @@
 0.0.0.0 creativecdn.com
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 creatives.livejasmin.com
+0.0.0.0 creatives.purpleads.io
 0.0.0.0 creditcards15x.tk
 0.0.0.0 creditkarma.demdex.net
 0.0.0.0 creditsansjustificatif.me
@@ -6848,7 +6851,6 @@
 0.0.0.0 documents.supersonicads.com
 0.0.0.0 dod.appsflyer.com
 0.0.0.0 doeree.de
-0.0.0.0 dogepool.rf.gd
 0.0.0.0 doghole.ucweb.com
 0.0.0.0 doghoust.net
 0.0.0.0 dokerest.xyz
