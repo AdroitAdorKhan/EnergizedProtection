@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.223
 # Release: 223
-# Entries: 20,974
+# Entries: 20,973
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Aug 20 17:45:07
+# Updated: Mon, 10 Aug 20 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16358,7 +16358,6 @@
 0.0.0.0 static-devex.adblade.com
 0.0.0.0 static-eb.media.net
 0.0.0.0 static-failover.go.sonobi.com
-0.0.0.0 static-hwcdn.exoclick.com
 0.0.0.0 static-infra-api.newrelic.com
 0.0.0.0 static-landers-ht.contentdef.com
 0.0.0.0 static-ru.plista.com
