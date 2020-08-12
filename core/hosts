@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.225
-# Release: 225
-# Entries: 20,975
+# Version: 20.08.226
+# Release: 226
+# Entries: 20,978
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 12 Aug 20 23:45:07
+# Updated: Thu, 13 Aug 20 05:45:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15648,6 +15648,7 @@
 0.0.0.0 servingmillions.com
 0.0.0.0 servingnotice.com
 0.0.0.0 serviziopostale.site
+0.0.0.0 servsave.com
 0.0.0.0 servunity.tk
 0.0.0.0 sessionm.com
 0.0.0.0 sessions.viglink.com
@@ -18741,6 +18742,7 @@
 0.0.0.0 us-ucdc-upaas.ucweb.com
 0.0.0.0 us-unpm-upaas.ucweb.com
 0.0.0.0 us-west-1.onemobile.yahoo.com
+0.0.0.0 us-west-2.kinesis.hpanalytics.net
 0.0.0.0 us.adform.net
 0.0.0.0 us.ads.justpremium.com
 0.0.0.0 us.adserver.yahoo.com
@@ -20327,6 +20329,7 @@
 0.0.0.0 www.se.cj.com
 0.0.0.0 www.secure-vtrk.com
 0.0.0.0 www.secure.adnxs.com
+0.0.0.0 www.servsave.com
 0.0.0.0 www.sewladilike.com
 0.0.0.0 www.sex-and-flirt.com
 0.0.0.0 www.sg-coupons-57.com
