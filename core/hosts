@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.226
-# Release: 226
-# Entries: 20,978
+# Version: 20.08.227
+# Release: 227
+# Entries: 20,977
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 13 Aug 20 23:45:07
+# Updated: Fri, 14 Aug 20 05:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11636,7 +11636,6 @@
 0.0.0.0 minexcash.com
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.org
-0.0.0.0 minexpool.nl
 0.0.0.0 minezone.io
 0.0.0.0 minicamerass.club
 0.0.0.0 minimumpay.info
