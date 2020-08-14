@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.227
 # Release: 227
-# Entries: 20,977
+# Entries: 20,976
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 14 Aug 20 05:45:07
+# Updated: Fri, 14 Aug 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4092,7 +4092,6 @@
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 b60228e270e363f6.com
 0.0.0.0 b8pfulzbyj7h.com
-0.0.0.0 babs.tv2.dk
 0.0.0.0 babykosy.com
 0.0.0.0 baccara-shop.com
 0.0.0.0 backbeatmedia.com
