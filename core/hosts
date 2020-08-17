@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.230
-# Release: 230
-# Entries: 20,981
+# Version: 20.08.231
+# Release: 231
+# Entries: 20,983
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Aug 20 23:45:07
+# Updated: Tue, 18 Aug 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11680,6 +11680,7 @@
 0.0.0.0 mkhoj.com
 0.0.0.0 mkklcdnv6.com
 0.0.0.0 mkleider.de
+0.0.0.0 mkt.ventanasyaluminios.com.mx
 0.0.0.0 mktg.tvpage.com
 0.0.0.0 ml314.com
 0.0.0.0 ml6mgw.edvfwlacluo.com
@@ -20440,6 +20441,7 @@
 0.0.0.0 www.us.ads.justpremium.com
 0.0.0.0 www.users.ero-advertising.com
 0.0.0.0 www.valuedopinions.sg
+0.0.0.0 www.ventanasyaluminios.com.mx
 0.0.0.0 www.vibrantmedia.com
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.visariomedia.com
