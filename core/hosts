@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.230
 # Release: 230
-# Entries: 20,980
+# Entries: 20,981
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Aug 20 17:45:07
+# Updated: Mon, 17 Aug 20 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10319,6 +10319,7 @@
 0.0.0.0 koogoshop.com
 0.0.0.0 kooralive-122blogspotcom.imageshack.host
 0.0.0.0 korea.inmobi.com
+0.0.0.0 korfo.org
 0.0.0.0 korting.niceniceshop.com
 0.0.0.0 kosmetikzimmer-neufahrn.de
 0.0.0.0 kosmoplovci.org
