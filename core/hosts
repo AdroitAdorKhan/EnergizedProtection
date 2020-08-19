@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.232
-# Release: 232
-# Entries: 20,981
+# Version: 20.08.233
+# Release: 233
+# Entries: 20,980
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Aug 20 23:45:10
+# Updated: Thu, 20 Aug 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17530,7 +17530,6 @@
 0.0.0.0 track.exclusivecpa.com
 0.0.0.0 track.expertmarket.com
 0.0.0.0 track.express.de
-0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.ezdlz.com
 0.0.0.0 track.fantasygirlbrooke.com
 0.0.0.0 track.fantasygirlcarmella.com
