@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.233
 # Release: 233
-# Entries: 20,980
+# Entries: 20,977
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 20 Aug 20 05:45:08
+# Updated: Thu, 20 Aug 20 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3435,7 +3435,6 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 ap.prizenotifications.com
 0.0.0.0 ap2.adriver.ru
-0.0.0.0 ap45.hetznir.ventanasyaluminios.com.mx
 0.0.0.0 apac-glo.trnowspeed.com
 0.0.0.0 apac.analytics.yahoo.com
 0.0.0.0 apcdn.lijit.com
@@ -8878,7 +8877,6 @@
 0.0.0.0 hertetrinrom.pro
 0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hetofreplome.info
-0.0.0.0 hetznir.ventanasyaluminios.com.mx
 0.0.0.0 hexagram.com
 0.0.0.0 hexasoft.com.my
 0.0.0.0 heyos.com
@@ -16396,7 +16394,6 @@
 0.0.0.0 static.eclick.vn
 0.0.0.0 static.estebull.com
 0.0.0.0 static.exdynsrv.com
-0.0.0.0 static.exoclick.com
 0.0.0.0 static.flashx.pw
 0.0.0.0 static.h-bid.com
 0.0.0.0 static.iasds01.com
