@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.234
 # Release: 234
-# Entries: 20,977
+# Entries: 20,976
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 21 Aug 20 17:45:07
+# Updated: Fri, 21 Aug 20 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14983,7 +14983,6 @@
 0.0.0.0 roia.biz
 0.0.0.0 roidsupport.biz
 0.0.0.0 roirocket.com
-0.0.0.0 rok.com.com
 0.0.0.0 rolke.gq
 0.0.0.0 rollychic.com
 0.0.0.0 romance-net.com
