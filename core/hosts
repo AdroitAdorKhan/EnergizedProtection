@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.237
-# Release: 237
-# Entries: 20,975
+# Version: 20.08.238
+# Release: 238
+# Entries: 20,976
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 24 Aug 20 23:45:07
+# Updated: Tue, 25 Aug 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5843,6 +5843,7 @@
 0.0.0.0 coinzilla.io
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 collect.adback.co
+0.0.0.0 collect.installeranalytics.com
 0.0.0.0 collect.mfilterit.net
 0.0.0.0 collect.mopinion.com
 0.0.0.0 collect.rewardstyle.com
