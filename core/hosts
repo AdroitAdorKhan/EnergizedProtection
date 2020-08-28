@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.241
 # Release: 241
-# Entries: 20,975
+# Entries: 20,974
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Aug 20 05:45:07
+# Updated: Fri, 28 Aug 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16224,7 +16224,6 @@
 0.0.0.0 ssl.adriver.ru
 0.0.0.0 ssl.cloud.gsdk.qq.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ssl.newsofnp.com
 0.0.0.0 ssl.supersonicads.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl2.stsoftindia.com
