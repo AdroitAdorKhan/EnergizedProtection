@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.242
-# Release: 242
-# Entries: 20,972
+# Version: 20.08.243
+# Release: 243
+# Entries: 20,970
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 29 Aug 20 23:45:08
+# Updated: Sun, 30 Aug 20 05:45:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -830,7 +830,6 @@
 0.0.0.0 aata.ero-advertising.com
 0.0.0.0 aatrckr.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
-0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-test.amazon-adsystem.com
@@ -13280,7 +13279,6 @@
 0.0.0.0 pension-judith.at
 0.0.0.0 pension-podesser.at
 0.0.0.0 penuma.com
-0.0.0.0 people-pa.googleapis.com
 0.0.0.0 pepejeansale.online
 0.0.0.0 pepimantas.es
 0.0.0.0 pepperjamnetwork.com
