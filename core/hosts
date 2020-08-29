@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.242
 # Release: 242
-# Entries: 20,974
+# Entries: 20,972
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 29 Aug 20 05:45:06
+# Updated: Sat, 29 Aug 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -18023,7 +18023,6 @@
 0.0.0.0 track.tracking-first.com
 0.0.0.0 track.tracking85.com
 0.0.0.0 track.trackurl.ru
-0.0.0.0 track.trademail.fr
 0.0.0.0 track.traffcdn.com
 0.0.0.0 track.traffic.club
 0.0.0.0 track.traffic.name
@@ -18572,7 +18571,6 @@
 0.0.0.0 ufc-mettmach.at
 0.0.0.0 ufnd.hotchedmothe.club
 0.0.0.0 ufraton.com
-0.0.0.0 ugaral.com
 0.0.0.0 ugcdata.vmate.in
 0.0.0.0 uggcp.com
 0.0.0.0 uggvuuquxj.com
