@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.243
 # Release: 243
-# Entries: 20,970
+# Entries: 20,968
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 30 Aug 20 11:45:07
+# Updated: Sun, 30 Aug 20 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1532,7 +1532,6 @@
 0.0.0.0 adnetwork.ai
 0.0.0.0 adnetwork.net
 0.0.0.0 adnetwrk.com
-0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnext.fr
 0.0.0.0 adnexus.net
 0.0.0.0 adngin.com
@@ -7182,7 +7181,6 @@
 0.0.0.0 ecgajcijcbgiibdgach.ru
 0.0.0.0 echoserver.production.infolinks.com
 0.0.0.0 ecircle-ag.com
-0.0.0.0 eclick.vn
 0.0.0.0 ecnads1.msn.com
 0.0.0.0 ecoflyway.com
 0.0.0.0 ecoining.com
