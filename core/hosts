@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.08.243
 # Release: 243
-# Entries: 20,968
+# Entries: 20,966
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 30 Aug 20 17:45:08
+# Updated: Sun, 30 Aug 20 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1061,7 +1061,6 @@
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.ch.doubleclick.net
 0.0.0.0 ad.cl.doubleclick.net
-0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 ad.corp.appnexus.com
 0.0.0.0 ad.crwdcntrl.net
@@ -16445,7 +16444,6 @@
 0.0.0.0 statistics.pornnperfect.com
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.hasmobi.net
-0.0.0.0 statm.the-adult-company.com
 0.0.0.0 statok.net
 0.0.0.0 statpipe.ru
 0.0.0.0 stats.adspaces.ero-advertising.com
