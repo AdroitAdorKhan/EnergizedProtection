@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.08.243
-# Release: 243
-# Entries: 20,966
+# Version: 20.08.244
+# Release: 244
+# Entries: 20,963
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 30 Aug 20 23:45:07
+# Updated: Mon, 31 Aug 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1410,7 +1410,6 @@
 0.0.0.0 adinc.co.kr
 0.0.0.0 adincon.com
 0.0.0.0 adindigo.com
-0.0.0.0 adinfinity.com.au
 0.0.0.0 adingo.jp
 0.0.0.0 adinjector.net
 0.0.0.0 adintend.com
@@ -2820,7 +2819,6 @@
 0.0.0.0 analytics.bartlweb.net
 0.0.0.0 analytics.batmobile.com.tw
 0.0.0.0 analytics.beeznest.com
-0.0.0.0 analytics.belgacom.be
 0.0.0.0 analytics.beltzak.com
 0.0.0.0 analytics.bhaskar.com
 0.0.0.0 analytics.bigfm.de
@@ -10334,7 +10332,6 @@
 0.0.0.0 kr9apzxosa.appspot.com
 0.0.0.0 kraken.bike
 0.0.0.0 kraruzatefci.com
-0.0.0.0 krb.devphp.org.ua
 0.0.0.0 kreisfeuerwehrverband-wittmund.de
 0.0.0.0 krender.de
 0.0.0.0 krethe-fachmarkt.de
