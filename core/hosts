@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.250
 # Release: 250
-# Entries: 20,962
+# Entries: 20,961
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 06 Sep 20 17:45:07
+# Updated: Sun, 06 Sep 20 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6106,7 +6106,6 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
 0.0.0.0 country.yepshare.com
-0.0.0.0 counts.tucows.com
 0.0.0.0 counts.yieldlab.net
 0.0.0.0 coupling-media.de
 0.0.0.0 couponsaustria.com
