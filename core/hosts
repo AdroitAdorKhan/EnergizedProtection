@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.251
 # Release: 251
-# Entries: 20,961
+# Entries: 20,960
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 07 Sep 20 05:45:06
+# Updated: Mon, 07 Sep 20 11:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3758,7 +3758,6 @@
 0.0.0.0 ar9.atwola.com
 0.0.0.0 arbz.info
 0.0.0.0 arcadebannerexchange.org
-0.0.0.0 arcartall.club
 0.0.0.0 arche-projekt.de
 0.0.0.0 architekturbueromaier.de
 0.0.0.0 archsmarter.usesfathom.com
