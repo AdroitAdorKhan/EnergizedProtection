@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.255
 # Release: 255
-# Entries: 20,960
+# Entries: 20,958
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 11 Sep 20 05:45:07
+# Updated: Fri, 11 Sep 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1025,7 +1025,6 @@
 0.0.0.0 ad.886644.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.abcnews.com
-0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 ad.adcash.com
 0.0.0.0 ad.admixer.net
 0.0.0.0 ad.adriver.ru
@@ -1036,7 +1035,6 @@
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amanad.adtdp.com
 0.0.0.0 ad.angel-live.com
-0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.aruba.it
 0.0.0.0 ad.as.amanad.adtdp.com
