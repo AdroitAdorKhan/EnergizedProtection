@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.257
 # Release: 257
-# Entries: 20,961
+# Entries: 20,960
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 13 Sep 20 05:45:08
+# Updated: Sun, 13 Sep 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9348,7 +9348,6 @@
 0.0.0.0 imagizer.imageshack.com
 0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
-0.0.0.0 imbc.onthewifi.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.dfw1.inmobi.com
 0.0.0.0 imdb.amazon-adsystem.com
