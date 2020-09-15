@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.259
 # Release: 259
-# Entries: 20,960
+# Entries: 20,958
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 15 Sep 20 05:45:07
+# Updated: Tue, 15 Sep 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7756,7 +7756,6 @@
 0.0.0.0 feylibertad.org
 0.0.0.0 ff-buch.de
 0.0.0.0 ff.uc.cn
-0.0.0.0 ffdgbserv.ml
 0.0.0.0 ffilelogapp.nimo.tv
 0.0.0.0 ffw-spirkelbach.de
 0.0.0.0 ffw-unterbechingen.de
@@ -17137,7 +17136,6 @@
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkqlhce.com
 0.0.0.0 tkup.uparpu.com
-0.0.0.0 tlfdmrnpog.tk
 0.0.0.0 tlkbaonline.eu
 0.0.0.0 tlootas.org
 0.0.0.0 tlvmedia.com
