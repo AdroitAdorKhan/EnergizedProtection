@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.09.265
-# Release: 265
-# Entries: 20,951
+# Version: 20.09.266
+# Release: 266
+# Entries: 20,950
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 21 Sep 20 23:45:07
+# Updated: Tue, 22 Sep 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6099,7 +6099,6 @@
 0.0.0.0 counter.mojgorod.ru
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.sparklit.com
-0.0.0.0 counter.wapstart.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
 0.0.0.0 country.yepshare.com
