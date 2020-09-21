@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.265
 # Release: 265
-# Entries: 20,952
+# Entries: 20,951
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 21 Sep 20 05:45:07
+# Updated: Mon, 21 Sep 20 11:45:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15631,7 +15631,6 @@
 0.0.0.0 servingnotice.com
 0.0.0.0 serviziopostale.site
 0.0.0.0 servsave.com
-0.0.0.0 servunity.tk
 0.0.0.0 sessionm.com
 0.0.0.0 sessions.viglink.com
 0.0.0.0 setting.rayjump.com
