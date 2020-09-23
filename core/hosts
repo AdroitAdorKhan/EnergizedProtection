@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.267
 # Release: 267
-# Entries: 20,950
+# Entries: 20,949
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 23 Sep 20 05:45:08
+# Updated: Wed, 23 Sep 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20847,7 +20847,6 @@
 0.0.0.0 yume.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 yumiang.com
-0.0.0.0 yun-static.soperson.com
 0.0.0.0 yunshipei.com
 0.0.0.0 yupfiles.net
 0.0.0.0 yvbrgzeu.com
