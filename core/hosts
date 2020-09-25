@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.09.269
 # Release: 269
-# Entries: 20,948
+# Entries: 20,947
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 25 Sep 20 05:45:08
+# Updated: Fri, 25 Sep 20 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11486,7 +11486,6 @@
 0.0.0.0 megaad.nz
 0.0.0.0 megaplaylive.com
 0.0.0.0 megapopads.com
-0.0.0.0 megasena1.duckdns.org
 0.0.0.0 megastats.com
 0.0.0.0 megatubo.es
 0.0.0.0 megawerbung.de
