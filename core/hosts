@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.10.297
 # Release: 297
-# Entries: 20,952
+# Entries: 20,944
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 23 Oct 20 05:45:08
+# Updated: Fri, 23 Oct 20 11:45:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -530,7 +530,6 @@
 0.0.0.0 451312.s4.feed-xml.com
 0.0.0.0 451312.s5.feed-xml.com
 0.0.0.0 4522776.catchtheclick.com
-0.0.0.0 47361.ns1.dns-info.tk
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 48.nbryb.com
 0.0.0.0 488319.s2.feed-xml.com
@@ -942,7 +941,6 @@
 0.0.0.0 account-settings.appsflyer.com
 0.0.0.0 accountreview.outbrain.com
 0.0.0.0 accounts.longmusic.com
-0.0.0.0 accountsx.bounceme.net
 0.0.0.0 accuen.optout.agkn.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acdn.newshuntads.com
@@ -2547,7 +2545,6 @@
 0.0.0.0 aiophotostudio.s.xoxknct.com
 0.0.0.0 airbrake.io
 0.0.0.0 aircovid19virus.com
-0.0.0.0 airjaldinet.ml
 0.0.0.0 airmaxshopschweiz.com
 0.0.0.0 airplaypro-de.com
 0.0.0.0 airpodsdirekt.de
@@ -11694,7 +11691,6 @@
 0.0.0.0 mnetads.com
 0.0.0.0 mnews.atode.cc
 0.0.0.0 mnoa6ez1eq.com
-0.0.0.0 mnp.nkr.am
 0.0.0.0 mntz.life
 0.0.0.0 mntzr-january2019.com
 0.0.0.0 mo7her.incest.click
@@ -13248,7 +13244,6 @@
 0.0.0.0 pdx-1.go.sonobi.com
 0.0.0.0 pdx.amazon-adsystem.com
 0.0.0.0 pe.ads.justpremium.com
-0.0.0.0 peacelist.ignorelist.com
 0.0.0.0 peakclick.com
 0.0.0.0 pearlfeet.de
 0.0.0.0 pebblemedia.be
@@ -15691,7 +15686,6 @@
 0.0.0.0 shaimsaijels.com
 0.0.0.0 shakamech.com
 0.0.0.0 shakesmobi.com
-0.0.0.0 shangri-la.gq
 0.0.0.0 shanta-jos.com
 0.0.0.0 share-assets.mfcimg.com
 0.0.0.0 share-server.com
@@ -18613,7 +18607,6 @@
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 unagrancompra.com
 0.0.0.0 unclebillswv.com
-0.0.0.0 unconf.adkmob.com
 0.0.0.0 undaylilyshop.com
 0.0.0.0 underclick.ru
 0.0.0.0 undhathaletold.pro
@@ -19944,7 +19937,6 @@
 0.0.0.0 www.diometa.com
 0.0.0.0 www.direct.yandex.com
 0.0.0.0 www.displayvertising.com
-0.0.0.0 www.dobre-programy.xyz
 0.0.0.0 www.dobreprogramy.pro
 0.0.0.0 www.dogecoinfaucets.info
 0.0.0.0 www.domain.name
