@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.10.297
-# Release: 297
-# Entries: 20,944
+# Version: 20.10.298
+# Release: 298
+# Entries: 20,951
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 23 Oct 20 23:45:07
+# Updated: Sat, 24 Oct 20 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3519,6 +3519,7 @@
 0.0.0.0 api.exoclick.com
 0.0.0.0 api.flurry.com
 0.0.0.0 api.fouanalytics.com
+0.0.0.0 api.gameads.io
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.growingio.com
 0.0.0.0 api.h1.he7ll.com
@@ -4145,6 +4146,7 @@
 0.0.0.0 banner.electronic4you.at
 0.0.0.0 banner.ero-advertising.com
 0.0.0.0 banner.eurogrand.com
+0.0.0.0 banner.gameads.io
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.kiev.ua
@@ -5212,6 +5214,7 @@
 0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.ftd.agency
 0.0.0.0 cdn.g.wan.douyu.com
+0.0.0.0 cdn.gameads.io
 0.0.0.0 cdn.googletoolservices.com
 0.0.0.0 cdn.hasmobi.net
 0.0.0.0 cdn.heapanalytics.com
@@ -12046,6 +12049,7 @@
 0.0.0.0 mzfo2.bemobtrk.com
 0.0.0.0 n-engine.com
 0.0.0.0 n.adxxx.info
+0.0.0.0 n.gameads.io
 0.0.0.0 n.grlurd.com
 0.0.0.0 n.pc1ads.com
 0.0.0.0 n0q201.nexage.com
@@ -12335,6 +12339,7 @@
 0.0.0.0 noanoa-hannover.de
 0.0.0.0 noblebart.de
 0.0.0.0 nocroom.com
+0.0.0.0 node.gameads.io
 0.0.0.0 nodej.media.net
 0.0.0.0 nogoodfootballclub.com
 0.0.0.0 nohasevilla.es
@@ -13140,6 +13145,7 @@
 0.0.0.0 pandorahu.com
 0.0.0.0 pandorasale.net
 0.0.0.0 panel.clickadu.com
+0.0.0.0 panel.gameads.io
 0.0.0.0 panel.scorecardresearch.com
 0.0.0.0 panel.yieldbird.com
 0.0.0.0 panelsave.com
@@ -15687,6 +15693,7 @@
 0.0.0.0 shakamech.com
 0.0.0.0 shakesmobi.com
 0.0.0.0 shanta-jos.com
+0.0.0.0 shapez.gameads.io
 0.0.0.0 share-assets.mfcimg.com
 0.0.0.0 share-server.com
 0.0.0.0 share.robinhood.com
