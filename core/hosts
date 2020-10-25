@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.10.299
 # Release: 299
-# Entries: 20,951
+# Entries: 20,949
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 25 Oct 20 05:45:06
+# Updated: Sun, 25 Oct 20 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4146,7 +4146,6 @@
 0.0.0.0 banner.electronic4you.at
 0.0.0.0 banner.ero-advertising.com
 0.0.0.0 banner.eurogrand.com
-0.0.0.0 banner.gameads.io
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.kiev.ua
@@ -13145,7 +13144,6 @@
 0.0.0.0 pandorahu.com
 0.0.0.0 pandorasale.net
 0.0.0.0 panel.clickadu.com
-0.0.0.0 panel.gameads.io
 0.0.0.0 panel.scorecardresearch.com
 0.0.0.0 panel.yieldbird.com
 0.0.0.0 panelsave.com
