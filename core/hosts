@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.11.313
 # Release: 313
-# Entries: 20,947
+# Entries: 20,950
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 08 Nov 20 05:45:07
+# Updated: Sun, 08 Nov 20 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6156,6 +6156,7 @@
 0.0.0.0 crashlogs.mobilegame.woniu.com
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashstats-collector.opera.com
 0.0.0.0 craveandlamb.com
 0.0.0.0 crawlability.com
@@ -10239,6 +10240,7 @@
 0.0.0.0 kindertroedel-katzem.de
 0.0.0.0 kindervereinigung-erfurt.de
 0.0.0.0 kinderwagenoutlet.com
+0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kingbtc.co
 0.0.0.0 kingtds.xyz
 0.0.0.0 kinley.com
@@ -11722,6 +11724,7 @@
 0.0.0.0 mobile-demo.outbrain.com
 0.0.0.0 mobile-ent.biz
 0.0.0.0 mobile-exchange.adtrue.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-mining.com
 0.0.0.0 mobile-static-src.adsafeprotected.com
 0.0.0.0 mobile-static.adsafeprotected.com
