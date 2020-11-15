@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.11.320
-# Release: 320
-# Entries: 20,950
+# Version: 20.11.321
+# Release: 321
+# Entries: 20,973
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 15 Nov 20 23:45:08
+# Updated: Mon, 16 Nov 20 05:45:05
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3511,6 +3511,7 @@
 0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.cossette.adgear.com
 0.0.0.0 api.crashlytics.com
+0.0.0.0 api.datatrics.com
 0.0.0.0 api.direct.yandex.com
 0.0.0.0 api.dsp.batmobi.net
 0.0.0.0 api.eqmob.com
@@ -3584,6 +3585,8 @@
 0.0.0.0 api.xender.com
 0.0.0.0 api.zcoup.com
 0.0.0.0 api.zedo.com
+0.0.0.0 api03.datatrics.com
+0.0.0.0 api04.datatrics.com
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api2.clickaine.com
@@ -3631,6 +3634,7 @@
 0.0.0.0 app.comagic.ru
 0.0.0.0 app.content.ad
 0.0.0.0 app.crashlytics.com
+0.0.0.0 app.datatrics.com
 0.0.0.0 app.flurry.com
 0.0.0.0 app.igodigital.com
 0.0.0.0 app.mopub.com
@@ -7176,6 +7180,7 @@
 0.0.0.0 ecnads1.msn.com
 0.0.0.0 ecoflyway.com
 0.0.0.0 ecoining.com
+0.0.0.0 ecommerce.datatrics.com
 0.0.0.0 econn.eu
 0.0.0.0 ecosolactiva.es
 0.0.0.0 ecoupons.com
@@ -9321,6 +9326,7 @@
 0.0.0.0 images.all-static.com
 0.0.0.0 images.allmystatic.com
 0.0.0.0 images.awin.com
+0.0.0.0 images.datatrics.com
 0.0.0.0 images.dyn.perfectaudience.com
 0.0.0.0 images.eksvideos.com
 0.0.0.0 images.fastclick.net
@@ -10635,6 +10641,7 @@
 0.0.0.0 link-booster.de
 0.0.0.0 link-reports-eu.truecaller.com
 0.0.0.0 link-reports-noneu.truecaller.com
+0.0.0.0 link.datatrics.com
 0.0.0.0 link.getmailspring.com
 0.0.0.0 link.safesslredirect.company
 0.0.0.0 linkadd.de
@@ -11159,6 +11166,7 @@
 0.0.0.0 madsuk.at.atwola.com
 0.0.0.0 madvertise.de
 0.0.0.0 mafn.de
+0.0.0.0 magento01.datatrics.com
 0.0.0.0 magic-drone.net
 0.0.0.0 magicinchristmas.com
 0.0.0.0 magik-all.com
@@ -11308,6 +11316,7 @@
 0.0.0.0 matomo.hellohi.me
 0.0.0.0 matomo.tarnkappe.info
 0.0.0.0 matomy.com
+0.0.0.0 mautic.datatrics.com
 0.0.0.0 maven.kissmetrics.com
 0.0.0.0 mavenlohi.com
 0.0.0.0 mawsewtow.com
@@ -12166,6 +12175,7 @@
 0.0.0.0 netstorage.taboola.com
 0.0.0.0 nettiback.de
 0.0.0.0 netwalkervpn.s.xoxknct.com
+0.0.0.0 network.datatrics.com
 0.0.0.0 networkoptimizer.r.xoxknct.com
 0.0.0.0 networkoptimizer.s.xoxknct.com
 0.0.0.0 networkplay.in
@@ -16471,6 +16481,7 @@
 0.0.0.0 status.adzerk.com
 0.0.0.0 status.appnexus.com
 0.0.0.0 status.appsflyer.com
+0.0.0.0 status.datatrics.com
 0.0.0.0 status.heapanalytics.com
 0.0.0.0 status.kissmetrics.com
 0.0.0.0 status.mgid.com
@@ -17256,11 +17267,18 @@
 0.0.0.0 tpnads.com
 0.0.0.0 tps.sj2.fastclick.net
 0.0.0.0 tpxur.top
+0.0.0.0 tr-255418.datatrics.com
+0.0.0.0 tr-255768.datatrics.com
+0.0.0.0 tr-256089.datatrics.com
 0.0.0.0 tr-assekuranz.de
 0.0.0.0 tr-eu.adsmoloco.com
+0.0.0.0 tr-op.datatrics.com
+0.0.0.0 tr-reshift.datatrics.com
+0.0.0.0 tr-v2.datatrics.com
 0.0.0.0 tr.ads.justpremium.com
 0.0.0.0 tr.adserver.yahoo.com
 0.0.0.0 tr.alphonso.tv
+0.0.0.0 tr.datatrics.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr54sdsazxas.appspot.com
@@ -17270,6 +17288,7 @@
 0.0.0.0 tracer.blogads.com
 0.0.0.0 tracfone.amobee.com
 0.0.0.0 trachten-modehaus-badischl.at
+0.0.0.0 track*.datatrics.com
 0.0.0.0 track-01.perfectcorp.com
 0.0.0.0 track-api.gamesight.io
 0.0.0.0 track-eu.adform.net
@@ -18125,6 +18144,7 @@
 0.0.0.0 tracker.bikroy.com
 0.0.0.0 tracker.btzoo.eu
 0.0.0.0 tracker.cdn-us-doubleverify.com
+0.0.0.0 tracker.datatrics.com
 0.0.0.0 tracker.doodstream.com
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
@@ -18313,6 +18333,7 @@
 0.0.0.0 traum-deko.de
 0.0.0.0 traumpreisfabrik.shop
 0.0.0.0 travel-bimeh.de
+0.0.0.0 travel.datatrics.com
 0.0.0.0 travelmads-world.de
 0.0.0.0 travelscream.com
 0.0.0.0 traviilo.com
@@ -18765,6 +18786,7 @@
 0.0.0.0 users.ero-advertising.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 userstats.shopee.tw
+0.0.0.0 usersync.datatrics.com
 0.0.0.0 ushoofop.com
 0.0.0.0 ushub.awin.com
 0.0.0.0 usinesmycete.info
@@ -19536,6 +19558,7 @@
 0.0.0.0 wolvedfdg.club
 0.0.0.0 wonderlandads.com
 0.0.0.0 wonfigfig.com
+0.0.0.0 woocommerce01.datatrics.com
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 woogoing.com
 0.0.0.0 woop.es
