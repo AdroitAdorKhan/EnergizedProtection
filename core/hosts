@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.11.324
 # Release: 324
-# Entries: 20,973
+# Entries: 20,974
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 Nov 20 17:45:08
+# Updated: Thu, 19 Nov 20 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12674,6 +12674,7 @@
 0.0.0.0 openbid-vac.pubmatic.com
 0.0.0.0 openbid.pubmatic.com
 0.0.0.0 openbid88000nfc.pubmatic.com
+0.0.0.0 opengapps.com
 0.0.0.0 openkatalog.com
 0.0.0.0 openloads.tk
 0.0.0.0 openmarket.com
