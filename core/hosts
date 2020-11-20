@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.11.325
 # Release: 325
-# Entries: 20,974
+# Entries: 20,967
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 Nov 20 11:45:08
+# Updated: Fri, 20 Nov 20 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5226,7 +5226,6 @@
 0.0.0.0 cdn.hybridclient.naiadsystems.com
 0.0.0.0 cdn.impactserving.com
 0.0.0.0 cdn.insigit.com
-0.0.0.0 cdn.insurads.com
 0.0.0.0 cdn.ish.atdmt.com
 0.0.0.0 cdn.k50.ru
 0.0.0.0 cdn.kiwys.com
@@ -11536,7 +11535,6 @@
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercialtaver.club
 0.0.0.0 message.onemessages.com
-0.0.0.0 messaging.insurads.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 meta.pubguru.com
 0.0.0.0 metabase.amobee.com
@@ -12224,7 +12222,6 @@
 0.0.0.0 news-speaker.com
 0.0.0.0 news.flurry.com
 0.0.0.0 news.gnezdo.ru
-0.0.0.0 news.hkrevolt.com
 0.0.0.0 news.hypernite.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.newonnetflix.info
@@ -14271,7 +14268,6 @@
 0.0.0.0 pub.qwerty24.net
 0.0.0.0 pub.sitetag.us
 0.0.0.0 pub.trads.io
-0.0.0.0 pub.welcometothepub.com
 0.0.0.0 pub0.sitetag.us
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubdirecte.com
@@ -15631,7 +15627,6 @@
 0.0.0.0 services.amobee.com
 0.0.0.0 services.bilsyndication.com
 0.0.0.0 services.hearstmags.com
-0.0.0.0 services.insurads.com
 0.0.0.0 services.splunk.com
 0.0.0.0 services.vlicdn2.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
@@ -16942,7 +16937,6 @@
 0.0.0.0 tecnomari.de
 0.0.0.0 tedbakerlondon.top
 0.0.0.0 teddygirls.cc
-0.0.0.0 teddyshatsworld.pl
 0.0.0.0 teenclubforum.pw
 0.0.0.0 teenrevenue.com
 0.0.0.0 tek-tek-trek.com
@@ -20823,7 +20817,6 @@
 0.0.0.0 youlamedia.com
 0.0.0.0 youlouk.com
 0.0.0.0 young-sos.de
-0.0.0.0 younglust.to
 0.0.0.0 younglustforum.pw
 0.0.0.0 youplay2019now.com
 0.0.0.0 youporn.sexy
