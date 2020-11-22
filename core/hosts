@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.11.327
 # Release: 327
-# Entries: 20,967
+# Entries: 20,969
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 22 Nov 20 17:45:07
+# Updated: Sun, 22 Nov 20 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13142,6 +13142,7 @@
 0.0.0.0 palmepalme.de
 0.0.0.0 palumwi.de
 0.0.0.0 pamego.de
+0.0.0.0 pamsg.online
 0.0.0.0 panamajackshop.online
 0.0.0.0 panda-devtest.novadine.com
 0.0.0.0 panda.storytion.com
@@ -20218,6 +20219,7 @@
 0.0.0.0 www.p.skimresources.com
 0.0.0.0 www.pagefair.com
 0.0.0.0 www.pagepeel.ero-advertising.com
+0.0.0.0 www.pamsg.online
 0.0.0.0 www.passeura.com
 0.0.0.0 www.passtechusa.com
 0.0.0.0 www.pata.ero-advertising.com
