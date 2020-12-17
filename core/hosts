@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.12.352
 # Release: 352
-# Entries: 20,969
+# Entries: 20,971
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 17 Dec 20 11:45:07
+# Updated: Thu, 17 Dec 20 17:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6273,6 +6273,8 @@
 0.0.0.0 ctrlaltdel99.com
 0.0.0.0 ctrmanager.com
 0.0.0.0 cttghjfhsw.com
+0.0.0.0 cu-cn-north00001.gala.convection.cn
+0.0.0.0 cu-cn-north00002.gala.convection.cn
 0.0.0.0 cuelinks.com
 0.0.0.0 cuev.in
 0.0.0.0 cuevana2io.imageshack.host
