@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 20.12.352
-# Release: 352
-# Entries: 20,971
+# Version: 20.12.353
+# Release: 353
+# Entries: 20,970
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 17 Dec 20 23:45:08
+# Updated: Fri, 18 Dec 20 05:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8730,7 +8730,6 @@
 0.0.0.0 hashcoins.com
 0.0.0.0 hashcoins.ru
 0.0.0.0 hashflare.io
-0.0.0.0 hashforcash.us
 0.0.0.0 hashgate.eu
 0.0.0.0 hashhot.com
 0.0.0.0 hashing.space
