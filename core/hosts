@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.12.353
 # Release: 353
-# Entries: 20,969
+# Entries: 20,970
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 18 Dec 20 11:45:08
+# Updated: Fri, 18 Dec 20 17:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3446,6 +3446,7 @@
 0.0.0.0 api-gateway.dditsadn.com
 0.0.0.0 api-gray.rqmob.com
 0.0.0.0 api-js.mixpanel.com
+0.0.0.0 api-lytics.macpaw.com
 0.0.0.0 api-metrica.yandex.com
 0.0.0.0 api-metrics-canary.flurry.com
 0.0.0.0 api-metrics.flurry.com
