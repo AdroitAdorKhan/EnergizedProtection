@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.01.020
 # Release: 020
-# Entries: 20,965
+# Entries: 20,967
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 20 Jan 21 05:45:08
+# Updated: Wed, 20 Jan 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10670,6 +10670,7 @@
 0.0.0.0 linux2.googlerenewals.net
 0.0.0.0 liqwid.net
 0.0.0.0 liris-shop.de
+0.0.0.0 lismcanalys.fun
 0.0.0.0 listlist.club
 0.0.0.0 litct.com
 0.0.0.0 lite.melnikloaddoom.xyz
@@ -14861,6 +14862,7 @@
 0.0.0.0 resultlinks.com
 0.0.0.0 resultlove.com
 0.0.0.0 results.deployads.com
+0.0.0.0 resumersvo.fun
 0.0.0.0 retargetcore.com
 0.0.0.0 retargeter.com
 0.0.0.0 retention.appsflyer.com
