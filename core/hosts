@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.01.022
-# Release: 022
-# Entries: 20,967
+# Version: 21.01.023
+# Release: 023
+# Entries: 20,970
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 22 Jan 21 23:45:07
+# Updated: Sat, 23 Jan 21 05:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6181,6 +6181,7 @@
 0.0.0.0 creative-services.tapad.com
 0.0.0.0 creative-serving.com
 0.0.0.0 creative-ucads.ucweb.com
+0.0.0.0 creative.alxbgo.com
 0.0.0.0 creative.hpyrdr.com
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creativecdn.com
@@ -6208,6 +6209,7 @@
 0.0.0.0 crowd.rubiconproject.com
 0.0.0.0 crptgate.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crt.livejasmin.com
 0.0.0.0 crt.sectigo.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 cruxpool.com
@@ -15883,6 +15885,7 @@
 0.0.0.0 skin.uc.cn
 0.0.0.0 skin.ucweb.com
 0.0.0.0 skinected.com
+0.0.0.0 skinstrip.net
 0.0.0.0 skipthegames.com
 0.0.0.0 skoovyads.com
 0.0.0.0 sky777.cc
