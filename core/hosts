@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.01.023
 # Release: 023
-# Entries: 20,970
+# Entries: 20,975
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 23 Jan 21 17:45:08
+# Updated: Sat, 23 Jan 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6183,6 +6183,7 @@
 0.0.0.0 creative-ucads.ucweb.com
 0.0.0.0 creative.alxbgo.com
 0.0.0.0 creative.hpyrdr.com
+0.0.0.0 creative.skinstrip.net
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creatives.doubleclick.net
@@ -8439,6 +8440,7 @@
 0.0.0.0 go.addthis.com
 0.0.0.0 go.adroll.com
 0.0.0.0 go.adversal.com
+0.0.0.0 go.alxbgo.com
 0.0.0.0 go.appcelerator.com
 0.0.0.0 go.applovin.com
 0.0.0.0 go.appnexus.com
@@ -8466,6 +8468,7 @@
 0.0.0.0 go.sonobi.com
 0.0.0.0 go.specia1.com
 0.0.0.0 go.stirshakead.com
+0.0.0.0 go.stripchat.com
 0.0.0.0 go.taboola.com
 0.0.0.0 go.tapad.com
 0.0.0.0 go.traffic-c.com
@@ -19043,6 +19046,7 @@
 0.0.0.0 video-vcdn.fastclick.net
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video.admixer.net
+0.0.0.0 video.alxbgo.com
 0.0.0.0 video.appsdownld.com
 0.0.0.0 video.batmobi.net
 0.0.0.0 video.content.ad
@@ -20333,6 +20337,7 @@
 0.0.0.0 www.sin.ero-advertising.com
 0.0.0.0 www.skimlinks.com
 0.0.0.0 www.skimresources.com
+0.0.0.0 www.skinstrip.net
 0.0.0.0 www.sksytkvnvnmz.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.smartclick.net
