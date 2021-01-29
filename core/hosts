@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.01.029
 # Release: 029
-# Entries: 21,149
+# Entries: 21,162
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 29 Jan 21 17:45:08
+# Updated: Fri, 29 Jan 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1710,6 +1710,7 @@
 0.0.0.0 ads.adultlinking.com
 0.0.0.0 ads.adultplex.com
 0.0.0.0 ads.adverline.com
+0.0.0.0 ads.adviad.com
 0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.affiliateclub.com
@@ -1989,6 +1990,7 @@
 0.0.0.0 ads14.textra.me
 0.0.0.0 ads15.textra.me
 0.0.0.0 ads180.com
+0.0.0.0 ads2.adviad.com
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.dyn.perfectaudience.com
@@ -2007,12 +2009,14 @@
 0.0.0.0 ads24.tipps24-netzwerk.de
 0.0.0.0 ads24h.net
 0.0.0.0 ads2srv.com
+0.0.0.0 ads3.adviad.com
 0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.eqads.com
 0.0.0.0 ads3.mthsense.com
 0.0.0.0 ads3.textra.me
 0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 ads4.adviad.com
 0.0.0.0 ads4.textra.me
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads5-asia-south1.truecaller.com
@@ -3491,6 +3495,7 @@
 0.0.0.0 api.adsymptotic.com
 0.0.0.0 api.adthor.com
 0.0.0.0 api.adtrue.com
+0.0.0.0 api.adviad.com
 0.0.0.0 api.airpush.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.analytics.nexonm.com
@@ -3636,6 +3641,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
 0.0.0.0 app.adroll.com
+0.0.0.0 app.adviad.com
 0.0.0.0 app.adzerk.com
 0.0.0.0 app.appleadwords.net
 0.0.0.0 app.appnexus.com
@@ -5193,6 +5199,7 @@
 0.0.0.0 cdn.adsnative.com
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adtrue.com
+0.0.0.0 cdn.adviad.com
 0.0.0.0 cdn.aimg.media.net
 0.0.0.0 cdn.amanad.adtdp.com
 0.0.0.0 cdn.appcloudbox.net
@@ -5386,6 +5393,7 @@
 0.0.0.0 cdnt.adclerks.com
 0.0.0.0 cdntp.bidvertiser.com
 0.0.0.0 cdntt.bidvertiser.com
+0.0.0.0 cdnuz.adviad.com
 0.0.0.0 cdnvm.bidvertiser.com
 0.0.0.0 cdnyt.bidvertiser.com
 0.0.0.0 cds-eu-1.taboola.com
@@ -6844,6 +6852,7 @@
 0.0.0.0 dmp.adblade.com
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.adotmob.com
+0.0.0.0 dmp.adviad.com
 0.0.0.0 dmp.amoad.com.rs.adtdp.com
 0.0.0.0 dmp.mgid.com
 0.0.0.0 dmpr.adform.net
@@ -6985,6 +6994,7 @@
 0.0.0.0 dsp-wa2.mgid.com
 0.0.0.0 dsp.adotmob.com
 0.0.0.0 dsp.adriver.ru
+0.0.0.0 dsp.adviad.com
 0.0.0.0 dsp.appnext.com
 0.0.0.0 dsp.batmobi.net
 0.0.0.0 dsp.mgid.com
@@ -14950,6 +14960,7 @@
 0.0.0.0 repo.amobee.com
 0.0.0.0 report-partners.appmetrica.yandex.net
 0.0.0.0 report-uri.highwebmedia.com
+0.0.0.0 report.adviad.com
 0.0.0.0 report.crashlytics.com
 0.0.0.0 report.hb.brainlyads.com
 0.0.0.0 report.newsgenious.com
@@ -16370,6 +16381,7 @@
 0.0.0.0 ssp-fe-us-e2.content.ad
 0.0.0.0 ssp-px.content.ad
 0.0.0.0 ssp.adriver.ru
+0.0.0.0 ssp.adviad.com
 0.0.0.0 ssp.clickadu.com
 0.0.0.0 ssp.content.ad
 0.0.0.0 ssp.deployads.com
@@ -16847,6 +16859,7 @@
 0.0.0.0 sync.adhese.com
 0.0.0.0 sync.admixer.co.kr
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.adviad.com
 0.0.0.0 sync.fastclick.net
 0.0.0.0 sync.feed-xml.com
 0.0.0.0 sync.go.sonobi.com
