@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.02.035
 # Release: 035
-# Entries: 21,162
+# Entries: 21,166
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 04 Feb 21 05:45:08
+# Updated: Thu, 04 Feb 21 11:45:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5209,6 +5209,8 @@
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.atwola.com
+0.0.0.0 cdn.awsbj0.fds.api.mi-img.com
+0.0.0.0 cdn.awsbj0.fds.api.mi-img.com.mgslb.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.betrad.com
 0.0.0.0 cdn.bidgear.com
@@ -19496,6 +19498,8 @@
 0.0.0.0 wdqeh.bemobtrk.com
 0.0.0.0 wea.uc.cn
 0.0.0.0 web-analytics-collector.thescore.com
+0.0.0.0 web-analytics-us.huami.com
+0.0.0.0 web-analytics.us-west-2.elasticbeanstalk.com
 0.0.0.0 web-stat.com
 0.0.0.0 web.adblade.com
 0.0.0.0 web.adfox.ru
