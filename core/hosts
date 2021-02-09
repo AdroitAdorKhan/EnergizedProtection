@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.02.040
 # Release: 040
-# Entries: 21,170
+# Entries: 21,171
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 09 Feb 21 17:45:08
+# Updated: Tue, 09 Feb 21 23:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19311,6 +19311,7 @@
 0.0.0.0 vize-fcb.de
 0.0.0.0 vj.quanjingpay.com
 0.0.0.0 vjav0.ahcdn.com
+0.0.0.0 vkcache.com
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vkphotofqgmmu63j.onion.pet
 0.0.0.0 vkspcdn.batmobi.net
