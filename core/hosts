@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.02.057
 # Release: 057
-# Entries: 21,171
+# Entries: 21,187
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Feb 21 17:45:09
+# Updated: Fri, 26 Feb 21 23:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4098,6 +4098,7 @@
 0.0.0.0 b.zog.link
 0.0.0.0 b02byun5xc3s.com
 0.0.0.0 b13481647cf775c5.com
+0.0.0.0 b174.s240.meetrics.net
 0.0.0.0 b1opt.trafficmagnates.com
 0.0.0.0 b2rgt.trafficmagnates.com
 0.0.0.0 b3uih.trafficmagnates.com
@@ -4107,6 +4108,7 @@
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 b60228e270e363f6.com
 0.0.0.0 b8pfulzbyj7h.com
+0.0.0.0 b95.s79.research.de.com
 0.0.0.0 babykosy.com
 0.0.0.0 baccara-shop.com
 0.0.0.0 backbeatmedia.com
@@ -4475,6 +4477,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.o333o.com
 0.0.0.0 bid.pubmatic.com
+0.0.0.0 bid.sxp.smartclip.net
 0.0.0.0 bid33000nf.pubmatic.com
 0.0.0.0 bidclix.com
 0.0.0.0 bidder.criteo.com
@@ -6333,6 +6336,7 @@
 0.0.0.0 custom.admixer.co.kr
 0.0.0.0 custom.supersonicads.com
 0.0.0.0 custom2.supersonicads.com
+0.0.0.0 customers-lidl.kameleoon.com
 0.0.0.0 cutebaitsforum.cc
 0.0.0.0 cutecams.space
 0.0.0.0 cutedolls.top
@@ -7516,6 +7520,9 @@
 0.0.0.0 eu-pn3.adserver.yahoo.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
 0.0.0.0 eu-test.addthis.com
+0.0.0.0 eu-tlp01.kameleoon.eu
+0.0.0.0 eu-tlp02.kameleoon.eu
+0.0.0.0 eu-tlp05.kameleoon.eu
 0.0.0.0 eu-turbine.xaxis.com
 0.0.0.0 eu-west-1-d.adroll.com
 0.0.0.0 eu.digitaldsp.com
@@ -10950,6 +10957,7 @@
 0.0.0.0 logs.xtremeserve.xyz
 0.0.0.0 logs.zedo.com
 0.0.0.0 logs1183.xiti.com
+0.0.0.0 logs1413.xiti.com
 0.0.0.0 logs2.appsflyer.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logservice-hamburg.de
@@ -15006,6 +15014,7 @@
 0.0.0.0 resources.newrelic.com
 0.0.0.0 resources.rubiconproject.com
 0.0.0.0 resources.taboola.com
+0.0.0.0 responder.wt-safetag.com
 0.0.0.0 responses.df.telemetry.microsoft.com
 0.0.0.0 rest.content.ad
 0.0.0.0 rest.sharethis.com
@@ -15394,6 +15403,7 @@
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 s2.mopub.com
 0.0.0.0 s20dh7e9dh.com
+0.0.0.0 s240.mxcdn.net
 0.0.0.0 s2d6.com
 0.0.0.0 s2jo9g.edvfwlacluo.com
 0.0.0.0 s2ns2.advertising.com
@@ -15405,6 +15415,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.leadcontrol.net
 0.0.0.0 s3.phluant.com
+0.0.0.0 s385.mxcdn.net
 0.0.0.0 s3m.trafficmagnates.com
 0.0.0.0 s3ns3.advertising.com
 0.0.0.0 s3ns3.nexage.com
@@ -15415,6 +15426,7 @@
 0.0.0.0 s7-uat.addthis.com
 0.0.0.0 s7.adaces.ero-advertising.com
 0.0.0.0 s7.addthis.com
+0.0.0.0 s79.mxcdn.net
 0.0.0.0 s8.addthis.com
 0.0.0.0 s8ads.com
 0.0.0.0 s9.addthis.com
@@ -16686,6 +16698,7 @@
 0.0.0.0 stop.umengcloud.com
 0.0.0.0 stopify.co
 0.0.0.0 stopplastik.de
+0.0.0.0 storage.kameleoon.eu
 0.0.0.0 storage.outbrain.com
 0.0.0.0 storage1.admixer.net
 0.0.0.0 store.rayjump.com
@@ -20305,6 +20318,7 @@
 0.0.0.0 www.kuntovire.fi
 0.0.0.0 www.kw.ads.justpremium.com
 0.0.0.0 www.kzmleuhgqifvzy.com
+0.0.0.0 www.lacmp.net
 0.0.0.0 www.land-secure.com
 0.0.0.0 www.latinshortcodes.com
 0.0.0.0 www.layers.ero-advertising.com
@@ -21093,6 +21107,7 @@
 0.0.0.0 z2q1s7jvfw.s.ad6media.fr
 0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 z5x.net
+0.0.0.0 z9q9kj37oy.kameleoon.eu
 0.0.0.0 za.ads.justpremium.com
 0.0.0.0 zabbix.symanteprotection.com
 0.0.0.0 zabomo.de
@@ -21170,6 +21185,7 @@
 0.0.0.0 zina.flurry.com
 0.0.0.0 zinlar.pw
 0.0.0.0 zipfelbob.de
+0.0.0.0 zipservice.adalliance.io
 0.0.0.0 ziqdunppuzjd.com
 0.0.0.0 zismattighofen.at
 0.0.0.0 zitate-per-mail.de
