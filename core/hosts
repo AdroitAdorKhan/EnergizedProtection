@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.069
 # Release: 069
-# Entries: 21,188
+# Entries: 21,190
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 10 Mar 21 05:45:09
+# Updated: Wed, 10 Mar 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3500,6 +3500,7 @@
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.analytics.nexonm.com
 0.0.0.0 api.analytics.omgpop.com
+0.0.0.0 api.appboy.eu
 0.0.0.0 api.appcelerator.com
 0.0.0.0 api.appcelerator.net
 0.0.0.0 api.appcloudbox.net
@@ -15613,6 +15614,7 @@
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adotmob.com
 0.0.0.0 sdk.adtiming.com
+0.0.0.0 sdk.api.appboy.eu
 0.0.0.0 sdk.appnext.com
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk.casalemedia.com
