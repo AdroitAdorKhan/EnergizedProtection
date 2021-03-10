@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.069
 # Release: 069
-# Entries: 21,190
+# Entries: 21,149
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 10 Mar 21 11:45:08
+# Updated: Wed, 10 Mar 21 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -918,7 +918,6 @@
 0.0.0.0 abercrombie.demdex.net
 0.0.0.0 abilil.com
 0.0.0.0 ablageshop.de
-0.0.0.0 abodealley.com
 0.0.0.0 aboutus.revcontent.com
 0.0.0.0 abramarketing.com
 0.0.0.0 abs.ireaderm.net
@@ -1155,7 +1154,6 @@
 0.0.0.0 ad.si.doubleclick.net
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.sitemaji.com
-0.0.0.0 ad.smartclip.net
 0.0.0.0 ad.sohu.com
 0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.tw.doubleclick.net
@@ -1298,7 +1296,6 @@
 0.0.0.0 adclickafrica.com
 0.0.0.0 adclickmedia.com
 0.0.0.0 adclickservice.com
-0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclix.org
 0.0.0.0 adcolony.com
 0.0.0.0 adcomplete.com
@@ -1609,7 +1606,6 @@
 0.0.0.0 adreadytractions.com
 0.0.0.0 adrecover.com
 0.0.0.0 adrem.hasmobi.net
-0.0.0.0 adres.internet.com
 0.0.0.0 adresellers.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adrise.de
@@ -1731,12 +1727,10 @@
 0.0.0.0 ads.as4x.tmcs.net
 0.0.0.0 ads.austria.info
 0.0.0.0 ads.austrianwings.info
-0.0.0.0 ads.avocarrot.com
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betweendigital.com
-0.0.0.0 ads.bidvertiser.com
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
@@ -1830,7 +1824,6 @@
 0.0.0.0 ads.ironicdesign.com
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jiwire.com
-0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.justpremium.com
@@ -1842,7 +1835,6 @@
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.krawall.de
 0.0.0.0 ads.linkedin.com
-0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.livepromotools.com
 0.0.0.0 ads.logsoku.com
@@ -1963,7 +1955,6 @@
 0.0.0.0 ads.xhamster.com
 0.0.0.0 ads.xwire.io
 0.0.0.0 ads.xxxad.net
-0.0.0.0 ads.y-0.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yieldmo.com
@@ -1995,7 +1986,6 @@
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.dyn.perfectaudience.com
 0.0.0.0 ads2.eqads.com
-0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.rne.com
@@ -2087,7 +2077,6 @@
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.goforandroid.com
 0.0.0.0 adserver.gorillanation.com
-0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.juicyads.com
@@ -2109,7 +2098,6 @@
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.uminer.com
 0.0.0.0 adserver.unityads.unity3d.com
-0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
@@ -2470,7 +2458,6 @@
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gearbest.com
 0.0.0.0 affiliate.media.net
-0.0.0.0 affiliate.viator.com
 0.0.0.0 affiliateedge.com
 0.0.0.0 affiliateer.com
 0.0.0.0 affiliatefuture.com
@@ -2569,7 +2556,6 @@
 0.0.0.0 airydress.com
 0.0.0.0 airygal.com
 0.0.0.0 aistat.net
-0.0.0.0 aiwhebey.com
 0.0.0.0 aj2025.online
 0.0.0.0 ajansreklam.net
 0.0.0.0 ajdivotdelbloab24.jio.co
@@ -2907,7 +2893,6 @@
 0.0.0.0 analytics.dugun.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.easyjet.com
-0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.eclick.vn
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.ecvv.com
@@ -3035,7 +3020,6 @@
 0.0.0.0 analytics.lucidpress.com
 0.0.0.0 analytics.luckypool.io
 0.0.0.0 analytics.m2.ai
-0.0.0.0 analytics.ma.tune.com
 0.0.0.0 analytics.magelan.it
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.mailmunch.co
@@ -3188,7 +3172,6 @@
 0.0.0.0 analytics.services.distractify.com
 0.0.0.0 analytics.services.kirra.nl
 0.0.0.0 analytics.servogram.io
-0.0.0.0 analytics.sevenval-fit.com
 0.0.0.0 analytics.sgnapps.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.shareasale.com
@@ -3406,7 +3389,6 @@
 0.0.0.0 antivirusguard.r.xoxknct.com
 0.0.0.0 antivirusguard.s.xoxknct.com
 0.0.0.0 antpool.com
-0.0.0.0 anturnetss.bid
 0.0.0.0 anusercookie.infolinks.com
 0.0.0.0 anwalt-wendelmuth.de
 0.0.0.0 anya-mandylor.de
@@ -4213,7 +4195,6 @@
 0.0.0.0 banners.friendfinder.com
 0.0.0.0 banners.getiton.com
 0.0.0.0 banners.iq.pl
-0.0.0.0 banners.itunes.apple.com
 0.0.0.0 banners.passion.com
 0.0.0.0 banners.payserve.com
 0.0.0.0 banners.popads.net
@@ -4231,7 +4212,6 @@
 0.0.0.0 bannerspace.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannevs.ero-advertising.com
-0.0.0.0 banniere.reussissonsensemble.fr
 0.0.0.0 bans.bride.ru
 0.0.0.0 baolis.myshopify.com
 0.0.0.0 bapi.adsafeprotected.com
@@ -4298,7 +4278,6 @@
 0.0.0.0 bdapi-id-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdc9uy.edvfwlacluo.com
-0.0.0.0 bdfrm.bidvertiser.com
 0.0.0.0 bdrcr.nexage.com
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 bdwafx.com
@@ -5416,7 +5395,6 @@
 0.0.0.0 cedcdoqkrjabs.com
 0.0.0.0 ceehimur.uk
 0.0.0.0 cef5b491241aa0f3.com
-0.0.0.0 cel.infolinks.com
 0.0.0.0 celebmasta.com
 0.0.0.0 cell-power-laser.de
 0.0.0.0 celltick.com
@@ -5870,7 +5848,6 @@
 0.0.0.0 coinworker.com
 0.0.0.0 coinzilla.io
 0.0.0.0 cold-cold-freezing.com
-0.0.0.0 collect.adback.co
 0.0.0.0 collect.installeranalytics.com
 0.0.0.0 collect.mfilterit.net
 0.0.0.0 collect.mopinion.com
@@ -7622,7 +7599,6 @@
 0.0.0.0 exmarketplace.com
 0.0.0.0 exmuo.com
 0.0.0.0 exoclick.com
-0.0.0.0 exogripper.com
 0.0.0.0 exoticads.com
 0.0.0.0 expanse.tech
 0.0.0.0 expert-demmelmayr.at
@@ -7851,7 +7827,6 @@
 0.0.0.0 fimpromote.club
 0.0.0.0 fimserve.com
 0.0.0.0 finalgaming.co
-0.0.0.0 financyregistse.info
 0.0.0.0 find-best-datings.com
 0.0.0.0 find-my-great-life.com
 0.0.0.0 find-soulmates.com
@@ -8378,7 +8353,6 @@
 0.0.0.0 gerhard-beuter.de
 0.0.0.0 germanolec.de
 0.0.0.0 germany-gamer.de
-0.0.0.0 gersairg.net
 0.0.0.0 gerstner-frisuren.de
 0.0.0.0 geruestbau-zeilinger.de
 0.0.0.0 gesangverein-spittelstein.de
@@ -8501,7 +8475,6 @@
 0.0.0.0 globeprod.amobee.com
 0.0.0.0 globus-inter.com
 0.0.0.0 globwo.online
-0.0.0.0 glothouw.link
 0.0.0.0 glowdot.com
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 glthub.net
@@ -8771,7 +8744,6 @@
 0.0.0.0 halogennetwork.com
 0.0.0.0 hamrolyrics.com
 0.0.0.0 hamwhatsappcom.imageshack.host
-0.0.0.0 hanaprop.com
 0.0.0.0 handarbeiten-allerlei.de
 0.0.0.0 handicap.central-messages.com
 0.0.0.0 handy-captain.com
@@ -9081,7 +9053,6 @@
 0.0.0.0 hoisingtonshop.com
 0.0.0.0 hokabranddiscount.club
 0.0.0.0 holacasita.com
-0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollister-stuttgart.gaysingleparty.de
 0.0.0.0 hollylight.store
 0.0.0.0 hollymoda.com
@@ -10152,7 +10123,6 @@
 0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 js.mobileoffers-al-download.com
 0.0.0.0 js.mobileoffers-bn-download.com
-0.0.0.0 js.mobileoffers-cb-download.com
 0.0.0.0 js.pmcontent.com
 0.0.0.0 js.qwerty24.net
 0.0.0.0 js.ru.redtram.com
@@ -12091,7 +12061,6 @@
 0.0.0.0 mugpothop.com
 0.0.0.0 muhsmr.de
 0.0.0.0 muller-geschaft.com
-0.0.0.0 multationprop.club
 0.0.0.0 multi-kuntze.de
 0.0.0.0 multiadserv.com
 0.0.0.0 multimeyer.de
@@ -13370,7 +13339,6 @@
 0.0.0.0 paten-fuer-fluechtlinge.de
 0.0.0.0 paternosterkrog.se
 0.0.0.0 patithatspartal.pro
-0.0.0.0 paupepsu.click
 0.0.0.0 pay-click.ru
 0.0.0.0 paycenter.uc.cn
 0.0.0.0 paydate.me
@@ -14401,7 +14369,6 @@
 0.0.0.0 psma02.com
 0.0.0.0 psnkrefrfh.com
 0.0.0.0 pso.ws.ev1.inmobi.com
-0.0.0.0 psoapeez.click
 0.0.0.0 psoaptou.net
 0.0.0.0 psonstrentie.info
 0.0.0.0 psozyhotho.pro
@@ -14960,7 +14927,6 @@
 0.0.0.0 renderer.apester.com
 0.0.0.0 rensovetors.info
 0.0.0.0 reople.co.kr
-0.0.0.0 reotherebyfery.club
 0.0.0.0 repaningharbut.club
 0.0.0.0 repapi-us.web.analytics.yahoo.com
 0.0.0.0 repelisgocom.cdaz.icu
@@ -15094,7 +15060,6 @@
 0.0.0.0 riontorspersed.info
 0.0.0.0 riowrite.com
 0.0.0.0 ris-gateway.supersonicads.com
-0.0.0.0 ritzysponge.com
 0.0.0.0 rivertraffic.com
 0.0.0.0 rixaka.com
 0.0.0.0 rjmwqf.com
@@ -15700,7 +15665,6 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securestatic.es
 0.0.0.0 securev4vcapi.adcolony.com
-0.0.0.0 sedatorsinted.info
 0.0.0.0 sedotracker.com
 0.0.0.0 seedr.cdnvideo.ru
 0.0.0.0 seemascakes.com
@@ -16694,7 +16658,6 @@
 0.0.0.0 stipendienkritik.de
 0.0.0.0 stockerau1602.at
 0.0.0.0 stoffshop.eu
-0.0.0.0 stompebi.link
 0.0.0.0 stonecalcom.com
 0.0.0.0 stootoat.com
 0.0.0.0 stop.highbutterfy.xyz
@@ -17146,7 +17109,6 @@
 0.0.0.0 tempinfo.96.lt
 0.0.0.0 tendaisy.com
 0.0.0.0 tenmax.io
-0.0.0.0 tensitionschoo.club
 0.0.0.0 teosredic.com
 0.0.0.0 teracreative.com
 0.0.0.0 tergun.com
@@ -17426,7 +17388,6 @@
 0.0.0.0 totalcleaner2018.r.xoxknct.com
 0.0.0.0 totalcleaner2018.s.xoxknct.com
 0.0.0.0 totalphotostudio.s.xoxknct.com
-0.0.0.0 totdorancaltert.club
 0.0.0.0 totemcash.com
 0.0.0.0 totogetica.com
 0.0.0.0 touchads.com
@@ -18804,7 +18765,6 @@
 0.0.0.0 umcdn.uc.cn
 0.0.0.0 umcdn.ucweb.com
 0.0.0.0 umdsmartgrowth.org
-0.0.0.0 umebiggestern.club
 0.0.0.0 umengcloud.com
 0.0.0.0 umpackpc.ucweb.com
 0.0.0.0 umshopp.com
@@ -20276,7 +20236,6 @@
 0.0.0.0 www.impawards.com
 0.0.0.0 www.infolinks.com
 0.0.0.0 www.inmobi.com
-0.0.0.0 www.insnw.net
 0.0.0.0 www.inspiroads.com
 0.0.0.0 www.intelligenceadx.com
 0.0.0.0 www.intellipopup.com
