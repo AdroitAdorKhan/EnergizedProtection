@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.03.073
-# Release: 073
-# Entries: 21,153
+# Version: 21.03.074
+# Release: 074
+# Entries: 21,147
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 14 Mar 21 23:45:07
+# Updated: Mon, 15 Mar 21 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1874,7 +1874,6 @@
 0.0.0.0 ads.psd2html.com
 0.0.0.0 ads.publick.apa.net
 0.0.0.0 ads.pubmatic.com
-0.0.0.0 ads.pushplay.com
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
@@ -1913,9 +1912,7 @@
 0.0.0.0 ads.textra.me
 0.0.0.0 ads.thehiveworks.com
 0.0.0.0 ads.themoneytizer.com
-0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
-0.0.0.0 ads.thrillsaffiliates.com
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.toonpass.com
 0.0.0.0 ads.traffichunt.com
@@ -5736,7 +5733,6 @@
 0.0.0.0 clubdelmar.at
 0.0.0.0 clubmaritimodemarbella.com
 0.0.0.0 cluodlfare.com
-0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cm-s1.revcontent.com
 0.0.0.0 cm-us-central1.adsnative.com
@@ -6230,7 +6226,6 @@
 0.0.0.0 crt.sectigo.com
 0.0.0.0 crtbb.livejasmin.com
 0.0.0.0 crtinf.livejasmin.com
-0.0.0.0 crtv.mate1.com
 0.0.0.0 cruxpool.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryartarm.online
@@ -12386,7 +12381,6 @@
 0.0.0.0 newsunads.com
 0.0.0.0 newsupdatedir.info
 0.0.0.0 newsupdatewe.info
-0.0.0.0 newt1.adultworld.com
 0.0.0.0 newtag.perfectaudience.com
 0.0.0.0 newtontool.ca
 0.0.0.0 newwindpro.info
