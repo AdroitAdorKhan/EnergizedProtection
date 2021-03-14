@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.073
 # Release: 073
-# Entries: 21,149
+# Entries: 21,153
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 14 Mar 21 11:45:07
+# Updated: Sun, 14 Mar 21 17:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9409,6 +9409,7 @@
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.dfw1.inmobi.com
 0.0.0.0 imdb.amazon-adsystem.com
+0.0.0.0 imdns.hpplay.cn
 0.0.0.0 imeds.ero-advertising.com
 0.0.0.0 img-cdn-eu.pro
 0.0.0.0 img-cdn.wshareit.com
@@ -10937,6 +10938,7 @@
 0.0.0.0 logssug-sf.ucweb.com
 0.0.0.0 logssug.ucweb.com
 0.0.0.0 logtest.moatads.com
+0.0.0.0 logu.hpplay.cn
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
@@ -15148,6 +15150,7 @@
 0.0.0.0 roxyaffiliates.com
 0.0.0.0 rozfly.com
 0.0.0.0 rp-srw.net
+0.0.0.0 rp.hpplay.cn
 0.0.0.0 rp.liadm.com
 0.0.0.0 rp4.liadm.com
 0.0.0.0 rpc.adfox.ru
@@ -16339,6 +16342,7 @@
 0.0.0.0 ssandkedy.info
 0.0.0.0 ssb.smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
+0.0.0.0 ssdkauth.hpplay.cn
 0.0.0.0 ssh.kissmetrics.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 ssiapawz.com
