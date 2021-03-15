@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.074
 # Release: 074
-# Entries: 21,147
+# Entries: 21,140
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 15 Mar 21 17:45:08
+# Updated: Mon, 15 Mar 21 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2765,7 +2765,6 @@
 0.0.0.0 analytics.adsertor.co.uk
 0.0.0.0 analytics.adskeeper.co.uk
 0.0.0.0 analytics.adspaces.ero-advertising.com
-0.0.0.0 analytics.adsrvr.org
 0.0.0.0 analytics.adsymptotic.com
 0.0.0.0 analytics.advocate.ly.herokudns.com
 0.0.0.0 analytics.adways.com
@@ -7525,7 +7524,6 @@
 0.0.0.0 evcalifornia.com
 0.0.0.0 eve-tech.com
 0.0.0.0 evenghadrinhisbe.pro
-0.0.0.0 event.ksosoft.com
 0.0.0.0 event.scorecardresearch.com
 0.0.0.0 event.spotxchange.com
 0.0.0.0 eventifiederik.pro
@@ -14785,7 +14783,6 @@
 0.0.0.0 rc-room.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rclmc.top
-0.0.0.0 rcm-cn.amazon-adsystem.com
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
@@ -17594,7 +17591,6 @@
 0.0.0.0 track.clubfactory.com
 0.0.0.0 track.clubheshe.com
 0.0.0.0 track.clxtrack.com
-0.0.0.0 track.cmdelivery.pw
 0.0.0.0 track.cn.appave.mobi
 0.0.0.0 track.codepen.io
 0.0.0.0 track.collegeboard.com
@@ -17835,7 +17831,6 @@
 0.0.0.0 track.mlsend3.com
 0.0.0.0 track.mmsvc.io
 0.0.0.0 track.mob193.com
-0.0.0.0 track.mobi-haterz.com
 0.0.0.0 track.mobicast.io
 0.0.0.0 track.mobile-bt.com
 0.0.0.0 track.mobile-devices-only.com
@@ -19688,7 +19683,6 @@
 0.0.0.0 wmikrut.com
 0.0.0.0 wmirk.ru
 0.0.0.0 wmmediacorp.com
-0.0.0.0 wms-cn.amazon-adsystem.com
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-fe.amazon-adsystem.com
 0.0.0.0 wms-in.amazon-adsystem.com
@@ -19754,7 +19748,6 @@
 0.0.0.0 wronbouldrettons.pro
 0.0.0.0 wronresthatmedidn.pro
 0.0.0.0 wrontontordingcal.info
-0.0.0.0 ws-cn.amazon-adsystem.com
 0.0.0.0 ws-dev.addthis.com
 0.0.0.0 ws-ea.amazon-adsystem.com
 0.0.0.0 ws-eu.amazon-adsystem.com
