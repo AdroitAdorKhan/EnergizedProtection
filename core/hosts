@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.03.074
-# Release: 074
-# Entries: 21,140
+# Version: 21.03.075
+# Release: 075
+# Entries: 21,142
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 15 Mar 21 23:45:07
+# Updated: Tue, 16 Mar 21 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2090,7 +2090,6 @@
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 adserver.snapads.com
-0.0.0.0 adserver.spankaway.com
 0.0.0.0 adserver.tatts.com
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.uminer.com
@@ -4686,7 +4685,6 @@
 0.0.0.0 boom.bestforexplmdb.com
 0.0.0.0 boomads.com
 0.0.0.0 booshout.com
-0.0.0.0 boost-my-pr.de
 0.0.0.0 boost.media.net
 0.0.0.0 boostads.net
 0.0.0.0 boostclic.com
@@ -7654,6 +7652,7 @@
 0.0.0.0 fabrkrup.com
 0.0.0.0 fabulouspanda.com
 0.0.0.0 facebooktoday.cc
+0.0.0.0 facilitategovernor.com
 0.0.0.0 fadeaibgfihegegjadc.ru
 0.0.0.0 fadlily.com
 0.0.0.0 fadsanz.com
@@ -12088,6 +12087,7 @@
 0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 mve.btrll.com
 0.0.0.0 mver.agkn.com
+0.0.0.0 mvideo.facilitategovernor.com
 0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvtronics.com
 0.0.0.0 mw.uc.cn
@@ -12546,6 +12546,7 @@
 0.0.0.0 ns.mgid.com
 0.0.0.0 ns1.addthis.com
 0.0.0.0 ns1.audienceinsights.net
+0.0.0.0 ns1.facilitategovernor.com
 0.0.0.0 ns1.inmobi.com
 0.0.0.0 ns1.uc.cn
 0.0.0.0 ns1.ucweb.com
@@ -20141,6 +20142,7 @@
 0.0.0.0 www.ex.umengcloud.com
 0.0.0.0 www.exoclick.com
 0.0.0.0 www.expresvpn-private-analytics.net
+0.0.0.0 www.facilitategovernor.com
 0.0.0.0 www.fakehub.com
 0.0.0.0 www.fanners.ero-advertising.com
 0.0.0.0 www.fantasyescortblogs.com
