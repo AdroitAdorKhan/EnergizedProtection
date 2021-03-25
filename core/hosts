@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.084
 # Release: 084
-# Entries: 21,580
+# Entries: 21,586
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Mar 21 11:45:06
+# Updated: Thu, 25 Mar 21 17:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5435,6 +5435,7 @@
 0.0.0.0 cdnds.bidvertiser.com
 0.0.0.0 cdnes.trafficforce.com
 0.0.0.0 cdnfinder.xyz
+0.0.0.0 cdngarenanow-a.akamaihd.net
 0.0.0.0 cdnim.bidvertiser.com
 0.0.0.0 cdnis.bidvertiser.com
 0.0.0.0 cdnjs.tvpage.com
@@ -8257,6 +8258,7 @@
 0.0.0.0 frxinvestingxxx.club
 0.0.0.0 fs.moatads.com
 0.0.0.0 fst.securefastoffers.com
+0.0.0.0 fstream.binance.com
 0.0.0.0 fsv-steinitz.de
 0.0.0.0 fsvastx.moatads.com
 0.0.0.0 ftd.agency
@@ -10289,6 +10291,7 @@
 0.0.0.0 jp.at.atwola.com
 0.0.0.0 jp.go.zog.link
 0.0.0.0 jpsc.iasds01.com
+0.0.0.0 jpush.binance.im
 0.0.0.0 jquerystatistics.org
 0.0.0.0 jrs.a4.tl
 0.0.0.0 js-agent.newrelic.com
@@ -12469,6 +12472,7 @@
 0.0.0.0 nbrwer.eu
 0.0.0.0 nbryb.com
 0.0.0.0 nbstatic.com
+0.0.0.0 nbstream.binance.com
 0.0.0.0 nbylhvbswplcj.com
 0.0.0.0 ncedivisite.info
 0.0.0.0 ncefoundanges.info
@@ -15231,6 +15235,7 @@
 0.0.0.0 report-partners.appmetrica.yandex.net
 0.0.0.0 report-uri.highwebmedia.com
 0.0.0.0 report.adviad.com
+0.0.0.0 report.binance.gg
 0.0.0.0 report.binance.im
 0.0.0.0 report.crashlytics.com
 0.0.0.0 report.hb.brainlyads.com
@@ -16821,6 +16826,7 @@
 0.0.0.0 static-devex.adblade.com
 0.0.0.0 static-eb.media.net
 0.0.0.0 static-failover.go.sonobi.com
+0.0.0.0 static-file-1259603563.file.myqcloud.com
 0.0.0.0 static-infra-api.newrelic.com
 0.0.0.0 static-landers-ht.contentdef.com
 0.0.0.0 static-ru.plista.com
