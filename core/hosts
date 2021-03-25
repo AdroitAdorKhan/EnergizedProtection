@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.084
 # Release: 084
-# Entries: 21,586
+# Entries: 21,623
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Mar 21 17:45:09
+# Updated: Thu, 25 Mar 21 19:22:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -102,6 +102,7 @@
 0.0.0.0 10733505.collect.igodigital.com
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 10907971.collect.igodigital.com
+0.0.0.0 109114.synergyxpress.com
 0.0.0.0 10941969.collect.igodigital.com
 0.0.0.0 10959453.collect.igodigital.com
 0.0.0.0 10961711.collect.igodigital.com
@@ -119,6 +120,7 @@
 0.0.0.0 11bet.com
 0.0.0.0 11ofswt.edvfwlacluo.com
 0.0.0.0 12-suchen.de
+0.0.0.0 12.at.atwola.com
 0.0.0.0 12.nbryb.com
 0.0.0.0 123babyland.shop
 0.0.0.0 123buy.eu
@@ -183,6 +185,7 @@
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13xr7th.edvfwlacluo.com
 0.0.0.0 1414113.collect.igodigital.com
+0.0.0.0 149366112.v2.pressablecdn.com
 0.0.0.0 14nuzznszbdp.com
 0.0.0.0 15.nbryb.com
 0.0.0.0 15.stream.livejasmin.com
@@ -1260,6 +1263,7 @@
 0.0.0.0 adaction.se
 0.0.0.0 adacts.com
 0.0.0.0 adadvisor.net
+0.0.0.0 adakelly.freelife.com
 0.0.0.0 adaos-ads.net
 0.0.0.0 adap.tv
 0.0.0.0 adapi.flipboard.com
@@ -2013,6 +2017,7 @@
 0.0.0.0 ads24.tipps24-netzwerk.de
 0.0.0.0 ads24h.net
 0.0.0.0 ads2srv.com
+0.0.0.0 ads3.admatic.com.tr
 0.0.0.0 ads3.adviad.com
 0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.eqads.com
@@ -3844,7 +3849,6 @@
 0.0.0.0 as.amanad.adtdp.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.catsnbootsncats2020.com
-0.0.0.0 as.com
 0.0.0.0 as.sexad.net
 0.0.0.0 as.webmd.com
 0.0.0.0 as.y.atwola.com
@@ -4766,6 +4770,7 @@
 0.0.0.0 bpath.com
 0.0.0.0 bphousehold.com
 0.0.0.0 bptracking.com
+0.0.0.0 bqcgrwahvuapq.com
 0.0.0.0 br-ss.btrll.com
 0.0.0.0 br.ads.justpremium.com
 0.0.0.0 br.adserver.yahoo.com
@@ -4964,6 +4969,7 @@
 0.0.0.0 c.smartclick.net
 0.0.0.0 c.traffic-media.co.uk
 0.0.0.0 c.trfilter.info
+0.0.0.0 c.tvpixel.com
 0.0.0.0 c.union.ucweb.com
 0.0.0.0 c.vserv.mobi
 0.0.0.0 c.w.dfw2.vip.inmobi.com
@@ -4996,6 +5002,7 @@
 0.0.0.0 c3.taboola.com
 0.0.0.0 c36i1p.trafficmagnates.com
 0.0.0.0 c3rh.net
+0.0.0.0 c3t-system-err.club
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 c4dm.adcolony.com
 0.0.0.0 c4owk.controlapplink.com
@@ -5231,6 +5238,7 @@
 0.0.0.0 cdn.adgear.com
 0.0.0.0 cdn.adgrx.com
 0.0.0.0 cdn.adlook.me
+0.0.0.0 cdn.admatic.com.tr
 0.0.0.0 cdn.admitad-connect.com
 0.0.0.0 cdn.admixer.net
 0.0.0.0 cdn.adnxs.com
@@ -5262,6 +5270,7 @@
 0.0.0.0 cdn.bitmedianetwork.com
 0.0.0.0 cdn.bjsdxr.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.bss.wshareit.com
 0.0.0.0 cdn.buysellads.com
 0.0.0.0 cdn.c.smartclick.net
@@ -5675,6 +5684,7 @@
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 click.uodoo.com
 0.0.0.0 click2ckick.icu
+0.0.0.0 click2click.xyz
 0.0.0.0 click2me.club
 0.0.0.0 click4.truecaller.com
 0.0.0.0 click4free.info
@@ -5916,7 +5926,6 @@
 0.0.0.0 coinimp.net
 0.0.0.0 coinjive.com
 0.0.0.0 coinmedia.co
-0.0.0.0 coinmine.pl
 0.0.0.0 coinminingonline.com
 0.0.0.0 coinnebula.com
 0.0.0.0 coinone.co.kr
@@ -5990,6 +5999,7 @@
 0.0.0.0 collector-soompi.viki.io
 0.0.0.0 collector-undefined.perimeterx.net
 0.0.0.0 collector.bikroy.com
+0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.xhamster.com
@@ -6090,6 +6100,7 @@
 0.0.0.0 consolestar.de
 0.0.0.0 consorcraightyc.info
 0.0.0.0 constellationrightmix.com
+0.0.0.0 consultingeastrubber.com
 0.0.0.0 consumergenepool.com
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 contadd.com
@@ -6470,15 +6481,18 @@
 0.0.0.0 d1d5p7uxjr4j28.cloudfront.net
 0.0.0.0 d1dagyb1ctngx1.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
+0.0.0.0 d1r90st78epsag.cloudfront.net",
 0.0.0.0 d1rg2274px6zb.cloudfront.net
 0.0.0.0 d1tqp15egmc1qo.cloudfront.net
 0.0.0.0 d1wsidr7aabb18.cloudfront.net
+0.0.0.0 d1ybdlg8aoufn.cloudfront.net
 0.0.0.0 d20903hof2l33q.cloudfront.net
 0.0.0.0 d24ak3f2b.top
 0.0.0.0 d28n7yywqog3r7.cloudfront.net
 0.0.0.0 d29xw9s9x32j3w.cloudfront.net
 0.0.0.0 d2b4jmuffp1l21.cloudfront.net
 0.0.0.0 d2kadvyeq051an.cloudfront.net
+0.0.0.0 d2nb1f6l8b7ky0.cloudfront.net
 0.0.0.0 d2rb60829qiz9y.cloudfront.net
 0.0.0.0 d2x0118v5hofu3.cloudfront.net
 0.0.0.0 d2yz0oamomyxzv.cloudfront.net
@@ -6490,6 +6504,7 @@
 0.0.0.0 d3e5zkjv0mw5t1.cloudfront.net
 0.0.0.0 d3f4nuq5dskrej.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
+0.0.0.0 d3ithbwcmjcxl7.cloudfront.net
 0.0.0.0 d3lvir7538n0oi.cloudfront.net
 0.0.0.0 d3mzokty951c5w.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
@@ -7955,7 +7970,6 @@
 0.0.0.0 filter.adright.co
 0.0.0.0 filter.popmonetizer.com
 0.0.0.0 filter.xmlads.bid
-0.0.0.0 filters.adtidy.org
 0.0.0.0 fim.adnxs.com
 0.0.0.0 fimpromote.club
 0.0.0.0 fimserve.com
@@ -8657,6 +8671,7 @@
 0.0.0.0 go.ero-advertising.com
 0.0.0.0 go.eroadvertising.com
 0.0.0.0 go.heapanalytics.com
+0.0.0.0 go.ippsrvng.xyz
 0.0.0.0 go.julrdr.com
 0.0.0.0 go.kissmetrics.com
 0.0.0.0 go.megawinners.mobi
@@ -9397,6 +9412,7 @@
 0.0.0.0 i.w.dfw1.vip.inmobi.com
 0.0.0.0 i.w.eastus.avi.inmobi.com
 0.0.0.0 i.w.inmobi.com
+0.0.0.0 i.wmgtr.com
 0.0.0.0 i08qax.edvfwlacluo.com
 0.0.0.0 i1.bonus.express
 0.0.0.0 i1.dl-ad.com
@@ -9484,6 +9500,7 @@
 0.0.0.0 id24556.tk
 0.0.0.0 iddpop.com
 0.0.0.0 idealmedia.com
+0.0.0.0 ideliv.net
 0.0.0.0 idelv.net
 0.0.0.0 identads.com
 0.0.0.0 idm.rubiconproject.com
@@ -10526,9 +10543,11 @@
 0.0.0.0 kinderwagenoutlet.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kingbtc.co
+0.0.0.0 kingithinref.club
 0.0.0.0 kingtds.xyz
 0.0.0.0 kinley.com
 0.0.0.0 kinobox.cz
+0.0.0.0 kiolim.com
 0.0.0.0 kiosked.com
 0.0.0.0 kiplingbagshop.club
 0.0.0.0 kiplingstore.online
@@ -11056,6 +11075,7 @@
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log-manager.propellerads.com
+0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 log.adaptv.advertising.com
@@ -11641,6 +11661,7 @@
 0.0.0.0 mathtype.cn
 0.0.0.0 matiro.com
 0.0.0.0 matixo.me
+0.0.0.0 matomo.gofile.io
 0.0.0.0 matomo.hellohi.me
 0.0.0.0 matomo.tarnkappe.info
 0.0.0.0 matomy.com
@@ -12174,6 +12195,7 @@
 0.0.0.0 monika-dersch-art.de
 0.0.0.0 monika-scraplife.com
 0.0.0.0 monitor.clickcease.com
+0.0.0.0 monitor.jscssfunny.com
 0.0.0.0 monitor.outbrain.com
 0.0.0.0 monitor.purplepatch.online
 0.0.0.0 monitor.sddan.mgr.consensu.org
@@ -12219,6 +12241,7 @@
 0.0.0.0 mottnow.com
 0.0.0.0 mousk.es
 0.0.0.0 mouthaddled.top
+0.0.0.0 moutoofa.com
 0.0.0.0 movie32ws.imageshack.host
 0.0.0.0 movieads.ero-advertising.com
 0.0.0.0 moviestorrentxyz.imageshack.host
@@ -12310,6 +12333,7 @@
 0.0.0.0 musicnote.info
 0.0.0.0 musicosphere.com
 0.0.0.0 musicplayer.s.xoxknct.com
+0.0.0.0 mustardlearnfourteenth.com
 0.0.0.0 musticizeded.info
 0.0.0.0 muwmedia.com
 0.0.0.0 mv.outbrain.com
@@ -12492,6 +12516,7 @@
 0.0.0.0 neodatagroup.com
 0.0.0.0 neoebiz.co.kr
 0.0.0.0 neohash.com
+0.0.0.0 nep.advangelists.com
 0.0.0.0 nephef.com
 0.0.0.0 neptun-vm.mgid.com
 0.0.0.0 nerdorium.org
@@ -13146,6 +13171,7 @@
 0.0.0.0 originlog.media.net
 0.0.0.0 originus.pixel.newscgp.com
 0.0.0.0 orion.iad.appboy.com
+0.0.0.0 orkonavariet.biz
 0.0.0.0 orpheus-lyra.de
 0.0.0.0 orsc.iasds01.com
 0.0.0.0 ortando.de
@@ -13172,6 +13198,7 @@
 0.0.0.0 otrwaram.com
 0.0.0.0 ouhegapy.net
 0.0.0.0 ourkeyskylierou.info
+0.0.0.0 ournewsafte.biz
 0.0.0.0 ourtherss.top
 0.0.0.0 ouslayer.co
 0.0.0.0 out-there-media.com
@@ -13507,6 +13534,7 @@
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
+0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pages.adroll.com
 0.0.0.0 pages.amobee.com
 0.0.0.0 pages.flurry.com
@@ -15621,6 +15649,7 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.analytics.yahoo.com
+0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 s.ero-advertising.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.idio.co
@@ -16635,6 +16664,7 @@
 0.0.0.0 srv-eu-nl-7.buysellads.com
 0.0.0.0 srv-eu-nl-9.buysellads.com
 0.0.0.0 srv-sg-sgp-5.buysellads.com
+0.0.0.0 srv-store6.gofile.io
 0.0.0.0 srv-us-ca-10.buysellads.com
 0.0.0.0 srv-us-ca-13.buysellads.com
 0.0.0.0 srv-us-ca-14.buysellads.com
@@ -17316,6 +17346,7 @@
 0.0.0.0 tag.sp.advertising.com
 0.0.0.0 tagcontrolapi.evidon.com
 0.0.0.0 tagcontrolcollector.evidon.com
+0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 taggify.net
 0.0.0.0 tagging5-noneu.truecaller.com
@@ -19082,6 +19113,7 @@
 0.0.0.0 ucvrtwfh.com
 0.0.0.0 udash.umengcloud.com
 0.0.0.0 udc.yahoo.com
+0.0.0.0 udiwhryjqdsc.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
 0.0.0.0 udv.batmobi.net
@@ -20157,6 +20189,7 @@
 0.0.0.0 wps.zog.link
 0.0.0.0 wpu.sh
 0.0.0.0 wr.digitaldsp.com
+0.0.0.0 writerswhow.biz
 0.0.0.0 wronbouldrettons.pro
 0.0.0.0 wronresthatmedidn.pro
 0.0.0.0 wrontontordingcal.info
@@ -20457,6 +20490,7 @@
 0.0.0.0 www.blog.intext.ero-advertising.com
 0.0.0.0 www.blogads.com
 0.0.0.0 www.bodloft.com
+0.0.0.0 www.bqcgrwahvuapq.com
 0.0.0.0 www.bradeliade.com
 0.0.0.0 www.brainlyads.com
 0.0.0.0 www.bs.serving-sys.com
@@ -20529,6 +20563,7 @@
 0.0.0.0 www.diometa.com
 0.0.0.0 www.direct.yandex.com
 0.0.0.0 www.displayvertising.com
+0.0.0.0 www.dive-logs.com
 0.0.0.0 www.dobreprogramy.pro
 0.0.0.0 www.dogecoinfaucets.info
 0.0.0.0 www.domain.name
@@ -21015,6 +21050,7 @@
 0.0.0.0 www.uc.cn
 0.0.0.0 www.uc.ucdns.uc.cn
 0.0.0.0 www.ucweb.com
+0.0.0.0 www.udiwhryjqdsc.com
 0.0.0.0 www.uehkcendtuxt.com
 0.0.0.0 www.uesdpbrej.com
 0.0.0.0 www.ueuodgnrhb.com
@@ -21051,6 +21087,7 @@
 0.0.0.0 www.winwardcasino.ag
 0.0.0.0 www.wizardsbd.com
 0.0.0.0 www.wks.ero-advertising.com
+0.0.0.0 www.womentalkaboutsex.com
 0.0.0.0 www.wonderfulpremiumgoodgift.club
 0.0.0.0 www.worldwide-breakingnews.com
 0.0.0.0 www.wow.ero-advertising.com
