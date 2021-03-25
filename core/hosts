@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.084
 # Release: 084
-# Entries: 21,572
+# Entries: 21,580
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Mar 21 05:45:10
+# Updated: Thu, 25 Mar 21 11:45:06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6988,6 +6988,7 @@
 0.0.0.0 dolohen.com
 0.0.0.0 dolomiti-bikeguide.com
 0.0.0.0 dom-dev-analytics.bhg.tools
+0.0.0.0 domain-config-1259603563.file.myqcloud.com
 0.0.0.0 domain.name
 0.0.0.0 domainadvertising.com
 0.0.0.0 domainbuyingservices.com
@@ -8714,6 +8715,7 @@
 0.0.0.0 goodadvert.ru
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 goodsmost.com
+0.0.0.0 goodusahost.cn
 0.0.0.0 goodweek.de
 0.0.0.0 goog.applovin.com
 0.0.0.0 google-analytics.com
@@ -8918,6 +8920,7 @@
 0.0.0.0 haneyle.online
 0.0.0.0 hanhertigepar.pro
 0.0.0.0 hannaken.com
+0.0.0.0 hanqiweb.net
 0.0.0.0 hantinlethemsed.info
 0.0.0.0 hanyaiklan.com
 0.0.0.0 hao.360.cn
@@ -15228,6 +15231,7 @@
 0.0.0.0 report-partners.appmetrica.yandex.net
 0.0.0.0 report-uri.highwebmedia.com
 0.0.0.0 report.adviad.com
+0.0.0.0 report.binance.im
 0.0.0.0 report.crashlytics.com
 0.0.0.0 report.hb.brainlyads.com
 0.0.0.0 report.newsgenious.com
@@ -16234,6 +16238,7 @@
 0.0.0.0 shwapno.glasgro.com
 0.0.0.0 shyamacreations.com
 0.0.0.0 shyhuetub.site
+0.0.0.0 shyqxxy.com
 0.0.0.0 si1.go2yd.com
 0.0.0.0 si6ling.incestflix.com
 0.0.0.0 si6ling.taboosex.club
@@ -20601,6 +20606,7 @@
 0.0.0.0 www.go.ero-advertising.com
 0.0.0.0 www.golbola8.com
 0.0.0.0 www.goodblock.gladly.io
+0.0.0.0 www.goodusahost.cn
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
@@ -20614,6 +20620,7 @@
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.gunungemas.cc
 0.0.0.0 www.h12-media.com
+0.0.0.0 www.hanqiweb.net
 0.0.0.0 www.hata.ero-advertising.com
 0.0.0.0 www.healthcaremanagement.info
 0.0.0.0 www.heapanalytics.com
@@ -20910,6 +20917,7 @@
 0.0.0.0 www.sgtrackingap.com
 0.0.0.0 www.shopstylecollective.com
 0.0.0.0 www.shqbsdjatunl.com
+0.0.0.0 www.shyqxxy.com
 0.0.0.0 www.sin.ero-advertising.com
 0.0.0.0 www.skimlinks.com
 0.0.0.0 www.skimresources.com
