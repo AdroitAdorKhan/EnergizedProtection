@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.03.084
-# Release: 084
+# Version: 21.03.085
+# Release: 085
 # Entries: 21,625
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Mar 21 23:45:08
+# Updated: Fri, 26 Mar 21 05:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6002,6 +6002,7 @@
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.newrelic.com
+0.0.0.0 collector.unlockxh3.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector0.xhamster.com
@@ -9977,9 +9978,7 @@
 0.0.0.0 ip107182235.ahcdn.com
 0.0.0.0 ip107287681.ahcdn.com
 0.0.0.0 ip107307694.ahcdn.com
-0.0.0.0 ip107307705.ahcdn.com
 0.0.0.0 ip107313138.ahcdn.com
-0.0.0.0 ip107316446.ahcdn.com
 0.0.0.0 ip107316477.ahcdn.com
 0.0.0.0 ip107511228.ahcdn.com
 0.0.0.0 ip107681068.ahcdn.com
@@ -12044,7 +12043,6 @@
 0.0.0.0 mmherm.de
 0.0.0.0 mmissedecon.info
 0.0.0.0 mmo123.co
-0.0.0.0 mmoga.de
 0.0.0.0 mmotraffic.com
 0.0.0.0 mmp.inmobi.com
 0.0.0.0 mmpool.org
@@ -17435,6 +17433,7 @@
 0.0.0.0 tcm.optica.ero-advertising.com
 0.0.0.0 tcoor.xyz
 0.0.0.0 tcoot.xyz
+0.0.0.0 tct-teye.com
 0.0.0.0 td-click-haproxy.supersonicads.com
 0.0.0.0 td-click.sonic-us.supersonicads.com
 0.0.0.0 td-service.appcloudbox.net
@@ -21010,6 +21009,7 @@
 0.0.0.0 www.tapad.com
 0.0.0.0 www.tato365.com
 0.0.0.0 www.tcm.optica.ero-advertising.com
+0.0.0.0 www.tct-teye.com
 0.0.0.0 www.tercept.com
 0.0.0.0 www.theadgateway.com
 0.0.0.0 www.theannoyingsite.com
