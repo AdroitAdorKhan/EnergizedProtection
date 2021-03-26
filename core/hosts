@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.085
 # Release: 085
-# Entries: 21,703
+# Entries: 21,700
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Mar 21 17:45:08
+# Updated: Fri, 26 Mar 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5382,7 +5382,6 @@
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.spotxchange.com
 0.0.0.0 cdn.stickyadstv.com
-0.0.0.0 cdn.stripst.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tacoda.at.atwola.com
 0.0.0.0 cdn.tax
@@ -8830,7 +8829,6 @@
 0.0.0.0 graph.digiseller.ru
 0.0.0.0 graph.facebook.com.domain.name
 0.0.0.0 graph.instagram.com
-0.0.0.0 graph.qq.com
 0.0.0.0 graph4.truecaller.com
 0.0.0.0 gratisnetwork.com
 0.0.0.0 gratuit-shopping.glasgro.com
@@ -11612,7 +11610,6 @@
 0.0.0.0 mangold-immobilien.de
 0.0.0.0 manifest-server.naiadsystems.com
 0.0.0.0 manifest.localytics.com
-0.0.0.0 manifest.prod.boltdns.net
 0.0.0.0 manual-img.ads.noticel.com
 0.0.0.0 manzanista.com
 0.0.0.0 maochic.com
