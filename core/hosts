@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.03.089
 # Release: 089
-# Entries: 21,712
+# Entries: 21,717
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 30 Mar 21 05:45:08
+# Updated: Tue, 30 Mar 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1005,6 +1005,7 @@
 0.0.0.0 activity.cubetvgame.com
 0.0.0.0 activity.ldmnq.com
 0.0.0.0 activity.uc.cn
+0.0.0.0 activity.wps.com
 0.0.0.0 actpx.com
 0.0.0.0 actshydid.site
 0.0.0.0 actuallysheep.com
@@ -7196,6 +7197,7 @@
 0.0.0.0 dv36o6ux8o.s.ad6media.fr
 0.0.0.0 dvdsetstore.com
 0.0.0.0 dvoyy3qexr.com
+0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 dw7nrwnn2bkh1.cloudfront.net
 0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwarfpool.com
@@ -12289,6 +12291,7 @@
 0.0.0.0 movieads.ero-advertising.com
 0.0.0.0 moviestorrentxyz.imageshack.host
 0.0.0.0 moviesvalanet.imageshack.host
+0.0.0.0 movip.wps.com
 0.0.0.0 moyucubeshop.com
 0.0.0.0 mp.rlcdn.com
 0.0.0.0 mp.rubiconproject.com
@@ -16157,6 +16160,7 @@
 0.0.0.0 servers6.adriver.ru
 0.0.0.0 servers7.adriver.ru
 0.0.0.0 serveurpub.com
+0.0.0.0 service-mopdf.wps.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.newrelic.com
 0.0.0.0 service.rayjump.com
@@ -16328,6 +16332,7 @@
 0.0.0.0 shoxhome.com
 0.0.0.0 shrink-service.it
 0.0.0.0 shscrypto.net
+0.0.0.0 shuc-js.ksord.com
 0.0.0.0 shushoku-seiko.com
 0.0.0.0 shwapno.glasgro.com
 0.0.0.0 shyamacreations.com
