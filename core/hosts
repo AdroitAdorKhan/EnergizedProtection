@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.091
 # Release: 091
-# Entries: 21,892
+# Entries: 21,893
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 01 Apr 21 17:45:08
+# Updated: Thu, 01 Apr 21 23:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6552,7 +6552,7 @@
 0.0.0.0 d1d5p7uxjr4j28.cloudfront.net
 0.0.0.0 d1dagyb1ctngx1.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
-0.0.0.0 d1r90st78epsag.cloudfront.net",
+0.0.0.0 d1r90st78epsag.cloudfront.ne
 0.0.0.0 d1rg2274px6zb.cloudfront.net
 0.0.0.0 d1tqp15egmc1qo.cloudfront.net
 0.0.0.0 d1wsidr7aabb18.cloudfront.net
@@ -15575,6 +15575,7 @@
 0.0.0.0 rkrmpg.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
+0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rlog.popin.cc
 0.0.0.0 rm.adfalcon.com
