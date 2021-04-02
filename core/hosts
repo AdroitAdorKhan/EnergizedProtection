@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.092
 # Release: 092
-# Entries: 21,893
+# Entries: 21,892
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 02 Apr 21 05:45:09
+# Updated: Fri, 02 Apr 21 11:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15697,7 +15697,6 @@
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalchk.com
 0.0.0.0 rsmykgvarkm.com
-0.0.0.0 rss.buysellads.com
 0.0.0.0 rstmir.com
 0.0.0.0 rt-usa.applovin.com
 0.0.0.0 rt.analytics.anvato.net
