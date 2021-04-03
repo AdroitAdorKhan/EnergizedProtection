@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.093
 # Release: 093
-# Entries: 21,892
+# Entries: 21,921
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 03 Apr 21 05:45:09
+# Updated: Sat, 03 Apr 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4714,6 +4714,7 @@
 0.0.0.0 blogtopsites.com
 0.0.0.0 blox.es
 0.0.0.0 blrvpn.inmobi.com
+0.0.0.0 bls.adalliance.io
 0.0.0.0 blue-js.github.io
 0.0.0.0 bluecava.com
 0.0.0.0 bluedot231.bid
@@ -7729,7 +7730,10 @@
 0.0.0.0 eu-test.addthis.com
 0.0.0.0 eu-tlp01.kameleoon.eu
 0.0.0.0 eu-tlp02.kameleoon.eu
+0.0.0.0 eu-tlp04.kameleoon.eu
 0.0.0.0 eu-tlp05.kameleoon.eu
+0.0.0.0 eu-tlp06.kameleoon.eu
+0.0.0.0 eu-tlp07.kameleoon.eu
 0.0.0.0 eu-turbine.xaxis.com
 0.0.0.0 eu-west-1-d.adroll.com
 0.0.0.0 eu.digitaldsp.com
@@ -10916,7 +10920,24 @@
 0.0.0.0 lb.skimresources.com
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 lb.yieldlab.net
+0.0.0.0 lb13.s400.meetrics.net
+0.0.0.0 lb30.s400.meetrics.net
 0.0.0.0 lb4.a-ads.com
+0.0.0.0 lb49.s400.meetrics.net
+0.0.0.0 lb5.s400.meetrics.net
+0.0.0.0 lb50.s400.meetrics.net
+0.0.0.0 lb62.s400.meetrics.net
+0.0.0.0 lb7.s400.meetrics.net
+0.0.0.0 lb70.s400.meetrics.net
+0.0.0.0 lb73.s400.meetrics.net
+0.0.0.0 lb74.s400.meetrics.net
+0.0.0.0 lb76.s400.meetrics.net
+0.0.0.0 lb78.s400.meetrics.net
+0.0.0.0 lb79.s400.meetrics.net
+0.0.0.0 lb86.s400.meetrics.net
+0.0.0.0 lb9.s400.meetrics.net
+0.0.0.0 lb90.s400.meetrics.net
+0.0.0.0 lb96.s400.meetrics.net
 0.0.0.0 lbcfwonline.com
 0.0.0.0 lbn.ru
 0.0.0.0 lbs.ucnews.ucweb.com
@@ -11159,6 +11180,7 @@
 0.0.0.0 llpstream.atdmt.com
 0.0.0.0 lm970.bemobtrk.com
 0.0.0.0 lmjxrhph.com
+0.0.0.0 lmyd3iz3qn.kameleoon.eu
 0.0.0.0 load.batmobi.net
 0.0.0.0 loader.adrelayer.com
 0.0.0.0 loader.topadvert.ru
@@ -11288,6 +11310,7 @@
 0.0.0.0 logs.zedo.com
 0.0.0.0 logs1.smithsonian.museum
 0.0.0.0 logs1183.xiti.com
+0.0.0.0 logs1407.xiti.com
 0.0.0.0 logs1413.xiti.com
 0.0.0.0 logs2.appsflyer.com
 0.0.0.0 logserver.insight.ucweb.com
@@ -13413,6 +13436,7 @@
 0.0.0.0 p.static.ads-twitter.com
 0.0.0.0 p.teads.tv
 0.0.0.0 p.trafficfabrik.com
+0.0.0.0 p.vtracy.de
 0.0.0.0 p.wowtrk.com
 0.0.0.0 p.yieldlab.net
 0.0.0.0 p.zetadeo.com
@@ -13817,6 +13841,7 @@
 0.0.0.0 pdservices.dev.sjp.appcelerator.com
 0.0.0.0 pdservices.prod.sjp.appcelerator.com
 0.0.0.0 pdupdate.organiccrap.com
+0.0.0.0 pdw-usr.userreport.com
 0.0.0.0 pdx-1-apex.go.sonobi.com
 0.0.0.0 pdx-1-sync.go.sonobi.com
 0.0.0.0 pdx-1-xcp.go.sonobi.com
@@ -15913,6 +15938,7 @@
 0.0.0.0 s3ns3.advertising.com
 0.0.0.0 s3ns3.nexage.com
 0.0.0.0 s3t3d2y7.ackcdn.net
+0.0.0.0 s400.mxcdn.net
 0.0.0.0 s4ngr3.edvfwlacluo.com
 0.0.0.0 s4ns4.advertising.com
 0.0.0.0 s4ns4.nexage.com
@@ -17089,6 +17115,7 @@
 0.0.0.0 static.downloadmobile.pro
 0.0.0.0 static.e93-apps.com
 0.0.0.0 static.eclick.vn
+0.0.0.0 static.emsservice.de
 0.0.0.0 static.estebull.com
 0.0.0.0 static.exdynsrv.com
 0.0.0.0 static.flashx.pw
@@ -17654,6 +17681,7 @@
 0.0.0.0 tdsjsext3.com
 0.0.0.0 tdslp.ru
 0.0.0.0 tdsshark.club
+0.0.0.0 te.technical-service.net
 0.0.0.0 teacoffe.net
 0.0.0.0 teads.tv
 0.0.0.0 team-gamma.de
@@ -19042,6 +19070,7 @@
 0.0.0.0 traffic.ad4game.com
 0.0.0.0 traffic.adlook.me
 0.0.0.0 traffic.broker.to
+0.0.0.0 traffic.emsservice.de
 0.0.0.0 traffic.moportals.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 traffic.tc-clicks.com
