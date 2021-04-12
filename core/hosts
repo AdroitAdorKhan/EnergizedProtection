@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.102
 # Release: 102
-# Entries: 22,033
+# Entries: 22,035
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 12 Apr 21 11:45:08
+# Updated: Mon, 12 Apr 21 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6820,6 +6820,7 @@
 0.0.0.0 deepintent.com
 0.0.0.0 deepmetrix.com
 0.0.0.0 default.ads.justpremium.com
+0.0.0.0 default.exp-tas.com
 0.0.0.0 dein-baushop.com
 0.0.0.0 dein-croozer.online
 0.0.0.0 deine-haushaltsfreunde.de
@@ -16346,6 +16347,7 @@
 0.0.0.0 sensenetworks.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 sensors.binance.cloud
+0.0.0.0 sentry.deepl.com
 0.0.0.0 sentry.mopub.com
 0.0.0.0 sep.tapad.com
 0.0.0.0 seprun.com
