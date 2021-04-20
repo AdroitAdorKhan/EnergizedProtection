@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.110
 # Release: 110
-# Entries: 22,101
+# Entries: 22,104
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 20 Apr 21 17:45:13
+# Updated: Tue, 20 Apr 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14910,6 +14910,7 @@
 0.0.0.0 professor-jakubasch.de
 0.0.0.0 proficientcity.akamaized.net
 0.0.0.0 profile-eu.exe.bid
+0.0.0.0 profile.line-scdn.net
 0.0.0.0 profile.localytics.com
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 profiles.tagger.opecloud.com
@@ -18155,6 +18156,7 @@
 0.0.0.0 topwwnews.com
 0.0.0.0 toresonetalet.pro
 0.0.0.0 torgatedga35slsu.onion.pet
+0.0.0.0 torimochi.line-apps.com
 0.0.0.0 tormeno.com
 0.0.0.0 toro-tags.com
 0.0.0.0 toroadvertising.com
@@ -19781,6 +19783,7 @@
 0.0.0.0 utp-peco-img.uc.cn
 0.0.0.0 utp.ucweb.com
 0.0.0.0 uts-api.at.atwola.com
+0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uucovers.com
 0.0.0.0 uug-berlin.de
 0.0.0.0 uupool.cn
