@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.111
 # Release: 111
-# Entries: 22,104
+# Entries: 22,103
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 21 Apr 21 05:45:08
+# Updated: Wed, 21 Apr 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1934,7 +1934,6 @@
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.realmemobile.com
 0.0.0.0 ads.realsrv.com
-0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.renren.com
 0.0.0.0 ads.rss-services.com
 0.0.0.0 ads.rubiconproject.com
