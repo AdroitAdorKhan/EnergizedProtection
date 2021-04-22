@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.112
 # Release: 112
-# Entries: 22,103
+# Entries: 22,118
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 22 Apr 21 11:45:08
+# Updated: Thu, 22 Apr 21 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -54,6 +54,7 @@
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 02.gw.flurry.com
 0.0.0.0 0202.com.tw
+0.0.0.0 08lb75.com
 0.0.0.0 0byv9mgbn0.com
 0.0.0.0 0latfee.ero-advertising.com
 0.0.0.0 0le8u.bemobtrk.com
@@ -571,6 +572,7 @@
 0.0.0.0 4ourkidsky.com
 0.0.0.0 4rt6auqet2rx.com
 0.0.0.0 4schmuck.com
+0.0.0.0 4vjxn5.com
 0.0.0.0 4wlgm.bemobtrk.com
 0.0.0.0 4wnet.com
 0.0.0.0 5-jahre-weltwaerts.de
@@ -933,6 +935,7 @@
 0.0.0.0 abc9.feed-xml.com
 0.0.0.0 abcdserver.com
 0.0.0.0 abd.media.net
+0.0.0.0 abdadv.com
 0.0.0.0 abdurantom.com
 0.0.0.0 abdynlng.startappservice.com
 0.0.0.0 abdynsrt.startappservice.com
@@ -1142,6 +1145,7 @@
 0.0.0.0 ad.ir.ru
 0.0.0.0 ad.ish.atdmt.com
 0.0.0.0 ad.it.doubleclick.net
+0.0.0.0 ad.iteldrive.com
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
@@ -5113,7 +5117,9 @@
 0.0.0.0 cachecdn.moegoo.com
 0.0.0.0 cached.liveshows.contentabc.com
 0.0.0.0 cacheorcheck.mopinion.com
+0.0.0.0 cad.iteldrive.com
 0.0.0.0 cadatabank.adtdp.com
+0.0.0.0 cadback.iteldrive.com
 0.0.0.0 cadsabz.com
 0.0.0.0 cadsips.com
 0.0.0.0 cadskis.com
@@ -5155,6 +5161,7 @@
 0.0.0.0 camsoda.com
 0.0.0.0 canadagoosepromos-ch.com
 0.0.0.0 canadajacet.club
+0.0.0.0 canalytics.iteldrive.com
 0.0.0.0 canary-us.ads.justpremium.com
 0.0.0.0 canary.flurry.com
 0.0.0.0 canary.opinion.inmobi.com
@@ -5913,6 +5920,7 @@
 0.0.0.0 clksite.com
 0.0.0.0 clktag.com
 0.0.0.0 clkuk.tradedoubler.com
+0.0.0.0 clog.iteldrive.com
 0.0.0.0 cloggsschuhe.de
 0.0.0.0 clona.ru
 0.0.0.0 clooinfor.cf
@@ -7946,6 +7954,7 @@
 0.0.0.0 eztvtoday.imageshack.host
 0.0.0.0 eztvtorrentnet.imageshack.host
 0.0.0.0 ezula.com
+0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 f.gm.mob.com
 0.0.0.0 f.mobclix.com
 0.0.0.0 f.shopee.sg
@@ -9068,6 +9077,7 @@
 0.0.0.0 gwlog.vmate.in
 0.0.0.0 gx101.com
 0.0.0.0 gxjsnjcwd.myshopify.com
+0.0.0.0 gy79lb.com
 0.0.0.0 gynax.com
 0.0.0.0 gz.adriver.ru
 0.0.0.0 gz06x5tqlj.com
@@ -9606,6 +9616,7 @@
 0.0.0.0 i1media.no
 0.0.0.0 i2.cnt.my
 0.0.0.0 i3j3u3u9.ssl.hwcdn.net
+0.0.0.0 i45x0w.com
 0.0.0.0 i4rsrcj6.top
 0.0.0.0 i6.liadm.com
 0.0.0.0 i62e2b4mfy.com
@@ -10888,6 +10899,7 @@
 0.0.0.0 l.tcdn.fun
 0.0.0.0 l.wowtrk.com
 0.0.0.0 l.xvideos.by
+0.0.0.0 l0fwny.com
 0.0.0.0 l2ksixujfcg5.com
 0.0.0.0 l3-assets.applovin.com
 0.0.0.0 l3-img.applovin.com
@@ -11335,6 +11347,7 @@
 0.0.0.0 log.hm.baidu.com
 0.0.0.0 log.indiamart.com
 0.0.0.0 log.internetat.tv
+0.0.0.0 log.iteldrive.com
 0.0.0.0 log.mangaina.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.musical.ly
@@ -16677,6 +16690,7 @@
 0.0.0.0 sinder8.com
 0.0.0.0 sinder9.com
 0.0.0.0 sinestreet.com
+0.0.0.0 sinfoon.com
 0.0.0.0 singlyhouts.info
 0.0.0.0 singtelprod.amobee.com
 0.0.0.0 sinoa.com
@@ -20565,6 +20579,7 @@
 0.0.0.0 woazowup.net
 0.0.0.0 wobeckoat.com
 0.0.0.0 wodaoly.com
+0.0.0.0 wodnwa.com
 0.0.0.0 wogaa.demdex.net
 0.0.0.0 wokfirsax.com
 0.0.0.0 wolaile.online
