@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.114
 # Release: 114
-# Entries: 22,118
+# Entries: 22,123
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 24 Apr 21 11:45:08
+# Updated: Sat, 24 Apr 21 17:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8943,6 +8943,7 @@
 0.0.0.0 govaj.com
 0.0.0.0 goverallyhandl.club
 0.0.0.0 gowithmedia-inv-eus.admixer.net
+0.0.0.0 gozendata.com
 0.0.0.0 gp.trcked.me
 0.0.0.0 gpbaru.net
 0.0.0.0 gpjph.com
@@ -9079,8 +9080,10 @@
 0.0.0.0 gxjsnjcwd.myshopify.com
 0.0.0.0 gy79lb.com
 0.0.0.0 gynax.com
+0.0.0.0 gz-data.com
 0.0.0.0 gz.adriver.ru
 0.0.0.0 gz06x5tqlj.com
+0.0.0.0 gzads.com
 0.0.0.0 h-h-design.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 h.df-srv.de
@@ -16458,6 +16461,7 @@
 0.0.0.0 servers7.adriver.ru
 0.0.0.0 serveurpub.com
 0.0.0.0 service-mopdf.wps.com
+0.0.0.0 service.gz-data.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.newrelic.com
 0.0.0.0 service.rayjump.com
@@ -19665,6 +19669,7 @@
 0.0.0.0 updatehd.livejasmin.com
 0.0.0.0 updatemanagir.us
 0.0.0.0 updatesecure.pro
+0.0.0.0 upgrade.gz-data.com
 0.0.0.0 upgradefunnel.goat.manycomponents.com
 0.0.0.0 upgulpinon.com
 0.0.0.0 upiserversys1212.com
