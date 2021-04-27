@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.117
 # Release: 117
-# Entries: 22,123
+# Entries: 22,124
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 27 Apr 21 17:45:07
+# Updated: Tue, 27 Apr 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5874,7 +5874,6 @@
 0.0.0.0 clicktime.club
 0.0.0.0 clicktrace.info
 0.0.0.0 clicktrack.pubmatic.com
-0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 clicktracks.com
 0.0.0.0 clicktrade.com
 0.0.0.0 clickupto.com
@@ -16109,6 +16108,7 @@
 0.0.0.0 sadskis.com
 0.0.0.0 saemaeul.mireene.com
 0.0.0.0 safe.ucweb.com
+0.0.0.0 safebrowsing.g.aaplimg.com
 0.0.0.0 safelistextreme.com
 0.0.0.0 safeurl.maxthon.cn
 0.0.0.0 sageanalyst.net
@@ -18112,6 +18112,7 @@
 0.0.0.0 toglooman.com
 0.0.0.0 toitonia.com
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 token.safebrowsing.apple
 0.0.0.0 tokenads.com
 0.0.0.0 tokopedia.link
 0.0.0.0 tolivo.de
