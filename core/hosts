@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.04.120
 # Release: 120
-# Entries: 22,124
+# Entries: 22,128
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 30 Apr 21 05:45:08
+# Updated: Fri, 30 Apr 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4735,6 +4735,7 @@
 0.0.0.0 blog.admixer.net
 0.0.0.0 blog.adsnative.com
 0.0.0.0 blog.applovin.com
+0.0.0.0 blog.eduelects.com
 0.0.0.0 blog.flurry.com
 0.0.0.0 blog.mgid.com
 0.0.0.0 blog.mobclix.com
@@ -5417,6 +5418,7 @@
 0.0.0.0 cdn.lustseek.com
 0.0.0.0 cdn.mediagrumft.com
 0.0.0.0 cdn.mgid.com
+0.0.0.0 cdn.mirror-codes.net
 0.0.0.0 cdn.mm.atwola.com
 0.0.0.0 cdn.moengage.com
 0.0.0.0 cdn.movies-flix.club
@@ -12874,6 +12876,7 @@
 0.0.0.0 news.newonnetflix.info
 0.0.0.0 news.pushinfoforme.com
 0.0.0.0 news.smi2.ru
+0.0.0.0 news.thaprior.net
 0.0.0.0 news.uc.cn
 0.0.0.0 news12.livejasmin.com
 0.0.0.0 news2day.me
@@ -17389,6 +17392,7 @@
 0.0.0.0 status.mgid.com
 0.0.0.0 status.mopub.com
 0.0.0.0 status.newrelic.com
+0.0.0.0 status.sublineover.net
 0.0.0.0 statxpress.com
 0.0.0.0 stawhoph.com
 0.0.0.0 stazumik.net
