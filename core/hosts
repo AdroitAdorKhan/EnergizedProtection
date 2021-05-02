@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.05.122
 # Release: 122
-# Entries: 22,128
+# Entries: 22,132
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 02 May 21 11:45:08
+# Updated: Sun, 02 May 21 17:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4057,6 +4057,7 @@
 0.0.0.0 aud-lhr.pubmatic.com
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 aud11000.pubmatic.com
+0.0.0.0 audacitydipping.com
 0.0.0.0 audience.contextads.live
 0.0.0.0 audience.tapad.com
 0.0.0.0 audience2media.com
@@ -6908,6 +6909,7 @@
 0.0.0.0 deportesrapanui.com
 0.0.0.0 der-radl-doc.de
 0.0.0.0 der-terrarist.de
+0.0.0.0 derangemathsreply.com
 0.0.0.0 dertierplanet.com
 0.0.0.0 derwentleeds.co.uk
 0.0.0.0 descz.ovh
@@ -7697,6 +7699,7 @@
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 entrexperit.pro
 0.0.0.0 environmentalist.com
+0.0.0.0 envyindebted.com
 0.0.0.0 enz-z.com
 0.0.0.0 eom-nv.com
 0.0.0.0 eondunpea.com
@@ -17664,6 +17667,7 @@
 0.0.0.0 sys-comp.shop
 0.0.0.0 sys.8ch.net
 0.0.0.0 sys_andriod20_designer.dynamic-dns.net
+0.0.0.0 system-update-new-2021.com
 0.0.0.0 system-update.5crhlbl2ecl7.top
 0.0.0.0 system0_update04driver_roots.dynamic-dns.net
 0.0.0.0 syxylyche.pro
