@@ -29,7 +29,7 @@
 # Entries: 22,133
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 12 May 21 17:45:09
+# Updated: Wed, 12 May 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1790,7 +1790,6 @@
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluelithium.com
-0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brave.com
 0.0.0.0 ads.brazzers.com
@@ -19704,6 +19703,7 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 urbanpopz.com
 0.0.0.0 urgency.allow.support
+0.0.0.0 urgente.eu
 0.0.0.0 urhair.co.uk
 0.0.0.0 urkoolwear.com
 0.0.0.0 url.ac
