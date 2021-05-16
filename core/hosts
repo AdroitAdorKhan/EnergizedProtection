@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.05.136
-# Release: 136
-# Entries: 22,133
+# Version: 21.05.137
+# Release: 137
+# Entries: 22,134
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 16 May 21 23:45:07
+# Updated: Mon, 17 May 21 05:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21133,6 +21133,7 @@
 0.0.0.0 www.gunungemas.cc
 0.0.0.0 www.h12-media.com
 0.0.0.0 www.hanqiweb.net
+0.0.0.0 www.hanqiweb.red
 0.0.0.0 www.hata.ero-advertising.com
 0.0.0.0 www.healthcaremanagement.info
 0.0.0.0 www.heapanalytics.com
