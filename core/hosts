@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.05.140
 # Release: 140
-# Entries: 22,134
+# Entries: 22,135
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 20 May 21 11:45:08
+# Updated: Thu, 20 May 21 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15611,6 +15611,7 @@
 0.0.0.0 replicachinabag.top
 0.0.0.0 replicauhrenonlineshop.de
 0.0.0.0 repo.amobee.com
+0.0.0.0 report-edge.agora.io
 0.0.0.0 report-partners.appmetrica.yandex.net
 0.0.0.0 report-uri.highwebmedia.com
 0.0.0.0 report.adviad.com
