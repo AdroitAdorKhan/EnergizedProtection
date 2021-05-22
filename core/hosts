@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.05.142
 # Release: 142
-# Entries: 22,135
+# Entries: 22,144
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 22 May 21 17:45:08
+# Updated: Sat, 22 May 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -504,6 +504,7 @@
 0.0.0.0 3668785.notifysrv.com
 0.0.0.0 3668787.notifysrv.com
 0.0.0.0 3670119.notifysrv.com
+0.0.0.0 36c4.net
 0.0.0.0 37.nbryb.com
 0.0.0.0 381b56a86b7.com
 0.0.0.0 39.nbryb.com
@@ -2793,6 +2794,7 @@
 0.0.0.0 ampm.outbrain.com
 0.0.0.0 ampmetrics.engadget.com
 0.0.0.0 amprtc.media.net
+0.0.0.0 amptrack.dailymail.co.uk
 0.0.0.0 ampxchange.com
 0.0.0.0 ams-1-apex.go.sonobi.com
 0.0.0.0 ams-1-sync.go.sonobi.com
@@ -10164,6 +10166,7 @@
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 invitemedia.com
 0.0.0.0 inviziads.com
+0.0.0.0 invol.co
 0.0.0.0 inwemo.com
 0.0.0.0 io-test.rayjump.com
 0.0.0.0 ioads.ero-advertising.com
@@ -11298,6 +11301,7 @@
 0.0.0.0 lobmoprob.com
 0.0.0.0 lobtraining.de
 0.0.0.0 localadbuy.com
+0.0.0.0 localbestdating1.com
 0.0.0.0 localdates4.com
 0.0.0.0 localedgemedia.com
 0.0.0.0 localmantra.com
@@ -11798,6 +11802,7 @@
 0.0.0.0 mail1.adform.net
 0.0.0.0 mail4.inmobi.com
 0.0.0.0 mailer.livejasmin.com
+0.0.0.0 mailmetromedia.amp.permutive.com
 0.0.0.0 main.atdmt.com
 0.0.0.0 main.dynsrvazg.com
 0.0.0.0 main.dynsrvcab.com
@@ -17617,6 +17622,7 @@
 0.0.0.0 swordfishdc.com
 0.0.0.0 sxedqvvaxxj.com
 0.0.0.0 syhganutwnp.com
+0.0.0.0 sylviagreen.club
 0.0.0.0 sylwenys.pw
 0.0.0.0 symbol-upload.flurry.com
 0.0.0.0 symbolon-kartenberatung-wimmer.de
@@ -20083,6 +20089,8 @@
 0.0.0.0 videopreview.sp.uae.uc.cn
 0.0.0.0 videoroll.net
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
+0.0.0.0 videos-cloudflare.jwpsrv.com
+0.0.0.0 videos-fms.jwpsrv.com
 0.0.0.0 videos.fyi
 0.0.0.0 videos.livejasmin.co.com
 0.0.0.0 videos2021.com
@@ -21866,6 +21874,7 @@
 0.0.0.0 xuossk3tu6hb.com
 0.0.0.0 xvideos.by
 0.0.0.0 xvika.com
+0.0.0.0 xvtelink.com
 0.0.0.0 xxex.umengcloud.com
 0.0.0.0 xxl-handel.de
 0.0.0.0 xxx2019.pro
