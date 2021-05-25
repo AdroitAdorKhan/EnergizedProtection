@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.05.145
 # Release: 145
-# Entries: 22,144
+# Entries: 22,143
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 25 May 21 17:45:08
+# Updated: Tue, 25 May 21 23:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8098,7 +8098,6 @@
 0.0.0.0 ferienhaus-wiesenblick.at
 0.0.0.0 fernseher.store
 0.0.0.0 fernseher24.store
-0.0.0.0 fesrsxtmkjgms.com
 0.0.0.0 fessmegilscha.info
 0.0.0.0 fethungi.com
 0.0.0.0 feuerwehr-ohlenberg.de
