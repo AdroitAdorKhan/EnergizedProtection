@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.05.146
 # Release: 146
-# Entries: 22,143
+# Entries: 22,142
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 26 May 21 17:45:08
+# Updated: Wed, 26 May 21 23:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1911,7 +1911,6 @@
 0.0.0.0 ads.mybanktracker.com
 0.0.0.0 ads.nc.cname.inmobi.com
 0.0.0.0 ads.netflix.com
-0.0.0.0 ads.newgrounds.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
