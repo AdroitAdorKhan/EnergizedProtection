@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.06.152
 # Release: 152
-# Entries: 22,304
+# Entries: 22,303
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 01 Jun 21 05:45:07
+# Updated: Tue, 01 Jun 21 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1663,7 +1663,6 @@
 0.0.0.0 adrive.com
 0.0.0.0 adriver.ru
 0.0.0.0 adroitpmps.com
-0.0.0.0 adrolays.de
 0.0.0.0 adroll.com
 0.0.0.0 adrotate.de
 0.0.0.0 adrotator.se
