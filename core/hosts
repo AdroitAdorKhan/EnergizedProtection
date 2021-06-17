@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.06.168
-# Release: 168
-# Entries: 22,310
+# Version: 21.06.169
+# Release: 169
+# Entries: 22,318
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 17 Jun 21 23:45:09
+# Updated: Fri, 18 Jun 21 05:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1558,6 +1558,7 @@
 0.0.0.0 admized.com
 0.0.0.0 admngronline.com
 0.0.0.0 admob.com
+0.0.0.0 admobclick.com
 0.0.0.0 admobile.com
 0.0.0.0 admtpmp123.com
 0.0.0.0 admulti.com
@@ -2745,6 +2746,8 @@
 0.0.0.0 alpint.adgear.com
 0.0.0.0 alrioneteruld.info
 0.0.0.0 alt.indigital.lt
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 altavista.ovh
 0.0.0.0 alte-wirtsstube.de
 0.0.0.0 alternativeadverts.com
@@ -5808,6 +5811,7 @@
 0.0.0.0 click.fool.com
 0.0.0.0 click.goingtothead.com
 0.0.0.0 click.google-analytics.com
+0.0.0.0 click.googleanalytics.com
 0.0.0.0 click.green-red.com
 0.0.0.0 click.infocenter.support
 0.0.0.0 click.junmediadirect.com
@@ -14256,6 +14260,7 @@
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.adbuyer.com
+0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.adsparc.net
 0.0.0.0 pixel.adssafeprotected.com
@@ -16291,6 +16296,7 @@
 0.0.0.0 samvinva.info
 0.0.0.0 sandbox.admixer.net
 0.0.0.0 sandbox.duapps.com
+0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 sandbox.livejasmin.com
 0.0.0.0 sandbox.outbrain.com
 0.0.0.0 sandrachen.de
@@ -17240,6 +17246,7 @@
 0.0.0.0 ssl.adriver.ru
 0.0.0.0 ssl.cloud.gsdk.qq.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 ssl.supersonicads.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl2.stsoftindia.com
@@ -20968,6 +20975,7 @@
 0.0.0.0 www.admaym.com
 0.0.0.0 www.admixer.co.kr
 0.0.0.0 www.admixer.net
+0.0.0.0 www.admobclick.com
 0.0.0.0 www.adnxs.com
 0.0.0.0 www.adotmob.com
 0.0.0.0 www.adpushup.com
