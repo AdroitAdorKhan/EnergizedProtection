@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.06.168
 # Release: 168
-# Entries: 22,303
+# Entries: 22,310
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 17 Jun 21 05:45:09
+# Updated: Thu, 17 Jun 21 11:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3996,6 +3996,7 @@
 0.0.0.0 assets.tapad.com
 0.0.0.0 assets.trafficfabrik.com
 0.0.0.0 assets.vlicdn2.com
+0.0.0.0 assets.vlitag.com
 0.0.0.0 assets1.adroll.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assets2.insnw.net
@@ -5057,6 +5058,7 @@
 0.0.0.0 c.deployads.com
 0.0.0.0 c.evidon.com
 0.0.0.0 c.go-mpulse.net
+0.0.0.0 c.hrzn-nxt.com
 0.0.0.0 c.liadm.com
 0.0.0.0 c.luxup.ru
 0.0.0.0 c.medialytics.com
@@ -8888,6 +8890,7 @@
 0.0.0.0 glthub.net
 0.0.0.0 gm.demdex.net
 0.0.0.0 gmads.net
+0.0.0.0 gmial.com
 0.0.0.0 gmodules.com
 0.0.0.0 gnomicfun.com
 0.0.0.0 go-mpulse.net
@@ -16136,6 +16139,7 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.analytics.yahoo.com
+0.0.0.0 s.clcktrax.com
 0.0.0.0 s.console.adtarget.com.tr
 0.0.0.0 s.ero-advertising.com
 0.0.0.0 s.go-mpulse.net
@@ -17455,6 +17459,7 @@
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 static.trafficjunky.net
 0.0.0.0 static.tubeadvertising.eu
+0.0.0.0 static.vliplatform.com
 0.0.0.0 static.webclicks24.com
 0.0.0.0 static.wellhello.com
 0.0.0.0 static.whatshelp.io
@@ -17887,6 +17892,7 @@
 0.0.0.0 tag.medialytics.com
 0.0.0.0 tag.perfectaudience.com
 0.0.0.0 tag.sp.advertising.com
+0.0.0.0 tag.vlitag.com
 0.0.0.0 tagcontrolapi.evidon.com
 0.0.0.0 tagcontrolcollector.evidon.com
 0.0.0.0 tagger.ope.scmp.com
@@ -21269,6 +21275,7 @@
 0.0.0.0 www.get-express-vpn.online
 0.0.0.0 www.girlsvideosonline.info
 0.0.0.0 www.glcdn.co
+0.0.0.0 www.gmial.com
 0.0.0.0 www.gmodules.com
 0.0.0.0 www.go.ero-advertising.com
 0.0.0.0 www.golbola8.com
