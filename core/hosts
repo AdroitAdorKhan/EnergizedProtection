@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.06.178
 # Release: 178
-# Entries: 22,318
+# Entries: 22,319
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 27 Jun 21 17:45:08
+# Updated: Sun, 27 Jun 21 23:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6875,6 +6875,7 @@
 0.0.0.0 deaconrandomoptional.com
 0.0.0.0 deadpool.ops.ir1.inmobi.com
 0.0.0.0 deai.spankbang.com
+0.0.0.0 dealabs.digidip.net
 0.0.0.0 dealmas-es.com
 0.0.0.0 deals.deployads.com
 0.0.0.0 dealshopper.de
