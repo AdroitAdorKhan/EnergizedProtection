@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.06.178
 # Release: 178
-# Entries: 22,319
+# Entries: 22,318
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 27 Jun 21 05:45:08
+# Updated: Sun, 27 Jun 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20588,7 +20588,6 @@
 0.0.0.0 websitecompany.org
 0.0.0.0 websnewsdate.com
 0.0.0.0 websponsors.com
-0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.delti.com
 0.0.0.0 webstat.net
