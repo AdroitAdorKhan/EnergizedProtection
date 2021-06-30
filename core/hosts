@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.06.181
-# Release: 181
-# Entries: 22,321
+# Version: 21.07.182
+# Release: 182
+# Entries: 22,347
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 30 Jun 21 23:45:08
+# Updated: Thu, 01 Jul 21 05:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10076,6 +10076,8 @@
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 infolinks.com
 0.0.0.0 infopicked.com
+0.0.0.0 information-security.zzux.com
+0.0.0.0 information-update.dynamic-dns.net
 0.0.0.0 information.com
 0.0.0.0 informeresapp.com
 0.0.0.0 infotexaspokercc.com
@@ -16494,6 +16496,9 @@
 0.0.0.0 secure-joinentry.com
 0.0.0.0 secure-joiner.com
 0.0.0.0 secure-msntest.serving-sys.com
+0.0.0.0 secure-verify-account.ddns.info
+0.0.0.0 secure-verify-info.ddns.info
+0.0.0.0 secure-verify-update.ddns.info
 0.0.0.0 secure.ace-tag.advertising.com
 0.0.0.0 secure.ace.advertising.com
 0.0.0.0 secure.addthis.com
@@ -16521,6 +16526,10 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securestatic.es
 0.0.0.0 securev4vcapi.adcolony.com
+0.0.0.0 security-info.zyns.com
+0.0.0.0 security-update.ddns.info
+0.0.0.0 security-update.ocry.com
+0.0.0.0 security-update.qhigh.com
 0.0.0.0 sedotracker.com
 0.0.0.0 seedr.cdnvideo.ru
 0.0.0.0 seektravelingdiffident.com
@@ -16646,6 +16655,7 @@
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
+0.0.0.0 seure-update.fartit.com
 0.0.0.0 sevenads.net
 0.0.0.0 sevendaystart.com
 0.0.0.0 sewhethelesee.info
@@ -19827,6 +19837,9 @@
 0.0.0.0 uparpu.com
 0.0.0.0 upccz.demdex.net
 0.0.0.0 upcum.com
+0.0.0.0 update-information.zzux.com
+0.0.0.0 update-security.ddns.info
+0.0.0.0 update-security.qhigh.com
 0.0.0.0 update-your-pc.info
 0.0.0.0 update.central-messages.com
 0.0.0.0 update.fortinetantivirus.com
@@ -21335,6 +21348,8 @@
 0.0.0.0 www.imhizxejm.com
 0.0.0.0 www.impawards.com
 0.0.0.0 www.infolinks.com
+0.0.0.0 www.information-security.zzux.com
+0.0.0.0 www.information-update.dynamic-dns.net
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.inspiroads.com
 0.0.0.0 www.intelligenceadx.com
@@ -21612,9 +21627,17 @@
 0.0.0.0 www.scrapdigest.com
 0.0.0.0 www.se.cj.com
 0.0.0.0 www.sebpmnltgd.com
+0.0.0.0 www.secure-verify-account.ddns.info
+0.0.0.0 www.secure-verify-info.ddns.info
+0.0.0.0 www.secure-verify-update.ddns.info
 0.0.0.0 www.secure-vtrk.com
 0.0.0.0 www.secure.adnxs.com
+0.0.0.0 www.security-info.zyns.com
+0.0.0.0 www.security-update.ddns.info
+0.0.0.0 www.security-update.ocry.com
+0.0.0.0 www.security-update.qhigh.com
 0.0.0.0 www.servsave.com
+0.0.0.0 www.seure-update.fartit.com
 0.0.0.0 www.sewladilike.com
 0.0.0.0 www.sex-and-flirt.com
 0.0.0.0 www.sg-coupons-57.com
@@ -21728,6 +21751,9 @@
 0.0.0.0 www.ukgkugxpzqvqk.com
 0.0.0.0 www.umbs.ero-advertising.com
 0.0.0.0 www.umengcloud.com
+0.0.0.0 www.update-information.zzux.com
+0.0.0.0 www.update-security.ddns.info
+0.0.0.0 www.update-security.qhigh.com
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.uqelijcu.com
 0.0.0.0 www.urlsec.qq.com
