@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.185
 # Release: 185
-# Entries: 22,330
+# Entries: 22,324
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 04 Jul 21 17:45:08
+# Updated: Sun, 04 Jul 21 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14226,7 +14226,6 @@
 0.0.0.0 piunikaweb.com
 0.0.0.0 pivht-supplements.com
 0.0.0.0 pivotrunner.com
-0.0.0.0 piwik.adspaces.ero-advertising.com
 0.0.0.0 piwik.ero-advertising.com
 0.0.0.0 piwik.everzones.com
 0.0.0.0 piwik.opendesktop.org
@@ -15996,7 +15995,6 @@
 0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
-0.0.0.0 rt.lax1.appnexus.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb-ca1.tapad.com
 0.0.0.0 rtb-csync-eqx.smartadserver.com
@@ -17493,7 +17491,6 @@
 0.0.0.0 statok.net
 0.0.0.0 statpipe.ru
 0.0.0.0 statres.quickapp.cn
-0.0.0.0 stats.adspaces.ero-advertising.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.arabnews.com
 0.0.0.0 stats.bilsyndication.com
@@ -18777,7 +18774,6 @@
 0.0.0.0 track.mandy-mitchell.com
 0.0.0.0 track.manhunter.com
 0.0.0.0 track.mariam-micol.com
-0.0.0.0 track.marinsm.com
 0.0.0.0 track.marketingontarget.net
 0.0.0.0 track.marketsvc.net
 0.0.0.0 track.maxatin.pl
@@ -22231,7 +22227,6 @@
 0.0.0.0 z.analytics.yahoo.com
 0.0.0.0 z.applovin.com
 0.0.0.0 z.cdn.ftd.agency
-0.0.0.0 z.exoclick.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z0000g.yvmads.com
@@ -22314,7 +22309,6 @@
 0.0.0.0 zillalike.com
 0.0.0.0 zillestrasse107.de
 0.0.0.0 zim-zim-zam.com
-0.0.0.0 zimbra.corp.appnexus.com
 0.0.0.0 zimogo.de
 0.0.0.0 zina.flurry.com
 0.0.0.0 zinlar.pw
