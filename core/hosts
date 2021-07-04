@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.185
 # Release: 185
-# Entries: 22,349
+# Entries: 22,336
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 04 Jul 21 05:45:08
+# Updated: Sun, 04 Jul 21 11:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1210,7 +1210,6 @@
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad.zfm.at
-0.0.0.0 ad0.adspaces.ero-advertising.com
 0.0.0.0 ad0.api.ero-advertising.com
 0.0.0.0 ad0.banners.ero-advertising.com
 0.0.0.0 ad0.bigmir.net
@@ -2863,7 +2862,6 @@
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.adsertor.co.uk
 0.0.0.0 analytics.adskeeper.co.uk
-0.0.0.0 analytics.adspaces.ero-advertising.com
 0.0.0.0 analytics.adsparc.net
 0.0.0.0 analytics.adsymptotic.com
 0.0.0.0 analytics.advocate.ly.herokudns.com
@@ -2948,7 +2946,6 @@
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cliqz.com
 0.0.0.0 analytics.closealert.com
-0.0.0.0 analytics.cloud.online.net
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cmg.net
@@ -3519,7 +3516,6 @@
 0.0.0.0 aolon.at.atwola.com
 0.0.0.0 aopxnvrugx.com
 0.0.0.0 aoredi.com
-0.0.0.0 aos.wall.youmi.net
 0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-gb.mgid.com
 0.0.0.0 ap-ms.net
@@ -4337,7 +4333,6 @@
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.analytics.organicfruitapps.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.bigmobileads.com
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.cj.com
 0.0.0.0 banners.clubseventeen.com
@@ -4612,7 +4607,6 @@
 0.0.0.0 bicycleshopsonline.com
 0.0.0.0 bid.ace.advertising.com
 0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 bid.o333o.com
 0.0.0.0 bid.pubmatic.com
 0.0.0.0 bid.sxp.smartclip.net
 0.0.0.0 bid33000nf.pubmatic.com
@@ -5516,7 +5510,6 @@
 0.0.0.0 cdn.uc.atwola.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.user-api.com
-0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.vdosupreme.com
 0.0.0.0 cdn.viadata.store
 0.0.0.0 cdn.viglink.com
@@ -7052,7 +7045,6 @@
 0.0.0.0 diaetologin-romstorfer.at
 0.0.0.0 diag-verwaltung.de
 0.0.0.0 diag.atdmt.com
-0.0.0.0 dialerporn.com
 0.0.0.0 dialgold.com
 0.0.0.0 dialyearse.info
 0.0.0.0 diamond-dealz.com
@@ -7113,7 +7105,6 @@
 0.0.0.0 discountshoesshop.club
 0.0.0.0 discountstoresl.club
 0.0.0.0 discounttraveltip.com
-0.0.0.0 discover.appnext.com
 0.0.0.0 discover.buysellads.com
 0.0.0.0 discover.outbrain.com
 0.0.0.0 discovery.outbrain.com
@@ -8919,7 +8910,6 @@
 0.0.0.0 go.ezodn.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 go.heapanalytics.com
-0.0.0.0 go.ippsrvng.xyz
 0.0.0.0 go.julrdr.com
 0.0.0.0 go.kissmetrics.com
 0.0.0.0 go.megawinners.mobi
@@ -10303,7 +10293,6 @@
 0.0.0.0 ip173083919.ahcdn.com
 0.0.0.0 ip173084541.ahcdn.com
 0.0.0.0 ip173084547.ahcdn.com
-0.0.0.0 ip173084557.ahcdn.com
 0.0.0.0 ip173084587.ahcdn.com
 0.0.0.0 ip173084589.ahcdn.com
 0.0.0.0 ip173084591.ahcdn.com
@@ -10355,10 +10344,8 @@
 0.0.0.0 ip28942591.ahcdn.com
 0.0.0.0 ip28987170.ahcdn.com
 0.0.0.0 ip29377078.ahcdn.com
-0.0.0.0 ip32475903.ahcdn.com
 0.0.0.0 ip46462540.ahcdn.com
 0.0.0.0 ip50610632.ahcdn.com
-0.0.0.0 ip51448347.ahcdn.com
 0.0.0.0 ip59439177.ahcdn.com
 0.0.0.0 ip59439325.ahcdn.com
 0.0.0.0 ip72057795.ahcdn.com
