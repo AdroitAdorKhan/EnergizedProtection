@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.185
 # Release: 185
-# Entries: 22,336
+# Entries: 22,330
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 04 Jul 21 11:45:08
+# Updated: Sun, 04 Jul 21 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7740,7 +7740,6 @@
 0.0.0.0 enrichment.moportals.com
 0.0.0.0 enstylish.com
 0.0.0.0 ensuredismalwizard.com
-0.0.0.0 enter.media.net
 0.0.0.0 enterads.com
 0.0.0.0 entercasino.com
 0.0.0.0 enterpriseenrollment.rubiconproject.com
@@ -11467,7 +11466,6 @@
 0.0.0.0 logger.pw
 0.0.0.0 logger.suibyuming.com
 0.0.0.0 logger.unsplash.com
-0.0.0.0 logger.wpu.sh
 0.0.0.0 logger.yp.ca
 0.0.0.0 logger.zcoup.com
 0.0.0.0 logging.ar.atwola.com
@@ -11873,7 +11871,6 @@
 0.0.0.0 mailer.livejasmin.com
 0.0.0.0 mailmetromedia.amp.permutive.com
 0.0.0.0 main.atdmt.com
-0.0.0.0 main.dynsrvazg.com
 0.0.0.0 main.dynsrvcab.com
 0.0.0.0 main.dynsrvdea.com
 0.0.0.0 main.exdynsrv.com
@@ -12844,7 +12841,6 @@
 0.0.0.0 navoria.de
 0.0.0.0 navrcholu.cz
 0.0.0.0 navvy.media.net
-0.0.0.0 navvyncal.media.net
 0.0.0.0 nazar.adsnative.com
 0.0.0.0 nbajerseysales.pro
 0.0.0.0 nbastreamio.imageshack.host
@@ -15454,7 +15450,6 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.myvisualiq.net
 0.0.0.0 r.randomnew.com
-0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.routemob.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.soarsvr.com
@@ -16170,7 +16165,6 @@
 0.0.0.0 s.update.mopub.com
 0.0.0.0 s.update.openx.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
-0.0.0.0 s.vdo.ai
 0.0.0.0 s.wshareit.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 s.zdbb.net
