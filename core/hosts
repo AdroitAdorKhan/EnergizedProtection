@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.186
 # Release: 186
-# Entries: 22,322
+# Entries: 22,321
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 05 Jul 21 17:45:07
+# Updated: Mon, 05 Jul 21 23:45:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12439,7 +12439,6 @@
 0.0.0.0 mobile.adnxs.com
 0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobile.analytics.yahoo.com
-0.0.0.0 mobile.banzai.it
 0.0.0.0 mobile.btrll.com
 0.0.0.0 mobile.eyes-market.com
 0.0.0.0 mobile.fastclick.net
