@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.188
 # Release: 188
-# Entries: 22,321
+# Entries: 22,319
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 07 Jul 21 11:45:08
+# Updated: Wed, 07 Jul 21 17:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3761,7 +3761,6 @@
 0.0.0.0 app.perfectaudience.com
 0.0.0.0 app.superpush.io
 0.0.0.0 app.uc.cn
-0.0.0.0 app.unity.amobee.com
 0.0.0.0 app0.a-ads.com
 0.0.0.0 app01.adfalcon.com
 0.0.0.0 app01.nodes.gslb.mi-idc.com
@@ -3886,7 +3885,6 @@
 0.0.0.0 archsmarter.usesfathom.com
 0.0.0.0 arcteryxoutlets.com
 0.0.0.0 are-services.de
-0.0.0.0 area51.unity.amobee.com
 0.0.0.0 areasnap.com
 0.0.0.0 areasonsimon.club
 0.0.0.0 arejoysew.com
