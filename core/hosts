@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.192
 # Release: 192
-# Entries: 22,313
+# Entries: 22,312
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 11 Jul 21 11:45:08
+# Updated: Sun, 11 Jul 21 17:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13310,7 +13310,6 @@
 0.0.0.0 offerimage.com
 0.0.0.0 offermatica.com
 0.0.0.0 offers-api.cliqz.com
-0.0.0.0 offers.appnext.com
 0.0.0.0 offers.brothersail.com
 0.0.0.0 offers.propellerads.com
 0.0.0.0 offers.qrushaffiliate.com
