@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.194
 # Release: 194
-# Entries: 22,311
+# Entries: 22,307
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 13 Jul 21 05:45:08
+# Updated: Tue, 13 Jul 21 11:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12299,7 +12299,6 @@
 0.0.0.0 minemonero.pro
 0.0.0.0 minemoney.co
 0.0.0.0 mineqrl.net
-0.0.0.0 miner.ad
 0.0.0.0 miner.center
 0.0.0.0 miner.nicehash.com
 0.0.0.0 miner.rocks
@@ -12321,7 +12320,6 @@
 0.0.0.0 minezone.io
 0.0.0.0 minicamerass.club
 0.0.0.0 minimumpay.info
-0.0.0.0 mining-pool.io
 0.0.0.0 mining4.co.uk
 0.0.0.0 miningexpress.com
 0.0.0.0 miningfield.com
@@ -12365,7 +12363,6 @@
 0.0.0.0 mktg.tvpage.com
 0.0.0.0 ml314.com
 0.0.0.0 ml6mgw.edvfwlacluo.com
-0.0.0.0 mlcros0ft.tk
 0.0.0.0 mlm.de
 0.0.0.0 mlv9.nbryb.com
 0.0.0.0 mlyqbqha.com
@@ -12513,7 +12510,6 @@
 0.0.0.0 monero-miner.com
 0.0.0.0 monero-miner.net
 0.0.0.0 monero.org
-0.0.0.0 monero.us.to
 0.0.0.0 monerohash.com
 0.0.0.0 monerominer.rocks
 0.0.0.0 monerominers.net
