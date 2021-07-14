@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.195
 # Release: 195
-# Entries: 22,306
+# Entries: 22,304
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 14 Jul 21 17:45:07
+# Updated: Wed, 14 Jul 21 23:45:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14796,9 +14796,7 @@
 0.0.0.0 pooldd.com
 0.0.0.0 poolhost.com
 0.0.0.0 poolmin.com
-0.0.0.0 poolmining.eu
 0.0.0.0 pools.e-scavo.net.ar
-0.0.0.0 poolto.be
 0.0.0.0 poolunbelievably.com
 0.0.0.0 pop.ero-advertising.com
 0.0.0.0 pop.eroadvertising.com
