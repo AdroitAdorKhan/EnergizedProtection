@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.07.196
 # Release: 196
-# Entries: 22,304
+# Entries: 22,303
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 15 Jul 21 11:45:08
+# Updated: Thu, 15 Jul 21 17:45:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16664,7 +16664,6 @@
 0.0.0.0 sgt-sonic.store
 0.0.0.0 sguru.org
 0.0.0.0 sgycfrrkz.com
-0.0.0.0 sha.eobot.com
 0.0.0.0 shade.hirship.com
 0.0.0.0 shaidolt.com
 0.0.0.0 shaimsaijels.com
