@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.08.223
-# Release: 223
-# Entries: 23,043
+# Version: 21.08.224
+# Release: 224
+# Entries: 23,042
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 Aug 21 23:40:18
+# Updated: Thu, 12 Aug 21 00:01:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8122,7 +8122,6 @@
 0.0.0.0 extra-chat.livejasmin.com
 0.0.0.0 extra.bet365.com
 0.0.0.0 extra33.com
-0.0.0.0 extramovies.ninja
 0.0.0.0 extramovies.trade
 0.0.0.0 extratorrents2019site.imageshack.host
 0.0.0.0 extreme-dm.com
