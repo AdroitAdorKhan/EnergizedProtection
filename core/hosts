@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.224
 # Release: 224
-# Entries: 23,113
+# Entries: 23,114
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 Aug 21 00:51:17
+# Updated: Thu, 12 Aug 21 00:57:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1140,6 +1140,7 @@
 0.0.0.0 ad.dmm.com
 0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.doubleclik.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.ecplaza.net
@@ -2010,6 +2011,7 @@
 0.0.0.0 ads.themedicportal.com
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.thestar.com
+0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.toonpass.com
 0.0.0.0 ads.traffichunt.com
@@ -9581,7 +9583,6 @@
 0.0.0.0 hiadspaces.ero-advertising.com
 0.0.0.0 hibermona.xyz
 0.0.0.0 hibhedbfbcbfgegjafa.ru
-0.0.0.0 hicloud.com
 0.0.0.0 hiddenjadestone.com
 0.0.0.0 hide.ovh
 0.0.0.0 higetottileft.info
