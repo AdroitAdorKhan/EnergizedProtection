@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.224
 # Release: 224
-# Entries: 23,126
+# Entries: 23,143
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 Aug 21 11:55:03
+# Updated: Thu, 12 Aug 21 23:40:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -875,6 +875,7 @@
 0.0.0.0 aal-brandenburg.de
 0.0.0.0 aalborgfrivilligraad.dk
 0.0.0.0 aalog.umengcloud.com
+0.0.0.0 aan.amazon.com
 0.0.0.0 aargauertafelrunde.ch
 0.0.0.0 aarki.com
 0.0.0.0 aata.ero-advertising.com
@@ -2250,6 +2251,7 @@
 0.0.0.0 adsinimages.com
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsklick.de
+0.0.0.0 adskom.genieessp.com
 0.0.0.0 adslidango.com
 0.0.0.0 adslingers.com
 0.0.0.0 adslot.com
@@ -4210,6 +4212,7 @@
 0.0.0.0 av.adblade.com
 0.0.0.0 av.ageverify.co
 0.0.0.0 av.beap.bc.yahoo.com
+0.0.0.0 av.revcontent.com
 0.0.0.0 av1.contentabc.com
 0.0.0.0 av327b.edvfwlacluo.com
 0.0.0.0 avads.co.uk
@@ -4846,6 +4849,7 @@
 0.0.0.0 blog.adcash.com
 0.0.0.0 blog.adcolony.com
 0.0.0.0 blog.addthis.com
+0.0.0.0 blog.adhese.com
 0.0.0.0 blog.admixer.net
 0.0.0.0 blog.adsnative.com
 0.0.0.0 blog.applovin.com
@@ -6662,6 +6666,7 @@
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.genieesspv.jp
 0.0.0.0 cs.iadsdk.apple.com
+0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs.media.net
 0.0.0.0 cs02.fast-hunter.com
 0.0.0.0 cs03.fast-hunter.com
@@ -9071,6 +9076,7 @@
 0.0.0.0 global.msads.net
 0.0.0.0 global.video.intl.xiaomi.com
 0.0.0.0 globaladv.net
+0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globalmasksuppliers.com
 0.0.0.0 globalsuccessclub.com
@@ -9957,6 +9963,7 @@
 0.0.0.0 icotrack.net
 0.0.0.0 icynana.com
 0.0.0.0 icyyapemu.com
+0.0.0.0 id-activity.realmemobile.com
 0.0.0.0 id-ext-tf.rlcdn.com
 0.0.0.0 id-generator.logsss.com
 0.0.0.0 id-trending.ucweb.com
@@ -12533,6 +12540,7 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.io
 0.0.0.0 metrics.ionos.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 metrics.smaato.net
 0.0.0.0 metrics1.data.hicloud.com
@@ -13787,6 +13795,7 @@
 0.0.0.0 ophttps.rayjump.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opinion.inmobi.com
+0.0.0.0 oposisicerdas.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 opred.gq
 0.0.0.0 ops.adreach.co
@@ -14001,6 +14010,7 @@
 0.0.0.0 p179.admaym.com
 0.0.0.0 p185689.infopicked.com
 0.0.0.0 p18591.infopicked.com
+0.0.0.0 p1agead2.googlesyndication.com
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 p201298.infopicked.com
 0.0.0.0 p203248.infopicked.com
@@ -14235,6 +14245,7 @@
 0.0.0.0 padssup.com
 0.0.0.0 pagalworldcomcom.imageshack.host
 0.0.0.0 pagead.l.google.com
+0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.googlesyndication.com
@@ -15405,7 +15416,9 @@
 0.0.0.0 pool-techeu.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool.4entertainment.adhese.com
+0.0.0.0 pool.adhsm.adhese.com
 0.0.0.0 pool.mn
+0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool.persgroep.adhese.com
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool1.moatads.com
@@ -17306,6 +17319,7 @@
 0.0.0.0 sevenads.net
 0.0.0.0 sevendaystart.com
 0.0.0.0 sewhethelesee.info
+0.0.0.0 seword.com
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sex365.su
 0.0.0.0 sexad.net
@@ -17518,6 +17532,7 @@
 0.0.0.0 sip.awin.com
 0.0.0.0 sip.cj.com
 0.0.0.0 sip.outbrain.com
+0.0.0.0 sip.revcontent.com
 0.0.0.0 sip.sonobi.com
 0.0.0.0 sipa.be
 0.0.0.0 sirdexs.com
@@ -20059,6 +20074,7 @@
 0.0.0.0 tracking.post.japanpost.jp
 0.0.0.0 tracking.propellerads.com
 0.0.0.0 tracking.rapidape.com
+0.0.0.0 tracking.rus.miui.com
 0.0.0.0 tracking.shopstylecollective.com
 0.0.0.0 tracking.socketlabs.com
 0.0.0.0 tracking.stackpath.com
@@ -20562,6 +20578,7 @@
 0.0.0.0 upiserversys1212.com
 0.0.0.0 upload-center.byethost4.com
 0.0.0.0 upload.a-ads.com
+0.0.0.0 upload.luckyorange.net
 0.0.0.0 uploadshipcom.foxpush.net
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 upornia.com
