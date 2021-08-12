@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.224
 # Release: 224
-# Entries: 23,114
+# Entries: 23,126
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 Aug 21 00:57:07
+# Updated: Thu, 12 Aug 21 11:55:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -813,6 +813,7 @@
 0.0.0.0 a.moatads.com
 0.0.0.0 a.mobclix.com
 0.0.0.0 a.montwam.top
+0.0.0.0 a.mouseflow.com
 0.0.0.0 a.mp.uc.cn
 0.0.0.0 a.nitropay.com
 0.0.0.0 a.ns.ish.atdmt.com
@@ -1232,6 +1233,7 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad.wz.cz
+0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.xmovies8.tv
 0.0.0.0 ad.xyniubi.com
 0.0.0.0 ad.yieldlab.net
@@ -2180,6 +2182,7 @@
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.juicyads.com
+0.0.0.0 adserver.kl-youniverse.com
 0.0.0.0 adserver.mindshare.de
 0.0.0.0 adserver.mopub.com
 0.0.0.0 adserver.news.com.au
@@ -3089,6 +3092,7 @@
 0.0.0.0 analytics.global-websystem.net
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.go.com
+0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gorilla-records.de
 0.0.0.0 analytics.gorillanation.com
 0.0.0.0 analytics.groupe-seb.com
@@ -5146,6 +5150,7 @@
 0.0.0.0 c.ameba.d.ad-cloud.rs.adtdp.com
 0.0.0.0 c.amobee.com
 0.0.0.0 c.atdmt.com
+0.0.0.0 c.bannerflow.net
 0.0.0.0 c.betrad.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.casalemedia.com
@@ -6827,11 +6832,13 @@
 0.0.0.0 d3lvir7538n0oi.cloudfront.net
 0.0.0.0 d3m4hp4bp4w996.cloudfront.net
 0.0.0.0 d3mzokty951c5w.cloudfront.net
+0.0.0.0 d3orhvfyxudxxq.cloudfront.net
 0.0.0.0 d3ou4areduq72f.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
 0.0.0.0 d3q0bajnxw3pp1.cloudfront.net
 0.0.0.0 d3ra9679oeq3gx.cloudfront.net
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
+0.0.0.0 d3vlmqse19ukgu.cloudfront.net
 0.0.0.0 d4.click-here.pro
 0.0.0.0 d6jfiirio372.com
 0.0.0.0 d7016uqa4s0lw.cloudfront.net
@@ -11676,6 +11683,7 @@
 0.0.0.0 log.indiamart.com
 0.0.0.0 log.internetat.tv
 0.0.0.0 log.iteldrive.com
+0.0.0.0 log.logicanalytics.io
 0.0.0.0 log.mangaina.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.musical.ly
@@ -15540,6 +15548,7 @@
 0.0.0.0 prebid-server-aws-euw1.rubiconproject.com
 0.0.0.0 prebid-server-aws-use1.rubiconproject.com
 0.0.0.0 prebid-server-aws-usw1.rubiconproject.com
+0.0.0.0 prebid-server.pubgalaxy.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid-web.pub.network
 0.0.0.0 prebid-winners-us-east-1-rtb.adroll.com
@@ -18051,6 +18060,7 @@
 0.0.0.0 stathat.com
 0.0.0.0 stati.in
 0.0.0.0 static-cdn.adblade.com
+0.0.0.0 static-cdn.hotjar.com
 0.0.0.0 static-devex.adblade.com
 0.0.0.0 static-eb.media.net
 0.0.0.0 static-failover.go.sonobi.com
@@ -18097,6 +18107,7 @@
 0.0.0.0 static.green-red.com
 0.0.0.0 static.growadvertising.com
 0.0.0.0 static.h-bid.com
+0.0.0.0 static.hotjar.com
 0.0.0.0 static.iasds01.com
 0.0.0.0 static.iloacmoam.com
 0.0.0.0 static.imctransfer.com
@@ -22153,6 +22164,7 @@
 0.0.0.0 www.lkvifcxvqkwrl.com
 0.0.0.0 www.loadmill.com
 0.0.0.0 www.localxstreet.xyz
+0.0.0.0 www.logicanalytics.io
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
 0.0.0.0 www.lonkem.com
 0.0.0.0 www.lowaosan.com
