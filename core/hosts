@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.08.224
-# Release: 224
-# Entries: 23,143
+# Version: 21.08.225
+# Release: 225
+# Entries: 23,148
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 Aug 21 23:40:19
+# Updated: Fri, 13 Aug 21 11:40:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -999,6 +999,7 @@
 0.0.0.0 accessrequest.taboola.com
 0.0.0.0 account-settings.appsflyer.com
 0.0.0.0 accountreview.outbrain.com
+0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.longmusic.com
 0.0.0.0 accuen.optout.agkn.com
 0.0.0.0 accusationloop.com
@@ -1213,6 +1214,7 @@
 0.0.0.0 ad.rs.doubleclick.net
 0.0.0.0 ad.ru.doubleclick.net
 0.0.0.0 ad.s.a-ads.com
+0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.samsungads.com
 0.0.0.0 ad.se.doubleclick.net
 0.0.0.0 ad.secure.tripple.at
@@ -5525,6 +5527,7 @@
 0.0.0.0 cdn.eqads.com
 0.0.0.0 cdn.espritgames.ru
 0.0.0.0 cdn.evidon.com
+0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn.foxpush.net
@@ -13385,6 +13388,7 @@
 0.0.0.0 nm.brainlyads.com
 0.0.0.0 nm.eqads.com
 0.0.0.0 nmanateex.top
+0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmjuhgfxzs.cf
 0.0.0.0 nners.ero-advertising.com
 0.0.0.0 nnkeug.com
@@ -14244,6 +14248,7 @@
 0.0.0.0 padskis.com
 0.0.0.0 padssup.com
 0.0.0.0 pagalworldcomcom.imageshack.host
+0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
@@ -20983,7 +20988,6 @@
 0.0.0.0 videopreview.sp.uae.uc.cn
 0.0.0.0 videoroll.net
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
-0.0.0.0 videos-cloudflare.jwpsrv.com
 0.0.0.0 videos-fms.jwpsrv.com
 0.0.0.0 videos.fyi
 0.0.0.0 videos.livejasmin.co.com
@@ -21900,6 +21904,7 @@
 0.0.0.0 www.carbonads.net
 0.0.0.0 www.casalemedia.com
 0.0.0.0 www.cata.ero-advertising.com
+0.0.0.0 www.cdn.ad.xiaomi.com
 0.0.0.0 www.cdn.adblade.com
 0.0.0.0 www.cdn4ads.com
 0.0.0.0 www.cdnreference.com
