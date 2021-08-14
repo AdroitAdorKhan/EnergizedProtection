@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.226
 # Release: 226
-# Entries: 23,563
+# Entries: 23,797
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 14 Aug 21 11:40:17
+# Updated: Sat, 14 Aug 21 15:10:28
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -344,6 +344,7 @@
 0.0.0.0 206ads.com
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20trk.vidible.tv
+0.0.0.0 20use1-match.justpremium.com
 0.0.0.0 2126329.catchtheclick.com
 0.0.0.0 21736.xyz
 0.0.0.0 22.nbryb.com
@@ -536,6 +537,7 @@
 0.0.0.0 3lift.com
 0.0.0.0 3lift.org
 0.0.0.0 3lr67y45.com
+0.0.0.0 3p.justpremium.com
 0.0.0.0 3r1kwxcd.top
 0.0.0.0 3rdads.com
 0.0.0.0 3redlightfix.com
@@ -620,6 +622,7 @@
 0.0.0.0 5ps9n.rdtk.io
 0.0.0.0 5r4gn.rdtk.io
 0.0.0.0 5rocks.io
+0.0.0.0 5su5mbtbmw8ersp5gooqqcc3usyxiwyghecksjhkljmlsil3aml8wpgmjmatch.justpremium.com
 0.0.0.0 5thfinger.com
 0.0.0.0 5unbx.rdtk.io
 0.0.0.0 5yfi7sy.com
@@ -711,6 +714,7 @@
 0.0.0.0 79.nbryb.com
 0.0.0.0 79k52baw2qa3.com
 0.0.0.0 7bpeople.com
+0.0.0.0 7click.justpremium.com
 0.0.0.0 7eer.net
 0.0.0.0 7hor9gul4s.com
 0.0.0.0 7nnr1.edvfwlacluo.com
@@ -1081,6 +1085,7 @@
 0.0.0.0 ad-check.disconnect.me
 0.0.0.0 ad-clcount.com
 0.0.0.0 ad-clicks.com
+0.0.0.0 ad-d.justpremium.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-dev.360in.com
 0.0.0.0 ad-dev.globalnoticias.pt
@@ -2206,6 +2211,7 @@
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.juicyads.com
+0.0.0.0 adserver.justpremium.com
 0.0.0.0 adserver.kl-youniverse.com
 0.0.0.0 adserver.mindshare.de
 0.0.0.0 adserver.mopub.com
@@ -3748,6 +3754,7 @@
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-sandbox.direct.yandex.com
 0.0.0.0 api-us-east-1.adsnative.com
+0.0.0.0 api.5nxam.xyz
 0.0.0.0 api.5rocks.io
 0.0.0.0 api.9snail.com
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -3825,6 +3832,7 @@
 0.0.0.0 api.inmobi.com
 0.0.0.0 api.ireaderm.net
 0.0.0.0 api.juicyads.com
+0.0.0.0 api.justpremium.com
 0.0.0.0 api.kissmetrics.com
 0.0.0.0 api.lapresse-staging.adgear.com
 0.0.0.0 api.lapresse.adgear.com
@@ -3854,6 +3862,7 @@
 0.0.0.0 api.prsrvy.com
 0.0.0.0 api.pub.network
 0.0.0.0 api.purpleads.io
+0.0.0.0 api.push.verizonmedia.com
 0.0.0.0 api.qrserver.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.queryly.com
@@ -3877,6 +3886,7 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.tiledesk.com
+0.0.0.0 api.tinstall.xyz
 0.0.0.0 api.tinypass.com
 0.0.0.0 api.trafficjunky.com
 0.0.0.0 api.ucmate.info
@@ -3913,6 +3923,7 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apiv3.moengage.com
 0.0.0.0 apmebf.com
+0.0.0.0 apn1-match.justpremium.com
 0.0.0.0 apofamily.com
 0.0.0.0 apollo.laf-buy.com
 0.0.0.0 apologisehistoriancrackle.com
@@ -4312,6 +4323,7 @@
 0.0.0.0 austriashoes.com
 0.0.0.0 auth-canary.flurry.com
 0.0.0.0 auth.adfox.ru
+0.0.0.0 auth.connectad.io
 0.0.0.0 auth.espritgames.ru
 0.0.0.0 auth.flurry.com
 0.0.0.0 auth.runative.com
@@ -4372,14 +4384,18 @@
 0.0.0.0 aweinkbum.com
 0.0.0.0 awempire.com
 0.0.0.0 aweproto.com
+0.0.0.0 awfulporetroys.casa
 0.0.0.0 awin.com
 0.0.0.0 awin1.com
+0.0.0.0 aws-logsdk.snackvideo.com
 0.0.0.0 aws-logsdk.uvfuns.com
 0.0.0.0 aws-ulog.kibads.com
+0.0.0.0 aws-ulog.snackvideo.com
 0.0.0.0 aws.apex.go.sonobi.com
 0.0.0.0 aws.go.sonobi.com
 0.0.0.0 aws.napi.ucweb.com
 0.0.0.0 aws.xcp.go.sonobi.com
+0.0.0.0 awsalbmatch.justpremium.com
 0.0.0.0 awsmer.com
 0.0.0.0 awstaticdn.net
 0.0.0.0 awsurveys.com
@@ -4838,6 +4854,10 @@
 0.0.0.0 bid33000nf.pubmatic.com
 0.0.0.0 bidclix.com
 0.0.0.0 bidder-analytics.automatad.com
+0.0.0.0 bidder-ap-northeast-1.prod.justpremium.com
+0.0.0.0 bidder-eu-central-1.prod.justpremium.com
+0.0.0.0 bidder-us-east-1.prod.justpremium.com
+0.0.0.0 bidder-us-west-2.prod.justpremium.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.rtk.io
 0.0.0.0 bidgear.com
@@ -5213,6 +5233,7 @@
 0.0.0.0 budvawshes.ru
 0.0.0.0 bugsense.com
 0.0.0.0 buhatfjrk9dje10eme.com
+0.0.0.0 builder.justpremium.com
 0.0.0.0 buildingdoodlesquare.com
 0.0.0.0 buildsintellecttweak.com
 0.0.0.0 buko-bamberg.de
@@ -5435,6 +5456,7 @@
 0.0.0.0 candygirls.cc
 0.0.0.0 caniamedia.com
 0.0.0.0 cannabisgr.com
+0.0.0.0 cannes.justpremium.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 capitalaktiv.de
 0.0.0.0 capitana.onthewifi.com
@@ -5464,6 +5486,7 @@
 0.0.0.0 carnataldez.ml
 0.0.0.0 carniferou.club
 0.0.0.0 carola-stauche.de
+0.0.0.0 carotolbhavan.com
 0.0.0.0 carrefour.adform.net
 0.0.0.0 carry-shop.com
 0.0.0.0 cartoonhdcom.imageshack.host
@@ -5575,6 +5598,9 @@
 0.0.0.0 cdn-alt.popcash.net
 0.0.0.0 cdn-as.amanad.adtdp.com
 0.0.0.0 cdn-c.amazon-adsystem.com
+0.0.0.0 cdn-cd.justpremium.com
+0.0.0.0 cdn-cf.justpremium.com
+0.0.0.0 cdn-cf.justpremium.comcdn-cf.justpremium.com
 0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn-dsp.h12-media.com
 0.0.0.0 cdn-edgecast.optimizely.com
@@ -5687,6 +5713,7 @@
 0.0.0.0 cdn.iople.com
 0.0.0.0 cdn.ish.atdmt.com
 0.0.0.0 cdn.itphanpytor.club
+0.0.0.0 cdn.justpremium.com
 0.0.0.0 cdn.k50.ru
 0.0.0.0 cdn.kiwys.com
 0.0.0.0 cdn.krxd.net
@@ -5874,6 +5901,7 @@
 0.0.0.0 ceehimur.uk
 0.0.0.0 cef5b491241aa0f3.com
 0.0.0.0 celebmasta.com
+0.0.0.0 celeritascdn.com
 0.0.0.0 cell-power-laser.de
 0.0.0.0 celltick.com
 0.0.0.0 celtra.com
@@ -5897,6 +5925,7 @@
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 cf.just-news.pro
+0.0.0.0 cf.justpremium.com
 0.0.0.0 cf.shopee.tw.whecloud.com
 0.0.0.0 cfduid.infolinks.com
 0.0.0.0 cfg.flurry.com
@@ -6078,6 +6107,7 @@
 0.0.0.0 click.dl-now.app
 0.0.0.0 click.e.trafficjunky.com
 0.0.0.0 click.expmediadirect.com
+0.0.0.0 click.expmediadirect1.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.goingtothead.com
 0.0.0.0 click.google-analytics.com
@@ -6309,6 +6339,7 @@
 0.0.0.0 co2aqu.atdmt.com
 0.0.0.0 co4glinati.ru
 0.0.0.0 coandroid.ru
+0.0.0.0 coaphauk.net
 0.0.0.0 coats.coolinautumn.com
 0.0.0.0 coazuthu.net
 0.0.0.0 coccyxwickimp.com
@@ -6325,6 +6356,7 @@
 0.0.0.0 code.revcontent.com
 0.0.0.0 code3.adtlgc.com
 0.0.0.0 code4us.com
+0.0.0.0 codedexchange.com
 0.0.0.0 coedmediagroup.com
 0.0.0.0 coelen-architekt.de
 0.0.0.0 coffemokko.com
@@ -6529,6 +6561,8 @@
 0.0.0.0 conmicamaracuestas.es
 0.0.0.0 connect.adroll.com
 0.0.0.0 connect.appsflyer.com
+0.0.0.0 connectad.io
+0.0.0.0 connected-by.connectad.io
 0.0.0.0 connectignite.com
 0.0.0.0 connection-test.newrelic.com
 0.0.0.0 connectomobi.com
@@ -6583,8 +6617,10 @@
 0.0.0.0 contextweb.com
 0.0.0.0 contextweb.pixel.invitemedia.com
 0.0.0.0 control-test-ec.adaptv.advertising.com
+0.0.0.0 control.connectad.io
 0.0.0.0 control.media.net
 0.0.0.0 control.trafficfabrik.com
+0.0.0.0 control2.justpremium.com
 0.0.0.0 control2.tvinteractive.tv
 0.0.0.0 conv.btrll.com
 0.0.0.0 conv.youdao.com
@@ -6611,6 +6647,10 @@
 0.0.0.0 cookie.co1linesu.ru
 0.0.0.0 cookie.green-red.com
 0.0.0.0 cookieinformation.mgr.consensu.org
+0.0.0.0 cookiematch-ap-northeast-1.prod.justpremium.com
+0.0.0.0 cookiematch-eu-central-1.prod.justpremium.com
+0.0.0.0 cookiematch-us-east-1.prod.justpremium.com
+0.0.0.0 cookiematch-us-west-2.prod.justpremium.com
 0.0.0.0 cookies-la.madadsmedia.com
 0.0.0.0 cookies-prod.onetrust.mgr.consensu.org
 0.0.0.0 cookies.cmpnet.com
@@ -6761,6 +6801,7 @@
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creatives.doubleclick.net
+0.0.0.0 creatives.justpremium.com
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creatives.purpleads.io
 0.0.0.0 creativezone.sizmek.com
@@ -6935,6 +6976,7 @@
 0.0.0.0 d.fotw.xyz
 0.0.0.0 d.go-mpulse.net
 0.0.0.0 d.iclwy.xyz
+0.0.0.0 d.justpremium.com
 0.0.0.0 d.liadm.com
 0.0.0.0 d.mordi.xyz
 0.0.0.0 d.pub.network
@@ -6984,6 +7026,7 @@
 0.0.0.0 d3.moatads.com
 0.0.0.0 d31zodt644y7uh.cloudfront.net
 0.0.0.0 d33bhlp8xcppz2.cloudfront.net
+0.0.0.0 d35uxhjf90umnp.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d38optp29wd03m.cloudfront.net
 0.0.0.0 d39xxywi4dmut5.cloudfront.net
@@ -7178,6 +7221,7 @@
 0.0.0.0 de.dhgate.com
 0.0.0.0 de.idsp-prod.east-us.idsp.inmobi.com
 0.0.0.0 de.inmobi.com
+0.0.0.0 de.justpremium.com
 0.0.0.0 de.openx.com
 0.0.0.0 de.rayjump.com
 0.0.0.0 de.xaxis.com
@@ -7261,6 +7305,7 @@
 0.0.0.0 demo.adcolony.com
 0.0.0.0 demo.ads.justpremium.com
 0.0.0.0 demo.adsnative.com
+0.0.0.0 demo.justpremium.com
 0.0.0.0 demo.outbrain.com
 0.0.0.0 demoads.mobclix.com
 0.0.0.0 demos.exoclick.com
@@ -7282,6 +7327,7 @@
 0.0.0.0 desibitinlet.pro
 0.0.0.0 desigactinific.pro
 0.0.0.0 designer-second-hand-shop.com
+0.0.0.0 desitiktok18.com
 0.0.0.0 desivideo.online
 0.0.0.0 desklks.com
 0.0.0.0 desktest1.xyz
@@ -7522,6 +7568,7 @@
 0.0.0.0 docs.admixer.net
 0.0.0.0 docs.adsnative.com
 0.0.0.0 docs.itop.qq.com
+0.0.0.0 docs.justpremium.com
 0.0.0.0 docs.newrelic.com
 0.0.0.0 docs.pipenv.org
 0.0.0.0 doctorwho.outbrain.com
@@ -7576,6 +7623,7 @@
 0.0.0.0 douhooke.net
 0.0.0.0 douthosh.net
 0.0.0.0 doutthenhap.info
+0.0.0.0 douyin18.me
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.tj.uc.cn
 0.0.0.0 down.up1.uc.cn
@@ -7822,6 +7870,7 @@
 0.0.0.0 e.adzerk.net
 0.0.0.0 e.algoply.com
 0.0.0.0 e.analytics.yahoo.com
+0.0.0.0 e.connectad.io
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e.deployads.com
 0.0.0.0 e.dlx.addthis.com
@@ -7952,6 +8001,7 @@
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
+0.0.0.0 effectiveperformancenetwork.com
 0.0.0.0 efhabjaabgfbbegjacj.ru
 0.0.0.0 eftwelt.de
 0.0.0.0 efully.info
@@ -7988,6 +8038,7 @@
 0.0.0.0 eko-group.de
 0.0.0.0 eksvideos.com
 0.0.0.0 elamyar.pw
+0.0.0.0 elastic1.justpremium.com
 0.0.0.0 elasticad.net
 0.0.0.0 elastinabuker.site
 0.0.0.0 elathalobolo.com
@@ -8042,6 +8093,8 @@
 0.0.0.0 embeddedadventures.com
 0.0.0.0 embols.com
 0.0.0.0 embrassez.com
+0.0.0.0 emea-v3.tracking.justpremium.com
+0.0.0.0 emea-v3.tracking.justpremium.comemea-v3.tracking.justpremium.com
 0.0.0.0 emea.af.beap.bc.yahoo.com
 0.0.0.0 emediate.dk
 0.0.0.0 ememoricane.info
@@ -8067,6 +8120,7 @@
 0.0.0.0 endenburg-online.de
 0.0.0.0 endingthefed.com
 0.0.0.0 enewsletter.oc3web.com
+0.0.0.0 engage.justpremium.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engagebdr.sync.go.sonobi.com
 0.0.0.0 engagespot.co
@@ -8149,6 +8203,7 @@
 0.0.0.0 es.ero-advertising.com
 0.0.0.0 es.exoclick.com
 0.0.0.0 es.go.zog.link
+0.0.0.0 es.justpremium.com
 0.0.0.0 es.moncleritalien.com
 0.0.0.0 es.pubguru.com
 0.0.0.0 escalatenetwork.com
@@ -8225,6 +8280,7 @@
 0.0.0.0 eu.y.atwola.com
 0.0.0.0 eu1-spiky.wzrkt.com
 0.0.0.0 eu6j7.rdtk.io
+0.0.0.0 euc1-match.justpremium.com
 0.0.0.0 eujlop.com
 0.0.0.0 eul.s.360.cn
 0.0.0.0 euronewsgroup.demdex.net
@@ -8741,6 +8797,7 @@
 0.0.0.0 fotosocken.com
 0.0.0.0 found.ee
 0.0.0.0 fowuh.bemobtrk.com
+0.0.0.0 fox-d.justpremium.com
 0.0.0.0 foxpush.com
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 fp.advertising.microsoft.com
@@ -8944,6 +9001,7 @@
 0.0.0.0 g-kahlen.de
 0.0.0.0 g-logsdk.uvfuns.com
 0.0.0.0 g-pixel.invitemedia.com
+0.0.0.0 g-ulog.snackvideo.com
 0.0.0.0 g-ulog.uvfuns.com
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.atdmt.com
@@ -9066,6 +9124,7 @@
 0.0.0.0 gb.mgid.com
 0.0.0.0 gb2-banners.adriver.ru
 0.0.0.0 gb2-mirror.adriver.ru
+0.0.0.0 gbalancer.connectad.io
 0.0.0.0 gbengel-todentta.de
 0.0.0.0 gbgabq.com
 0.0.0.0 gbhbl.com
@@ -9996,6 +10055,7 @@
 0.0.0.0 hq58.appsflyer.com
 0.0.0.0 hq61.appsflyer.com
 0.0.0.0 hqyenmzgxk.com
+0.0.0.0 hr-eu-central-1.prod.justpremium.com
 0.0.0.0 hr.ads.justpremium.com
 0.0.0.0 hr.batmobi.net
 0.0.0.0 hrahdmon.com
@@ -10080,6 +10140,7 @@
 0.0.0.0 i.bongacash.com
 0.0.0.0 i.casalemedia.com
 0.0.0.0 i.clean.gg
+0.0.0.0 i.connectad.io
 0.0.0.0 i.imgbox.com
 0.0.0.0 i.imstks.com
 0.0.0.0 i.isnssdk.com
@@ -10159,6 +10220,7 @@
 0.0.0.0 ichica-wn-test1.adtdp.com
 0.0.0.0 iclickcdn.com
 0.0.0.0 icoawhou.com
+0.0.0.0 iconbecoming.com
 0.0.0.0 iconcnd.net
 0.0.0.0 iconiclouisvuitton.com
 0.0.0.0 iconify.es
@@ -10326,6 +10388,7 @@
 0.0.0.0 img.casalemedia.com
 0.0.0.0 img.cdn.house
 0.0.0.0 img.leadzutw.com
+0.0.0.0 img.loobacdn.xyz
 0.0.0.0 img.mgid.com
 0.0.0.0 img.mp.ucweb.com
 0.0.0.0 img.nui.media
@@ -10556,6 +10619,7 @@
 0.0.0.0 inside.outbrain.com
 0.0.0.0 inside.xaxis.com
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 insight.connectad.io
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
@@ -10608,6 +10672,7 @@
 0.0.0.0 intellitxt.com
 0.0.0.0 intendalinetang.com
 0.0.0.0 intenthq.com
+0.0.0.0 intentsuntune.casa
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interesting.cc
 0.0.0.0 interferegamblingsir.com
@@ -10849,6 +10914,7 @@
 0.0.0.0 isohits.com
 0.0.0.0 ispedgoods.com
 0.0.0.0 ispymsg.com
+0.0.0.0 ist6-4.filesor.com
 0.0.0.0 istlandoll.com
 0.0.0.0 isuwifauzap.com
 0.0.0.0 it.ads.justpremium.com
@@ -11050,6 +11116,7 @@
 0.0.0.0 jp.go.zog.link
 0.0.0.0 jpsc.iasds01.com
 0.0.0.0 jpush.binance.im
+0.0.0.0 jpxumaster.justpremium.com
 0.0.0.0 jquerystatistics.org
 0.0.0.0 jrs.a4.tl
 0.0.0.0 js-agent.newrelic.com
@@ -11466,6 +11533,7 @@
 0.0.0.0 la4lbg.uae2grp.ucweb.com
 0.0.0.0 laaming.com
 0.0.0.0 lab.atdmt.com
+0.0.0.0 lab.justpremium.com
 0.0.0.0 labferour.club
 0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 labs-s1.revcontent.com
@@ -11687,6 +11755,7 @@
 0.0.0.0 lga-delivery-9.sys.adgear.com
 0.0.0.0 lga2-rtbprod.applovin.com
 0.0.0.0 lga2stage-rtb.applovin.com
+0.0.0.0 lgazyaq.com
 0.0.0.0 lgfzpa.myshopify.com
 0.0.0.0 lghtds.net
 0.0.0.0 lgncal.media.net
@@ -11940,6 +12009,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 log3.optimizely.com
 0.0.0.0 logapi.rayjump.com
+0.0.0.0 logapi.tv.naver.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logger.admixer.co.kr
 0.0.0.0 logger.adotmob.com
@@ -12491,6 +12561,8 @@
 0.0.0.0 mastermining.net
 0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.adsrvr.org
+0.0.0.0 match.justpremium.com
+0.0.0.0 match.justpremium.commatch.justpremium.com
 0.0.0.0 match.taboola.com
 0.0.0.0 matchbox-8.com
 0.0.0.0 matchcraft.com
@@ -12567,6 +12639,7 @@
 0.0.0.0 me.taboola.com
 0.0.0.0 mealassistants.com
 0.0.0.0 measurefact.com
+0.0.0.0 measurelavender.com
 0.0.0.0 measuremap.com
 0.0.0.0 measurement.snapads.com
 0.0.0.0 meboayapb.com
@@ -13615,6 +13688,7 @@
 0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 nl.adserver.yahoo.com
 0.0.0.0 nl.go.zog.link
+0.0.0.0 nl.justpremium.com
 0.0.0.0 nl1.ero-advertising.com
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nlntrk.com
@@ -13891,6 +13965,7 @@
 0.0.0.0 ogeemolt.net
 0.0.0.0 ogercron.com
 0.0.0.0 ogetyourlett.biz
+0.0.0.0 ogqcuudzsuukds.com
 0.0.0.0 ograuwih.com
 0.0.0.0 ohbayersbur.pro
 0.0.0.0 ohenzollern-bilk.de
@@ -14186,6 +14261,9 @@
 0.0.0.0 owliwant.com
 0.0.0.0 owltiphem.club
 0.0.0.0 owncutone.com
+0.0.0.0 ox-d.justpremium.com
+0.0.0.0 ox-d.justpremium.comox-d.justpremium.com
+0.0.0.0 ox-ui.justpremium.com
 0.0.0.0 ox.pxl.ace.advertising.com
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
@@ -14574,6 +14652,7 @@
 0.0.0.0 partnernetwork.ebay.com
 0.0.0.0 partners.appsflyer.com
 0.0.0.0 partners.content.ad
+0.0.0.0 partners.justpremium.com
 0.0.0.0 partners.priceline.com
 0.0.0.0 partnerssl.googleadservices.com
 0.0.0.0 party-feuerwehr.de
@@ -14620,6 +14699,7 @@
 0.0.0.0 pbs.alfasense.com
 0.0.0.0 pbs.deployads.com
 0.0.0.0 pbs.getpublica.com
+0.0.0.0 pbx.connectad.io
 0.0.0.0 pc-ads.com
 0.0.0.0 pc-bubble.de
 0.0.0.0 pc.uc.cn
@@ -14933,6 +15013,7 @@
 0.0.0.0 pl12725537.pvclouds.com
 0.0.0.0 pl13045071.alternativecpmgate.com
 0.0.0.0 pl13156769.pvclouds.com
+0.0.0.0 pl134303.effectiveperformancenetwork.com
 0.0.0.0 pl136774.profitabletrustednetwork.com
 0.0.0.0 pl14023151.pvclouds.com
 0.0.0.0 pl14295210.pvclouds.com
@@ -14943,6 +15024,7 @@
 0.0.0.0 pl14336753.pvclouds.com
 0.0.0.0 pl14336884.pvclouds.com
 0.0.0.0 pl14345227.passeura.com
+0.0.0.0 pl14360430.highperformancecpm.com
 0.0.0.0 pl14369770.pvclouds.com
 0.0.0.0 pl14377328.puserving.com
 0.0.0.0 pl14377378.pvclouds.com
@@ -14959,10 +15041,12 @@
 0.0.0.0 pl14437414.pvclouds.com
 0.0.0.0 pl14445532.pvclouds.com
 0.0.0.0 pl14446319.pvclouds.com
+0.0.0.0 pl14455686.effectiveperformancenetwork.com
 0.0.0.0 pl14462520.pvclouds.com
 0.0.0.0 pl14468673.highperformancecpm.com
 0.0.0.0 pl14470019.pvclouds.com
 0.0.0.0 pl14474709.profitablegate.com
+0.0.0.0 pl14474999.highperformancecpm.com
 0.0.0.0 pl14475817.pvclouds.com
 0.0.0.0 pl14476413.pvclouds.com
 0.0.0.0 pl14477475.pvclouds.com
@@ -14977,6 +15061,7 @@
 0.0.0.0 pl14555071.pvclouds.com
 0.0.0.0 pl14557413.pvclouds.com
 0.0.0.0 pl14557459.pvclouds.com
+0.0.0.0 pl14558555.highperformancecpm.com
 0.0.0.0 pl14563162.pvclouds.com
 0.0.0.0 pl14659153.pvclouds.com
 0.0.0.0 pl14666185.profitablegate.com
@@ -15039,6 +15124,7 @@
 0.0.0.0 pl15021919.pvclouds.com
 0.0.0.0 pl15022971.pvclouds.com
 0.0.0.0 pl15024061.pvclouds.com
+0.0.0.0 pl15024262.effectiveperformancenetwork.com
 0.0.0.0 pl15025075.pvclouds.com
 0.0.0.0 pl15025191.pvclouds.com
 0.0.0.0 pl15025195.pvclouds.com
@@ -15119,8 +15205,10 @@
 0.0.0.0 pl15052755.pvclouds.com
 0.0.0.0 pl15052921.pvclouds.com
 0.0.0.0 pl15053906.pvclouds.com
+0.0.0.0 pl15054288.effectiveperformancenetwork.com
 0.0.0.0 pl15054496.pvclouds.com
 0.0.0.0 pl15055490.pvclouds.com
+0.0.0.0 pl15061425.effectiveperformancenetwork.com
 0.0.0.0 pl15061690.pvclouds.com
 0.0.0.0 pl15063350.pvclouds.com
 0.0.0.0 pl15064011.profitablegate.com
@@ -15161,6 +15249,7 @@
 0.0.0.0 pl15171396.profitablegate.com
 0.0.0.0 pl15173035.pvclouds.com
 0.0.0.0 pl15178109.pvclouds.com
+0.0.0.0 pl15178432.effectiveperformancenetwork.com
 0.0.0.0 pl15180657.passeura.com
 0.0.0.0 pl15187019.pvclouds.com
 0.0.0.0 pl15189613.pvclouds.com
@@ -15186,11 +15275,13 @@
 0.0.0.0 pl15210251.pvclouds.com
 0.0.0.0 pl15210361.pvclouds.com
 0.0.0.0 pl15210719.passtechusa.com
+0.0.0.0 pl15212638.effectiveperformancenetwork.com
 0.0.0.0 pl15215747.profitablegate.com
 0.0.0.0 pl15215793.passtechusa.com
 0.0.0.0 pl15216242.passeura.com
 0.0.0.0 pl15217264.passeura.com
 0.0.0.0 pl15219195.profitabletrustednetwork.com
+0.0.0.0 pl15225451.effectiveperformancenetwork.com
 0.0.0.0 pl15225655.passeura.com
 0.0.0.0 pl15230040.profitabletrustednetwork.com
 0.0.0.0 pl15247768.alternativecpmgate.com
@@ -15208,6 +15299,7 @@
 0.0.0.0 pl15338749.profitablegate.com
 0.0.0.0 pl15344723.passtechusa.com
 0.0.0.0 pl15344728.passtechusa.com
+0.0.0.0 pl15346453.effectiveperformancenetwork.com
 0.0.0.0 pl15347281.passtechusa.com
 0.0.0.0 pl15349924.passtechusa.com
 0.0.0.0 pl15349958.passtechusa.com
@@ -15220,6 +15312,7 @@
 0.0.0.0 pl15382530.passtechusa.com
 0.0.0.0 pl15388275.passtechusa.com
 0.0.0.0 pl15393000.passtechusa.com
+0.0.0.0 pl15393341.effectiveperformancenetwork.com
 0.0.0.0 pl15393342.passtechusa.com
 0.0.0.0 pl15393343.passtechusa.com
 0.0.0.0 pl15393344.passtechusa.com
@@ -15291,16 +15384,20 @@
 0.0.0.0 pl15476874.passtechusa.com
 0.0.0.0 pl15494008.profitablegate.com
 0.0.0.0 pl15510499.highperformancecpm.com
+0.0.0.0 pl15511188.highperformancecpm.com
 0.0.0.0 pl15524255.highperformancecpm.com
 0.0.0.0 pl15528629.profitabletrustednetwork.com
 0.0.0.0 pl15535167.profitabletrustednetwork.com
+0.0.0.0 pl15535169.effectiveperformancenetwork.com
 0.0.0.0 pl15547753.profitablegate.com
 0.0.0.0 pl15560298.highperformancecpm.com
+0.0.0.0 pl15573662.effectiveperformancenetwork.com
 0.0.0.0 pl15577633.profitablegate.com
 0.0.0.0 pl15581715.profitablegate.com
 0.0.0.0 pl15584691.profitablegate.com
 0.0.0.0 pl15585201.profitablegate.com
 0.0.0.0 pl15587230.profitablegate.com
+0.0.0.0 pl15588197.effectiveperformancenetwork.com
 0.0.0.0 pl15588293.profitablegate.com
 0.0.0.0 pl15589275.profitablegate.com
 0.0.0.0 pl15590039.profitablegate.com
@@ -15337,6 +15434,7 @@
 0.0.0.0 pl15688425.profitablegate.com
 0.0.0.0 pl15689641.profitablegate.com
 0.0.0.0 pl15689765.profitablegate.com
+0.0.0.0 pl15692481.effectiveperformancenetwork.com
 0.0.0.0 pl15692716.profitablegate.com
 0.0.0.0 pl15693112.profitablegate.com
 0.0.0.0 pl15695694.profitablegate.com
@@ -15348,14 +15446,21 @@
 0.0.0.0 pl15775298.profitabletrustednetwork.com
 0.0.0.0 pl15779857.highperformancecpm.com
 0.0.0.0 pl15785831.profitabletrustednetwork.com
+0.0.0.0 pl15790427.effectiveperformancenetwork.com
+0.0.0.0 pl15806485.effectiveperformancenetwork.com
 0.0.0.0 pl15807842.alternativecpmgate.com
 0.0.0.0 pl15821666.alternativecpmgate.com
 0.0.0.0 pl15821666.highperformancecpm.com
 0.0.0.0 pl15841984.profitabletrustednetwork.com
 0.0.0.0 pl15843779.highperformancecpm.com
 0.0.0.0 pl15844658.profitabletrustednetwork.com
+0.0.0.0 pl15848337.highperformancecpm.com
+0.0.0.0 pl15855153.effectiveperformancenetwork.com
 0.0.0.0 pl15860498.profitabletrustednetwork.com
+0.0.0.0 pl15867842.effectiveperformancenetwork.com
+0.0.0.0 pl15873953.effectiveperformancenetwork.com
 0.0.0.0 pl15897498.highperformancecpm.com
+0.0.0.0 pl15901386.effectiveperformancenetwork.com
 0.0.0.0 pl15902110.profitabletrustednetwork.com
 0.0.0.0 pl15905489.profitabletrustednetwork.com
 0.0.0.0 pl15906815.profitabletrustednetwork.com
@@ -15365,6 +15470,8 @@
 0.0.0.0 pl15943957.profitabletrustednetwork.com
 0.0.0.0 pl15950879.highperformancecpm.com
 0.0.0.0 pl15955563.highperformancecpm.com
+0.0.0.0 pl15961145.highperformancecpm.com
+0.0.0.0 pl15965968.highperformancecpm.com
 0.0.0.0 pl15966423.alternativecpmgate.com
 0.0.0.0 pl15966965.profitabletrustednetwork.com
 0.0.0.0 pl15990765.highperformancecpm.com
@@ -15372,28 +15479,42 @@
 0.0.0.0 pl15996071.profitabletrustednetwork.com
 0.0.0.0 pl16008585.profitabletrustednetwork.com
 0.0.0.0 pl16010503.profitabletrustednetwork.com
+0.0.0.0 pl16025824.effectiveperformancenetwork.com
+0.0.0.0 pl16025829.effectiveperformancenetwork.com
+0.0.0.0 pl16025856.effectiveperformancenetwork.com
+0.0.0.0 pl16025999.effectiveperformancenetwork.com
+0.0.0.0 pl16026010.effectiveperformancenetwork.com
+0.0.0.0 pl16026021.effectiveperformancenetwork.com
+0.0.0.0 pl16026342.effectiveperformancenetwork.com
 0.0.0.0 pl16061217.profitabletrustednetwork.com
+0.0.0.0 pl16061479.effectiveperformancenetwork.com
 0.0.0.0 pl16062555.highperformancecpm.com
 0.0.0.0 pl16067925.profitabletrustednetwork.com
 0.0.0.0 pl16068554.profitabletrustednetwork.com
 0.0.0.0 pl16072306.profitabletrustednetwork.com
 0.0.0.0 pl16076015.profitabletrustednetwork.com
 0.0.0.0 pl16076768.highperformancecpm.com
+0.0.0.0 pl16078371.effectiveperformancenetwork.com
 0.0.0.0 pl16083713.highperformancecpm.com
 0.0.0.0 pl16085145.profitabletrustednetwork.com
 0.0.0.0 pl16085656.profitabletrustednetwork.com
 0.0.0.0 pl16088987.highperformancecpm.com
 0.0.0.0 pl16096934.highperformancecpm.com
+0.0.0.0 pl16099794.effectiveperformancenetwork.com
 0.0.0.0 pl16101230.alternativecpmgate.com
 0.0.0.0 pl16115336.highperformancecpm.com
+0.0.0.0 pl16123298.effectiveperformancenetwork.com
 0.0.0.0 pl16126398.profitabletrustednetwork.com
 0.0.0.0 pl16127011.profitabletrustednetwork.com
 0.0.0.0 pl16127240.highperformancecpm.com
 0.0.0.0 pl16131501.highperformancecpm.com
 0.0.0.0 pl16133014.profitabletrustednetwork.com
 0.0.0.0 pl16133283.alternativecpmgate.com
+0.0.0.0 pl16135271.effectiveperformancenetwork.com
 0.0.0.0 pl16136268.profitabletrustednetwork.com
+0.0.0.0 pl16137001.effectiveperformancenetwork.com
 0.0.0.0 pl16139964.profitabletrustednetwork.com
+0.0.0.0 pl16140159.effectiveperformancenetwork.com
 0.0.0.0 pl16143341.profitabletrustednetwork.com
 0.0.0.0 pl16143742.profitabletrustednetwork.com
 0.0.0.0 pl16144948.profitabletrustednetwork.com
@@ -15416,12 +15537,18 @@
 0.0.0.0 pl16163903.profitabletrustednetwork.com
 0.0.0.0 pl16164074.profitabletrustednetwork.com
 0.0.0.0 pl16164575.alternativecpmgate.com
+0.0.0.0 pl16164575.effectiveperformancenetwork.com
+0.0.0.0 pl16164575.highperformancecpm.com
 0.0.0.0 pl16166073.profitabletrustednetwork.com
 0.0.0.0 pl16166449.highperformancecpm.com
 0.0.0.0 pl16166803.profitabletrustednetwork.com
 0.0.0.0 pl16166960.profitabletrustednetwork.com
 0.0.0.0 pl16167334.alternativecpmgate.com
+0.0.0.0 pl16167334.effectiveperformancenetwork.com
 0.0.0.0 pl16167334.highperformancecpm.com
+0.0.0.0 pl16167629.effectiveperformancenetwork.com
+0.0.0.0 pl16167675.effectiveperformancenetwork.com
+0.0.0.0 pl16167992.effectiveperformancenetwork.com
 0.0.0.0 pl16168008.profitabletrustednetwork.com
 0.0.0.0 pl16169563.profitabletrustednetwork.com
 0.0.0.0 pl16171345.profitabletrustednetwork.com
@@ -15434,8 +15561,13 @@
 0.0.0.0 pl16177623.profitabletrustednetwork.com
 0.0.0.0 pl16178723.highperformancecpmnetwork.com
 0.0.0.0 pl16186987.highperformancecpm.com
+0.0.0.0 pl16199648.effectiveperformancenetwork.com
+0.0.0.0 pl16202642.effectiveperformancenetwork.com
+0.0.0.0 pl16212014.effectiveperformancenetwork.com
 0.0.0.0 pl16216325.alternativecpmgate.com
 0.0.0.0 pl16218394.alternativecpmgate.com
+0.0.0.0 pl16221184.highperformancecpm.com
+0.0.0.0 pl16252789.effectiveperformancenetwork.com
 0.0.0.0 pl16267559.alternativecpmgate.com
 0.0.0.0 pl16273272.alternativecpmgate.com
 0.0.0.0 pl16274372.alternativecpmgate.com
@@ -15444,13 +15576,69 @@
 0.0.0.0 pl16283203.highperformancecpm.com
 0.0.0.0 pl16288770.highperformancecpm.com
 0.0.0.0 pl16304674.highperformancecpm.com
+0.0.0.0 pl16306094.effectiveperformancenetwork.com
+0.0.0.0 pl16308231.effectiveperformancenetwork.com
 0.0.0.0 pl16308920.highperformancecpm.com
 0.0.0.0 pl16331521.alternativecpmgate.com
+0.0.0.0 pl16333124.effectiveperformancenetwork.com
+0.0.0.0 pl16339369.effectiveperformancenetwork.com
 0.0.0.0 pl16350984.alternativecpmgate.com
 0.0.0.0 pl16352515.highperformancecpm.com
+0.0.0.0 pl16361147.effectiveperformancenetwork.com
+0.0.0.0 pl16362187.effectiveperformancenetwork.com
+0.0.0.0 pl16367806.effectiveperformancenetwork.com
+0.0.0.0 pl16368781.effectiveperformancenetwork.com
+0.0.0.0 pl16369215.effectiveperformancenetwork.com
+0.0.0.0 pl16370018.effectiveperformancenetwork.com
+0.0.0.0 pl16370572.effectiveperformancenetwork.com
+0.0.0.0 pl16371095.effectiveperformancenetwork.com
+0.0.0.0 pl16371599.effectiveperformancenetwork.com
+0.0.0.0 pl16372048.effectiveperformancenetwork.com
+0.0.0.0 pl16372258.effectiveperformancenetwork.com
+0.0.0.0 pl16373880.effectiveperformancenetwork.com
+0.0.0.0 pl16375747.highperformancecpm.com
+0.0.0.0 pl16376222.effectiveperformancenetwork.com
+0.0.0.0 pl16378466.effectiveperformancenetwork.com
+0.0.0.0 pl16379478.effectiveperformancenetwork.com
+0.0.0.0 pl16380847.effectiveperformancenetwork.com
+0.0.0.0 pl16381900.effectiveperformancenetwork.com
+0.0.0.0 pl16383271.effectiveperformancenetwork.com
+0.0.0.0 pl16384315.effectiveperformancenetwork.com
+0.0.0.0 pl16384342.effectiveperformancenetwork.com
+0.0.0.0 pl16384946.effectiveperformancenetwork.com
+0.0.0.0 pl16386557.effectiveperformancenetwork.com
+0.0.0.0 pl16387405.effectiveperformancenetwork.com
+0.0.0.0 pl16387699.effectiveperformancenetwork.com
+0.0.0.0 pl16388362.effectiveperformancenetwork.com
+0.0.0.0 pl16389184.effectiveperformancenetwork.com
+0.0.0.0 pl16389608.effectiveperformancenetwork.com
+0.0.0.0 pl16389613.effectiveperformancenetwork.com
+0.0.0.0 pl16389622.effectiveperformancenetwork.com
+0.0.0.0 pl16390085.effectiveperformancenetwork.com
+0.0.0.0 pl16390087.effectiveperformancenetwork.com
+0.0.0.0 pl16390088.effectiveperformancenetwork.com
+0.0.0.0 pl16390090.effectiveperformancenetwork.com
+0.0.0.0 pl16393954.effectiveperformancenetwork.com
+0.0.0.0 pl16394186.effectiveperformancenetwork.com
+0.0.0.0 pl16395105.effectiveperformancenetwork.com
+0.0.0.0 pl16395208.effectiveperformancenetwork.com
+0.0.0.0 pl16395387.effectiveperformancenetwork.com
+0.0.0.0 pl16395497.effectiveperformancenetwork.com
+0.0.0.0 pl16395544.effectiveperformancenetwork.com
+0.0.0.0 pl16395566.effectiveperformancenetwork.com
 0.0.0.0 pl16395767.alternativecpmgate.com
+0.0.0.0 pl16396125.effectiveperformancenetwork.com
 0.0.0.0 pl16396249.alternativecpmgate.com
+0.0.0.0 pl16396249.effectiveperformancenetwork.com
 0.0.0.0 pl16396286.highperformancecpm.com
+0.0.0.0 pl16396462.effectiveperformancenetwork.com
+0.0.0.0 pl16396859.effectiveperformancenetwork.com
+0.0.0.0 pl16397242.effectiveperformancenetwork.com
+0.0.0.0 pl16398093.effectiveperformancenetwork.com
+0.0.0.0 pl16399554.effectiveperformancenetwork.com
+0.0.0.0 pl16399593.effectiveperformancenetwork.com
+0.0.0.0 pl16399994.effectiveperformancenetwork.com
+0.0.0.0 pl16400035.effectiveperformancenetwork.com
 0.0.0.0 pl16400778.alternativecpmgate.com
 0.0.0.0 pl16400778.highperformancecpm.com
 0.0.0.0 pl16401637.alternativecpmgate.com
@@ -15463,6 +15651,7 @@
 0.0.0.0 pl16408925.alternativecpmgate.com
 0.0.0.0 pl16409883.alternativecpmgate.com
 0.0.0.0 pl16410535.alternativecpmgate.com
+0.0.0.0 pl16411730.highperformancecpm.com
 0.0.0.0 pl16416232.alternativecpmgate.com
 0.0.0.0 pl16416500.alternativecpmgate.com
 0.0.0.0 pl16417093.highperformancecpm.com
@@ -15483,6 +15672,7 @@
 0.0.0.0 pl16434445.alternativecpmgate.com
 0.0.0.0 pl16434448.alternativecpmgate.com
 0.0.0.0 pl16434678.alternativecpmgate.com
+0.0.0.0 pl16434815.highperformancecpm.com
 0.0.0.0 pl16434918.alternativecpmgate.com
 0.0.0.0 pl16436009.alternativecpmgate.com
 0.0.0.0 pl16438376.alternativecpmgate.com
@@ -15516,18 +15706,24 @@
 0.0.0.0 pl16470264.highperformancecpm.com
 0.0.0.0 pl16470623.highperformancecpm.com
 0.0.0.0 pl16471013.highperformancecpm.com
+0.0.0.0 pl16474043.highperformancecpm.com
 0.0.0.0 pl16475521.highperformancecpm.com
+0.0.0.0 pl16475559.highperformancecpm.com
 0.0.0.0 pl16477626.highperformancecpm.com
 0.0.0.0 pl16478859.highperformancecpm.com
 0.0.0.0 pl16479002.highperformancecpm.com
 0.0.0.0 pl16480878.highperformancecpm.com
 0.0.0.0 pl16481021.highperformancecpm.com
+0.0.0.0 pl16482858.highperformancecpm.com
 0.0.0.0 pl16482933.highperformancecpm.com
 0.0.0.0 pl16484003.highperformancecpm.com
 0.0.0.0 pl16484513.highperformancecpm.com
 0.0.0.0 pl16484701.highperformancecpm.com
 0.0.0.0 pl16486748.highperformancecpm.com
 0.0.0.0 pl16487469.highperformancecpm.com
+0.0.0.0 pl16487557.highperformancecpm.com
+0.0.0.0 pl16487602.highperformancecpm.com
+0.0.0.0 pl16489225.highperformancecpm.com
 0.0.0.0 pl16492161.highperformancecpm.com
 0.0.0.0 pl16492618.highperformancecpm.com
 0.0.0.0 pl16492795.highperformancecpm.com
@@ -15535,9 +15731,13 @@
 0.0.0.0 pl16498262.highperformancecpm.com
 0.0.0.0 pl16498338.highperformancecpm.com
 0.0.0.0 pl16499771.highperformancecpm.com
+0.0.0.0 pl16501353.highperformancecpm.com
+0.0.0.0 pl16501461.highperformancecpm.com
+0.0.0.0 pl16503758.highperformancecpm.com
 0.0.0.0 pl3864592.pvclouds.com
 0.0.0.0 pl3867237.highperformancecpm.com
 0.0.0.0 pl3867237.highperformancecpmnetwork.com
+0.0.0.0 pl3868948.effectiveperformancenetwork.com
 0.0.0.0 pl3911606.passtechusa.com
 0.0.0.0 pl3941628.pvclouds.com
 0.0.0.0 pl5102.gatetotrustednetwork.com
@@ -15556,6 +15756,7 @@
 0.0.0.0 platform.amobee.com
 0.0.0.0 platform.appcelerator.com
 0.0.0.0 platform.bidgear.com
+0.0.0.0 platform.justpremium.com
 0.0.0.0 platform.rubiconproject.com
 0.0.0.0 platform.sizmek.com
 0.0.0.0 platformiq-del.aquaplatform.com
@@ -15717,6 +15918,7 @@
 0.0.0.0 popmyads.com
 0.0.0.0 popnewsfeed.com
 0.0.0.0 poponclick.com
+0.0.0.0 popper.ai
 0.0.0.0 poppysol.com
 0.0.0.0 pops.ero-advertising.com
 0.0.0.0 popsads.com
@@ -15805,6 +16007,7 @@
 0.0.0.0 prc.cj.com
 0.0.0.0 prchecker.info
 0.0.0.0 prd-collector-anon.ex.co
+0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 pre.ads.justpremium.compre.ads.justpremium.com
 0.0.0.0 pre3.ads.justpremium.com
 0.0.0.0 pre4sentre8dhf.com
@@ -15842,6 +16045,7 @@
 0.0.0.0 premlp-pt11.365lpodds.com
 0.0.0.0 preponderantbasisbutterfly.com
 0.0.0.0 preprodapi.a4.tl
+0.0.0.0 presidentialthriceinefficient.com
 0.0.0.0 press-here-to-continue.com
 0.0.0.0 press.flurry.com
 0.0.0.0 press.vin
@@ -15856,6 +16060,7 @@
 0.0.0.0 preview.admixer.net
 0.0.0.0 preview.ads.justpremium.com
 0.0.0.0 preview.adsnative.com
+0.0.0.0 preview.justpremium.com
 0.0.0.0 preview.moportals.com
 0.0.0.0 prf.hn
 0.0.0.0 prg.smartadserver.com
@@ -16278,6 +16483,7 @@
 0.0.0.0 qdyfa.bemobtrk.com
 0.0.0.0 qfjherc.com
 0.0.0.0 qfubwupddefjw.com
+0.0.0.0 qfzcwlvmhjgjmi.com
 0.0.0.0 qgaaaa2.admaym.com
 0.0.0.0 qiniucdn.com
 0.0.0.0 qiqu-api.uc.cn
@@ -16732,6 +16938,7 @@
 0.0.0.0 replicauhrenonlineshop.de
 0.0.0.0 repo.amobee.com
 0.0.0.0 report-edge.agora.io
+0.0.0.0 report-ox-d.justpremium.com
 0.0.0.0 report-partners.appmetrica.yandex.net
 0.0.0.0 report-uri.highwebmedia.com
 0.0.0.0 report-uri.mmcdn.com
@@ -16884,6 +17091,7 @@
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rlog.popin.cc
+0.0.0.0 rls-test.ads.justpremium.com
 0.0.0.0 rm.adfalcon.com
 0.0.0.0 rm.pxl.ace.advertising.com
 0.0.0.0 rma.adcolony.com
@@ -16966,6 +17174,7 @@
 0.0.0.0 router.infolinks.com
 0.0.0.0 routgveriprt.com
 0.0.0.0 routing.ads.justpremium.com
+0.0.0.0 routing.justpremium.com
 0.0.0.0 rove.cl
 0.0.0.0 row.bc.yahoo.com
 0.0.0.0 rowoardog.com
@@ -17910,6 +18119,7 @@
 0.0.0.0 siteassets.parastorage.com
 0.0.0.0 sitecdn.tvpage.com
 0.0.0.0 siteencore.com
+0.0.0.0 sitelist.justpremium.com
 0.0.0.0 siterdm.com
 0.0.0.0 sites.newrelic.com
 0.0.0.0 sitescout.com
@@ -18157,6 +18367,7 @@
 0.0.0.0 specificmedia.com
 0.0.0.0 specificpop.com
 0.0.0.0 specs.adfox.ru
+0.0.0.0 specs.justpremium.com
 0.0.0.0 speed4cksa.ero-advertising.com
 0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 speedclics.ero-advertising.com
@@ -18175,6 +18386,7 @@
 0.0.0.0 spieleinsel.net
 0.0.0.0 spieletempel.net
 0.0.0.0 spielzeugbaum.de
+0.0.0.0 spinachtighten.com
 0.0.0.0 spirationsstrated.club
 0.0.0.0 spiritualwindy.com
 0.0.0.0 spixel.adsafeprotected.com
@@ -18235,6 +18447,7 @@
 0.0.0.0 srcu.com
 0.0.0.0 srkft.com
 0.0.0.0 srppykbedhqp.com
+0.0.0.0 srv-1970-01-01-00.pixel.parsely.com
 0.0.0.0 srv-2020-07-30-18.pixel.parsely.com
 0.0.0.0 srv-ca-to-1.buysellads.com
 0.0.0.0 srv-eu-ldn-10.buysellads.com
@@ -18408,6 +18621,7 @@
 0.0.0.0 starclean24hours.de
 0.0.0.0 starcoins.ws
 0.0.0.0 stargamesaffiliate.com
+0.0.0.0 starkpropagandaattacks.com
 0.0.0.0 starlayer.com
 0.0.0.0 starshopping24.store
 0.0.0.0 start.watchmovie.fun
@@ -18585,6 +18799,7 @@
 0.0.0.0 stats.hprofits.com
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.jpush.cn
+0.0.0.0 stats.justpremium.com
 0.0.0.0 stats.logger.pw
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pornnperfect.com
@@ -18851,6 +19066,7 @@
 0.0.0.0 symbolon-kartenberatung-wimmer.de
 0.0.0.0 synad.tw.nuffnang.com
 0.0.0.0 sync-ayl.adotmob.com
+0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync-staging.atsptp.com
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adaptv.advertising.com
@@ -18858,6 +19074,7 @@
 0.0.0.0 sync.admixer.co.kr
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.adviad.com
+0.0.0.0 sync.connectad.io
 0.0.0.0 sync.fastclick.net
 0.0.0.0 sync.feed-xml.com
 0.0.0.0 sync.go.sonobi.com
@@ -18964,6 +19181,7 @@
 0.0.0.0 tabookbusines.info
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 taboola.com
+0.0.0.0 tacking.justpremium.com
 0.0.0.0 tackledisplay.com
 0.0.0.0 tacoda.at.atwola.com
 0.0.0.0 tacrater.com
@@ -19291,6 +19509,7 @@
 0.0.0.0 thosemomentsofserendipity.com
 0.0.0.0 thoughclassifiedjeff.com
 0.0.0.0 three-jj.github.io
+0.0.0.0 thrillrinsecombined.com
 0.0.0.0 thterras.com
 0.0.0.0 thumb-v-cl.xhcdn.com
 0.0.0.0 thumb-v1.xhcdn.com
@@ -19347,6 +19566,7 @@
 0.0.0.0 tjfot.com
 0.0.0.0 tk.1plus.io
 0.0.0.0 tk.ads.justpremium.com
+0.0.0.0 tk.justpremium.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkqlhce.com
 0.0.0.0 tkr.arc.io
@@ -19464,6 +19684,7 @@
 0.0.0.0 tothisimpo.biz
 0.0.0.0 totogetica.com
 0.0.0.0 touchads.com
+0.0.0.0 touchycart.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tourchild.top
 0.0.0.0 tours.lustseek.com
@@ -20484,6 +20705,7 @@
 0.0.0.0 tracking.zeotap.com
 0.0.0.0 tracking1.marketmind.com
 0.0.0.0 tracking101.com
+0.0.0.0 tracking2.justpremium.com
 0.0.0.0 trackingcn.rayjump.com
 0.0.0.0 trackingfield.info
 0.0.0.0 trackingsoft.com
@@ -20637,6 +20859,7 @@
 0.0.0.0 trkclk.net
 0.0.0.0 trker.com
 0.0.0.0 trklnks.com
+0.0.0.0 trkpc.net
 0.0.0.0 trks.us
 0.0.0.0 trmit.com
 0.0.0.0 trmnsite.com
@@ -20738,6 +20961,7 @@
 0.0.0.0 twtad.com
 0.0.0.0 twzfqxmt.com
 0.0.0.0 tx-apiv2.kibads.com
+0.0.0.0 tx-ulog.snackvideo.com
 0.0.0.0 tx.cdnjs.work
 0.0.0.0 txb6i.rdtk.io
 0.0.0.0 txtimpact.com
@@ -20870,6 +21094,7 @@
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulrich-list.de
+0.0.0.0 ultimowraxle.com
 0.0.0.0 ultraeventgroup.com
 0.0.0.0 ultycurveylips.info
 0.0.0.0 ulukaris.com
@@ -21049,6 +21274,7 @@
 0.0.0.0 usdk.batmobi.net
 0.0.0.0 use-sync.adhese.com
 0.0.0.0 use.cc.loginfra.com
+0.0.0.0 use1-match.justpremium.com
 0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 usemax.de
 0.0.0.0 usenetjunction.com
@@ -21079,6 +21305,7 @@
 0.0.0.0 ustat.batmobi.net
 0.0.0.0 ustest.livejasmin.com
 0.0.0.0 usurv.com
+0.0.0.0 usw2-match.justpremium.com
 0.0.0.0 usweb.dotomi.com
 0.0.0.0 usxmrpool.com
 0.0.0.0 usync-wdc.nexage.com
@@ -22324,7 +22551,9 @@
 0.0.0.0 www.clixsense.com
 0.0.0.0 www.cloud.appcelerator.com
 0.0.0.0 www.cnossxqkdoupxw.com
+0.0.0.0 www.codedexchange.com
 0.0.0.0 www.coinjinja.com
+0.0.0.0 www.connectad.io
 0.0.0.0 www.consumerproductsusa.com
 0.0.0.0 www.content.ad
 0.0.0.0 www.contentabc.com
@@ -22384,6 +22613,7 @@
 0.0.0.0 www.ecpms.net
 0.0.0.0 www.edvfwlacluo.com
 0.0.0.0 www.eedclicks.ero-advertising.com
+0.0.0.0 www.effectiveperformancenetwork.com
 0.0.0.0 www.egorlz.eu
 0.0.0.0 www.egwolz4g.com
 0.0.0.0 www.ehkvtodjwanjfk.com
@@ -22665,6 +22895,7 @@
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
 0.0.0.0 www.oclgbmykr.com
+0.0.0.0 www.ogqcuudzsuukds.com
 0.0.0.0 www.oipcqenejq.com
 0.0.0.0 www.onclickalgo.com
 0.0.0.0 www.onclickmega.com
@@ -22724,6 +22955,7 @@
 0.0.0.0 www.popbounty.com
 0.0.0.0 www.popcash.net
 0.0.0.0 www.popmonetizer.com
+0.0.0.0 www.popper.ai
 0.0.0.0 www.pops.ero-advertising.com
 0.0.0.0 www.popt.in
 0.0.0.0 www.pornnperfect.com
@@ -22755,6 +22987,7 @@
 0.0.0.0 www.pussysaga.com
 0.0.0.0 www.pwondjwwgqahw.com
 0.0.0.0 www.qdayipnsir.com
+0.0.0.0 www.qfzcwlvmhjgjmi.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qrclevrfjw.com
 0.0.0.0 www.queryly.com
@@ -23221,6 +23454,7 @@
 0.0.0.0 xml.fastdln.com
 0.0.0.0 xml.fastdlr.com
 0.0.0.0 xml.mobipromote.com
+0.0.0.0 xml.osmanonline.co.uk
 0.0.0.0 xml.plaimedia.com
 0.0.0.0 xml.popmonetizer.com
 0.0.0.0 xml.popmonetizer.net
