@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.226
 # Release: 226
-# Entries: 23,797
+# Entries: 23,796
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 14 Aug 21 15:10:28
+# Updated: Sat, 14 Aug 21 23:40:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -18790,7 +18790,6 @@
 0.0.0.0 stats.arabnews.com
 0.0.0.0 stats.bilsyndication.com
 0.0.0.0 stats.bongobd.com
-0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.cliqz.com
 0.0.0.0 stats.data2.ero-advertising.com
 0.0.0.0 stats.ero-advertising.com
