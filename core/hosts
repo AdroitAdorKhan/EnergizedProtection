@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.08.227
-# Release: 227
-# Entries: 23,991
+# Version: 21.08.228
+# Release: 228
+# Entries: 24,019
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 15 Aug 21 23:40:17
+# Updated: Mon, 16 Aug 21 11:40:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1518,6 +1518,7 @@
 0.0.0.0 adinc.co.kr
 0.0.0.0 adincon.com
 0.0.0.0 adindigo.com
+0.0.0.0 adinfo.aol.com
 0.0.0.0 adingo.jp
 0.0.0.0 adinjector.net
 0.0.0.0 adintend.com
@@ -6304,6 +6305,7 @@
 0.0.0.0 cloudera.demdex.net
 0.0.0.0 cloudfrale.com
 0.0.0.0 cloudiiv.com
+0.0.0.0 cloudsc1s2.com
 0.0.0.0 clubdelmar.at
 0.0.0.0 clubmaritimodemarbella.com
 0.0.0.0 cluodlfare.com
@@ -7088,6 +7090,7 @@
 0.0.0.0 d.workflowboard.com
 0.0.0.0 d01fa.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
+0.0.0.0 d1490khl9dq1ow.cloudfront.net
 0.0.0.0 d14qpp2he5atys.cloudfront.net
 0.0.0.0 d18t35yyry2k49.cloudfront.net
 0.0.0.0 d1a3jb5hjny5s4.cloudfront.net
@@ -7429,11 +7432,13 @@
 0.0.0.0 desigactinific.pro
 0.0.0.0 designer-second-hand-shop.com
 0.0.0.0 desitiktok18.com
+0.0.0.0 desitiktok18.in
 0.0.0.0 desivideo.online
 0.0.0.0 desklks.com
 0.0.0.0 desktest1.xyz
 0.0.0.0 desktest5.xyz
 0.0.0.0 desktop.spotify.com
+0.0.0.0 desty.page
 0.0.0.0 deswhatlike.biz
 0.0.0.0 det.hasmobi.net
 0.0.0.0 deta.ero-advertising.com
@@ -7633,6 +7638,7 @@
 0.0.0.0 dlmonitize.com
 0.0.0.0 dlp.adgear.com
 0.0.0.0 dlpstag.adgear.com
+0.0.0.0 dm0qx8t0i9gc9.cloudfront.net
 0.0.0.0 dmcdn.yieldbird.com
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dminiumwhethe.info
@@ -7842,6 +7848,7 @@
 0.0.0.0 dub-1-sync.go.sonobi.com
 0.0.0.0 dub-1-xcp.go.sonobi.com
 0.0.0.0 dub-1.go.sonobi.com
+0.0.0.0 dubodufy.com
 0.0.0.0 dumedia.ru
 0.0.0.0 dummy-sync.adhese.com
 0.0.0.0 dumontnet.demdex.net
@@ -9241,6 +9248,7 @@
 0.0.0.0 gcdn.anvato.net
 0.0.0.0 gcdn2.2mdn.net
 0.0.0.0 gcdnsl.com
+0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 gchbbcgadiadjiaceea.ru
 0.0.0.0 gcm-dev.wshareit.com
 0.0.0.0 gcmapi.wshareit.com
@@ -10137,6 +10145,7 @@
 0.0.0.0 hotelsdevice.top
 0.0.0.0 hotelzelenivenac.com
 0.0.0.0 hotgirl18.net
+0.0.0.0 hotjar.com
 0.0.0.0 hotjatt.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
@@ -11090,6 +11099,7 @@
 0.0.0.0 j35cg.bemobtrk.com
 0.0.0.0 j6qea.rdtk.io
 0.0.0.0 ja.support.appsflyer.com
+0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jacketsnf.com
 0.0.0.0 jackewellensteyn.com
 0.0.0.0 jacmnkcusf.com
@@ -16429,6 +16439,7 @@
 0.0.0.0 pubreport.webeyemob.com
 0.0.0.0 pubs.contextads.live
 0.0.0.0 pubs.ouedkniss.com
+0.0.0.0 pubsub.googleapis.com
 0.0.0.0 pubx.co
 0.0.0.0 pubyun.com
 0.0.0.0 puds-down.uc.cn
@@ -17094,6 +17105,7 @@
 0.0.0.0 report.syzs.qq.com
 0.0.0.0 report.textra.me
 0.0.0.0 report.webclicks24.com
+0.0.0.0 report1.midasbuy.com
 0.0.0.0 reporting-dashboard.rubiconproject.com
 0.0.0.0 reporting-gc.adgear.com
 0.0.0.0 reporting-ui.rakutenmarketing.com
@@ -18649,6 +18661,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv208.hollywood.to
 0.0.0.0 srv26.adcash.com
+0.0.0.0 srv3.airdroid.com
 0.0.0.0 srv999.hollywood.to
 0.0.0.0 srvcc-cdn.media.net
 0.0.0.0 srvcc-e.media.net
@@ -18735,6 +18748,7 @@
 0.0.0.0 stage-bevo.adsnative.com
 0.0.0.0 stage-img.applovin.com
 0.0.0.0 stage-instayp.yieldlab.net
+0.0.0.0 stage-jac.yahoosandbox.com
 0.0.0.0 stage-pdn.applovin.com
 0.0.0.0 stage-vid.applovin.com
 0.0.0.0 stage-www.applovin.com
@@ -18829,6 +18843,7 @@
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat001.com
 0.0.0.0 stat24.com
+0.0.0.0 stat3.airdroid.com
 0.0.0.0 statdb.blogads.com
 0.0.0.0 statesol.net
 0.0.0.0 stathat.com
@@ -18945,6 +18960,7 @@
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticcfstg.adsafeprotected.com
 0.0.0.0 statics.audienceinsights.net
+0.0.0.0 statics.esputnik.com
 0.0.0.0 statics.letfap.com
 0.0.0.0 statics.seedtag.com
 0.0.0.0 staticx1.new.livejasmincdn.com
@@ -18952,16 +18968,19 @@
 0.0.0.0 staticx3.new.livejasmincdn.com
 0.0.0.0 staticx4.new.livejasmincdn.com
 0.0.0.0 statistic.ads24h.net
+0.0.0.0 statistic.live.126.net
 0.0.0.0 statistics.pornnperfect.com
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.hasmobi.net
 0.0.0.0 statok.net
 0.0.0.0 statpipe.ru
 0.0.0.0 statres.quickapp.cn
+0.0.0.0 stats.aec.at
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.arabnews.com
 0.0.0.0 stats.bilsyndication.com
 0.0.0.0 stats.bongobd.com
+0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.cliqz.com
 0.0.0.0 stats.data2.ero-advertising.com
 0.0.0.0 stats.ero-advertising.com
@@ -18972,10 +18991,12 @@
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.justpremium.com
 0.0.0.0 stats.logger.pw
+0.0.0.0 stats.migolive.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pornnperfect.com
 0.0.0.0 stats.postgen.com
 0.0.0.0 stats.propellerads.com
+0.0.0.0 stats.revenuecat.com
 0.0.0.0 stats.rubiconproject.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.snaptasti.cc
@@ -19715,6 +19736,8 @@
 0.0.0.0 tigerhysteriaspree.com
 0.0.0.0 tikjbfpd.com
 0.0.0.0 tiktok-news.com
+0.0.0.0 tiktok18.pro
+0.0.0.0 tiktok18.store
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tiledenherred.pro
 0.0.0.0 tiller.co
@@ -20768,6 +20791,7 @@
 0.0.0.0 tracker.easylood.net
 0.0.0.0 tracker.emailaptitude.com
 0.0.0.0 tracker.ero-advertising.com
+0.0.0.0 tracker.esputnik.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.free2u.org
 0.0.0.0 tracker.gtarcade.com
@@ -22015,11 +22039,13 @@
 0.0.0.0 wanabone.com
 0.0.0.0 wanderschuhesale.com
 0.0.0.0 waneloluxury.com
+0.0.0.0 wannos.127.net
 0.0.0.0 wap.advertising.com
 0.0.0.0 wap.uc.cn
 0.0.0.0 wapaccess.mobi
 0.0.0.0 waploft.cc
 0.0.0.0 waploft.com
+0.0.0.0 wapo-analytics.zeustechnology.com
 0.0.0.0 wapsisod.net
 0.0.0.0 warenhandelpro.com
 0.0.0.0 warlog.info
@@ -23449,6 +23475,7 @@
 0.0.0.0 www.zendplace.pro
 0.0.0.0 www.zenfield.pro
 0.0.0.0 www.zfutrfvgfdr.com
+0.0.0.0 www.zkbkcdhieqcoev.com
 0.0.0.0 www.zmnkduay.com
 0.0.0.0 www.zmuphhlienv.com
 0.0.0.0 www.znxvuabzgm.com
@@ -23981,6 +24008,7 @@
 0.0.0.0 ziqdunppuzjd.com
 0.0.0.0 zismattighofen.at
 0.0.0.0 zitate-per-mail.de
+0.0.0.0 zkbkcdhieqcoev.com
 0.0.0.0 zkoumvpngkubl.com
 0.0.0.0 zlfgedpuxrbpgm.com
 0.0.0.0 zlx.com.br
