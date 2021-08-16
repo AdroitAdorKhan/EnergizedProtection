@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.228
 # Release: 228
-# Entries: 24,019
+# Entries: 24,018
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 16 Aug 21 11:40:18
+# Updated: Mon, 16 Aug 21 23:40:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7499,7 +7499,6 @@
 0.0.0.0 dewaletevo.top
 0.0.0.0 dexchangeinc.com
 0.0.0.0 df.telemetry.microsoft.com
-0.0.0.0 df17fp68uwcso.cloudfront.net
 0.0.0.0 dffijaiagajbedddccc.ru
 0.0.0.0 dfkcnyhd.nl
 0.0.0.0 dfp.doubleclick.net
