@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.08.229
-# Release: 229
-# Entries: 24,131
+# Version: 21.08.230
+# Release: 230
+# Entries: 24,154
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 17 Aug 21 23:40:20
+# Updated: Wed, 18 Aug 21 11:40:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -819,6 +819,7 @@
 0.0.0.0 a.connatix.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.cookpad-ads.com
+0.0.0.0 a.dirtyasmr.com
 0.0.0.0 a.dlx.addthis.com
 0.0.0.0 a.dtprofit.com
 0.0.0.0 a.ero-advertising.com
@@ -849,6 +850,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optmstr.com
+0.0.0.0 a.plerdy.com
 0.0.0.0 a.plugrush.com
 0.0.0.0 a.postrelease.com
 0.0.0.0 a.pub.network
@@ -1294,6 +1296,7 @@
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.ero-advertising.com
 0.0.0.0 ad1.kde.cz
+0.0.0.0 ad18.biz
 0.0.0.0 ad2.360yield.com
 0.0.0.0 ad2.adriver.ru
 0.0.0.0 ad2.api.ero-advertising.com
@@ -3737,6 +3740,7 @@
 0.0.0.0 apac-glo.trnowspeed.com
 0.0.0.0 apac.analytics.yahoo.com
 0.0.0.0 aparvibices.com
+0.0.0.0 apbbjmp.com
 0.0.0.0 apcdn.lijit.com
 0.0.0.0 apctechgroup.com
 0.0.0.0 apdomonline.com
@@ -4462,6 +4466,7 @@
 0.0.0.0 b.kcolbda.com
 0.0.0.0 b.mobigiftglobal.xyz
 0.0.0.0 b.pbprof.com
+0.0.0.0 b.plerdy.com
 0.0.0.0 b.r10.mopub.com
 0.0.0.0 b.rad.atdmt.com
 0.0.0.0 b.scorecardresearch.com
@@ -4741,6 +4746,7 @@
 0.0.0.0 beead.co.uk
 0.0.0.0 beead.net
 0.0.0.0 beeashale.club
+0.0.0.0 beeintercourseoven.com
 0.0.0.0 beewanuk.net
 0.0.0.0 befirstcdn.com
 0.0.0.0 beget.tech
@@ -5362,6 +5368,7 @@
 0.0.0.0 c.parsely.com
 0.0.0.0 c.payserve.com
 0.0.0.0 c.pleasurefindyou.info
+0.0.0.0 c.plerdy.com
 0.0.0.0 c.plyvst.com
 0.0.0.0 c.ptgncdn.com
 0.0.0.0 c.pub.network
@@ -5854,6 +5861,7 @@
 0.0.0.0 cdn.vdosupreme.com
 0.0.0.0 cdn.viadata.store
 0.0.0.0 cdn.viglink.com
+0.0.0.0 cdn.voluumtlkrnarketing.com
 0.0.0.0 cdn.webclicks24.com
 0.0.0.0 cdn.wowtrk.com
 0.0.0.0 cdn.wshareit.com
@@ -7112,6 +7120,7 @@
 0.0.0.0 d.justpremium.com
 0.0.0.0 d.liadm.com
 0.0.0.0 d.mordi.xyz
+0.0.0.0 d.plerdy.com
 0.0.0.0 d.pub.network
 0.0.0.0 d.r10.mopub.com
 0.0.0.0 d.scorecardresearch.com
@@ -7404,6 +7413,7 @@
 0.0.0.0 del-del-ete.com
 0.0.0.0 delcadora-store.de
 0.0.0.0 deliberatelyadvancing.com
+0.0.0.0 deligrassdull.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 deliver.trafficfabrik.com
 0.0.0.0 deliver.vkcdnservice.com
@@ -8252,6 +8262,7 @@
 0.0.0.0 ememoricane.info
 0.0.0.0 emeraldcityautobody.com
 0.0.0.0 emerelle-nails.de
+0.0.0.0 emerodsours.cam
 0.0.0.0 eminer.net
 0.0.0.0 emjcd.com
 0.0.0.0 emma-facialharmony.at
@@ -8281,6 +8292,7 @@
 0.0.0.0 engine.addroplet.com
 0.0.0.0 engine.blacraft.com
 0.0.0.0 engine.rbc.medialand.ru
+0.0.0.0 engine.voluumtlkrnarketing.com
 0.0.0.0 engineering.mopub.com
 0.0.0.0 engineering.outbrain.com
 0.0.0.0 engineering.taboola.com
@@ -8756,6 +8768,7 @@
 0.0.0.0 fi.advertising.com
 0.0.0.0 fiahcdedjfiaeiacadh.ru
 0.0.0.0 fictionstudio.de
+0.0.0.0 fieldofbachus.com
 0.0.0.0 fierceharmlessjacket.com
 0.0.0.0 fightland24.de
 0.0.0.0 fikri-ayo.com
@@ -10141,6 +10154,7 @@
 0.0.0.0 hnjwxgoods.com
 0.0.0.0 hnntube.com
 0.0.0.0 hobbsfashiondresses.com
+0.0.0.0 hockeysmilebrisk.com
 0.0.0.0 hoefner-janssen.de
 0.0.0.0 hoenytype.com
 0.0.0.0 hof-liebig.de
@@ -11477,6 +11491,7 @@
 0.0.0.0 karottenzuschlag.de
 0.0.0.0 kasmani-electrodomesticos.es
 0.0.0.0 kaspibau.de
+0.0.0.0 katie.v4.omgtnc.com
 0.0.0.0 kauaihealthtraining.org
 0.0.0.0 kaufhalle-shop.de
 0.0.0.0 kauflandstiftung.demdex.net
@@ -12348,6 +12363,7 @@
 0.0.0.0 luckypool.io
 0.0.0.0 ludo.ezyro.com
 0.0.0.0 luekewagner.de
+0.0.0.0 luj21.proasdf.com
 0.0.0.0 lululike.com
 0.0.0.0 lumilights.de
 0.0.0.0 luminzowatches.com
@@ -13450,6 +13466,7 @@
 0.0.0.0 mtvn.demdex.net
 0.0.0.0 mu5oi.rdtk.io
 0.0.0.0 muahohanghoa.com
+0.0.0.0 muchotrust.com
 0.0.0.0 mudanzas-al-extranjero.es
 0.0.0.0 mudesa.ml
 0.0.0.0 mugleafly.com
@@ -18741,6 +18758,7 @@
 0.0.0.0 srv.flixsport.co
 0.0.0.0 srv.moportals.com
 0.0.0.0 srv.pixel.parsely.com
+0.0.0.0 srv.plerdy.com
 0.0.0.0 srv208.hollywood.to
 0.0.0.0 srv26.adcash.com
 0.0.0.0 srv3.airdroid.com
@@ -18912,6 +18930,7 @@
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.hasmobi.net
+0.0.0.0 stat.i3.dmm.com
 0.0.0.0 stat.maalaimalar.com
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.networkmanag.com
@@ -19743,6 +19762,7 @@
 0.0.0.0 thedemocraticpost.com
 0.0.0.0 thedoctors.healthfindings.website
 0.0.0.0 thedunhamfamily.com
+0.0.0.0 thefappening2015.com
 0.0.0.0 thefuncoolstuff.com
 0.0.0.0 thegreenzoneblog.com
 0.0.0.0 thehannashop.com
@@ -20898,6 +20918,7 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novalayer.org
 0.0.0.0 tracker.plasticlovers.co.uk
+0.0.0.0 tracker.plerdy.com
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.secureboxes.net
 0.0.0.0 tracker.slash-7.com
@@ -23266,6 +23287,7 @@
 0.0.0.0 www.playamo23.com
 0.0.0.0 www.playamo30.com
 0.0.0.0 www.playuc.xyz
+0.0.0.0 www.plerdy.com
 0.0.0.0 www.plufdsb.com
 0.0.0.0 www.plustgl.info
 0.0.0.0 www.pntra.com
@@ -23511,6 +23533,7 @@
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.videos.livejasmin.co.com
 0.0.0.0 www.visariomedia.com
+0.0.0.0 www.voluumtlkrnarketing.com
 0.0.0.0 www.vpn-scanning0.site
 0.0.0.0 www.vyprcnoverthewall.com
 0.0.0.0 www.watchmovie.fun
