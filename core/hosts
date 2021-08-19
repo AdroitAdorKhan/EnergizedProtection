@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.08.230
-# Release: 230
-# Entries: 24,154
+# Version: 21.08.231
+# Release: 231
+# Entries: 24,312
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 18 Aug 21 23:40:20
+# Updated: Thu, 19 Aug 21 11:40:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -49,6 +49,7 @@
 # --------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # --------------------------------------------
+0.0.0.0 000f378090e2706f51b54df7358b7608.safeframe.googlesyndication.com
 0.0.0.0 01.adnxs.com
 0.0.0.0 01.creativecdn.com
 0.0.0.0 01mspmd5yalky8.com
@@ -56,8 +57,12 @@
 0.0.0.0 02.gw.flurry.com
 0.0.0.0 0202.com.tw
 0.0.0.0 062kj.rdtk.io
+0.0.0.0 070ba158d714f0799803d2ff78aba575.safeframe.googlesyndication.com
 0.0.0.0 08lb75.com
+0.0.0.0 0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
 0.0.0.0 0byv9mgbn0.com
+0.0.0.0 0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
+0.0.0.0 0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0latfee.ero-advertising.com
 0.0.0.0 0le8u.bemobtrk.com
@@ -192,6 +197,7 @@
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13xr7th.edvfwlacluo.com
 0.0.0.0 1414113.collect.igodigital.com
+0.0.0.0 1472334c4b1039dcbd571e5ffa58e7f8.safeframe.googlesyndication.com
 0.0.0.0 149366112.v2.pressablecdn.com
 0.0.0.0 14nuzznszbdp.com
 0.0.0.0 15.nbryb.com
@@ -201,6 +207,7 @@
 0.0.0.0 15438.xyz
 0.0.0.0 1591041031.m-wlmw.com
 0.0.0.0 1591041119.m-wlmw.com
+0.0.0.0 159747eac01f5a559eb26d68e58d4104.safeframe.googlesyndication.com
 0.0.0.0 15c15bi.edvfwlacluo.com
 0.0.0.0 15elon9.edvfwlacluo.com
 0.0.0.0 15iqb7n.edvfwlacluo.com
@@ -221,14 +228,17 @@
 0.0.0.0 1997media.com
 0.0.0.0 19ichdq.edvfwlacluo.com
 0.0.0.0 19n3w2i.edvfwlacluo.com
+0.0.0.0 1af8335639be93bbd108f449fb2d6c27.safeframe.googlesyndication.com
 0.0.0.0 1aurl.net
 0.0.0.0 1b69ahb.edvfwlacluo.com
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1bca644cbcd6b9d944cb4b091b7efebdb690cc7f.cloudapp-enterprise.appcelerator.com
 0.0.0.0 1buup5r.edvfwlacluo.com
 0.0.0.0 1ccbt.com
+0.0.0.0 1cf4f195b2ff3a353d6f40c3cf155556.safeframe.googlesyndication.com
 0.0.0.0 1cloud-tech-sites.info
 0.0.0.0 1coxgbq.edvfwlacluo.com
+0.0.0.0 1d39332e5627d9f068f7d518b89b2b5c.safeframe.googlesyndication.com
 0.0.0.0 1d5dd3cd582.traffic-c.com
 0.0.0.0 1d5ddc19790.traffic-c.com
 0.0.0.0 1d5ddd6fa45.traffic-c.com
@@ -359,8 +369,10 @@
 0.0.0.0 24vunvrv.com
 0.0.0.0 25.nbryb.com
 0.0.0.0 252fclk.tradedoubler.com
+0.0.0.0 25eaf1aeb872eda2511fc352879ae0e0.safeframe.googlesyndication.com
 0.0.0.0 26.winprizes926.fun
 0.0.0.0 264g1.fasdfgsdf.com
+0.0.0.0 26bfad5cf5992608af6fb5c6cc64cec8.safeframe.googlesyndication.com
 0.0.0.0 27.nbryb.com
 0.0.0.0 28.nbryb.com
 0.0.0.0 2818w.huronews.com
@@ -369,6 +381,7 @@
 0.0.0.0 2915481222.peerclicktrk.com
 0.0.0.0 2a12be6140880286.com
 0.0.0.0 2ajde.rdtk.io
+0.0.0.0 2b71cc1fd287dd801f5869ead0042d0f.safeframe.googlesyndication.com
 0.0.0.0 2baners.ero-advertising.com
 0.0.0.0 2cnjuh34jbhub.com
 0.0.0.0 2cnjuh34jbman.com
@@ -376,6 +389,7 @@
 0.0.0.0 2d7bd9e6eb370143.com
 0.0.0.0 2ds.ero-advertising.com
 0.0.0.0 2e27bf1f09307aeb.com
+0.0.0.0 2ef37866ec641fca8375f22bc7b059ce.safeframe.googlesyndication.com
 0.0.0.0 2fc.smartclick.net
 0.0.0.0 2fclk.tradedoubler.com
 0.0.0.0 2fclkuk.tradedoubler.com
@@ -402,9 +416,11 @@
 0.0.0.0 2tomp.rdtk.io
 0.0.0.0 3.redirect.appmetrica.yandex.com
 0.0.0.0 3.stream.livejasmin.com
+0.0.0.0 302811581b6fb5503e12979ae3b8485e.safeframe.googlesyndication.com
 0.0.0.0 30488.redirect.appmetrica.yandex.com
 0.0.0.0 30netzteil.de
 0.0.0.0 31.nbryb.com
+0.0.0.0 315ffc5a08bcf28d70b1bffebce4dbef.safeframe.googlesyndication.com
 0.0.0.0 3164401.notifysrv.com
 0.0.0.0 3164603.notifysrv.com
 0.0.0.0 3169269.notifysrv.com
@@ -447,6 +463,7 @@
 0.0.0.0 3385991.notifysrv.com
 0.0.0.0 3393.com
 0.0.0.0 3396611.notifysrv.com
+0.0.0.0 33a05d9b0a6421c298aebc3cdd85129c.safeframe.googlesyndication.com
 0.0.0.0 33across.com
 0.0.0.0 34.nbryb.com
 0.0.0.0 3402191.notifysrv.com
@@ -527,7 +544,9 @@
 0.0.0.0 39.nbryb.com
 0.0.0.0 3921002.notify6.com
 0.0.0.0 397c0.admaster.com.cn
+0.0.0.0 3a332002bb8a3960fab66b99f572c42c.safeframe.googlesyndication.com
 0.0.0.0 3c06b86c4147745b.com
+0.0.0.0 3cada77ca3fdd4b3c5ebba8e68ab23ad.safeframe.googlesyndication.com
 0.0.0.0 3cinteractive.com
 0.0.0.0 3dfilter.adright.co
 0.0.0.0 3dm024.edvfwlacluo.com
@@ -535,6 +554,7 @@
 0.0.0.0 3ds.ero-advertising.com
 0.0.0.0 3esu.nbryb.com
 0.0.0.0 3gd64u.cfeucdn.com
+0.0.0.0 3kjailbreak.com
 0.0.0.0 3lift.com
 0.0.0.0 3lift.org
 0.0.0.0 3lr67y45.com
@@ -550,12 +570,14 @@
 0.0.0.0 4.redirect.appmetrica.yandex.com
 0.0.0.0 40.nbryb.com
 0.0.0.0 400.route.to.adtracker.network
+0.0.0.0 41027e215803ba4d136c9dc829def9f4.safeframe.googlesyndication.com
 0.0.0.0 4168233900.peerclicktrk.com
 0.0.0.0 4168233901.peerclicktrk.com
 0.0.0.0 41df76c67812005c.com
 0.0.0.0 41v0r.bemobtrk.com
 0.0.0.0 42134.leninsubscribe.com
 0.0.0.0 42323.transubscribe.com
+0.0.0.0 428c0f9ede3cf3eea13be328388161b4.safeframe.googlesyndication.com
 0.0.0.0 42tage.de
 0.0.0.0 43031aaaecd84428.com
 0.0.0.0 4395963.fls.doubleclick.net
@@ -576,14 +598,20 @@
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 48.nbryb.com
 0.0.0.0 488319.s2.feed-xml.com
+0.0.0.0 48909c60ab861314c22673c2c03b2107.safeframe.googlesyndication.com
 0.0.0.0 493b98cce8bc1a2dd.com
+0.0.0.0 49412801326fbbf9be795d54b42fe8cd.safeframe.googlesyndication.com
 0.0.0.0 4953227.fls.doubleclick.net
 0.0.0.0 49anm.bemobtrk.com
 0.0.0.0 49oa3o49b6.com
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 4armn.com
 0.0.0.0 4crot.com
+0.0.0.0 4d22ce6db7ea3bce76ea6850d59f2410.safeframe.googlesyndication.com
+0.0.0.0 4d2c431d6256d85b49be395855990a62.safeframe.googlesyndication.com
 0.0.0.0 4d3o4.rdtk.io
+0.0.0.0 4e1be7e9d465dc40ff284403f9ad45d3.safeframe.googlesyndication.com
+0.0.0.0 4f0c3ac61f47988abadd42d25f3c82c9.safeframe.googlesyndication.com
 0.0.0.0 4fw4gd.cfeucdn.com
 0.0.0.0 4info.com
 0.0.0.0 4iy2i.bemobtrk.com
@@ -593,6 +621,7 @@
 0.0.0.0 4m1dy.bemobtrk.com
 0.0.0.0 4mads.com
 0.0.0.0 4mj6dxvrio.s.ad6media.fr
+0.0.0.0 4na.weebly.com
 0.0.0.0 4ourkidsky.com
 0.0.0.0 4rt6auqet2rx.com
 0.0.0.0 4schmuck.com
@@ -606,6 +635,8 @@
 0.0.0.0 500008246.collect.igodigital.com
 0.0.0.0 508ec56533e3937e.com
 0.0.0.0 50websads.com
+0.0.0.0 5160d089289bc7689e5875d0b9498ede.safeframe.googlesyndication.com
+0.0.0.0 51def4dff9f54d568e1551f3ada55f17.safeframe.googlesyndication.com
 0.0.0.0 52qpyu.edvfwlacluo.com
 0.0.0.0 54.nbryb.com
 0.0.0.0 5438w.reminews.com
@@ -618,6 +649,7 @@
 0.0.0.0 58680dd9.ngrok.io
 0.0.0.0 58coin.com
 0.0.0.0 5a9yl.bemobtrk.com
+0.0.0.0 5bfc159af1709af72bfd5e8dd26db0ce.safeframe.googlesyndication.com
 0.0.0.0 5erkq.rdtk.io
 0.0.0.0 5fh48.rdtk.io
 0.0.0.0 5fkjgnkbg.club
@@ -641,6 +673,7 @@
 0.0.0.0 6398530.recs.igodigital.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 6421357.collect.igodigital.com
+0.0.0.0 64eb96f1f12234e9528aee0c04e09275.safeframe.googlesyndication.com
 0.0.0.0 65.nbryb.com
 0.0.0.0 6519508.fls.doubleclick.net
 0.0.0.0 659.digitaldsp.com
@@ -650,11 +683,14 @@
 0.0.0.0 67.nbryb.com
 0.0.0.0 6735a55d.ngrok.io
 0.0.0.0 676.digitaldsp.com
+0.0.0.0 6764de1002cd0b32829fb67d3d7d8fbe.safeframe.googlesyndication.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68a6d200.contentabc.com
+0.0.0.0 69e20009548f7062884fd4d0b697fd0e.safeframe.googlesyndication.com
 0.0.0.0 69s.city
 0.0.0.0 6apart.livejasmin.com
 0.0.0.0 6b714f6277c9faa.com
+0.0.0.0 6bc35203f3214c96b179e05c189a8797.safeframe.googlesyndication.com
 0.0.0.0 6eez7ouig7gwguf6.pro
 0.0.0.0 6h04j.bemobtrk.com
 0.0.0.0 6i4uibyg0c82.com
@@ -668,6 +704,7 @@
 0.0.0.0 6zi.notifications.website
 0.0.0.0 70.nbryb.com
 0.0.0.0 7000714.collect.igodigital.com
+0.0.0.0 71jailbreak.com
 0.0.0.0 7200944.collect.igodigital.com
 0.0.0.0 7202503.collect.igodigital.com
 0.0.0.0 7205741.collect.igodigital.com
@@ -684,6 +721,7 @@
 0.0.0.0 7237868.collect.igodigital.com
 0.0.0.0 7237869.collect.igodigital.com
 0.0.0.0 7238213.collect.igodigital.com
+0.0.0.0 723a60265df34ed8bf6d2909de8bc563.safeframe.googlesyndication.com
 0.0.0.0 7247942.collect.igodigital.com
 0.0.0.0 7275358.collect.igodigital.com
 0.0.0.0 7275979.collect.igodigital.com
@@ -712,17 +750,27 @@
 0.0.0.0 75.ag
 0.0.0.0 75.nbryb.com
 0.0.0.0 754daf9cd396259.com
+0.0.0.0 75ac70e71d9118f2eeb7419d3dbcb7ad.safeframe.googlesyndication.com
+0.0.0.0 75e3ee05eb012fac0b759048be14642f.safeframe.googlesyndication.com
 0.0.0.0 7667bab1751ff777.com
 0.0.0.0 76a7doiet256.com
 0.0.0.0 77.nbryb.com
 0.0.0.0 777partner.com
+0.0.0.0 7781a7ea70850b164f00f3c4128fb2a5.safeframe.googlesyndication.com
 0.0.0.0 77tracking.com
 0.0.0.0 79.nbryb.com
 0.0.0.0 79k52baw2qa3.com
+0.0.0.0 7a7bbe3bbcff5b254d9a817c096d340f.safeframe.googlesyndication.com
+0.0.0.0 7bf5e51ddbd274474678d3a6b3fcfcb4.safeframe.googlesyndication.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7click.justpremium.com
+0.0.0.0 7cw2jpjf.sptpub.com
 0.0.0.0 7eer.net
+0.0.0.0 7ef25146f2f13b2acf22da1f9edd8072.safeframe.googlesyndication.com
+0.0.0.0 7ef5f34622cd7eb7181a883dbcb5815d.safeframe.googlesyndication.com
+0.0.0.0 7evasi0n.com
 0.0.0.0 7hor9gul4s.com
+0.0.0.0 7jailbreak.com
 0.0.0.0 7nnr1.edvfwlacluo.com
 0.0.0.0 7pud.com
 0.0.0.0 7search.com
@@ -745,10 +793,14 @@
 0.0.0.0 88mmt.bemobtrk.com
 0.0.0.0 89.nbryb.com
 0.0.0.0 8a8cq8c8yyqjs2xr.pro
+0.0.0.0 8baa3fd72a800f20306452a20559b2f1.safeframe.googlesyndication.com
+0.0.0.0 8bc46ad6fc921bcb60b8b105441e819d.safeframe.googlesyndication.com
+0.0.0.0 8bc58d5669999d68a26f463b28d95076.safeframe.googlesyndication.com
 0.0.0.0 8bef5bb6b351ca5e.com
 0.0.0.0 8bo1k.bemobtrk.com
 0.0.0.0 8cb0309458c7b35e.com
 0.0.0.0 8cu1r8q6k.c.ina.media.net
+0.0.0.0 8dbd6efa69ae9bc571b667a876e6775a.safeframe.googlesyndication.com
 0.0.0.0 8jeyy.bemobtrk.com
 0.0.0.0 8lh5f.bemobtrk.com
 0.0.0.0 8mdfq0gzbs.s.ad6media.fr
@@ -759,14 +811,18 @@
 0.0.0.0 9.nbryb.com
 0.0.0.0 90.nbryb.com
 0.0.0.0 9012732.fls.doubleclick.net
+0.0.0.0 9139e35725e895a573c4c6aa7eb47a9f.safeframe.googlesyndication.com
 0.0.0.0 91e2.com
 0.0.0.0 91pool.com
 0.0.0.0 92.nbryb.com
 0.0.0.0 920sbo17zn88.com
 0.0.0.0 93.nbryb.com
 0.0.0.0 944e66f8683ac43c.com
+0.0.0.0 949581ad2314b4c1d79e4fbac6d95a4b.safeframe.googlesyndication.com
+0.0.0.0 95fd3a8fc71643764116e55e23cab37d.safeframe.googlesyndication.com
 0.0.0.0 96.nbryb.com
 0.0.0.0 96bspinadvisor.com
+0.0.0.0 96fb0aa14404303c87d875c3291400a6.safeframe.googlesyndication.com
 0.0.0.0 97.nbryb.com
 0.0.0.0 970ztqtss4.com
 0.0.0.0 98.nbryb.com
@@ -776,6 +832,8 @@
 0.0.0.0 99miners.com
 0.0.0.0 9aow8j.edvfwlacluo.com
 0.0.0.0 9appslogger.las.uae.uc.cn
+0.0.0.0 9e1ba9d440afd54dc0c7979c3e8e9d14.safeframe.googlesyndication.com
+0.0.0.0 9e771bcbe91a702bbaa7c408be8aa767.safeframe.googlesyndication.com
 0.0.0.0 9ke7.nbryb.com
 0.0.0.0 9lszu.wnerofro.online
 0.0.0.0 9ohbx.bemobtrk.com
@@ -888,19 +946,26 @@
 0.0.0.0 a3cdn.contentabc.com
 0.0.0.0 a3yqjsrczwwp.com
 0.0.0.0 a433.com
+0.0.0.0 a499ba42cd6714ab3d6a04808ffa6294.safeframe.googlesyndication.com
 0.0.0.0 a4cdn.contentabc.com
 0.0.0.0 a4mt150303tl.com
 0.0.0.0 a5a5a.com
+0.0.0.0 a5d988184380c3e474d758a8aafe01bf.safeframe.googlesyndication.com
 0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a61pe7.edvfwlacluo.com
+0.0.0.0 a643a6b0f3d6408a85f1768ab2318b46.safeframe.googlesyndication.com
 0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
+0.0.0.0 a6f2b691fdb01ea94725d56f6782917f.safeframe.googlesyndication.com
 0.0.0.0 a9.fmax.xyz
+0.0.0.0 a91caa134009028021d067c84a689917.safeframe.googlesyndication.com
+0.0.0.0 a997e1a20556f8685cefb1fe4d276361.safeframe.googlesyndication.com
 0.0.0.0 a9nf3hg5c2.com
 0.0.0.0 aa-gb.mgid.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 aa.trafficjunky.net
 0.0.0.0 aa53df329975c325.com
 0.0.0.0 aaashoeschina.com
+0.0.0.0 aab41d9395207e98b9217e5e27065d1d.safeframe.googlesyndication.com
 0.0.0.0 aaddzz.com
 0.0.0.0 aal-brandenburg.de
 0.0.0.0 aalborgfrivilligraad.dk
@@ -960,6 +1025,7 @@
 0.0.0.0 ab-sicht.at
 0.0.0.0 ab.batmobi.net
 0.0.0.0 ab.mopub.com
+0.0.0.0 ab813a3505ee46c4050979c36f1abee3.safeframe.googlesyndication.com
 0.0.0.0 aba-sport.com
 0.0.0.0 abacho.net
 0.0.0.0 abbottlaboratories.demdex.net
@@ -3807,7 +3873,6 @@
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.analytics.nexonm.com
 0.0.0.0 api.analytics.omgpop.com
-0.0.0.0 api.appboy.eu
 0.0.0.0 api.appcelerator.com
 0.0.0.0 api.appcelerator.net
 0.0.0.0 api.appcloudbox.net
@@ -4054,6 +4119,7 @@
 0.0.0.0 apps-ios.crashlytics.com
 0.0.0.0 apps-lon2.cointraffic.io
 0.0.0.0 apps.adjust.io
+0.0.0.0 apps.appshed.com
 0.0.0.0 apps.begun.ru
 0.0.0.0 apps.crashlytics.com
 0.0.0.0 apps.gametube.mobi
@@ -4300,6 +4366,7 @@
 0.0.0.0 atwaaum4gmohvb.ru
 0.0.0.0 atwola.com
 0.0.0.0 atxd.adgear.com
+0.0.0.0 atzekromchan.com
 0.0.0.0 au-gb.mgid.com
 0.0.0.0 au-pn1.adserver.yahoo.com
 0.0.0.0 au.ads.justpremium.com
@@ -4483,8 +4550,11 @@
 0.0.0.0 b2.rumgy.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b2rgt.trafficmagnates.com
+0.0.0.0 b347b5257ae655904252d7aa7ab5eef5.safeframe.googlesyndication.com
+0.0.0.0 b3eb21bbd75364fcaacff49a99cda27d.safeframe.googlesyndication.com
 0.0.0.0 b3uih.trafficmagnates.com
 0.0.0.0 b3z29k1uxb.com
+0.0.0.0 b451ee9d82c5dffaa60a8a74a158a712.safeframe.googlesyndication.com
 0.0.0.0 b4krd.trafficmagnates.com
 0.0.0.0 b5uxs.trafficmagnates.com
 0.0.0.0 b6.scorecardresearch.com
@@ -4492,9 +4562,12 @@
 0.0.0.0 b69kq.com
 0.0.0.0 b8pfulzbyj7h.com
 0.0.0.0 b95.s79.research.de.com
+0.0.0.0 b956d1a0a2ca4565a869807759c90e49.safeframe.googlesyndication.com
+0.0.0.0 ba4e770b1893c1bc8329c446208ad03a.safeframe.googlesyndication.com
 0.0.0.0 baaomenaltho.com
 0.0.0.0 babykosy.com
 0.0.0.0 babysitterpancakerich.com
+0.0.0.0 bac60e17fc186e96243379a68a44f6a8.safeframe.googlesyndication.com
 0.0.0.0 baccara-shop.com
 0.0.0.0 backbeatmedia.com
 0.0.0.0 backend-ssp.adstudio.cloud
@@ -4702,6 +4775,7 @@
 0.0.0.0 be.adserver.yahoo.com
 0.0.0.0 be.lpf.ninja
 0.0.0.0 be.newrelic.com
+0.0.0.0 be0bf544fd3f1a1ba50e0113bac6a3b7.safeframe.googlesyndication.com
 0.0.0.0 beachampass.at
 0.0.0.0 beacon-apac-ane1.rubiconproject.com
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
@@ -4858,6 +4932,7 @@
 0.0.0.0 bezgluten-nl.com
 0.0.0.0 beziehung-retten24.com
 0.0.0.0 bf1.flurry.com
+0.0.0.0 bf750dffc13941f50116add947b2b413.safeframe.googlesyndication.com
 0.0.0.0 bfahhbdhdefiheeeej.ru
 0.0.0.0 bfast.com
 0.0.0.0 bfeofwzszuis.com
@@ -4920,6 +4995,7 @@
 0.0.0.0 bigothesca.pro
 0.0.0.0 bigpulpit.com
 0.0.0.0 bigsalelcq.icu
+0.0.0.0 bigstatus.in
 0.0.0.0 bigtasy.gq
 0.0.0.0 bihamcurchef.cam
 0.0.0.0 bikesopden.com
@@ -5410,6 +5486,7 @@
 0.0.0.0 c2.u5c93.com
 0.0.0.0 c2.w.inmobi.com
 0.0.0.0 c25u2m.trafficmagnates.com
+0.0.0.0 c26b2959ddae8904916c5212d28d2292.safeframe.googlesyndication.com
 0.0.0.0 c2hit.tut.by
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 c2s.startappnetwork.com
@@ -5423,6 +5500,7 @@
 0.0.0.0 c5b39ff13b3259df.com
 0.0.0.0 c73186.com
 0.0.0.0 c8.net.ua
+0.0.0.0 c99a3443bccf60d2577ecacaa6168032.safeframe.googlesyndication.com
 0.0.0.0 ca.ads.justpremium.com
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 ca.akamai.startappservice.com
@@ -5588,10 +5666,12 @@
 0.0.0.0 causticpunctum.casa
 0.0.0.0 cawbarthe.com
 0.0.0.0 cawellreceived.ga
+0.0.0.0 cawkyhouhere.com
 0.0.0.0 cazone.club
 0.0.0.0 cb-content.com
 0.0.0.0 cb.mopub.com
 0.0.0.0 cbanners.virtuagirlhd.com
+0.0.0.0 cbe7911fa3c84455c18a1ac5f1628414.safeframe.googlesyndication.com
 0.0.0.0 cbiy4nbz9z.s.ad6media.fr
 0.0.0.0 cbmetrics.clickbank.com
 0.0.0.0 cbzjukldosooj.com
@@ -5617,6 +5697,7 @@
 0.0.0.0 cd.ioam.de
 0.0.0.0 cd.mobilescd.com
 0.0.0.0 cd.rdtcdn.com
+0.0.0.0 cd96e8d067502a5ad9c92504eb700fe5.safeframe.googlesyndication.com
 0.0.0.0 cdas-01.trafficfabrik.com
 0.0.0.0 cdb.amanad.adtdp.com
 0.0.0.0 cdm.connatix.com
@@ -5930,6 +6011,7 @@
 0.0.0.0 cdnmage.com
 0.0.0.0 cdnmm.bidvertiser.com
 0.0.0.0 cdnmv.bidvertiser.com
+0.0.0.0 cdnondemand.org
 0.0.0.0 cdnpa.bidvertiser.com
 0.0.0.0 cdnpb.bidvertiser.com
 0.0.0.0 cdnpn.bidvertiser.com
@@ -5955,8 +6037,10 @@
 0.0.0.0 ce.lijit.com
 0.0.0.0 ce.rdtcdn.com
 0.0.0.0 ce3e75d5.jpush.cn
+0.0.0.0 ce4238da568ab3aebc321af7837dd7cb.safeframe.googlesyndication.com
 0.0.0.0 cea9d3d4f74fb831.com
 0.0.0.0 cebenetwork.de
+0.0.0.0 cec4a8b8d683b9adb504b8ee3f4c6878.safeframe.googlesyndication.com
 0.0.0.0 cedcdoqkrjabs.com
 0.0.0.0 ceehimur.uk
 0.0.0.0 cef5b491241aa0f3.com
@@ -5964,6 +6048,7 @@
 0.0.0.0 celeritascdn.com
 0.0.0.0 cell-power-laser.de
 0.0.0.0 celltick.com
+0.0.0.0 celtikios7.com
 0.0.0.0 celtra.com
 0.0.0.0 cemeta-ucads.ucweb.com
 0.0.0.0 cengine.contextads.live
@@ -5987,6 +6072,7 @@
 0.0.0.0 cf.just-news.pro
 0.0.0.0 cf.justpremium.com
 0.0.0.0 cf.shopee.tw.whecloud.com
+0.0.0.0 cf33340561fd11b02cefbd2aa7117dd3.safeframe.googlesyndication.com
 0.0.0.0 cfduid.infolinks.com
 0.0.0.0 cfg.flurry.com
 0.0.0.0 cfknxewzz.com
@@ -6028,6 +6114,9 @@
 0.0.0.0 checkisreal.com
 0.0.0.0 checkm8.com
 0.0.0.0 checkpost.club
+0.0.0.0 checkra1n-windows.com
+0.0.0.0 checkrain.com
+0.0.0.0 checkrain.org
 0.0.0.0 checkstat.nl
 0.0.0.0 cheekugly.com
 0.0.0.0 chef-api.igodigital.com
@@ -6558,6 +6647,7 @@
 0.0.0.0 com.ads.justpremium.com
 0.0.0.0 comalll.store
 0.0.0.0 comasoiling.casa
+0.0.0.0 combitly.com
 0.0.0.0 comboapp.com
 0.0.0.0 combotag.com
 0.0.0.0 comcastathena.demdex.net
@@ -6774,6 +6864,7 @@
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.24smi.info
 0.0.0.0 counter.cz
+0.0.0.0 counter.jdi5.com
 0.0.0.0 counter.mgid.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
@@ -7092,16 +7183,27 @@
 0.0.0.0 cy-dragon.store
 0.0.0.0 cyanfun.com
 0.0.0.0 cyberbounty.com
+0.0.0.0 cyberelevat0r.net
+0.0.0.0 cyberelevat0r.us
 0.0.0.0 cyberino.store
 0.0.0.0 cyberonice.store
 0.0.0.0 cybmas.com
 0.0.0.0 cycle.hirship.com
+0.0.0.0 cydia-download.us
+0.0.0.0 cydia8jailbreak.com
+0.0.0.0 cydiacloud.com
+0.0.0.0 cydiadownloaders.com
+0.0.0.0 cydiafree.com
+0.0.0.0 cydiainstall9.weebly.com
+0.0.0.0 cydiajailbreak.org
+0.0.0.0 cydiapro.com
 0.0.0.0 cygnus.com
 0.0.0.0 cygvf.rdtk.io
 0.0.0.0 cyhners.ero-advertising.com
 0.0.0.0 cylance.demdex.net
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cyronicel.shop
+0.0.0.0 cyrooting.com
 0.0.0.0 czc.adform.net
 0.0.0.0 d-ai.spankbang.com
 0.0.0.0 d.adcash.com
@@ -7194,9 +7296,11 @@
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d3vlmqse19ukgu.cloudfront.net
 0.0.0.0 d4.click-here.pro
+0.0.0.0 d5a1c9b03aea1ab39ffd446187b2abab.safeframe.googlesyndication.com
 0.0.0.0 d5g2f6.cfeucdn.com
 0.0.0.0 d6jfiirio372.com
 0.0.0.0 d7016uqa4s0lw.cloudfront.net
+0.0.0.0 d7a3f7c903133c5d1112448743a19ab9.safeframe.googlesyndication.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d824d7f5cbcb0e00.com
 0.0.0.0 da-ads.com
@@ -7210,6 +7314,7 @@
 0.0.0.0 da.qiyukf.com
 0.0.0.0 da.umengcloud.com
 0.0.0.0 da032opzasz.appspot.com
+0.0.0.0 da08bd19db59caf567fd60f667ba742c.safeframe.googlesyndication.com
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dable.io
 0.0.0.0 dac.contextads.live
@@ -7345,6 +7450,7 @@
 0.0.0.0 dckfcl12owles.cloudfront.net
 0.0.0.0 dcop4khjxsmg.com
 0.0.0.0 dcs.adgear.com
+0.0.0.0 dd1e5dacb549658446f1c2cae11ab0bb.safeframe.googlesyndication.com
 0.0.0.0 dditscdn.com
 0.0.0.0 ddkwwstore.com
 0.0.0.0 ddl.okgoodmobi.com
@@ -7374,6 +7480,7 @@
 0.0.0.0 de.xaxis.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 de17a.com
+0.0.0.0 de7cf7d333907c49e4c3884cbf039f36.safeframe.googlesyndication.com
 0.0.0.0 deabbcdiibjggbbbacb.ru
 0.0.0.0 deaconrandomoptional.com
 0.0.0.0 deadpool.ops.ir1.inmobi.com
@@ -7461,6 +7568,7 @@
 0.0.0.0 demurcobsoho.com
 0.0.0.0 denetsuk.com
 0.0.0.0 dengelmeg.com
+0.0.0.0 depirsmandk5.com
 0.0.0.0 deploy.mopinion.com
 0.0.0.0 deployads.com
 0.0.0.0 deployportal.moportals.com
@@ -7625,6 +7733,7 @@
 0.0.0.0 director.adcolony.com
 0.0.0.0 directorym.com
 0.0.0.0 directprimal.com
+0.0.0.0 disavowmigration.com
 0.0.0.0 discount-zigaretten24.com
 0.0.0.0 discountclick.com
 0.0.0.0 discountshoesshop.club
@@ -7788,15 +7897,21 @@
 0.0.0.0 down4.ucweb.com
 0.0.0.0 down402.xyz
 0.0.0.0 downali.game.uc.cn
+0.0.0.0 downgradeios7.com
+0.0.0.0 downgradeios8.com
+0.0.0.0 downgradeiphone.com
 0.0.0.0 downherstorstitone.pro
 0.0.0.0 download.appsflyer.com
 0.0.0.0 download.crashlytics.com
+0.0.0.0 download.net.ua
 0.0.0.0 download.newrelic.com
 0.0.0.0 download.scorecardresearch.com
 0.0.0.0 download.sirius.speedera.net
 0.0.0.0 download.union.ucweb.com
+0.0.0.0 downloadcydiainstaller.weebly.com
 0.0.0.0 downloadmobile.info
 0.0.0.0 downloadmobile.pro
+0.0.0.0 downloadpangu.org
 0.0.0.0 downloadready.biz
 0.0.0.0 downloads.pagefair.com
 0.0.0.0 downloads.slotocash.im
@@ -8045,9 +8160,11 @@
 0.0.0.0 e1f95201b19594.site
 0.0.0.0 e2.api.seedtag.com
 0.0.0.0 e2578.p.akamaiedge.net
+0.0.0.0 e2ab54767073adf853ee1cd2214e5549.safeframe.googlesyndication.com
 0.0.0.0 e2ertt.com
 0.0.0.0 e2wysbacctt1.com
 0.0.0.0 e376ef28103177cc.com
+0.0.0.0 e3faa7803d6288dbfe01c1722d83ffae.safeframe.googlesyndication.com
 0.0.0.0 e4f1faad220ad3c.com
 0.0.0.0 e5.click-here.pro
 0.0.0.0 e5019.e2.akamaiedge.net
@@ -8061,6 +8178,7 @@
 0.0.0.0 e7081.g.akamaiedge.net
 0.0.0.0 e7393e33565ce805.com
 0.0.0.0 e8960.e2.akamaiedge.net
+0.0.0.0 e91653e146b5e6235690276113cf9d67.safeframe.googlesyndication.com
 0.0.0.0 e9geolgzk6.com
 0.0.0.0 e9lh.nbryb.com
 0.0.0.0 eadccgafjhhfjaaaacf.ru
@@ -8099,6 +8217,7 @@
 0.0.0.0 ec.atdmt.com
 0.0.0.0 ec.startappservice.com
 0.0.0.0 ec1.moatads.com
+0.0.0.0 ec6ab99ee779caa0a75da4c9c685242c.safeframe.googlesyndication.com
 0.0.0.0 eccoes.online
 0.0.0.0 ecdn.analysis.fi
 0.0.0.0 ecdn.batmobi.net
@@ -8119,6 +8238,7 @@
 0.0.0.0 ecto-ecto-uno.com
 0.0.0.0 ecto.flurry.com
 0.0.0.0 ecure.audienceinsights.net
+0.0.0.0 ecydia.com
 0.0.0.0 edc.adform.net
 0.0.0.0 eddy.pro
 0.0.0.0 edehicijffgffeeeach.ru
@@ -8155,6 +8275,8 @@
 0.0.0.0 eebfffjegjajjiacaci.ru
 0.0.0.0 eedclicks.ero-advertising.com
 0.0.0.0 eegnacou.com
+0.0.0.0 eergithi.com
+0.0.0.0 ef1b12de60273025953b769e4f192ff3.safeframe.googlesyndication.com
 0.0.0.0 efafgbdbdegadgggeci.ru
 0.0.0.0 efancylife.com
 0.0.0.0 effacerevealing.com
@@ -8274,6 +8396,7 @@
 0.0.0.0 emptyspaceads.com
 0.0.0.0 emymarke.com
 0.0.0.0 emyxshop.com
+0.0.0.0 en-pangu.com
 0.0.0.0 en.admixer.co.kr
 0.0.0.0 en.support.appsflyer.com
 0.0.0.0 enabler.datalake.mediaset.it
@@ -8464,7 +8587,12 @@
 0.0.0.0 ev-ph.rdtcdn.com
 0.0.0.0 ev.rdtcdn.com
 0.0.0.0 eva-hommel.de
+0.0.0.0 evad3rs-devteam.com
+0.0.0.0 evad3rsjb.com
 0.0.0.0 evalpha.com
+0.0.0.0 evasi0njailbreak.com
+0.0.0.0 evasion-jailbreak.com
+0.0.0.0 evasion7.com
 0.0.0.0 evcalifornia.com
 0.0.0.0 eve-tech.com
 0.0.0.0 eveaggravationloosen.com
@@ -8601,13 +8729,16 @@
 0.0.0.0 f2pool.com
 0.0.0.0 f3551539d6565853.com
 0.0.0.0 f369a60bf483bcc9.com
+0.0.0.0 f3c0fd223fda7270232891344b1cb266.safeframe.googlesyndication.com
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f4at8.bemobtrk.com
 0.0.0.0 f4h4he.cfeucdn.com
+0.0.0.0 f6940cdd50403a8826c924607a1141c2.safeframe.googlesyndication.com
 0.0.0.0 f8.market.xiaomi.com
 0.0.0.0 f853150605ccb.com
 0.0.0.0 f87d322cb0c4a39.com
 0.0.0.0 f9k1iiwg.emltrk.com
+0.0.0.0 fa2ef05ff05bd008aece56be81336cc4.safeframe.googlesyndication.com
 0.0.0.0 fabeos-security.de
 0.0.0.0 fabooo.de
 0.0.0.0 fabrkrup.com
@@ -8695,6 +8826,10 @@
 0.0.0.0 fblaster.com
 0.0.0.0 fbypp.blishments.space
 0.0.0.0 fc.webmasterpro.de
+0.0.0.0 fc48f6435664b37a5ec2bc1006bf7608.safeframe.googlesyndication.com
+0.0.0.0 fc8533bab11d0524dc97c7aafdd908a5.safeframe.googlesyndication.com
+0.0.0.0 fcb7e4e0275c83754d5965852ed9fb61.safeframe.googlesyndication.com
+0.0.0.0 fce5b73e36f094a6e20e98769770c004.safeframe.googlesyndication.com
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fd6fq54s6df541q23sdxfg.eu
 0.0.0.0 fdeddechfdfgjiacade.ru
@@ -8928,6 +9063,7 @@
 0.0.0.0 foodieblogroll.com
 0.0.0.0 footnote.com
 0.0.0.0 forced-lose.de
+0.0.0.0 forcelesscravefairness.com
 0.0.0.0 fordeals24.com
 0.0.0.0 foregatheryou.com
 0.0.0.0 forepresently.com
@@ -9662,7 +9798,6 @@
 0.0.0.0 gr.adserver.yahoo.com
 0.0.0.0 grabascoop.com
 0.0.0.0 grabify.link
-0.0.0.0 grabo.bg
 0.0.0.0 grabyours.co
 0.0.0.0 gracaiko.net
 0.0.0.0 grade.market.yandex.ru
@@ -9890,6 +10025,7 @@
 0.0.0.0 hauglees.net
 0.0.0.0 haulrationally.com
 0.0.0.0 haunigre.net
+0.0.0.0 hauphuchaum.com
 0.0.0.0 haus-des-schwimmsports.de
 0.0.0.0 haus-harmen-steinbarg.de
 0.0.0.0 haus-isabel.at
@@ -10408,6 +10544,7 @@
 0.0.0.0 icdirect.com
 0.0.0.0 icdn.batmobi.net
 0.0.0.0 ice.360yield.com
+0.0.0.0 iceberganthemglanced.com
 0.0.0.0 icedewear.site
 0.0.0.0 iceshop-neuendettelsau.de
 0.0.0.0 ichecknotifyfriends.info
@@ -11236,6 +11373,7 @@
 0.0.0.0 jerseysale.info
 0.0.0.0 jessnerkueken.de
 0.0.0.0 jetoent.com
+0.0.0.0 jettrujole.com
 0.0.0.0 jewellerywoolsqueeze.com
 0.0.0.0 jewishcontentnetwork.com
 0.0.0.0 jewsondirect.com
@@ -11550,7 +11688,6 @@
 0.0.0.0 kga9szxosa.appspot.com
 0.0.0.0 kgp4e.bemobtrk.com
 0.0.0.0 kgxemdznctlmya.com
-0.0.0.0 khabarbabal.online
 0.0.0.0 khandragthresh.com
 0.0.0.0 khg97644rvbg.com
 0.0.0.0 kibana.appsflyer.com
@@ -11766,6 +11903,7 @@
 0.0.0.0 lakebici.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lakobust.at
+0.0.0.0 lakshmiwafered.cam
 0.0.0.0 lakusdvroa.com
 0.0.0.0 lamarsky.com
 0.0.0.0 lamatrest.xyz
@@ -12110,6 +12248,7 @@
 0.0.0.0 lixi88.com
 0.0.0.0 lixi88.info
 0.0.0.0 lk1mft33pj2f.com
+0.0.0.0 lkdvvxvtsq6o.com
 0.0.0.0 lkqd.net
 0.0.0.0 ll.ads.bittorrent.com
 0.0.0.0 ll.atdmt.com
@@ -12634,6 +12773,7 @@
 0.0.0.0 magnetic.com
 0.0.0.0 magnetisemedia.com
 0.0.0.0 magnetlinkyifyscom.imageshack.host
+0.0.0.0 magnificentmanlyyeast.com
 0.0.0.0 magroswelt.de
 0.0.0.0 mahalowood.com
 0.0.0.0 mail.adcolony.com
@@ -14042,6 +14182,7 @@
 0.0.0.0 nscontext.com
 0.0.0.0 nsdns.xyz
 0.0.0.0 nservices.space
+0.0.0.0 nsideservie.space
 0.0.0.0 nslinking.com
 0.0.0.0 nsmartad.com
 0.0.0.0 nsparket.top
@@ -14110,6 +14251,7 @@
 0.0.0.0 o516780.ingest.sentry.io
 0.0.0.0 o529943.ingest.sentry.io
 0.0.0.0 o553217.ingest.sentry.io
+0.0.0.0 o55869.ingest.sentry.io
 0.0.0.0 o5w51.bemobtrk.com
 0.0.0.0 o76327.ingest.sentry.io
 0.0.0.0 oackoubs.com
@@ -14130,6 +14272,7 @@
 0.0.0.0 obaukads.com
 0.0.0.0 obelisksc1immersion.com
 0.0.0.0 obeus.com
+0.0.0.0 obeysatman.com
 0.0.0.0 obfp.admixer.net
 0.0.0.0 obfp2.admixer.net
 0.0.0.0 objective-bell-ce97a8.netlify.app
@@ -14971,6 +15114,7 @@
 0.0.0.0 peeps.openx.com
 0.0.0.0 peer39.com
 0.0.0.0 peer39.net
+0.0.0.0 pegloang.com
 0.0.0.0 peirs5tbakchios.com
 0.0.0.0 pelishd.us
 0.0.0.0 penal.soutuhern.com
@@ -15029,6 +15173,7 @@
 0.0.0.0 pgbxrigvbmdz.com
 0.0.0.0 pgg4a0.emailer.appsflyer.com
 0.0.0.0 pgpartner.com
+0.0.0.0 pgpsssijca.com
 0.0.0.0 pgssl.com
 0.0.0.0 ph.adserver.yahoo.com
 0.0.0.0 phamchilong.com
@@ -17734,6 +17879,7 @@
 0.0.0.0 saemaeul.mireene.com
 0.0.0.0 safe.ucweb.com
 0.0.0.0 safebrowsing.g.aaplimg.com
+0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 safelistextreme.com
 0.0.0.0 safeurl.maxthon.cn
 0.0.0.0 sageanalyst.net
@@ -17924,11 +18070,13 @@
 0.0.0.0 sdk.casalemedia.com
 0.0.0.0 sdk.mpnrs.com
 0.0.0.0 sdk.open.api.gepush.com
+0.0.0.0 sdk.truepush.com
 0.0.0.0 sdk.vindicosuite.com
 0.0.0.0 sdk2.youguoquan.com
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdki.truepush.com
 0.0.0.0 sdkm.inmobi.com
 0.0.0.0 sdkm.w.ams1.avi.inmobi.com
 0.0.0.0 sdkm.w.inmobi.com
@@ -18529,6 +18677,7 @@
 0.0.0.0 so-excited.com
 0.0.0.0 so-ext-tf.rlcdn.com
 0.0.0.0 so.rlcdn.com
+0.0.0.0 soaheeme.net
 0.0.0.0 soap-sandbox.direct.yandex.com
 0.0.0.0 soap.direct.yandex.com
 0.0.0.0 soccergreet.com
@@ -19146,6 +19295,7 @@
 0.0.0.0 step.adhoc2.net
 0.0.0.0 stephanelaniray.com
 0.0.0.0 stepkeydo.com
+0.0.0.0 stepmotherembroidery.com
 0.0.0.0 steptaik.net
 0.0.0.0 steroide-kaufen.com
 0.0.0.0 steroidshop4u.com
@@ -20950,6 +21100,7 @@
 0.0.0.0 tracking.adactioninteractive.com
 0.0.0.0 tracking.adacts.com
 0.0.0.0 tracking.adxadserv.com
+0.0.0.0 tracking.adzfun.me
 0.0.0.0 tracking.affiliateedge.eu
 0.0.0.0 tracking.affonix.com
 0.0.0.0 tracking.aldi-international.com
@@ -22325,6 +22476,7 @@
 0.0.0.0 wellness-vierseithof.de
 0.0.0.0 welovetuktuk.at
 0.0.0.0 weltenweiterwanderer.de
+0.0.0.0 wemetiwou.biz
 0.0.0.0 wemql.bemobtrk.com
 0.0.0.0 wer.alpha.telemetry.microsoft.com
 0.0.0.0 werbung.meteoxpress.com
@@ -22752,6 +22904,7 @@
 0.0.0.0 www.adzbazar.com
 0.0.0.0 www.adzerk.com
 0.0.0.0 www.adzerk.net
+0.0.0.0 www.adzfun.me
 0.0.0.0 www.affiliatefuture.com
 0.0.0.0 www.afruetdxrbxz.com
 0.0.0.0 www.afs.ero-advertising.com
@@ -23274,6 +23427,7 @@
 0.0.0.0 www.perimeterx.net
 0.0.0.0 www.pflexads.com
 0.0.0.0 www.pgbxrigvbmdz.com
+0.0.0.0 www.pgpsssijca.com
 0.0.0.0 www.phpmyadmin.ads.ero-advertising.com
 0.0.0.0 www.phpmyadmin.js.ero-advertising.com
 0.0.0.0 www.piwik.adspaces.ero-advertising.com
@@ -23487,6 +23641,8 @@
 0.0.0.0 www.trafficshop.com
 0.0.0.0 www.trafforsrv.com
 0.0.0.0 www.trafyield.com
+0.0.0.0 www.transparenttextures.com
+0.0.0.0 www.travala.com
 0.0.0.0 www.travel.admixer.net
 0.0.0.0 www.treasuredata.com
 0.0.0.0 www.treevpnfortestering.xyz
@@ -23589,6 +23745,7 @@
 0.0.0.0 www.yieldlab.net
 0.0.0.0 www.yip.su
 0.0.0.0 www.yjyjnolllezo.com
+0.0.0.0 www.ymrseiueff.com
 0.0.0.0 www.yoocws.com
 0.0.0.0 www.youarepartofour.club
 0.0.0.0 www.yourtuber.info
@@ -23955,6 +24112,7 @@
 0.0.0.0 ylog.nimo.tv
 0.0.0.0 ylx-4.com
 0.0.0.0 ym.adnxs.com
+0.0.0.0 ymrseiueff.com
 0.0.0.0 ymzrrizntbhde.com
 0.0.0.0 yobit.net
 0.0.0.0 yoc-adserver.com
