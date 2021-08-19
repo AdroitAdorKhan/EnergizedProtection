@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.231
 # Release: 231
-# Entries: 24,312
+# Entries: 24,311
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 Aug 21 11:40:16
+# Updated: Thu, 19 Aug 21 23:40:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19125,7 +19125,6 @@
 0.0.0.0 static.adzerk.net
 0.0.0.0 static.agkn.com
 0.0.0.0 static.allsync.com
-0.0.0.0 static.amobee.com
 0.0.0.0 static.analytics.adkernel.com
 0.0.0.0 static.apester.com
 0.0.0.0 static.appcelerator.net
