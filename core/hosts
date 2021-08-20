@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.232
 # Release: 232
-# Entries: 24,311
+# Entries: 24,454
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 Aug 21 11:40:21
+# Updated: Fri, 20 Aug 21 23:40:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -209,6 +209,7 @@
 0.0.0.0 1591041119.m-wlmw.com
 0.0.0.0 159747eac01f5a559eb26d68e58d4104.safeframe.googlesyndication.com
 0.0.0.0 15c15bi.edvfwlacluo.com
+0.0.0.0 15d5k-28bac.ads.tremorhub.com
 0.0.0.0 15elon9.edvfwlacluo.com
 0.0.0.0 15iqb7n.edvfwlacluo.com
 0.0.0.0 16.nbryb.com
@@ -383,6 +384,7 @@
 0.0.0.0 2ajde.rdtk.io
 0.0.0.0 2b71cc1fd287dd801f5869ead0042d0f.safeframe.googlesyndication.com
 0.0.0.0 2baners.ero-advertising.com
+0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
 0.0.0.0 2cnjuh34jbhub.com
 0.0.0.0 2cnjuh34jbman.com
 0.0.0.0 2cnjuh34jbpoint.com
@@ -402,6 +404,7 @@
 0.0.0.0 2fsvastx.moatads.com
 0.0.0.0 2ft.frtyr.com
 0.0.0.0 2fx.skimresources.com
+0.0.0.0 2g44a-plljh.ads.tremorhub.com
 0.0.0.0 2go7v1nes8.com
 0.0.0.0 2ii7.nbryb.com
 0.0.0.0 2lud.com
@@ -651,8 +654,10 @@
 0.0.0.0 5a9yl.bemobtrk.com
 0.0.0.0 5bfc159af1709af72bfd5e8dd26db0ce.safeframe.googlesyndication.com
 0.0.0.0 5erkq.rdtk.io
+0.0.0.0 5ew8d-b3mmu.ads.tremorhub.com
 0.0.0.0 5fh48.rdtk.io
 0.0.0.0 5fkjgnkbg.club
+0.0.0.0 5gn07.ads.tremorhub.com
 0.0.0.0 5kv261gjmq04c9.com
 0.0.0.0 5nr6of.cfeucdn.com
 0.0.0.0 5nt1gx7o57.com
@@ -671,6 +676,7 @@
 0.0.0.0 6235746.collect.igodigital.com
 0.0.0.0 6261019.collect.igodigital.com
 0.0.0.0 6398530.recs.igodigital.com
+0.0.0.0 63g8m-y2tv2.ads.tremorhub.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 6421357.collect.igodigital.com
 0.0.0.0 64eb96f1f12234e9528aee0c04e09275.safeframe.googlesyndication.com
@@ -697,6 +703,8 @@
 0.0.0.0 6lhw4.bemobtrk.com
 0.0.0.0 6moxhf9rmm.com
 0.0.0.0 6ngyq.bemobtrk.com
+0.0.0.0 6psex-fm1gy.ads.tremorhub.com
+0.0.0.0 6psex-sootr.ads.tremorhub.com
 0.0.0.0 6rf7dt.cfeucdn.com
 0.0.0.0 6sercher.biz
 0.0.0.0 6trllz.edvfwlacluo.com
@@ -786,6 +794,7 @@
 0.0.0.0 83a26bd3df29eb57.com
 0.0.0.0 86a6b542l7.com
 0.0.0.0 873u11.edvfwlacluo.com
+0.0.0.0 876u4-lx1pc.ads.tremorhub.com
 0.0.0.0 88.nbryb.com
 0.0.0.0 888media.net
 0.0.0.0 888promos.com
@@ -806,6 +815,7 @@
 0.0.0.0 8mdfq0gzbs.s.ad6media.fr
 0.0.0.0 8s8.eu
 0.0.0.0 8ti9p.bemobtrk.com
+0.0.0.0 8u94z-p8nxh.ads.tremorhub.com
 0.0.0.0 8weoaapw0hfvy6nz.pro
 0.0.0.0 8wflg.rdtk.io
 0.0.0.0 9.nbryb.com
@@ -838,6 +848,10 @@
 0.0.0.0 9lszu.wnerofro.online
 0.0.0.0 9ohbx.bemobtrk.com
 0.0.0.0 9ovlf.bemobtrk.com
+0.0.0.0 9rmjh-baogr.ads.tremorhub.com
+0.0.0.0 9rmjh-t0k0q.ads.tremorhub.com
+0.0.0.0 9rmjh-w3w1r.ads.tremorhub.com
+0.0.0.0 9rmjh-zt7gk.ads.tremorhub.com
 0.0.0.0 9utwbj08.top
 0.0.0.0 9uznl.bemobtrk.com
 0.0.0.0 9vuq3.bemobtrk.com
@@ -1204,6 +1218,7 @@
 0.0.0.0 ad.aloodo.com
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amanad.adtdp.com
+0.0.0.0 ad.andbeyond.media
 0.0.0.0 ad.angel-live.com
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.aruba.it
@@ -2047,6 +2062,7 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.livepromotools.com
+0.0.0.0 ads.lngtd.com
 0.0.0.0 ads.logsoku.com
 0.0.0.0 ads.lovercash.com
 0.0.0.0 ads.mcafee.com
@@ -2133,6 +2149,7 @@
 0.0.0.0 ads.trafficjunky.com
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.travelaudience.com
+0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.twitter.com
@@ -2423,6 +2440,7 @@
 0.0.0.0 adstract.com
 0.0.0.0 adstream.de
 0.0.0.0 adstuna.com
+0.0.0.0 adstxt.lngtd.com
 0.0.0.0 adsuite.adsparc.net
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyssl.com
@@ -2804,6 +2822,7 @@
 0.0.0.0 airydress.com
 0.0.0.0 airygal.com
 0.0.0.0 aistat.net
+0.0.0.0 aj1559.online
 0.0.0.0 aj2025.online
 0.0.0.0 ajansreklam.net
 0.0.0.0 ajdivotdelbloab24.jio.co
@@ -2870,6 +2889,7 @@
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 alibaba.zzux.com
 0.0.0.0 alilinana.com
+0.0.0.0 alireza.sophi.io
 0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 all-free-download.com
 0.0.0.0 all4spy.com
@@ -3030,6 +3050,7 @@
 0.0.0.0 amazinelistrun.pro
 0.0.0.0 amazing-dating.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazon.partners.tremorhub.com
 0.0.0.0 amazonco.uk
 0.0.0.0 ambaab.com
 0.0.0.0 ambientaboveboard.com
@@ -3842,6 +3863,7 @@
 0.0.0.0 api-rssocks.youzicheng.net
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-sandbox.direct.yandex.com
+0.0.0.0 api-swagger.sophi.io
 0.0.0.0 api-us-east-1.adsnative.com
 0.0.0.0 api.5nxam.xyz
 0.0.0.0 api.5rocks.io
@@ -3885,6 +3907,7 @@
 0.0.0.0 api.atdmt.com
 0.0.0.0 api.awin.com
 0.0.0.0 api.batmobi.net
+0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.c.uc.cn
 0.0.0.0 api.cashmyvisit.com
 0.0.0.0 api.cj.com
@@ -3965,6 +3988,7 @@
 0.0.0.0 api.sizmek.com
 0.0.0.0 api.skimlinks.com
 0.0.0.0 api.sonobi.com
+0.0.0.0 api.sophi.io
 0.0.0.0 api.speakol.com
 0.0.0.0 api.splunk.com
 0.0.0.0 api.srv.jpush.cn
@@ -3977,6 +4001,7 @@
 0.0.0.0 api.tinstall.xyz
 0.0.0.0 api.tinypass.com
 0.0.0.0 api.trafficjunky.com
+0.0.0.0 api.tremorhub.com
 0.0.0.0 api.ucmate.info
 0.0.0.0 api.uparpu.com
 0.0.0.0 api.venyoo.ru
@@ -3991,7 +4016,9 @@
 0.0.0.0 api04.datatrics.com
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.batmobi.net
+0.0.0.0 api2.bounceexchange.com
 0.0.0.0 api2.clickaine.com
+0.0.0.0 api2.sophi.io
 0.0.0.0 api2.wshareit.com
 0.0.0.0 api5.batmobi.net
 0.0.0.0 api5.batmobil.net
@@ -4127,6 +4154,7 @@
 0.0.0.0 apps.livejasmin.com
 0.0.0.0 apps.mobilityware.com
 0.0.0.0 apps.pubmatic.com
+0.0.0.0 apps.sophi.io
 0.0.0.0 apps.uc.cn
 0.0.0.0 appsdev.appsflyer.com
 0.0.0.0 appsfire.com
@@ -4362,6 +4390,7 @@
 0.0.0.0 attendrai.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 attr.union.ucweb.com
+0.0.0.0 attribute.bounceexchange.com
 0.0.0.0 atugtinidhers.info
 0.0.0.0 atwaaum4gmohvb.ru
 0.0.0.0 atwola.com
@@ -4968,6 +4997,7 @@
 0.0.0.0 bidder-eu-central-1.prod.justpremium.com
 0.0.0.0 bidder-us-east-1.prod.justpremium.com
 0.0.0.0 bidder-us-west-2.prod.justpremium.com
+0.0.0.0 bidder.andbeyond.media
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.rtk.io
 0.0.0.0 biddr.brealtime.com
@@ -5079,6 +5109,7 @@
 0.0.0.0 bkk-bavaria.de
 0.0.0.0 bkmsbyh9fexkflg.ru
 0.0.0.0 bkrtx.com
+0.0.0.0 bktr2-06hdl.ads.tremorhub.com
 0.0.0.0 bkuubwuarrkxk.com
 0.0.0.0 bl2aqusrch.atdmt.com
 0.0.0.0 bl2trk.atdmt.com
@@ -5161,6 +5192,7 @@
 0.0.0.0 blwfqlmhi.com
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bm.moatads.com
+0.0.0.0 bm8fw-xpghg.ads.tremorhub.com
 0.0.0.0 bm9mz.bemobtrk.com
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnr.pw
@@ -5283,6 +5315,7 @@
 0.0.0.0 brightcombid.marphezis.com
 0.0.0.0 brighteroption.com
 0.0.0.0 brightinfo.com
+0.0.0.0 brightroll-partners.tremorhub.com
 0.0.0.0 brightroll.fastclick.net
 0.0.0.0 brigitterieger.at
 0.0.0.0 brisandals.shop
@@ -5456,6 +5489,7 @@
 0.0.0.0 c.siteswithcontent.com
 0.0.0.0 c.skimresources.com
 0.0.0.0 c.smartclick.net
+0.0.0.0 c.stg.sophi.io
 0.0.0.0 c.traffic-media.co.uk
 0.0.0.0 c.trfilter.info
 0.0.0.0 c.tvpixel.com
@@ -5508,15 +5542,19 @@
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.lijit.pixel.invitemedia.com
 0.0.0.0 ca.origin.startappservice.com
+0.0.0.0 cache-ap-southeast-1.tremorhub.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache-test.addthis.com
 0.0.0.0 cache-uat.addthis.com
+0.0.0.0 cache-us-east-1.tremorhub.com
+0.0.0.0 cache-us-west-2.tremorhub.com
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.adserver.yahoo.com
 0.0.0.0 cache.btrll.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 cache.hollywood.to
 0.0.0.0 cache.nmn.speedera.net
+0.0.0.0 cache.tremorhub.com
 0.0.0.0 cachecdn.moegoo.com
 0.0.0.0 cachecontrol.seedtag.com
 0.0.0.0 cached.liveshows.contentabc.com
@@ -5916,6 +5954,7 @@
 0.0.0.0 cdn.skycloud.biz
 0.0.0.0 cdn.smartclick.net
 0.0.0.0 cdn.softonixs.club
+0.0.0.0 cdn.sophi.io
 0.0.0.0 cdn.speakol.com
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speed-smart-fast-protect.cyou
@@ -5933,6 +5972,7 @@
 0.0.0.0 cdn.traffic-media.co.uk
 0.0.0.0 cdn.trafficforce.com
 0.0.0.0 cdn.trblocked.com
+0.0.0.0 cdn.tremorhub.com
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tubecorp.com
@@ -6078,6 +6118,8 @@
 0.0.0.0 cfknxewzz.com
 0.0.0.0 cftest.adsnative.com
 0.0.0.0 cgociipdf.com
+0.0.0.0 cguke-lp2na.ads.tremorhub.com
+0.0.0.0 cguke-td2s6.ads.tremorhub.com
 0.0.0.0 cgzpjnr3efhvjcg.ru
 0.0.0.0 ch.ads.justpremium.com
 0.0.0.0 ch1aqu.atdmt.com
@@ -6552,6 +6594,7 @@
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 collect-ap-east-1.tealiumiq.com
 0.0.0.0 collect.installeranalytics.com
+0.0.0.0 collect.lngtd.com
 0.0.0.0 collect.mfilterit.net
 0.0.0.0 collect.mopinion.com
 0.0.0.0 collect.rewardstyle.com
@@ -6580,6 +6623,7 @@
 0.0.0.0 collector-300.newrelic.com
 0.0.0.0 collector-8.newrelic.com
 0.0.0.0 collector-9.newrelic.com
+0.0.0.0 collector-blue.sophi.io
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-px09a9fhxa.perimeterx.net
 0.0.0.0 collector-px0sxgcyfr.perimeterx.net
@@ -6611,12 +6655,15 @@
 0.0.0.0 collector-pxv4z2u0t5.perimeterx.net
 0.0.0.0 collector-pxxcro4kbp.perimeterx.net
 0.0.0.0 collector-soompi.viki.io
+0.0.0.0 collector-test.sophi.io
 0.0.0.0 collector-undefined.perimeterx.net
 0.0.0.0 collector.bikroy.com
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.mediator.media
+0.0.0.0 collector.montana.sophi.io
 0.0.0.0 collector.newrelic.com
+0.0.0.0 collector.sophi.io
 0.0.0.0 collector.unlockxh3.com
 0.0.0.0 collector.unsplash.com
 0.0.0.0 collector.xhamster.com
@@ -6689,7 +6736,9 @@
 0.0.0.0 conapi.connatix.com
 0.0.0.0 conbt.com
 0.0.0.0 concernedglued.com
+0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 conduit-banners.com
+0.0.0.0 conf.lngtd.com
 0.0.0.0 conf.piojm.tech
 0.0.0.0 conf.splunk.com
 0.0.0.0 confident-clarke-6e461b.netlify.app
@@ -6706,6 +6755,7 @@
 0.0.0.0 config.pek1.vip.inmobi.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 config.seedtag.com
+0.0.0.0 config.tremorhub.com
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 config2.mparticle.com
 0.0.0.0 confluence.outbrain.com
@@ -6717,6 +6767,7 @@
 0.0.0.0 conmicamaracuestas.es
 0.0.0.0 connect.adroll.com
 0.0.0.0 connect.appsflyer.com
+0.0.0.0 connect.bounceexchange.com
 0.0.0.0 connectad.io
 0.0.0.0 connected-by.connectad.io
 0.0.0.0 connectignite.com
@@ -6838,9 +6889,11 @@
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coral-task.uc.cn
 0.0.0.0 coramoda.com
+0.0.0.0 core-api.bounceexchange.com
 0.0.0.0 core.buysellads.com
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 core.perezvoni.com
+0.0.0.0 core.staging.bounceexchange.com
 0.0.0.0 core1.otclick-adv.ru
 0.0.0.0 coremetrics.com
 0.0.0.0 corinna-mummert.de
@@ -7068,6 +7121,7 @@
 0.0.0.0 ctenetwork.com
 0.0.0.0 ctm-media.com
 0.0.0.0 ctmail.dns-dns.com
+0.0.0.0 ctmc5-i4y63.ads.tremorhub.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctoairtx.com
 0.0.0.0 ctobsnssdk.com
@@ -7528,6 +7582,7 @@
 0.0.0.0 delivery-s3.adswizz.com
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery.adxscope.com
+0.0.0.0 delivery.bounceexchange.com
 0.0.0.0 delivery.contextads.live
 0.0.0.0 delivery.preprod.trafficjunky.net
 0.0.0.0 delivery.staging.trafficjunky.net
@@ -7768,6 +7823,7 @@
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditorialproce.biz
 0.0.0.0 ditwrite.com
+0.0.0.0 dive-api-ajc.sophi.io
 0.0.0.0 dj-updates.com
 0.0.0.0 djfbgghicgigeiacecf.ru
 0.0.0.0 djmazacomcom.imageshack.host
@@ -7810,6 +7866,7 @@
 0.0.0.0 dmtracker.com
 0.0.0.0 dmv-written-test.h-bid.com
 0.0.0.0 dmxml.overture.com
+0.0.0.0 dmz.tremorhub.com
 0.0.0.0 dnps.com
 0.0.0.0 dns-info.dyndns.pro
 0.0.0.0 dns.0pengl.com
@@ -7926,6 +7983,7 @@
 0.0.0.0 dq.tmx.surveysampling.com
 0.0.0.0 dq3yxnlzwhcys.cloudfront.net
 0.0.0.0 dqnp8bdp95f7m.cloudfront.net
+0.0.0.0 dqulcczd.com
 0.0.0.0 dqxo1d.edvfwlacluo.com
 0.0.0.0 dr-etzlstorfer.at
 0.0.0.0 dr.outbrain.com
@@ -8362,6 +8420,7 @@
 0.0.0.0 ellcurvth.com
 0.0.0.0 elliotfoodauditioning.com
 0.0.0.0 em.cj.com
+0.0.0.0 em1jn-4rwts.ads.tremorhub.com
 0.0.0.0 email.advertising.com
 0.0.0.0 email.applovin.com
 0.0.0.0 email.appsflyer.com
@@ -8456,6 +8515,8 @@
 0.0.0.0 eprice.demdex.net
 0.0.0.0 eproof.com
 0.0.0.0 epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com
+0.0.0.0 eq97f-tg2ee.ads.tremorhub.com
+0.0.0.0 eq97f.publishers.tremorhub.com
 0.0.0.0 eqads.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqit9pzsxz.appspot.com
@@ -8604,6 +8665,7 @@
 0.0.0.0 eventifiederik.pro
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-collector.spot.im
+0.0.0.0 events-regional.tremorhub.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.connatix.com
 0.0.0.0 events.newsroom.bi
@@ -8611,6 +8673,7 @@
 0.0.0.0 events.samsungads.com
 0.0.0.0 events.startappservice.com
 0.0.0.0 events.taboola.com
+0.0.0.0 events.tremorhub.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 events20.adcolony.com
 0.0.0.0 events3.adcolony.com
@@ -8637,6 +8700,7 @@
 0.0.0.0 ew.rdtcdn.com
 0.0.0.0 ewelt24.com
 0.0.0.0 ewerhodub.com
+0.0.0.0 ewomento.space
 0.0.0.0 ewoufhvow.myshopify.com
 0.0.0.0 ewr-delivery-1.sys.adgear.com
 0.0.0.0 ewr-delivery-6.sys.adgear.com
@@ -8706,6 +8770,9 @@
 0.0.0.0 extremepool.org
 0.0.0.0 extremetracking.com
 0.0.0.0 extremiu.top
+0.0.0.0 ey5io-0z2b2.ads.tremorhub.com
+0.0.0.0 ey5io-5vovw.ads.tremorhub.com
+0.0.0.0 ey5io-sxabq.ads.tremorhub.com
 0.0.0.0 eyereturn.com
 0.0.0.0 eysdfsdfsd.myshopify.com
 0.0.0.0 eytqtjpjnmeas.com
@@ -8743,6 +8810,7 @@
 0.0.0.0 fabooo.de
 0.0.0.0 fabrkrup.com
 0.0.0.0 fabulouspanda.com
+0.0.0.0 facebook-listener.sophi.io
 0.0.0.0 facebooktoday.cc
 0.0.0.0 facilitategovernor.com
 0.0.0.0 fadeaibgfihegegjadc.ru
@@ -9607,6 +9675,10 @@
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gjxz.ucweb.com
 0.0.0.0 gk.loadmill.com
+0.0.0.0 gklfs-0vg08.ads.tremorhub.com
+0.0.0.0 gklfs-97fjf.ads.tremorhub.com
+0.0.0.0 gklfs-fvifs.ads.tremorhub.com
+0.0.0.0 gklfs-giam6.ads.tremorhub.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 gl-c30929ed.adroll.com
@@ -9756,6 +9828,7 @@
 0.0.0.0 goodweek.de
 0.0.0.0 goog.applovin.com
 0.0.0.0 google-analytics.com
+0.0.0.0 google.partners.tremorhub.com
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
@@ -9833,6 +9906,7 @@
 0.0.0.0 greatads.blogads.com
 0.0.0.0 greatcamerasale.club
 0.0.0.0 greatedbothere.info
+0.0.0.0 greeandjou.biz
 0.0.0.0 greece.qualiutative.com
 0.0.0.0 greedseed.world
 0.0.0.0 green-red.com
@@ -9940,6 +10014,11 @@
 0.0.0.0 h.scorecardresearch.com
 0.0.0.0 h.zedo.com
 0.0.0.0 h12-media.com
+0.0.0.0 h1g6u-g6nfk.ads.tremorhub.com
+0.0.0.0 h250p-ajijp.ads.tremorhub.com
+0.0.0.0 h250p-gxfa9.ads.tremorhub.com
+0.0.0.0 h250p-nj545.ads.tremorhub.com
+0.0.0.0 h250p-y3urn.ads.tremorhub.com
 0.0.0.0 h4ahsm.cfeucdn.com
 0.0.0.0 h5.adgear.com
 0.0.0.0 h5.mall.wshareit.com
@@ -10304,6 +10383,7 @@
 0.0.0.0 hollymoda.com
 0.0.0.0 holmeshelp.uc.cn
 0.0.0.0 holmeshelp.ucweb.com
+0.0.0.0 home-api.sophi.io
 0.0.0.0 home.mwbsys.org
 0.0.0.0 home4loans.info
 0.0.0.0 homegaden.com
@@ -10595,6 +10675,7 @@
 0.0.0.0 idmatch.adform.net
 0.0.0.0 idn.adreach.co
 0.0.0.0 idntfy.ru
+0.0.0.0 ido8d-8f8ql.ads.tremorhub.com
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idreammedia.com
 0.0.0.0 idspaces.ero-advertising.com
@@ -11358,6 +11439,7 @@
 0.0.0.0 je-marketing.de
 0.0.0.0 jeansame.store
 0.0.0.0 jeclittrecheckrep.info
+0.0.0.0 jecqhvrclrxe.com
 0.0.0.0 jectsinteredse.info
 0.0.0.0 jeddahcrumbly.com
 0.0.0.0 jeehathu.com
@@ -11535,6 +11617,8 @@
 0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jstuck.ai-chat.net
 0.0.0.0 jsu.mgid.com
+0.0.0.0 jt7xx-lwzsy.ads.tremorhub.com
+0.0.0.0 jt7xx-nk36o.ads.tremorhub.com
 0.0.0.0 jtect.rdtk.io
 0.0.0.0 jthnx5wyvjvzsxtu.onion.pet
 0.0.0.0 jtneoqbd.com
@@ -11593,6 +11677,7 @@
 0.0.0.0 k1xpatrickmohrmk5.com
 0.0.0.0 k3hpv.bemobtrk.com
 0.0.0.0 k50-a.akamaihd.net
+0.0.0.0 k71xb-h3k7i.ads.tremorhub.com
 0.0.0.0 k87yfgsdaa.appspot.com
 0.0.0.0 ka-test0.tinyhoneybee.com
 0.0.0.0 kacangmaspoker.net
@@ -12261,6 +12346,7 @@
 0.0.0.0 lm970.bemobtrk.com
 0.0.0.0 lmjxrhph.com
 0.0.0.0 lmyd3iz3qn.kameleoon.eu
+0.0.0.0 lngtd.com
 0.0.0.0 load.batmobi.net
 0.0.0.0 loader.adrelayer.com
 0.0.0.0 loader.seedtag.com
@@ -12952,6 +13038,7 @@
 0.0.0.0 mb104.com
 0.0.0.0 mb38.com
 0.0.0.0 mb57.com
+0.0.0.0 mb9eo-7w62j.ads.tremorhub.com
 0.0.0.0 mbdg.waptrick.org
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mbp.yimg.com
@@ -12991,6 +13078,7 @@
 0.0.0.0 me-view.ioam.de
 0.0.0.0 me.ads.justpremium.com
 0.0.0.0 me.ioam.de
+0.0.0.0 me.sophi.io
 0.0.0.0 me.studynerdz.com
 0.0.0.0 me.taboola.com
 0.0.0.0 mealassistants.com
@@ -13499,6 +13587,7 @@
 0.0.0.0 monprisur.es
 0.0.0.0 monsoonoutlet.com
 0.0.0.0 monstersquad.analytics.nexonm.com
+0.0.0.0 montana.sophi.io
 0.0.0.0 montrealgazette.stats.com
 0.0.0.0 monumenteducategem.com
 0.0.0.0 mooantink.com
@@ -14040,6 +14129,7 @@
 0.0.0.0 nj.fo.startappservice.com
 0.0.0.0 nj.origin.startappservice.com
 0.0.0.0 nj.startappservice.com
+0.0.0.0 nj7t1-69efn.ads.tremorhub.com
 0.0.0.0 njfqnenfifdy.com
 0.0.0.0 njump.xmobistein.com
 0.0.0.0 njump.youmobistein.com
@@ -14204,6 +14294,7 @@
 0.0.0.0 nuqprod-rtbwin.applovin.com
 0.0.0.0 nuqstage-rtb.applovin.com
 0.0.0.0 nuqstage-rtbwin.applovin.com
+0.0.0.0 nurl.tremorhub.com
 0.0.0.0 nutlonging.com
 0.0.0.0 nuzlihakiim.com
 0.0.0.0 nvidia.demdex.net
@@ -14393,6 +14484,7 @@
 0.0.0.0 onclkds.com
 0.0.0.0 onclklnd.com
 0.0.0.0 ondeletrofi.info
+0.0.0.0 ondemand.bounceexchange.com
 0.0.0.0 one-jj.github.io
 0.0.0.0 one.mobotimeapp.com
 0.0.0.0 one.newrelic.com
@@ -14570,6 +14662,7 @@
 0.0.0.0 ortb.yieldlab.net
 0.0.0.0 ortrun-adi.com
 0.0.0.0 ortshk.tapas.net
+0.0.0.0 oryj8-jzbmc.ads.tremorhub.com
 0.0.0.0 os.tc
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 oscdn.batmobi.net
@@ -14616,6 +14709,7 @@
 0.0.0.0 outloud.outbrain.com
 0.0.0.0 outmanlets.com
 0.0.0.0 ov5tb.bemobtrk.com
+0.0.0.0 ovccn-bd5sc.ads.tremorhub.com
 0.0.0.0 overalltrack.com
 0.0.0.0 overdomesticateperisperm.club
 0.0.0.0 overlymaddenkidnap.com
@@ -14906,6 +15000,8 @@
 0.0.0.0 p40039.cdaz.icu
 0.0.0.0 p48056.cdaz.icu
 0.0.0.0 p48056.retdaz.fun
+0.0.0.0 p4dt2-0edaj.ads.tremorhub.com
+0.0.0.0 p4dt2-980w2.ads.tremorhub.com
 0.0.0.0 p51808.cdaz.icu
 0.0.0.0 p51u9i.trafficmagnates.com
 0.0.0.0 p54677.infopicked.com
@@ -15070,11 +15166,17 @@
 0.0.0.0 pbs.alfasense.com
 0.0.0.0 pbs.deployads.com
 0.0.0.0 pbs.getpublica.com
+0.0.0.0 pbs.publishers.tremorhub.com
 0.0.0.0 pbx.connectad.io
 0.0.0.0 pc-ads.com
 0.0.0.0 pc-bubble.de
 0.0.0.0 pc.uc.cn
 0.0.0.0 pc.ucweb.com
+0.0.0.0 pc022-869d8.ads.tremorhub.com
+0.0.0.0 pc041-nsg2n.ads.tremorhub.com
+0.0.0.0 pc051-k4snh.ads.tremorhub.com
+0.0.0.0 pc178-s53zb.ads.tremorhub.com
+0.0.0.0 pc206-ebupd.ads.tremorhub.com
 0.0.0.0 pcanalytics.jioconnect.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 pcf.demdex.net
@@ -15216,6 +15318,7 @@
 0.0.0.0 phytotyper.com
 0.0.0.0 phywyzpugswttb.com
 0.0.0.0 pi7yh.rdtk.io
+0.0.0.0 pi979-avzps.ads.tremorhub.com
 0.0.0.0 pialaqq.com
 0.0.0.0 pialaqq365.net
 0.0.0.0 pianistrefutationgoose.com
@@ -15290,10 +15393,12 @@
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.adswizz.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.andbeyond.media
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.armuchteetthat.info
 0.0.0.0 pixel.attacketslovern.info
 0.0.0.0 pixel.audienceinsights.net
+0.0.0.0 pixel.bounceexchange.com
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.captora.com
 0.0.0.0 pixel.colorupmedia.com
@@ -16147,6 +16252,7 @@
 0.0.0.0 play.topnewsfeeds.net
 0.0.0.0 play4traffic.com
 0.0.0.0 playamo30.com
+0.0.0.0 playbuzzmm.ads.tremorhub.com
 0.0.0.0 playcam.s.xoxknct.com
 0.0.0.0 player.adtcdn.com
 0.0.0.0 playgames-win.com
@@ -16412,6 +16518,7 @@
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid.adkernel.com
 0.0.0.0 prebid.adnxs.com
+0.0.0.0 prebid.andbeyond.media
 0.0.0.0 prebid.d.adroll.com
 0.0.0.0 prebid.media.net
 0.0.0.0 prebid.mgid.com
@@ -16498,10 +16605,12 @@
 0.0.0.0 prod.embut.manycomponents.com
 0.0.0.0 prod.green-red.com
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 prod.sophi.io
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prod.zenkube.com
 0.0.0.0 prod1-collecticon.outlookmobile.com
 0.0.0.0 prod2.invitemedia.com
+0.0.0.0 prod2.sophi.io
 0.0.0.0 prod4-collecticon.outlookmobile.com
 0.0.0.0 producebreed.com
 0.0.0.0 productdata.awin.com
@@ -16578,6 +16687,8 @@
 0.0.0.0 proxy-get-api.xvideos.best
 0.0.0.0 proxy.api.clickadu.com
 0.0.0.0 proxy.batmobi.net
+0.0.0.0 proxy.tremorhub.com
+0.0.0.0 proxybis.tremorhub.com
 0.0.0.0 prpops.com
 0.0.0.0 prre.ru
 0.0.0.0 prscripts.com
@@ -16845,6 +16956,8 @@
 0.0.0.0 q.azcentral.com
 0.0.0.0 q.myvisualiq.net
 0.0.0.0 q.trafficfabrik.com
+0.0.0.0 q017o-d42by.ads.tremorhub.com
+0.0.0.0 q017o-jh7o1.ads.tremorhub.com
 0.0.0.0 q1media.com
 0.0.0.0 q243.nbryb.com
 0.0.0.0 q3ppl.bemobtrk.com
@@ -16870,6 +16983,8 @@
 0.0.0.0 qdayipnsir.com
 0.0.0.0 qdcdn.me
 0.0.0.0 qdl8d.bemobtrk.com
+0.0.0.0 qds0l-a8tgc.ads.tremorhub.com
+0.0.0.0 qds0l-anxnz.ads.tremorhub.com
 0.0.0.0 qdyfa.bemobtrk.com
 0.0.0.0 qfjherc.com
 0.0.0.0 qfubwupddefjw.com
@@ -16881,6 +16996,7 @@
 0.0.0.0 qiroris.pw
 0.0.0.0 qithimsuejs.com
 0.0.0.0 qiyukf.com
+0.0.0.0 qk5xf-rkfq2.ads.tremorhub.com
 0.0.0.0 qksrv.net
 0.0.0.0 qlcsqjxly.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.pet
@@ -16899,6 +17015,7 @@
 0.0.0.0 qrlsx.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 qs2.ioam.de
+0.0.0.0 qs25e-musmm.ads.tremorhub.com
 0.0.0.0 qsearch.media.net
 0.0.0.0 qservz.com
 0.0.0.0 qstest.ioam.de
@@ -17410,6 +17527,7 @@
 0.0.0.0 retrotaft.com
 0.0.0.0 rettungsdienst-diepholz.de
 0.0.0.0 reuters.demdex.net
+0.0.0.0 reuters.sophi.io
 0.0.0.0 revbigo.com
 0.0.0.0 revcontent.com
 0.0.0.0 revee.outbrain.com
@@ -17631,6 +17749,7 @@
 0.0.0.0 rtb-dashboard.mgid.com
 0.0.0.0 rtb-eq.tapad.com
 0.0.0.0 rtb-eu.tapad.com
+0.0.0.0 rtb-events.tremorhub.com
 0.0.0.0 rtb-fe-us-e1.content.ad
 0.0.0.0 rtb-fe-us-e2.content.ad
 0.0.0.0 rtb-fe-us-e3.content.ad
@@ -18020,6 +18139,7 @@
 0.0.0.0 scic.demdex.net
 0.0.0.0 scientialy.club
 0.0.0.0 scientiamobile.com
+0.0.0.0 scm.publishers.tremorhub.com
 0.0.0.0 sconcentpract.info
 0.0.0.0 scootertop.com
 0.0.0.0 scootloor.com
@@ -18211,6 +18331,7 @@
 0.0.0.0 sensors.binance.cloud
 0.0.0.0 sentry.deepl.com
 0.0.0.0 sentry.mopub.com
+0.0.0.0 sentry.sophi.io
 0.0.0.0 sentry.wixpress.com
 0.0.0.0 sep.tapad.com
 0.0.0.0 seprun.com
@@ -18371,6 +18492,7 @@
 0.0.0.0 sharecash.org
 0.0.0.0 shared.connatix.com
 0.0.0.0 sharegods.com
+0.0.0.0 shareit-push-cdn.wshareit.com
 0.0.0.0 shareresults.com
 0.0.0.0 sharethis.com
 0.0.0.0 sharethrough.adnxs.com
@@ -18502,6 +18624,7 @@
 0.0.0.0 simpio.com
 0.0.0.0 simpleco.in
 0.0.0.0 simpletexting.com
+0.0.0.0 simplifi.partners.tremorhub.com
 0.0.0.0 simplycast.com
 0.0.0.0 simsite.outbrain.com
 0.0.0.0 simvine.com
@@ -18587,6 +18710,8 @@
 0.0.0.0 slapi-bts.logsss.com
 0.0.0.0 slb-content-operators.adfox.ru
 0.0.0.0 slb-content.adfox.ru
+0.0.0.0 slckg-kqe2e.ads.tremorhub.com
+0.0.0.0 slckg-lyoc5.ads.tremorhub.com
 0.0.0.0 sledding.giftshopuon.com
 0.0.0.0 sleepcloud.eu
 0.0.0.0 slfpu.com
@@ -19130,6 +19255,7 @@
 0.0.0.0 static.appcelerator.net
 0.0.0.0 static.appcloudbox.net
 0.0.0.0 static.audienceinsights.net
+0.0.0.0 static.bounceexchange.com
 0.0.0.0 static.buysellads.com
 0.0.0.0 static.cdnativepush.com
 0.0.0.0 static.clickadu.com
@@ -19160,6 +19286,7 @@
 0.0.0.0 static.lalaping.com
 0.0.0.0 static.livejasmin.com
 0.0.0.0 static.liveshows.contentabc.com
+0.0.0.0 static.lngtd.com
 0.0.0.0 static.lustseek.com
 0.0.0.0 static.media.net
 0.0.0.0 static.mgid.com
@@ -19303,6 +19430,7 @@
 0.0.0.0 stg-collecticon.outlookmobile.com
 0.0.0.0 stg.green-red.com
 0.0.0.0 stg.scorecardresearch.com
+0.0.0.0 stg.sophi.io
 0.0.0.0 stickffrg.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stickyid-a.akamaihd.net
@@ -19512,6 +19640,7 @@
 0.0.0.0 swordfishdc.com
 0.0.0.0 sxedqvvaxxj.com
 0.0.0.0 syhganutwnp.com
+0.0.0.0 sylotepu.xyz
 0.0.0.0 sylviagreen.club
 0.0.0.0 sylwenys.pw
 0.0.0.0 symbol-upload.flurry.com
@@ -19651,6 +19780,7 @@
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adincube.com
 0.0.0.0 tag.adkernel.com
+0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.clrstm.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.digitaltarget.ru
@@ -20273,6 +20403,7 @@
 0.0.0.0 track.analhell.com
 0.0.0.0 track.analyticsbridge.io
 0.0.0.0 track.anchorfree.com
+0.0.0.0 track.andbeyond.media
 0.0.0.0 track.angelina-torres.com
 0.0.0.0 track.anideaevolves.com
 0.0.0.0 track.aniview.com
@@ -21192,6 +21323,7 @@
 0.0.0.0 trademob.com
 0.0.0.0 trader.adgear.com
 0.0.0.0 tradineseveni.club
+0.0.0.0 traefik-internal.sophi.io
 0.0.0.0 traeh.de
 0.0.0.0 trafegovip.com.br
 0.0.0.0 traffboost.net
@@ -21269,6 +21401,7 @@
 0.0.0.0 tredirect.com
 0.0.0.0 trekostore.xyz
 0.0.0.0 treksol.net
+0.0.0.0 tremorhub.com
 0.0.0.0 tremorvideo.com
 0.0.0.0 trendcounter.com
 0.0.0.0 trending.revcontent.com
@@ -21424,6 +21557,7 @@
 0.0.0.0 twistads.com
 0.0.0.0 twitchrobots.com
 0.0.0.0 twittad.com
+0.0.0.0 twitter-listener.sophi.io
 0.0.0.0 two-jj.github.io
 0.0.0.0 twosisterssalonandspa.com
 0.0.0.0 twovillas.com
@@ -21521,6 +21655,7 @@
 0.0.0.0 ufc-mettmach.at
 0.0.0.0 ufnd.hotchedmothe.club
 0.0.0.0 ufraton.com
+0.0.0.0 ufzua-051ht.ads.tremorhub.com
 0.0.0.0 ugcdata.vmate.in
 0.0.0.0 ugdhsrhcq.com
 0.0.0.0 uggcp.com
@@ -22072,6 +22207,7 @@
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 videogenerator.connatix.com
 0.0.0.0 videohub.com
+0.0.0.0 videology-partners.tremorhub.com
 0.0.0.0 videologygroup.com
 0.0.0.0 videomytube.ga
 0.0.0.0 videoplayer.vice.technology
@@ -22240,6 +22376,7 @@
 0.0.0.0 vtb.az
 0.0.0.0 vtbho.rdtk.io
 0.0.0.0 vtoras.top
+0.0.0.0 vtrdn-wjdav.ads.tremorhub.com
 0.0.0.0 vu.moatads.com
 0.0.0.0 vuaking.net
 0.0.0.0 vuclip.offerstrack.net
@@ -22510,6 +22647,7 @@
 0.0.0.0 whitememtory.com
 0.0.0.0 whitepaper.growadvertising.com
 0.0.0.0 whitesaas.com
+0.0.0.0 whoami.sophi.io
 0.0.0.0 whoinns.com
 0.0.0.0 whoisonline.net
 0.0.0.0 whowhipi.net
@@ -22714,6 +22852,7 @@
 0.0.0.0 wunderwahl.de
 0.0.0.0 wunderwand.shop
 0.0.0.0 wurfl.io
+0.0.0.0 wutipupi.xyz
 0.0.0.0 wv101.jiocdn.us
 0.0.0.0 wv109.jiocdn.us
 0.0.0.0 wv111.jiocdn.us
@@ -23093,6 +23232,7 @@
 0.0.0.0 www.dotomi.com
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.dpbolvw.net
+0.0.0.0 www.dqulcczd.com
 0.0.0.0 www.dragonawaken.com.de
 0.0.0.0 www.drivenetwork.ru
 0.0.0.0 www.e-hpaces.ero-advertising.com
@@ -23254,6 +23394,7 @@
 0.0.0.0 www.jads.co
 0.0.0.0 www.jasmin-cams-live.com
 0.0.0.0 www.jdoqocy.com
+0.0.0.0 www.jecqhvrclrxe.com
 0.0.0.0 www.jkxyxiwqdl.com
 0.0.0.0 www.jobsgg.com
 0.0.0.0 www.joxhvjnlpb.com
@@ -23573,6 +23714,7 @@
 0.0.0.0 www.snapads.com
 0.0.0.0 www.sombes.com
 0.0.0.0 www.sonobi.com
+0.0.0.0 www.sophi.io
 0.0.0.0 www.spaces.ero-advertising.com
 0.0.0.0 www.spartanslots.com
 0.0.0.0 www.speed-smart-fast-protect.cyou
@@ -24317,6 +24459,7 @@
 0.0.0.0 znaptag.com
 0.0.0.0 znbfkexqbr8elolwk-redventures.siteintercept.qualtrics.com
 0.0.0.0 znbltexmqcqo1do1g-deliveryhub.siteintercept.qualtrics.com
+0.0.0.0 znsps-bl6wf.ads.tremorhub.com
 0.0.0.0 zoaheeth.com
 0.0.0.0 zocker.shop
 0.0.0.0 zog.link
