@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.234
 # Release: 234
-# Entries: 24,479
+# Entries: 24,508
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 22 Aug 21 11:40:16
+# Updated: Sun, 22 Aug 21 23:40:14
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -417,6 +417,7 @@
 0.0.0.0 2qc2m.bemobtrk.com
 0.0.0.0 2qgsjjy89k.com
 0.0.0.0 2tomp.rdtk.io
+0.0.0.0 3-5937189.d-serv.net
 0.0.0.0 3.redirect.appmetrica.yandex.com
 0.0.0.0 3.stream.livejasmin.com
 0.0.0.0 302811581b6fb5503e12979ae3b8485e.safeframe.googlesyndication.com
@@ -616,6 +617,7 @@
 0.0.0.0 4e1be7e9d465dc40ff284403f9ad45d3.safeframe.googlesyndication.com
 0.0.0.0 4f0c3ac61f47988abadd42d25f3c82c9.safeframe.googlesyndication.com
 0.0.0.0 4fw4gd.cfeucdn.com
+0.0.0.0 4hfchest5kdnfnut.com
 0.0.0.0 4info.com
 0.0.0.0 4iy2i.bemobtrk.com
 0.0.0.0 4l7wg5kf3z.com
@@ -669,6 +671,7 @@
 0.0.0.0 5unbx.rdtk.io
 0.0.0.0 5yfi7sy.com
 0.0.0.0 6.adsco.re
+0.0.0.0 60240457ec91a.r.d-serv.net
 0.0.0.0 6066bd8aab9d73e3.com
 0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.prmutv.co
@@ -859,6 +862,7 @@
 0.0.0.0 a-cat.at
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a-new.ru
+0.0.0.0 a-sac.h.online-metrix.net
 0.0.0.0 a-solar.info
 0.0.0.0 a-static.com
 0.0.0.0 a-support.applovin.com
@@ -885,7 +889,6 @@
 0.0.0.0 a.b0e8.com
 0.0.0.0 a.bestcontentfacility.top
 0.0.0.0 a.bestcontentfood.top
-0.0.0.0 a.bildstatic.de
 0.0.0.0 a.brand.ad
 0.0.0.0 a.c0594.com
 0.0.0.0 a.connatix.com
@@ -1868,6 +1871,7 @@
 0.0.0.0 ads-not-by-this-site.de
 0.0.0.0 ads-orange.adhese.com
 0.0.0.0 ads-orangegames.adhese.com
+0.0.0.0 ads-pd.nbcuni.com
 0.0.0.0 ads-pebblemedia.adhese.com
 0.0.0.0 ads-plus-inv-eu.admixer.net
 0.0.0.0 ads-plus-inv-eus.admixer.net
@@ -3976,6 +3980,7 @@
 0.0.0.0 api.prod.notifier.manycomponents.com
 0.0.0.0 api.prsrvy.com
 0.0.0.0 api.pub.network
+0.0.0.0 api.pubmine.com
 0.0.0.0 api.purpleads.io
 0.0.0.0 api.push.verizonmedia.com
 0.0.0.0 api.qrserver.com
@@ -4298,6 +4303,7 @@
 0.0.0.0 asishoes.club
 0.0.0.0 askalbass.club
 0.0.0.0 askcoobaa.club
+0.0.0.0 asmodeusfields.com
 0.0.0.0 aspbateayes.com
 0.0.0.0 aspirinsuicide.com
 0.0.0.0 aspxbwteth.com
@@ -5584,6 +5590,7 @@
 0.0.0.0 caiyung.com
 0.0.0.0 cajalwinterconference.es
 0.0.0.0 cal.newrelic.com
+0.0.0.0 calamos.collect.igodigital.com
 0.0.0.0 caledonia-ev.de
 0.0.0.0 caligula.pro
 0.0.0.0 callaghanes.online
@@ -5749,6 +5756,7 @@
 0.0.0.0 cdm.connatix.com
 0.0.0.0 cdmstudy.site
 0.0.0.0 cdn-a.amazon-adsystem.com
+0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 cdn-a2-ncl.optimizely.com
 0.0.0.0 cdn-a2.contentabc.com
 0.0.0.0 cdn-a2.trafficjunky.net
@@ -5797,6 +5805,7 @@
 0.0.0.0 cdn-s8.cfeucdn.com
 0.0.0.0 cdn-s9.cfeucdn.com
 0.0.0.0 cdn-sec.tacoda.at.atwola.com
+0.0.0.0 cdn-swell-assets.yotpo.com
 0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 cdn-tb2.adform.net
 0.0.0.0 cdn-vfw-us-test.amazon-adsystem.com
@@ -8354,6 +8363,7 @@
 0.0.0.0 effectivemeasure.net
 0.0.0.0 effectiveperformancenetwork.com
 0.0.0.0 efhabjaabgfbbegjacj.ru
+0.0.0.0 efootballcampaign-program.com
 0.0.0.0 eftwelt.de
 0.0.0.0 efully.info
 0.0.0.0 eg.ads.justpremium.com
@@ -10427,6 +10437,7 @@
 0.0.0.0 hostfleek.com
 0.0.0.0 hostingcloud.party
 0.0.0.0 hostingcloud.racing
+0.0.0.0 hostmar.co
 0.0.0.0 hostpx.moatads.com
 0.0.0.0 hosts-weborama.adhese.com
 0.0.0.0 hot-hits.us
@@ -11066,6 +11077,7 @@
 0.0.0.0 insnw.net
 0.0.0.0 insolvenzamt.com
 0.0.0.0 inspikon.com
+0.0.0.0 inspirationhistorical.com
 0.0.0.0 insta-cash.net
 0.0.0.0 instaboom-hello.site
 0.0.0.0 install.ddns.info
@@ -14314,6 +14326,7 @@
 0.0.0.0 nurl.tremorhub.com
 0.0.0.0 nutlonging.com
 0.0.0.0 nuzlihakiim.com
+0.0.0.0 nvda.d2.sc.omtrdc.net
 0.0.0.0 nvidia.demdex.net
 0.0.0.0 nvxzjmowusg.com
 0.0.0.0 nwfhalifax.com
@@ -14524,6 +14537,7 @@
 0.0.0.0 onexr64659.top
 0.0.0.0 onkelflow.de
 0.0.0.0 online-adnetwork.com
+0.0.0.0 online-metrix.net
 0.0.0.0 online-mode-1.de
 0.0.0.0 online-reproduktionvongemalden.xyz
 0.0.0.0 online-wohnzimmer.de
@@ -15357,6 +15371,7 @@
 0.0.0.0 pimproll.com
 0.0.0.0 ping.media.net
 0.0.0.0 ping.rqmob.com
+0.0.0.0 ping.staticmoly.me
 0.0.0.0 pingconnect.net
 0.0.0.0 pinger.ads.nexage.com
 0.0.0.0 pingone-login.openx.com
@@ -16751,6 +16766,7 @@
 0.0.0.0 ptipsixo.com
 0.0.0.0 ptmzr.com
 0.0.0.0 pto.protoawe.com
+0.0.0.0 ptoumsid.net
 0.0.0.0 ptrack.pubmatic.com
 0.0.0.0 pu.trafficshop.com
 0.0.0.0 pu.vuer.net
@@ -16808,6 +16824,7 @@
 0.0.0.0 pubs.contextads.live
 0.0.0.0 pubs.ouedkniss.com
 0.0.0.0 pubsub.googleapis.com
+0.0.0.0 pubsub.razersynapse.com
 0.0.0.0 pubx.co
 0.0.0.0 pubyun.com
 0.0.0.0 puds-down.uc.cn
@@ -17085,6 +17102,7 @@
 0.0.0.0 r.interakt.ru
 0.0.0.0 r.msn.com
 0.0.0.0 r.myvisualiq.net
+0.0.0.0 r.online-metrix.net
 0.0.0.0 r.randomnew.com
 0.0.0.0 r.routemob.com
 0.0.0.0 r.skimresources.com
@@ -17631,6 +17649,7 @@
 0.0.0.0 rm.adfalcon.com
 0.0.0.0 rm.pxl.ace.advertising.com
 0.0.0.0 rma.adcolony.com
+0.0.0.0 rma7.realmadridtoken.org
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmawm7mw.top
 0.0.0.0 rmcxyfqbm.com
@@ -18108,6 +18127,9 @@
 0.0.0.0 sb-stage.scorecardresearch.com
 0.0.0.0 sb-waschstrasse-ruck.de
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sb1.h.online-metrix.net
+0.0.0.0 sb2.h.online-metrix.net
+0.0.0.0 sb3.h.online-metrix.net
 0.0.0.0 sb6.scorecardresearch.com
 0.0.0.0 sb7h2nwbe.trafficmagnates.com
 0.0.0.0 sba.about.co.kr
@@ -18377,6 +18399,7 @@
 0.0.0.0 serve.tercept.com
 0.0.0.0 serve.themediateam.net
 0.0.0.0 servebom.com
+0.0.0.0 served-by.pixfuture.com
 0.0.0.0 servedby.adbutler.com
 0.0.0.0 servedby.advertising.com
 0.0.0.0 servedby.ammoland.com
@@ -19375,6 +19398,7 @@
 0.0.0.0 statok.net
 0.0.0.0 statpipe.ru
 0.0.0.0 statres.quickapp.cn
+0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats.aec.at
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.arabnews.com
@@ -20150,6 +20174,7 @@
 0.0.0.0 tigerhysteriaspree.com
 0.0.0.0 tikjbfpd.com
 0.0.0.0 tiktok-news.com
+0.0.0.0 tiktok18.cc
 0.0.0.0 tiktok18.pro
 0.0.0.0 tiktok18.store
 0.0.0.0 tilanalytics.timesinternet.in
@@ -20703,6 +20728,7 @@
 0.0.0.0 track.lelastar.com
 0.0.0.0 track.lenzmx.com
 0.0.0.0 track.levexis.com
+0.0.0.0 track.lexico.com
 0.0.0.0 track.lfstmedia.com
 0.0.0.0 track.lgtor.com
 0.0.0.0 track.licensedtoblow.com
@@ -21406,6 +21432,7 @@
 0.0.0.0 transmittericilysunstroke.com
 0.0.0.0 transporter-footwear.com
 0.0.0.0 trapasol.com
+0.0.0.0 trappush.com
 0.0.0.0 trashremover.r.xoxknct.com
 0.0.0.0 trator-blesouls.com
 0.0.0.0 traum-deko.de
@@ -22298,6 +22325,7 @@
 0.0.0.0 vision-erfolg.de
 0.0.0.0 vision.taboola.com
 0.0.0.0 visistat.com
+0.0.0.0 visitanalytics.userreport.com
 0.0.0.0 visitbox.de
 0.0.0.0 vissmatiem.com
 0.0.0.0 visual-pagerank.fr
@@ -22443,6 +22471,7 @@
 0.0.0.0 w1.apnnz.com
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 w1.rayjump.com
+0.0.0.0 w2txo5aaw7vjd4d5zmk7xlok25k2lluuq2222ybja68c4962fe3fdcf5am1.e.aa.online-metrix.net
 0.0.0.0 w4filesws.imageshack.host
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 waagemann.de
@@ -23215,7 +23244,6 @@
 0.0.0.0 www.crashlytics.com
 0.0.0.0 www.creativedisplayformat.com
 0.0.0.0 www.creativey.online
-0.0.0.0 www.csb.app
 0.0.0.0 www.ctoairtx.com
 0.0.0.0 www.culmjysalt.com
 0.0.0.0 www.cvent.axiatraders.com
@@ -24223,6 +24251,7 @@
 0.0.0.0 yakpilot.de
 0.0.0.0 yamechanic.com
 0.0.0.0 yandexadexchange.net
+0.0.0.0 yardchartsei.info
 0.0.0.0 yarlnk.com
 0.0.0.0 yashi.com
 0.0.0.0 yast.rutube.ru
