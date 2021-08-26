@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.238
 # Release: 238
-# Entries: 25,001
+# Entries: 25,029
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 26 Aug 21 11:40:21
+# Updated: Thu, 26 Aug 21 23:40:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -632,6 +632,7 @@
 0.0.0.0 3607715.notifysrv.com
 0.0.0.0 3608083.notifysrv.com
 0.0.0.0 360ads.com
+0.0.0.0 360buyimg.com
 0.0.0.0 360installer.com
 0.0.0.0 360yield.com
 0.0.0.0 3621607.notifysrv.com
@@ -760,6 +761,7 @@
 0.0.0.0 57e3ascxh1.com
 0.0.0.0 58.nbryb.com
 0.0.0.0 58680dd9.ngrok.io
+0.0.0.0 58cdn.com.cn
 0.0.0.0 58coin.com
 0.0.0.0 5a9yl.bemobtrk.com
 0.0.0.0 5bfc159af1709af72bfd5e8dd26db0ce.safeframe.googlesyndication.com
@@ -941,6 +943,7 @@
 0.0.0.0 91pool.com
 0.0.0.0 92.nbryb.com
 0.0.0.0 920sbo17zn88.com
+0.0.0.0 927696.com
 0.0.0.0 93.nbryb.com
 0.0.0.0 944e66f8683ac43c.com
 0.0.0.0 949581ad2314b4c1d79e4fbac6d95a4b.safeframe.googlesyndication.com
@@ -4206,6 +4209,7 @@
 0.0.0.0 app.crashlytics.com
 0.0.0.0 app.datatrics.com
 0.0.0.0 app.flurry.com
+0.0.0.0 app.funstorebd.com
 0.0.0.0 app.igodigital.com
 0.0.0.0 app.mopub.com
 0.0.0.0 app.opmnstr.com
@@ -6895,6 +6899,7 @@
 0.0.0.0 computertechnik-nord.de
 0.0.0.0 comr.me
 0.0.0.0 comscore.com
+0.0.0.0 comtucdncom.com
 0.0.0.0 conapi.connatix.com
 0.0.0.0 conbt.com
 0.0.0.0 concernedglued.com
@@ -7882,6 +7887,7 @@
 0.0.0.0 dexchangeinc.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 dffijaiagajbedddccc.ru
+0.0.0.0 dfgpocp888.com
 0.0.0.0 dfh46j.cfeucdn.com
 0.0.0.0 dfkcnyhd.nl
 0.0.0.0 dfp.doubleclick.net
@@ -9511,6 +9517,7 @@
 0.0.0.0 frxinvestingxxx.club
 0.0.0.0 fry99.com
 0.0.0.0 fs.moatads.com
+0.0.0.0 fsp.funstorebd.com
 0.0.0.0 fst.securefastoffers.com
 0.0.0.0 fstream.binance.com
 0.0.0.0 fstream.binance.me
@@ -9538,6 +9545,7 @@
 0.0.0.0 funhot247.host
 0.0.0.0 funklicks.com
 0.0.0.0 funnwebs.com
+0.0.0.0 funstorebd.com
 0.0.0.0 funswan.de
 0.0.0.0 funwarcab.club
 0.0.0.0 funzone.by
@@ -10388,6 +10396,7 @@
 0.0.0.0 heckenbachsports.de
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hecrowcati.info
+0.0.0.0 hedz.com.cn
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 heikos-kramladen.de
 0.0.0.0 heimtierbedarfonlineshop.xyz
@@ -11029,6 +11038,7 @@
 0.0.0.0 img1.glb.livejasmin.com
 0.0.0.0 img1.livejasmin.com
 0.0.0.0 img1.livejasmincdn.com
+0.0.0.0 img12.360buyimg.com
 0.0.0.0 img2.glb.livejasmin.com
 0.0.0.0 img2.livejasmin.com
 0.0.0.0 img2.livejasmincdn.com
@@ -12564,6 +12574,7 @@
 0.0.0.0 livezombymil.com
 0.0.0.0 lixi88.com
 0.0.0.0 lixi88.info
+0.0.0.0 ljcdn.comtucdncom.com
 0.0.0.0 lk1mft33pj2f.com
 0.0.0.0 lkdvvxvtsq6o.com
 0.0.0.0 lkqd.net
@@ -15767,6 +15778,10 @@
 0.0.0.0 pianistrefutationgoose.com
 0.0.0.0 piastas.gdn
 0.0.0.0 piasuna.gdn
+0.0.0.0 pic2.58cdn.com.cn
+0.0.0.0 pic4.58cdn.com.cn
+0.0.0.0 pic5.58cdn.com.cn
+0.0.0.0 pic8.58cdn.com.cn
 0.0.0.0 picanalysis.vivo.com.cn
 0.0.0.0 picbucks.com
 0.0.0.0 pics.adxadserv.com
@@ -15811,6 +15826,7 @@
 0.0.0.0 pivotrunner.com
 0.0.0.0 piwik.ero-advertising.com
 0.0.0.0 piwik.everzones.com
+0.0.0.0 piwik.inria.fr
 0.0.0.0 piwik.opendesktop.org
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.btrll.com
@@ -15891,6 +15907,7 @@
 0.0.0.0 pixel.speakol.com
 0.0.0.0 pixel.spoutable.com
 0.0.0.0 pixel.staging.tree.com
+0.0.0.0 pixel.statically.io
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.tapad.comp.skimresources.com
 0.0.0.0 pixel.titjolacruso.info
@@ -17035,7 +17052,6 @@
 0.0.0.0 pro-pro-go.com
 0.0.0.0 pro.buysellads.com
 0.0.0.0 pro.hit.gemius.pl
-0.0.0.0 pro.ip-api.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 probtn.com
 0.0.0.0 processlockdownagree.com
@@ -17235,6 +17251,7 @@
 0.0.0.0 publishers.speakol.com
 0.0.0.0 publishers.viglink.com
 0.0.0.0 publited.com
+0.0.0.0 publpush.com
 0.0.0.0 publy-static.aquaplatform.com
 0.0.0.0 publy.net
 0.0.0.0 pubmatic-match.dotomi.com
@@ -17294,6 +17311,7 @@
 0.0.0.0 push.c0nect.com
 0.0.0.0 push.clickadilla.com
 0.0.0.0 push.ez123support.com
+0.0.0.0 push.funstorebd.com
 0.0.0.0 push.hicloud.com
 0.0.0.0 push.maribacaberita.com
 0.0.0.0 push.popcash.net
@@ -17301,6 +17319,7 @@
 0.0.0.0 push.vmate.in
 0.0.0.0 push.wuazu.net
 0.0.0.0 push.yandex.com
+0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 push6.hicloud.com
 0.0.0.0 push9.hicloud.com
 0.0.0.0 pushads.popcash.net
@@ -18013,6 +18032,7 @@
 0.0.0.0 revfusion.net
 0.0.0.0 revive-adserver.net
 0.0.0.0 revmob.com
+0.0.0.0 revopush.com
 0.0.0.0 revresponse.com
 0.0.0.0 revrtb.net
 0.0.0.0 revttmobile.com
@@ -19048,6 +19068,8 @@
 0.0.0.0 shortest-miner.com
 0.0.0.0 shotyhub.xyz
 0.0.0.0 shoungak.net
+0.0.0.0 show.gdns.revopush.com
+0.0.0.0 show.revopush.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showads1065.pubmatic.com
@@ -19157,6 +19179,7 @@
 0.0.0.0 sitesite.cn
 0.0.0.0 sitestat.com
 0.0.0.0 sivian-ebe.com
+0.0.0.0 sj1.hedz.com.cn
 0.0.0.0 sj2-ae.cj.com
 0.0.0.0 sjc-delivery-10.sys.adgear.com
 0.0.0.0 sjc-delivery-7.sys.adgear.com
@@ -22491,12 +22514,14 @@
 0.0.0.0 v3.actionteaser.ru
 0.0.0.0 v3.ads.mopub.com
 0.0.0.0 v3.fstats.xyz
+0.0.0.0 v3.funstorebd.com
 0.0.0.0 v3.logger.pw
 0.0.0.0 v3.moatads.com
 0.0.0.0 v3.nucleo.online
 0.0.0.0 v3.qrlsx.com
 0.0.0.0 v3g4s.com
 0.0.0.0 v3m.youzu.com
+0.0.0.0 v4.funstorebd.com
 0.0.0.0 v4.logger.pw
 0.0.0.0 v4.moatads.com
 0.0.0.0 v6.startappservice.com
@@ -23268,6 +23293,7 @@
 0.0.0.0 wltoys.co
 0.0.0.0 wlxrk.lovenights.net
 0.0.0.0 wm-dornbirn2017.at
+0.0.0.0 wmaxp.funstorebd.com
 0.0.0.0 wmedia-track.uc.cn
 0.0.0.0 wmikrut.com
 0.0.0.0 wmirk.ru
@@ -23444,6 +23470,7 @@
 0.0.0.0 www.5rocks.io
 0.0.0.0 www.7eer.net
 0.0.0.0 www.8s32e590un.com
+0.0.0.0 www.927696.com
 0.0.0.0 www.9ata.ero-advertising.com
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.a.ero-advertising.com
@@ -24174,6 +24201,7 @@
 0.0.0.0 www.retdaz.fun
 0.0.0.0 www.revcontent.com
 0.0.0.0 www.revive-adserver.net
+0.0.0.0 www.revopush.com
 0.0.0.0 www.rivertraffic.com
 0.0.0.0 www.rjltpektsuqsu.com
 0.0.0.0 www.rlcdn.com
