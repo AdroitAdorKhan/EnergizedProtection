@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.239
 # Release: 239
-# Entries: 25,029
+# Entries: 25,052
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 Aug 21 11:40:18
+# Updated: Fri, 27 Aug 21 23:40:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -544,6 +544,7 @@
 0.0.0.0 3193381.notifysrv.com
 0.0.0.0 3194555.notifysrv.com
 0.0.0.0 3196267.notifysrv.com
+0.0.0.0 31ed6aa8-3094-4014-a685-5d039c791b3d.snippet.antillephone.com
 0.0.0.0 32.nbryb.com
 0.0.0.0 3207479.notifysrv.com
 0.0.0.0 3207695.notifysrv.com
@@ -984,6 +985,7 @@
 0.0.0.0 a-test.addthis.com
 0.0.0.0 a-usa.applovin.com
 0.0.0.0 a-v2.presage.io
+0.0.0.0 a.296944ca2c266cf432c634fdf665d2ab30f502aea9972e996dfee25f.com
 0.0.0.0 a.ad.gtrw9bj24c2j.s.ad6media.fr
 0.0.0.0 a.adgear.com
 0.0.0.0 a.adgrx.com
@@ -1018,6 +1020,7 @@
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 a.exosrv.comhttps
+0.0.0.0 a.f98d53921dd8fb3a8333f70021682925b8064efd3aa4c79c0d933f55.com
 0.0.0.0 a.faymobi.com
 0.0.0.0 a.glcdn.co
 0.0.0.0 a.global.msads.net
@@ -3981,6 +3984,7 @@
 0.0.0.0 api-gateway.dditsadn.com
 0.0.0.0 api-gateway.uat.dev.sizmek.com
 0.0.0.0 api-gray.rqmob.com
+0.0.0.0 api-js.datadome.co
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api-lytics.macpaw.com
 0.0.0.0 api-metrica.yandex.com
@@ -6826,6 +6830,7 @@
 0.0.0.0 collector.bikroy.com
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collector.eqads.com
+0.0.0.0 collector.faphouse.com
 0.0.0.0 collector.mediator.media
 0.0.0.0 collector.montana.sophi.io
 0.0.0.0 collector.newrelic.com
@@ -6834,6 +6839,7 @@
 0.0.0.0 collector.unsplash.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector.xhplanet1.com
 0.0.0.0 collector0.xhamster.com
 0.0.0.0 collector1.xhamster.desi
 0.0.0.0 collector1.xhamster2.com
@@ -7476,6 +7482,7 @@
 0.0.0.0 d1nssfq3xl2t6b.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.ne
 0.0.0.0 d1rg2274px6zb.cloudfront.net
+0.0.0.0 d1ridz0c354lu7.cloudfront.net
 0.0.0.0 d1tqp15egmc1qo.cloudfront.net
 0.0.0.0 d1wsidr7aabb18.cloudfront.net
 0.0.0.0 d1ybdlg8aoufn.cloudfront.net
@@ -7513,6 +7520,7 @@
 0.0.0.0 d3e5zkjv0mw5t1.cloudfront.net
 0.0.0.0 d3f4nuq5dskrej.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
+0.0.0.0 d3iih5w7xp5hdg.cloudfront.net
 0.0.0.0 d3ithbwcmjcxl7.cloudfront.net
 0.0.0.0 d3j7esvm4tntxq.cloudfront.net
 0.0.0.0 d3lvir7538n0oi.cloudfront.net
@@ -8682,6 +8690,7 @@
 0.0.0.0 entercasino.com
 0.0.0.0 enterpriseenrollment.rubiconproject.com
 0.0.0.0 entity-search.service.newrelic.com
+0.0.0.0 entrackr.com
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 entrexperit.pro
 0.0.0.0 environmentalist.com
@@ -10005,6 +10014,7 @@
 0.0.0.0 goaciptu.net
 0.0.0.0 goadservices.com
 0.0.0.0 goajuzey.com
+0.0.0.0 goandplay2.club
 0.0.0.0 goasshax.at
 0.0.0.0 gobrashop.com
 0.0.0.0 gobuyersupport.rubiconproject.com
@@ -11252,6 +11262,7 @@
 0.0.0.0 inshopys.com
 0.0.0.0 inside.outbrain.com
 0.0.0.0 inside.xaxis.com
+0.0.0.0 insight-api.performgroup.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.connectad.io
 0.0.0.0 insight.ucweb.com
@@ -11261,6 +11272,7 @@
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights.alphonso.tv
 0.0.0.0 insights.cj.com
+0.0.0.0 insights.dyn.archdaily.com
 0.0.0.0 insights.inmobi.com
 0.0.0.0 insights.newrelic.com
 0.0.0.0 insights.platform.openx.com
@@ -13482,6 +13494,7 @@
 0.0.0.0 meisterwerk-ib.de
 0.0.0.0 mekaliss.com
 0.0.0.0 mekando.de
+0.0.0.0 mekshq.com
 0.0.0.0 melachic.com
 0.0.0.0 meladen.de
 0.0.0.0 mellowads.com
@@ -13893,6 +13906,7 @@
 0.0.0.0 mp.wshareit.com
 0.0.0.0 mp34y0.edvfwlacluo.com
 0.0.0.0 mp4moviez.trade
+0.0.0.0 mpanbroc.club
 0.0.0.0 mparticle.uc.cn
 0.0.0.0 mpets.net
 0.0.0.0 mpg.taboola.com
@@ -15050,6 +15064,7 @@
 0.0.0.0 optmd.com
 0.0.0.0 optnumbhigh.com
 0.0.0.0 optout-stage.addthis.com
+0.0.0.0 optout.aboutads.info
 0.0.0.0 optout.addthis.com
 0.0.0.0 optout.agkn.com
 0.0.0.0 optout.alphonso.tv
@@ -17777,6 +17792,7 @@
 0.0.0.0 rd.rlcdn.com
 0.0.0.0 rd.speakol.com
 0.0.0.0 rd.tabelog.com
+0.0.0.0 rd1.ia.hhg21lhdhye74ixs.com
 0.0.0.0 rd5a.nbryb.com
 0.0.0.0 rdarlierintedca.info
 0.0.0.0 rddywd.com
@@ -19907,6 +19923,7 @@
 0.0.0.0 stats4all.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsq.propellerads.com
+0.0.0.0 statstracker.performgroup.com
 0.0.0.0 statsv2-backend.propellerads.com
 0.0.0.0 statsy.net
 0.0.0.0 status.addthis.com
@@ -20329,6 +20346,7 @@
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.bkrtx.com
+0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.deployads.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.foxnews.com
@@ -22824,6 +22842,7 @@
 0.0.0.0 vitagaming.de
 0.0.0.0 vitalads.net
 0.0.0.0 vitalis-pankratius.de
+0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vite-envogue.de
 0.0.0.0 vivaispinelli.it
 0.0.0.0 vivebox.net
@@ -23086,6 +23105,7 @@
 0.0.0.0 webdisk.livejasmin.co.com
 0.0.0.0 weber-messeberatung.de
 0.0.0.0 weber-versand.net
+0.0.0.0 webevents.wins.net
 0.0.0.0 webexpress-shop.com
 0.0.0.0 webfilms4u.me
 0.0.0.0 webgains.com
@@ -24438,6 +24458,7 @@
 0.0.0.0 www.xn--adspace-kvg.ero-advertising.com
 0.0.0.0 www.xpbbyiqbcawamy.com
 0.0.0.0 www.xtremeserve.xyz
+0.0.0.0 www.xwktyiydn.com
 0.0.0.0 www.xxxcom.co
 0.0.0.0 www.xxxmeet.net
 0.0.0.0 www.yahoo-news.co
@@ -24730,6 +24751,7 @@
 0.0.0.0 xvideos.by
 0.0.0.0 xvika.com
 0.0.0.0 xvtelink.com
+0.0.0.0 xwktyiydn.com
 0.0.0.0 xxex.umengcloud.com
 0.0.0.0 xxl-handel.de
 0.0.0.0 xxx2019.pro
@@ -24763,6 +24785,7 @@
 0.0.0.0 yahoo.adtrackers.net
 0.0.0.0 yahoo.uservoice.com
 0.0.0.0 yahoojp.taboola.com
+0.0.0.0 yajvdoporjtz.com
 0.0.0.0 yakpilot.de
 0.0.0.0 yamechanic.com
 0.0.0.0 yandexadexchange.net
