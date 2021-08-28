@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.240
 # Release: 240
-# Entries: 25,236
+# Entries: 25,235
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 28 Aug 21 11:40:16
+# Updated: Sat, 28 Aug 21 23:40:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12791,7 +12791,6 @@
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ird.outbrain.com
-0.0.0.0 log-manager.propellerads.com
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
