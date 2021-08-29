@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.08.241
 # Release: 241
-# Entries: 25,282
+# Entries: 25,310
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 29 Aug 21 11:40:17
+# Updated: Sun, 29 Aug 21 23:40:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -49,6 +49,7 @@
 # --------------------------------------------
 # E N E R G I Z E D  B E G I N S
 # --------------------------------------------
+0.0.0.0 0.ad.bench.utorrent.com
 0.0.0.0 000f378090e2706f51b54df7358b7608.safeframe.googlesyndication.com
 0.0.0.0 0031b080.api.splkmobile.com
 0.0.0.0 01.adnxs.com
@@ -1417,6 +1418,7 @@
 0.0.0.0 ad.bannerpoint.ru
 0.0.0.0 ad.bauermedia.com
 0.0.0.0 ad.be.doubleclick.net
+0.0.0.0 ad.bench.utorrent.com
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 ad.biglobe.ne.jp
 0.0.0.0 ad.bizo.com
@@ -1948,6 +1950,7 @@
 0.0.0.0 adnow.com
 0.0.0.0 adnxs.com
 0.0.0.0 adobe.sync.go.sonobi.com
+0.0.0.0 adobecorp.sc.omtrdc.net
 0.0.0.0 adobeflash31_install.ddns.info
 0.0.0.0 adocean.pl
 0.0.0.0 adogadgets.com
@@ -2284,6 +2287,7 @@
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.okcimg.com
 0.0.0.0 ads.opera.com
+0.0.0.0 ads.otm-r.com
 0.0.0.0 ads.party.at
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.persgroep.net
@@ -2522,6 +2526,7 @@
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.nexage.com
 0.0.0.0 adserver.oddschecker.com
+0.0.0.0 adserver.otm-r.com
 0.0.0.0 adserver.ouedkniss.com
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adserver.pl
@@ -2562,6 +2567,7 @@
 0.0.0.0 adservice.google.ru
 0.0.0.0 adservice.google.tr
 0.0.0.0 adservices.google.com
+0.0.0.0 adservices.roku.com
 0.0.0.0 adservingfactory.com
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
@@ -2851,6 +2857,7 @@
 0.0.0.0 adx.callback.batmobi.net
 0.0.0.0 adx.hasmobi.net
 0.0.0.0 adx.luxup2.ru
+0.0.0.0 adx.otm-r.com
 0.0.0.0 adx1js.s3.amazonaws.com
 0.0.0.0 adx2.adform.net
 0.0.0.0 adx3.adform.net
@@ -2885,6 +2892,7 @@
 0.0.0.0 ae.pubmatic.com
 0.0.0.0 ae22000.pubmatic.com
 0.0.0.0 aegis.pubmatic.com
+0.0.0.0 aegis.qq.com
 0.0.0.0 aemmestore.it
 0.0.0.0 aeon-pool.com
 0.0.0.0 aeonminingpool.com
@@ -4773,6 +4781,7 @@
 0.0.0.0 azpresearch.club
 0.0.0.0 azr-3.cdnamz.com
 0.0.0.0 azure.admixer.net
+0.0.0.0 b-0.ad.bench.utorrent.com
 0.0.0.0 b-1st.com
 0.0.0.0 b-api.wpu.sh
 0.0.0.0 b-code.liadm.com
@@ -6252,6 +6261,7 @@
 0.0.0.0 cdn.uc.atwola.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.user-api.com
+0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn.vdosupreme.com
 0.0.0.0 cdn.viadata.store
 0.0.0.0 cdn.viglink.com
@@ -6542,6 +6552,7 @@
 0.0.0.0 claudia-pelka.de
 0.0.0.0 claudia-scarpatetti.de
 0.0.0.0 claudiakleyh.de
+0.0.0.0 clck.adskeeper.co.uk
 0.0.0.0 clck.mgid.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 clck.yandex.ru
@@ -7333,6 +7344,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 crittercism.com
 0.0.0.0 crkqip.fasdfgsdf.com
+0.0.0.0 crl.identrust.com
 0.0.0.0 crohasitnet.cdaz.icu
 0.0.0.0 cronvass.edvfwlacluo.com
 0.0.0.0 croozer-transport.de
@@ -7759,6 +7771,7 @@
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 data.tapad.com
+0.0.0.0 data.ushareit.com
 0.0.0.0 data.videonow.ru
 0.0.0.0 data2.ero-advertising.com
 0.0.0.0 databoat.zenkube.com
@@ -9137,6 +9150,7 @@
 0.0.0.0 f.watchmovie.fun
 0.0.0.0 f06b3af9.api.splkmobile.com
 0.0.0.0 f1.cdn.ftd.agency
+0.0.0.0 f1.market.xiaomi.com
 0.0.0.0 f1tbit.com
 0.0.0.0 f22c5b6c.api.splkmobile.com
 0.0.0.0 f2811099.api.splkmobile.com
@@ -9750,6 +9764,7 @@
 0.0.0.0 fynqrm.edvfwlacluo.com
 0.0.0.0 fzrqfakeaqikwm.com
 0.0.0.0 g-kahlen.de
+0.0.0.0 g-logsdk.snackvideo.com
 0.0.0.0 g-logsdk.uvfuns.com
 0.0.0.0 g-pixel.invitemedia.com
 0.0.0.0 g-ulog.snackvideo.com
@@ -10936,6 +10951,11 @@
 0.0.0.0 hytera-pro.ru
 0.0.0.0 hywmj.rdtk.io
 0.0.0.0 hyybabe.com
+0.0.0.0 i-1005.b-0.ad.bench.utorrent.com
+0.0.0.0 i-1006.b-0.ad.bench.utorrent.com
+0.0.0.0 i-1007.b-0.ad.bench.utorrent.com
+0.0.0.0 i-3100.b-0.ad.bench.utorrent.com
+0.0.0.0 i-666.b-0.ad.bench.utorrent.com
 0.0.0.0 i-cdn.openx.com
 0.0.0.0 i-clicks.net
 0.0.0.0 i.bestcontentfacility.top
@@ -11446,6 +11466,7 @@
 0.0.0.0 insights.inmobi.com
 0.0.0.0 insights.newrelic.com
 0.0.0.0 insights.platform.openx.com
+0.0.0.0 insights.ushareit.com
 0.0.0.0 insights.webeyemob.com
 0.0.0.0 insitepromotion.com
 0.0.0.0 insitesystems.com
@@ -15328,6 +15349,7 @@
 0.0.0.0 othepbuttit.com
 0.0.0.0 otheredan.space
 0.0.0.0 othersonline.com
+0.0.0.0 otm-r.com
 0.0.0.0 otnolatrnup.com
 0.0.0.0 otrwaram.com
 0.0.0.0 ouftukoo.net
@@ -18173,6 +18195,7 @@
 0.0.0.0 reporting-visualisation.rakutenmarketing.com
 0.0.0.0 reporting.adgear.com
 0.0.0.0 reporting.awin.com
+0.0.0.0 reporting.otm-r.com
 0.0.0.0 reportingapi.adpushup.com
 0.0.0.0 reportlog.cocos.com
 0.0.0.0 reports-ci.web.analytics.yahoo.com
@@ -19054,6 +19077,7 @@
 0.0.0.0 sentry.friendbuy.com
 0.0.0.0 sentry.mopub.com
 0.0.0.0 sentry.sophi.io
+0.0.0.0 sentry.ushareit.org
 0.0.0.0 sentry.wixpress.com
 0.0.0.0 sep.tapad.com
 0.0.0.0 seprun.com
@@ -19835,8 +19859,10 @@
 0.0.0.0 ssp.theadx.com
 0.0.0.0 ssp.zog.link
 0.0.0.0 ssp2.adriver.ru
+0.0.0.0 ssplog.otm-r.com
 0.0.0.0 ssqualismother.info
 0.0.0.0 sst.trafficmagnates.com
+0.0.0.0 sstatic1.histats.com
 0.0.0.0 sstats.deloitte.com
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssv.admost.com
@@ -21630,6 +21656,7 @@
 0.0.0.0 track.optinstar.com
 0.0.0.0 track.orientalorgy.com
 0.0.0.0 track.otclick-adv.ru
+0.0.0.0 track.otm-r.com
 0.0.0.0 track.outwriters.com
 0.0.0.0 track.paloalto.com
 0.0.0.0 track.papriv40.com
@@ -21883,7 +21910,6 @@
 0.0.0.0 track.wickedreports.com
 0.0.0.0 track.wizkidhosting.com
 0.0.0.0 track.wordzen.com
-0.0.0.0 track.written.com
 0.0.0.0 track.wt-eu02.net
 0.0.0.0 track.www.zazzle.com
 0.0.0.0 track.wwwapps-ups.net
@@ -22562,6 +22588,7 @@
 0.0.0.0 upgrade.gz-data.com
 0.0.0.0 upgradefunnel.goat.manycomponents.com
 0.0.0.0 upgulpinon.com
+0.0.0.0 upisdklogs.axisbank.co.in
 0.0.0.0 upiserversys1212.com
 0.0.0.0 upload-center.byethost4.com
 0.0.0.0 upload.a-ads.com
@@ -24342,6 +24369,7 @@
 0.0.0.0 www.optimizely.com
 0.0.0.0 www.orion.iad.appboy.com
 0.0.0.0 www.otclick-adv.ru
+0.0.0.0 www.otm-r.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outgoingline.com
 0.0.0.0 www.ouyayule.com
