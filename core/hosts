@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.08.243
-# Release: 243
-# Entries: 26,609
+# Version: 21.09.244
+# Release: 244
+# Entries: 26,608
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 31 Aug 21 23:40:21
+# Updated: Wed, 01 Sep 21 11:40:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12678,7 +12678,6 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobileapps-v-download.com
 0.0.0.0 js.mobileoffers-7-q-download.com
-0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 js.mobileoffers-al-download.com
 0.0.0.0 js.mobileoffers-bn-download.com
 0.0.0.0 js.pmcontent.com
