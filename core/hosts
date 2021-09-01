@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.244
 # Release: 244
-# Entries: 26,608
+# Entries: 26,724
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 01 Sep 21 11:40:19
+# Updated: Wed, 01 Sep 21 23:40:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -74,6 +74,8 @@
 0.0.0.0 0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
 0.0.0.0 0byv9mgbn0.com
 0.0.0.0 0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
+0.0.0.0 0cf17917-395b-4f25-91cc-db3bdd6044b0.edge.permutive.app
+0.0.0.0 0cf17917-395b-4f25-91cc-db3bdd6044b0.prmutv.co
 0.0.0.0 0de62e9a.api.splkmobile.com
 0.0.0.0 0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
 0.0.0.0 0e97328da78b.bitsngo.net
@@ -966,6 +968,7 @@
 0.0.0.0 7328014.collect.igodigital.com
 0.0.0.0 75.ag
 0.0.0.0 75.nbryb.com
+0.0.0.0 754-kbj-733.mktoresp.com
 0.0.0.0 754daf9cd396259.com
 0.0.0.0 75ac70e71d9118f2eeb7419d3dbcb7ad.safeframe.googlesyndication.com
 0.0.0.0 75e3ee05eb012fac0b759048be14642f.safeframe.googlesyndication.com
@@ -1073,6 +1076,7 @@
 0.0.0.0 97.nbryb.com
 0.0.0.0 970ztqtss4.com
 0.0.0.0 98.nbryb.com
+0.0.0.0 9876643.fls.doubleclick.net
 0.0.0.0 98a67c3f.api.splkmobile.com
 0.0.0.0 990b424f659e4e27.com
 0.0.0.0 994ot5rkpch2.com
@@ -1236,6 +1240,7 @@
 0.0.0.0 aaashoeschina.com
 0.0.0.0 aab41d9395207e98b9217e5e27065d1d.safeframe.googlesyndication.com
 0.0.0.0 aaddzz.com
+0.0.0.0 aaid.umeng.com
 0.0.0.0 aal-brandenburg.de
 0.0.0.0 aalborgfrivilligraad.dk
 0.0.0.0 aalog.umengcloud.com
@@ -1368,6 +1373,7 @@
 0.0.0.0 accessoryoppression.com
 0.0.0.0 accessrequest.taboola.com
 0.0.0.0 account-settings.appsflyer.com
+0.0.0.0 account.umeng.com
 0.0.0.0 accountreview.outbrain.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.longmusic.com
@@ -1409,6 +1415,7 @@
 0.0.0.0 acspaces.ero-advertising.com
 0.0.0.0 acsseo.com
 0.0.0.0 acstatic-dun.126.net
+0.0.0.0 act.umeng.com
 0.0.0.0 actioncutok.com
 0.0.0.0 actiondesk.com
 0.0.0.0 actions-am.taboola.com
@@ -1421,6 +1428,7 @@
 0.0.0.0 activity.cubetvgame.com
 0.0.0.0 activity.ldmnq.com
 0.0.0.0 activity.uc.cn
+0.0.0.0 activity.umeng.com
 0.0.0.0 activity.wps.com
 0.0.0.0 activitytonic.com
 0.0.0.0 actpx.com
@@ -1494,6 +1502,7 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.atown.jp
 0.0.0.0 ad.au.doubleclick.net
+0.0.0.0 ad.audiencemanager.de
 0.0.0.0 ad.automatad.com
 0.0.0.0 ad.bannerpoint.ru
 0.0.0.0 ad.bauermedia.com
@@ -1724,6 +1733,7 @@
 0.0.0.0 adaptingtova.biz
 0.0.0.0 adaptv.pixel.invitemedia.com
 0.0.0.0 adaranth.com
+0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 adassets.foxnews.com
 0.0.0.0 adaware.com
@@ -2038,6 +2048,7 @@
 0.0.0.0 admized.com
 0.0.0.0 admngronline.com
 0.0.0.0 admob.com
+0.0.0.0 admob.umeng.com
 0.0.0.0 admobclick.com
 0.0.0.0 admobile.com
 0.0.0.0 admtpmp123.com
@@ -2122,6 +2133,7 @@
 0.0.0.0 adplex.media
 0.0.0.0 adplugg.com
 0.0.0.0 adplus.co.id
+0.0.0.0 adplus.umeng.com
 0.0.0.0 adpopts.top
 0.0.0.0 adport.io
 0.0.0.0 adportal.advertising.com
@@ -2474,6 +2486,7 @@
 0.0.0.0 ads.supplyframe.akadns.net
 0.0.0.0 ads.taboola.com
 0.0.0.0 ads.tagsrvr.com
+0.0.0.0 ads.tapzin.com
 0.0.0.0 ads.textra.me
 0.0.0.0 ads.thehiveworks.com
 0.0.0.0 ads.themedicportal.com
@@ -3203,6 +3216,7 @@
 0.0.0.0 ak.goodsblock.mgid.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 akamai-cdn.perfops.io
 0.0.0.0 akamai.invitemedia.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akamai.taboola.com
@@ -3272,6 +3286,7 @@
 0.0.0.0 alliancenorris.com
 0.0.0.0 allmt.com
 0.0.0.0 allmygoodlife.com
+0.0.0.0 allnewsupdates.info
 0.0.0.0 allosponsor.com
 0.0.0.0 allotout.com
 0.0.0.0 allow.support
@@ -3286,10 +3301,14 @@
 0.0.0.0 almaghrib.de
 0.0.0.0 alobd24.com
 0.0.0.0 aloetichansels.casa
+0.0.0.0 alog-g.umeng.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
+0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
+0.0.0.0 alogsus.umeng.com
+0.0.0.0 alogus.umeng.com
 0.0.0.0 alp.adgear.com
 0.0.0.0 alpereum.ch
 0.0.0.0 alpha-ace.loginfra.com
@@ -4389,6 +4408,7 @@
 0.0.0.0 api.trafficjunky.com
 0.0.0.0 api.tremorhub.com
 0.0.0.0 api.ucmate.info
+0.0.0.0 api.umeng.com
 0.0.0.0 api.uparpu.com
 0.0.0.0 api.venyoo.ru
 0.0.0.0 api.viglink.com
@@ -4427,6 +4447,7 @@
 0.0.0.0 apiv3.moengage.com
 0.0.0.0 aplogger-geo.adpushup.com
 0.0.0.0 aplogger.adpushup.com
+0.0.0.0 apm.umeng.com
 0.0.0.0 apmebf.com
 0.0.0.0 apn1-match.justpremium.com
 0.0.0.0 apofamily.com
@@ -4474,6 +4495,7 @@
 0.0.0.0 app.superpush.io
 0.0.0.0 app.tracku4me.club
 0.0.0.0 app.uc.cn
+0.0.0.0 app.umeng.com
 0.0.0.0 app0.a-ads.com
 0.0.0.0 app01.adfalcon.com
 0.0.0.0 app01.nodes.gslb.mi-idc.com
@@ -4559,6 +4581,7 @@
 0.0.0.0 apptap.com
 0.0.0.0 apptera.com
 0.0.0.0 apptest.ioam.de
+0.0.0.0 apptrack.umeng.com
 0.0.0.0 apptrk.a4.tl
 0.0.0.0 apptrustcpa.g2afse.com
 0.0.0.0 appular.com
@@ -4591,6 +4614,7 @@
 0.0.0.0 ar.adserver.yahoo.com
 0.0.0.0 ar.atwola.com
 0.0.0.0 ar.scorecardresearch.com
+0.0.0.0 ar.umeng.com
 0.0.0.0 ar1.atwola.com
 0.0.0.0 ar2.atwola.com
 0.0.0.0 ar3.atwola.com
@@ -4765,6 +4789,7 @@
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 at.atwola.com
 0.0.0.0 at.redstripes.club
+0.0.0.0 at.umeng.com
 0.0.0.0 at0.addthis.com
 0.0.0.0 ata-ads.realmemobile.com
 0.0.0.0 ata.ero-advertising.com
@@ -4811,6 +4836,7 @@
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 au.pixel.newscgp.com
 0.0.0.0 au.umeng.co
+0.0.0.0 au.umeng.com
 0.0.0.0 au.w.inmobi.com
 0.0.0.0 au1.flamingtext.com
 0.0.0.0 au2.livejasmin.com
@@ -4862,6 +4888,7 @@
 0.0.0.0 auth.espritgames.ru
 0.0.0.0 auth.flurry.com
 0.0.0.0 auth.runative.com
+0.0.0.0 auth.umeng.com
 0.0.0.0 auth.viglink.com
 0.0.0.0 auth0.connatix.com
 0.0.0.0 authcaptcha.com
@@ -4959,6 +4986,7 @@
 0.0.0.0 azlm-25.cdnamz.com
 0.0.0.0 azpresearch.club
 0.0.0.0 azr-3.cdnamz.com
+0.0.0.0 azure-cdn.perfops.io
 0.0.0.0 azure.admixer.net
 0.0.0.0 b-0.ad.bench.utorrent.com
 0.0.0.0 b-1st.com
@@ -5102,7 +5130,6 @@
 0.0.0.0 banner.easyspace.com
 0.0.0.0 banner.electronic4you.at
 0.0.0.0 banner.ero-advertising.com
-0.0.0.0 banner.eurogrand.com
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.kiev.ua
@@ -5218,6 +5245,7 @@
 0.0.0.0 bbom2b434493.com
 0.0.0.0 bbs.uc.cn
 0.0.0.0 bbs.ucdns.uc.cn
+0.0.0.0 bbs.umeng.com
 0.0.0.0 bbuni.com
 0.0.0.0 bc.amanad.adtdp.com
 0.0.0.0 bc.popt.in
@@ -5309,6 +5337,7 @@
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
 0.0.0.0 beludicolor.com
+0.0.0.0 beluga-cdn.perfops.io
 0.0.0.0 belvertising.be
 0.0.0.0 belwrite.com
 0.0.0.0 bemob.entrepreneurmindmap.net
@@ -5850,6 +5879,7 @@
 0.0.0.0 bulk-click.startappservice.com
 0.0.0.0 bumelnde.org
 0.0.0.0 bunionstopper.com
+0.0.0.0 bunny-cdn.perfops.io
 0.0.0.0 bunny-net.com
 0.0.0.0 bunnyland.cc
 0.0.0.0 burstly.ads.nexage.com
@@ -6208,6 +6238,7 @@
 0.0.0.0 cc.adserver.yahoo.com
 0.0.0.0 cc.loginfra.com
 0.0.0.0 cc.st
+0.0.0.0 cc.umeng.com
 0.0.0.0 cca-ams3.rubiconproject.com
 0.0.0.0 cca-fra2.rubiconproject.com
 0.0.0.0 cca-hkg1.rubiconproject.com
@@ -6451,7 +6482,6 @@
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.sb-inv1.com
-0.0.0.0 cdn.sc.gl
 0.0.0.0 cdn.securefastoffers.com
 0.0.0.0 cdn.sendpulse.com
 0.0.0.0 cdn.serve.adworldmedia.com
@@ -6536,6 +6566,7 @@
 0.0.0.0 cdn5.porn2020.pro
 0.0.0.0 cdn5.userzoom.com
 0.0.0.0 cdn7.ad4989.co.kr
+0.0.0.0 cdn77-cdn.perfops.io
 0.0.0.0 cdn8.ad4989.co.kr
 0.0.0.0 cdna.adgrx.com
 0.0.0.0 cdna.clicktale.net
@@ -6739,6 +6770,7 @@
 0.0.0.0 ci.liadm.com
 0.0.0.0 cialundertain.fun
 0.0.0.0 cibleclick.com
+0.0.0.0 cic.umeng.com
 0.0.0.0 cichilla.com
 0.0.0.0 cieh.mx
 0.0.0.0 cifwsaufnalvh.com
@@ -7546,6 +7578,7 @@
 0.0.0.0 compass-v2.deliverimp.com
 0.0.0.0 compass-viewability.deliverimp.com
 0.0.0.0 compass.adop.cc
+0.0.0.0 compass.umeng.com
 0.0.0.0 compdate.my03.com
 0.0.0.0 completesatisfaction.ltd
 0.0.0.0 complexionconcierge.com
@@ -7746,6 +7779,7 @@
 0.0.0.0 coterybulrush.com
 0.0.0.0 couleurdream.com
 0.0.0.0 coull.com
+0.0.0.0 counsel.umeng.com
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.ly
 0.0.0.0 count.rin.ru
@@ -7873,10 +7907,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 crittercism.com
 0.0.0.0 crkqip.fasdfgsdf.com
-0.0.0.0 crl.certum.pl
-0.0.0.0 crl.globalsign.net
 0.0.0.0 crl.identrust.com
-0.0.0.0 crl.pki.goog
 0.0.0.0 crm.mediacategory.com
 0.0.0.0 crohasitnet.cdaz.icu
 0.0.0.0 cronvass.edvfwlacluo.com
@@ -8324,6 +8355,7 @@
 0.0.0.0 data.videonow.ru
 0.0.0.0 data.widerplanet.com
 0.0.0.0 data2.ero-advertising.com
+0.0.0.0 databank.umeng.com
 0.0.0.0 databoat.zenkube.com
 0.0.0.0 datagather.xsolla.com
 0.0.0.0 dataproxy.heapanalytics.com
@@ -8442,6 +8474,7 @@
 0.0.0.0 deepc.cc
 0.0.0.0 deepdive.zum.com
 0.0.0.0 deepintent.com
+0.0.0.0 deeplink.umeng.com
 0.0.0.0 deepmetrix.com
 0.0.0.0 default.ads.justpremium.com
 0.0.0.0 default.exp-tas.com
@@ -8537,6 +8570,7 @@
 0.0.0.0 deswhatlike.biz
 0.0.0.0 det.hasmobi.net
 0.0.0.0 deta.ero-advertising.com
+0.0.0.0 detaillog2871374591-api.zegocloud.com
 0.0.0.0 detailyesgrip.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detektiv-agency.at
@@ -8567,6 +8601,7 @@
 0.0.0.0 dev.tracking.moportals.com
 0.0.0.0 dev.trafficforce.com
 0.0.0.0 dev.trafficshop.com
+0.0.0.0 dev.umeng.com
 0.0.0.0 dev1.flurry.com
 0.0.0.0 dev2.flurry.com
 0.0.0.0 dev3.flurry.com
@@ -8579,6 +8614,7 @@
 0.0.0.0 developer.newrelic.com
 0.0.0.0 developer.outbrain.com
 0.0.0.0 developer.pubmatic.com
+0.0.0.0 developer.umeng.com
 0.0.0.0 developermedia.com
 0.0.0.0 developers.adroll.com
 0.0.0.0 developers.appnext.com
@@ -8602,6 +8638,8 @@
 0.0.0.0 dfh46j.cfeucdn.com
 0.0.0.0 dfkcnyhd.nl
 0.0.0.0 dfp.doubleclick.net
+0.0.0.0 dfp.umeng.com
+0.0.0.0 dfptest.umeng.com
 0.0.0.0 dfreebies.com
 0.0.0.0 dg-2.cdnamz.com
 0.0.0.0 dgafgadsgkjg.top
@@ -8670,6 +8708,7 @@
 0.0.0.0 dingroledintrep.pro
 0.0.0.0 dintwas.com
 0.0.0.0 dip.demdex.net
+0.0.0.0 dip.umeng.com
 0.0.0.0 dipegrathy.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.apus.tech
@@ -8695,6 +8734,7 @@
 0.0.0.0 discuss.newrelic.com
 0.0.0.0 discuz.gtimg.cn
 0.0.0.0 dishesha.net
+0.0.0.0 dislanelibrar.top
 0.0.0.0 disorderpoking.com
 0.0.0.0 disosltd.com
 0.0.0.0 dispatch.admixer.co.kr
@@ -9242,6 +9282,7 @@
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.widerplanet.com
 0.0.0.0 edgeads.org
+0.0.0.0 edgecast-cdn.perfops.io
 0.0.0.0 edgecast-test.ora.tv
 0.0.0.0 edgy-china-cdn-sproutbuilder.inmobi.com
 0.0.0.0 edgy.inmobi.com
@@ -9497,8 +9538,11 @@
 0.0.0.0 erovation.com
 0.0.0.0 errevi.de
 0.0.0.0 errlog.amanad.adtdp.com
+0.0.0.0 errlog.umeng.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 error.demdex.net
 0.0.0.0 errors.api.seedtag.com
+0.0.0.0 errortest.umeng.com
 0.0.0.0 ers.ero-advertising.com
 0.0.0.0 ersazza.com
 0.0.0.0 erssamplet.pro
@@ -9548,6 +9592,7 @@
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.eu
+0.0.0.0 ethadepic.club
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
 0.0.0.0 ethermine.org
@@ -9640,6 +9685,7 @@
 0.0.0.0 events.taboola.com
 0.0.0.0 events.tremorhub.com
 0.0.0.0 events.tubecup.org
+0.0.0.0 events.umeng.com
 0.0.0.0 events20.adcolony.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events30.adcolony.com
@@ -10007,6 +10053,7 @@
 0.0.0.0 findyourcasino.com
 0.0.0.0 fingahvf.top
 0.0.0.0 finkyepbows.com
+0.0.0.0 finplus.umeng.com
 0.0.0.0 fiorenetwork.com
 0.0.0.0 fip8b.bemobtrk.com
 0.0.0.0 firaxtech.com
@@ -10024,6 +10071,7 @@
 0.0.0.0 fishney.com
 0.0.0.0 fistofzeus.com
 0.0.0.0 fit-stimul.com
+0.0.0.0 fitgirl-repack.com
 0.0.0.0 fitgirl-repack.os.tc
 0.0.0.0 fitgirl-repacks.website
 0.0.0.0 fiwhibse.com
@@ -10868,6 +10916,7 @@
 0.0.0.0 goodweek.de
 0.0.0.0 goog.applovin.com
 0.0.0.0 google-analytics.com
+0.0.0.0 google-cdn.perfops.io
 0.0.0.0 google.mediacategory.com
 0.0.0.0 google.partners.tremorhub.com
 0.0.0.0 googleads.g.doubleclick.com
@@ -11071,6 +11120,7 @@
 0.0.0.0 h5.mall.wshareit.com
 0.0.0.0 h5.share.wshareit.com
 0.0.0.0 h5.share2.wshareit.com
+0.0.0.0 h5.umeng.com
 0.0.0.0 h53n3o.trafficmagnates.com
 0.0.0.0 h6r4gr.cfeucdn.com
 0.0.0.0 hadesleta.com
@@ -11641,6 +11691,7 @@
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.tara-jones.xyz
 0.0.0.0 i.tiffany-smith.xyz
+0.0.0.0 i.umeng.com
 0.0.0.0 i.viglink.com
 0.0.0.0 i.w.dfw1.vip.inmobi.com
 0.0.0.0 i.w.eastus.avi.inmobi.com
@@ -12023,6 +12074,7 @@
 0.0.0.0 incorphishor.com
 0.0.0.0 index.appsflyer.com
 0.0.0.0 index.reference.com
+0.0.0.0 index.umeng.com
 0.0.0.0 indexstats.com
 0.0.0.0 indianbannerexchange.com
 0.0.0.0 indianlinkexchange.com
@@ -12064,6 +12116,7 @@
 0.0.0.0 info.pubmatic.com
 0.0.0.0 info.sbobet.com
 0.0.0.0 info.taboola.com
+0.0.0.0 info.umeng.com
 0.0.0.0 info.viglink.com
 0.0.0.0 info.yahoo.com
 0.0.0.0 infoevent.startappservice.com
@@ -12122,6 +12175,7 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.connectad.io
 0.0.0.0 insight.ucweb.com
+0.0.0.0 insight.umeng.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 insights-collector.gog.com
@@ -12266,6 +12320,7 @@
 0.0.0.0 iosvpnsecurity.com
 0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 iot.umeng.com
 0.0.0.0 ip-connectivity-test-162-247-240.newrelic.com
 0.0.0.0 ip.casalemedia.com
 0.0.0.0 ip.ia22.com
@@ -12875,6 +12930,7 @@
 0.0.0.0 ketodietplus.com
 0.0.0.0 kevabila.com
 0.0.0.0 kewuruve.xyz
+0.0.0.0 key-cdn.perfops.io
 0.0.0.0 key.seckeyserv.me
 0.0.0.0 keydawnawe.com
 0.0.0.0 keyio.ga
@@ -13278,7 +13334,6 @@
 0.0.0.0 leichter-berlin.de
 0.0.0.0 leidl-skischule.de
 0.0.0.0 lenas-boutique.com
-0.0.0.0 lencr.org
 0.0.0.0 leninsubscribe.com
 0.0.0.0 lenkmio.com
 0.0.0.0 lentduskyscold.com
@@ -13433,6 +13488,7 @@
 0.0.0.0 live.demand.supply
 0.0.0.0 live.rads.msn.com
 0.0.0.0 live.rezync.com
+0.0.0.0 live2871374591-report-api.zegocloud.com
 0.0.0.0 live800.com
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveadoptimizer.com
@@ -13831,6 +13887,7 @@
 0.0.0.0 m.trafficfabrik.com
 0.0.0.0 m.trafficjunky.net
 0.0.0.0 m.ucweb.com
+0.0.0.0 m.umeng.com
 0.0.0.0 m.v9bet88.com
 0.0.0.0 m.watchmovie.fun
 0.0.0.0 m.wyl1ccany.com
@@ -14214,6 +14271,7 @@
 0.0.0.0 mbtrking.com
 0.0.0.0 mbtwien.at
 0.0.0.0 mc.speakol.com
+0.0.0.0 mc.umeng.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcants.de
@@ -14430,6 +14488,7 @@
 0.0.0.0 mercialtaver.club
 0.0.0.0 meredthou.fun
 0.0.0.0 message.onemessages.com
+0.0.0.0 message.umeng.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 meta.pubguru.com
 0.0.0.0 metabase.amobee.com
@@ -14448,6 +14507,7 @@
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics-collector-beta.s-onetag.com
 0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 metrics-eu.cometchat.io
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.adage.com
 0.0.0.0 metrics.api.drift.com
@@ -14629,6 +14689,7 @@
 0.0.0.0 mob.adroll.com
 0.0.0.0 mob.kaipirinhaloka.xyz
 0.0.0.0 mob.midnightide.xyz
+0.0.0.0 mob.umeng.com
 0.0.0.0 mob1ledev1ces.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobbahjug.com
@@ -14671,6 +14732,7 @@
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.trackingvv.com
 0.0.0.0 mobile.trafficjunky.net
+0.0.0.0 mobile.umeng.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobileads.ero-advertising.com
 0.0.0.0 mobileads.eroadvertising.com
@@ -14824,6 +14886,7 @@
 0.0.0.0 mp.rlcdn.com
 0.0.0.0 mp.rubiconproject.com
 0.0.0.0 mp.uc.cn
+0.0.0.0 mp.umeng.com
 0.0.0.0 mp.wshareit.com
 0.0.0.0 mp34y0.edvfwlacluo.com
 0.0.0.0 mp4moviez.trade
@@ -14868,7 +14931,9 @@
 0.0.0.0 msapi.appsflyer.com
 0.0.0.0 msg-2.me
 0.0.0.0 msg.71.am
+0.0.0.0 msg.umeng.com
 0.0.0.0 msg.umengcloud.com
+0.0.0.0 msgapi.umeng.com
 0.0.0.0 msgose.com
 0.0.0.0 msptf.wouldreallyl.biz
 0.0.0.0 mss.handmark.com
@@ -15286,6 +15351,7 @@
 0.0.0.0 ng001.hasmobi.net
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 ngdp-staging.flurry.com
+0.0.0.0 ngjquyzjgcrupz.com
 0.0.0.0 nglingapparen.fun
 0.0.0.0 nglmedia.com
 0.0.0.0 ngmillaget.fun
@@ -15766,6 +15832,8 @@
 0.0.0.0 oata.ero-advertising.com
 0.0.0.0 oatoc.rdtk.io
 0.0.0.0 oauth.adaware.com
+0.0.0.0 oauth.umeng.com
+0.0.0.0 oauth2.umeng.com
 0.0.0.0 oawyr.com
 0.0.0.0 oawyri.com
 0.0.0.0 oba.media.net
@@ -15783,6 +15851,7 @@
 0.0.0.0 observium.openx.com
 0.0.0.0 obstinacyfastadditional.com
 0.0.0.0 oc.umeng.co
+0.0.0.0 oc.umeng.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 ocdnmq.com
 0.0.0.0 oceanbleue.com
@@ -15794,6 +15863,7 @@
 0.0.0.0 ocsp2.apple.com
 0.0.0.0 ocsp2.g.applimg.com
 0.0.0.0 oculustrack.com
+0.0.0.0 ocx.umeng.com
 0.0.0.0 odb-chidc2.outbrain.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odbcacher.outbrain.com
@@ -15828,6 +15898,7 @@
 0.0.0.0 officesouth.de
 0.0.0.0 officialiphoneunlock.co.uk
 0.0.0.0 offline-video-cdn.wshareit.com
+0.0.0.0 offmsg.umeng.com
 0.0.0.0 offoonguser.com
 0.0.0.0 ofgogoatan.com
 0.0.0.0 ofhappinyer.com
@@ -15962,6 +16033,7 @@
 0.0.0.0 open.gobnz.com
 0.0.0.0 open.popnc.com
 0.0.0.0 open.uc.cn
+0.0.0.0 open.umeng.com
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
 0.0.0.0 openbid-lhr.pubmatic.com
@@ -15991,6 +16063,7 @@
 0.0.0.0 ophttps.rayjump.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opinion.inmobi.com
+0.0.0.0 oplus.umeng.com
 0.0.0.0 oposisicerdas.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 opred.gq
@@ -16110,6 +16183,7 @@
 0.0.0.0 otrwaram.com
 0.0.0.0 ouftukoo.net
 0.0.0.0 ouhegapy.net
+0.0.0.0 ouplog.umeng.com
 0.0.0.0 oureviewi.club
 0.0.0.0 ourkeyskylierou.info
 0.0.0.0 ournewsafte.biz
@@ -16129,6 +16203,7 @@
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
+0.0.0.0 outdip.umeng.com
 0.0.0.0 outdoor-campingausrustung.xyz
 0.0.0.0 outdoortitan.net
 0.0.0.0 outer.infolinks.com
@@ -16143,6 +16218,7 @@
 0.0.0.0 overlymaddenkidnap.com
 0.0.0.0 overyfamiliar.biz
 0.0.0.0 overzoruaon.com
+0.0.0.0 ovh-cdn.perfops.io
 0.0.0.0 oviparaatalan.com
 0.0.0.0 oviwtvswp.com
 0.0.0.0 ovyiakt1wzqz.com
@@ -16465,6 +16541,7 @@
 0.0.0.0 pabloskysale.online
 0.0.0.0 pabloskyshop.online
 0.0.0.0 pact.thecon.com
+0.0.0.0 pad.umeng.com
 0.0.0.0 padsdelivery.com
 0.0.0.0 padsecs.com
 0.0.0.0 padskis.com
@@ -16566,6 +16643,7 @@
 0.0.0.0 passeura.com
 0.0.0.0 passion-4.net
 0.0.0.0 passive-earner.com
+0.0.0.0 passport.umeng.com
 0.0.0.0 passtechusa.com
 0.0.0.0 passwordscompound.com
 0.0.0.0 pasta.ds.duapps.com
@@ -16674,6 +16752,8 @@
 0.0.0.0 perfekt-haushalt.com
 0.0.0.0 perfex.inmobi.com
 0.0.0.0 perfiliate.com
+0.0.0.0 perfops-cc.cdn-tech.cn
+0.0.0.0 perfops.5centscdn.com
 0.0.0.0 performance.admixer.net
 0.0.0.0 performancerevenue.com
 0.0.0.0 performancerevenues.com
@@ -17982,6 +18062,7 @@
 0.0.0.0 playamo30.com
 0.0.0.0 playbuzzmm.ads.tremorhub.com
 0.0.0.0 playcam.s.xoxknct.com
+0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.adtcdn.com
 0.0.0.0 player.avplayer.com
 0.0.0.0 playgames-win.com
@@ -18229,6 +18310,7 @@
 0.0.0.0 prc.cj.com
 0.0.0.0 prchecker.info
 0.0.0.0 prd-collector-anon.ex.co
+0.0.0.0 pre-deeplink.umeng.com
 0.0.0.0 pre-usermatch.targeting.unrulymedia.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 pre.ads.justpremium.compre.ads.justpremium.com
@@ -18266,6 +18348,7 @@
 0.0.0.0 predictad.com
 0.0.0.0 predictionds.com
 0.0.0.0 predictivadnetwork.com
+0.0.0.0 preerrlog.umeng.com
 0.0.0.0 preis-olympus.de
 0.0.0.0 prelandappslab.com
 0.0.0.0 premium-giveaways.com
@@ -18273,6 +18356,7 @@
 0.0.0.0 premiumvertising.com
 0.0.0.0 premixture.com
 0.0.0.0 premlp-pt11.365lpodds.com
+0.0.0.0 preplbslog.umeng.com
 0.0.0.0 preponderantbasisbutterfly.com
 0.0.0.0 preprodapi.a4.tl
 0.0.0.0 presidentialthriceinefficient.com
@@ -18457,6 +18541,7 @@
 0.0.0.0 psfu8lddvyqenzwhv.ay.delivery
 0.0.0.0 psi-performance.de
 0.0.0.0 psitchie.com
+0.0.0.0 pslog.umeng.com
 0.0.0.0 psma02.com
 0.0.0.0 psnkrefrfh.com
 0.0.0.0 pso.ws.ev1.inmobi.com
@@ -18476,6 +18561,7 @@
 0.0.0.0 pt.pubguru.com
 0.0.0.0 pt.trafficjunky.com
 0.0.0.0 pt.trafficjunky.net
+0.0.0.0 pt.umeng.com
 0.0.0.0 ptaiksah.com
 0.0.0.0 ptapjmp.com
 0.0.0.0 ptauxofi.net
@@ -18607,6 +18693,7 @@
 0.0.0.0 push.popcash.net
 0.0.0.0 push.revcontent.com
 0.0.0.0 push.soft-com.biz
+0.0.0.0 push.umeng.com
 0.0.0.0 push.vmate.in
 0.0.0.0 push.wuazu.net
 0.0.0.0 push.yandex.com
@@ -18924,7 +19011,6 @@
 0.0.0.0 r3---sn-p5qlsnsd.c.2mdn.net
 0.0.0.0 r3---sn-q4fl6nss.c.2mdn.net
 0.0.0.0 r3---sn-vgqsrned.c.2mdn.net
-0.0.0.0 r3.i.lencr.org
 0.0.0.0 r3.mail.ru
 0.0.0.0 r3adyt0download.com
 0.0.0.0 r4---sn-25ge7nse.c.2mdn.net
@@ -19175,6 +19261,7 @@
 0.0.0.0 redirectto.fun
 0.0.0.0 redmas.com
 0.0.0.0 redmine.adkernel.com
+0.0.0.0 redmine.umeng.com
 0.0.0.0 redtext.biz
 0.0.0.0 reduxmedia.com
 0.0.0.0 reedbusiness.com
@@ -19260,6 +19347,7 @@
 0.0.0.0 report.binance.im
 0.0.0.0 report.crashlytics.com
 0.0.0.0 report.hb.brainlyads.com
+0.0.0.0 report.lolipopmobi.com
 0.0.0.0 report.newsgenious.com
 0.0.0.0 report.propellerads.com
 0.0.0.0 report.rayjump.com
@@ -19738,6 +19826,7 @@
 0.0.0.0 s.static.ads-twitter.com
 0.0.0.0 s.supersonicads.com
 0.0.0.0 s.thwpp.com
+0.0.0.0 s.umeng.com
 0.0.0.0 s.update.adroll.com
 0.0.0.0 s.update.btrll.com
 0.0.0.0 s.update.fbsbx.com
@@ -20074,6 +20163,7 @@
 0.0.0.0 searchhtt.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 sebpmnltgd.com
+0.0.0.0 sec.umeng.com
 0.0.0.0 seccoads.com
 0.0.0.0 seckner.de
 0.0.0.0 secon-koeln.de
@@ -20273,6 +20363,7 @@
 0.0.0.0 setpadchat.com
 0.0.0.0 setsdowntown.com
 0.0.0.0 setting.rayjump.com
+0.0.0.0 setting.umeng.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 seure-update.fartit.com
@@ -20339,6 +20430,7 @@
 0.0.0.0 share-assets.mfcimg.com
 0.0.0.0 share-server.com
 0.0.0.0 share.robinhood.com
+0.0.0.0 share.umeng.com
 0.0.0.0 share.wshareit.com
 0.0.0.0 share.yandex.ru
 0.0.0.0 sharead.adcolony.com
@@ -20599,6 +20691,7 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
+0.0.0.0 smail.umeng.com
 0.0.0.0 smart-shopping.es
 0.0.0.0 smart.admnsrv.com
 0.0.0.0 smart.allocine.fr
@@ -20708,6 +20801,7 @@
 0.0.0.0 solocpm.com
 0.0.0.0 soloistbailedboyfriend.com
 0.0.0.0 solsport.de
+0.0.0.0 solution.umeng.com
 0.0.0.0 soma-ap-southeast-1.ad.smaato.net
 0.0.0.0 soma-eu-west-1.ad.smaato.net
 0.0.0.0 soma-us-east-1.ad.smaato.net
@@ -21189,6 +21283,7 @@
 0.0.0.0 static.outbrain.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.payserve.com
+0.0.0.0 static.perfops.io
 0.0.0.0 static.pesoaniz.com
 0.0.0.0 static.popads.net
 0.0.0.0 static.popcash.net
@@ -21510,6 +21605,7 @@
 0.0.0.0 survey-poll.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.tapad.com
+0.0.0.0 survey.umeng.com
 0.0.0.0 survey4you.co
 0.0.0.0 suryawellness.net
 0.0.0.0 sushipool.com
@@ -21540,6 +21636,7 @@
 0.0.0.0 sweetsisterpain.de
 0.0.0.0 swelen.com
 0.0.0.0 swesomepop.com
+0.0.0.0 swifty-cdn.perfops.io
 0.0.0.0 switch.atdmt.com
 0.0.0.0 switchadhub.com
 0.0.0.0 switchads.com
@@ -22089,6 +22186,7 @@
 0.0.0.0 tinyhoneybee.com
 0.0.0.0 tionedwhen.biz
 0.0.0.0 tip.atdmt.com
+0.0.0.0 tip.umeng.com
 0.0.0.0 tipetapeco.com
 0.0.0.0 tippsfuerreisen.de
 0.0.0.0 tir94wepsdxox.appspot.com
@@ -22281,6 +22379,7 @@
 0.0.0.0 track-me.xyz
 0.0.0.0 track-tc.adform.net
 0.0.0.0 track-us.adform.net
+0.0.0.0 track-visual.umeng.com
 0.0.0.0 track.007cpa.com
 0.0.0.0 track.11nux.com
 0.0.0.0 track.12trackway.com
@@ -23586,6 +23685,7 @@
 0.0.0.0 uat1.mp3vel.trafficjunky.com
 0.0.0.0 uax.io
 0.0.0.0 uayzbioy.com
+0.0.0.0 ubdc2016.umeng.com
 0.0.0.0 ubercpm.com
 0.0.0.0 ubermedia.com
 0.0.0.0 ubertorch.com
@@ -23601,6 +23701,7 @@
 0.0.0.0 ucads-cdn.ucweb.com
 0.0.0.0 ucaluco.com
 0.0.0.0 ucattr.vmate.in
+0.0.0.0 ucc.umeng.com
 0.0.0.0 uccricket-napi.ucweb.com
 0.0.0.0 uccricket.napi.ucweb.com
 0.0.0.0 uccricket.ucweb.com
@@ -23621,6 +23722,8 @@
 0.0.0.0 udiwhryjqdsc.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
+0.0.0.0 udpdispatch2871374591.zegocloud.com
+0.0.0.0 udplus.umeng.com
 0.0.0.0 udv.batmobi.net
 0.0.0.0 ue-c.flipboard.com
 0.0.0.0 ue-test.flipboard.com
@@ -23634,6 +23737,7 @@
 0.0.0.0 ufnd.hotchedmothe.club
 0.0.0.0 ufraton.com
 0.0.0.0 ufzua-051ht.ads.tremorhub.com
+0.0.0.0 ugame.umeng.com
 0.0.0.0 ugcdata.vmate.in
 0.0.0.0 ugdhsrhcq.com
 0.0.0.0 uggcp.com
@@ -23695,6 +23799,8 @@
 0.0.0.0 umcdn.ucweb.com
 0.0.0.0 umdsmartgrowth.org
 0.0.0.0 umekana.ru
+0.0.0.0 umeng.co
+0.0.0.0 umeng.com
 0.0.0.0 umengcloud.com
 0.0.0.0 umpackpc.ucweb.com
 0.0.0.0 umshopp.com
@@ -23800,6 +23906,7 @@
 0.0.0.0 uptocall.com
 0.0.0.0 uptopopunder.com
 0.0.0.0 upug11000.pubmatic.com
+0.0.0.0 upush.umeng.com
 0.0.0.0 upv4.moatads.com
 0.0.0.0 upwzuqfcvbeqo.com
 0.0.0.0 upzyde-inv-eu.admixer.net
@@ -23916,6 +24023,8 @@
 0.0.0.0 utilities.shareitpay.in
 0.0.0.0 utl-1.com
 0.0.0.0 utletsoriandh.info
+0.0.0.0 utmconfig.umeng.com
+0.0.0.0 utoken.umeng.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utopia-bremen.de
 0.0.0.0 utp-dmp.ucweb.com
@@ -23929,6 +24038,7 @@
 0.0.0.0 uupool.cn
 0.0.0.0 uusbags.com
 0.0.0.0 uv.contextads.live
+0.0.0.0 uweb.umeng.com
 0.0.0.0 uwoaptee.com
 0.0.0.0 uwsxz.com
 0.0.0.0 ux.rubiconproject.com
@@ -24193,6 +24303,7 @@
 0.0.0.0 video.seedtag.com
 0.0.0.0 video.sizmek.com
 0.0.0.0 video.ucweb.com
+0.0.0.0 video.umeng.com
 0.0.0.0 video.xiaomi.com
 0.0.0.0 video.your-notice.com
 0.0.0.0 video1.fastclick.net
@@ -24281,6 +24392,7 @@
 0.0.0.0 visitbox.de
 0.0.0.0 vissmatiem.com
 0.0.0.0 visual-pagerank.fr
+0.0.0.0 visual.umeng.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 visualsteel.net
 0.0.0.0 vitagaming.de
@@ -24533,6 +24645,7 @@
 0.0.0.0 web.informer.com
 0.0.0.0 web.prod.adblade.com
 0.0.0.0 web.shoponline.today
+0.0.0.0 web.umeng.com
 0.0.0.0 web02.adfalcon.com
 0.0.0.0 web2weblog.de
 0.0.0.0 web3.adshares.net
@@ -24815,6 +24928,7 @@
 0.0.0.0 wordpress.skimresources.com
 0.0.0.0 worersie.com
 0.0.0.0 work5.ru
+0.0.0.0 workbench.umeng.com
 0.0.0.0 workshoes.club
 0.0.0.0 worldcupstreamme.imageshack.host
 0.0.0.0 worldpush.co
@@ -24872,6 +24986,7 @@
 0.0.0.0 wslog.truecaller.com
 0.0.0.0 wsnotif.a4.tl
 0.0.0.0 wsp.mgid.com
+0.0.0.0 wsq.umeng.com
 0.0.0.0 wss.analyticacdn.com
 0.0.0.0 wsus.kasperskyantivirus.net
 0.0.0.0 wsw.ero-advertising.com
@@ -24893,7 +25008,6 @@
 0.0.0.0 wvpkoyjoq.com
 0.0.0.0 ww.audienceinsights.net
 0.0.0.0 ww.cj.com
-0.0.0.0 ww.crl.pki.goog
 0.0.0.0 ww.livejasmin.com
 0.0.0.0 ww1.smartadserver.com
 0.0.0.0 ww1123moviepage.imageshack.host
@@ -25093,6 +25207,7 @@
 0.0.0.0 www.agency.help.adfox.ru
 0.0.0.0 www.agkn.com
 0.0.0.0 www.akashdayalgroups.com
+0.0.0.0 www.allnewsupdates.info
 0.0.0.0 www.alphonso.tv
 0.0.0.0 www.alternativecpmgate.com
 0.0.0.0 www.amarktflow.com
@@ -25240,7 +25355,6 @@
 0.0.0.0 www.crashlytics.com
 0.0.0.0 www.creativedisplayformat.com
 0.0.0.0 www.creativey.online
-0.0.0.0 www.crl.pki.goog
 0.0.0.0 www.ctoairtx.com
 0.0.0.0 www.culmjysalt.com
 0.0.0.0 www.cvent.axiatraders.com
@@ -25497,7 +25611,6 @@
 0.0.0.0 www.latinshortcodes.com
 0.0.0.0 www.layers.ero-advertising.com
 0.0.0.0 www.lcwfabt1.com
-0.0.0.0 www.lencr.org
 0.0.0.0 www.leninsubscribe.com
 0.0.0.0 www.liadm.com
 0.0.0.0 www.linkonclick.com
@@ -25543,6 +25656,7 @@
 0.0.0.0 www.me.ads.justpremium.com
 0.0.0.0 www.meboayapb.com
 0.0.0.0 www.media.net
+0.0.0.0 www.mediacategory.com
 0.0.0.0 www.medialytics.com
 0.0.0.0 www.mediaplex.com
 0.0.0.0 www.mega-deals.mobi
@@ -25593,6 +25707,7 @@
 0.0.0.0 www.newrelic.com
 0.0.0.0 www.nexage.com
 0.0.0.0 www.nfbio.dk
+0.0.0.0 www.ngjquyzjgcrupz.com
 0.0.0.0 www.nicemice.cf
 0.0.0.0 www.njfqnenfifdy.com
 0.0.0.0 www.nl1.ero-advertising.com
@@ -25902,6 +26017,7 @@
 0.0.0.0 www.ukgkugxpzqvqk.com
 0.0.0.0 www.umbs.ero-advertising.com
 0.0.0.0 www.umeng.co
+0.0.0.0 www.umeng.com
 0.0.0.0 www.umengcloud.com
 0.0.0.0 www.update-information.zzux.com
 0.0.0.0 www.update-security.ddns.info
@@ -26155,7 +26271,6 @@
 0.0.0.0 x.shopsavvy.com
 0.0.0.0 x.skimresources.com
 0.0.0.0 x.trc81.com
-0.0.0.0 x1.c.lencr.org
 0.0.0.0 x2ec.nbryb.com
 0.0.0.0 x3fq3dimg1.livejasmin.com
 0.0.0.0 x6.yakiuchi.com
@@ -26534,6 +26649,7 @@
 0.0.0.0 zdaptrksg.com
 0.0.0.0 zdpsk.bemobtrk.com
 0.0.0.0 zdunex25.e398mod.com
+0.0.0.0 zebra.umeng.com
 0.0.0.0 zecaphgoods.com
 0.0.0.0 zedo.com
 0.0.0.0 zedo.sync.go.sonobi.com
