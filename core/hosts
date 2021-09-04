@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.247
 # Release: 247
-# Entries: 26,892
+# Entries: 26,894
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 04 Sep 21 11:40:17
+# Updated: Sat, 04 Sep 21 23:40:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10280,6 +10280,7 @@
 0.0.0.0 fowuh.bemobtrk.com
 0.0.0.0 fox-d.justpremium.com
 0.0.0.0 foxpush.com
+0.0.0.0 foxpush.net
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 fp.ignite-vision.com
@@ -22436,6 +22437,7 @@
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
 0.0.0.0 topsolutions.rdtk.io
+0.0.0.0 topstories247.com
 0.0.0.0 topswp.com
 0.0.0.0 topwwnews.com
 0.0.0.0 toresonetalet.pro
