@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.249
 # Release: 249
-# Entries: 26,979
+# Entries: 27,023
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Sep 21 11:40:18
+# Updated: Mon, 06 Sep 21 12:13:42
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4145,11 +4145,13 @@
 0.0.0.0 android-security-upd.com
 0.0.0.0 android-sys-cleaner.com
 0.0.0.0 android.adgear.com
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads20staging.adcolony.com
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 androidads30.adcolony.com
+0.0.0.0 androidads4-5.adcolony.com
 0.0.0.0 androidapk.world
 0.0.0.0 andros-versand.store
 0.0.0.0 anelrodrigade.pro
@@ -4322,6 +4324,7 @@
 0.0.0.0 api.awin.com
 0.0.0.0 api.batmobi.net
 0.0.0.0 api.bounceexchange.com
+0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.c.uc.cn
 0.0.0.0 api.cashmyvisit.com
 0.0.0.0 api.cj.com
@@ -4437,9 +4440,11 @@
 0.0.0.0 api.zedo.com
 0.0.0.0 api03.datatrics.com
 0.0.0.0 api04.datatrics.com
+0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api2.bounceexchange.com
+0.0.0.0 api2.branch.io
 0.0.0.0 api2.clickaine.com
 0.0.0.0 api2.sophi.io
 0.0.0.0 api2.wshareit.com
@@ -4479,11 +4484,14 @@
 0.0.0.0 app-backend.adzerk.com
 0.0.0.0 app-community.pubmatic.com
 0.0.0.0 app-log.adpushup.com
+0.0.0.0 app-measurement.com
 0.0.0.0 app-promo.com
 0.0.0.0 app-tst.scorecardresearch.com
 0.0.0.0 app.2160p4k.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
+0.0.0.0 app.adjust.net.in
+0.0.0.0 app.adjust.world
 0.0.0.0 app.adpushup.com
 0.0.0.0 app.adroll.com
 0.0.0.0 app.adviad.com
@@ -4577,6 +4585,7 @@
 0.0.0.0 apprefaculty.pro
 0.0.0.0 apps-ios.crashlytics.com
 0.0.0.0 apps-lon2.cointraffic.io
+0.0.0.0 apps.ad.snaptube.app
 0.0.0.0 apps.adjust.io
 0.0.0.0 apps.appshed.com
 0.0.0.0 apps.begun.ru
@@ -4725,7 +4734,11 @@
 0.0.0.0 ashcdn.com
 0.0.0.0 ashoupsu.com
 0.0.0.0 asia-bce-astg.widerplanet.com
+0.0.0.0 asia-monitor-stsdk.vivoglobal.com
+0.0.0.0 asia-onrt-stsdk.vivoglobal.com
+0.0.0.0 asia-pnrt-stsdk.vivoglobal.com
 0.0.0.0 asia-red.livejasmin.com
+0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia.adform.net
 0.0.0.0 asiadiscoversolutions.azureedge.net
 0.0.0.0 asiangfsex.com
@@ -4792,6 +4805,7 @@
 0.0.0.0 assurland.speedera.net
 0.0.0.0 astaging.adgear.com
 0.0.0.0 astancerta.fun
+0.0.0.0 astat.bugly.qcloud.com
 0.0.0.0 astg.widerplanet.com
 0.0.0.0 astoapsu.com
 0.0.0.0 astra9dlya10.com
@@ -5982,6 +5996,7 @@
 0.0.0.0 c.clicktale.net
 0.0.0.0 c.contentsitesrv.com
 0.0.0.0 c.deployads.com
+0.0.0.0 c.disquscdn.com
 0.0.0.0 c.evidon.com
 0.0.0.0 c.friendbuy.com
 0.0.0.0 c.go-mpulse.net
@@ -7118,6 +7133,7 @@
 0.0.0.0 cn.adriver.ru
 0.0.0.0 cn.ads.justpremium.com
 0.0.0.0 cn.adserver.yahoo.com
+0.0.0.0 cn.app.chat.xiaomi.net
 0.0.0.0 cn.applovin.com
 0.0.0.0 cn.support.appsflyer.com
 0.0.0.0 cn.taboola.com
@@ -7661,6 +7677,7 @@
 0.0.0.0 config.samsungads.com
 0.0.0.0 config.seedtag.com
 0.0.0.0 config.tremorhub.com
+0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 config2.mparticle.com
 0.0.0.0 confluence.outbrain.com
@@ -8400,6 +8417,7 @@
 0.0.0.0 data.flurry.com
 0.0.0.0 data.green-red.com
 0.0.0.0 data.heapanalytics.com
+0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 data.tapad.com
@@ -8678,6 +8696,7 @@
 0.0.0.0 developers.supersonicads.com
 0.0.0.0 development.dat.itsup.com
 0.0.0.0 devex.adblade.com
+0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device.jpush.cn
 0.0.0.0 devicecooler.s.xoxknct.com
@@ -8806,6 +8825,7 @@
 0.0.0.0 distribution.rqmob.com
 0.0.0.0 districtm.ca
 0.0.0.0 dit-dit-dot.com
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 ditcoin.io
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditorialproce.biz
@@ -9775,6 +9795,7 @@
 0.0.0.0 evolvemediallc.com
 0.0.0.0 evolvenation.com
 0.0.0.0 evt.moatads.com
+0.0.0.0 evt.mxplay.com
 0.0.0.0 evtubescms.phncdn.com
 0.0.0.0 evyy.net
 0.0.0.0 ew-ph.rdtcdn.com
@@ -10481,6 +10502,7 @@
 0.0.0.0 fuldo.de
 0.0.0.0 fullgerateshop.de
 0.0.0.0 fullpcsoftware.com
+0.0.0.0 functional.events.data.microsoft.com
 0.0.0.0 fundamentello.com
 0.0.0.0 fundesh.com.bd
 0.0.0.0 fundk-modellbau.de
@@ -11212,6 +11234,7 @@
 0.0.0.0 h5.umeng.com
 0.0.0.0 h53n3o.trafficmagnates.com
 0.0.0.0 h6r4gr.cfeucdn.com
+0.0.0.0 hades.getsocial.im
 0.0.0.0 hadesleta.com
 0.0.0.0 hadsans.com
 0.0.0.0 hadsecs.com
@@ -11692,6 +11715,7 @@
 0.0.0.0 httnew.livejasmin.com
 0.0.0.0 http.intuit.speedera.net
 0.0.0.0 http.trailers.brazzerstv.contentabc.com
+0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 httpool.com
 0.0.0.0 httporangeclickmedia-com.videoplayerhub.com
 0.0.0.0 https-snigelweb-com.videoplayerhub.com
@@ -11842,6 +11866,7 @@
 0.0.0.0 ibn.adreach.co
 0.0.0.0 iboukou-markt.com
 0.0.0.0 ibryte.com
+0.0.0.0 ic3.events.data.microsoft.com
 0.0.0.0 icapabloidsety.club
 0.0.0.0 icdirect.com
 0.0.0.0 icdn.batmobi.net
@@ -11851,6 +11876,7 @@
 0.0.0.0 iceshop-neuendettelsau.de
 0.0.0.0 ichecknotifyfriends.info
 0.0.0.0 ichica-wn-test1.adtdp.com
+0.0.0.0 ichnaea.netflix.com
 0.0.0.0 iclickcdn.com
 0.0.0.0 icoawhou.com
 0.0.0.0 iconbecoming.com
@@ -12116,6 +12142,7 @@
 0.0.0.0 imprhkmp.taboola.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imprnjmp.taboola.com
+0.0.0.0 improving.duckduckgo.com
 0.0.0.0 imprsgmp.taboola.com
 0.0.0.0 imprusmp.taboola.com
 0.0.0.0 impulse.contextads.live
@@ -12164,6 +12191,7 @@
 0.0.0.0 in9.zog.link
 0.0.0.0 inabsolor.com
 0.0.0.0 inapplog.uc.cn
+0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inboxdollars.com
 0.0.0.0 incentaclick.com
 0.0.0.0 incentive.skimresources.com
@@ -12195,6 +12223,7 @@
 0.0.0.0 infinety-hu.videoplayerhub.com
 0.0.0.0 infinite-ads.com
 0.0.0.0 infinitiheliosemea.demdex.net
+0.0.0.0 infinity-c4.youboranqs01.com
 0.0.0.0 infinityads.com
 0.0.0.0 infinitydealsonline.com
 0.0.0.0 influads.com
@@ -13340,6 +13369,7 @@
 0.0.0.0 launch-h2020.ch
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 launchbit.com
+0.0.0.0 launches.appsflyer.com
 0.0.0.0 laurenede.co
 0.0.0.0 lauriegrowingdrops.com
 0.0.0.0 lautre1eraout.ch
@@ -13404,6 +13434,7 @@
 0.0.0.0 lcidc.liadm.com
 0.0.0.0 lcjnnojdtzxquj.com
 0.0.0.0 lcljoefresh.demdex.net
+0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.loginfra.com
 0.0.0.0 lct.addthis.com
 0.0.0.0 ldap-2.adotmob.com
@@ -15062,6 +15093,7 @@
 0.0.0.0 ms-usa.applovin.com
 0.0.0.0 ms.analytics.live.com
 0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
 0.0.0.0 ms.purplepatch.online
 0.0.0.0 ms50q0.edvfwlacluo.com
 0.0.0.0 msapi.appsflyer.com
@@ -16423,6 +16455,7 @@
 0.0.0.0 p.static.ads-twitter.com
 0.0.0.0 p.teads.tv
 0.0.0.0 p.trafficfabrik.com
+0.0.0.0 p.typekit.net
 0.0.0.0 p.vtracy.de
 0.0.0.0 p.wowtrk.com
 0.0.0.0 p.yieldlab.net
@@ -16747,6 +16780,7 @@
 0.0.0.0 panel.scorecardresearch.com
 0.0.0.0 panel.yieldbird.com
 0.0.0.0 panelsave.com
+0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 pantherads.com
 0.0.0.0 panuwap.com
 0.0.0.0 papayamobile.com
@@ -19067,6 +19101,7 @@
 0.0.0.0 quamiller.com
 0.0.0.0 quanta.adups.cn
 0.0.0.0 quantcast.com
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
 0.0.0.0 quantumads.com
 0.0.0.0 quazas.com
@@ -19444,6 +19479,7 @@
 0.0.0.0 refer.media.net
 0.0.0.0 referback.com
 0.0.0.0 referralware.com
+0.0.0.0 referrer.disqus.com
 0.0.0.0 referrer.website
 0.0.0.0 reflatepsoai.casa
 0.0.0.0 refnippod.com
@@ -19492,6 +19528,7 @@
 0.0.0.0 remain.appcpi.net
 0.0.0.0 remax-longmont.com
 0.0.0.0 remintrex.com
+0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 remove-ads.xyz
 0.0.0.0 renaissanto.com
 0.0.0.0 renderer.apester.com
@@ -19564,6 +19601,7 @@
 0.0.0.0 resgame.appcpi.net
 0.0.0.0 residebroadly.com
 0.0.0.0 residelikingminister.com
+0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resonance.pk
 0.0.0.0 resonateclothing.com
 0.0.0.0 resources.adpushup.com
@@ -20009,6 +20047,7 @@
 0.0.0.0 s.viicopy.com
 0.0.0.0 s.wshareit.com
 0.0.0.0 s.yieldmo.com
+0.0.0.0 s.youtube.com
 0.0.0.0 s.zdbb.net
 0.0.0.0 s.zimedia.com.tw
 0.0.0.0 s0.2mdn.net
@@ -20073,6 +20112,7 @@
 0.0.0.0 s9.addthis.com
 0.0.0.0 sa-tst.scorecardresearch.com
 0.0.0.0 sa.ads.justpremium.com
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sa.entireweb.com
 0.0.0.0 sa.outbrain.com
 0.0.0.0 sa.scorecardresearch.com
@@ -20291,8 +20331,10 @@
 0.0.0.0 sdk.appnext.com
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk.casalemedia.com
+0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk.mpnrs.com
 0.0.0.0 sdk.open.api.gepush.com
+0.0.0.0 sdk.split.io
 0.0.0.0 sdk.truepush.com
 0.0.0.0 sdk.vindicosuite.com
 0.0.0.0 sdk2.youguoquan.com
@@ -20422,6 +20464,7 @@
 0.0.0.0 selectmedia.asia
 0.0.0.0 selectr.net
 0.0.0.0 selenoidvalves.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 selfcsmall.com
 0.0.0.0 selfimprovementjournal.com
 0.0.0.0 selfservice.appnext.com
@@ -22370,6 +22413,7 @@
 0.0.0.0 timberlandberlin.de
 0.0.0.0 timberlands-onlineshop.de
 0.0.0.0 timberlandusonlineoutlet.com
+0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 timesaptizen.info
 0.0.0.0 timmy.amobee.com
