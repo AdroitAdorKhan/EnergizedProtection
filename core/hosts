@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.249
 # Release: 249
-# Entries: 27,022
+# Entries: 27,026
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Sep 21 12:31:24
+# Updated: Mon, 06 Sep 21 23:40:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1303,6 +1303,7 @@
 0.0.0.0 aax.amazon.amazon-adsystem.com
 0.0.0.0 ab-config.propellerads.com
 0.0.0.0 ab-gb.mgid.com
+0.0.0.0 ab-machine.forbes.com
 0.0.0.0 ab-sicht.at
 0.0.0.0 ab.batmobi.net
 0.0.0.0 ab.mopub.com
@@ -6540,6 +6541,7 @@
 0.0.0.0 cdn.speakol.com
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speed-smart-fast-protect.cyou
+0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.spotxchange.com
 0.0.0.0 cdn.srxy.xyz
 0.0.0.0 cdn.stickyadstv.com
@@ -10758,6 +10760,7 @@
 0.0.0.0 geoip.redirect-ads.com
 0.0.0.0 geol.startbundlingnow.com
 0.0.0.0 geolocation.1trust.app
+0.0.0.0 geolocation.forbes.com
 0.0.0.0 geonorwayes.online
 0.0.0.0 geovisite.com
 0.0.0.0 gepush.com
@@ -16431,6 +16434,7 @@
 0.0.0.0 ozrmnwplx.com
 0.0.0.0 p-andernach-geigenbau.de
 0.0.0.0 p-kube.skimresources.com
+0.0.0.0 p-n.io
 0.0.0.0 p-v2.presage.io
 0.0.0.0 p.1ts18.top
 0.0.0.0 p.a4.tl
@@ -16455,7 +16459,6 @@
 0.0.0.0 p.static.ads-twitter.com
 0.0.0.0 p.teads.tv
 0.0.0.0 p.trafficfabrik.com
-0.0.0.0 p.typekit.net
 0.0.0.0 p.vtracy.de
 0.0.0.0 p.wowtrk.com
 0.0.0.0 p.yieldlab.net
@@ -20333,6 +20336,7 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk.mpnrs.com
 0.0.0.0 sdk.open.api.gepush.com
+0.0.0.0 sdk.sharethrough.com
 0.0.0.0 sdk.split.io
 0.0.0.0 sdk.truepush.com
 0.0.0.0 sdk.vindicosuite.com
@@ -21108,6 +21112,7 @@
 0.0.0.0 speed4cksa.ero-advertising.com
 0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 speedclics.ero-advertising.com
+0.0.0.0 speedcurve.com
 0.0.0.0 speeddials.opera.com
 0.0.0.0 speederagtm.speedera.net
 0.0.0.0 speedshiftmedia.com
@@ -22412,7 +22417,6 @@
 0.0.0.0 timberlandberlin.de
 0.0.0.0 timberlands-onlineshop.de
 0.0.0.0 timberlandusonlineoutlet.com
-0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 timesaptizen.info
 0.0.0.0 timmy.amobee.com
