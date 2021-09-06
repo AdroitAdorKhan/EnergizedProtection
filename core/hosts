@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.248
-# Release: 248
-# Entries: 26,944
+# Version: 21.09.249
+# Release: 249
+# Entries: 26,979
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Sep 21 23:40:16
+# Updated: Mon, 06 Sep 21 11:40:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2835,6 +2835,7 @@
 0.0.0.0 adtag.ad.smaato.net
 0.0.0.0 adtag.sphdigital.com
 0.0.0.0 adtaily.com
+0.0.0.0 adtcdn.com
 0.0.0.0 adtecc.com
 0.0.0.0 adtech.abs-cbn.com
 0.0.0.0 adtech.com
@@ -4161,6 +4162,7 @@
 0.0.0.0 animatedpopular.com
 0.0.0.0 aningronbedint.pro
 0.0.0.0 aniview-inv-eu.admixer.net
+0.0.0.0 aniview.com
 0.0.0.0 aniview.technoratimedia.com
 0.0.0.0 anj.adnxs.com
 0.0.0.0 anjadaube.de
@@ -6424,6 +6426,7 @@
 0.0.0.0 cdn.engine.spotscenered.info
 0.0.0.0 cdn.envybox.io
 0.0.0.0 cdn.eqads.com
+0.0.0.0 cdn.ergadx.com
 0.0.0.0 cdn.espritgames.ru
 0.0.0.0 cdn.evidon.com
 0.0.0.0 cdn.exoticads.com
@@ -6532,6 +6535,7 @@
 0.0.0.0 cdn.tax
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.tercept.com
+0.0.0.0 cdn.thisiswaldo.com
 0.0.0.0 cdn.top-performance.best
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.traffic-media.co.uk
@@ -6593,6 +6597,7 @@
 0.0.0.0 cdn3e.media.net
 0.0.0.0 cdn3nc.media.net
 0.0.0.0 cdn4.mopub.com
+0.0.0.0 cdn4ads.com
 0.0.0.0 cdn5.porn2020.pro
 0.0.0.0 cdn5.userzoom.com
 0.0.0.0 cdn7.ad4989.co.kr
@@ -6616,6 +6621,7 @@
 0.0.0.0 cdnatstr.adgear.com
 0.0.0.0 cdnax.bidvertiser.com
 0.0.0.0 cdnb-static.pornhd.com
+0.0.0.0 cdnbye.com
 0.0.0.0 cdncx.bidvertiser.com
 0.0.0.0 cdnds.bidvertiser.com
 0.0.0.0 cdnes.trafficforce.com
@@ -7067,6 +7073,7 @@
 0.0.0.0 cloudapp-enterprise.appcelerator.com
 0.0.0.0 cloudcdn.monster
 0.0.0.0 cloudera.demdex.net
+0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudfrale.com
 0.0.0.0 cloudfreestar-io.videoplayerhub.com
 0.0.0.0 cloudiiv.com
@@ -9373,6 +9380,7 @@
 0.0.0.0 efafgbdbdegadgggeci.ru
 0.0.0.0 efancylife.com
 0.0.0.0 effacerevealing.com
+0.0.0.0 effectivecpmgate.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
@@ -9580,6 +9588,7 @@
 0.0.0.0 erdecisesgeorg.info
 0.0.0.0 erektslim.com
 0.0.0.0 ereseavch.biz
+0.0.0.0 ergadx.com
 0.0.0.0 ergs4.com
 0.0.0.0 ericdress.com
 0.0.0.0 erniphiq.com
@@ -10888,6 +10897,7 @@
 0.0.0.0 globwo.online
 0.0.0.0 glogoowo.net
 0.0.0.0 glowdot.com
+0.0.0.0 gloxeept.com
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 glthub.net
 0.0.0.0 glugreez.com
@@ -11082,6 +11092,7 @@
 0.0.0.0 greengaming.de
 0.0.0.0 greenheartmed.org
 0.0.0.0 greensulting.de
+0.0.0.0 greeter.me
 0.0.0.0 greetham.net
 0.0.0.0 greetpanda.org
 0.0.0.0 gremiperruqueries.es
@@ -11345,6 +11356,7 @@
 0.0.0.0 hdn03.infolinks.com
 0.0.0.0 hdnewporn.com
 0.0.0.0 hdslnhmjga.com
+0.0.0.0 hdtvcloud.com
 0.0.0.0 hdwjwooqvnm.com
 0.0.0.0 hdzog.ahcdn.com
 0.0.0.0 headerbidding.staqdata.com
@@ -12791,6 +12803,7 @@
 0.0.0.0 jp.at.atwola.com
 0.0.0.0 jp.go.zog.link
 0.0.0.0 jp.widerplanet.com
+0.0.0.0 jpjmpqaupc.com
 0.0.0.0 jpsc.iasds01.com
 0.0.0.0 jpush.binance.im
 0.0.0.0 jpxumaster.justpremium.com
@@ -12928,6 +12941,7 @@
 0.0.0.0 juxtaposereelreferred.com
 0.0.0.0 jwaiqmifu.com
 0.0.0.0 jwplayer.technoratimedia.com
+0.0.0.0 jxfkevszqqdb.com
 0.0.0.0 jyccdcavzpqt.com
 0.0.0.0 jydelfbaxbldmb5sf.ay.delivery
 0.0.0.0 jz.genieessp.com
@@ -12992,6 +13006,7 @@
 0.0.0.0 kb.rubiconproject.com
 0.0.0.0 kbxj2.bemobtrk.com
 0.0.0.0 kbymnqiomnegs.com
+0.0.0.0 kcehdslfcqva.com
 0.0.0.0 kcolbda.com
 0.0.0.0 kdamaifntfzayrerx.ay.delivery
 0.0.0.0 kdlandingsplash.com
@@ -14424,6 +14439,7 @@
 0.0.0.0 me.studynerdz.com
 0.0.0.0 me.taboola.com
 0.0.0.0 mealassistants.com
+0.0.0.0 meaningevidentlygo.com
 0.0.0.0 measurefact.com
 0.0.0.0 measurelavender.com
 0.0.0.0 measuremap.com
@@ -14904,6 +14920,7 @@
 0.0.0.0 modetaken.com
 0.0.0.0 modetalente.com
 0.0.0.0 modezirkus.eu
+0.0.0.0 modoro360.com
 0.0.0.0 modry.cz
 0.0.0.0 moengage.com
 0.0.0.0 mogconsult.ru
@@ -16880,6 +16897,7 @@
 0.0.0.0 pepejeansale.online
 0.0.0.0 pepimantas.es
 0.0.0.0 pepperjamnetwork.com
+0.0.0.0 perf.cdnads.com
 0.0.0.0 perfect-match.org
 0.0.0.0 perfectaffairsevents.com
 0.0.0.0 perfectaudience.com
@@ -17238,6 +17256,7 @@
 0.0.0.0 pl14960774.passtechusa.com
 0.0.0.0 pl14965928.pvclouds.com
 0.0.0.0 pl14966542.passtechusa.com
+0.0.0.0 pl14968549.effectivecpmgate.com
 0.0.0.0 pl14968549.effectiveperformancenetwork.com
 0.0.0.0 pl14968549.highperformancecpm.com
 0.0.0.0 pl14969788.pvclouds.com
@@ -18709,6 +18728,7 @@
 0.0.0.0 ptapjmp.com
 0.0.0.0 ptauxofi.net
 0.0.0.0 ptechait.com
+0.0.0.0 ptecmooz.net
 0.0.0.0 ptedgovern.info
 0.0.0.0 ptigjkkds.com
 0.0.0.0 ptipsixo.com
@@ -19011,6 +19031,7 @@
 0.0.0.0 qiroris.pw
 0.0.0.0 qithimsuejs.com
 0.0.0.0 qiyukf.com
+0.0.0.0 qjcdnpv.com
 0.0.0.0 qk5xf-rkfq2.ads.tremorhub.com
 0.0.0.0 qksrv.net
 0.0.0.0 qlcsqjxly.com
@@ -19029,6 +19050,7 @@
 0.0.0.0 qqipjtzgo.com
 0.0.0.0 qqonline365.club
 0.0.0.0 qqqwes.com
+0.0.0.0 qrclevrfjw.com
 0.0.0.0 qrlsx.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 qs2.ioam.de
@@ -20397,6 +20419,7 @@
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekindo.com
 0.0.0.0 selectablemedia.com
+0.0.0.0 selectmedia.asia
 0.0.0.0 selectr.net
 0.0.0.0 selenoidvalves.com
 0.0.0.0 selfcsmall.com
@@ -20622,6 +20645,7 @@
 0.0.0.0 shiftintercoursebridge.com
 0.0.0.0 shihoult.com
 0.0.0.0 shim.btrll.com
+0.0.0.0 shindyadmittancemeal.com
 0.0.0.0 shinez.technoratimedia.com
 0.0.0.0 shinnego.com
 0.0.0.0 shinobi.jp
@@ -21722,6 +21746,7 @@
 0.0.0.0 supercell.net
 0.0.0.0 superclix.de
 0.0.0.0 supercounters.com
+0.0.0.0 superfastcdn.com
 0.0.0.0 supergames.me
 0.0.0.0 superinterstitial.com
 0.0.0.0 superlogout.github.io
@@ -22209,6 +22234,7 @@
 0.0.0.0 tf.jucydate.com
 0.0.0.0 tg-int.widerplanet.com
 0.0.0.0 tg.widerplanet.com
+0.0.0.0 tg1.aniview.com
 0.0.0.0 tg1.modoro360.com
 0.0.0.0 tg1.selectmedia.asia
 0.0.0.0 tg2.widerplanet.com
@@ -23402,6 +23428,7 @@
 0.0.0.0 tracker.bikroy.com
 0.0.0.0 tracker.btzoo.eu
 0.0.0.0 tracker.cdn-us-doubleverify.com
+0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.datatrics.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.doodstream.com
@@ -24354,6 +24381,7 @@
 0.0.0.0 vctwc.rdtk.io
 0.0.0.0 vd.7vid.net
 0.0.0.0 vdd-osnabrueck.de
+0.0.0.0 vdo.ai
 0.0.0.0 vdopia.com
 0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 ve.ads.justpremium.com
@@ -24514,6 +24542,7 @@
 0.0.0.0 videosalon.by
 0.0.0.0 videosubsi.fun
 0.0.0.0 vidforyou.store
+0.0.0.0 vidoomy.com
 0.0.0.0 vidstart-inv-wus.admixer.net
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vidstatb.taboola.com
@@ -24972,6 +25001,7 @@
 0.0.0.0 whoevercloakroom.com
 0.0.0.0 whoinns.com
 0.0.0.0 whoisonline.net
+0.0.0.0 whos.amung.us
 0.0.0.0 whowhipi.net
 0.0.0.0 whsepelmrnz.com
 0.0.0.0 whstatics.cdntrex.com
@@ -25126,6 +25156,7 @@
 0.0.0.0 worldwidemoving.co.uk
 0.0.0.0 worldwidemoving.co.za
 0.0.0.0 worldwidemoving.sg
+0.0.0.0 worlwidestream.net
 0.0.0.0 worthathousandwords.com
 0.0.0.0 worthyadvertising.com
 0.0.0.0 wortwinkel.de
@@ -25795,7 +25826,9 @@
 0.0.0.0 www.junbi-tracker.com
 0.0.0.0 www.justpremium.com
 0.0.0.0 www.jwaiqmifu.com
+0.0.0.0 www.jxfkevszqqdb.com
 0.0.0.0 www.kbnihnmrghgy.com
+0.0.0.0 www.kcehdslfcqva.com
 0.0.0.0 www.kebuena.com.mx
 0.0.0.0 www.kinesisthamont.be
 0.0.0.0 www.king-spalding.us
@@ -26140,6 +26173,7 @@
 0.0.0.0 www.stage.tvpage.com
 0.0.0.0 www.staging.sizmek.com
 0.0.0.0 www.startappservice.com
+0.0.0.0 www.statcounter.com
 0.0.0.0 www.static.cdn.adblade.com
 0.0.0.0 www.staticd.cdn.adblade.com
 0.0.0.0 www.stats.adspaces.ero-advertising.com
@@ -26918,6 +26952,7 @@
 0.0.0.0 zim-zim-zam.com
 0.0.0.0 zimogo.de
 0.0.0.0 zina.flurry.com
+0.0.0.0 zincdatawipe.com
 0.0.0.0 zinlar.pw
 0.0.0.0 zipfelbob.de
 0.0.0.0 zippor.technoratimedia.com
