@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.249
 # Release: 249
-# Entries: 27,023
+# Entries: 27,022
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Sep 21 12:28:52
+# Updated: Mon, 06 Sep 21 12:31:24
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20047,7 +20047,6 @@
 0.0.0.0 s.viicopy.com
 0.0.0.0 s.wshareit.com
 0.0.0.0 s.yieldmo.com
-0.0.0.0 s.youtube.com
 0.0.0.0 s.zdbb.net
 0.0.0.0 s.zimedia.com.tw
 0.0.0.0 s0.2mdn.net
