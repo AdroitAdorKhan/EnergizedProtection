@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.250
 # Release: 250
-# Entries: 27,712
+# Entries: 27,734
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 07 Sep 21 17:28:55
+# Updated: Tue, 07 Sep 21 23:40:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1211,6 +1211,7 @@
 0.0.0.0 a.tracker.tcd.re
 0.0.0.0 a.tvpage.com
 0.0.0.0 a.vdo.ai
+0.0.0.0 a.vfgtg.com
 0.0.0.0 a.vserv.mobi
 0.0.0.0 a.watchmovie.fun
 0.0.0.0 a.watchsport.fun
@@ -5184,6 +5185,7 @@
 0.0.0.0 backbeatmedia.com
 0.0.0.0 backend-ssp.adstudio.cloud
 0.0.0.0 backend.exoclick.com
+0.0.0.0 backjawtanoa.com
 0.0.0.0 backlinks.com
 0.0.0.0 backpack.approachmall.top
 0.0.0.0 backpack.pictureperfectstore.top
@@ -5639,6 +5641,7 @@
 0.0.0.0 bihamcurchef.cam
 0.0.0.0 bikesopden.com
 0.0.0.0 bikestore24.net
+0.0.0.0 bikrurda.net
 0.0.0.0 bilder.fernsehserien.de
 0.0.0.0 bildungsboerse-loerrach.de
 0.0.0.0 billboard.cz
@@ -6215,6 +6218,7 @@
 0.0.0.0 cache-us-east-1.tremorhub.com
 0.0.0.0 cache-us-west-2.tremorhub.com
 0.0.0.0 cache.addthis.com
+0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adserver.yahoo.com
 0.0.0.0 cache.btrll.com
 0.0.0.0 cache.celtra.com
@@ -9747,6 +9751,7 @@
 0.0.0.0 engine.blacraft.com
 0.0.0.0 engine.rbc.medialand.ru
 0.0.0.0 engine.tend-table.com
+0.0.0.0 engine.upsidedownrightside.com
 0.0.0.0 engine.voluumtlkrnarketing.com
 0.0.0.0 engineering.mopub.com
 0.0.0.0 engineering.outbrain.com
@@ -10480,6 +10485,7 @@
 0.0.0.0 fnkyyrgraizy.com
 0.0.0.0 fnrrm2fn1njl1.com
 0.0.0.0 foazasis.com
+0.0.0.0 fobogruca.com
 0.0.0.0 focus.kissmetrics.com
 0.0.0.0 fodlkf9d1p.com
 0.0.0.0 foerderverein-due.de
@@ -10503,6 +10509,7 @@
 0.0.0.0 forex-affiliate.com
 0.0.0.0 forexfinancexxfx.info
 0.0.0.0 forextuner.com
+0.0.0.0 forfrogadiertor.com
 0.0.0.0 forgethenar.info
 0.0.0.0 forgetinnumerablelag.com
 0.0.0.0 forgoprokick.icu
@@ -11355,6 +11362,7 @@
 0.0.0.0 greencompute.org
 0.0.0.0 greengaming.de
 0.0.0.0 greenheartmed.org
+0.0.0.0 greenrecru.biz
 0.0.0.0 greensulting.de
 0.0.0.0 greeter.me
 0.0.0.0 greetham.net
@@ -11956,6 +11964,7 @@
 0.0.0.0 hq58.appsflyer.com
 0.0.0.0 hq61.appsflyer.com
 0.0.0.0 hqyenmzgxk.com
+0.0.0.0 hqysonbyddwta.com
 0.0.0.0 hr-eu-central-1.prod.justpremium.com
 0.0.0.0 hr.ads.justpremium.com
 0.0.0.0 hr.batmobi.net
@@ -12665,6 +12674,7 @@
 0.0.0.0 intextad.net
 0.0.0.0 intextual.net
 0.0.0.0 inthefuture.shop
+0.0.0.0 intimidatepropel.com
 0.0.0.0 intimlife.net
 0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 intnotif.club
@@ -12914,6 +12924,7 @@
 0.0.0.0 itfarm.com
 0.0.0.0 itfyou.com
 0.0.0.0 itgiblean.com
+0.0.0.0 itheatmora.com
 0.0.0.0 itheatmoran.com
 0.0.0.0 ithoahie.com
 0.0.0.0 ithumbnails.infolinks.com
@@ -15846,6 +15857,7 @@
 0.0.0.0 newsmaxfeednetwork.com
 0.0.0.0 newsnet.in.ua
 0.0.0.0 newsquestdigital.demdex.net
+0.0.0.0 newsquestdigitalmedia.d2.sc.omtrdc.net
 0.0.0.0 newsroom-qa.taboola.com
 0.0.0.0 newsroom-staging.taboola.com
 0.0.0.0 newsroomhelp.taboola.com
@@ -16443,6 +16455,7 @@
 0.0.0.0 ofgogoatan.com
 0.0.0.0 ofhappinyer.com
 0.0.0.0 ofreadingand.biz
+0.0.0.0 ofyouope.club
 0.0.0.0 ogaqgazu.com
 0.0.0.0 ogeemolt.net
 0.0.0.0 ogepodownload.mediatek.com
@@ -16732,6 +16745,7 @@
 0.0.0.0 otm-r.com
 0.0.0.0 otnolatrnup.com
 0.0.0.0 otrwaram.com
+0.0.0.0 oufauthy.net
 0.0.0.0 ouftukoo.net
 0.0.0.0 ouhegapy.net
 0.0.0.0 oulddev.biz
@@ -16814,6 +16828,7 @@
 0.0.0.0 p.algoply.com
 0.0.0.0 p.algovid.com
 0.0.0.0 p.avazunativeads.com
+0.0.0.0 p.badoinkvr.com
 0.0.0.0 p.brid.tv
 0.0.0.0 p.dlx.addthis.com
 0.0.0.0 p.iople.com
@@ -20009,6 +20024,7 @@
 0.0.0.0 reporting.adgear.com
 0.0.0.0 reporting.awin.com
 0.0.0.0 reporting.otm-r.com
+0.0.0.0 reporting.tutelatechnologies.com
 0.0.0.0 reportingapi.adpushup.com
 0.0.0.0 reportlog.cocos.com
 0.0.0.0 reports-ci.web.analytics.yahoo.com
@@ -21087,7 +21103,6 @@
 0.0.0.0 sg.origin.startappservice.com
 0.0.0.0 sg.rayjump.com
 0.0.0.0 sg.taboola.com
-0.0.0.0 sg.tdatamaster.com
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg3.af.beap.bc.yahoo.com
 0.0.0.0 sg3.beap.gemini.yahoo.com
@@ -21111,6 +21126,7 @@
 0.0.0.0 shapez.gameads.io
 0.0.0.0 share-assets.mfcimg.com
 0.0.0.0 share-server.com
+0.0.0.0 share.my-plugin.com
 0.0.0.0 share.robinhood.com
 0.0.0.0 share.umeng.com
 0.0.0.0 share.wshareit.com
@@ -21352,6 +21368,7 @@
 0.0.0.0 skynightmidm.com
 0.0.0.0 skype-online0345.web.app
 0.0.0.0 skypronz6j.s.ad6media.fr
+0.0.0.0 sl.sloffer.link
 0.0.0.0 slack-app.net
 0.0.0.0 slakesshimtames.com
 0.0.0.0 slammederasepolicy.com
@@ -22450,6 +22467,7 @@
 0.0.0.0 t-test.adzerk.net
 0.0.0.0 t-ventas-h5.cmcm.com
 0.0.0.0 t-ventas.cmcm.com
+0.0.0.0 t.adating.link
 0.0.0.0 t.adroll.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.atdmt.com
@@ -22789,6 +22807,7 @@
 0.0.0.0 textlinks.com
 0.0.0.0 tf-host-03.trafficfabrik.com
 0.0.0.0 tf.jucydate.com
+0.0.0.0 tfosrv.com
 0.0.0.0 tg-int.widerplanet.com
 0.0.0.0 tg.widerplanet.com
 0.0.0.0 tg1.aniview.com
@@ -22907,6 +22926,7 @@
 0.0.0.0 tic-tic-bam.com
 0.0.0.0 tic-tic-toc.com
 0.0.0.0 tic.googlesyndication.com
+0.0.0.0 tickmatureparties.com
 0.0.0.0 ticrite.com
 0.0.0.0 tictitle.de
 0.0.0.0 tidaltv.com
@@ -26404,6 +26424,7 @@
 0.0.0.0 www.hostingcloud.racing
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostmonster.com
+0.0.0.0 www.hqysonbyddwta.com
 0.0.0.0 www.hsselite.com
 0.0.0.0 www.htgpsnbtha.com
 0.0.0.0 www.htmuhftnu.com
@@ -27033,6 +27054,7 @@
 0.0.0.0 www.worldwide-breakingnews.com
 0.0.0.0 www.wow.ero-advertising.com
 0.0.0.0 www.wowtrk.com
+0.0.0.0 www.wp-script.com
 0.0.0.0 www.wqnmbecaugfpl.com
 0.0.0.0 www.wsw.ero-advertising.com
 0.0.0.0 www.wta.ero-advertising.com
