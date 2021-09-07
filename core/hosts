@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.249
-# Release: 249
-# Entries: 27,026
+# Version: 21.09.250
+# Release: 250
+# Entries: 27,124
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Sep 21 23:40:16
+# Updated: Tue, 07 Sep 21 11:40:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -52,6 +52,7 @@
 0.0.0.0 0.ad.bench.utorrent.com
 0.0.0.0 000f378090e2706f51b54df7358b7608.safeframe.googlesyndication.com
 0.0.0.0 0031b080.api.splkmobile.com
+0.0.0.0 00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app
 0.0.0.0 01.adnxs.com
 0.0.0.0 01.creativecdn.com
 0.0.0.0 01553d34.api.splkmobile.com
@@ -60,17 +61,22 @@
 0.0.0.0 01xud.rdtk.io
 0.0.0.0 02.gw.flurry.com
 0.0.0.0 0202.com.tw
+0.0.0.0 02469357-27fd-49a7-9dbc-f0d94ae65faa.edge.permutive.app
+0.0.0.0 0272ac85-5199-4024-a555-397c3d825d95.edge.permutive.app
 0.0.0.0 02f8c9a945e0.bitsngo.net
 0.0.0.0 03a58222.api.splkmobile.com
 0.0.0.0 03d7bd17.api.splkmobile.com
 0.0.0.0 04a1b8e2cd65.bitsngo.net
+0.0.0.0 04efa788312508ef77.ks3-sgp.ksyun.com
 0.0.0.0 058e534a.api.splkmobile.com
+0.0.0.0 05f14972-530d-4235-a941-d79be44f229b.edge.permutive.app
 0.0.0.0 062kj.rdtk.io
 0.0.0.0 070ba158d714f0799803d2ff78aba575.safeframe.googlesyndication.com
 0.0.0.0 07fbd2a8.api.splkmobile.com
 0.0.0.0 08lb75.com
 0.0.0.0 0ade5dcc8cb8.bitsngo.net
 0.0.0.0 0b064abba2b4.bitsngo.net
+0.0.0.0 0b2cd04c-a32e-4316-8dff-4f1aa59900bb.edge.permutive.app
 0.0.0.0 0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
 0.0.0.0 0byv9mgbn0.com
 0.0.0.0 0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
@@ -253,6 +259,7 @@
 0.0.0.0 1339402.collect.igodigital.com
 0.0.0.0 133oko-uk.videoplayerhub.com
 0.0.0.0 134a6bdbc84f.bitsngo.net
+0.0.0.0 13559784-f860-42f5-8ed7-767335dcc37e.edge.permutive.app
 0.0.0.0 1362649.collect.igodigital.com
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13xr7th.edvfwlacluo.com
@@ -520,6 +527,7 @@
 0.0.0.0 29627a66.api.splkmobile.com
 0.0.0.0 2997.againd.name
 0.0.0.0 2a12be6140880286.com
+0.0.0.0 2a28082a-de31-45fd-a00c-548117e422f7.edge.permutive.app
 0.0.0.0 2ajde.rdtk.io
 0.0.0.0 2b71cc1fd287dd801f5869ead0042d0f.safeframe.googlesyndication.com
 0.0.0.0 2b839e878672.bitsngo.net
@@ -705,6 +713,7 @@
 0.0.0.0 397c0.admaster.com.cn
 0.0.0.0 399a54e5c124.bitsngo.net
 0.0.0.0 3a332002bb8a3960fab66b99f572c42c.safeframe.googlesyndication.com
+0.0.0.0 3a4e240f-8dba-4f15-a961-4cbecd5ecfc9.edge.permutive.app
 0.0.0.0 3abaeff6-103c-453f-9f4b-4ca8252dd3ad.snippet.antillephone.com
 0.0.0.0 3b666193.api.splkmobile.com
 0.0.0.0 3b9642fec158.bitsngo.net
@@ -846,6 +855,7 @@
 0.0.0.0 5d863399a1b9.bitsngo.net
 0.0.0.0 5erkq.rdtk.io
 0.0.0.0 5ew8d-b3mmu.ads.tremorhub.com
+0.0.0.0 5f42864d-a421-4f37-9478-00266f871d68.edge.permutive.app
 0.0.0.0 5fh48.rdtk.io
 0.0.0.0 5fkjgnkbg.club
 0.0.0.0 5gn07.ads.tremorhub.com
@@ -1045,6 +1055,7 @@
 0.0.0.0 8cc11c2124f3.bitsngo.net
 0.0.0.0 8cu1r8q6k.c.ina.media.net
 0.0.0.0 8d05d70d.api.splkmobile.com
+0.0.0.0 8d1a3da1-b625-4b4a-872b-13622b855ae6.edge.permutive.app
 0.0.0.0 8dbd6efa69ae9bc571b667a876e6775a.safeframe.googlesyndication.com
 0.0.0.0 8e81f51f.api.splkmobile.com
 0.0.0.0 8fe01cacd068.bitsngo.net
@@ -1212,6 +1223,7 @@
 0.0.0.0 a2.contentabc.com
 0.0.0.0 a2.medialytics.com
 0.0.0.0 a280720a.api.splkmobile.com
+0.0.0.0 a2a5c7f9-3fa0-4182-889a-15aa61acf59b.edge.permutive.app
 0.0.0.0 a2dfp.net
 0.0.0.0 a2pub.com
 0.0.0.0 a2z-garden24.store
@@ -1220,6 +1232,7 @@
 0.0.0.0 a3cdn.contentabc.com
 0.0.0.0 a3yqjsrczwwp.com
 0.0.0.0 a433.com
+0.0.0.0 a49795fb-5053-49b1-8c42-32306718829e.edge.permutive.app
 0.0.0.0 a499ba42cd6714ab3d6a04808ffa6294.safeframe.googlesyndication.com
 0.0.0.0 a4cdn.contentabc.com
 0.0.0.0 a4mt150303tl.com
@@ -1352,6 +1365,7 @@
 0.0.0.0 abserv123.com
 0.0.0.0 abservinean.com
 0.0.0.0 abtasty.com
+0.0.0.0 abtest-api.tap.io
 0.0.0.0 abtest-coin.xenderapi.com
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-sg.byteoversea.com
@@ -1364,6 +1378,7 @@
 0.0.0.0 ac-gb.mgid.com
 0.0.0.0 ac.batmobi.net
 0.0.0.0 ac.goodsblock.mgid.com
+0.0.0.0 ac85-5199-4024-a555-397c3d825d95.edge.permutive.app
 0.0.0.0 acacdn.com
 0.0.0.0 acaciay.com
 0.0.0.0 academy-test.addthis.com
@@ -1744,6 +1759,7 @@
 0.0.0.0 adaptv.pixel.invitemedia.com
 0.0.0.0 adaranth.com
 0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 adassets.foxnews.com
 0.0.0.0 adaware.com
@@ -3074,6 +3090,7 @@
 0.0.0.0 af.beap.bc.yahoo.com
 0.0.0.0 af.liveads.jp
 0.0.0.0 af.opera.com
+0.0.0.0 af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
 0.0.0.0 afcxojqr.com
 0.0.0.0 afd.sharevideo6.com
 0.0.0.0 aff.biz
@@ -4220,6 +4237,7 @@
 0.0.0.0 anyclip-media.com
 0.0.0.0 anymedia.lv
 0.0.0.0 anyonemyth.com
+0.0.0.0 anypornxxx.com
 0.0.0.0 ao-gb.mgid.com
 0.0.0.0 ao.ads.justpremium.com
 0.0.0.0 ao.btrll.com
@@ -4609,6 +4627,7 @@
 0.0.0.0 apptap.com
 0.0.0.0 apptera.com
 0.0.0.0 apptest.ioam.de
+0.0.0.0 apptics.zoho.com
 0.0.0.0 apptrack.umeng.com
 0.0.0.0 apptrk.a4.tl
 0.0.0.0 apptrustcpa.g2afse.com
@@ -5068,6 +5087,7 @@
 0.0.0.0 b2385a31e6f8.bitsngo.net
 0.0.0.0 b249edf9.api.splkmobile.com
 0.0.0.0 b2cdn.automatad.com
+0.0.0.0 b2d7ba82-21e5-456c-bc98-05c7e0cd93de.edge.permutive.app
 0.0.0.0 b2rgt.trafficmagnates.com
 0.0.0.0 b347b5257ae655904252d7aa7ab5eef5.safeframe.googlesyndication.com
 0.0.0.0 b357bd06b168.bitsngo.net
@@ -5310,6 +5330,7 @@
 0.0.0.0 be.newrelic.com
 0.0.0.0 be0bf544fd3f1a1ba50e0113bac6a3b7.safeframe.googlesyndication.com
 0.0.0.0 be4b1197.api.splkmobile.com
+0.0.0.0 be54a597-6b6d-4e2d-9d31-642310a8db25.edge.permutive.app
 0.0.0.0 beachampass.at
 0.0.0.0 beacon-apac-ane1.rubiconproject.com
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
@@ -6604,6 +6625,7 @@
 0.0.0.0 cdn2.porn2020.pro
 0.0.0.0 cdn2.shareitgames.com
 0.0.0.0 cdn2.teads.tv
+0.0.0.0 cdn2.topdrama.net
 0.0.0.0 cdn2.wshareit.com
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.bestcontenttrade.top
@@ -6718,12 +6740,14 @@
 0.0.0.0 cf.just-news.pro
 0.0.0.0 cf.justpremium.com
 0.0.0.0 cf.shopee.tw.whecloud.com
+0.0.0.0 cf17917-395b-4f25-91cc-db3bdd6044b0.edge.permutive.app
 0.0.0.0 cf33340561fd11b02cefbd2aa7117dd3.safeframe.googlesyndication.com
 0.0.0.0 cfduid.infolinks.com
 0.0.0.0 cfg.flurry.com
 0.0.0.0 cfknxewzz.com
 0.0.0.0 cftest.adsnative.com
 0.0.0.0 cgociipdf.com
+0.0.0.0 cgtnapp.onelnk.com
 0.0.0.0 cguke-lp2na.ads.tremorhub.com
 0.0.0.0 cguke-td2s6.ads.tremorhub.com
 0.0.0.0 cgzpjnr3efhvjcg.ru
@@ -8894,6 +8918,7 @@
 0.0.0.0 do-cleaner.com
 0.0.0.0 do-not-tracker.org
 0.0.0.0 do.ads.justpremium.com
+0.0.0.0 doaseeph.com
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
@@ -9906,19 +9931,25 @@
 0.0.0.0 f06b3af9.api.splkmobile.com
 0.0.0.0 f1.cdn.ftd.agency
 0.0.0.0 f1.market.xiaomi.com
+0.0.0.0 f14972-530d-4235-a941-d79be44f229b.edge.permutive.app
 0.0.0.0 f1tbit.com
 0.0.0.0 f22c5b6c.api.splkmobile.com
+0.0.0.0 f23f026d-af06-45a2-8d42-9222f4656195.edge.permutive.app
 0.0.0.0 f2811099.api.splkmobile.com
 0.0.0.0 f2pool.com
 0.0.0.0 f3476715c1f8.bitsngo.net
 0.0.0.0 f3551539d6565853.com
 0.0.0.0 f369a60bf483bcc9.com
+0.0.0.0 f389d50a-32e0-478b-9d4b-2d4592528bea.edge.permutive.app
 0.0.0.0 f3c0fd223fda7270232891344b1cb266.safeframe.googlesyndication.com
 0.0.0.0 f4.market.xiaomi.com
+0.0.0.0 f42864d-a421-4f37-9478-00266f871d68.edge.permutive.app
 0.0.0.0 f4at8.bemobtrk.com
 0.0.0.0 f4h4he.cfeucdn.com
+0.0.0.0 f5b3be27-f789-4ef1-8867-37c67da5b361.edge.permutive.app
 0.0.0.0 f607aaa1.api.splkmobile.com
 0.0.0.0 f6940cdd50403a8826c924607a1141c2.safeframe.googlesyndication.com
+0.0.0.0 f7e98148-cb09-4cf1-9b9f-b5aee3465d6e.edge.permutive.app
 0.0.0.0 f8.market.xiaomi.com
 0.0.0.0 f853150605ccb.com
 0.0.0.0 f87d322cb0c4a39.com
@@ -9926,6 +9957,7 @@
 0.0.0.0 f9k1iiwg.emltrk.com
 0.0.0.0 fa0dcbd1.api.splkmobile.com
 0.0.0.0 fa1c161dcae6.bitsngo.net
+0.0.0.0 fa1f96ab-b693-40e4-82d5-8698592ef9ac.edge.permutive.app
 0.0.0.0 fa2ef05ff05bd008aece56be81336cc4.safeframe.googlesyndication.com
 0.0.0.0 fabeos-security.de
 0.0.0.0 fabooo.de
@@ -10033,6 +10065,7 @@
 0.0.0.0 fdrgtt9edmej010.com
 0.0.0.0 fdvilavipz.com
 0.0.0.0 fe-service.jscssfunny.com
+0.0.0.0 fe68d1f7-c9f4-45b3-8905-7cda73d3fd74.edge.permutive.app
 0.0.0.0 fe85145883c7.bitsngo.net
 0.0.0.0 featbooksterile.com
 0.0.0.0 featurelink.com
@@ -11262,6 +11295,7 @@
 0.0.0.0 hamwhatsappcom.imageshack.host
 0.0.0.0 handarbeiten-allerlei.de
 0.0.0.0 handicap.central-messages.com
+0.0.0.0 handlingfaster.com
 0.0.0.0 handtub.com
 0.0.0.0 handy-captain.com
 0.0.0.0 handy24.biz
@@ -11410,6 +11444,7 @@
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hecrowcati.info
 0.0.0.0 hedz.com.cn
+0.0.0.0 heeteefu.com
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 heikos-kramladen.de
 0.0.0.0 heimtierbedarfonlineshop.xyz
@@ -11652,6 +11687,7 @@
 0.0.0.0 hosts-weborama.adhese.com
 0.0.0.0 hosupshunk.com
 0.0.0.0 hot-hits.us
+0.0.0.0 hot-sex-movies.com
 0.0.0.0 hot-sex-tube.com
 0.0.0.0 hotcheapshop.store
 0.0.0.0 hotchedmothe.club
@@ -11965,6 +12001,7 @@
 0.0.0.0 igameunion.com
 0.0.0.0 igcdnnu.com
 0.0.0.0 igin.startappservice.com
+0.0.0.0 ihogaetw.com
 0.0.0.0 ihre-hausverwalter.de
 0.0.0.0 iiprpq1bsedg.com
 0.0.0.0 iiy57tqi8rsn.com
@@ -12209,6 +12246,7 @@
 0.0.0.0 indianlinkexchange.com
 0.0.0.0 indianmovies.pro
 0.0.0.0 indianslutporn.pro
+0.0.0.0 indianxxxfuck.com
 0.0.0.0 indieclick.com
 0.0.0.0 individuello.com
 0.0.0.0 indonesia.inmobi.com
@@ -12580,6 +12618,7 @@
 0.0.0.0 iq.ads.justpremium.com
 0.0.0.0 iqkbi.top
 0.0.0.0 iqsns.top
+0.0.0.0 iquery.finance.yahoo.com
 0.0.0.0 iqwrmwssizr.com
 0.0.0.0 ir-br.amazon-adsystem.com
 0.0.0.0 ir-ca.amazon-adsystem.com
@@ -13969,6 +14008,7 @@
 0.0.0.0 luuming.com
 0.0.0.0 luvaihoo.com
 0.0.0.0 luvdaleschool.com
+0.0.0.0 luvmov.com
 0.0.0.0 lux138asia.com
 0.0.0.0 lux39club.com
 0.0.0.0 luxadv.com
@@ -15068,6 +15108,7 @@
 0.0.0.0 mpispain.demdex.net
 0.0.0.0 mpnrs.com
 0.0.0.0 mpuls.ru
+0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 mpx-dashboard.mopub.com
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mqdznyotsam.com
@@ -15363,6 +15404,7 @@
 0.0.0.0 nep.advangelists.com
 0.0.0.0 nephef.com
 0.0.0.0 neptun-vm.mgid.com
+0.0.0.0 nerdist.com
 0.0.0.0 nerdorium.org
 0.0.0.0 nerebtedrabla.info
 0.0.0.0 nereserv.com
@@ -17279,6 +17321,7 @@
 0.0.0.0 pl14681522.pvclouds.com
 0.0.0.0 pl14682122.pvclouds.com
 0.0.0.0 pl14691471.pvclouds.com
+0.0.0.0 pl14691602.profitablegate.com
 0.0.0.0 pl14692114.pvclouds.com
 0.0.0.0 pl14704306.pvclouds.com
 0.0.0.0 pl14706458.pvclouds.com
@@ -17397,6 +17440,7 @@
 0.0.0.0 pl15045912.pvclouds.com
 0.0.0.0 pl15047230.pvclouds.com
 0.0.0.0 pl15047271.passtechusa.com
+0.0.0.0 pl15047395.profitablegate.com
 0.0.0.0 pl15047784.pvclouds.com
 0.0.0.0 pl15047942.pvclouds.com
 0.0.0.0 pl15048403.pvclouds.com
@@ -17428,7 +17472,9 @@
 0.0.0.0 pl15061690.pvclouds.com
 0.0.0.0 pl15063350.pvclouds.com
 0.0.0.0 pl15064011.profitablegate.com
+0.0.0.0 pl15064019.profitablegate.com
 0.0.0.0 pl15064020.profitablegate.com
+0.0.0.0 pl15064022.profitablegate.com
 0.0.0.0 pl15065146.highperformancecpm.com
 0.0.0.0 pl15065551.pvclouds.com
 0.0.0.0 pl15067590.pvclouds.com
@@ -17517,6 +17563,7 @@
 0.0.0.0 pl15300859.highperformancecpm.com
 0.0.0.0 pl15301890.passtechusa.com
 0.0.0.0 pl15313400.passtechusa.com
+0.0.0.0 pl15316363.profitablegate.com
 0.0.0.0 pl15317433.alternativecpmgate.com
 0.0.0.0 pl15334103.passtechusa.com
 0.0.0.0 pl15337759.passtechusa.com
@@ -17593,6 +17640,7 @@
 0.0.0.0 pl15444336.passtechusa.com
 0.0.0.0 pl15444551.passtechusa.com
 0.0.0.0 pl15444831.passtechusa.com
+0.0.0.0 pl15445897.profitablegate.com
 0.0.0.0 pl15446852.passtechusa.com
 0.0.0.0 pl15449489.passtechusa.com
 0.0.0.0 pl15451449.passtechusa.com
@@ -17605,6 +17653,7 @@
 0.0.0.0 pl15457579.passtechusa.com
 0.0.0.0 pl15457781.passtechusa.com
 0.0.0.0 pl15461885.passtechusa.com
+0.0.0.0 pl15462079.profitablegate.com
 0.0.0.0 pl15462607.profitablegate.com
 0.0.0.0 pl15464178.passtechusa.com
 0.0.0.0 pl15464826.passtechusa.com
@@ -17628,8 +17677,10 @@
 0.0.0.0 pl15560298.highperformancecpm.com
 0.0.0.0 pl15563170.alternativecpmgate.com
 0.0.0.0 pl15565453.performancetrustednetwork.com
+0.0.0.0 pl15571044.profitablegate.com
 0.0.0.0 pl15573662.effectiveperformancenetwork.com
 0.0.0.0 pl15577633.profitablegate.com
+0.0.0.0 pl15577934.profitablegate.com
 0.0.0.0 pl15581715.profitablegate.com
 0.0.0.0 pl15584691.profitablegate.com
 0.0.0.0 pl15585201.profitablegate.com
@@ -17645,19 +17696,27 @@
 0.0.0.0 pl15598127.profitablegate.com
 0.0.0.0 pl15598132.profitablegate.com
 0.0.0.0 pl15599736.performancetrustednetwork.com
+0.0.0.0 pl15605883.profitablegate.com
 0.0.0.0 pl15606630.profitablegate.com
 0.0.0.0 pl15612061.profitablegate.com
 0.0.0.0 pl15612256.performancetrustednetwork.com
 0.0.0.0 pl15612681.profitablegate.com
 0.0.0.0 pl15614458.profitablegate.com
+0.0.0.0 pl15615073.profitablegate.com
 0.0.0.0 pl15617407.highperformancecpm.com
 0.0.0.0 pl15617407.profitabletrustednetwork.com
 0.0.0.0 pl15617653.profitablegate.com
 0.0.0.0 pl15617898.performancetrustednetwork.com
 0.0.0.0 pl15617899.performancetrustednetwork.com
+0.0.0.0 pl15624797.profitablegate.com
+0.0.0.0 pl15626802.profitablegate.com
+0.0.0.0 pl15632151.profitablegate.com
 0.0.0.0 pl15632524.profitablegate.com
+0.0.0.0 pl15636228.profitablegate.com
+0.0.0.0 pl15637254.profitablegate.com
 0.0.0.0 pl15637520.profitablegate.com
 0.0.0.0 pl15639689.profitablegate.com
+0.0.0.0 pl15641261.profitablegate.com
 0.0.0.0 pl15643083.profitablegate.com
 0.0.0.0 pl15646519.profitablegate.com
 0.0.0.0 pl15646725.profitablegate.com
@@ -17671,7 +17730,9 @@
 0.0.0.0 pl15658845.profitablegate.com
 0.0.0.0 pl15660458.profitablegate.com
 0.0.0.0 pl15661308.profitablegate.com
+0.0.0.0 pl15676505.profitablegate.com
 0.0.0.0 pl15679470.profitablegate.com
+0.0.0.0 pl15686567.profitablegate.com
 0.0.0.0 pl15688425.profitablegate.com
 0.0.0.0 pl15689641.profitablegate.com
 0.0.0.0 pl15689765.profitablegate.com
@@ -18437,6 +18498,7 @@
 0.0.0.0 porn-ass.org
 0.0.0.0 porn-xxx-videos.com
 0.0.0.0 porn2020.pro
+0.0.0.0 porncaine.com
 0.0.0.0 pornimg.xyz
 0.0.0.0 pornnperfect.com
 0.0.0.0 pornobomba.cc
@@ -18444,6 +18506,7 @@
 0.0.0.0 pornoplay.online
 0.0.0.0 pornovidio.biz
 0.0.0.0 porntrack.com
+0.0.0.0 pornxxxweb.com
 0.0.0.0 porojo.net
 0.0.0.0 port.so.tl
 0.0.0.0 portal.admixer.net
@@ -18458,6 +18521,7 @@
 0.0.0.0 post.update.mopub.com
 0.0.0.0 post.update.rubiconproject.com
 0.0.0.0 postback.supersonicads.com
+0.0.0.0 poster.ninja
 0.0.0.0 poster.rapphimhd.com
 0.0.0.0 postlnk.com
 0.0.0.0 postrelease.com
@@ -19114,6 +19178,8 @@
 0.0.0.0 query.aliyun.com
 0.0.0.0 query.hicloud.com
 0.0.0.0 query.kissmetrics.com
+0.0.0.0 query1.finance.yahoo.com
+0.0.0.0 query2.finance.yahoo.com
 0.0.0.0 query7.hicloud.com
 0.0.0.0 questionfly.com
 0.0.0.0 questionmarket.com
@@ -19548,6 +19614,7 @@
 0.0.0.0 replicachinabag.top
 0.0.0.0 replicauhrenonlineshop.de
 0.0.0.0 repo.amobee.com
+0.0.0.0 report-api.tap.io
 0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ox-d.justpremium.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -20354,6 +20421,7 @@
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 sdkw.tapad.com
 0.0.0.0 sdl.adaware.com
+0.0.0.0 sdxqusoze.com
 0.0.0.0 se-old-setting.rayjump.com
 0.0.0.0 se-setting.rayjump.com
 0.0.0.0 se.adroll.com
@@ -20601,6 +20669,7 @@
 0.0.0.0 sex365.su
 0.0.0.0 sex6789.com
 0.0.0.0 sexad.net
+0.0.0.0 sexbombo.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexlist.com
@@ -21036,6 +21105,7 @@
 0.0.0.0 soma-ap-southeast-1.ad.smaato.net
 0.0.0.0 soma-eu-west-1.ad.smaato.net
 0.0.0.0 soma-us-east-1.ad.smaato.net
+0.0.0.0 somethingprecursorfairfax.com
 0.0.0.0 sommelier.zdbb.net
 0.0.0.0 sonagerthrou.com
 0.0.0.0 sonar.semantiqo.com
@@ -21138,6 +21208,8 @@
 0.0.0.0 splitter.trafficon.co
 0.0.0.0 splunk.widerplanet.com
 0.0.0.0 splut.com
+0.0.0.0 spn-v1-origin.revampcdn.com
+0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 spongecell.com
 0.0.0.0 sponsor-pop.pro
 0.0.0.0 sponsorads.de
@@ -21254,6 +21326,7 @@
 0.0.0.0 srvkcnyhd.org
 0.0.0.0 srwww1.com
 0.0.0.0 srx.com.sg
+0.0.0.0 ss-images.catscdn.vn
 0.0.0.0 ss.adaware.com
 0.0.0.0 ss.adgrx.com
 0.0.0.0 ss.ads.justpremium.com
@@ -21748,6 +21821,7 @@
 0.0.0.0 subconsciousill.com
 0.0.0.0 subendorse.com
 0.0.0.0 subepicosbtt.es
+0.0.0.0 subidhay.com
 0.0.0.0 submarineundergonedebark.com
 0.0.0.0 submitexpress.co.uk
 0.0.0.0 subniceshop.com
@@ -21844,6 +21918,7 @@
 0.0.0.0 survey.tapad.com
 0.0.0.0 survey.umeng.com
 0.0.0.0 survey4you.co
+0.0.0.0 survivepronate.com
 0.0.0.0 suryawellness.net
 0.0.0.0 sushipool.com
 0.0.0.0 susm0q6jys.com
@@ -21958,6 +22033,7 @@
 0.0.0.0 t.atdmt.com
 0.0.0.0 t.avod.link
 0.0.0.0 t.bonertraffic.info
+0.0.0.0 t.cdnopw.com
 0.0.0.0 t.clicktale.net
 0.0.0.0 t.connatix.com
 0.0.0.0 t.easyads28.mobi
@@ -22130,6 +22206,7 @@
 0.0.0.0 targetpoint.com
 0.0.0.0 targetspot.com
 0.0.0.0 tasks.kissmetrics.com
+0.0.0.0 taskthesa.club
 0.0.0.0 tatango.com
 0.0.0.0 tatic.audienceinsights.net
 0.0.0.0 tato365.info
@@ -22521,6 +22598,7 @@
 0.0.0.0 topads.ero-advertising.com
 0.0.0.0 topblockchainsolutions.nl
 0.0.0.0 topbucks.com
+0.0.0.0 topdrama.net
 0.0.0.0 topelktro-haus.de
 0.0.0.0 toperuecken.com
 0.0.0.0 topeuro.biz
@@ -23722,6 +23800,7 @@
 0.0.0.0 trendcounter.com
 0.0.0.0 trending.revcontent.com
 0.0.0.0 trendingvidz.net
+0.0.0.0 trendpornvids.com
 0.0.0.0 trends-s1.revcontent.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trends.taboola.com
@@ -23830,6 +23909,7 @@
 0.0.0.0 tu.moatads.com
 0.0.0.0 tu4dff-reflective-shark.eu-gb.mybluemix.net
 0.0.0.0 tubberlo.com
+0.0.0.0 tube-sex-videos.com
 0.0.0.0 tube.ac
 0.0.0.0 tube.buzzoola.com
 0.0.0.0 tube.paperstreetcash.com
@@ -23901,6 +23981,7 @@
 0.0.0.0 tyroo.com
 0.0.0.0 tzp7li.edvfwlacluo.com
 0.0.0.0 u-9204.onetouch6.com
+0.0.0.0 u-on.eu
 0.0.0.0 u.digitaldsp.com
 0.0.0.0 u.medialytics.com
 0.0.0.0 u.moatads.com
@@ -24681,6 +24762,7 @@
 0.0.0.0 vn.adserver.yahoo.com
 0.0.0.0 vndance.info
 0.0.0.0 vnhome.de
+0.0.0.0 vnlive4.com
 0.0.0.0 vnrherdsxr.com
 0.0.0.0 vnsylgycmultlwcjnie.eu
 0.0.0.0 vnvlive.de
@@ -24824,6 +24906,7 @@
 0.0.0.0 wanderschuhesale.com
 0.0.0.0 waneloluxury.com
 0.0.0.0 wannos.127.net
+0.0.0.0 wap-movies.com
 0.0.0.0 wap.advertising.com
 0.0.0.0 wap.uc.cn
 0.0.0.0 wapaccess.mobi
@@ -24953,6 +25036,7 @@
 0.0.0.0 webpush.adkernel.com
 0.0.0.0 webreseau.com
 0.0.0.0 webrtc.naiadsystems.com
+0.0.0.0 webrtc.ronemo.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websearchmsn.media.net
 0.0.0.0 webseed.arc.io
@@ -25274,6 +25358,7 @@
 0.0.0.0 wv101.jiocdn.us
 0.0.0.0 wv109.jiocdn.us
 0.0.0.0 wv111.jiocdn.us
+0.0.0.0 wvgn73ro.njfenghang.com
 0.0.0.0 wvowa.com
 0.0.0.0 wvpkoyjoq.com
 0.0.0.0 ww.audienceinsights.net
@@ -25581,6 +25666,7 @@
 0.0.0.0 www.btw.ero-advertising.com
 0.0.0.0 www.buysellads.com
 0.0.0.0 www.bvnjgjfh.com
+0.0.0.0 www.bxczchdxynw.com
 0.0.0.0 www.bylki.me
 0.0.0.0 www.bzxmgyfae.com
 0.0.0.0 www.camsoda.com
@@ -25592,6 +25678,7 @@
 0.0.0.0 www.cdn.ad.xiaomi.com
 0.0.0.0 www.cdn.adblade.com
 0.0.0.0 www.cdn4ads.com
+0.0.0.0 www.cdnopw.com
 0.0.0.0 www.cdnreference.com
 0.0.0.0 www.ceromobi.club
 0.0.0.0 www.cfeucdn.com
@@ -25638,6 +25725,7 @@
 0.0.0.0 www.dat2.ero-advertising.com
 0.0.0.0 www.data-tracking.net
 0.0.0.0 www.data2.ero-advertising.com
+0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.date.ero-advertising.com
 0.0.0.0 www.datethatgirls.com
 0.0.0.0 www.dats.ero-advertising.com
@@ -25683,6 +25771,7 @@
 0.0.0.0 www.ecjkroklyxvod.com
 0.0.0.0 www.ecpms.net
 0.0.0.0 www.ecsqyotk.com
+0.0.0.0 www.edge.permutive.app
 0.0.0.0 www.edvfwlacluo.com
 0.0.0.0 www.eedclicks.ero-advertising.com
 0.0.0.0 www.eefxjexuwls.com
@@ -25763,6 +25852,7 @@
 0.0.0.0 www.gesek.net
 0.0.0.0 www.get-express-vpn.com
 0.0.0.0 www.get-express-vpn.online
+0.0.0.0 www.gfnttldx.com
 0.0.0.0 www.ggunauhe.com
 0.0.0.0 www.ghcncwmm.com
 0.0.0.0 www.girlsvideosonline.info
@@ -25793,6 +25883,7 @@
 0.0.0.0 www.hanqiweb.net
 0.0.0.0 www.hanqiweb.red
 0.0.0.0 www.hata.ero-advertising.com
+0.0.0.0 www.healcentral.org
 0.0.0.0 www.healthcaremanagement.info
 0.0.0.0 www.healthsupport24.com
 0.0.0.0 www.heapanalytics.com
@@ -25999,6 +26090,7 @@
 0.0.0.0 www.nmrlcnuok.com
 0.0.0.0 www.nners.ero-advertising.com
 0.0.0.0 www.nryceuula.com
+0.0.0.0 www.nsdzrhsb.com
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.o333o.com
 0.0.0.0 www.oata.ero-advertising.com
@@ -26110,6 +26202,7 @@
 0.0.0.0 www.qfzcwlvmhjgjmi.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qocvicklgcgr.com
+0.0.0.0 www.qpwiyfmlkhbxop.com
 0.0.0.0 www.qrclevrfjw.com
 0.0.0.0 www.queryly.com
 0.0.0.0 www.qutltjamq.com
@@ -26160,6 +26253,7 @@
 0.0.0.0 www.schoolnano.com
 0.0.0.0 www.scorecardresearch.com
 0.0.0.0 www.scrapdigest.com
+0.0.0.0 www.sdxqusoze.com
 0.0.0.0 www.se.cj.com
 0.0.0.0 www.searchanise.com
 0.0.0.0 www.sebpmnltgd.com
@@ -26232,6 +26326,7 @@
 0.0.0.0 www.store.com
 0.0.0.0 www.stripst.com
 0.0.0.0 www.studynerdz.com
+0.0.0.0 www.subidhay.com
 0.0.0.0 www.superlb.xyz
 0.0.0.0 www.supersonicads.com
 0.0.0.0 www.supportmg.com
@@ -26330,6 +26425,7 @@
 0.0.0.0 www.vorrireer.com
 0.0.0.0 www.vpdjlprqnt.com
 0.0.0.0 www.vpn-scanning0.site
+0.0.0.0 www.vsyaiejmfooba.com
 0.0.0.0 www.vyprcnoverthewall.com
 0.0.0.0 www.watchmovie.fun
 0.0.0.0 www.wbbmubevftcy.com
@@ -26417,6 +26513,7 @@
 0.0.0.0 www.zfutrfvgfdr.com
 0.0.0.0 www.zjwwbznpcqhk.com
 0.0.0.0 www.zkbkcdhieqcoev.com
+0.0.0.0 www.zkqqsjdgscrwm.com
 0.0.0.0 www.zmnkduay.com
 0.0.0.0 www.zmuphhlienv.com
 0.0.0.0 www.znxvuabzgm.com
@@ -26718,6 +26815,7 @@
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxlog.ru
 0.0.0.0 xxxvideos.su
+0.0.0.0 xxxweb.info
 0.0.0.0 xy7elite.com
 0.0.0.0 xyz.cashnow.ee
 0.0.0.0 xzutcj3jzdry4mrcg.ay.delivery
