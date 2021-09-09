@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.252
 # Release: 252
-# Entries: 28,494
+# Entries: 28,496
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 09 Sep 21 21:28:07
+# Updated: Thu, 09 Sep 21 23:40:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2896,6 +2896,7 @@
 0.0.0.0 adscendmedia.com
 0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
+0.0.0.0 adsco.re
 0.0.0.0 adscpm.net
 0.0.0.0 adsd-sync.amanad.adtdp.com
 0.0.0.0 adsd.amanad.adtdp.com
@@ -3811,6 +3812,7 @@
 0.0.0.0 analy1.dtnnetwork.be
 0.0.0.0 analysis.bytefence.com
 0.0.0.0 analysis.cj.com
+0.0.0.0 analysis.fi
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analytic-google.com
 0.0.0.0 analytic.imlive.com
