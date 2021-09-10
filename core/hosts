@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.253
 # Release: 253
-# Entries: 28,499
+# Entries: 28,508
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Sep 21 11:40:22
+# Updated: Fri, 10 Sep 21 23:40:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1538,6 +1538,7 @@
 0.0.0.0 aax-vx-us-us-west-2.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax.amazon.amazon-adsystem.com
+0.0.0.0 aaxads.com
 0.0.0.0 ab-config.propellerads.com
 0.0.0.0 ab-gb.mgid.com
 0.0.0.0 ab-machine.forbes.com
@@ -5258,6 +5259,7 @@
 0.0.0.0 aulteeby.net
 0.0.0.0 auntietraumatizemobile.com
 0.0.0.0 aupair-mama.de
+0.0.0.0 aurora-d3.herokuapp.com
 0.0.0.0 aurynquest.de
 0.0.0.0 ausagauw.net
 0.0.0.0 ausc.iasds01.com
@@ -6425,6 +6427,7 @@
 0.0.0.0 c.r10.mopub.com
 0.0.0.0 c.riskified.com
 0.0.0.0 c.scorecardresearch.com
+0.0.0.0 c.sf-syn.com
 0.0.0.0 c.siteswithcontent.com
 0.0.0.0 c.skimresources.com
 0.0.0.0 c.smartclick.net
@@ -7463,6 +7466,7 @@
 0.0.0.0 clickwinks.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
+0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client-uat.addthis.com
 0.0.0.0 client.addthis.com
 0.0.0.0 client.tv.uc.cn
@@ -14267,6 +14271,7 @@
 0.0.0.0 libreriamedina.com
 0.0.0.0 libs.outbrain.com
 0.0.0.0 licantrum.com
+0.0.0.0 licdn.com
 0.0.0.0 lichth.goodusales.com
 0.0.0.0 lick.startappservice.com
 0.0.0.0 liebehaus.de
@@ -19604,6 +19609,7 @@
 0.0.0.0 prm-native.com
 0.0.0.0 pro-advert.de
 0.0.0.0 pro-kc-sc-hybris-fo.cloudapp.net
+0.0.0.0 pro-market.net
 0.0.0.0 pro-pro-go.com
 0.0.0.0 pro.buysellads.com
 0.0.0.0 pro.hit.gemius.pl
@@ -21689,6 +21695,7 @@
 0.0.0.0 sextops.site
 0.0.0.0 sextoysgfs.com
 0.0.0.0 sextracker.com
+0.0.0.0 sf-syn.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-userver-upaas.ucweb.com
 0.0.0.0 sf.symcb.com
@@ -21994,6 +22001,7 @@
 0.0.0.0 slammederasepolicy.com
 0.0.0.0 slandshaknews.com
 0.0.0.0 slapi-bts.logsss.com
+0.0.0.0 slashdotmedia.com
 0.0.0.0 slb-content-operators.adfox.ru
 0.0.0.0 slb-content.adfox.ru
 0.0.0.0 slckg-kqe2e.ads.tremorhub.com
@@ -22076,6 +22084,7 @@
 0.0.0.0 sn.moatads.com
 0.0.0.0 sn00.net
 0.0.0.0 snagbaudhulas.com
+0.0.0.0 snap.licdn.com
 0.0.0.0 snapsed.club
 0.0.0.0 snaptube.click
 0.0.0.0 snatched-brand.com
