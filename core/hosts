@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.252
-# Release: 252
-# Entries: 28,496
+# Version: 21.09.253
+# Release: 253
+# Entries: 28,499
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 09 Sep 21 23:40:19
+# Updated: Fri, 10 Sep 21 11:40:22
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8915,7 +8915,9 @@
 0.0.0.0 data.flurry.com
 0.0.0.0 data.green-red.com
 0.0.0.0 data.heapanalytics.com
+0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 data.tapad.com
@@ -15852,6 +15854,7 @@
 0.0.0.0 mototrans1.de
 0.0.0.0 motrixi.com
 0.0.0.0 mottnow.com
+0.0.0.0 mouseflow.com
 0.0.0.0 mousk.es
 0.0.0.0 mouthaddled.top
 0.0.0.0 moutoofa.com
