@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.254
 # Release: 254
-# Entries: 28,914
+# Entries: 28,916
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Sep 21 14:48:05
+# Updated: Sat, 11 Sep 21 21:38:43
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8099,6 +8099,7 @@
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.faphouse.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector.lightstep.com
 0.0.0.0 collector.mediator.media
 0.0.0.0 collector.montana.sophi.io
 0.0.0.0 collector.newrelic.com
@@ -24052,6 +24053,7 @@
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top100.rambler.ru
+0.0.0.0 top10hitsnews.com
 0.0.0.0 top20.com
 0.0.0.0 top20free.com
 0.0.0.0 top80level.xyz
