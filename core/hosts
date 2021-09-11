@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.254
 # Release: 254
-# Entries: 28,915
+# Entries: 28,918
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Sep 21 21:41:09
+# Updated: Sat, 11 Sep 21 23:40:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14192,6 +14192,7 @@
 0.0.0.0 lagunaspa.de
 0.0.0.0 laim.tv
 0.0.0.0 laingriz15.live
+0.0.0.0 lajme.uk
 0.0.0.0 lakally.com
 0.0.0.0 lakebici.com
 0.0.0.0 lakequincy.com
@@ -14777,6 +14778,7 @@
 0.0.0.0 logs.zedo.com
 0.0.0.0 logs1.smithsonian.museum
 0.0.0.0 logs1183.xiti.com
+0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logs1413.xiti.com
 0.0.0.0 logs2.appsflyer.com
@@ -21890,6 +21892,7 @@
 0.0.0.0 sentry.friendbuy.com
 0.0.0.0 sentry.io
 0.0.0.0 sentry.mopub.com
+0.0.0.0 sentry.ovhcloud.com
 0.0.0.0 sentry.sophi.io
 0.0.0.0 sentry.ushareit.org
 0.0.0.0 sentry.wixpress.com
