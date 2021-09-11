@@ -24,12 +24,12 @@
 # Package: Energized Porn Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.253
-# Release: 253
-# Entries: 16,030
+# Version: 21.09.254
+# Release: 254
+# Entries: 16,031
 # Pack Code: EP0R9C0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Sep 21 23:40:19
+# Updated: Sat, 11 Sep 21 11:40:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn
 # --------------------------------------------
 #
@@ -7776,6 +7776,7 @@
 0.0.0.0 seekbang.com
 0.0.0.0 seemygf.com
 0.0.0.0 seemyporn.com
+0.0.0.0 sehuatang.org
 0.0.0.0 seksmet.nl
 0.0.0.0 selectedporn.in
 0.0.0.0 selftaken.tumblr.com
