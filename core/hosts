@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.254
 # Release: 254
-# Entries: 28,916
+# Entries: 28,915
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Sep 21 21:38:43
+# Updated: Sat, 11 Sep 21 21:41:09
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -28599,7 +28599,6 @@
 0.0.0.0 yads.zedo.com
 0.0.0.0 yahoo-news.co
 0.0.0.0 yahoo.adtrackers.net
-0.0.0.0 yahoo.com
 0.0.0.0 yahoo.uservoice.com
 0.0.0.0 yahoojp.taboola.com
 0.0.0.0 yahoosandbox.com
