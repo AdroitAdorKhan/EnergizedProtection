@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.254
-# Release: 254
-# Entries: 28,918
+# Version: 21.09.255
+# Release: 255
+# Entries: 28,913
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Sep 21 23:40:19
+# Updated: Sun, 12 Sep 21 11:40:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4735,7 +4735,6 @@
 0.0.0.0 api.pubmine.com
 0.0.0.0 api.purpleads.io
 0.0.0.0 api.push.verizonmedia.com
-0.0.0.0 api.qrserver.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.queryly.com
 0.0.0.0 api.radar.cloudflare.com
@@ -12845,7 +12844,6 @@
 0.0.0.0 imagesvc.meredithcorp.io
 0.0.0.0 imagesync-lhr.pubmatic.com
 0.0.0.0 imagesync22000nf.pubmatic.com
-0.0.0.0 imagizer.imageshack.com
 0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imces.inmobi.com
@@ -14145,7 +14143,6 @@
 0.0.0.0 l.getxml.org
 0.0.0.0 l.gm.mob.com
 0.0.0.0 l.lavender64369.com
-0.0.0.0 l.tcdn.fun
 0.0.0.0 l.tyrantdb.com
 0.0.0.0 l.wowtrk.com
 0.0.0.0 l.xvideos.by
@@ -15968,7 +15965,6 @@
 0.0.0.0 monerominers.net
 0.0.0.0 moneroocean.stream
 0.0.0.0 moneropool.com
-0.0.0.0 moneroworld.com
 0.0.0.0 monetization-support.applovin.com
 0.0.0.0 monetization.flurry.com
 0.0.0.0 monetizemore.com
@@ -18318,7 +18314,6 @@
 0.0.0.0 pitpastraja.com
 0.0.0.0 pitrespite.com
 0.0.0.0 pityneedsdads.com
-0.0.0.0 piunikaweb.com
 0.0.0.0 pivht-supplements.com
 0.0.0.0 pivotrunner.com
 0.0.0.0 piwik.darken.eu
@@ -21312,7 +21307,6 @@
 0.0.0.0 rusenov.com
 0.0.0.0 rusuka.net
 0.0.0.0 rutadzbeg.site
-0.0.0.0 rutor.info
 0.0.0.0 rutorc6mqdinc4cz.onion.pet
 0.0.0.0 rutrk.org
 0.0.0.0 ruw82qpzxas.appspot.com
@@ -25066,6 +25060,7 @@
 0.0.0.0 tracker.slash-7.com
 0.0.0.0 tracker.softgarden.de
 0.0.0.0 tracker.stats.in.th
+0.0.0.0 tracker.summitmedia-digital.com
 0.0.0.0 tracker.technorati.com
 0.0.0.0 tracker.tfile.me
 0.0.0.0 tracker.the-other-store.net
