@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.255
 # Release: 255
-# Entries: 28,913
+# Entries: 28,936
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 12 Sep 21 11:40:21
+# Updated: Sun, 12 Sep 21 12:38:12
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1362,6 +1362,7 @@
 0.0.0.0 a-usa.applovin.com
 0.0.0.0 a-v2.presage.io
 0.0.0.0 a.296944ca2c266cf432c634fdf665d2ab30f502aea9972e996dfee25f.com
+0.0.0.0 a.ad.gt
 0.0.0.0 a.ad.gtrw9bj24c2j.s.ad6media.fr
 0.0.0.0 a.adgear.com
 0.0.0.0 a.adgrx.com
@@ -3002,6 +3003,7 @@
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.co.uk
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.bd
 0.0.0.0 adservice.google.com.kw
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.com.vn
@@ -4389,6 +4391,7 @@
 0.0.0.0 analytics.valuepotion.com
 0.0.0.0 analytics.vanderbellen.at
 0.0.0.0 analytics.vanillaforums.com
+0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.vnreview.vn
@@ -5732,6 +5735,7 @@
 0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 beacon.scorecardresearch.com
+0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beaconadnetwork.com
 0.0.0.0 beaconads.com
 0.0.0.0 beacons.gcp.gvt2.com
@@ -7084,6 +7088,7 @@
 0.0.0.0 cdn3.porn2020.pro
 0.0.0.0 cdn3e.media.net
 0.0.0.0 cdn3nc.media.net
+0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.mopub.com
 0.0.0.0 cdn4ads.com
 0.0.0.0 cdn5.porn2020.pro
@@ -12717,6 +12722,7 @@
 0.0.0.0 id.sv.rkdms.com
 0.0.0.0 id.yieldlab.net
 0.0.0.0 id24556.tk
+0.0.0.0 id5-sync.com
 0.0.0.0 iddpop.com
 0.0.0.0 idealmedia.com
 0.0.0.0 ideliv.net
@@ -18002,6 +18008,7 @@
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 pantherads.com
 0.0.0.0 panuwap.com
+0.0.0.0 papayads.net
 0.0.0.0 papayamobile.com
 0.0.0.0 papazbuyusunasilyapilir.com
 0.0.0.0 paperg.com
@@ -19517,6 +19524,7 @@
 0.0.0.0 playcam.s.xoxknct.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.adtcdn.com
+0.0.0.0 player.adtelligent.com
 0.0.0.0 player.avplayer.com
 0.0.0.0 playgames-win.com
 0.0.0.0 playground.connatix.com
@@ -19785,6 +19793,7 @@
 0.0.0.0 prebid-cache-us-east.rubiconproject.com
 0.0.0.0 prebid-cache-us-west.rubiconproject.com
 0.0.0.0 prebid-cache.pub.network
+0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 prebid-lb.technoratimedia.com
 0.0.0.0 prebid-server-aws-ane1.rubiconproject.com
 0.0.0.0 prebid-server-aws-ase2.rubiconproject.com
@@ -19808,6 +19817,7 @@
 0.0.0.0 prebid.org
 0.0.0.0 prebid.pub.network
 0.0.0.0 prebid.s-onetag.com
+0.0.0.0 prebid.smilewanted.com
 0.0.0.0 precios-buenos.com
 0.0.0.0 predictad.com
 0.0.0.0 predictiondexchange.com
@@ -20262,6 +20272,7 @@
 0.0.0.0 px.sharethis.com
 0.0.0.0 px.trafficshop.com
 0.0.0.0 px.ucweb.com
+0.0.0.0 px.vliplatform.com
 0.0.0.0 px09a9fhxa.perimeterx.net
 0.0.0.0 px0fq4xg0s.perimeterx.net
 0.0.0.0 px2.moatads.com
@@ -20699,6 +20710,7 @@
 0.0.0.0 reachjunction.com
 0.0.0.0 reachlocal.com
 0.0.0.0 reachmode.com
+0.0.0.0 reachms.bfmio.com
 0.0.0.0 reachnova.com
 0.0.0.0 reactor.cc
 0.0.0.0 reactx.com
@@ -20901,6 +20913,7 @@
 0.0.0.0 reporting.adgear.com
 0.0.0.0 reporting.awin.com
 0.0.0.0 reporting.otm-r.com
+0.0.0.0 reporting.powerad.ai
 0.0.0.0 reporting.tutelatechnologies.com
 0.0.0.0 reportingapi.adpushup.com
 0.0.0.0 reportlog.cocos.com
@@ -20934,6 +20947,7 @@
 0.0.0.0 resgame.appcpi.net
 0.0.0.0 residebroadly.com
 0.0.0.0 residelikingminister.com
+0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resonance.pk
 0.0.0.0 resonateclothing.com
@@ -21844,6 +21858,7 @@
 0.0.0.0 seethedress.com
 0.0.0.0 seeyome.com
 0.0.0.0 sefowaid.com
+0.0.0.0 seg.ad.gt
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segels.de
 0.0.0.0 segment-data.zqtk.net
@@ -23001,6 +23016,7 @@
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 static.trafficjunky.net
 0.0.0.0 static.tubeadvertising.eu
+0.0.0.0 static.vidazoo.com
 0.0.0.0 static.vliplatform.com
 0.0.0.0 static.webclicks24.com
 0.0.0.0 static.wellhello.com
@@ -23629,6 +23645,7 @@
 0.0.0.0 target.zedo.com
 0.0.0.0 targeted-www.adform.net
 0.0.0.0 targeting.unrulymedia.com
+0.0.0.0 targeting.vdo.ai
 0.0.0.0 targetingnow.com
 0.0.0.0 targetpoint.com
 0.0.0.0 targetspot.com
@@ -23984,6 +24001,7 @@
 0.0.0.0 tlootas.org
 0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tlvmedia.com
+0.0.0.0 tlx.3lift.com
 0.0.0.0 tm-offers.gamingadult.com
 0.0.0.0 tm.interworksmedia.co.kr
 0.0.0.0 tmblaeivephb.com
@@ -26765,6 +26783,7 @@
 0.0.0.0 wiki.flurry.com
 0.0.0.0 wiki.mgid.com
 0.0.0.0 wikia-ads.wikia.com
+0.0.0.0 wikia-d.openx.net
 0.0.0.0 wikia-inc-com.videoplayerhub.com
 0.0.0.0 wikihow-com.videoplayerhub.com
 0.0.0.0 wikipediapush.com
@@ -26937,6 +26956,7 @@
 0.0.0.0 ws38.watashinonegai.ru
 0.0.0.0 wsapptrk.a4.tl
 0.0.0.0 wsdk-files.webengage.com
+0.0.0.0 wserver.vidazoo.com
 0.0.0.0 wsgeoip.adaware.com
 0.0.0.0 wshareit.com
 0.0.0.0 wsjlbbqemr23.com
@@ -27130,6 +27150,7 @@
 0.0.0.0 www.ads5.virtual-nights.com
 0.0.0.0 www.adsances.ero-advertising.com
 0.0.0.0 www.adservice.google.com
+0.0.0.0 www.adservice.google.com.bd
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adskeeper.com
 0.0.0.0 www.adsnative.com
@@ -27438,6 +27459,7 @@
 0.0.0.0 www.fantasyescortblogs.com
 0.0.0.0 www.fastclick.net
 0.0.0.0 www.fastcounter.de
+0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.fata.ero-advertising.com
 0.0.0.0 www.fatrvclgpnb.com
 0.0.0.0 www.favicon.cc
@@ -28399,6 +28421,7 @@
 0.0.0.0 x-bet.mobi
 0.0.0.0 x-traceur.com
 0.0.0.0 x.bidswitch.net
+0.0.0.0 x.disq.us
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.flurry.com
 0.0.0.0 x.instreamatic.com
