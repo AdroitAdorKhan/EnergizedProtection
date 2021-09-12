@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.255
 # Release: 255
-# Entries: 28,936
+# Entries: 28,944
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 12 Sep 21 12:38:12
+# Updated: Sun, 12 Sep 21 18:03:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5566,6 +5566,7 @@
 0.0.0.0 banner.easyspace.com
 0.0.0.0 banner.electronic4you.at
 0.0.0.0 banner.ero-advertising.com
+0.0.0.0 banner.eset.com
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.kiev.ua
@@ -7739,6 +7740,7 @@
 0.0.0.0 coinwebmining.com
 0.0.0.0 coinworker.com
 0.0.0.0 coinzilla.io
+0.0.0.0 coiwqe.site
 0.0.0.0 cokz6dzzaxawzgang.ay.delivery
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 collect-ap-east-1.tealiumiq.com
@@ -10425,6 +10427,7 @@
 0.0.0.0 events.newsroom.bi
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.samsungads.com
+0.0.0.0 events.split.io
 0.0.0.0 events.startappservice.com
 0.0.0.0 events.taboola.com
 0.0.0.0 events.tremorhub.com
@@ -11488,6 +11491,7 @@
 0.0.0.0 geschenkhaus.com
 0.0.0.0 geshopimg.logsss.com
 0.0.0.0 gesundeliebe.com
+0.0.0.0 get-express-vpn.xyz
 0.0.0.0 get.adaware.com
 0.0.0.0 get.addthis.com
 0.0.0.0 get.appsflyer.com
@@ -13455,6 +13459,7 @@
 0.0.0.0 island-eagles-ruegen.de
 0.0.0.0 isobar.adform.net
 0.0.0.0 isohits.com
+0.0.0.0 isondled.net
 0.0.0.0 ispedgoods.com
 0.0.0.0 ispymsg.com
 0.0.0.0 issue.widerplanet.com
@@ -18323,6 +18328,7 @@
 0.0.0.0 pityneedsdads.com
 0.0.0.0 pivht-supplements.com
 0.0.0.0 pivotrunner.com
+0.0.0.0 piwik.bpb.de
 0.0.0.0 piwik.darken.eu
 0.0.0.0 piwik.ero-advertising.com
 0.0.0.0 piwik.everzones.com
@@ -20758,6 +20764,7 @@
 0.0.0.0 redash-zemanta.outbrain.com
 0.0.0.0 redash.outbrain.com
 0.0.0.0 redaughttydy.info
+0.0.0.0 reddlink.tech
 0.0.0.0 redentiatowel.info
 0.0.0.0 redentofketheg.pro
 0.0.0.0 redgame.appcpi.net
@@ -28708,6 +28715,7 @@
 0.0.0.0 yonsandileer.com
 0.0.0.0 yoostylish.com
 0.0.0.0 yotop.net
+0.0.0.0 you-should-watch-this.website
 0.0.0.0 youarepartofour.club
 0.0.0.0 youbestchoice.com
 0.0.0.0 youcutapp.page.link
