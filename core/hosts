@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.256
 # Release: 256
-# Entries: 28,992
+# Entries: 29,003
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 13 Sep 21 10:44:07
+# Updated: Mon, 13 Sep 21 11:40:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1405,6 +1405,7 @@
 0.0.0.0 a.f98d53921dd8fb3a8333f70021682925b8064efd3aa4c79c0d933f55.com
 0.0.0.0 a.faymobi.com
 0.0.0.0 a.fortumo.com
+0.0.0.0 a.gemini.yahoo.com
 0.0.0.0 a.glcdn.co
 0.0.0.0 a.global.msads.net
 0.0.0.0 a.goatagame.com
@@ -3178,6 +3179,7 @@
 0.0.0.0 adv.adups.cn
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.help.adfox.ru
+0.0.0.0 adv.imadrep.co.kr
 0.0.0.0 adv.otclick-adv.ru
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.webmd.com
@@ -3645,6 +3647,7 @@
 0.0.0.0 alpinehandlingsystems.com
 0.0.0.0 alpint.adgear.com
 0.0.0.0 alrioneteruld.info
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 alshankyo.biz
 0.0.0.0 alt.indigital.lt
 0.0.0.0 alt100179.invitemedia.com
@@ -4692,6 +4695,7 @@
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.friendbuy.com
 0.0.0.0 api.gameads.io
+0.0.0.0 api.gemini.yahoo.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.growingio.com
 0.0.0.0 api.grumft.com
@@ -5440,6 +5444,7 @@
 0.0.0.0 b.cmcm.com
 0.0.0.0 b.cnzz.com
 0.0.0.0 b.de.inmobi.com
+0.0.0.0 b.gemini.yahoo.com
 0.0.0.0 b.glcdn.co
 0.0.0.0 b.kavanga.ru
 0.0.0.0 b.kcolbda.com
@@ -8812,6 +8817,7 @@
 0.0.0.0 d.watchmovie.fun
 0.0.0.0 d.workflowboard.com
 0.0.0.0 d01fa.net
+0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d1490khl9dq1ow.cloudfront.net
 0.0.0.0 d14qpp2he5atys.cloudfront.net
@@ -13283,6 +13289,7 @@
 0.0.0.0 invol.co
 0.0.0.0 inwemo.com
 0.0.0.0 io-test.rayjump.com
+0.0.0.0 io.gemini.yahoo.com
 0.0.0.0 ioads.ero-advertising.com
 0.0.0.0 ioam.de
 0.0.0.0 iodideeyebath.cam
@@ -15649,6 +15656,7 @@
 0.0.0.0 metanetwork.com
 0.0.0.0 metavertising.com
 0.0.0.0 meteoonline.at
+0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 meter.bostonglobe.com
 0.0.0.0 methodcash.com
 0.0.0.0 metosk.com
@@ -16367,6 +16375,7 @@
 0.0.0.0 n.adxxx.info
 0.0.0.0 n.gameads.io
 0.0.0.0 n.gamiclub.com
+0.0.0.0 n.gemini.yahoo.com
 0.0.0.0 n.grlurd.com
 0.0.0.0 n.pc1ads.com
 0.0.0.0 n0q201.nexage.com
@@ -20492,6 +20501,7 @@
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 r.dxurl.cn
 0.0.0.0 r.edge.inmobicdn.net
+0.0.0.0 r.gemini.yahoo.com
 0.0.0.0 r.interakt.ru
 0.0.0.0 r.lz-pub-ads.com
 0.0.0.0 r.msn.com
@@ -20777,6 +20787,7 @@
 0.0.0.0 recommend-zoom.mediacorp.sg
 0.0.0.0 recommend.liveme.cmcm.com
 0.0.0.0 recommend.outbrain.com
+0.0.0.0 recommendation.api.gemini.yahoo.com
 0.0.0.0 recommendation.speakol.com
 0.0.0.0 recommendations.data.tm-awx.com
 0.0.0.0 recommends.media.net
