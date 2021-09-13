@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.255
-# Release: 255
-# Entries: 28,964
+# Version: 21.09.256
+# Release: 256
+# Entries: 28,992
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 12 Sep 21 23:40:17
+# Updated: Mon, 13 Sep 21 10:44:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1295,6 +1295,7 @@
 0.0.0.0 929f2e41.api.splkmobile.com
 0.0.0.0 93.nbryb.com
 0.0.0.0 9306952369777901.best-system-tools.com
+0.0.0.0 9309168.fls.doubleclick.net
 0.0.0.0 93a57906403b.bitsngo.net
 0.0.0.0 941674285464816.windows-display-service.com
 0.0.0.0 943010924008929.best-system-tools.com
@@ -1884,6 +1885,7 @@
 0.0.0.0 ad.propellerads.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.pt.doubleclick.net
+0.0.0.0 ad.reople.co.kr
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.ro.doubleclick.net
 0.0.0.0 ad.rs.doubleclick.net
@@ -2399,6 +2401,7 @@
 0.0.0.0 adp-sdlv.adtdp.com
 0.0.0.0 adp-static.adtdp.com
 0.0.0.0 adp.propellerads.com
+0.0.0.0 adp.vnecdn.net
 0.0.0.0 adp1.admixer.co.kr
 0.0.0.0 adp2.admixer.co.kr
 0.0.0.0 adp3.admixer.co.kr
@@ -3013,6 +3016,7 @@
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.google.ru
 0.0.0.0 adservice.google.tr
+0.0.0.0 adservice.sbs.co.kr
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.roku.com
 0.0.0.0 adservingfactory.com
@@ -6452,7 +6456,6 @@
 0.0.0.0 c.clicktale.net
 0.0.0.0 c.contentsitesrv.com
 0.0.0.0 c.deployads.com
-0.0.0.0 c.disquscdn.com
 0.0.0.0 c.evidon.com
 0.0.0.0 c.friendbuy.com
 0.0.0.0 c.go-mpulse.net
@@ -8181,6 +8184,7 @@
 0.0.0.0 compass-viewability.deliverimp.com
 0.0.0.0 compass.adop.cc
 0.0.0.0 compass.umeng.com
+0.0.0.0 compasscdn.adop.cc
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 compdate.my03.com
 0.0.0.0 completesatisfaction.ltd
@@ -10846,6 +10850,7 @@
 0.0.0.0 firaxtech.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firecask.report-uri.com
 0.0.0.0 firepush.net
 0.0.0.0 firexclamation.com
 0.0.0.0 firmware.center
@@ -11261,6 +11266,7 @@
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.appjiagu.com
 0.0.0.0 g.atdmt.com
+0.0.0.0 g.eclick.vn
 0.0.0.0 g.gold2762.com
 0.0.0.0 g.kcolbda.com
 0.0.0.0 g.s.360.cn
@@ -13407,6 +13413,7 @@
 0.0.0.0 ipbc.io
 0.0.0.0 ipc.skimresources.com
 0.0.0.0 ipcheck.blogsys.jp
+0.0.0.0 ipcheck.tmgrup.com.tr
 0.0.0.0 ipelucas.com
 0.0.0.0 iphumiki.com
 0.0.0.0 iplan.tclmobile.cn
@@ -14646,6 +14653,7 @@
 0.0.0.0 log-4.adclerks.com
 0.0.0.0 log-ads.r7.com
 0.0.0.0 log-api.newrelic.com
+0.0.0.0 log-collector-alb-700647761.ap-northeast-2.elb.amazonaws.com
 0.0.0.0 log-collector.shopee.co.id
 0.0.0.0 log-collector.shopee.co.th
 0.0.0.0 log-collector.shopee.com.br
@@ -14723,6 +14731,7 @@
 0.0.0.0 log.toutiao50.com
 0.0.0.0 log.tracemyip.org
 0.0.0.0 log.trendingnow.video
+0.0.0.0 log.tryweb.kr
 0.0.0.0 log.umengcloud.com
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 log.user-clicks.com
@@ -15151,6 +15160,7 @@
 0.0.0.0 ma959-r.analytics.edgekey.net
 0.0.0.0 ma980-r.analytics.edgekey.net
 0.0.0.0 ma988-r.analytics.edgekey.net
+0.0.0.0 mab.data.tm-awx.com
 0.0.0.0 mabuseller.shop
 0.0.0.0 machart-durlach.de
 0.0.0.0 machate-dachservice.de
@@ -16447,6 +16457,7 @@
 0.0.0.0 nbstatic.com
 0.0.0.0 nbstream.binance.com
 0.0.0.0 nbylhvbswplcj.com
+0.0.0.0 ncalie.com
 0.0.0.0 ncedivisite.info
 0.0.0.0 ncefoundanges.info
 0.0.0.0 ncjjfn.org
@@ -16611,6 +16622,7 @@
 0.0.0.0 newsquestdigitalmedia.d2.sc.omtrdc.net
 0.0.0.0 newsroom-qa.taboola.com
 0.0.0.0 newsroom-staging.taboola.com
+0.0.0.0 newsroom.onelink.me
 0.0.0.0 newsroomhelp.taboola.com
 0.0.0.0 newssisiv.info
 0.0.0.0 newstogram.com
@@ -20397,6 +20409,7 @@
 0.0.0.0 qlcsqjxly.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.pet
 0.0.0.0 qlzogd.edvfwlacluo.com
+0.0.0.0 qmgaozjo.com
 0.0.0.0 qmog26xh7s5648fqn.ay.delivery
 0.0.0.0 qmokxgfz.com
 0.0.0.0 qnkiueuflzdold.com
@@ -20724,6 +20737,7 @@
 0.0.0.0 re.ads.justpremium.com
 0.0.0.0 re.rlcdn.com
 0.0.0.0 re7uhyh6e4.2ihsfa.com
+0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 reachjunction.com
 0.0.0.0 reachlocal.com
 0.0.0.0 reachmode.com
@@ -20764,6 +20778,7 @@
 0.0.0.0 recommend.liveme.cmcm.com
 0.0.0.0 recommend.outbrain.com
 0.0.0.0 recommendation.speakol.com
+0.0.0.0 recommendations.data.tm-awx.com
 0.0.0.0 recommends.media.net
 0.0.0.0 recommerdal.club
 0.0.0.0 recorder.sessionstack.com
@@ -21385,6 +21400,7 @@
 0.0.0.0 s.appjiagu.com
 0.0.0.0 s.clcktrax.com
 0.0.0.0 s.console.adtarget.com.tr
+0.0.0.0 s.eclick.vn
 0.0.0.0 s.ero-advertising.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.idio.co
@@ -21605,6 +21621,7 @@
 0.0.0.0 sapi-pxtn88q85m.perimeterx.net
 0.0.0.0 sapi.adsafeprotected.com
 0.0.0.0 saptiledispatch.com
+0.0.0.0 saqtgrre.com
 0.0.0.0 saramond.de
 0.0.0.0 saranagrup.com
 0.0.0.0 sarcasticlinezomby.com
@@ -21662,6 +21679,7 @@
 0.0.0.0 scarfetta.com
 0.0.0.0 scdmed01.nexage.com
 0.0.0.0 scdn.cxense.com
+0.0.0.0 scdn.eclick.vn
 0.0.0.0 scdn.mm.atwola.com
 0.0.0.0 scdn.uc.atwola.com
 0.0.0.0 schachfreunde-starnberg.de
@@ -22421,6 +22439,7 @@
 0.0.0.0 smetrics.politico.com
 0.0.0.0 smetrics.ryanair.com
 0.0.0.0 smetrics.samsung.com
+0.0.0.0 smetrics.sap.com
 0.0.0.0 smetrics.sky.com
 0.0.0.0 smetrics.tmz.com
 0.0.0.0 smetrics.washingtonpost.com
@@ -22921,6 +22940,8 @@
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stat.smartyads.com
 0.0.0.0 stat.techtimes.com
+0.0.0.0 stat.tiara.daum.net
+0.0.0.0 stat.tiara.kakao.com
 0.0.0.0 stat.tracker.tcd.re
 0.0.0.0 stat.webmedia.pl
 0.0.0.0 stat.zenon.net
@@ -23185,6 +23206,7 @@
 0.0.0.0 stillval.com
 0.0.0.0 stipendienkritik.de
 0.0.0.0 stizoolr.com
+0.0.0.0 stmixrkwbp.com
 0.0.0.0 stockerau1602.at
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
@@ -25114,6 +25136,7 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 trackerssl.p2ps.io
 0.0.0.0 trackeruniverse.com
+0.0.0.0 tracking-amp.ione.net
 0.0.0.0 tracking-ams5.cj.com
 0.0.0.0 tracking-dc6.cj.com
 0.0.0.0 tracking-first.com
@@ -26233,6 +26256,7 @@
 0.0.0.0 videoadex.com
 0.0.0.0 videoadextradata.outbrain.com
 0.0.0.0 videoads.hotstar.com
+0.0.0.0 videoads.kakao.com
 0.0.0.0 videoapi.smartadserver.com
 0.0.0.0 videobd.arcadetalent.club
 0.0.0.0 videocdn.bitsngo.net
@@ -26624,6 +26648,7 @@
 0.0.0.0 web4wedding.es
 0.0.0.0 webads.nl
 0.0.0.0 webanalytics.btelligent.net
+0.0.0.0 webanalytics.cfapps.eu10.hana.ondemand.com
 0.0.0.0 webanalytics.tm00.com
 0.0.0.0 webassembly.stream
 0.0.0.0 webcams.h-bid.com
@@ -27945,6 +27970,7 @@
 0.0.0.0 www.sa.ads.justpremium.com
 0.0.0.0 www.sadmonky.com
 0.0.0.0 www.sakcguwb.com
+0.0.0.0 www.saqtgrre.com
 0.0.0.0 www.saranagrup.com
 0.0.0.0 www.sbardlhk.com
 0.0.0.0 www.sbobet-info.com
@@ -28024,6 +28050,7 @@
 0.0.0.0 www.stats.speedclicks.ero-advertising.com
 0.0.0.0 www.steenbergen.web.ero-advertising.com
 0.0.0.0 www.stg.tapad.com
+0.0.0.0 www.stmixrkwbp.com
 0.0.0.0 www.store.com
 0.0.0.0 www.stripst.com
 0.0.0.0 www.studynerdz.com
@@ -28287,6 +28314,7 @@
 0.0.0.0 www.yjyjnolllezo.com
 0.0.0.0 www.ymrseiueff.com
 0.0.0.0 www.yoocws.com
+0.0.0.0 www.you-get-rich.com
 0.0.0.0 www.youarepartofour.club
 0.0.0.0 www.yourtuber.info
 0.0.0.0 www.ysmhcwwvgtcx.com
