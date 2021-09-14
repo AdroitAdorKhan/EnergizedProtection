@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.256
-# Release: 256
-# Entries: 29,007
+# Version: 21.09.257
+# Release: 257
+# Entries: 29,016
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 13 Sep 21 23:40:19
+# Updated: Tue, 14 Sep 21 11:40:20
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4878,6 +4878,7 @@
 0.0.0.0 app.content.ad
 0.0.0.0 app.crashlytics.com
 0.0.0.0 app.datatrics.com
+0.0.0.0 app.eu.adjust.com
 0.0.0.0 app.flurry.com
 0.0.0.0 app.funstorebd.com
 0.0.0.0 app.igodigital.com
@@ -4888,6 +4889,7 @@
 0.0.0.0 app.perfectaudience.com
 0.0.0.0 app.popt.in
 0.0.0.0 app.superpush.io
+0.0.0.0 app.tr.adjust.com
 0.0.0.0 app.tracku4me.club
 0.0.0.0 app.uc.cn
 0.0.0.0 app.umeng.com
@@ -5300,7 +5302,6 @@
 0.0.0.0 aulteeby.net
 0.0.0.0 auntietraumatizemobile.com
 0.0.0.0 aupair-mama.de
-0.0.0.0 aurora-d3.herokuapp.com
 0.0.0.0 aurynquest.de
 0.0.0.0 ausagauw.net
 0.0.0.0 ausc.iasds01.com
@@ -5389,7 +5390,6 @@
 0.0.0.0 awin1.com
 0.0.0.0 aws-logsdk.snackvideo.com
 0.0.0.0 aws-logsdk.uvfuns.com
-0.0.0.0 aws-static.snackvideo.in
 0.0.0.0 aws-ulog.kibads.com
 0.0.0.0 aws-ulog.snackvideo.com
 0.0.0.0 aws.apex.go.sonobi.com
@@ -11435,7 +11435,11 @@
 0.0.0.0 gdl0ko.edvfwlacluo.com
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdmdigital.com
+0.0.0.0 gdpr.adjust.net.in
+0.0.0.0 gdpr.adjust.world
+0.0.0.0 gdpr.eu.adjust.com
 0.0.0.0 gdpr.liadm.com
+0.0.0.0 gdpr.tr.adjust.com
 0.0.0.0 ge-ek.com
 0.0.0.0 ge.appcloudbox.net
 0.0.0.0 ge.go.zog.link
@@ -20115,6 +20119,7 @@
 0.0.0.0 pub.qwerty24.net
 0.0.0.0 pub.searchiq.co
 0.0.0.0 pub.sitetag.us
+0.0.0.0 pub.taptapdada.com
 0.0.0.0 pub.trads.io
 0.0.0.0 pub.xmxdev.com
 0.0.0.0 pub0.sitetag.us
@@ -23309,6 +23314,11 @@
 0.0.0.0 subs03.clicktale.net
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 subscribers.com
+0.0.0.0 subscription.adjust.com
+0.0.0.0 subscription.adjust.net.in
+0.0.0.0 subscription.adjust.world
+0.0.0.0 subscription.eu.adjust.com
+0.0.0.0 subscription.tr.adjust.com
 0.0.0.0 subtherm.de
 0.0.0.0 succeedscene.com
 0.0.0.0 success-news.net
@@ -24568,7 +24578,6 @@
 0.0.0.0 track.jessicathefox.com
 0.0.0.0 track.jobst-audio.de
 0.0.0.0 track.jonellebrooks.com
-0.0.0.0 track.jungletap.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.justcloud.com
 0.0.0.0 track.justdoing.biz
