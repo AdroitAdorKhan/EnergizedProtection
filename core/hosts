@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.259
 # Release: 259
-# Entries: 29,294
+# Entries: 29,299
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 16 Sep 21 14:40:47
+# Updated: Thu, 16 Sep 21 23:40:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3529,6 +3529,7 @@
 0.0.0.0 adworx.nl
 0.0.0.0 adwpaces.ero-advertising.com
 0.0.0.0 adx-ak.widerplanet.com
+0.0.0.0 adx-api.shalltry.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
 0.0.0.0 adx-dra.op.hicloud.com
 0.0.0.0 adx-id-ads.realmemobile.com
@@ -3723,6 +3724,7 @@
 0.0.0.0 airbrake.io
 0.0.0.0 aircn.report-uri.io
 0.0.0.0 aircovid19virus.com
+0.0.0.0 aireport.shalltry.com
 0.0.0.0 airmaxshopschweiz.com
 0.0.0.0 airplaypro-de.com
 0.0.0.0 airpodsdirekt.de
@@ -4982,6 +4984,7 @@
 0.0.0.0 api.rubiconproject.com
 0.0.0.0 api.runative.com
 0.0.0.0 api.scorecardresearch.com
+0.0.0.0 api.sec.miui.com
 0.0.0.0 api.shareasale.com
 0.0.0.0 api.sizmek.com
 0.0.0.0 api.skimlinks.com
@@ -8713,6 +8716,7 @@
 0.0.0.0 cral.asmel.eu
 0.0.0.0 crash-metadata.flurry.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 crash.bigo.sg
 0.0.0.0 crash.steampowered.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crasheco.com
@@ -9249,6 +9253,8 @@
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobclix.com
+0.0.0.0 data.sec.intl.miui.com
+0.0.0.0 data.sec.miui.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 data.tapad.com
 0.0.0.0 data.ushareit.com
@@ -23987,7 +23993,6 @@
 0.0.0.0 tatango.com
 0.0.0.0 tatic.audienceinsights.net
 0.0.0.0 tato365.info
-0.0.0.0 tatsumi-sys.jp
 0.0.0.0 tau.collect.igodigital.com
 0.0.0.0 taurus.cmcm.com
 0.0.0.0 taverna-ikaros.at
