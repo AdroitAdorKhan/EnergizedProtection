@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.259
 # Release: 259
-# Entries: 29,302
+# Entries: 29,294
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 16 Sep 21 14:33:27
+# Updated: Thu, 16 Sep 21 14:40:47
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4941,8 +4941,6 @@
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.leadiacloud.com
 0.0.0.0 api.leanplum.com
-0.0.0.0 api.likee.video
-0.0.0.0 api.liketech.tech
 0.0.0.0 api.livefyre.com
 0.0.0.0 api.livejasmin.com
 0.0.0.0 api.lunagyja.xyz
@@ -7210,7 +7208,6 @@
 0.0.0.0 cdn.online-webcam.net
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
-0.0.0.0 cdn.outfit7.com
 0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.performit.club
@@ -12094,7 +12091,6 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.bustle.com
 0.0.0.0 graph.digiseller.ru
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.quanta.la
@@ -12772,7 +12768,6 @@
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 httpool.com
 0.0.0.0 httporangeclickmedia-com.videoplayerhub.com
-0.0.0.0 https-api.bigolive.tv
 0.0.0.0 https-snigelweb-com.videoplayerhub.com
 0.0.0.0 httpsad-cdn.technoratimedia.com
 0.0.0.0 httpsmediatradecraft-com.videoplayerhub.com
@@ -13297,7 +13292,6 @@
 0.0.0.0 incentive.skimresources.com
 0.0.0.0 incloak.com
 0.0.0.0 incolnperchitect.pro
-0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 incorphishor.com
 0.0.0.0 index.appsflyer.com
 0.0.0.0 index.reference.com
@@ -17536,7 +17530,6 @@
 0.0.0.0 oclgbmykr.com
 0.0.0.0 ocm.revcontent.com
 0.0.0.0 ocsp.g.applimg.com
-0.0.0.0 ocsp2.apple.com
 0.0.0.0 ocsp2.g.applimg.com
 0.0.0.0 octonew.me
 0.0.0.0 octotr.ru
@@ -27089,7 +27082,6 @@
 0.0.0.0 whitepaper.growadvertising.com
 0.0.0.0 whitesaas.com
 0.0.0.0 whkesznbi.com
-0.0.0.0 whoami.akamai.net
 0.0.0.0 whoami.sophi.io
 0.0.0.0 whoevercloakroom.com
 0.0.0.0 whoinns.com
