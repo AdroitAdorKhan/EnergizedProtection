@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.260
 # Release: 260
-# Entries: 29,299
+# Entries: 29,298
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Sep 21 00:20:04
+# Updated: Fri, 17 Sep 21 00:54:08
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -22106,7 +22106,6 @@
 0.0.0.0 search.batmobi.net
 0.0.0.0 search.media.net
 0.0.0.0 search.pdf2doc.co
-0.0.0.0 search.pstatic.net
 0.0.0.0 search.spotxchange.com
 0.0.0.0 search2.media.net
 0.0.0.0 searchad-phinf.pstatic.net
