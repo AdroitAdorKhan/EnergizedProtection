@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.259
 # Release: 259
-# Entries: 29,279
+# Entries: 29,302
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 16 Sep 21 11:40:17
+# Updated: Thu, 16 Sep 21 14:33:27
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4941,6 +4941,7 @@
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.leadiacloud.com
 0.0.0.0 api.leanplum.com
+0.0.0.0 api.likee.video
 0.0.0.0 api.liketech.tech
 0.0.0.0 api.livefyre.com
 0.0.0.0 api.livejasmin.com
@@ -4957,6 +4958,7 @@
 0.0.0.0 api.news-headlines.co
 0.0.0.0 api.nitropay.com
 0.0.0.0 api.offline.avazunativeads.com
+0.0.0.0 api.onesignal.com
 0.0.0.0 api.open.uc.cn
 0.0.0.0 api.opmnstr.com
 0.0.0.0 api.optimizely.com
@@ -4964,7 +4966,6 @@
 0.0.0.0 api.parsely.com
 0.0.0.0 api.perfectaudience.com
 0.0.0.0 api.piclick.kr
-0.0.0.0 api.pr.weixin.qq.com
 0.0.0.0 api.prod.notifier.manycomponents.com
 0.0.0.0 api.prsrvy.com
 0.0.0.0 api.pub.network
@@ -5005,6 +5006,7 @@
 0.0.0.0 api.ucmate.info
 0.0.0.0 api.umeng.com
 0.0.0.0 api.uparpu.com
+0.0.0.0 api.userleap.com
 0.0.0.0 api.venyoo.ru
 0.0.0.0 api.videoplayerhub.com
 0.0.0.0 api.viglink.com
@@ -5541,6 +5543,7 @@
 0.0.0.0 auth.espritgames.ru
 0.0.0.0 auth.flurry.com
 0.0.0.0 auth.runative.com
+0.0.0.0 auth.split.io
 0.0.0.0 auth.umeng.com
 0.0.0.0 auth.viglink.com
 0.0.0.0 auth0.connatix.com
@@ -7207,6 +7210,7 @@
 0.0.0.0 cdn.online-webcam.net
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.outfit7.com
 0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.performit.club
@@ -8657,6 +8661,7 @@
 0.0.0.0 coupling-media.de
 0.0.0.0 couponsaustria.com
 0.0.0.0 courselfnorter.site
+0.0.0.0 coursevania.com
 0.0.0.0 covers-com.videoplayerhub.com
 0.0.0.0 cowboystiefelverkauf.de
 0.0.0.0 cozy.report-uri.io
@@ -12089,6 +12094,7 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.bustle.com
 0.0.0.0 graph.digiseller.ru
+0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.quanta.la
@@ -12766,6 +12772,7 @@
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 httpool.com
 0.0.0.0 httporangeclickmedia-com.videoplayerhub.com
+0.0.0.0 https-api.bigolive.tv
 0.0.0.0 https-snigelweb-com.videoplayerhub.com
 0.0.0.0 httpsad-cdn.technoratimedia.com
 0.0.0.0 httpsmediatradecraft-com.videoplayerhub.com
@@ -13290,6 +13297,7 @@
 0.0.0.0 incentive.skimresources.com
 0.0.0.0 incloak.com
 0.0.0.0 incolnperchitect.pro
+0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 incorphishor.com
 0.0.0.0 index.appsflyer.com
 0.0.0.0 index.reference.com
@@ -15934,6 +15942,7 @@
 0.0.0.0 metrics.io
 0.0.0.0 metrics.ionos.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 metrics.smaato.net
 0.0.0.0 metrics1.data.hicloud.com
@@ -16236,6 +16245,7 @@
 0.0.0.0 mollnia.com
 0.0.0.0 momogina.com
 0.0.0.0 mon-v01-00b.btrll.com
+0.0.0.0 mon.isnssdk.com
 0.0.0.0 monad.be
 0.0.0.0 monad.network
 0.0.0.0 monamulet.ru
@@ -16786,6 +16796,7 @@
 0.0.0.0 networkoptimizer.r.xoxknct.com
 0.0.0.0 networkoptimizer.s.xoxknct.com
 0.0.0.0 networkplay.in
+0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 networld.hk
 0.0.0.0 netzteil-akku.com
 0.0.0.0 netzteiledirekt.com
@@ -17051,6 +17062,7 @@
 0.0.0.0 nothadrightin.pro
 0.0.0.0 notice.central-messages.com
 0.0.0.0 notif.club
+0.0.0.0 notification.tubecup.net
 0.0.0.0 notifications.tubecup.net
 0.0.0.0 notifications.website
 0.0.0.0 notificationz.com
@@ -17974,6 +17986,7 @@
 0.0.0.0 p.static.ads-twitter.com
 0.0.0.0 p.teads.tv
 0.0.0.0 p.trafficfabrik.com
+0.0.0.0 p.typekit.net
 0.0.0.0 p.vtracy.de
 0.0.0.0 p.wowtrk.com
 0.0.0.0 p.yieldlab.net
@@ -19889,6 +19902,7 @@
 0.0.0.0 points2shop.com
 0.0.0.0 pointsaver.de
 0.0.0.0 poisism.com
+0.0.0.0 pok.rayjump.com
 0.0.0.0 poketraff.com
 0.0.0.0 polarmobile.com
 0.0.0.0 polenboeller-deutschland.com
@@ -20199,6 +20213,7 @@
 0.0.0.0 prod-m-medtest-1112.nexage.com
 0.0.0.0 prod-m-node-1112.nexage.com
 0.0.0.0 prod-m-node-1212.nexage.com
+0.0.0.0 prod-m-node-2111.ssp.advertising.com
 0.0.0.0 prod-m-node-2112.nexage.com
 0.0.0.0 prod-m-node-3112.nexage.com
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
@@ -20691,6 +20706,7 @@
 0.0.0.0 qqonline365.club
 0.0.0.0 qqqwes.com
 0.0.0.0 qrclevrfjw.com
+0.0.0.0 qrextechnologies.com
 0.0.0.0 qrlsx.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 qs2.ioam.de
@@ -22030,6 +22046,7 @@
 0.0.0.0 sdk-analytics.reasonsecurity.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-conf.getui.com
+0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdk-jmlink.jpush.cn
 0.0.0.0 sdk-services.appsflyer.com
@@ -23062,6 +23079,7 @@
 0.0.0.0 ssomgr-api.amobee.com
 0.0.0.0 ssp-3-9f58.trnox.com
 0.0.0.0 ssp-csync.smartadserver.com
+0.0.0.0 ssp-events.chartboost.com
 0.0.0.0 ssp-fe-us-e1.content.ad
 0.0.0.0 ssp-fe-us-e2.content.ad
 0.0.0.0 ssp-px.content.ad
@@ -23545,6 +23563,7 @@
 0.0.0.0 studydeed.com
 0.0.0.0 stuffedprofessional.com
 0.0.0.0 stuiop.com
+0.0.0.0 stumps-analytics.firebaseio.com
 0.0.0.0 stuneoapp.page.link
 0.0.0.0 stunight.com
 0.0.0.0 style-eyes.eu
@@ -23658,6 +23677,7 @@
 0.0.0.0 surfe.pro
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 surgeprice.com
+0.0.0.0 suriyecastajanslari.bykmedya.com
 0.0.0.0 surprise-you.com
 0.0.0.0 survey-poll.com
 0.0.0.0 survey.cmcm.com
@@ -25633,6 +25653,7 @@
 0.0.0.0 trfransit.com
 0.0.0.0 triadmedianetwork.com
 0.0.0.0 trial.tercept.com
+0.0.0.0 trialmr.com.ar
 0.0.0.0 tribalfusion.com
 0.0.0.0 tribpubads.com
 0.0.0.0 trigami.com
@@ -27068,6 +27089,7 @@
 0.0.0.0 whitepaper.growadvertising.com
 0.0.0.0 whitesaas.com
 0.0.0.0 whkesznbi.com
+0.0.0.0 whoami.akamai.net
 0.0.0.0 whoami.sophi.io
 0.0.0.0 whoevercloakroom.com
 0.0.0.0 whoinns.com
@@ -28908,6 +28930,7 @@
 0.0.0.0 xptlogin.ksmobile.com
 0.0.0.0 xpxye.rdtk.io
 0.0.0.0 xqheb9yszyrd.com
+0.0.0.0 xre.popmonster.ru
 0.0.0.0 xrea.com
 0.0.0.0 xs.instreamatic.com
 0.0.0.0 xsa5x.bemobtrk.com
