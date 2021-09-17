@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.260
 # Release: 260
-# Entries: 29,312
+# Entries: 29,342
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Sep 21 20:18:51
+# Updated: Fri, 17 Sep 21 23:40:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2444,6 +2444,7 @@
 0.0.0.0 adrecover.com
 0.0.0.0 adrem.hasmobi.net
 0.0.0.0 adresellers.com
+0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adrise.de
 0.0.0.0 adrive.com
@@ -3595,6 +3596,9 @@
 0.0.0.0 aet.trafficjunky.net
 0.0.0.0 aexp.demdex.net
 0.0.0.0 af-ad.co.uk
+0.0.0.0 af-banner-stg-static.appsflyer.com
+0.0.0.0 af-banner-stg.appsflyer.com
+0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 af-gb.mgid.com
 0.0.0.0 af.beap.bc.yahoo.com
 0.0.0.0 af.liveads.jp
@@ -5306,6 +5310,7 @@
 0.0.0.0 aroamday.com
 0.0.0.0 arragostripl.fun
 0.0.0.0 ars-textilia.at
+0.0.0.0 ars.appsflyer.com
 0.0.0.0 arsenal.rubiconproject.com
 0.0.0.0 art-con-shop.de
 0.0.0.0 artealjabiri.de
@@ -5830,6 +5835,7 @@
 0.0.0.0 bannerpower.com
 0.0.0.0 bannerrage.com
 0.0.0.0 banners-slb.mobile.yandex.net
+0.0.0.0 banners-worker.appsflyer.com
 0.0.0.0 banners.adfox.ru
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
@@ -7354,6 +7360,7 @@
 0.0.0.0 cdnalpstag.adgear.com
 0.0.0.0 cdnap.airpush.com
 0.0.0.0 cdnappicons.appsflyer.com
+0.0.0.0 cdnappiconstest.appsflyer.com
 0.0.0.0 cdnaqw.com
 0.0.0.0 cdnas.bidvertiser.com
 0.0.0.0 cdnastaging.adgear.com
@@ -8533,6 +8540,7 @@
 0.0.0.0 content.adfox.ru
 0.0.0.0 content.admixer.net
 0.0.0.0 content.adriver.ru
+0.0.0.0 content.appsflyer.com
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 content.buysellads.com
 0.0.0.0 content.green-red.com
@@ -8757,6 +8765,8 @@
 0.0.0.0 creative.xxxjmp.com
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creativecdn.com
+0.0.0.0 creatives-cdn-stg.appsflyer.com
+0.0.0.0 creatives-cdn.appsflyer.com
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 creatives.justpremium.com
 0.0.0.0 creatives.livejasmin.com
@@ -8973,6 +8983,7 @@
 0.0.0.0 custom.supersonicads.com
 0.0.0.0 custom2.supersonicads.com
 0.0.0.0 customers-lidl.kameleoon.com
+0.0.0.0 customlinks.appsflyer.com
 0.0.0.0 cutebaitsforum.cc
 0.0.0.0 cutecams.space
 0.0.0.0 cutedolls.top
@@ -9727,6 +9738,7 @@
 0.0.0.0 dlp.adgear.com
 0.0.0.0 dlpg.ksmobile.com
 0.0.0.0 dlpstag.adgear.com
+0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm0qx8t0i9gc9.cloudfront.net
 0.0.0.0 dmbe.durationmedia.net
@@ -10998,6 +11010,7 @@
 0.0.0.0 feedback-dre.platform.hicloud.com
 0.0.0.0 feedback-test.tclclouds.com
 0.0.0.0 feedback.adroll.com
+0.0.0.0 feedback.appsflyer.com
 0.0.0.0 feedback.ksmobile.com
 0.0.0.0 feedback.miui.com
 0.0.0.0 feedback.uc.cn
@@ -11298,6 +11311,7 @@
 0.0.0.0 fqtag.com
 0.0.0.0 fr.ads.justpremium.com
 0.0.0.0 fr.adserver.yahoo.com
+0.0.0.0 fr.appsflyer.com
 0.0.0.0 fr.at.atwola.com
 0.0.0.0 fr.cj.com
 0.0.0.0 fr.exoclick.com
@@ -11661,9 +11675,11 @@
 0.0.0.0 gbhbl.com
 0.0.0.0 gbwearusa.myshopify.com
 0.0.0.0 gc.ds.duapps.com
+0.0.0.0 gcd-s2s.appsflyer.com
 0.0.0.0 gcdn.anvato.net
 0.0.0.0 gcdn2.2mdn.net
 0.0.0.0 gcdnsl.com
+0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 gchbbcgadiadjiaceea.ru
 0.0.0.0 gcm-dev.wshareit.com
@@ -11943,6 +11959,7 @@
 0.0.0.0 go.appcelerator.com
 0.0.0.0 go.applovin.com
 0.0.0.0 go.appnexus.com
+0.0.0.0 go.appsflyer.com
 0.0.0.0 go.automatad.com
 0.0.0.0 go.bebi.com
 0.0.0.0 go.bshrdr.com
@@ -13343,6 +13360,7 @@
 0.0.0.0 influx.woxikon.h-bid.com
 0.0.0.0 info.adroll.com
 0.0.0.0 info.amobee.com
+0.0.0.0 info.appsflyer.com
 0.0.0.0 info.flurry.com
 0.0.0.0 info.friendbuy.com
 0.0.0.0 info.inmobi.com
@@ -13973,6 +13991,7 @@
 0.0.0.0 jp.ads.justpremium.com
 0.0.0.0 jp.advertising.com
 0.0.0.0 jp.applovin.com
+0.0.0.0 jp.appsflyer.com
 0.0.0.0 jp.at.atwola.com
 0.0.0.0 jp.go.zog.link
 0.0.0.0 jp.widerplanet.com
@@ -14187,6 +14206,7 @@
 0.0.0.0 kaymopk.com
 0.0.0.0 kazoowaughy.com
 0.0.0.0 kb.rubiconproject.com
+0.0.0.0 kbsearch.appsflyer.com
 0.0.0.0 kbxj2.bemobtrk.com
 0.0.0.0 kbymnqiomnegs.com
 0.0.0.0 kcehdslfcqva.com
@@ -14634,6 +14654,7 @@
 0.0.0.0 leanerbivouac.cam
 0.0.0.0 leaptrade.com
 0.0.0.0 learn-german-faster.de
+0.0.0.0 learn.appsflyer.com
 0.0.0.0 learn.heapanalytics.com
 0.0.0.0 learn.newrelic.com
 0.0.0.0 learnnow.page.link
@@ -15146,6 +15167,7 @@
 0.0.0.0 loyalinvadeballoon.com
 0.0.0.0 loyaltrend-de.com
 0.0.0.0 lp.adpushup.com
+0.0.0.0 lp.appsflyer.com
 0.0.0.0 lp.cooktracking.com
 0.0.0.0 lp.interwetten.de
 0.0.0.0 lp.mydirtyhobby.com
@@ -15252,6 +15274,7 @@
 0.0.0.0 m.adserver.yahoo.com
 0.0.0.0 m.app.uc.cn
 0.0.0.0 m.appjiagu.com
+0.0.0.0 m.appsflyer.com
 0.0.0.0 m.b1102187.com
 0.0.0.0 m.benaughty.com
 0.0.0.0 m.blogads.com
@@ -16112,6 +16135,7 @@
 0.0.0.0 mmpool.org
 0.0.0.0 mms.cnn.com
 0.0.0.0 mmsbee.com
+0.0.0.0 mmsotk.com
 0.0.0.0 mmstat.com
 0.0.0.0 mmstat.ucweb.com
 0.0.0.0 mmsubtitles.co
@@ -21614,6 +21638,7 @@
 0.0.0.0 ru.ads.justpremium.com
 0.0.0.0 ru.adserver.yahoo.com
 0.0.0.0 ru.applog.uc.cn
+0.0.0.0 ru.appsflyer.com
 0.0.0.0 ru.mst.dns-cloud.net
 0.0.0.0 ru.track.uc.cn
 0.0.0.0 ru.ucweb.com
@@ -21940,6 +21965,7 @@
 0.0.0.0 sb-scorecardresearch-com.cdn.ampproject.org
 0.0.0.0 sb-stage.scorecardresearch.com
 0.0.0.0 sb-waschstrasse-ruck.de
+0.0.0.0 sb.appsflyer.com
 0.0.0.0 sb.report-uri.io
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb1.h.online-metrix.net
@@ -22633,6 +22659,8 @@
 0.0.0.0 sjevideo.adsafeprotected.com
 0.0.0.0 sjoe.club
 0.0.0.0 sk-biografien.de
+0.0.0.0 skadsdk.appsflyer.com
+0.0.0.0 skadsdkless.appsflyer.com
 0.0.0.0 skategirlchina.com
 0.0.0.0 skateheadclothing.com
 0.0.0.0 skdev.io
@@ -22852,6 +22880,7 @@
 0.0.0.0 sozdeblogcom.imageshack.host
 0.0.0.0 sp-ycpi.analytics.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 sp.appsflyer.com
 0.0.0.0 sp.fastclick.net
 0.0.0.0 sp.popcash.net
 0.0.0.0 sp2.baidu.com
@@ -26049,6 +26078,7 @@
 0.0.0.0 unityads.unitychina.cn
 0.0.0.0 universalsa.info
 0.0.0.0 universe-biz.microad.co.jp
+0.0.0.0 universe.appsflyer.com
 0.0.0.0 universe.microad.co.jp
 0.0.0.0 university.pubguru.com
 0.0.0.0 universityofinternetscience.com
