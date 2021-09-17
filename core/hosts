@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.260
-# Release: 260
-# Entries: 29,342
+# Version: 21.09.261
+# Release: 261
+# Entries: 29,359
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Sep 21 23:40:17
+# Updated: Sat, 18 Sep 21 01:40:34
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3659,6 +3659,7 @@
 0.0.0.0 affpixel.adfalcon.com
 0.0.0.0 affplanet.com
 0.0.0.0 afftrack.com
+0.0.0.0 afguk.top
 0.0.0.0 afk-i.com
 0.0.0.0 africawin.com
 0.0.0.0 afs.ero-advertising.com
@@ -9052,6 +9053,7 @@
 0.0.0.0 d.iclwy.xyz
 0.0.0.0 d.justpremium.com
 0.0.0.0 d.liadm.com
+0.0.0.0 d.maldini.xyz
 0.0.0.0 d.mordi.xyz
 0.0.0.0 d.mx.edm.cmcm.com
 0.0.0.0 d.ns.edm.cmcm.com
@@ -11066,6 +11068,7 @@
 0.0.0.0 fgoogle.com
 0.0.0.0 fhatfee.ero-advertising.com
 0.0.0.0 fhgh9sd.com
+0.0.0.0 fhsmtrnsfnt.com
 0.0.0.0 fi.ads.justpremium.com
 0.0.0.0 fi.adserver.yahoo.com
 0.0.0.0 fi.advertising.com
@@ -12538,6 +12541,7 @@
 0.0.0.0 hibhedbfbcbfgegjafa.ru
 0.0.0.0 hiddenjadestone.com
 0.0.0.0 hide.ovh
+0.0.0.0 hifisnap.cc
 0.0.0.0 higetottileft.info
 0.0.0.0 high-tech-discount.fr
 0.0.0.0 high-tech-market.com
@@ -12773,6 +12777,7 @@
 0.0.0.0 hrmqqrvqaxvzb.com
 0.0.0.0 hrmts.report-uri.io
 0.0.0.0 hrtya.com
+0.0.0.0 hruk.afguk.top
 0.0.0.0 hs2-amstetten.at
 0.0.0.0 hsads.zeotap.com
 0.0.0.0 hsh51nvkrv.com
@@ -15542,6 +15547,7 @@
 0.0.0.0 makeyouropportunity.com
 0.0.0.0 makmoney.club
 0.0.0.0 malawitreff.de
+0.0.0.0 maldini.xyz
 0.0.0.0 malereikopie.de
 0.0.0.0 malibucoastal.co
 0.0.0.0 malinesmanses.com
@@ -16652,6 +16658,10 @@
 0.0.0.0 myselfix.com
 0.0.0.0 myshop.glasgro.com
 0.0.0.0 myshopwala.com
+0.0.0.0 mysnap.cc
+0.0.0.0 mysnap.pw
+0.0.0.0 mysnap.top
+0.0.0.0 mysnap.xyz
 0.0.0.0 mysodexoromania.page.link
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
@@ -19135,6 +19145,7 @@
 0.0.0.0 pl15397677.passtechusa.com
 0.0.0.0 pl15402247.performancetrustednetwork.com
 0.0.0.0 pl15403441.profitablegate.com
+0.0.0.0 pl15406293.effectivecpmgate.com
 0.0.0.0 pl15406824.passtechusa.com
 0.0.0.0 pl15406995.passtechusa.com
 0.0.0.0 pl15407673.passtechusa.com
@@ -21873,6 +21884,7 @@
 0.0.0.0 safelistextreme.com
 0.0.0.0 safeurl.maxthon.cn
 0.0.0.0 sageanalyst.net
+0.0.0.0 saggrowledetc.com
 0.0.0.0 sagroagh.com
 0.0.0.0 sail4all.at
 0.0.0.0 saintine.store
@@ -23258,6 +23270,7 @@
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.nate.com
 0.0.0.0 stat.networkmanag.com
+0.0.0.0 stat.onlyindianporn.me
 0.0.0.0 stat.openinstall.io
 0.0.0.0 stat.ouedkniss.com
 0.0.0.0 stat.pl
@@ -26367,6 +26380,7 @@
 0.0.0.0 v4.funstorebd.com
 0.0.0.0 v4.logger.pw
 0.0.0.0 v4.moatads.com
+0.0.0.0 v4ip.cyou
 0.0.0.0 v6.startappservice.com
 0.0.0.0 v615b.rdtk.io
 0.0.0.0 v7.cnzz.com
@@ -26954,6 +26968,7 @@
 0.0.0.0 wd-edge.sharethis.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wda.com
+0.0.0.0 wdanjsscqabsi.com
 0.0.0.0 wdata.ero-advertising.com
 0.0.0.0 wdc-rtb.applovin.com
 0.0.0.0 wdc-rtbprod.applovin.com
@@ -27233,6 +27248,7 @@
 0.0.0.0 wj-tag.de
 0.0.0.0 wj.jpush.cn
 0.0.0.0 wjyxi.wnerofro.online
+0.0.0.0 wkfdymfxmyckr.com
 0.0.0.0 wks.ero-advertising.com
 0.0.0.0 wlapdczzpceb.com
 0.0.0.0 wlbetboo.adsrv.eacdn.com
@@ -28588,6 +28604,7 @@
 0.0.0.0 www.wbbmubevftcy.com
 0.0.0.0 www.wcgrrjyjiaeocd.com
 0.0.0.0 www.wciivrou.com
+0.0.0.0 www.wdanjsscqabsi.com
 0.0.0.0 www.wdata.ero-advertising.com
 0.0.0.0 www.web.adblade.com
 0.0.0.0 www.web.analytics.yahoo.com
