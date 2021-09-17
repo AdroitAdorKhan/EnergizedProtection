@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.260
 # Release: 260
-# Entries: 29,297
+# Entries: 29,312
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Sep 21 11:40:22
+# Updated: Fri, 17 Sep 21 20:18:51
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3758,6 +3758,7 @@
 0.0.0.0 ak.goodsblock.mgid.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 aka-ulog.kwai-pro.com
 0.0.0.0 akamai-cdn.perfops.io
 0.0.0.0 akamai.invitemedia.com
 0.0.0.0 akamai.smartadserver.com
@@ -8852,6 +8853,7 @@
 0.0.0.0 csmobiles.com
 0.0.0.0 csp.px-cloud.net
 0.0.0.0 csp.withgoogle.com
+0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 cspreport.mail.ru
 0.0.0.0 cspreport.report-uri.io
 0.0.0.0 cspreporter.optimizely.com
@@ -9594,6 +9596,7 @@
 0.0.0.0 dialgold.com
 0.0.0.0 dialyearse.info
 0.0.0.0 diamond-dealz.com
+0.0.0.0 dian.pag.mobi
 0.0.0.0 dianomi.com
 0.0.0.0 dianomioffers.co.uk
 0.0.0.0 dibsemey.com
@@ -11511,6 +11514,7 @@
 0.0.0.0 g-pixel.invitemedia.com
 0.0.0.0 g-sgp-cdn.snackvideo.in
 0.0.0.0 g-sgp-pic.snackvideo.in
+0.0.0.0 g-ulog.kwai-pro.com
 0.0.0.0 g-ulog.snackvideo.com
 0.0.0.0 g-ulog.uvfuns.com
 0.0.0.0 g.adnxs.com
@@ -15072,6 +15076,7 @@
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logs1413.xiti.com
 0.0.0.0 logs2.appsflyer.com
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logserver3.hicloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
@@ -24085,6 +24090,7 @@
 0.0.0.0 telemetry.sdk.ams1.avi.inmobi.com
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 telemetry.vg.ac.pvp.net
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleriumtv.com
 0.0.0.0 tellypic.xyz
@@ -24338,6 +24344,7 @@
 0.0.0.0 tlauncher-api.tclclouds.com
 0.0.0.0 tlkbaonline.eu
 0.0.0.0 tlootas.org
+0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tlx.3lift.com
@@ -25979,10 +25986,17 @@
 0.0.0.0 uldwcpscwzkis.com
 0.0.0.0 uleypool.com
 0.0.0.0 ulf6ay.edvfwlacluo.com
+0.0.0.0 ulog.kwai-pro.com
+0.0.0.0 ulog.kwaipros.com
 0.0.0.0 ulog.umengcloud.com
+0.0.0.0 ulog2-us.kwaipros.com
+0.0.0.0 ulog3-ru.kwai-pro.com
+0.0.0.0 ulog4-ru.kwai-pro.com
+0.0.0.0 ulog4-ru.kwaipros.com
 0.0.0.0 ulogin.ru
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 ulogt3-ru.kwai-pro.com
 0.0.0.0 ulppreciat.club
 0.0.0.0 ulrich-list.de
 0.0.0.0 ultimowraxle.com
@@ -28513,6 +28527,7 @@
 0.0.0.0 www.update-security.qhigh.com
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.updatecatalogs.com
+0.0.0.0 www.uplooder.net
 0.0.0.0 www.upstloans.net
 0.0.0.0 www.uqelijcu.com
 0.0.0.0 www.urlsec.qq.com
