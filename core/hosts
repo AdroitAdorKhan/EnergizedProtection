@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.261
 # Release: 261
-# Entries: 29,375
+# Entries: 29,486
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 18 Sep 21 11:40:17
+# Updated: Sat, 18 Sep 21 15:50:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1376,6 +1376,7 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adskeeper.co.uk
+0.0.0.0 a.adtelligent.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.adwolf.ru
 0.0.0.0 a.algoply.com
@@ -1572,20 +1573,32 @@
 0.0.0.0 abbottlaboratories.demdex.net
 0.0.0.0 abc-ads.com
 0.0.0.0 abc.abcdserver.com
+0.0.0.0 abc1.adtelligent.com
 0.0.0.0 abc1.feed-xml.com
 0.0.0.0 abc11.feed-xml.com
 0.0.0.0 abc12.feed-xml.com
 0.0.0.0 abc13.feed-xml.com
+0.0.0.0 abc14.adtelligent.com
 0.0.0.0 abc14.feed-xml.com
 0.0.0.0 abc2.feed-xml.com
+0.0.0.0 abc22.adtelligent.com
 0.0.0.0 abc22.feed-xml.com
+0.0.0.0 abc23.adtelligent.com
 0.0.0.0 abc23.feed-xml.com
+0.0.0.0 abc25.adtelligent.com
+0.0.0.0 abc3.adtelligent.com
 0.0.0.0 abc3.feed-xml.com
+0.0.0.0 abc36.adtelligent.com
+0.0.0.0 abc4.adtelligent.com
 0.0.0.0 abc4.feed-xml.com
 0.0.0.0 abc5.feed-xml.com
 0.0.0.0 abc51.feed-xml.com
 0.0.0.0 abc52.feed-xml.com
+0.0.0.0 abc53.adtelligent.com
+0.0.0.0 abc54.adtelligent.com
 0.0.0.0 abc54.feed-xml.com
+0.0.0.0 abc55.adtelligent.com
+0.0.0.0 abc57.adtelligent.com
 0.0.0.0 abc7.feed-xml.com
 0.0.0.0 abc8.feed-xml.com
 0.0.0.0 abc9.feed-xml.com
@@ -2839,6 +2852,7 @@
 0.0.0.0 ads0.nexage.com
 0.0.0.0 ads0.textra.me
 0.0.0.0 ads01.com
+0.0.0.0 ads1.adtelligent.com
 0.0.0.0 ads1.ero-advertising.com
 0.0.0.0 ads1.green-red.com
 0.0.0.0 ads1.livepromotools.com
@@ -2851,10 +2865,16 @@
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.textra.me
 0.0.0.0 ads11.textra.me
+0.0.0.0 ads111.adtelligent.com
+0.0.0.0 ads113.adtelligent.com
 0.0.0.0 ads12.textra.me
 0.0.0.0 ads13.textra.me
+0.0.0.0 ads14.adtelligent.com
 0.0.0.0 ads14.textra.me
+0.0.0.0 ads15.adtelligent.com
 0.0.0.0 ads15.textra.me
+0.0.0.0 ads16.adtelligent.com
+0.0.0.0 ads17.adtelligent.com
 0.0.0.0 ads180.com
 0.0.0.0 ads2.adviad.com
 0.0.0.0 ads2.brazzers.com
@@ -2870,11 +2890,19 @@
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads20.adcolony.com
+0.0.0.0 ads20.adtelligent.com
 0.0.0.0 ads20.wwe-media.de
+0.0.0.0 ads22.adtelligent.com
+0.0.0.0 ads23.adtelligent.com
+0.0.0.0 ads24.adtelligent.com
 0.0.0.0 ads24.tipps24-netzwerk.de
 0.0.0.0 ads24h.net
+0.0.0.0 ads27.adtelligent.com
+0.0.0.0 ads28.adtelligent.com
+0.0.0.0 ads29.adtelligent.com
 0.0.0.0 ads2srv.com
 0.0.0.0 ads3.admatic.com.tr
+0.0.0.0 ads3.adtelligent.com
 0.0.0.0 ads3.adviad.com
 0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.eqads.com
@@ -2883,10 +2911,21 @@
 0.0.0.0 ads3.textra.me
 0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 ads31.adtelligent.com
+0.0.0.0 ads33.adtelligent.com
+0.0.0.0 ads34.adtelligent.com
+0.0.0.0 ads36.adtelligent.com
+0.0.0.0 ads37.adtelligent.com
 0.0.0.0 ads4.adviad.com
 0.0.0.0 ads4.ioam.de
 0.0.0.0 ads4.textra.me
 0.0.0.0 ads4.virtual-nights.com
+0.0.0.0 ads43.adtelligent.com
+0.0.0.0 ads44.adtelligent.com
+0.0.0.0 ads45.adtelligent.com
+0.0.0.0 ads47.adtelligent.com
+0.0.0.0 ads48.adtelligent.com
+0.0.0.0 ads49.adtelligent.com
 0.0.0.0 ads5-asia-south1.truecaller.com
 0.0.0.0 ads5-eu.truecaller.com
 0.0.0.0 ads5-noneu.truecaller.com
@@ -2895,12 +2934,19 @@
 0.0.0.0 ads5.textra.me
 0.0.0.0 ads5.truecaller.com
 0.0.0.0 ads5.virtual-nights.com
+0.0.0.0 ads50.adtelligent.com
+0.0.0.0 ads53.adtelligent.com
+0.0.0.0 ads54.adtelligent.com
+0.0.0.0 ads58.adtelligent.com
+0.0.0.0 ads59.adtelligent.com
 0.0.0.0 ads6.textra.me
+0.0.0.0 ads62.adtelligent.com
 0.0.0.0 ads7.mobclix.com
 0.0.0.0 ads7.textra.me
 0.0.0.0 ads8.com
 0.0.0.0 ads8.textra.me
 0.0.0.0 ads9.textra.me
+0.0.0.0 ads99.adtelligent.com
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
@@ -5030,8 +5076,12 @@
 0.0.0.0 api.zedo.com
 0.0.0.0 api03.datatrics.com
 0.0.0.0 api04.datatrics.com
+0.0.0.0 api1-stat-sh.adtelligent.com
+0.0.0.0 api1-stat-t.adtelligent.com
 0.0.0.0 api1.reasonsecurity.com
 0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 api2-stat-t.adtelligent.com
+0.0.0.0 api2-stat.adtelligent.com
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api2.bounceexchange.com
@@ -5039,6 +5089,8 @@
 0.0.0.0 api2.clickaine.com
 0.0.0.0 api2.sophi.io
 0.0.0.0 api2.wshareit.com
+0.0.0.0 api3-stat-local-sh.adtelligent.com
+0.0.0.0 api3-stat.adtelligent.com
 0.0.0.0 api5.batmobi.net
 0.0.0.0 api5.batmobil.net
 0.0.0.0 apiad.propellerads.com
@@ -5251,6 +5303,7 @@
 0.0.0.0 apyohotayvc.com
 0.0.0.0 aq-gb.mgid.com
 0.0.0.0 aq.goodsblock.mgid.com
+0.0.0.0 aqilahrozigenesh.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrfho4q2yan5fnrt.ay.delivery
 0.0.0.0 aquaclean-das-original.de
@@ -5577,6 +5630,9 @@
 0.0.0.0 autopsyglossy.com
 0.0.0.0 autoradio-gps-discount.com
 0.0.0.0 autoreply.page.link
+0.0.0.0 aux-log.adtelligent.com
+0.0.0.0 aux-log1-sh.adtelligent.com
+0.0.0.0 aux-log2-sh.adtelligent.com
 0.0.0.0 av-updateservice.adaware.com
 0.0.0.0 av.adblade.com
 0.0.0.0 av.ageverify.co
@@ -6891,6 +6947,8 @@
 0.0.0.0 capquqhuiazl.com
 0.0.0.0 capricornnestlevile.com
 0.0.0.0 caps-store.de
+0.0.0.0 caps1-us.adtelligent.com
+0.0.0.0 caps2-us.adtelligent.com
 0.0.0.0 captcha.perimeterx.net
 0.0.0.0 captcha.px-cdn.net
 0.0.0.0 captifymedia.com
@@ -6977,6 +7035,7 @@
 0.0.0.0 cawellreceived.ga
 0.0.0.0 cawkyhouhere.com
 0.0.0.0 cazone.club
+0.0.0.0 cazosk06.top
 0.0.0.0 cb-content.com
 0.0.0.0 cb.ksmobile.com
 0.0.0.0 cb.mopub.com
@@ -7446,6 +7505,7 @@
 0.0.0.0 certyvpn.com
 0.0.0.0 cessyntactu.fun
 0.0.0.0 cetrk.com
+0.0.0.0 ceylantreyler.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf-cdn.adform.net
 0.0.0.0 cf.addthis.com
@@ -7565,6 +7625,7 @@
 0.0.0.0 chs.smartclick.net
 0.0.0.0 chsrkred.com
 0.0.0.0 chuckledinadmissible.com
+0.0.0.0 chuckswey.chickenkiller.com
 0.0.0.0 chufudsi.net
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 chyayy.com
@@ -7658,6 +7719,7 @@
 0.0.0.0 click.a-ads.com
 0.0.0.0 click.adhoc2.net
 0.0.0.0 click.admixer.co.kr
+0.0.0.0 click.ali213.net
 0.0.0.0 click.allow.support
 0.0.0.0 click.amanad.adtdp.com
 0.0.0.0 click.appnext.com
@@ -8368,6 +8430,7 @@
 0.0.0.0 collector.sophi.io
 0.0.0.0 collector.unlockxh3.com
 0.0.0.0 collector.unsplash.com
+0.0.0.0 collector.wassenaar.org
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector.xhplanet1.com
@@ -9038,10 +9101,12 @@
 0.0.0.0 cyyjit.com
 0.0.0.0 czc.adform.net
 0.0.0.0 d-ai.spankbang.com
+0.0.0.0 d-usa.adtelligent.com
 0.0.0.0 d.adcash.com
 0.0.0.0 d.adgear.com
 0.0.0.0 d.adgrx.com
 0.0.0.0 d.adroll.com
+0.0.0.0 d.adtelligent.com
 0.0.0.0 d.agkn.com
 0.0.0.0 d.appjiagu.com
 0.0.0.0 d.applovin.com
@@ -9629,6 +9694,7 @@
 0.0.0.0 dieseluhrenberlin.com
 0.0.0.0 diesophiestore.com
 0.0.0.0 dieuy732rkuvo.cloudfront.net
+0.0.0.0 diezmodepalabras.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff1.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
@@ -9754,6 +9820,7 @@
 0.0.0.0 dmp.adblade.com
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.adotmob.com
+0.0.0.0 dmp.adtelligent.com
 0.0.0.0 dmp.adviad.com
 0.0.0.0 dmp.amoad.com.rs.adtdp.com
 0.0.0.0 dmp.mgid.com
@@ -9949,8 +10016,10 @@
 0.0.0.0 dsp-wa2.mgid.com
 0.0.0.0 dsp.adotmob.com
 0.0.0.0 dsp.adriver.ru
+0.0.0.0 dsp.adtelligent.com
 0.0.0.0 dsp.adviad.com
 0.0.0.0 dsp.adxadserv.com
+0.0.0.0 dsp.ali213.net
 0.0.0.0 dsp.appnext.com
 0.0.0.0 dsp.batmobi.net
 0.0.0.0 dsp.mgid.com
@@ -9958,6 +10027,9 @@
 0.0.0.0 dsp.rayjump.com
 0.0.0.0 dsp.wtf
 0.0.0.0 dsp1.madnet.ru
+0.0.0.0 dsp111.adtelligent.com
+0.0.0.0 dsp3.adtelligent.com
+0.0.0.0 dsp35.adtelligent.com
 0.0.0.0 dspaction.wpu.sh
 0.0.0.0 dspapi.cndreamer.cn
 0.0.0.0 dspapi.dipaojiu.cn
@@ -10255,10 +10327,12 @@
 0.0.0.0 ecoupons.com
 0.0.0.0 ecpa.pw
 0.0.0.0 ecpmrank.appcpi.net
+0.0.0.0 ecrtb.adtelligent.com
 0.0.0.0 ecs.demdex.net
 0.0.0.0 ecs.page.link
 0.0.0.0 ecto-ecto-uno.com
 0.0.0.0 ecto.flurry.com
+0.0.0.0 ecudevtools.com
 0.0.0.0 ecure.audienceinsights.net
 0.0.0.0 ecydia.com
 0.0.0.0 edc.adform.net
@@ -10661,6 +10735,7 @@
 0.0.0.0 euroshopmarket.hu
 0.0.0.0 euroshoroom.com
 0.0.0.0 eurpuma.com
+0.0.0.0 eurtb.adtelligent.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 euscomshop.com
 0.0.0.0 eutest.livejasmin.com
@@ -11824,6 +11899,8 @@
 0.0.0.0 ggsfq.com
 0.0.0.0 ggunauhe.com
 0.0.0.0 ghb.adtelligent.com
+0.0.0.0 ghb1.adtelligent.com
+0.0.0.0 ghb2.adtelligent.com
 0.0.0.0 ghcncwmm.com
 0.0.0.0 ghostvogue.com
 0.0.0.0 ghoto-12.win
@@ -11959,6 +12036,7 @@
 0.0.0.0 go.ad1data.com
 0.0.0.0 go.addthis.com
 0.0.0.0 go.adroll.com
+0.0.0.0 go.adtelligent.com
 0.0.0.0 go.adversal.com
 0.0.0.0 go.adxadserv.com
 0.0.0.0 go.airpush.com
@@ -12144,6 +12222,7 @@
 0.0.0.0 greedseed.world
 0.0.0.0 green-red.com
 0.0.0.0 greenads.org
+0.0.0.0 greencodeteam.top
 0.0.0.0 greencompute.org
 0.0.0.0 greengaming.de
 0.0.0.0 greenheartmed.org
@@ -12404,6 +12483,7 @@
 0.0.0.0 hb-analytics.hotstar.com
 0.0.0.0 hb-as.adtech.advertising.com
 0.0.0.0 hb-us.adtech.advertising.com
+0.0.0.0 hb.adtelligent.com
 0.0.0.0 hb.adx.adform.net
 0.0.0.0 hb.adx2.adform.net
 0.0.0.0 hb.brainlyads.com
@@ -12411,10 +12491,13 @@
 0.0.0.0 hb.nexage.com
 0.0.0.0 hb.rayjump.com
 0.0.0.0 hb.ssp.advertising.com
+0.0.0.0 hb2.adtelligent.com
 0.0.0.0 hb22d.bemobtrk.com
 0.0.0.0 hbatterysaver2017.r.xoxknct.com
 0.0.0.0 hbatterysaver2017.s.xoxknct.com
 0.0.0.0 hbbtv.mediaset.net
+0.0.0.0 hbmp-support.adtelligent.com
+0.0.0.0 hbmp.adtelligent.com
 0.0.0.0 hbopenbid-lhr.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid22000nf.pubmatic.com
@@ -13469,6 +13552,7 @@
 0.0.0.0 install.easy-pdf.com
 0.0.0.0 install.incognitosearches.com
 0.0.0.0 install.stream-all.com
+0.0.0.0 installcb.ru
 0.0.0.0 instametall.de
 0.0.0.0 instant.page
 0.0.0.0 instantbannercreator.com
@@ -15178,6 +15262,7 @@
 0.0.0.0 loyalinvadeballoon.com
 0.0.0.0 loyaltrend-de.com
 0.0.0.0 lp.adpushup.com
+0.0.0.0 lp.adtelligent.com
 0.0.0.0 lp.appsflyer.com
 0.0.0.0 lp.cooktracking.com
 0.0.0.0 lp.interwetten.de
@@ -15927,6 +16012,7 @@
 0.0.0.0 mellowads.com
 0.0.0.0 melodyrun.music.s.xoxknct.com
 0.0.0.0 melredirnxt.top
+0.0.0.0 member-zone.adtelligent.com
 0.0.0.0 members.popcash.net
 0.0.0.0 memeglobal.com
 0.0.0.0 memoapps.page.link
@@ -18699,6 +18785,7 @@
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel-test.tapad.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
+0.0.0.0 pixel-ua.adtelligent.com
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 pixel.1und1.de
@@ -20534,11 +20621,15 @@
 0.0.0.0 puserving.com
 0.0.0.0 push-api.duowan.com
 0.0.0.0 push-cdn.wshareit.com
+0.0.0.0 push-dsp.adtelligent.com
 0.0.0.0 push-me-up.com
 0.0.0.0 push-notifications.top
+0.0.0.0 push-sender.adtelligent.com
+0.0.0.0 push-subscription.adtelligent.com
 0.0.0.0 push-video.wshareit.com
 0.0.0.0 push.adright.co
 0.0.0.0 push.adsconverts.com
+0.0.0.0 push.adtelligent.com
 0.0.0.0 push.c0nect.com
 0.0.0.0 push.clickadilla.com
 0.0.0.0 push.ez123support.com
@@ -20570,6 +20661,7 @@
 0.0.0.0 pusheds.info
 0.0.0.0 pushedwebnews.com
 0.0.0.0 pushengage.com
+0.0.0.0 pusher.adtelligent.com
 0.0.0.0 pusher.feed-xml.com
 0.0.0.0 pushflew.com
 0.0.0.0 pushfullimitsdrunken.com
@@ -21614,6 +21706,7 @@
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 rtb.admixer.co.kr
 0.0.0.0 rtb.adpone.com
+0.0.0.0 rtb.adtelligent.com
 0.0.0.0 rtb.applovin.com
 0.0.0.0 rtb.cmcm.com
 0.0.0.0 rtb.exoclick.com
@@ -21733,6 +21826,7 @@
 0.0.0.0 s.ad6media.fr
 0.0.0.0 s.admaym.com
 0.0.0.0 s.adroll.com
+0.0.0.0 s.adtelligent.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.analytics.yahoo.com
 0.0.0.0 s.appjiagu.com
@@ -22827,6 +22921,7 @@
 0.0.0.0 snw-inv-eu.admixer.net
 0.0.0.0 so-excited.com
 0.0.0.0 so-ext-tf.rlcdn.com
+0.0.0.0 so.ali213.net
 0.0.0.0 so.rlcdn.com
 0.0.0.0 soaheeme.net
 0.0.0.0 soap-sandbox.direct.yandex.com
@@ -23302,6 +23397,7 @@
 0.0.0.0 stathat.com
 0.0.0.0 stati.in
 0.0.0.0 static-act.like-video.com
+0.0.0.0 static-aws.adtelligent.com
 0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static-cdn.hotjar.com
 0.0.0.0 static-devex.adblade.com
@@ -23325,6 +23421,7 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.adsnative.com
+0.0.0.0 static.adtelligent.com
 0.0.0.0 static.adtrue.com
 0.0.0.0 static.adtrue24.com
 0.0.0.0 static.adultsonly.pro
@@ -23798,12 +23895,15 @@
 0.0.0.0 sync-ayl.adotmob.com
 0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync-staging.atsptp.com
+0.0.0.0 sync-ua.adtelligent.com
+0.0.0.0 sync-us.adtelligent.com
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 sync.adhese.com
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.admixer.co.kr
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.adtelligent.com
 0.0.0.0 sync.adviad.com
 0.0.0.0 sync.connectad.io
 0.0.0.0 sync.fastclick.net
@@ -23821,6 +23921,7 @@
 0.0.0.0 sync.teamrtb.net
 0.0.0.0 sync.users-api.com
 0.0.0.0 sync01.engageya.com
+0.0.0.0 sync2.adtelligent.com
 0.0.0.0 sync2.audtd.com
 0.0.0.0 sync3.adsniper.ru
 0.0.0.0 synchroscript.adswizz.com
@@ -24549,6 +24650,7 @@
 0.0.0.0 tpjmx.listenmusic.fun
 0.0.0.0 tpladserver.com
 0.0.0.0 tpnads.com
+0.0.0.0 tpolygon.adtelligent.com
 0.0.0.0 tps.sj2.fastclick.net
 0.0.0.0 tpxur.top
 0.0.0.0 tr-255418.datatrics.com
@@ -25436,6 +25538,7 @@
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.adultvideoscript.com
 0.0.0.0 tracker.airpush.com
+0.0.0.0 tracker.ali213.net
 0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.bang.com
 0.0.0.0 tracker.bestshopping.com
@@ -26502,6 +26605,7 @@
 0.0.0.0 vemba.com
 0.0.0.0 vendexo.com
 0.0.0.0 vendosupport.com
+0.0.0.0 venerynnet1.top
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 venetrigni.com
 0.0.0.0 venotrouble.biz
@@ -26604,6 +26708,7 @@
 0.0.0.0 video-vcdn.fastclick.net
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video.admixer.net
+0.0.0.0 video.adtelligent.com
 0.0.0.0 video.alxbgo.com
 0.0.0.0 video.appsdownld.com
 0.0.0.0 video.batmobi.net
@@ -26977,6 +27082,7 @@
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 wcmcs.net
 0.0.0.0 wcrgl.adultgames.fun
+0.0.0.0 wcrtb.adtelligent.com
 0.0.0.0 wctrk.com
 0.0.0.0 wd-edge.sharethis.com
 0.0.0.0 wd.adcolony.com
@@ -27000,6 +27106,7 @@
 0.0.0.0 web-analytics-collector.thescore.com
 0.0.0.0 web-analytics-us.huami.com
 0.0.0.0 web-analytics.us-west-2.elasticbeanstalk.com
+0.0.0.0 web-development-networks.com
 0.0.0.0 web-stat.com
 0.0.0.0 web-stat.jpush.cn
 0.0.0.0 web.adblade.com
@@ -27046,6 +27153,7 @@
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 webmail.mmtimes.net
 0.0.0.0 webmarker.de
+0.0.0.0 webmaster.adtelligent.com
 0.0.0.0 webmastercentral.pc.cdn.bitgravity.com
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmine.cz
@@ -28014,6 +28122,7 @@
 0.0.0.0 www.intellipopup.com
 0.0.0.0 www.intellitxt.com
 0.0.0.0 www.intext.ero-advertising.com
+0.0.0.0 www.invch.com
 0.0.0.0 www.invitemedia.com
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioam.de
@@ -28439,6 +28548,7 @@
 0.0.0.0 www.superlb.xyz
 0.0.0.0 www.supersonicads.com
 0.0.0.0 www.supportmg.com
+0.0.0.0 www.svanaturals.com
 0.0.0.0 www.t.skimresources.com
 0.0.0.0 www.t1008568044.org
 0.0.0.0 www.t1066571916.org
@@ -28967,6 +29077,7 @@
 0.0.0.0 xml.xmlking.com
 0.0.0.0 xml2.adkernel.com
 0.0.0.0 xmlads.bid
+0.0.0.0 xmlfeed3.adtelligent.com
 0.0.0.0 xmlppcbuzz.com
 0.0.0.0 xmr-tw.org
 0.0.0.0 xmr.pt
