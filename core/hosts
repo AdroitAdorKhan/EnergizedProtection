@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.261
 # Release: 261
-# Entries: 29,486
+# Entries: 29,497
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 18 Sep 21 15:50:17
+# Updated: Sat, 18 Sep 21 17:52:15
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6257,6 +6257,7 @@
 0.0.0.0 bienes-kleintierpension.net
 0.0.0.0 bieyt.com
 0.0.0.0 big-files.adform.net
+0.0.0.0 big.hitcashtag.com
 0.0.0.0 bigbagharbeck.de
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
@@ -7131,6 +7132,7 @@
 0.0.0.0 cdn-s7.cfeucdn.com
 0.0.0.0 cdn-s8.cfeucdn.com
 0.0.0.0 cdn-s9.cfeucdn.com
+0.0.0.0 cdn-sd3428.hitcashtag.com
 0.0.0.0 cdn-sdk-opt.getui.com
 0.0.0.0 cdn-sec.tacoda.at.atwola.com
 0.0.0.0 cdn-swell-assets.yotpo.com
@@ -7237,6 +7239,7 @@
 0.0.0.0 cdn.gotraffic.net
 0.0.0.0 cdn.hasmobi.net
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 cdn.hitcashtag.com
 0.0.0.0 cdn.hoood.info
 0.0.0.0 cdn.ht.trafficforce.com
 0.0.0.0 cdn.hybridclient.naiadsystems.com
@@ -7469,6 +7472,7 @@
 0.0.0.0 cds.connatix.com
 0.0.0.0 cds.taboola.com
 0.0.0.0 cdu-ortsverband-neustadt.de
+0.0.0.0 cdx.hitcashtag.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 ce.rdtcdn.com
 0.0.0.0 ce3e75d5.jpush.cn
@@ -7905,6 +7909,7 @@
 0.0.0.0 cloud.appcelerator.net
 0.0.0.0 cloud.chatbeacon.io
 0.0.0.0 cloud.fastx.cf
+0.0.0.0 cloud.hitcashtag.com
 0.0.0.0 cloud.splunk.com
 0.0.0.0 cloud.uc.cn
 0.0.0.0 cloud2.appcelerator.net
@@ -11880,6 +11885,7 @@
 0.0.0.0 getpopunder.com
 0.0.0.0 getpushmonkey.com
 0.0.0.0 getscorecash.com
+0.0.0.0 getstarted-facebook.com
 0.0.0.0 getstarted.infolinks.com
 0.0.0.0 getstarted.trafficjunky.com
 0.0.0.0 getui.com
@@ -12704,6 +12710,7 @@
 0.0.0.0 hit9.hotlog.ru
 0.0.0.0 hitboom.net
 0.0.0.0 hitbox.com
+0.0.0.0 hitcashtag.com
 0.0.0.0 hitcents.com
 0.0.0.0 hitechworld.biz
 0.0.0.0 hitfarm.com
@@ -15654,6 +15661,7 @@
 0.0.0.0 management-api.agkn.com
 0.0.0.0 management.exoclick.com
 0.0.0.0 manager.cheetahgo.cmcm.com
+0.0.0.0 manager.hitcashtag.com
 0.0.0.0 mancegrative.info
 0.0.0.0 mandhes.club
 0.0.0.0 manga10001.com
@@ -21869,6 +21877,7 @@
 0.0.0.0 s.update.mopub.com
 0.0.0.0 s.update.openx.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
+0.0.0.0 s.vi-serve.com
 0.0.0.0 s.viicoat.com
 0.0.0.0 s.viicopy.com
 0.0.0.0 s.wshareit.com
@@ -24047,6 +24056,7 @@
 0.0.0.0 tag.adincube.com
 0.0.0.0 tag.adkernel.com
 0.0.0.0 tag.adpnut.com
+0.0.0.0 tag.adurl.io
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.clrstm.com
 0.0.0.0 tag.crsspxl.com
@@ -27461,6 +27471,7 @@
 0.0.0.0 wpk-auth.ucweb.com
 0.0.0.0 wps.clickadilla.com
 0.0.0.0 wps.zog.link
+0.0.0.0 wpsafelinkads.notesbook.in
 0.0.0.0 wpsapp.page.link
 0.0.0.0 wpu.sh
 0.0.0.0 wqnmbecaugfpl.com
