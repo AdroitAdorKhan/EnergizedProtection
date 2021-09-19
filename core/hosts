@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.262
-# Release: 262
-# Entries: 29,629
+# Version: 21.09.263
+# Release: 263
+# Entries: 29,628
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 19 Sep 21 23:52:17
+# Updated: Mon, 20 Sep 21 05:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20640,7 +20640,6 @@
 0.0.0.0 pub-resources.nativo.com
 0.0.0.0 pub.automatad.com
 0.0.0.0 pub.chez.com
-0.0.0.0 pub.fotmob.com
 0.0.0.0 pub.javwide.com
 0.0.0.0 pub.nakedreel.com
 0.0.0.0 pub.network
