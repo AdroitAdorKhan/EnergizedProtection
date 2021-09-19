@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.262
 # Release: 262
-# Entries: 29,498
+# Entries: 29,500
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 19 Sep 21 05:52:16
+# Updated: Sun, 19 Sep 21 11:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9167,6 +9167,7 @@
 0.0.0.0 d213cc9tw38vai.cloudfront.net
 0.0.0.0 d231vab146qzfb.cloudfront.net
 0.0.0.0 d24ak3f2b.top
+0.0.0.0 d24tpq3dxz8t7t.cloudfront.net
 0.0.0.0 d28n7yywqog3r7.cloudfront.net
 0.0.0.0 d28s7kbgrs6h2f.cloudfront.net
 0.0.0.0 d29xw9s9x32j3w.cloudfront.net
@@ -20367,6 +20368,7 @@
 0.0.0.0 prod.embut.manycomponents.com
 0.0.0.0 prod.green-red.com
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 prod.sophi.io
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prod.webpu.sh
