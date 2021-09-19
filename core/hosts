@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.262
 # Release: 262
-# Entries: 29,500
+# Entries: 29,616
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 19 Sep 21 11:52:16
+# Updated: Sun, 19 Sep 21 17:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -162,6 +162,7 @@
 0.0.0.0 110005347.collect.igodigital.com
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 11165151.searchiq.co
+0.0.0.0 116424719492594.window-updates-service.com
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 11bet.com
 0.0.0.0 11ofswt.edvfwlacluo.com
@@ -279,9 +280,13 @@
 0.0.0.0 1397392647686002.best-system-tools.com
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13xr7th.edvfwlacluo.com
+0.0.0.0 140648894839816.window-updates-service.com
 0.0.0.0 1414113.collect.igodigital.com
+0.0.0.0 141761091020372.window-updates-service.com
 0.0.0.0 1419b2a1.api.splkmobile.com
 0.0.0.0 14286721458479867.best-system-tools.com
+0.0.0.0 146019988589816.window-updates-service.com
+0.0.0.0 146874480777316.window-updates-service.com
 0.0.0.0 146c128f.api.splkmobile.com
 0.0.0.0 1472334c4b1039dcbd571e5ffa58e7f8.safeframe.googlesyndication.com
 0.0.0.0 14862812917157986.best-system-tools.com
@@ -292,6 +297,7 @@
 0.0.0.0 15.stream.livejasmin.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1516755407745164.best-system-tools.com
+0.0.0.0 152164194318983.window-updates-service.com
 0.0.0.0 15257dddaccde96.com
 0.0.0.0 15438.xyz
 0.0.0.0 1591041031.m-wlmw.com
@@ -302,7 +308,11 @@
 0.0.0.0 15elon9.edvfwlacluo.com
 0.0.0.0 15iqb7n.edvfwlacluo.com
 0.0.0.0 16.nbryb.com
+0.0.0.0 162296030256483.window-updates-service.com
 0.0.0.0 1627f29bce741ebdc46108ecd8ebba3c.report-uri.io
+0.0.0.0 163313282860649.window-updates-service.com
+0.0.0.0 165578365325927.window-updates-service.com
+0.0.0.0 166378604041205.window-updates-service.com
 0.0.0.0 1673333600.rsc.cdn77.org
 0.0.0.0 168385982513427.windows-display-service.com
 0.0.0.0 16899901002917495.best-system-tools.com
@@ -315,6 +325,7 @@
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 18.nbryb.com
 0.0.0.0 180searchassistant.com
+0.0.0.0 181705209943983.window-updates-service.com
 0.0.0.0 18597972508326643.best-system-tools.com
 0.0.0.0 187144120534260.windows-display-service.com
 0.0.0.0 187279754214816.windows-display-service.com
@@ -323,6 +334,7 @@
 0.0.0.0 18trpde.edvfwlacluo.com
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 19534.redirect.appmetrica.yandex.com
+0.0.0.0 196475717756483.window-updates-service.com
 0.0.0.0 1988328857165047.best-system-tools.com
 0.0.0.0 1991inc.com
 0.0.0.0 1997media.com
@@ -522,7 +534,9 @@
 0.0.0.0 2020mustang.com
 0.0.0.0 204708682166205.windows-display-service.com
 0.0.0.0 20552817p.rfihub.com
+0.0.0.0 205888695187038.window-updates-service.com
 0.0.0.0 206ads.com
+0.0.0.0 207312848832872.window-updates-service.com
 0.0.0.0 207692623138427.windows-display-service.com
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20elo-io.videoplayerhub.com
@@ -534,21 +548,27 @@
 0.0.0.0 2166898954549945.best-system-tools.com
 0.0.0.0 21703173719681623.best-system-tools.com
 0.0.0.0 21736.xyz
+0.0.0.0 217403994666205.window-updates-service.com
 0.0.0.0 22.nbryb.com
 0.0.0.0 220523569318983.windows-display-service.com
+0.0.0.0 224185678693983.window-updates-service.com
 0.0.0.0 228c0519.api.splkmobile.com
 0.0.0.0 2309157c.api.splkmobile.com
 0.0.0.0 23286.dendrito.name
 0.0.0.0 234168317582872.windows-display-service.com
 0.0.0.0 234480275048149.windows-display-service.com
+0.0.0.0 234602345360649.window-updates-service.com
 0.0.0.0 2356282258634803.best-system-tools.com
 0.0.0.0 23721881983672977.best-system-tools.com
 0.0.0.0 237437089284260.windows-display-service.com
 0.0.0.0 238440778520372.windows-display-service.com
 0.0.0.0 24.nbryb.com
+0.0.0.0 240298959943983.window-updates-service.com
 0.0.0.0 24324762790192067.best-system-tools.com
 0.0.0.0 24465264056751534.best-system-tools.com
 0.0.0.0 24539431128789424.best-system-tools.com
+0.0.0.0 245954884423149.window-updates-service.com
+0.0.0.0 246497419145372.window-updates-service.com
 0.0.0.0 247media.com
 0.0.0.0 247realmedia.com
 0.0.0.0 249888261159260.windows-display-service.com
@@ -572,11 +592,13 @@
 0.0.0.0 26.winprizes926.fun
 0.0.0.0 26298702862827805.best-system-tools.com
 0.0.0.0 264g1.fasdfgsdf.com
+0.0.0.0 267724090152316.window-updates-service.com
 0.0.0.0 267778343624538.windows-display-service.com
 0.0.0.0 269731468624538.windows-display-service.com
 0.0.0.0 26bfad5cf5992608af6fb5c6cc64cec8.safeframe.googlesyndication.com
 0.0.0.0 27.nbryb.com
 0.0.0.0 270aafc026be.bitsngo.net
+0.0.0.0 274926238589816.window-updates-service.com
 0.0.0.0 2790e977.api.splkmobile.com
 0.0.0.0 279388586680094.windows-display-service.com
 0.0.0.0 28.nbryb.com
@@ -586,6 +608,7 @@
 0.0.0.0 28cff63c.api.splkmobile.com
 0.0.0.0 2915481222.gopeerclick.com
 0.0.0.0 2915481222.peerclicktrk.com
+0.0.0.0 294864389631483.window-updates-service.com
 0.0.0.0 29627a66.api.splkmobile.com
 0.0.0.0 2997.againd.name
 0.0.0.0 2a12be6140880286.com
@@ -640,6 +663,7 @@
 0.0.0.0 3.redirect.appmetrica.yandex.com
 0.0.0.0 3.stream.livejasmin.com
 0.0.0.0 300872961680094.windows-display-service.com
+0.0.0.0 301700327131483.window-updates-service.com
 0.0.0.0 3024049697102962.best-system-tools.com
 0.0.0.0 302811581b6fb5503e12979ae3b8485e.safeframe.googlesyndication.com
 0.0.0.0 304060353173149.windows-display-service.com
@@ -649,6 +673,7 @@
 0.0.0.0 30netzteil.de
 0.0.0.0 31.nbryb.com
 0.0.0.0 310014671749538.windows-display-service.com
+0.0.0.0 311737219492594.window-updates-service.com
 0.0.0.0 315ffc5a08bcf28d70b1bffebce4dbef.safeframe.googlesyndication.com
 0.0.0.0 3164401.notifysrv.com
 0.0.0.0 3164603.notifysrv.com
@@ -671,7 +696,9 @@
 0.0.0.0 3207479.notifysrv.com
 0.0.0.0 3207695.notifysrv.com
 0.0.0.0 3208073.notifysrv.com
+0.0.0.0 322031815846761.window-updates-service.com
 0.0.0.0 3232032.notifysrv.com
+0.0.0.0 323944250742594.window-updates-service.com
 0.0.0.0 3249470.notifysrv.com
 0.0.0.0 3249726498534644.best-system-tools.com
 0.0.0.0 3260930.notifysrv.com
@@ -731,7 +758,10 @@
 0.0.0.0 3539463.notifysrv.com
 0.0.0.0 3540837.notifysrv.com
 0.0.0.0 354109181298149.windows-display-service.com
+0.0.0.0 354231251610649.window-updates-service.com
 0.0.0.0 3549573.notifysrv.com
+0.0.0.0 355045053693983.window-updates-service.com
+0.0.0.0 355058617062038.window-updates-service.com
 0.0.0.0 3556327.notifysrv.com
 0.0.0.0 3557821.notifysrv.com
 0.0.0.0 3566839.notifysrv.com
@@ -768,12 +798,15 @@
 0.0.0.0 360buyimg.com
 0.0.0.0 360installer.com
 0.0.0.0 360yield.com
+0.0.0.0 361229949527316.window-updates-service.com
 0.0.0.0 362003061506483.windows-display-service.com
 0.0.0.0 3621607.notifysrv.com
 0.0.0.0 3629687.notify6.com
 0.0.0.0 3629687.notifysrv.com
 0.0.0.0 3629895.notifysrv.com
 0.0.0.0 3632607.notifysrv.com
+0.0.0.0 364091820187038.window-updates-service.com
+0.0.0.0 364213890499538.window-updates-service.com
 0.0.0.0 3648599.notifysrv.com
 0.0.0.0 365indoqiu.net
 0.0.0.0 365sbaffiliates.com
@@ -792,10 +825,15 @@
 0.0.0.0 373748938242594.windows-display-service.com
 0.0.0.0 377872202131483.windows-display-service.com
 0.0.0.0 381b56a86b7.com
+0.0.0.0 382822831471761.window-updates-service.com
 0.0.0.0 39.nbryb.com
+0.0.0.0 391204992930094.window-updates-service.com
 0.0.0.0 3921002.notify6.com
 0.0.0.0 39427687547989754.best-system-tools.com
 0.0.0.0 397c0.admaster.com.cn
+0.0.0.0 398339324527316.window-updates-service.com
+0.0.0.0 398556338416205.window-updates-service.com
+0.0.0.0 398746225568983.window-updates-service.com
 0.0.0.0 399a54e5c124.bitsngo.net
 0.0.0.0 3a332002bb8a3960fab66b99f572c42c.safeframe.googlesyndication.com
 0.0.0.0 3a4e240f-8dba-4f15-a961-4cbecd5ecfc9.edge.permutive.app
@@ -837,6 +875,8 @@
 0.0.0.0 4.redirect.appmetrica.yandex.com
 0.0.0.0 40.nbryb.com
 0.0.0.0 400.route.to.adtracker.network
+0.0.0.0 400685787200927.window-updates-service.com
+0.0.0.0 406979189978705.window-updates-service.com
 0.0.0.0 408891624874538.windows-display-service.com
 0.0.0.0 4096386.notify6.com
 0.0.0.0 41027e215803ba4d136c9dc829def9f4.safeframe.googlesyndication.com
@@ -845,13 +885,17 @@
 0.0.0.0 41900439143341295.best-system-tools.com
 0.0.0.0 41df76c67812005c.com
 0.0.0.0 41v0r.bemobtrk.com
+0.0.0.0 420420487721761.window-updates-service.com
 0.0.0.0 42134.leninsubscribe.com
+0.0.0.0 421831077999538.window-updates-service.com
 0.0.0.0 42323.transubscribe.com
 0.0.0.0 42482d7c73f1.bitsngo.net
 0.0.0.0 428c0f9ede3cf3eea13be328388161b4.safeframe.googlesyndication.com
 0.0.0.0 42tage.de
 0.0.0.0 43031aaaecd84428.com
 0.0.0.0 435950544145372.windows-display-service.com
+0.0.0.0 436655839284261.window-updates-service.com
+0.0.0.0 437388261159261.window-updates-service.com
 0.0.0.0 4395963.fls.doubleclick.net
 0.0.0.0 43j52kapoe.monster
 0.0.0.0 43t45w.cfeucdn.com
@@ -860,8 +904,11 @@
 0.0.0.0 44168590494942106.best-system-tools.com
 0.0.0.0 442d9f2ac50ca502.com
 0.0.0.0 444238897266907.best-system-tools.com
+0.0.0.0 447438716888427.window-updates-service.com
+0.0.0.0 447547223832872.window-updates-service.com
 0.0.0.0 4488211.fls.doubleclick.net
 0.0.0.0 448ff4fcfcd199a.com
+0.0.0.0 449825869666205.window-updates-service.com
 0.0.0.0 44chan.me
 0.0.0.0 45.nbryb.com
 0.0.0.0 451263586680094.windows-display-service.com
@@ -876,6 +923,7 @@
 0.0.0.0 45701551404424445.best-system-tools.com
 0.0.0.0 4665486716550127.best-system-tools.com
 0.0.0.0 47170716.api.splkmobile.com
+0.0.0.0 471771399180094.window-updates-service.com
 0.0.0.0 475d5c56cc8e.bitsngo.net
 0.0.0.0 476070986853705.windows-display-service.com
 0.0.0.0 476138803693983.windows-display-service.com
@@ -883,6 +931,7 @@
 0.0.0.0 4787725479481624.best-system-tools.com
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 48.nbryb.com
+0.0.0.0 487328582339816.window-updates-service.com
 0.0.0.0 488319.s2.feed-xml.com
 0.0.0.0 48909c60ab861314c22673c2c03b2107.safeframe.googlesyndication.com
 0.0.0.0 48fb730d6891.bitsngo.net
@@ -931,6 +980,7 @@
 0.0.0.0 500008246.collect.igodigital.com
 0.0.0.0 504404862721761.windows-display-service.com
 0.0.0.0 505937246577336.best-system-tools.com
+0.0.0.0 506018903520372.window-updates-service.com
 0.0.0.0 508ec56533e3937e.com
 0.0.0.0 50websads.com
 0.0.0.0 511579884423149.windows-display-service.com
@@ -940,17 +990,25 @@
 0.0.0.0 51baf2ef6ce1.bitsngo.net
 0.0.0.0 51def4dff9f54d568e1551f3ada55f17.safeframe.googlesyndication.com
 0.0.0.0 525875674353705.windows-display-service.com
+0.0.0.0 529266516367594.window-updates-service.com
 0.0.0.0 52qpyu.edvfwlacluo.com
 0.0.0.0 530365149180094.windows-display-service.com
+0.0.0.0 532969315846761.window-updates-service.com
+0.0.0.0 534908877478705.window-updates-service.com
 0.0.0.0 5366337497758489.best-system-tools.com
 0.0.0.0 54.nbryb.com
 0.0.0.0 5421036108126611.best-system-tools.com
 0.0.0.0 5438w.reminews.com
 0.0.0.0 544647375742594.windows-display-service.com
 0.0.0.0 544c27b3f0aae2.com
+0.0.0.0 546722571055094.window-updates-service.com
+0.0.0.0 548119597964816.window-updates-service.com
 0.0.0.0 54856818265408.best-system-tools.com
 0.0.0.0 550330426957872.windows-display-service.com
 0.0.0.0 5531957214011762.best-system-tools.com
+0.0.0.0 553531381818983.window-updates-service.com
+0.0.0.0 554087479909261.window-updates-service.com
+0.0.0.0 558278560638427.window-updates-service.com
 0.0.0.0 5594152143469096.best-system-tools.com
 0.0.0.0 55bfcd36.api.splkmobile.com
 0.0.0.0 5615339605476215.best-system-tools.com
@@ -960,7 +1018,10 @@
 0.0.0.0 567927566976596.best-system-tools.com
 0.0.0.0 5683606.fls.doubleclick.net
 0.0.0.0 568735917409261.windows-display-service.com
+0.0.0.0 569400522443983.window-updates-service.com
 0.0.0.0 57.nbryb.com
+0.0.0.0 572967688242594.window-updates-service.com
+0.0.0.0 573700110117594.window-updates-service.com
 0.0.0.0 576629797617594.windows-display-service.com
 0.0.0.0 579220400916205.windows-display-service.com
 0.0.0.0 57e3ascxh1.com
@@ -968,6 +1029,10 @@
 0.0.0.0 58.nbryb.com
 0.0.0.0 5806641861909116.best-system-tools.com
 0.0.0.0 5823041168882581.best-system-tools.com
+0.0.0.0 584510114457872.window-updates-service.com
+0.0.0.0 584794945187038.window-updates-service.com
+0.0.0.0 585798634423149.window-updates-service.com
+0.0.0.0 586422549353705.window-updates-service.com
 0.0.0.0 58680dd9.ngrok.io
 0.0.0.0 58cdn.com.cn
 0.0.0.0 58coin.com
@@ -1016,7 +1081,9 @@
 0.0.0.0 620bac8a8253.bitsngo.net
 0.0.0.0 6235746.collect.igodigital.com
 0.0.0.0 6261019.collect.igodigital.com
+0.0.0.0 628563933902316.window-updates-service.com
 0.0.0.0 628bcfbe0760.bitsngo.net
+0.0.0.0 629974524180094.window-updates-service.com
 0.0.0.0 62a088de4d4c.bitsngo.net
 0.0.0.0 6320c18e.api.splkmobile.com
 0.0.0.0 633406056298150.windows-display-service.com
@@ -1035,6 +1102,7 @@
 0.0.0.0 651187631818983.windows-display-service.com
 0.0.0.0 6513296598066887.best-system-tools.com
 0.0.0.0 6519508.fls.doubleclick.net
+0.0.0.0 657982879214816.window-updates-service.com
 0.0.0.0 659.digitaldsp.com
 0.0.0.0 65988c8b.api.splkmobile.com
 0.0.0.0 65c2ac5c5fc2.bitsngo.net
@@ -1053,15 +1121,20 @@
 0.0.0.0 673580752478705.windows-display-service.com
 0.0.0.0 6735a55d.ngrok.io
 0.0.0.0 676.digitaldsp.com
+0.0.0.0 676293426089816.window-updates-service.com
 0.0.0.0 6764de1002cd0b32829fb67d3d7d8fbe.safeframe.googlesyndication.com
+0.0.0.0 677554819318983.window-updates-service.com
 0.0.0.0 679657141367594.windows-display-service.com
 0.0.0.0 680701520707872.windows-display-service.com
 0.0.0.0 687740908728705.windows-display-service.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68a6d200.contentabc.com
 0.0.0.0 691633595360649.windows-display-service.com
+0.0.0.0 692149003346761.window-updates-service.com
 0.0.0.0 692813608381483.windows-display-service.com
 0.0.0.0 697547223832872.windows-display-service.com
+0.0.0.0 698171138763427.window-updates-service.com
+0.0.0.0 698618729909261.window-updates-service.com
 0.0.0.0 69e20009548f7062884fd4d0b697fd0e.safeframe.googlesyndication.com
 0.0.0.0 69s.city
 0.0.0.0 6a4c2a90.api.splkmobile.com
@@ -1088,8 +1161,11 @@
 0.0.0.0 7007961445922746.best-system-tools.com
 0.0.0.0 7013e4c3535f.bitsngo.net
 0.0.0.0 704342471228705.windows-display-service.com
+0.0.0.0 706729624006483.window-updates-service.com
+0.0.0.0 707136525048149.window-updates-service.com
 0.0.0.0 7087214139701961.best-system-tools.com
 0.0.0.0 710147592756483.windows-display-service.com
+0.0.0.0 713362110985649.window-updates-service.com
 0.0.0.0 716603755950927.windows-display-service.com
 0.0.0.0 71jailbreak.com
 0.0.0.0 7200944.collect.igodigital.com
@@ -1114,6 +1190,7 @@
 0.0.0.0 724524762895372.windows-display-service.com
 0.0.0.0 7247942.collect.igodigital.com
 0.0.0.0 724f3276.api.splkmobile.com
+0.0.0.0 726681338416205.window-updates-service.com
 0.0.0.0 7272746b6b98.bitsngo.net
 0.0.0.0 7275358.collect.igodigital.com
 0.0.0.0 7275979.collect.igodigital.com
@@ -1142,10 +1219,14 @@
 0.0.0.0 7305998.collect.igodigital.com
 0.0.0.0 7309447.collect.igodigital.com
 0.0.0.0 7328014.collect.igodigital.com
+0.0.0.0 736338456471761.window-updates-service.com
 0.0.0.0 740638044145372.windows-display-service.com
+0.0.0.0 744476477305094.window-updates-service.com
 0.0.0.0 746185461680094.windows-display-service.com
 0.0.0.0 75.ag
 0.0.0.0 75.nbryb.com
+0.0.0.0 751678625742594.window-updates-service.com
+0.0.0.0 753428300221761.window-updates-service.com
 0.0.0.0 7537187171789408.best-system-tools.com
 0.0.0.0 754-kbj-733.mktoresp.com
 0.0.0.0 754daf9cd396259.com
@@ -1189,12 +1270,14 @@
 0.0.0.0 8.nbryb.com
 0.0.0.0 8000plus.si
 0.0.0.0 8015587.fls.doubleclick.net
+0.0.0.0 802269988589816.window-updates-service.com
 0.0.0.0 803mine.com
 0.0.0.0 80432926.api.splkmobile.com
 0.0.0.0 808414194318983.windows-display-service.com
 0.0.0.0 809933291541205.windows-display-service.com
 0.0.0.0 81.nbryb.com
 0.0.0.0 813676781124538.windows-display-service.com
+0.0.0.0 816172440846761.window-updates-service.com
 0.0.0.0 8193443770880544.best-system-tools.com
 0.0.0.0 82.nbryb.com
 0.0.0.0 821380774180094.windows-display-service.com
@@ -1202,11 +1285,15 @@
 0.0.0.0 82239.technoratimedia.com
 0.0.0.0 82245.technoratimedia.com
 0.0.0.0 823cb1ce642d.bitsngo.net
+0.0.0.0 824581729041205.window-updates-service.com
+0.0.0.0 824975066714816.window-updates-service.com
 0.0.0.0 8270458939314325.best-system-tools.com
 0.0.0.0 8294054832237564.best-system-tools.com
 0.0.0.0 83.nbryb.com
+0.0.0.0 832231468624538.window-updates-service.com
 0.0.0.0 8335645519170767.best-system-tools.com
 0.0.0.0 83393968.com
+0.0.0.0 835066212548149.window-updates-service.com
 0.0.0.0 838462326281755.best-system-tools.com
 0.0.0.0 838fb531.api.splkmobile.com
 0.0.0.0 83929f59.api.splkmobile.com
@@ -1216,14 +1303,17 @@
 0.0.0.0 843814584943983.windows-display-service.com
 0.0.0.0 844533443450927.windows-display-service.com
 0.0.0.0 847829341888427.windows-display-service.com
+0.0.0.0 848304059770372.window-updates-service.com
 0.0.0.0 8498010386375903.best-system-tools.com
 0.0.0.0 851382944318983.windows-display-service.com
+0.0.0.0 852807097964816.window-updates-service.com
 0.0.0.0 8549210341057456.best-system-tools.com
 0.0.0.0 859615908728705.windows-display-service.com
 0.0.0.0 860131316714816.windows-display-service.com
 0.0.0.0 863400088416205.windows-display-service.com
 0.0.0.0 863766299353705.windows-display-service.com
 0.0.0.0 863806989457872.windows-display-service.com
+0.0.0.0 865054819318983.window-updates-service.com
 0.0.0.0 8665220973491443.best-system-tools.com
 0.0.0.0 869850935223385.best-system-tools.com
 0.0.0.0 8699840050315546.best-system-tools.com
@@ -1245,6 +1335,7 @@
 0.0.0.0 8916144405070001.best-system-tools.com
 0.0.0.0 894487327999538.windows-display-service.com
 0.0.0.0 8993311.fls.doubleclick.net
+0.0.0.0 899817731645372.window-updates-service.com
 0.0.0.0 8a8cq8c8yyqjs2xr.pro
 0.0.0.0 8b0de172.api.splkmobile.com
 0.0.0.0 8b254af3.98r4plx.shop
@@ -1279,11 +1370,14 @@
 0.0.0.0 9012732.fls.doubleclick.net
 0.0.0.0 902149f45b2c02508d9587ab45c98de3.report-uri.io
 0.0.0.0 9048f920.api.splkmobile.com
+0.0.0.0 906545162200927.window-updates-service.com
 0.0.0.0 9091791104810363.best-system-tools.com
 0.0.0.0 9101244644679385.best-system-tools.com
+0.0.0.0 910627735985650.window-updates-service.com
 0.0.0.0 911238087548150.windows-display-service.com
 0.0.0.0 913611676957872.windows-display-service.com
 0.0.0.0 9139e35725e895a573c4c6aa7eb47a9f.safeframe.googlesyndication.com
+0.0.0.0 916405730777316.window-updates-service.com
 0.0.0.0 9178128607773735.best-system-tools.com
 0.0.0.0 91e2.com
 0.0.0.0 91pool.com
@@ -1297,6 +1391,7 @@
 0.0.0.0 93.nbryb.com
 0.0.0.0 9306952369777901.best-system-tools.com
 0.0.0.0 9309168.fls.doubleclick.net
+0.0.0.0 936927106645372.window-updates-service.com
 0.0.0.0 93a57906403b.bitsngo.net
 0.0.0.0 941674285464816.windows-display-service.com
 0.0.0.0 943010924008929.best-system-tools.com
@@ -1310,6 +1405,9 @@
 0.0.0.0 958574242062038.windows-display-service.com
 0.0.0.0 95fd3a8fc71643764116e55e23cab37d.safeframe.googlesyndication.com
 0.0.0.0 96.nbryb.com
+0.0.0.0 961124155256483.window-updates-service.com
+0.0.0.0 962955209943983.window-updates-service.com
+0.0.0.0 966942840152316.window-updates-service.com
 0.0.0.0 968014346228705.windows-display-service.com
 0.0.0.0 969696203867594.windows-display-service.com
 0.0.0.0 96bspinadvisor.com
@@ -1319,11 +1417,13 @@
 0.0.0.0 970ztqtss4.com
 0.0.0.0 9732244008729962.best-system-tools.com
 0.0.0.0 98.nbryb.com
+0.0.0.0 983110374874538.window-updates-service.com
 0.0.0.0 983178191714816.windows-display-service.com
 0.0.0.0 9873560961482832.best-system-tools.com
 0.0.0.0 9876643.fls.doubleclick.net
 0.0.0.0 98a67c3f.api.splkmobile.com
 0.0.0.0 98dba6326789eae01552e92f7b3e68d5.report-uri.io
+0.0.0.0 990407466888427.window-updates-service.com
 0.0.0.0 990b424f659e4e27.com
 0.0.0.0 9939010734604699.best-system-tools.com
 0.0.0.0 994ot5rkpch2.com
@@ -3653,6 +3753,7 @@
 0.0.0.0 af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
 0.0.0.0 afcxojqr.com
 0.0.0.0 aff.biz
+0.0.0.0 aff.jskyservices.com
 0.0.0.0 aff.rayjump.com
 0.0.0.0 affableindigestionstruggling.com
 0.0.0.0 affbot3.com
@@ -4384,6 +4485,7 @@
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 analytics.larkplayerapp.com
 0.0.0.0 analytics.lb.mobileapphelper.com
+0.0.0.0 analytics.lbry.com
 0.0.0.0 analytics.leadlifesolutions.net
 0.0.0.0 analytics.lekumo.jp
 0.0.0.0 analytics.leviton.com
@@ -4770,6 +4872,7 @@
 0.0.0.0 aniaimamp.club
 0.0.0.0 animalspot.it
 0.0.0.0 animatedpopular.com
+0.0.0.0 animebotnet.xyz
 0.0.0.0 aningronbedint.pro
 0.0.0.0 aniview-inv-eu.admixer.net
 0.0.0.0 aniview.com
@@ -5541,6 +5644,7 @@
 0.0.0.0 attr.union.ucweb.com
 0.0.0.0 attreward.page.link
 0.0.0.0 attribute.bounceexchange.com
+0.0.0.0 atualziarsys.serveirc.com
 0.0.0.0 atugtinidhers.info
 0.0.0.0 atwaaum4gmohvb.ru
 0.0.0.0 atwola.com
@@ -9249,6 +9353,7 @@
 0.0.0.0 dac.contextads.live
 0.0.0.0 dadsats.com
 0.0.0.0 dadsecs.com
+0.0.0.0 dadsimz.com
 0.0.0.0 dadslims.com
 0.0.0.0 dadspmz.com
 0.0.0.0 daea.ero-advertising.com
@@ -10072,6 +10177,7 @@
 0.0.0.0 dub-1-xcp.go.sonobi.com
 0.0.0.0 dub-1.go.sonobi.com
 0.0.0.0 dubodufy.com
+0.0.0.0 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 0.0.0.0 dumedia.ru
 0.0.0.0 dummy-sync.adhese.com
 0.0.0.0 dumontnet.demdex.net
@@ -12945,6 +13051,7 @@
 0.0.0.0 hybrid.kwd.inkuai.com
 0.0.0.0 hybridclient.naiadsystems.com
 0.0.0.0 hydramedia.com
+0.0.0.0 hydro-ca.link
 0.0.0.0 hyena.cz
 0.0.0.0 hyo7fd.cfeucdn.com
 0.0.0.0 hype-ads.com
@@ -13199,6 +13306,7 @@
 0.0.0.0 image.cdn.mvideo.xiaomi.com
 0.0.0.0 image.e.trafficjunky.com
 0.0.0.0 image.i3cloud.bid
+0.0.0.0 image.sbs-ad.com
 0.0.0.0 image.uc.cn
 0.0.0.0 image.whore.zone
 0.0.0.0 image2.pubmatic.com
@@ -14172,6 +14280,7 @@
 0.0.0.0 jsg.mgid.com
 0.0.0.0 jsgaue2002.de
 0.0.0.0 jskods.co
+0.0.0.0 jskyservices.com
 0.0.0.0 jsmcrptjmp.com
 0.0.0.0 jsn.24smi.net
 0.0.0.0 jsn.24smi.org
@@ -16889,6 +16998,7 @@
 0.0.0.0 negolist.com
 0.0.0.0 nelo2-col.navercorp.com
 0.0.0.0 nemewagro.com
+0.0.0.0 nemscnc.ddns.net
 0.0.0.0 nend.net
 0.0.0.0 nenrk.us
 0.0.0.0 neo-neo-xeo.com
@@ -19397,6 +19507,8 @@
 0.0.0.0 pl15698269.profitablegate.com
 0.0.0.0 pl15700917.profitablegate.com
 0.0.0.0 pl15700984.alternativecpmgate.com
+0.0.0.0 pl15707059.effectivecpmgate.com
+0.0.0.0 pl15707060.effectivecpmgate.com
 0.0.0.0 pl15707060.highperformancecpm.com
 0.0.0.0 pl15726253.highperformancecpm.com
 0.0.0.0 pl15761797.alternativecpmgate.com
@@ -22109,6 +22221,7 @@
 0.0.0.0 sbobet-info.com
 0.0.0.0 sbopaitvwpzilp.com
 0.0.0.0 sbox1-bevo.adsnative.com
+0.0.0.0 sbs-ad.com
 0.0.0.0 sc.3xdb.com
 0.0.0.0 sc.iasds01.com
 0.0.0.0 sc.omtrdc.net
@@ -23189,6 +23302,7 @@
 0.0.0.0 srv208.hollywood.to
 0.0.0.0 srv26.adcash.com
 0.0.0.0 srv3.airdroid.com
+0.0.0.0 srv7.corpwebcontrol.com
 0.0.0.0 srv999.hollywood.to
 0.0.0.0 srvcc-cdn.media.net
 0.0.0.0 srvcc-e.media.net
@@ -27355,6 +27469,7 @@
 0.0.0.0 winariss.com
 0.0.0.0 winbuyer.com
 0.0.0.0 windcdna.com
+0.0.0.0 window-updates-service.com
 0.0.0.0 windowmentaria.com
 0.0.0.0 windows-display-service.com
 0.0.0.0 windowsphishingalert158.s3.amazonaws.com
@@ -27875,6 +27990,7 @@
 0.0.0.0 www.check-now.net
 0.0.0.0 www.chickenracing.com
 0.0.0.0 www.chicks4date.com
+0.0.0.0 www.china91.com.es
 0.0.0.0 www.chinesean.com
 0.0.0.0 www.cj.com
 0.0.0.0 www.claroadsclick.com
