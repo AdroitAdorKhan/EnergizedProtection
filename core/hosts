@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.263
 # Release: 263
-# Entries: 29,628
+# Entries: 29,629
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 20 Sep 21 05:52:16
+# Updated: Mon, 20 Sep 21 11:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -290,6 +290,7 @@
 0.0.0.0 146c128f.api.splkmobile.com
 0.0.0.0 1472334c4b1039dcbd571e5ffa58e7f8.safeframe.googlesyndication.com
 0.0.0.0 14862812917157986.best-system-tools.com
+0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 149366112.v2.pressablecdn.com
 0.0.0.0 14dc69dd.api.splkmobile.com
 0.0.0.0 14nuzznszbdp.com
