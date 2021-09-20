@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.263
 # Release: 263
-# Entries: 29,636
+# Entries: 29,641
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 20 Sep 21 17:52:16
+# Updated: Mon, 20 Sep 21 23:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10059,6 +10059,7 @@
 0.0.0.0 download.union.ucweb.com
 0.0.0.0 downloadables.xyz
 0.0.0.0 downloadcydiainstaller.weebly.com
+0.0.0.0 downloadhub.wtf
 0.0.0.0 downloadmobile.info
 0.0.0.0 downloadmobile.pro
 0.0.0.0 downloadmoobilee.info
@@ -11904,6 +11905,7 @@
 0.0.0.0 gdmdigital.com
 0.0.0.0 gdpr.adjust.net.in
 0.0.0.0 gdpr.adjust.world
+0.0.0.0 gdpr.api.dmp.nsaudience.pl
 0.0.0.0 gdpr.eu.adjust.com
 0.0.0.0 gdpr.liadm.com
 0.0.0.0 gdpr.tr.adjust.com
@@ -13711,6 +13713,8 @@
 0.0.0.0 interesting.cc
 0.0.0.0 interferegamblingsir.com
 0.0.0.0 interflow.youdao.com
+0.0.0.0 interia.api.dmp.nsaudience.pl
+0.0.0.0 interia.hit.gemius.pl
 0.0.0.0 intermarkets.net
 0.0.0.0 internal.mpx.mopub.com
 0.0.0.0 internal.v3.ads.mopub.com
@@ -14021,6 +14025,7 @@
 0.0.0.0 ivrose.com
 0.0.0.0 ivumo.de
 0.0.0.0 ivw-crawler.ioam.de
+0.0.0.0 iwa3.hit.interia.pl
 0.0.0.0 iwb-deployer-1.sys.adgear.com
 0.0.0.0 iwcase.com
 0.0.0.0 iwe8pzosa.appspot.com
