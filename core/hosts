@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.264
 # Release: 264
-# Entries: 29,674
+# Entries: 29,675
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 21 Sep 21 17:52:18
+# Updated: Tue, 21 Sep 21 23:52:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10879,6 +10879,7 @@
 0.0.0.0 evad3rs-devteam.com
 0.0.0.0 evad3rsjb.com
 0.0.0.0 evalpha.com
+0.0.0.0 evaly.pw
 0.0.0.0 evasi0njailbreak.com
 0.0.0.0 evasion-jailbreak.com
 0.0.0.0 evasion7.com
