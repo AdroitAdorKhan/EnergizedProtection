@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.264
-# Release: 264
-# Entries: 29,675
+# Version: 21.09.265
+# Release: 265
+# Entries: 29,699
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 21 Sep 21 23:52:19
+# Updated: Wed, 22 Sep 21 05:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -323,6 +323,7 @@
 0.0.0.0 1711427.5.d.mytopgames.net
 0.0.0.0 17406542689753546.best-system-tools.com
 0.0.0.0 17594295686911932.best-system-tools.com
+0.0.0.0 17higxlwt1.execute-api.us-east-1.amazonaws.com
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 18.nbryb.com
 0.0.0.0 180searchassistant.com
@@ -1958,6 +1959,7 @@
 0.0.0.0 ad.iinfo.cz
 0.0.0.0 ad.in.doubleclick.net
 0.0.0.0 ad.infoseek.com
+0.0.0.0 ad.inner-active.mobi
 0.0.0.0 ad.innolife.net
 0.0.0.0 ad.innotate.net
 0.0.0.0 ad.inter-edu.com
@@ -2016,6 +2018,8 @@
 0.0.0.0 ad.si.doubleclick.net
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.sitemaji.com
+0.0.0.0 ad.snappea.com
+0.0.0.0 ad.snaptube.app
 0.0.0.0 ad.sohu.com
 0.0.0.0 ad.songslyric.site
 0.0.0.0 ad.technoratimedia.com
@@ -2027,6 +2031,7 @@
 0.0.0.0 ad.unikat.at
 0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad.usatoday.com
+0.0.0.0 ad.vastvideo.com
 0.0.0.0 ad.vcm.jp
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.vfnetwork.it
@@ -4691,6 +4696,7 @@
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.smartstream.tv
 0.0.0.0 analytics.snappea.com
+0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.snoobi.com
 0.0.0.0 analytics.snssdk.com
@@ -5011,6 +5017,7 @@
 0.0.0.0 api.9snail.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.smaato.net
+0.0.0.0 api.ad.snaptube.app
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adaether.com
 0.0.0.0 api.adbutler.com
@@ -5216,6 +5223,7 @@
 0.0.0.0 apiv1.adfox.ru
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apiv3.moengage.com
+0.0.0.0 apk.ad.snappea.com
 0.0.0.0 apkdetail.ksmobile.net
 0.0.0.0 apkq-cms.ksmobile.net
 0.0.0.0 apkquery.ksmobile.net
@@ -6340,6 +6348,7 @@
 0.0.0.0 bibo.api.swiftkey.com
 0.0.0.0 bicycleshopsonline.com
 0.0.0.0 bid.ace.advertising.com
+0.0.0.0 bid.ad.snappea.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.mpnrs.com
 0.0.0.0 bid.pubmatic.com
@@ -7014,6 +7023,8 @@
 0.0.0.0 caledonia-ev.de
 0.0.0.0 caligula.pro
 0.0.0.0 callaghanes.online
+0.0.0.0 callback.ad.snappea.com
+0.0.0.0 callback.ad.snaptube.app
 0.0.0.0 callback.onlinepbx.ru
 0.0.0.0 callbackhunter.com
 0.0.0.0 callbackkiller.ru
@@ -7503,6 +7514,7 @@
 0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cdn2.gamecenter.run.cdn.dnsv1.com
 0.0.0.0 cdn2.gotoirontek.com
+0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 cdn2.mopub.com
 0.0.0.0 cdn2.optimizely.com
 0.0.0.0 cdn2.popcash.net
@@ -8650,6 +8662,8 @@
 0.0.0.0 config-junion.jpush.cn
 0.0.0.0 config-loadtest.flurry.com
 0.0.0.0 config-ltvp.inmobi.com
+0.0.0.0 config.ad.snappea.com
+0.0.0.0 config.ad.snaptube.app
 0.0.0.0 config.ams1.appgw.inmobi.com
 0.0.0.0 config.c0nect.com
 0.0.0.0 config.eastus.avi.inmobi.com
@@ -12342,6 +12356,7 @@
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.quanta.la
+0.0.0.0 graph.snaptube.app
 0.0.0.0 graph4.truecaller.com
 0.0.0.0 gratisnetwork.com
 0.0.0.0 gratuit-shopping.glasgro.com
@@ -15254,6 +15269,7 @@
 0.0.0.0 log.sitetag.us
 0.0.0.0 log.slb.avlyun.com
 0.0.0.0 log.snapdeal.com
+0.0.0.0 log.snappea.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.sv.pandora.tv
 0.0.0.0 log.targetpush.co.kr
@@ -16397,6 +16413,7 @@
 0.0.0.0 mntz.life
 0.0.0.0 mntzr-january2019.com
 0.0.0.0 mnzmtzmpk888m6l56.ay.delivery
+0.0.0.0 mo-adx.snappea.com
 0.0.0.0 mo7her.incest.click
 0.0.0.0 moat.pxl.ace.advertising.com
 0.0.0.0 moatads.com
@@ -17844,6 +17861,7 @@
 0.0.0.0 ofeetles.pro
 0.0.0.0 ofertasfarmacias.es
 0.0.0.0 offclaydolon.com
+0.0.0.0 offer.fyber.com
 0.0.0.0 offer.mntzr-january2019.com
 0.0.0.0 offer.slgnt.eu
 0.0.0.0 offerforge.com
@@ -18191,7 +18209,9 @@
 0.0.0.0 outbound.crashlytics.com
 0.0.0.0 outbrain.com
 0.0.0.0 outbrain.technoratimedia.com
+0.0.0.0 outcome-arm-ext-med-ext.sonic-us.supersonicads.com
 0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 outcome-crash-report.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 outdip.umeng.com
@@ -21506,6 +21526,8 @@
 0.0.0.0 report-uri.highwebmedia.com
 0.0.0.0 report-uri.io
 0.0.0.0 report-uri.mmcdn.com
+0.0.0.0 report.ad.snappea.com
+0.0.0.0 report.ad.snaptube.app
 0.0.0.0 report.adviad.com
 0.0.0.0 report.binance.gg
 0.0.0.0 report.binance.im
@@ -21516,6 +21538,8 @@
 0.0.0.0 report.newsgenious.com
 0.0.0.0 report.propellerads.com
 0.0.0.0 report.rayjump.com
+0.0.0.0 report.snappea.com
+0.0.0.0 report.snaptube.app
 0.0.0.0 report.syzs.qq.com
 0.0.0.0 report.textra.me
 0.0.0.0 report.webclicks24.com
