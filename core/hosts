@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.265
-# Release: 265
-# Entries: 29,729
+# Version: 21.09.266
+# Release: 266
+# Entries: 29,731
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 22 Sep 21 23:52:19
+# Updated: Thu, 23 Sep 21 05:52:19
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8929,6 +8929,7 @@
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 crash.bigo.sg
 0.0.0.0 crash.steampowered.com
+0.0.0.0 crash.tiki.video
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crasheco.com
 0.0.0.0 crashlogs.mobilegame.woniu.com
@@ -24371,6 +24372,7 @@
 0.0.0.0 tc.us-east.skimresources.com
 0.0.0.0 tc.us-west.skimresources.com
 0.0.0.0 tcads.net
+0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tcimp.zog.link
 0.0.0.0 tcm.optica.ero-advertising.com
 0.0.0.0 tcoor.xyz
