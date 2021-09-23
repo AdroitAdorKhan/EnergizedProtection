@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.266
 # Release: 266
-# Entries: 46,799
+# Entries: 46,793
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 23 Sep 21 20:10:40
+# Updated: Thu, 23 Sep 21 20:15:35
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11167,7 +11167,6 @@
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudfrale.com
 0.0.0.0 cloudfreestar-io.videoplayerhub.com
-0.0.0.0 cloudfront.net$app=com.lenovo.anyshare.gps
 0.0.0.0 cloudiiv.com
 0.0.0.0 cloudimagesa.com
 0.0.0.0 cloudimagesb.com
@@ -15160,7 +15159,6 @@
 0.0.0.0 embrassez.com
 0.0.0.0 embtrk.com
 0.0.0.0 emea-v3.tracking.justpremium.com
-0.0.0.0 emea-v3.tracking.justpremium.comemea-v3.tracking.justpremium.com
 0.0.0.0 emea.af.beap.bc.yahoo.com
 0.0.0.0 emediate.dk
 0.0.0.0 ememoricane.info
@@ -15639,11 +15637,8 @@
 0.0.0.0 eventifiederik.pro
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-api-dyn.outfit7.com
-0.0.0.0 events-api-dyn.outfit7.com.lan
 0.0.0.0 events-api-ew1.outfit7.com
-0.0.0.0 events-api-ew1.outfit7.com.lan
 0.0.0.0 events-api.outfit7.com
-0.0.0.0 events-api.outfit7.com.lan
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-dra.op.hicloud.com
 0.0.0.0 events-regional.tremorhub.com
@@ -33622,7 +33617,6 @@
 0.0.0.0 rocwitty.com
 0.0.0.0 rodhaengefdr.info
 0.0.0.0 rodirgix.com
-0.0.0.0 rodjulian.com
 0.0.0.0 rodplxlpc.com
 0.0.0.0 roduster.com
 0.0.0.0 roeshadgagged.com
