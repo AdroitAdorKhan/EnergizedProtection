@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.267
-# Release: 267
-# Entries: 48,073
+# Version: 21.09.268
+# Release: 268
+# Entries: 48,109
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 24 Sep 21 23:52:17
+# Updated: Sat, 25 Sep 21 05:52:18
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4166,6 +4166,7 @@
 0.0.0.0 adser.io
 0.0.0.0 adserv-gui.dstillery.com
 0.0.0.0 adservdebug.airpush.com
+0.0.0.0 adserve-dev.mahimeta.com
 0.0.0.0 adserve.advertising.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserve.com
@@ -5274,6 +5275,8 @@
 0.0.0.0 aj1559.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
+0.0.0.0 aj1616.online
+0.0.0.0 aj1716.online
 0.0.0.0 aj1907.online
 0.0.0.0 aj1913.online
 0.0.0.0 aj2025.online
@@ -7239,6 +7242,7 @@
 0.0.0.0 asepurch.pro
 0.0.0.0 asev.xyz
 0.0.0.0 asewlfjqwlflkew.com
+0.0.0.0 asg.adlit.top
 0.0.0.0 asg.bhabhiporn.pro
 0.0.0.0 asg.phukienthoitranggiare.com
 0.0.0.0 asg.somecdn.bid
@@ -7378,6 +7382,7 @@
 0.0.0.0 astrid-loch-instagram.ozx.co
 0.0.0.0 astscolipedeor.com
 0.0.0.0 astspewpaor.com
+0.0.0.0 astumbreonon.com
 0.0.0.0 astw.adgear.com
 0.0.0.0 asunderemulationcounterfeit.com
 0.0.0.0 asundersimultaneously.com
@@ -9855,6 +9860,7 @@
 0.0.0.0 caledonia-ev.de
 0.0.0.0 calfsbreedstax.com
 0.0.0.0 caligula.pro
+0.0.0.0 call.chatra.io
 0.0.0.0 callaghanes.online
 0.0.0.0 callback.ad.snappea.com
 0.0.0.0 callback.ad.snaptube.app
@@ -10576,6 +10582,7 @@
 0.0.0.0 cdntrf.com
 0.0.0.0 cdntt.bidvertiser.com
 0.0.0.0 cdnuz.adviad.com
+0.0.0.0 cdnvideo.mobi
 0.0.0.0 cdnvm.bidvertiser.com
 0.0.0.0 cdnyt.bidvertiser.com
 0.0.0.0 cdp.cloud.unity3d.com
@@ -12631,6 +12638,7 @@
 0.0.0.0 criticbrass.com
 0.0.0.0 criticismvillagegun.com
 0.0.0.0 crittercism.com
+0.0.0.0 crjugate.com
 0.0.0.0 crkqip.fasdfgsdf.com
 0.0.0.0 crl.identrust.com
 0.0.0.0 crlaction.org
@@ -12977,6 +12985,7 @@
 0.0.0.0 cymichaire.club
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cyphersvalure.com
+0.0.0.0 cyrasi.com
 0.0.0.0 cyronicel.shop
 0.0.0.0 cyrooting.com
 0.0.0.0 cytrkxfzkxrjv.com
@@ -13136,6 +13145,7 @@
 0.0.0.0 d3.moatads.com
 0.0.0.0 d302z9my8oligm.cloudfront.net
 0.0.0.0 d30sxnvlkawtwa.cloudfront.net
+0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d31zodt644y7uh.cloudfront.net
 0.0.0.0 d33bhlp8xcppz2.cloudfront.net
 0.0.0.0 d347b8264a61d229bec175972d08ae24.report-uri.io
@@ -14094,6 +14104,7 @@
 0.0.0.0 disbeliefpersecutionnumbers.com
 0.0.0.0 discaredforftp.000webhostapp.com
 0.0.0.0 disconnectedabsolutionjudged.com
+0.0.0.0 discord-app.net
 0.0.0.0 discord-give.shop
 0.0.0.0 discoreafr.fun
 0.0.0.0 discount-zigaretten24.com
@@ -14205,6 +14216,7 @@
 0.0.0.0 djpgv.rletteritwasg.biz
 0.0.0.0 djrcfpresent.in
 0.0.0.0 djs-medizin.de
+0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 djzictsencwkf.com
 0.0.0.0 dk-dellentechnik.de
 0.0.0.0 dk.ads.justpremium.com
@@ -17472,6 +17484,7 @@
 0.0.0.0 ftm-soryn-kg.at
 0.0.0.0 ftmfmbosvdkedl.com
 0.0.0.0 ftp.dns-info.dyndns.pro
+0.0.0.0 ftp.mahimeta.com
 0.0.0.0 ftp.moatads.com
 0.0.0.0 ftrace.rayjump.com
 0.0.0.0 fttwin.icu
@@ -18440,6 +18453,7 @@
 0.0.0.0 go.sasengine.ru
 0.0.0.0 go.sastech.ru
 0.0.0.0 go.searchlock.com
+0.0.0.0 go.showmeyouradsnow.com
 0.0.0.0 go.skimlinks.com
 0.0.0.0 go.skimresources.com
 0.0.0.0 go.sonobi.com
@@ -21357,6 +21371,7 @@
 0.0.0.0 isohits.com
 0.0.0.0 isolationowen.com
 0.0.0.0 isondled.net
+0.0.0.0 isorv.com
 0.0.0.0 isparkmedia.com
 0.0.0.0 ispedgoods.com
 0.0.0.0 ispymsg.com
@@ -22061,6 +22076,7 @@
 0.0.0.0 jupozbjmq.com
 0.0.0.0 juricts.xyz
 0.0.0.0 juringupstage.com
+0.0.0.0 juroptyne.com
 0.0.0.0 juroudaw.com
 0.0.0.0 jursp.com
 0.0.0.0 juryexecute.com
@@ -22319,6 +22335,7 @@
 0.0.0.0 keyboardinvolvedspacious.com
 0.0.0.0 keydawnawe.com
 0.0.0.0 keyio.ga
+0.0.0.0 keylogger.mahimeta.com
 0.0.0.0 keymaker-alpha.go.sonobi.com
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keymedia.hu
@@ -23915,6 +23932,7 @@
 0.0.0.0 lumcarring.fun
 0.0.0.0 lumilights.de
 0.0.0.0 luminatebase.000webhostapp.com
+0.0.0.0 luminosoocchio.com
 0.0.0.0 luminuis.000webhostapp.com
 0.0.0.0 luminzowatches.com
 0.0.0.0 lumisterol.com
@@ -28332,6 +28350,7 @@
 0.0.0.0 osshydreigonan.com
 0.0.0.0 osskanger.com
 0.0.0.0 ossrhydonr.com
+0.0.0.0 ossshucklean.com
 0.0.0.0 ostatic.espritgames.ru
 0.0.0.0 ostensibledaytimeseaweed.com
 0.0.0.0 ostensiblegrave.com
@@ -29452,6 +29471,7 @@
 0.0.0.0 phaikroo.net
 0.0.0.0 phaiksul.net
 0.0.0.0 phaimtol.net
+0.0.0.0 phalingy.net
 0.0.0.0 phalrait.com
 0.0.0.0 phamchilong.com
 0.0.0.0 phantom101.duckdns.org
@@ -31594,6 +31614,7 @@
 0.0.0.0 pleadedsomewhat.com
 0.0.0.0 pleasantlyilliterate.com
 0.0.0.0 pleasedbeginparish.com
+0.0.0.0 pleasedonotblockme.com
 0.0.0.0 pleasuremeshended.com
 0.0.0.0 pleatanxiety.com
 0.0.0.0 pleatglossary.com
@@ -32596,6 +32617,7 @@
 0.0.0.0 ptawehex.net
 0.0.0.0 ptcdn.mbicash.nl
 0.0.0.0 ptclassic.com
+0.0.0.0 ptcpaisa.com
 0.0.0.0 ptcqjliwwkldm.com
 0.0.0.0 ptechait.com
 0.0.0.0 ptecmooz.net
@@ -36034,6 +36056,7 @@
 0.0.0.0 sg.rayjump.com
 0.0.0.0 sg.taboola.com
 0.0.0.0 sg.umengcloud.com
+0.0.0.0 sg.xclick24.com
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg2rgnza7k9t.com
 0.0.0.0 sg3.af.beap.bc.yahoo.com
@@ -36556,6 +36579,7 @@
 0.0.0.0 slfpu.com
 0.0.0.0 slfsmf.com
 0.0.0.0 slhnj.com
+0.0.0.0 slice.mahimeta.com
 0.0.0.0 slickdeals.demdex.net
 0.0.0.0 slicktext.com
 0.0.0.0 slideff.com
@@ -40949,6 +40973,7 @@
 0.0.0.0 triflingbluffybluffy.com
 0.0.0.0 trigami.com
 0.0.0.0 trigr.co
+0.0.0.0 trikehemanw.xyz
 0.0.0.0 trikotset.com
 0.0.0.0 trilema.com
 0.0.0.0 trimasjaya.com
@@ -41600,6 +41625,7 @@
 0.0.0.0 unaspajas.com
 0.0.0.0 unattractivefrigilityfrigility.com
 0.0.0.0 unazumarillan.com
+0.0.0.0 unblockedapi.com
 0.0.0.0 unclebillswv.com
 0.0.0.0 unclemaidenprecise.com
 0.0.0.0 uncooleserine.cam
@@ -41761,6 +41787,7 @@
 0.0.0.0 upolou.com
 0.0.0.0 uponelectabuzzor.club
 0.0.0.0 uponhariyamar.com
+0.0.0.0 uponsurskita.com
 0.0.0.0 upornia.com
 0.0.0.0 uporods.com
 0.0.0.0 uppsyduckan.com
@@ -41959,6 +41986,7 @@
 0.0.0.0 uslioert.com
 0.0.0.0 usmed.amobee.com
 0.0.0.0 usounoul.com
+0.0.0.0 uspetenti.top
 0.0.0.0 usr.mgid.com
 0.0.0.0 uss3star.com
 0.0.0.0 usswrite.com
@@ -42844,6 +42872,7 @@
 0.0.0.0 vpninfo.adaware.com
 0.0.0.0 vpnlist.to
 0.0.0.0 vpnoffers.cc
+0.0.0.0 vpnoffers.info
 0.0.0.0 vpnoffers.net
 0.0.0.0 vpnrequired.com
 0.0.0.0 vpool.io
@@ -43009,6 +43038,7 @@
 0.0.0.0 waagemann.de
 0.0.0.0 waaws.tk
 0.0.0.0 wachipho.net
+0.0.0.0 wackeerd.com
 0.0.0.0 wacucmiy.net
 0.0.0.0 wadauthy.net
 0.0.0.0 wadcubkey.com
@@ -43375,6 +43405,7 @@
 0.0.0.0 wellness-vierseithof.de
 0.0.0.0 wellnesstyping.com
 0.0.0.0 wellnesszap.com
+0.0.0.0 welokygry.com
 0.0.0.0 welovetuktuk.at
 0.0.0.0 welsworn.info
 0.0.0.0 weltenweiterwanderer.de
@@ -44593,6 +44624,7 @@
 0.0.0.0 www.ddkbxqvf.com
 0.0.0.0 www.ddvqjnbt.com
 0.0.0.0 www.de.cj.com
+0.0.0.0 www.declinedisobey.com
 0.0.0.0 www.degrtdqvaansd.com
 0.0.0.0 www.dehtxweiq.com
 0.0.0.0 www.demdex.net
@@ -44663,6 +44695,7 @@
 0.0.0.0 www.duhhgazz.com
 0.0.0.0 www.durationmedia.net
 0.0.0.0 www.durpygckli.com
+0.0.0.0 www.dutrag.com
 0.0.0.0 www.duwomuonxosyjf.com
 0.0.0.0 www.dvwvqeddi.com
 0.0.0.0 www.dwepmhhyigfb.com
@@ -45375,6 +45408,7 @@
 0.0.0.0 www.madadsmedia.com
 0.0.0.0 www.madcpms.com
 0.0.0.0 www.mafvijpjsaz.com
+0.0.0.0 www.mahimeta.com
 0.0.0.0 www.makzidhq.com
 0.0.0.0 www.malayporn.me
 0.0.0.0 www.maribacaberita.com
@@ -45751,6 +45785,7 @@
 0.0.0.0 www.pskidsqhsbfi.com
 0.0.0.0 www.psqiwslwpjccb.com
 0.0.0.0 www.psvgnczo.com
+0.0.0.0 www.ptcpaisa.com
 0.0.0.0 www.ptcqjliwwkldm.com
 0.0.0.0 www.pub-21316.beta.www.mgid.com
 0.0.0.0 www.pub.axiatraders.com
@@ -46302,6 +46337,7 @@
 0.0.0.0 www.ucweb.com
 0.0.0.0 www.udbvcevablxpk.com
 0.0.0.0 www.udiwhryjqdsc.com
+0.0.0.0 www.udmserve.net
 0.0.0.0 www.uedombokwcy.com
 0.0.0.0 www.uehkcendtuxt.com
 0.0.0.0 www.uesdpbrej.com
