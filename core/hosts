@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.268
 # Release: 268
-# Entries: 48,131
+# Entries: 48,173
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 25 Sep 21 10:19:16
+# Updated: Sat, 25 Sep 21 10:21:21
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -28640,16 +28640,20 @@
 0.0.0.0 p01234.notif.club
 0.0.0.0 p0jocl.edvfwlacluo.com
 0.0.0.0 p1.optout.agkn.com
+0.0.0.0 p101886.mybetterdl.com
 0.0.0.0 p102947.cdaz.icu
 0.0.0.0 p108212.cdaz.icu
 0.0.0.0 p108888.infopicked.com
 0.0.0.0 p109877.infopicked.com
 0.0.0.0 p109877.retdaz.fun
+0.0.0.0 p111560.mybetterdl.com
 0.0.0.0 p112965.cdaz.icu
 0.0.0.0 p115436122.alternativecpmgate.com
 0.0.0.0 p123p.com
 0.0.0.0 p125866.cdaz.icu
 0.0.0.0 p131675.infopicked.com
+0.0.0.0 p139169.clksite.com
+0.0.0.0 p139169.mybetterdl.com
 0.0.0.0 p141054.retdaz.fun
 0.0.0.0 p146641.cdaz.icu
 0.0.0.0 p14909.infopicked.com
@@ -28667,13 +28671,16 @@
 0.0.0.0 p178775.cdaz.icu
 0.0.0.0 p178775.retdaz.fun
 0.0.0.0 p179.admaym.com
+0.0.0.0 p181291.mybetterdl.com
 0.0.0.0 p185689.infopicked.com
 0.0.0.0 p18591.infopicked.com
+0.0.0.0 p187915.clksite.com
 0.0.0.0 p1agead2.googlesyndication.com
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 p201298.infopicked.com
 0.0.0.0 p203248.infopicked.com
 0.0.0.0 p206419.clksite.com
+0.0.0.0 p209458.infopicked.com
 0.0.0.0 p212983.cdaz.icu
 0.0.0.0 p212983.retdaz.fun
 0.0.0.0 p220333.infopicked.com
@@ -28687,6 +28694,7 @@
 0.0.0.0 p232207.cdaz.icu
 0.0.0.0 p232207.infopicked.com
 0.0.0.0 p232207.retdaz.fun
+0.0.0.0 p234396.clksite.com
 0.0.0.0 p234934.cdaz.icu
 0.0.0.0 p235715.infopicked.com
 0.0.0.0 p237431.cdaz.icu
@@ -28697,6 +28705,7 @@
 0.0.0.0 p238993.cdaz.icu
 0.0.0.0 p238993.retdaz.fun
 0.0.0.0 p239184.cdaz.icu
+0.0.0.0 p240050.clksite.com
 0.0.0.0 p240473.cdaz.icu
 0.0.0.0 p242.cuculf.name
 0.0.0.0 p243594.cdaz.icu
@@ -28712,6 +28721,7 @@
 0.0.0.0 p250403.retdaz.fun
 0.0.0.0 p250419.clksite.com
 0.0.0.0 p252190.cdaz.icu
+0.0.0.0 p252861.clksite.com
 0.0.0.0 p253192.cdaz.icu
 0.0.0.0 p254306.cdaz.icu
 0.0.0.0 p25433.cdaz.icu
@@ -28730,11 +28740,15 @@
 0.0.0.0 p276234.infopicked.com
 0.0.0.0 p277439.infopicked.com
 0.0.0.0 p278064.cdaz.icu
+0.0.0.0 p278421.clksite.com
 0.0.0.0 p280817.cdaz.icu
 0.0.0.0 p28101.cdaz.icu
+0.0.0.0 p282628.clksite.com
 0.0.0.0 p284509.infopicked.com
+0.0.0.0 p285880.clksite.com
 0.0.0.0 p287541.cdaz.icu
 0.0.0.0 p290730.cdaz.icu
+0.0.0.0 p291770.clksite.com
 0.0.0.0 p292752.cdaz.icu
 0.0.0.0 p293141.cdaz.icu
 0.0.0.0 p294833.cdaz.icu
@@ -28768,9 +28782,11 @@
 0.0.0.0 p316113.cdaz.icu
 0.0.0.0 p317706.cdaz.icu
 0.0.0.0 p317706.retdaz.fun
+0.0.0.0 p318379.mybetterdl.com
 0.0.0.0 p320362.infopicked.com
 0.0.0.0 p32130.cdaz.icu
 0.0.0.0 p321539.infopicked.com
+0.0.0.0 p32441.mybetterdl.com
 0.0.0.0 p324800.clksite.com
 0.0.0.0 p324907.infopicked.com
 0.0.0.0 p327173.cdaz.icu
@@ -28786,6 +28802,7 @@
 0.0.0.0 p336138.infopicked.com
 0.0.0.0 p338365.cdaz.icu
 0.0.0.0 p339737.cdaz.icu
+0.0.0.0 p342008.clksite.com
 0.0.0.0 p343328.cdaz.icu
 0.0.0.0 p343393.cdaz.icu
 0.0.0.0 p344396.cdaz.icu
@@ -28838,13 +28855,17 @@
 0.0.0.0 p377939.clksite.com
 0.0.0.0 p377939.infopicked.com
 0.0.0.0 p380424.infopicked.com
+0.0.0.0 p382312.clksite.com
+0.0.0.0 p38369.clksite.com
 0.0.0.0 p384321.infopicked.com
 0.0.0.0 p384820.infopicked.com
+0.0.0.0 p385243.clksite.com
 0.0.0.0 p385947.infopicked.com
 0.0.0.0 p386249.infopicked.com
 0.0.0.0 p387025.infopicked.com
 0.0.0.0 p388037.infopicked.com
 0.0.0.0 p388331.infopicked.com
+0.0.0.0 p389002.clksite.com
 0.0.0.0 p38959.infopicked.com
 0.0.0.0 p389595.infopicked.com
 0.0.0.0 p389666.infopicked.com
@@ -28866,8 +28887,22 @@
 0.0.0.0 p395447.infopicked.com
 0.0.0.0 p396215.infopicked.com
 0.0.0.0 p40039.cdaz.icu
+0.0.0.0 p404011.clksite.com
+0.0.0.0 p408635.clksite.com
+0.0.0.0 p410633.clksite.com
+0.0.0.0 p418040.clksite.com
+0.0.0.0 p420774.mybetterdl.com
+0.0.0.0 p422660.clksite.com
+0.0.0.0 p435440.mybetterdl.com
+0.0.0.0 p437069.mybetterdl.com
+0.0.0.0 p437071.clksite.com
+0.0.0.0 p437121.mybetterdl.com
+0.0.0.0 p437734.clksite.com
+0.0.0.0 p437852.clksite.com
+0.0.0.0 p44087.mybetterdl.com
 0.0.0.0 p48056.cdaz.icu
 0.0.0.0 p48056.retdaz.fun
+0.0.0.0 p49391.clksite.com
 0.0.0.0 p4dt2-0edaj.ads.tremorhub.com
 0.0.0.0 p4dt2-980w2.ads.tremorhub.com
 0.0.0.0 p51808.cdaz.icu
@@ -28886,6 +28921,7 @@
 0.0.0.0 p75460.infopicked.com
 0.0.0.0 p7560.cdaz.icu
 0.0.0.0 p7560.retdaz.fun
+0.0.0.0 p76570.mybetterdl.com
 0.0.0.0 p77584.cdaz.icu
 0.0.0.0 p77584.retdaz.fun
 0.0.0.0 p78815.cdaz.icu
@@ -28893,14 +28929,18 @@
 0.0.0.0 p79516.cdaz.icu
 0.0.0.0 p7bwte3srj45bccvw.ay.delivery
 0.0.0.0 p7m1rc80jdum.com
+0.0.0.0 p81150.mybetterdl.com
 0.0.0.0 p83235.infopicked.com
 0.0.0.0 p8436.infopicked.com
+0.0.0.0 p86052.mybetterdl.com
 0.0.0.0 p86806.cdaz.icu
 0.0.0.0 p8723.infopicked.com
 0.0.0.0 p87884.infopicked.com
 0.0.0.0 p90056.infopicked.com
+0.0.0.0 p91109.clksite.com
 0.0.0.0 p94825.cdaz.icu
 0.0.0.0 p97787.infopicked.com
+0.0.0.0 p97962.mybetterdl.com
 0.0.0.0 p9oqu.com
 0.0.0.0 pa-magelang.go.id
 0.0.0.0 pa.ads.justpremium.com
@@ -41645,6 +41685,7 @@
 0.0.0.0 unattractivefrigilityfrigility.com
 0.0.0.0 unazumarillan.com
 0.0.0.0 unblockedapi.com
+0.0.0.0 unbuttondeferinstalment.com
 0.0.0.0 unclebillswv.com
 0.0.0.0 unclemaidenprecise.com
 0.0.0.0 uncooleserine.cam
@@ -46403,6 +46444,7 @@
 0.0.0.0 www.umwyfqgsg.com
 0.0.0.0 www.umyijmhalvbk.com
 0.0.0.0 www.unablewisdom.com
+0.0.0.0 www.unbuttondeferinstalment.com
 0.0.0.0 www.unreasonablecompatibledivorced.com
 0.0.0.0 www.unsuccessfulpensive.com
 0.0.0.0 www.uoijjkkkc.com
