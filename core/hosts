@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.268
 # Release: 268
-# Entries: 48,663
+# Entries: 48,690
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 25 Sep 21 15:52:17
+# Updated: Sat, 25 Sep 21 18:08:13
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2560,6 +2560,7 @@
 0.0.0.0 abwhyag.com
 0.0.0.0 abyamaskor.com
 0.0.0.0 ac-gb.mgid.com
+0.0.0.0 ac.ads.heytapmobi.com
 0.0.0.0 ac.batmobi.net
 0.0.0.0 ac.goodsblock.mgid.com
 0.0.0.0 ac0c95f18a59.com
@@ -4901,6 +4902,7 @@
 0.0.0.0 adworldmedia.com
 0.0.0.0 adworx.nl
 0.0.0.0 adwpaces.ero-advertising.com
+0.0.0.0 adx-ads-test.wanyol.com
 0.0.0.0 adx-ak.widerplanet.com
 0.0.0.0 adx-api.shalltry.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
@@ -6339,6 +6341,7 @@
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
+0.0.0.0 analytics.vewd.com
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 analytics.vodafone.co.uk
@@ -6865,6 +6868,7 @@
 0.0.0.0 aplogger.adpushup.com
 0.0.0.0 apm.umeng.com
 0.0.0.0 apmebf.com
+0.0.0.0 apmlog.snssdk.com
 0.0.0.0 apn1-match.justpremium.com
 0.0.0.0 apns-recv.jpush.cn
 0.0.0.0 apns.ksmobile.com
@@ -13423,6 +13427,7 @@
 0.0.0.0 dasmoebelhandwerk.at
 0.0.0.0 dat.itsup.com
 0.0.0.0 dat2.ero-advertising.com
+0.0.0.0 data-ads-test.wanyol.com
 0.0.0.0 data-ads.realmemobile.com
 0.0.0.0 data-beacons.s-onetag.com
 0.0.0.0 data-cl-f-ads.realmemobile.com
@@ -13802,6 +13807,7 @@
 0.0.0.0 denbeigemark.com
 0.0.0.0 dendrito.name
 0.0.0.0 denetsuk.com
+0.0.0.0 denety.com
 0.0.0.0 dengelmeg.com
 0.0.0.0 denis-pj0823031-491201b.com
 0.0.0.0 denizlivitrin.com
@@ -15714,6 +15720,9 @@
 0.0.0.0 epndtinso.com
 0.0.0.0 epnredirect.ru
 0.0.0.0 epnycpszmpvft.com
+0.0.0.0 epoch-in.finzfin.com
+0.0.0.0 epoch-sg.finzfin.com
+0.0.0.0 epoch.finzfin.com
 0.0.0.0 epochokaypeerless.com
 0.0.0.0 epodownload.mediatek.com
 0.0.0.0 epool.io
@@ -23717,6 +23726,7 @@
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ird.outbrain.com
+0.0.0.0 log-legacy.core.cloud.vewd.com
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
@@ -36493,6 +36503,8 @@
 0.0.0.0 sf-userver-upaas.ucweb.com
 0.0.0.0 sf.symcb.com
 0.0.0.0 sf.symcd.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 sf9yvla26s5t.com
 0.0.0.0 sfapplog.uc.cn
 0.0.0.0 sfawiner.com
@@ -37091,6 +37103,7 @@
 0.0.0.0 sluicejell.com
 0.0.0.0 slut2fuck.net
 0.0.0.0 slutmedtandlaegeskraek.dk
+0.0.0.0 sluxur.com
 0.0.0.0 slx-2.duckdns.org
 0.0.0.0 slychicks.com
 0.0.0.0 slymagical.com
@@ -38291,6 +38304,14 @@
 0.0.0.0 stewlinedull.com
 0.0.0.0 stezuzeje.com
 0.0.0.0 stg-collecticon.outlookmobile.com
+0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 stg-data-mm.ads.heytapmobile.com
+0.0.0.0 stg-data-my.ads.heytapmobile.com
+0.0.0.0 stg-data-ph.ads.heytapmobile.com
+0.0.0.0 stg-data-sg.ads.heytapmobile.com
+0.0.0.0 stg-data-th.ads.heytapmobile.com
+0.0.0.0 stg-data-tw.ads.heytapmobile.com
+0.0.0.0 stg-data-vn.ads.heytapmobile.com
 0.0.0.0 stg.green-red.com
 0.0.0.0 stg.scorecardresearch.com
 0.0.0.0 stg.sophi.io
@@ -39939,11 +39960,14 @@
 0.0.0.0 toasttakeout.page.link
 0.0.0.0 toateeli.net
 0.0.0.0 tobaltoyon.com
+0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 tobestaly.com
 0.0.0.0 tobiassachs.report-uri.io
 0.0.0.0 tobidy.io
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com.w.cdngslb.com
+0.0.0.0 toblog.itobsnssdk.com
+0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 toboads.com
 0.0.0.0 tockhsfluqjniu.com
 0.0.0.0 todacell.com
@@ -41732,6 +41756,7 @@
 0.0.0.0 tv.uc.cn
 0.0.0.0 tv1s4d6klh4n.com
 0.0.0.0 tvads.alphonso.tv
+0.0.0.0 tvads.cloud.vewd.com
 0.0.0.0 tvas-b.pw
 0.0.0.0 tvc.i3cloud.bid
 0.0.0.0 tvduznfdgim.com
@@ -44785,6 +44810,7 @@
 0.0.0.0 www.akashdayalgroups.com
 0.0.0.0 www.aklglpwljiv.com
 0.0.0.0 www.aljubab.com
+0.0.0.0 www.allenedmonds.com
 0.0.0.0 www.allhugeblog.com
 0.0.0.0 www.allhugenewz.com
 0.0.0.0 www.allnewsupdates.info
@@ -45150,6 +45176,7 @@
 0.0.0.0 www.degrtdqvaansd.com
 0.0.0.0 www.dehtxweiq.com
 0.0.0.0 www.demdex.net
+0.0.0.0 www.denety.com
 0.0.0.0 www.denizlivitrin.com
 0.0.0.0 www.denwusstu.gq
 0.0.0.0 www.deployads.com
