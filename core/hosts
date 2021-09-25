@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.268
 # Release: 268
-# Entries: 48,109
+# Entries: 48,131
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 25 Sep 21 05:52:18
+# Updated: Sat, 25 Sep 21 10:11:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -783,6 +783,8 @@
 0.0.0.0 24-sportnews.com
 0.0.0.0 24.nbryb.com
 0.0.0.0 240298959943983.window-updates-service.com
+0.0.0.0 24092021.g9qnk89pd5ic.com
+0.0.0.0 24092021.klwvb023cew5.com
 0.0.0.0 24324762790192067.best-system-tools.com
 0.0.0.0 2444efc8cd8e.com
 0.0.0.0 24465264056751534.best-system-tools.com
@@ -13099,7 +13101,6 @@
 0.0.0.0 d21y75miwcfqoq.cloudfront.net
 0.0.0.0 d227cncaprzd7y.cloudfront.net
 0.0.0.0 d22xmn10vbouk4.cloudfront.net
-0.0.0.0 d231vab146qzfb.cloudfront.net
 0.0.0.0 d24ak3f2b.top
 0.0.0.0 d24tpq3dxz8t7t.cloudfront.net
 0.0.0.0 d2575423ur.temp.swtest.ru
@@ -14209,6 +14210,7 @@
 0.0.0.0 diwamugh.net
 0.0.0.0 dj-updates.com
 0.0.0.0 djfbgghicgigeiacecf.ru
+0.0.0.0 djgfsrlt.com
 0.0.0.0 djm080u34wfc5.cloudfront.net
 0.0.0.0 djmaza.in
 0.0.0.0 djmazacomcom.imageshack.host
@@ -30315,6 +30317,7 @@
 0.0.0.0 pl15564354.effectivecpmgate.com
 0.0.0.0 pl15564749.passtechusa.com
 0.0.0.0 pl15565453.performancetrustednetwork.com
+0.0.0.0 pl15566430.effectivecpmgate.com
 0.0.0.0 pl15570218.cpmgatenetwork.com
 0.0.0.0 pl15571044.profitablegate.com
 0.0.0.0 pl15573662.effectiveperformancenetwork.com
@@ -30374,6 +30377,7 @@
 0.0.0.0 pl15658603.profitablegate.com
 0.0.0.0 pl15658845.profitablegate.com
 0.0.0.0 pl15660458.profitablegate.com
+0.0.0.0 pl15661249.effectivecpmgate.com
 0.0.0.0 pl15661308.profitablegate.com
 0.0.0.0 pl15676505.profitablegate.com
 0.0.0.0 pl15679470.profitablegate.com
@@ -30448,6 +30452,7 @@
 0.0.0.0 pl15855464.effectivecpmgate.com
 0.0.0.0 pl15855994.effectivecpmgate.com
 0.0.0.0 pl15857818.highperformancecpm.com
+0.0.0.0 pl15858213.bestcpmnetwork.com
 0.0.0.0 pl15860471.effectivecpmgate.com
 0.0.0.0 pl15860498.profitabletrustednetwork.com
 0.0.0.0 pl15861022.performancetrustednetwork.com
@@ -30489,6 +30494,7 @@
 0.0.0.0 pl15943957.profitabletrustednetwork.com
 0.0.0.0 pl15945610.profitablecpmnetwork.com
 0.0.0.0 pl15947776.effectivecpmgate.com
+0.0.0.0 pl15949739.effectivecpmgate.com
 0.0.0.0 pl15950879.effectivecpmgate.com
 0.0.0.0 pl15950879.highperformancecpm.com
 0.0.0.0 pl15952398.highperformancecpm.com
@@ -30507,11 +30513,13 @@
 0.0.0.0 pl15970781.highperformancecpm.com
 0.0.0.0 pl15970784.highperformancecpm.com
 0.0.0.0 pl15985024.highperformancecpm.com
+0.0.0.0 pl15985488.achievablecpmrevenue.com
 0.0.0.0 pl15990460.effectivecpmgate.com
 0.0.0.0 pl15990765.highperformancecpm.com
 0.0.0.0 pl15991329.highperformancecpm.com
 0.0.0.0 pl15992021.alternativecpmgate.com
 0.0.0.0 pl15992021.highperformancecpmnetwork.com
+0.0.0.0 pl15994238.effectivecpmgate.com
 0.0.0.0 pl15996071.profitabletrustednetwork.com
 0.0.0.0 pl15999717.highperformancecpm.com
 0.0.0.0 pl16001645.effectiveperformancenetwork.com
@@ -30567,6 +30575,7 @@
 0.0.0.0 pl16085094.performancetrustednetwork.com
 0.0.0.0 pl16085145.profitabletrustednetwork.com
 0.0.0.0 pl16085656.profitabletrustednetwork.com
+0.0.0.0 pl16086685.effectivecpmgate.com
 0.0.0.0 pl16088987.highperformancecpm.com
 0.0.0.0 pl16095394.effectivecpmgate.com
 0.0.0.0 pl16096726.performancetrustednetwork.com
@@ -30792,6 +30801,7 @@
 0.0.0.0 pl16313150.alternativecpmgate.com
 0.0.0.0 pl16313790.safestcontentgate.com
 0.0.0.0 pl16316808.safestcontentgate.com
+0.0.0.0 pl16316987.safestcontentgate.com
 0.0.0.0 pl16317457.effectivecpmgate.com
 0.0.0.0 pl16317981.effectiveperformancenetwork.com
 0.0.0.0 pl16318717.safestcontentgate.com
@@ -30800,6 +30810,7 @@
 0.0.0.0 pl16319777.alternativecpmgate.com
 0.0.0.0 pl16321831.highperformancecpm.com
 0.0.0.0 pl16321960.safestcontentgate.com
+0.0.0.0 pl16322271.safestcontentgate.com
 0.0.0.0 pl16323170.effectiveperformancenetwork.com
 0.0.0.0 pl16323433.safestcontentgate.com
 0.0.0.0 pl16323931.effectivecpmgate.com
@@ -31039,10 +31050,12 @@
 0.0.0.0 pl16434918.alternativecpmgate.com
 0.0.0.0 pl16435646.alternativecpmgate.com
 0.0.0.0 pl16436009.alternativecpmgate.com
+0.0.0.0 pl16436384.effectivecpmgate.com
 0.0.0.0 pl16436447.alternativecpmgate.com
 0.0.0.0 pl16436880.alternativecpmgate.com
 0.0.0.0 pl16436903.alternativecpmgate.com
 0.0.0.0 pl16437007.alternativecpmgate.com
+0.0.0.0 pl16437141.effectivecpmgate.com
 0.0.0.0 pl16437196.alternativecpmgate.com
 0.0.0.0 pl16438376.alternativecpmgate.com
 0.0.0.0 pl16438685.alternativecpmgate.com
@@ -31375,6 +31388,7 @@
 0.0.0.0 pl16567383.effectivecpmgate.com
 0.0.0.0 pl16567543.effectivecpmgate.com
 0.0.0.0 pl16568046.effectivecpmgate.com
+0.0.0.0 pl16568602.effectivecpmgate.com
 0.0.0.0 pl16569284.effectivecpmgate.com
 0.0.0.0 pl16569884.effectivecpmgate.com
 0.0.0.0 pl16569893.effectivecpmgate.com
@@ -31383,6 +31397,7 @@
 0.0.0.0 pl16570220.effectivecpmgate.com
 0.0.0.0 pl16571120.effectivecpmgate.com
 0.0.0.0 pl16571971.effectivecpmgate.com
+0.0.0.0 pl16571983.effectivecpmgate.com
 0.0.0.0 pl16572057.effectivecpmgate.com
 0.0.0.0 pl16572509.effectivecpmgate.com
 0.0.0.0 pl16572754.effectivecpmgate.com
@@ -31409,6 +31424,7 @@
 0.0.0.0 pl16577529.effectivecpmgate.com
 0.0.0.0 pl16577882.effectivecpmgate.com
 0.0.0.0 pl16578163.effectivecpmgate.com
+0.0.0.0 pl16578575.effectivecpmgate.com
 0.0.0.0 pl16578729.effectivecpmgate.com
 0.0.0.0 pl16578745.effectivecpmgate.com
 0.0.0.0 pl16580171.effectivecpmgate.com
@@ -31488,6 +31504,7 @@
 0.0.0.0 pl16613141.effectivecpmgate.com
 0.0.0.0 pl16613255.effectivecpmgate.com
 0.0.0.0 pl16614696.effectivecpmgate.com
+0.0.0.0 pl16614745.effectivecpmgate.com
 0.0.0.0 pl16615401.effectivecpmgate.com
 0.0.0.0 pl16615718.effectivecpmgate.com
 0.0.0.0 pl16616745.effectivecpmgate.com
@@ -31511,6 +31528,7 @@
 0.0.0.0 pl3867237.highperformancecpm.com
 0.0.0.0 pl3867237.highperformancecpmnetwork.com
 0.0.0.0 pl3868948.effectiveperformancenetwork.com
+0.0.0.0 pl3870041.effectivecpmgate.com
 0.0.0.0 pl3911606.passtechusa.com
 0.0.0.0 pl3941628.pvclouds.com
 0.0.0.0 pl5102.gatetotrustednetwork.com
@@ -31977,6 +31995,7 @@
 0.0.0.0 potionutilize.com
 0.0.0.0 potjevleesch.xyz
 0.0.0.0 potmbbqbaqxwp.com
+0.0.0.0 potnormal.com
 0.0.0.0 potpourrichordataoscilloscope.com
 0.0.0.0 pottcorn.de
 0.0.0.0 pottendent.top
@@ -44661,6 +44680,7 @@
 0.0.0.0 www.displayvertising.com
 0.0.0.0 www.dive-logs.com
 0.0.0.0 www.diversity-fund.biz
+0.0.0.0 www.djgfsrlt.com
 0.0.0.0 www.djzictsencwkf.com
 0.0.0.0 www.dkdmygipll.com
 0.0.0.0 www.dkypsidljq.com
@@ -46042,6 +46062,7 @@
 0.0.0.0 www.simbolslot.biz
 0.0.0.0 www.simbolslot.me
 0.0.0.0 www.sin.ero-advertising.com
+0.0.0.0 www.sinceclairvoyant.com
 0.0.0.0 www.siteandnews.com
 0.0.0.0 www.sizmek.com
 0.0.0.0 www.sjgcswrvltrx.com
@@ -46297,6 +46318,7 @@
 0.0.0.0 www.treevpnfortestering.xyz
 0.0.0.0 www.trgdzkqsle.com
 0.0.0.0 www.trimasjaya.com
+0.0.0.0 www.troubleblabacting.com
 0.0.0.0 www.trroawdnmt.com
 0.0.0.0 www.trueamateurs.com
 0.0.0.0 www.ts-syndicate.com
