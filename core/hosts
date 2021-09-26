@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.09.269
-# Release: 269
-# Entries: 51,230
+# Version: 21.09.270
+# Release: 270
+# Entries: 51,243
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 26 Sep 21 23:52:16
+# Updated: Mon, 27 Sep 21 03:52:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11167,6 +11167,7 @@
 0.0.0.0 canadagoosepromos-ch.com
 0.0.0.0 canadajacet.club
 0.0.0.0 canadianatheist.report-uri.io
+0.0.0.0 canadianimperialbank.tt.omtrdc.net
 0.0.0.0 canaldigital.tt.omtrdc.net
 0.0.0.0 canalprone.com
 0.0.0.0 canalytics.iteldrive.com
@@ -13984,6 +13985,7 @@
 0.0.0.0 creofive.com
 0.0.0.0 creofun.com
 0.0.0.0 crepgate.com
+0.0.0.0 creptdeservedprofanity.com
 0.0.0.0 creptionear.club
 0.0.0.0 creq.page.link
 0.0.0.0 crestfallenwall.com
@@ -21652,6 +21654,7 @@
 0.0.0.0 hprofits.com
 0.0.0.0 hpshopping.speedera.net
 0.0.0.0 hpuvkfbww.com
+0.0.0.0 hpww.tt.omtrdc.net
 0.0.0.0 hpyjmp.com
 0.0.0.0 hpyrdr.com
 0.0.0.0 hpzdwnkb.com
@@ -25582,6 +25585,7 @@
 0.0.0.0 login.yahoo.com.id24556.tk
 0.0.0.0 loginfra.com
 0.0.0.0 loginwebmailnic.dynssl.com
+0.0.0.0 logitech.tt.omtrdc.net
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logkzudhrg.com
 0.0.0.0 logo-net.co.uk
@@ -25706,6 +25710,7 @@
 0.0.0.0 loshouck.net
 0.0.0.0 losingoldfry.com
 0.0.0.0 lostun.com
+0.0.0.0 lot.tt.omtrdc.net
 0.0.0.0 lotame-users.go.sonobi.com
 0.0.0.0 lotame.users.go.sonobi.com
 0.0.0.0 lotsnippier.cam
@@ -27984,6 +27989,7 @@
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mts.adfox.ru
 0.0.0.0 mtupbl.xyz
+0.0.0.0 mtv3.tt.omtrdc.net
 0.0.0.0 mtvn.demdex.net
 0.0.0.0 mtvp05j.com
 0.0.0.0 mu5oi.rdtk.io
@@ -30783,6 +30789,7 @@
 0.0.0.0 p209458.infopicked.com
 0.0.0.0 p212983.cdaz.icu
 0.0.0.0 p212983.retdaz.fun
+0.0.0.0 p218397.clksite.com
 0.0.0.0 p220333.infopicked.com
 0.0.0.0 p222742.infopicked.com
 0.0.0.0 p224921.clksite.com
@@ -31757,6 +31764,7 @@
 0.0.0.0 philbardre.com
 0.0.0.0 philippoehler.de
 0.0.0.0 philipselectronicsne.tt.omtrdc.net
+0.0.0.0 philipslighting.tt.omtrdc.net
 0.0.0.0 philosophere.com
 0.0.0.0 philosophicalregardlesssetback.com
 0.0.0.0 philstraffic.com
@@ -33228,6 +33236,7 @@
 0.0.0.0 pl16370572.effectiveperformancenetwork.com
 0.0.0.0 pl16371095.effectiveperformancenetwork.com
 0.0.0.0 pl16371599.effectiveperformancenetwork.com
+0.0.0.0 pl16371680.highperformancecpm.com
 0.0.0.0 pl16372048.effectiveperformancenetwork.com
 0.0.0.0 pl16372258.effectiveperformancenetwork.com
 0.0.0.0 pl16373605.effectiveperformancenetwork.com
@@ -36286,6 +36295,7 @@
 0.0.0.0 rbood.com
 0.0.0.0 rbpad.com
 0.0.0.0 rbrei.com
+0.0.0.0 rbs-fpssl.tt.omtrdc.net
 0.0.0.0 rbshops.de
 0.0.0.0 rbt-partner-web.interakt.ru
 0.0.0.0 rbusai.com
@@ -44714,6 +44724,7 @@
 0.0.0.0 ups-west.ksmobile.net
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 ups.ksmobile.net
+0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 upsaibou.net
 0.0.0.0 upscoxjog.com
 0.0.0.0 upservices.de
@@ -45688,6 +45699,7 @@
 0.0.0.0 vmraahnmspzy.com
 0.0.0.0 vms-players.minutemediaservices.com
 0.0.0.0 vmuid.com
+0.0.0.0 vmware.tt.omtrdc.net
 0.0.0.0 vmwareinc.demdex.net
 0.0.0.0 vn-gpack.org
 0.0.0.0 vn-platform.bidgear.com
@@ -46399,6 +46411,7 @@
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 weshuhori.com
 0.0.0.0 westerdayeol.site
+0.0.0.0 westerndigital.tt.omtrdc.net
 0.0.0.0 westrasde.com
 0.0.0.0 westservicesfindlaw.tt.omtrdc.net
 0.0.0.0 westseven.media
