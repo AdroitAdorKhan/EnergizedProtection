@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.269
 # Release: 269
-# Entries: 49,638
+# Entries: 49,668
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 26 Sep 21 14:24:05
+# Updated: Sun, 26 Sep 21 15:52:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -811,6 +811,7 @@
 0.0.0.0 2267851.fls.doubleclick.net
 0.0.0.0 228c0519.api.splkmobile.com
 0.0.0.0 2290819.fls.doubleclick.net
+0.0.0.0 2299144.fls.doubleclick.net
 0.0.0.0 2309157c.api.splkmobile.com
 0.0.0.0 23205523023daea6.com
 0.0.0.0 23286.dendrito.name
@@ -1566,6 +1567,7 @@
 0.0.0.0 5su5mbtbmw8ersp5gooqqcc3usyxiwyghecksjhkljmlsil3aml8wpgmjmatch.justpremium.com
 0.0.0.0 5t59uw2iuh.com
 0.0.0.0 5thfinger.com
+0.0.0.0 5umpz4evlgkm.com
 0.0.0.0 5unbx.rdtk.io
 0.0.0.0 5vpbnbkiey24.com
 0.0.0.0 5wuefo9haif3.com
@@ -1613,6 +1615,7 @@
 0.0.0.0 6235746.collect.igodigital.com
 0.0.0.0 625c9289e60793.com
 0.0.0.0 6261019.collect.igodigital.com
+0.0.0.0 6278601.fls.doubleclick.net
 0.0.0.0 628563933902316.window-updates-service.com
 0.0.0.0 628bcfbe0760.bitsngo.net
 0.0.0.0 629974524180094.window-updates-service.com
@@ -1850,6 +1853,7 @@
 0.0.0.0 76a7doiet256.com
 0.0.0.0 76aede7d9af.com
 0.0.0.0 77.nbryb.com
+0.0.0.0 7713gsefc0.com
 0.0.0.0 773475d.ddns.net
 0.0.0.0 77437ee0a17f19c6085.com
 0.0.0.0 7751352718337798.best-system-tools.com
@@ -2126,6 +2130,7 @@
 0.0.0.0 9101244644679385.best-system-tools.com
 0.0.0.0 910627735985650.window-updates-service.com
 0.0.0.0 911238087548150.windows-display-service.com
+0.0.0.0 9124136.fls.doubleclick.net
 0.0.0.0 913611676957872.windows-display-service.com
 0.0.0.0 9139e35725e895a573c4c6aa7eb47a9f.safeframe.googlesyndication.com
 0.0.0.0 91475d578d.com
@@ -3645,6 +3650,7 @@
 0.0.0.0 adnxs1.com
 0.0.0.0 adobe.specifypunkeventful.com
 0.0.0.0 adobe.sync.go.sonobi.com
+0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobecorp.sc.omtrdc.net
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 adobeflash31_install.ddns.info
@@ -7143,6 +7149,7 @@
 0.0.0.0 apple.5xwr7gviumd5.top
 0.0.0.0 apple.bys98ifvam55.top
 0.0.0.0 apple.speedera.net
+0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 applebarq.com
 0.0.0.0 applicateco.space
 0.0.0.0 applicationtop.com
@@ -7690,6 +7697,7 @@
 0.0.0.0 aud3g.com
 0.0.0.0 audacitydipping.com
 0.0.0.0 audacityprolong.com
+0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 audiblyactorisolation.com
 0.0.0.0 audience.contextads.live
 0.0.0.0 audience.tapad.com
@@ -8366,6 +8374,7 @@
 0.0.0.0 barched8.beget.tech
 0.0.0.0 barchive.connatix.com
 0.0.0.0 barclaysbankplc.demdex.net
+0.0.0.0 barclaysbankplc.tt.omtrdc.net
 0.0.0.0 bardatm.ru
 0.0.0.0 bardogjvsa.com
 0.0.0.0 bare.speedera.net
@@ -9162,6 +9171,7 @@
 0.0.0.0 blackname.biz
 0.0.0.0 blacknessversiondan.com
 0.0.0.0 blackpics.net
+0.0.0.0 blackrock.tt.omtrdc.net
 0.0.0.0 blackserwer.3d.tc
 0.0.0.0 blacurlik.com
 0.0.0.0 blade-bi.microad.co.jp
@@ -11285,6 +11295,7 @@
 0.0.0.0 cirochimi.com
 0.0.0.0 cisco.demdex.net
 0.0.0.0 ciscolearningnetwork.demdex.net
+0.0.0.0 ciscosystemsinc.tt.omtrdc.net
 0.0.0.0 cisscrive.com
 0.0.0.0 cistamenise.com
 0.0.0.0 citaslocas.com
@@ -14087,6 +14098,7 @@
 0.0.0.0 deliveryengine.synchroscript.adswizz.com
 0.0.0.0 deliverymodo.com
 0.0.0.0 dellaroccadeipapi.it
+0.0.0.0 dellinc.tt.omtrdc.net
 0.0.0.0 dellswhinyrank.com
 0.0.0.0 delmarb.com
 0.0.0.0 delmarviato.com
@@ -15031,6 +15043,7 @@
 0.0.0.0 dsandexpe.biz
 0.0.0.0 dsbrowser.report-uri.io
 0.0.0.0 dsfjhfhyry2hh8jo09.com
+0.0.0.0 dsgretaillimited.tt.omtrdc.net
 0.0.0.0 dsh-clan.de
 0.0.0.0 dskyseconomic.info
 0.0.0.0 dslladen.com
@@ -16249,6 +16262,7 @@
 0.0.0.0 eslerisave.info
 0.0.0.0 esmcaverag.club
 0.0.0.0 espn.hb.omtrdc.net
+0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 espritgames.com
 0.0.0.0 esri.demdex.net
 0.0.0.0 essayads.com
@@ -17017,6 +17031,7 @@
 0.0.0.0 fc48f6435664b37a5ec2bc1006bf7608.safeframe.googlesyndication.com
 0.0.0.0 fc5439b23d8e71dd.com
 0.0.0.0 fc8533bab11d0524dc97c7aafdd908a5.safeframe.googlesyndication.com
+0.0.0.0 fcaemea.tt.omtrdc.net
 0.0.0.0 fcapi-ipv6.jpush.cn
 0.0.0.0 fcapi.jpush.cn
 0.0.0.0 fcb7e4e0275c83754d5965852ed9fb61.safeframe.googlesyndication.com
@@ -18173,6 +18188,7 @@
 0.0.0.0 g6qja8.edvfwlacluo.com
 0.0.0.0 g7-protest.de
 0.0.0.0 g8cp5djk1j0r.com
+0.0.0.0 g9qnk89pd5ic.com
 0.0.0.0 ga-ads.com
 0.0.0.0 ga.googlevideo.io
 0.0.0.0 ga.opmnstr.com
@@ -23773,6 +23789,7 @@
 0.0.0.0 leninsubscribe.com
 0.0.0.0 lenkmio.com
 0.0.0.0 lenmit.com
+0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lentduskyscold.com
 0.0.0.0 lentpedigreecompletely.com
 0.0.0.0 leo-printer.com
@@ -24987,6 +25004,7 @@
 0.0.0.0 magnetisemedia.com
 0.0.0.0 magnetlinkyifyscom.imageshack.host
 0.0.0.0 magnetprofit.life
+0.0.0.0 magnificentflametemperature.com
 0.0.0.0 magnificentmanlyyeast.com
 0.0.0.0 magnificentmeasure.com
 0.0.0.0 magpiedbareges.com
@@ -25203,6 +25221,7 @@
 0.0.0.0 maroola.aditms.me
 0.0.0.0 marpacca.es
 0.0.0.0 marphezis.com
+0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 mars-video-inv-eu.admixer.net
 0.0.0.0 marsads.com
 0.0.0.0 marshoestore.club
@@ -25354,6 +25373,7 @@
 0.0.0.0 mc.umeng.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mcafee12.tt.omtrdc.net
 0.0.0.0 mcants.de
 0.0.0.0 mcclatchy.tt.omtrdc.net
 0.0.0.0 mcdn-report.wc.yahoodns.net
@@ -27503,6 +27523,7 @@
 0.0.0.0 nicego-h5.batmobi.net
 0.0.0.0 nicemice.cf
 0.0.0.0 nicesoftsltd.info
+0.0.0.0 niceupload.com
 0.0.0.0 nicheadmiringadverse.com
 0.0.0.0 nicheads.com
 0.0.0.0 nichools.com
@@ -30399,6 +30420,7 @@
 0.0.0.0 philation.club
 0.0.0.0 philbardre.com
 0.0.0.0 philippoehler.de
+0.0.0.0 philipselectronicsne.tt.omtrdc.net
 0.0.0.0 philosophicalregardlesssetback.com
 0.0.0.0 philstraffic.com
 0.0.0.0 philyraauklet.com
@@ -32810,6 +32832,7 @@
 0.0.0.0 plumbscalpelprestigious.com
 0.0.0.0 pluralbreakpractice7.live
 0.0.0.0 pluralsight.demdex.net
+0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 plus.ublock.org
 0.0.0.0 plusclick.biz
 0.0.0.0 plusdens.com
@@ -40028,6 +40051,7 @@
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tastesmodifycount.com
 0.0.0.0 tatango.com
+0.0.0.0 tataunistore.tt.omtrdc.net
 0.0.0.0 tatdunsit.com
 0.0.0.0 tateuniver.club
 0.0.0.0 tathitch.net
@@ -40759,6 +40783,7 @@
 0.0.0.0 tm-offers.gamingadult.com
 0.0.0.0 tm.interworksmedia.co.kr
 0.0.0.0 tm5kpprikka.com
+0.0.0.0 tmbi.tt.omtrdc.net
 0.0.0.0 tmblaeivephb.com
 0.0.0.0 tmdoneclient.page.link
 0.0.0.0 tme2wrwzz3wh.com
@@ -41046,6 +41071,7 @@
 0.0.0.0 toysvestigetramp.com
 0.0.0.0 toywafdduceezo.com
 0.0.0.0 tozoruaon.com
+0.0.0.0 tp1jcgl644jk.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tpatrongva.top
 0.0.0.0 tpc.googlesyndication.com
@@ -43876,6 +43902,7 @@
 0.0.0.0 vice-publishers-cdn.vice.com
 0.0.0.0 vice.demdex.net
 0.0.0.0 vicegnem.click
+0.0.0.0 victoriousbanker.com
 0.0.0.0 vid-adblocker.com
 0.0.0.0 vid.applovin.com
 0.0.0.0 vid.atdmt.com
@@ -44737,6 +44764,7 @@
 0.0.0.0 webmastercentral.pc.cdn.bitgravity.com
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterspub.com
+0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
@@ -45502,6 +45530,7 @@
 0.0.0.0 wwa.ero-advertising.com
 0.0.0.0 wwbn.com
 0.0.0.0 wwcl1ck.com
+0.0.0.0 wwgraingerinc.tt.omtrdc.net
 0.0.0.0 wwmcuhvqaf.com
 0.0.0.0 wwnrdqxo.com
 0.0.0.0 wwplka.azureedge.net
@@ -46885,6 +46914,7 @@
 0.0.0.0 www.madadsmedia.com
 0.0.0.0 www.madcpms.com
 0.0.0.0 www.mafvijpjsaz.com
+0.0.0.0 www.magnificentflametemperature.com
 0.0.0.0 www.mahimeta.com
 0.0.0.0 www.makzidhq.com
 0.0.0.0 www.malayporn.me
