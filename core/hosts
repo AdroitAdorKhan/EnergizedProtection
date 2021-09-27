@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.270
 # Release: 270
-# Entries: 51,339
+# Entries: 51,350
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 27 Sep 21 19:52:15
+# Updated: Mon, 27 Sep 21 23:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -265,6 +265,7 @@
 0.0.0.0 101m3.com
 0.0.0.0 102.stream.livejasmin.com
 0.0.0.0 10209408.fls.doubleclick.net
+0.0.0.0 10237113.fls.doubleclick.net
 0.0.0.0 10238544.fls.doubleclick.net
 0.0.0.0 10251107.fls.doubleclick.net
 0.0.0.0 102vod-adaptive.akamaized.net
@@ -334,6 +335,7 @@
 0.0.0.0 11206388.fls.doubleclick.net
 0.0.0.0 11229815.fls.doubleclick.net
 0.0.0.0 11252588.fls.doubleclick.net
+0.0.0.0 11343817.fls.doubleclick.net
 0.0.0.0 116424719492594.window-updates-service.com
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 11bet.com
@@ -1524,6 +1526,7 @@
 0.0.0.0 553531381818983.window-updates-service.com
 0.0.0.0 554087479909261.window-updates-service.com
 0.0.0.0 5567612.fls.doubleclick.net
+0.0.0.0 5570431.fls.doubleclick.net
 0.0.0.0 558278560638427.window-updates-service.com
 0.0.0.0 5594152143469096.best-system-tools.com
 0.0.0.0 55bfcd36.api.splkmobile.com
@@ -1548,6 +1551,7 @@
 0.0.0.0 573700110117594.window-updates-service.com
 0.0.0.0 57473b6b571.com
 0.0.0.0 576629797617594.windows-display-service.com
+0.0.0.0 57902500-d835-0706-0025-905735d80e0f.encasedandelionhauled.com
 0.0.0.0 579220400916205.windows-display-service.com
 0.0.0.0 57d3e30e.duckdns.org
 0.0.0.0 57e3ascxh1.com
@@ -13389,6 +13393,7 @@
 0.0.0.0 compass-viewability.deliverimp.com
 0.0.0.0 compass.adop.cc
 0.0.0.0 compass.umeng.com
+0.0.0.0 compassbank.tt.omtrdc.net
 0.0.0.0 compasscdn.adop.cc
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 compdate.my03.com
@@ -22902,6 +22907,7 @@
 0.0.0.0 intrapromotion.com
 0.0.0.0 intravert.co
 0.0.0.0 intrin.de
+0.0.0.0 introductioncleavernipple.com
 0.0.0.0 intrudeaccess.com
 0.0.0.0 inttrax.com
 0.0.0.0 inuvi.com
@@ -31143,8 +31149,10 @@
 0.0.0.0 p69578.retdaz.fun
 0.0.0.0 p6p2w3v92czo.com
 0.0.0.0 p72812.clksite.com
+0.0.0.0 p73500.mybetterdl.com
 0.0.0.0 p74826.infopicked.com
 0.0.0.0 p75460.infopicked.com
+0.0.0.0 p75465.mybetterdl.com
 0.0.0.0 p7560.cdaz.icu
 0.0.0.0 p7560.retdaz.fun
 0.0.0.0 p76570.mybetterdl.com
@@ -33701,6 +33709,7 @@
 0.0.0.0 pl16509190.highperformancecpm.com
 0.0.0.0 pl16509282.highperformancecpm.com
 0.0.0.0 pl16509283.highperformancecpm.com
+0.0.0.0 pl16510281.highperformancecpm.com
 0.0.0.0 pl16510830.highperformancecpm.com
 0.0.0.0 pl16510962.highperformancecpm.com
 0.0.0.0 pl16511440.highperformancecpm.com
@@ -34099,6 +34108,7 @@
 0.0.0.0 pl16625407.effectivecpmgate.com
 0.0.0.0 pl16626183.effectivecpmgate.com
 0.0.0.0 pl16627300.effectivecpmgate.com
+0.0.0.0 pl16629658.effectivecpmgate.com
 0.0.0.0 pl16631346.effectivecpmgate.com
 0.0.0.0 pl16632978.effectivecpmgate.com
 0.0.0.0 pl167337.performancetrustednetwork.com
@@ -35995,6 +36005,7 @@
 0.0.0.0 quick-stats.jpush.cn
 0.0.0.0 quickads.net
 0.0.0.0 quickenloans.tt.omtrdc.net
+0.0.0.0 quicklesvad.xyz
 0.0.0.0 quicklisti.com
 0.0.0.0 quickorange.com
 0.0.0.0 quickpaydayloansus.com
