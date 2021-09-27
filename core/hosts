@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.271
 # Release: 271
-# Entries: 42,317
+# Entries: 42,322
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 28 Sep 21 02:02:10
+# Updated: Tue, 28 Sep 21 03:52:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -148,7 +148,6 @@
 0.0.0.0 0e97328da78b.bitsngo.net
 0.0.0.0 0eijh8996i.com
 0.0.0.0 0f461325bf56c3e1b9.com
-0.0.0.0 0fc85.bhyxj.com
 0.0.0.0 0gctp5ht.top
 0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 0h6djpk8fn.com
@@ -10548,6 +10547,7 @@
 0.0.0.0 cleverwebserver.com
 0.0.0.0 clevv.com
 0.0.0.0 clfxjrlui.com
+0.0.0.0 cliand.com
 0.0.0.0 clic2pub.com
 0.0.0.0 clicadu.com
 0.0.0.0 click-haproxy.supersonicads.com
@@ -11352,6 +11352,7 @@
 0.0.0.0 collector.lightstep.com
 0.0.0.0 collector.mediator.media
 0.0.0.0 collector.newrelic.com
+0.0.0.0 collector.scopely.io
 0.0.0.0 collector.sophi.io
 0.0.0.0 collector.unlockxh3.com
 0.0.0.0 collector.unsplash.com
@@ -12707,7 +12708,6 @@
 0.0.0.0 data.adop.cc
 0.0.0.0 data.adroll.com
 0.0.0.0 data.ads.oppomobile.com
-0.0.0.0 data.agkn.com
 0.0.0.0 data.alexa.com
 0.0.0.0 data.cnn.com
 0.0.0.0 data.dianomi.com
@@ -14952,6 +14952,7 @@
 0.0.0.0 evergreensignificance.com
 0.0.0.0 everhance-com.videoplayerhub.com
 0.0.0.0 evertherenous.info
+0.0.0.0 everut.com
 0.0.0.0 everwealth.report-uri.io
 0.0.0.0 everybodynaturedeclaration.com
 0.0.0.0 everyindus.top
@@ -17098,6 +17099,7 @@
 0.0.0.0 goldscheideanstalt-seit1970.de
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldvertise.com
+0.0.0.0 golf-collector.scopely.io
 0.0.0.0 gomain.pro
 0.0.0.0 gomain2.pro
 0.0.0.0 gomba.info
@@ -25106,6 +25108,7 @@
 0.0.0.0 onshowit.com
 0.0.0.0 onsidentss.top
 0.0.0.0 onsideratio.fun
+0.0.0.0 onsite-tag-logs.apps.nielsen.com
 0.0.0.0 onsnivyr.com
 0.0.0.0 onsolrockon.com
 0.0.0.0 onsoutsider.top
@@ -29310,6 +29313,7 @@
 0.0.0.0 preulogs.umengcloud.com
 0.0.0.0 prevailedballotcaution.com
 0.0.0.0 prevdo1.ml
+0.0.0.0 preview-collector.scopely.io
 0.0.0.0 preview.admixer.net
 0.0.0.0 preview.ads.justpremium.com
 0.0.0.0 preview.adsnative.com
@@ -40208,6 +40212,7 @@
 0.0.0.0 www.cj.com
 0.0.0.0 www.claroadsclick.com
 0.0.0.0 www.clfxjrlui.com
+0.0.0.0 www.cliand.com
 0.0.0.0 www.click.axiatraders.com
 0.0.0.0 www.clickadilla.com
 0.0.0.0 www.clickadu.com
