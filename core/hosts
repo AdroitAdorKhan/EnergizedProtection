@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.270
 # Release: 270
-# Entries: 51,243
+# Entries: 51,245
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 27 Sep 21 03:52:17
+# Updated: Mon, 27 Sep 21 07:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -33004,6 +33004,7 @@
 0.0.0.0 pl16214317.performancetrustednetwork.com
 0.0.0.0 pl16214869.performancetrustednetwork.com
 0.0.0.0 pl16216325.alternativecpmgate.com
+0.0.0.0 pl16216325.effectivecpmgate.com
 0.0.0.0 pl16216411.performancetrustednetwork.com
 0.0.0.0 pl16216870.highperformancecpm.com
 0.0.0.0 pl16218394.alternativecpmgate.com
@@ -34010,6 +34011,7 @@
 0.0.0.0 pl16612210.effectivecpmgate.com
 0.0.0.0 pl16612585.effectivecpmgate.com
 0.0.0.0 pl16613137.effectivecpmgate.com
+0.0.0.0 pl16613138.effectivecpmgate.com
 0.0.0.0 pl16613139.effectivecpmgate.com
 0.0.0.0 pl16613140.effectivecpmgate.com
 0.0.0.0 pl16613141.effectivecpmgate.com
