@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.271
 # Release: 271
-# Entries: 42,322
+# Entries: 42,328
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 28 Sep 21 07:52:51
+# Updated: Tue, 28 Sep 21 11:52:17
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11439,6 +11439,7 @@
 0.0.0.0 communityi.biz
 0.0.0.0 company.report-uri.io
 0.0.0.0 companycouncilbreeze.com
+0.0.0.0 compare.inspirock.com
 0.0.0.0 comparecards.com
 0.0.0.0 comparedsilas.com
 0.0.0.0 compareproprietary.com
@@ -14642,6 +14643,7 @@
 0.0.0.0 eoredi.com
 0.0.0.0 eosads.com
 0.0.0.0 eossbuqccjrfs.com
+0.0.0.0 eovnezvotrnp.com
 0.0.0.0 eoweridus.com
 0.0.0.0 eowo.de
 0.0.0.0 ep-uswest.ifc.inmobi.com
@@ -20384,6 +20386,7 @@
 0.0.0.0 km.popmonster.ru
 0.0.0.0 kmacon.com
 0.0.0.0 kmovuj.com
+0.0.0.0 kmpkedsbdb.com
 0.0.0.0 kmpqp.bemobtrk.com
 0.0.0.0 kmqkdhqaqt.com
 0.0.0.0 kmuvaerfumy.com
@@ -23174,6 +23177,7 @@
 0.0.0.0 motosal.net
 0.0.0.0 motrixi.com
 0.0.0.0 mottnow.com
+0.0.0.0 mountries.xyz
 0.0.0.0 mouseflow.com
 0.0.0.0 mousescrupulousrow.com
 0.0.0.0 mousk.es
@@ -38844,6 +38848,7 @@
 0.0.0.0 vplserv.duckdns.org
 0.0.0.0 vpn-dc.rubiconproject.com
 0.0.0.0 vpn-freeproxy.com
+0.0.0.0 vpn-offers.com
 0.0.0.0 vpn.adotmob.com
 0.0.0.0 vpn.appsflyer.com
 0.0.0.0 vpn.cloudtraff.com
@@ -38898,6 +38903,7 @@
 0.0.0.0 vst1mid.com
 0.0.0.0 vst2mid.com
 0.0.0.0 vst3mid.com
+0.0.0.0 vst4mid.com
 0.0.0.0 vstaner.com
 0.0.0.0 vstarstore.com
 0.0.0.0 vstatic.fastclick.net
