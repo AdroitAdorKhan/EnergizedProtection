@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.272
 # Release: 272
-# Entries: 42,265
+# Entries: 42,277
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 29 Sep 21 07:52:21
+# Updated: Wed, 29 Sep 21 11:52:16
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2293,6 +2293,7 @@
 0.0.0.0 a353364ec1bd19a.com
 0.0.0.0 a35c92d96766745.com
 0.0.0.0 a3artplay.com
+0.0.0.0 a3bwx220ks5p1x-ats.iot.ap-northeast-1.amazonaws.com
 0.0.0.0 a3cdn.contentabc.com
 0.0.0.0 a3f6533dc6.4d3e6cda67.com
 0.0.0.0 a3m.io
@@ -6737,6 +6738,7 @@
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.ucdns.uc.cn
 0.0.0.0 applovin.com
+0.0.0.0 applutysurve.xyz
 0.0.0.0 applytics.nordvpn.com
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appnext.com
@@ -17166,6 +17168,7 @@
 0.0.0.0 gozendata.com
 0.0.0.0 gp.trcked.me
 0.0.0.0 gpbaru.net
+0.0.0.0 gpbhgborcpy.com
 0.0.0.0 gpcdreunite.casa
 0.0.0.0 gpe.report-uri.io
 0.0.0.0 gplinks.co
@@ -19611,6 +19614,7 @@
 0.0.0.0 jakzxxzrymhz.com
 0.0.0.0 jalmalapillingworks.com
 0.0.0.0 jalousien-neufend.de
+0.0.0.0 jamfcloud.com
 0.0.0.0 jamsoulsfriday.com
 0.0.0.0 jango.com
 0.0.0.0 janimperativefinance.com
@@ -29355,6 +29359,7 @@
 0.0.0.0 prod-a-usa.applovin.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-analytics.qlitics.com
+0.0.0.0 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 0.0.0.0 prod-collecticon.outlookmobile.com
 0.0.0.0 prod-e-node-1112.nexage.com
 0.0.0.0 prod-e-node-1212.nexage.com
@@ -32761,6 +32766,7 @@
 0.0.0.0 shareasale.com
 0.0.0.0 sharebar.addthis.com
 0.0.0.0 sharecash.org
+0.0.0.0 shared-jamf-jpt-generic-packages.s3.amazonaws.com
 0.0.0.0 shared.connatix.com
 0.0.0.0 sharegods.com
 0.0.0.0 sharegumberry.cam
@@ -33957,6 +33963,7 @@
 0.0.0.0 standnizati.fun
 0.0.0.0 standpointpreparation.com
 0.0.0.0 stankyrich.com
+0.0.0.0 stansoam.com
 0.0.0.0 star-advertising.com
 0.0.0.0 star.adcash.com
 0.0.0.0 starcoins.ws
@@ -34425,6 +34432,7 @@
 0.0.0.0 stressbureaucracyneighbour.com
 0.0.0.0 stretchingcognitioncommission.com
 0.0.0.0 strialtreme.top
+0.0.0.0 stributedefy.xyz
 0.0.0.0 strictlyglobe.com
 0.0.0.0 strikead.com
 0.0.0.0 strikeadcdn.s3.amazonaws.com
@@ -37292,6 +37300,7 @@
 0.0.0.0 ts.market.mi-img.com
 0.0.0.0 ts.visitstats.com
 0.0.0.0 ts.webclicks24.com
+0.0.0.0 ts01-gyr-maverick.cloudsink.net
 0.0.0.0 tsab.tt.omtrdc.net
 0.0.0.0 tsandycateup.com
 0.0.0.0 tsardagger.com
@@ -37463,6 +37472,7 @@
 0.0.0.0 tx.cdnjs.work
 0.0.0.0 txb6i.rdtk.io
 0.0.0.0 txcmjo.com
+0.0.0.0 txgakrasgns.com
 0.0.0.0 txtimpact.com
 0.0.0.0 txxx.ahcdn.com
 0.0.0.0 ty65xcc-smart-manatee.mybluemix.net
@@ -40397,6 +40407,7 @@
 0.0.0.0 www.gkgojxjucutvnt.com
 0.0.0.0 www.glaixich.net
 0.0.0.0 www.glcdn.co
+0.0.0.0 www.glimpsemankind.com
 0.0.0.0 www.glogoowo.net
 0.0.0.0 www.gmial.com
 0.0.0.0 www.gmodules.com
@@ -41498,6 +41509,7 @@
 0.0.0.0 xgrwjbui.top
 0.0.0.0 xh.video
 0.0.0.0 xhamstercams.com
+0.0.0.0 xhuwypebxqlt.com
 0.0.0.0 xhzugaqnqo.com
 0.0.0.0 xiaobao.cmcm.com
 0.0.0.0 xibadupty.com
