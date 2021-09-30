@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.09.273
 # Release: 273
-# Entries: 42,542
+# Entries: 42,831
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Sep 21 14:42:47
+# Updated: Thu, 30 Sep 21 16:05:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -76,24 +76,29 @@
 0.0.0.0 0127538a552.com
 0.0.0.0 013201601385077755.best-system-tools.com
 0.0.0.0 014432816844078156.best-system-tools.com
+0.0.0.0 0152d093.dr.youme.im
 0.0.0.0 01553d34.api.splkmobile.com
 0.0.0.0 019870cd5cf8.bitsngo.net
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 01xud.rdtk.io
 0.0.0.0 02.gw.flurry.com
 0.0.0.0 0202.com.tw
+0.0.0.0 021ce3de.rtc.youme.im
 0.0.0.0 02469357-27fd-49a7-9dbc-f0d94ae65faa.edge.permutive.app
 0.0.0.0 0272ac85-5199-4024-a555-397c3d825d95.edge.permutive.app
 0.0.0.0 02aa19117f396e9.com
+0.0.0.0 02c76499.rtc.youme.im
 0.0.0.0 02f8c9a945e0.bitsngo.net
 0.0.0.0 03092021.dustymural.com
 0.0.0.0 03092021.l9kfxu1c5x.com
+0.0.0.0 0372751f.rtc.youme.im
 0.0.0.0 03942129912001624.best-system-tools.com
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 03a58222.api.splkmobile.com
 0.0.0.0 03d7bd17.api.splkmobile.com
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 04092021.dustymural.com
+0.0.0.0 040fc049.dr.youme.im
 0.0.0.0 041400ad701.com
 0.0.0.0 044538975952467474.best-system-tools.com
 0.0.0.0 0489377317324744.best-system-tools.com
@@ -119,6 +124,8 @@
 0.0.0.0 07aa0353cc.com
 0.0.0.0 07fbd2a8.api.splkmobile.com
 0.0.0.0 07fe665dd33f.com
+0.0.0.0 08585052.dr.youme.im
+0.0.0.0 08585052.rtc.youme.im
 0.0.0.0 08629908194624347.best-system-tools.com
 0.0.0.0 0898hhh.com
 0.0.0.0 09092021.l9kfxu1c5x.com
@@ -130,12 +137,14 @@
 0.0.0.0 0azx1.com
 0.0.0.0 0b05d0612b.0565f1f90c.com
 0.0.0.0 0b064abba2b4.bitsngo.net
+0.0.0.0 0b0b8972.dr.youme.im
 0.0.0.0 0b19222804.com
 0.0.0.0 0b2cd04c-a32e-4316-8dff-4f1aa59900bb.edge.permutive.app
 0.0.0.0 0b554bd7cc.eb4b188b26.com
 0.0.0.0 0b9d84d93f1b.com
 0.0.0.0 0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
 0.0.0.0 0byv9mgbn0.com
+0.0.0.0 0c19bf6d.dr.youme.im
 0.0.0.0 0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
 0.0.0.0 0cf17917-395b-4f25-91cc-db3bdd6044b0.edge.permutive.app
 0.0.0.0 0cf17917-395b-4f25-91cc-db3bdd6044b0.prmutv.co
@@ -231,6 +240,7 @@
 0.0.0.0 10209408.fls.doubleclick.net
 0.0.0.0 10237113.fls.doubleclick.net
 0.0.0.0 10238544.fls.doubleclick.net
+0.0.0.0 10245b87.dr.youme.im
 0.0.0.0 10251107.fls.doubleclick.net
 0.0.0.0 102vod-adaptive.akamaized.net
 0.0.0.0 103092804.com
@@ -393,8 +403,10 @@
 0.0.0.0 125f70a5e192.tcbound.com
 0.0.0.0 12724.xyz
 0.0.0.0 127xb4b.edvfwlacluo.com
+0.0.0.0 12818210.rtc.youme.im
 0.0.0.0 1285a451.api.splkmobile.com
 0.0.0.0 1298bab69bbc4.com
+0.0.0.0 12bea55d.dr.youme.im
 0.0.0.0 12bvn.com
 0.0.0.0 12dc71b7cb820f2a.com
 0.0.0.0 12fb602fb307.com
@@ -418,6 +430,7 @@
 0.0.0.0 13804983963932216.best-system-tools.com
 0.0.0.0 138655079735649.windows-display-service.com
 0.0.0.0 1397392647686002.best-system-tools.com
+0.0.0.0 13f63c65.dr.youme.im
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13vm73vbmp.com
 0.0.0.0 13xr7th.edvfwlacluo.com
@@ -428,11 +441,15 @@
 0.0.0.0 14286721458479867.best-system-tools.com
 0.0.0.0 146019988589816.window-updates-service.com
 0.0.0.0 146874480777316.window-updates-service.com
+0.0.0.0 146966b1.dr.youme.im
+0.0.0.0 146966b1.rtc.youme.im
 0.0.0.0 146c128f.api.splkmobile.com
 0.0.0.0 1472334c4b1039dcbd571e5ffa58e7f8.safeframe.googlesyndication.com
 0.0.0.0 14862812917157986.best-system-tools.com
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 149366112.v2.pressablecdn.com
+0.0.0.0 14d2eb80.dr.youme.im
+0.0.0.0 14d2eb80.rtc.youme.im
 0.0.0.0 14dc69dd.api.splkmobile.com
 0.0.0.0 14nuzznszbdp.com
 0.0.0.0 15.nbryb.com
@@ -448,6 +465,7 @@
 0.0.0.0 1591041031.m-wlmw.com
 0.0.0.0 1591041119.m-wlmw.com
 0.0.0.0 159747eac01f5a559eb26d68e58d4104.safeframe.googlesyndication.com
+0.0.0.0 15b4819a.dr.youme.im
 0.0.0.0 15c15bi.edvfwlacluo.com
 0.0.0.0 15cacaospice63nhdk.com
 0.0.0.0 15d5k-28bac.ads.tremorhub.com
@@ -485,6 +503,7 @@
 0.0.0.0 18.nbryb.com
 0.0.0.0 180searchassistant.com
 0.0.0.0 181705209943983.window-updates-service.com
+0.0.0.0 185014c0.dr.youme.im
 0.0.0.0 18597972508326643.best-system-tools.com
 0.0.0.0 187144120534260.windows-display-service.com
 0.0.0.0 187279754214816.windows-display-service.com
@@ -502,6 +521,7 @@
 0.0.0.0 196f25ce95a.com
 0.0.0.0 1983c499735.com
 0.0.0.0 1988328857165047.best-system-tools.com
+0.0.0.0 1989bc36.rtc.youme.im
 0.0.0.0 1991inc.com
 0.0.0.0 1997media.com
 0.0.0.0 1998169356046191.best-system-tools.com
@@ -511,12 +531,15 @@
 0.0.0.0 19d12dd9de1.com
 0.0.0.0 19ichdq.edvfwlacluo.com
 0.0.0.0 19n3w2i.edvfwlacluo.com
+0.0.0.0 1a6ef9d5.dr.youme.im
+0.0.0.0 1a6ef9d5.rtc.youme.im
 0.0.0.0 1ab5bb25e29d576.com
 0.0.0.0 1ad-cdn.technoratimedia.com
 0.0.0.0 1af8335639be93bbd108f449fb2d6c27.safeframe.googlesyndication.com
 0.0.0.0 1affmedia.com
 0.0.0.0 1aogoh1j81g3.com
 0.0.0.0 1aurl.net
+0.0.0.0 1b5a67d5.dr.youme.im
 0.0.0.0 1b69ahb.edvfwlacluo.com
 0.0.0.0 1b6a637cbe7bb65ac.com
 0.0.0.0 1bca644cbcd6b9d944cb4b091b7efebdb690cc7f.cloudapp-enterprise.appcelerator.com
@@ -738,6 +761,8 @@
 0.0.0.0 2020mustang.com
 0.0.0.0 203fb7a4cb1.com
 0.0.0.0 204708682166205.windows-display-service.com
+0.0.0.0 2052e17d.dr.youme.im
+0.0.0.0 2052e17d.rtc.youme.im
 0.0.0.0 20552817p.rfihub.com
 0.0.0.0 205888695187038.window-updates-service.com
 0.0.0.0 206ads.com
@@ -761,6 +786,7 @@
 0.0.0.0 21703173719681623.best-system-tools.com
 0.0.0.0 21736.xyz
 0.0.0.0 217403994666205.window-updates-service.com
+0.0.0.0 21791736.rtc.youme.im
 0.0.0.0 21c9a53484951.com
 0.0.0.0 21find.com
 0.0.0.0 21sexturycash.com
@@ -823,6 +849,8 @@
 0.0.0.0 25859acd7bc1.bitsngo.net
 0.0.0.0 25959174351462555.best-system-tools.com
 0.0.0.0 259965843624538.windows-display-service.com
+0.0.0.0 25bd2c47.dr.youme.im
+0.0.0.0 25bd2c47.rtc.youme.im
 0.0.0.0 25eaf1aeb872eda2511fc352879ae0e0.safeframe.googlesyndication.com
 0.0.0.0 26.winprizes926.fun
 0.0.0.0 26082021.7713gsefc0.com
@@ -846,6 +874,7 @@
 0.0.0.0 2790e977.api.splkmobile.com
 0.0.0.0 279388586680094.windows-display-service.com
 0.0.0.0 27ceb2d5631623.com
+0.0.0.0 27d8cbdc.dr.youme.im
 0.0.0.0 27vckaccbto7p761.pro
 0.0.0.0 28.nbryb.com
 0.0.0.0 28082021.dustymural.com
@@ -890,12 +919,18 @@
 0.0.0.0 2cnjuh34jbpoint.com
 0.0.0.0 2cnjuh34jbstar.com
 0.0.0.0 2d11c8434d5f.bitsngo.net
+0.0.0.0 2d6c7d9c.rtc.youme.im
 0.0.0.0 2d757747652f.bitsngo.net
 0.0.0.0 2dbd87c7a091b.com
 0.0.0.0 2ds.ero-advertising.com
 0.0.0.0 2e0bd0d6cceb.bitsngo.net
+0.0.0.0 2e4dedcc.dr.youme.im
+0.0.0.0 2e4dedcc.rtc.youme.im
 0.0.0.0 2e78f.duckdns.org
 0.0.0.0 2ef37866ec641fca8375f22bc7b059ce.safeframe.googlesyndication.com
+0.0.0.0 2f416a59.dr.youme.im
+0.0.0.0 2f416a59.rtc.youme.im
+0.0.0.0 2f7f7fc9.dr.youme.im
 0.0.0.0 2fc.smartclick.net
 0.0.0.0 2fclk.tradedoubler.com
 0.0.0.0 2fclkuk.tradedoubler.com
@@ -1000,6 +1035,8 @@
 0.0.0.0 3249470.notifysrv.com
 0.0.0.0 3249726498534644.best-system-tools.com
 0.0.0.0 3260930.notifysrv.com
+0.0.0.0 326c2e36.dr.youme.im
+0.0.0.0 326c2e36.rtc.youme.im
 0.0.0.0 3273540.notifysrv.com
 0.0.0.0 3282004.notifysrv.com
 0.0.0.0 3290270.notifysrv.com
@@ -1014,6 +1051,8 @@
 0.0.0.0 3322.net
 0.0.0.0 3323174.notifysrv.com
 0.0.0.0 3325604.notifysrv.com
+0.0.0.0 332d21e5.dr.youme.im
+0.0.0.0 332d21e5.rtc.youme.im
 0.0.0.0 333180904388427.windows-display-service.com
 0.0.0.0 3335306.notifysrv.com
 0.0.0.0 3340606.notifysrv.com
@@ -1082,6 +1121,8 @@
 0.0.0.0 3572904.notifysrv.com
 0.0.0.0 3576531.notifysrv.com
 0.0.0.0 3578231.notifysrv.com
+0.0.0.0 3578f1f7.dr.youme.im
+0.0.0.0 3578f1f7.rtc.youme.im
 0.0.0.0 3581a62b.api.splkmobile.com
 0.0.0.0 3584069.notifysrv.com
 0.0.0.0 3585053647340679.best-system-tools.com
@@ -1137,7 +1178,9 @@
 0.0.0.0 373748938242594.windows-display-service.com
 0.0.0.0 3761fcd24ef9281f5.com
 0.0.0.0 377872202131483.windows-display-service.com
+0.0.0.0 37b5a5a5.dr.youme.im
 0.0.0.0 382822831471761.window-updates-service.com
+0.0.0.0 38461cfc.rtc.youme.im
 0.0.0.0 39.nbryb.com
 0.0.0.0 391204992930094.window-updates-service.com
 0.0.0.0 3921002.notify6.com
@@ -1157,6 +1200,9 @@
 0.0.0.0 3ac901bf5793b0fccff.com
 0.0.0.0 3b666193.api.splkmobile.com
 0.0.0.0 3b9642fec158.bitsngo.net
+0.0.0.0 3ba19947.dr.youme.im
+0.0.0.0 3ba19947.rtc.youme.im
+0.0.0.0 3bebb6fd.rtc.youme.im
 0.0.0.0 3c1b5f92e407.bitsngo.net
 0.0.0.0 3c76eee2407c7c1.com
 0.0.0.0 3ca28642b714623b2.com
@@ -1171,6 +1217,7 @@
 0.0.0.0 3dm024.edvfwlacluo.com
 0.0.0.0 3ds.ero-advertising.com
 0.0.0.0 3e787c93af8de.com
+0.0.0.0 3e81953f.dr.youme.im
 0.0.0.0 3e847800baf9.bitsngo.net
 0.0.0.0 3ed9be19.api.splkmobile.com
 0.0.0.0 3esu.nbryb.com
@@ -1225,6 +1272,7 @@
 0.0.0.0 408891624874538.windows-display-service.com
 0.0.0.0 4096386.notify6.com
 0.0.0.0 40a1eca447d.com
+0.0.0.0 40a886c9.dr.youme.im
 0.0.0.0 40ceexln7929.com
 0.0.0.0 41027e215803ba4d136c9dc829def9f4.safeframe.googlesyndication.com
 0.0.0.0 4154369.fls.doubleclick.net
@@ -1236,6 +1284,8 @@
 0.0.0.0 420420487721761.window-updates-service.com
 0.0.0.0 421831077999538.window-updates-service.com
 0.0.0.0 42297df5c090.com
+0.0.0.0 4232db8f.dr.youme.im
+0.0.0.0 4232db8f.rtc.youme.im
 0.0.0.0 42482d7c73f1.bitsngo.net
 0.0.0.0 42837932b3d.com
 0.0.0.0 428c0f9ede3cf3eea13be328388161b4.safeframe.googlesyndication.com
@@ -1245,10 +1295,13 @@
 0.0.0.0 42tage.de
 0.0.0.0 4303693.fls.doubleclick.net
 0.0.0.0 43137c93a82b0e81da.com
+0.0.0.0 431cd7f5.dr.youme.im
 0.0.0.0 435950544145372.windows-display-service.com
 0.0.0.0 436655839284261.window-updates-service.com
 0.0.0.0 437388261159261.window-updates-service.com
 0.0.0.0 4380352.fls.doubleclick.net
+0.0.0.0 4382402d.dr.youme.im
+0.0.0.0 4382402d.rtc.youme.im
 0.0.0.0 4395963.fls.doubleclick.net
 0.0.0.0 43d6f284d10bfbbb3.com
 0.0.0.0 43t45w.cfeucdn.com
@@ -1259,6 +1312,7 @@
 0.0.0.0 447438716888427.window-updates-service.com
 0.0.0.0 447547223832872.window-updates-service.com
 0.0.0.0 4488211.fls.doubleclick.net
+0.0.0.0 44908167.rtc.youme.im
 0.0.0.0 449825869666205.window-updates-service.com
 0.0.0.0 44chan.me
 0.0.0.0 45.nbryb.com
@@ -1300,6 +1354,8 @@
 0.0.0.0 4978398.fls.doubleclick.net
 0.0.0.0 4991817772226348.best-system-tools.com
 0.0.0.0 49anm.bemobtrk.com
+0.0.0.0 49c556f5.dr.youme.im
+0.0.0.0 49c556f5.rtc.youme.im
 0.0.0.0 49oa3o49b6.com
 0.0.0.0 4a5b0a8d.api.splkmobile.com
 0.0.0.0 4a93ed09d81f.com
@@ -1308,16 +1364,23 @@
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 4armn.com
 0.0.0.0 4b05ca5688bff79.com
+0.0.0.0 4b154511.dr.youme.im
+0.0.0.0 4b154511.rtc.youme.im
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4bb6jls06l.com
+0.0.0.0 4bd4c0eb.rtc.youme.im
 0.0.0.0 4c13cac4bb.com
 0.0.0.0 4c2267d9.api.splkmobile.com
 0.0.0.0 4ce02746fa.b7b06aa9a2.com
+0.0.0.0 4cefd101.dr.youme.im
+0.0.0.0 4cefd101.rtc.youme.im
 0.0.0.0 4cr447ewncl4.com
 0.0.0.0 4crot.com
 0.0.0.0 4d22ce6db7ea3bce76ea6850d59f2410.safeframe.googlesyndication.com
 0.0.0.0 4d2c431d6256d85b49be395855990a62.safeframe.googlesyndication.com
 0.0.0.0 4d3o4.rdtk.io
+0.0.0.0 4d5945c5.rtc.youme.im
+0.0.0.0 4d6fcd5c.rtc.youme.im
 0.0.0.0 4dcdc.com
 0.0.0.0 4dsbanner.net
 0.0.0.0 4dsply.com
@@ -1325,6 +1388,9 @@
 0.0.0.0 4e1be7e9d465dc40ff284403f9ad45d3.safeframe.googlesyndication.com
 0.0.0.0 4e39a78e97.a882299d44.com
 0.0.0.0 4e72e5f6ba53.bitsngo.net
+0.0.0.0 4e7c094d.dr.youme.im
+0.0.0.0 4e7c094d.rtc.youme.im
+0.0.0.0 4ed33eaf.dr.youme.im
 0.0.0.0 4ef41199366d.bitsngo.net
 0.0.0.0 4everfeel.xyz
 0.0.0.0 4exlkjnngs.com
@@ -1387,9 +1453,12 @@
 0.0.0.0 5152wine.net
 0.0.0.0 5160d089289bc7689e5875d0b9498ede.safeframe.googlesyndication.com
 0.0.0.0 517s61.reminews.com
+0.0.0.0 519332da.dr.youme.im
+0.0.0.0 519332da.rtc.youme.im
 0.0.0.0 51baf2ef6ce1.bitsngo.net
 0.0.0.0 51def4dff9f54d568e1551f3ada55f17.safeframe.googlesyndication.com
 0.0.0.0 5236146.fls.doubleclick.net
+0.0.0.0 524c12ab.dr.youme.im
 0.0.0.0 525875674353705.windows-display-service.com
 0.0.0.0 5287852.fls.doubleclick.net
 0.0.0.0 529266516367594.window-updates-service.com
@@ -1402,6 +1471,7 @@
 0.0.0.0 5386844.fls.doubleclick.net
 0.0.0.0 538b5d8f303be.com
 0.0.0.0 54.nbryb.com
+0.0.0.0 541841dd.dr.youme.im
 0.0.0.0 5421036108126611.best-system-tools.com
 0.0.0.0 5438w.reminews.com
 0.0.0.0 544647375742594.windows-display-service.com
@@ -1409,8 +1479,10 @@
 0.0.0.0 548119597964816.window-updates-service.com
 0.0.0.0 54856818265408.best-system-tools.com
 0.0.0.0 54ca10abaa788.com
+0.0.0.0 54fdfe8f.rtc.youme.im
 0.0.0.0 550330426957872.windows-display-service.com
 0.0.0.0 550b3ikb9j.com
+0.0.0.0 5520014a.dr.youme.im
 0.0.0.0 552239b90400b7.com
 0.0.0.0 5531957214011762.best-system-tools.com
 0.0.0.0 553531381818983.window-updates-service.com
@@ -1442,6 +1514,7 @@
 0.0.0.0 576629797617594.windows-display-service.com
 0.0.0.0 57902500-d835-0706-0025-905735d80e0f.encasedandelionhauled.com
 0.0.0.0 579220400916205.windows-display-service.com
+0.0.0.0 57a5ee0b.rtc.youme.im
 0.0.0.0 57d3e30e.duckdns.org
 0.0.0.0 57e3ascxh1.com
 0.0.0.0 57f044f8b400.bitsngo.net
@@ -1458,8 +1531,10 @@
 0.0.0.0 58680dd9.ngrok.io
 0.0.0.0 58b291f917728a2.com
 0.0.0.0 58coin.com
+0.0.0.0 58e3e222.dr.youme.im
 0.0.0.0 58f7c1ff30eb.com
 0.0.0.0 594beaf4.api.splkmobile.com
+0.0.0.0 59590d1e.dr.youme.im
 0.0.0.0 598c3e7fc74b.bitsngo.net
 0.0.0.0 59a8e0d6fa2.com
 0.0.0.0 59cn7.com
@@ -1470,10 +1545,12 @@
 0.0.0.0 5advertise.com
 0.0.0.0 5aea1fab.api.splkmobile.com
 0.0.0.0 5b5a93686577c13.com
+0.0.0.0 5bf96f84.dr.youme.im
 0.0.0.0 5bfc159af1709af72bfd5e8dd26db0ce.safeframe.googlesyndication.com
 0.0.0.0 5c577fc74618431b.com
 0.0.0.0 5c5ad77e61e3.bitsngo.net
 0.0.0.0 5c9e6449.api.splkmobile.com
+0.0.0.0 5cc9bf3b.rtc.youme.im
 0.0.0.0 5cwr93yyd4lf.com
 0.0.0.0 5d02977f6511aa.com
 0.0.0.0 5d863399a1b9.bitsngo.net
@@ -1523,6 +1600,7 @@
 0.0.0.0 6.z-videos.fun
 0.0.0.0 6.znews-live.com
 0.0.0.0 6.zvideo-live.com
+0.0.0.0 600fb958.dr.youme.im
 0.0.0.0 60240457ec91a.r.d-serv.net
 0.0.0.0 602d76e204c032.com
 0.0.0.0 6068a17eed25.com
@@ -1536,6 +1614,7 @@
 0.0.0.0 60b66f53ca53.bitsngo.net
 0.0.0.0 60fpslive.imageshack.host
 0.0.0.0 6108269981.intimate.gifts
+0.0.0.0 61412f67.dr.youme.im
 0.0.0.0 615b68cc9c8528e.com
 0.0.0.0 61739011039d41a.com
 0.0.0.0 617469098832872.windows-display-service.com
@@ -1586,6 +1665,7 @@
 0.0.0.0 65988c8b.api.splkmobile.com
 0.0.0.0 65a29ceed813bbca61.com
 0.0.0.0 65c2ac5c5fc2.bitsngo.net
+0.0.0.0 65d97136.rtc.youme.im
 0.0.0.0 65f53bfdfd3d7855b8bb3bf31c0d1b7c.report-uri.io
 0.0.0.0 65mjvw6i1z.com
 0.0.0.0 65vk1fba34.com
@@ -1602,6 +1682,7 @@
 0.0.0.0 66aa42a650dd.bitsngo.net
 0.0.0.0 67.nbryb.com
 0.0.0.0 670c509d.api.splkmobile.com
+0.0.0.0 671ceecc.dr.youme.im
 0.0.0.0 673580752478705.windows-display-service.com
 0.0.0.0 6735a55d.ngrok.io
 0.0.0.0 676.digitaldsp.com
@@ -1615,6 +1696,8 @@
 0.0.0.0 687740908728705.windows-display-service.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68a6d200.contentabc.com
+0.0.0.0 68adbf38.dr.youme.im
+0.0.0.0 68adbf38.rtc.youme.im
 0.0.0.0 68d0d5e26bb0ae.com
 0.0.0.0 691633595360649.windows-display-service.com
 0.0.0.0 6916631.fls.doubleclick.net
@@ -1625,12 +1708,14 @@
 0.0.0.0 698171138763427.window-updates-service.com
 0.0.0.0 698618729909261.window-updates-service.com
 0.0.0.0 69e20009548f7062884fd4d0b697fd0e.safeframe.googlesyndication.com
+0.0.0.0 69fb13bc.rtc.youme.im
 0.0.0.0 69i.club
 0.0.0.0 69oxt4q05.com
 0.0.0.0 6a40194bef976cc.com
 0.0.0.0 6a4c2a90.api.splkmobile.com
 0.0.0.0 6af461b907c5b.com
 0.0.0.0 6angebot.ch
+0.0.0.0 6b089015.dr.youme.im
 0.0.0.0 6b357cda0f.com
 0.0.0.0 6b4bcc240ad94.com
 0.0.0.0 6b5c418918ebb008cc6.com
@@ -1639,11 +1724,18 @@
 0.0.0.0 6bw99sa63rcihhljy.ay.delivery
 0.0.0.0 6c6a4ec4e8b80d4.com
 0.0.0.0 6cgq.adj.st
+0.0.0.0 6d80997d.rtc.youme.im
+0.0.0.0 6dcbae9e.rtc.youme.im
+0.0.0.0 6e15876d.dr.youme.im
 0.0.0.0 6e2f1d2ae033.com
+0.0.0.0 6e9800ff.dr.youme.im
+0.0.0.0 6e9800ff.rtc.youme.im
 0.0.0.0 6ea56485aed0c.com
 0.0.0.0 6f1dba68f65.com
 0.0.0.0 6f2tjr26.top
+0.0.0.0 6f3fc5a9.rtc.youme.im
 0.0.0.0 6f793cc9999.com
+0.0.0.0 6fddad1f.rtc.youme.im
 0.0.0.0 6h04j.bemobtrk.com
 0.0.0.0 6i4uibyg0c82.com
 0.0.0.0 6kup12tgxx.com
@@ -1722,6 +1814,7 @@
 0.0.0.0 724524762895372.windows-display-service.com
 0.0.0.0 7247942.collect.igodigital.com
 0.0.0.0 724f3276.api.splkmobile.com
+0.0.0.0 72619285.rtc.youme.im
 0.0.0.0 726681338416205.window-updates-service.com
 0.0.0.0 7272746b6b98.bitsngo.net
 0.0.0.0 7275979.collect.igodigital.com
@@ -1756,6 +1849,8 @@
 0.0.0.0 740638044145372.windows-display-service.com
 0.0.0.0 74069d6dc66.com
 0.0.0.0 744476477305094.window-updates-service.com
+0.0.0.0 7454dca2.dr.youme.im
+0.0.0.0 7454dca2.rtc.youme.im
 0.0.0.0 746185461680094.windows-display-service.com
 0.0.0.0 746bdf1ce3.com
 0.0.0.0 746fyw2v.com
@@ -1795,6 +1890,8 @@
 0.0.0.0 7839e0482307b9276b.com
 0.0.0.0 789a42c1a33aa5.com
 0.0.0.0 79.nbryb.com
+0.0.0.0 790c86b8.dr.youme.im
+0.0.0.0 7962b97f.rtc.youme.im
 0.0.0.0 797422f3a7e8.bitsngo.net
 0.0.0.0 7982885289574679.best-system-tools.com
 0.0.0.0 79k52baw2qa3.com
@@ -1802,6 +1899,8 @@
 0.0.0.0 7a7bbe3bbcff5b254d9a817c096d340f.safeframe.googlesyndication.com
 0.0.0.0 7a8fe1c29493.com
 0.0.0.0 7bb6692c.api.splkmobile.com
+0.0.0.0 7bd4a85b.dr.youme.im
+0.0.0.0 7bd4a85b.rtc.youme.im
 0.0.0.0 7bf5e51ddbd274474678d3a6b3fcfcb4.safeframe.googlesyndication.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7c1e55606540.com
@@ -1819,7 +1918,10 @@
 0.0.0.0 7evasi0n.com
 0.0.0.0 7f05adf994e7df8dbf97bc076e41bd6e.report-uri.io
 0.0.0.0 7f3ad7d6ad52.com
+0.0.0.0 7f47bc34.dr.youme.im
+0.0.0.0 7f47bc34.rtc.youme.im
 0.0.0.0 7f6383e2d7.com
+0.0.0.0 7f86e5ef.dr.youme.im
 0.0.0.0 7f8e91975bdc9c5f1c.com
 0.0.0.0 7fkm2r4pzi.com
 0.0.0.0 7fva8algp45k.com
@@ -1862,7 +1964,11 @@
 0.0.0.0 809933291541205.windows-display-service.com
 0.0.0.0 81.nbryb.com
 0.0.0.0 813676781124538.windows-display-service.com
+0.0.0.0 814c60d7.dr.youme.im
+0.0.0.0 814c60d7.rtc.youme.im
 0.0.0.0 816172440846761.window-updates-service.com
+0.0.0.0 8175fc71.dr.youme.im
+0.0.0.0 8175fc71.rtc.youme.im
 0.0.0.0 8181118.fls.doubleclick.net
 0.0.0.0 8188383.fls.doubleclick.net
 0.0.0.0 8193443770880544.best-system-tools.com
@@ -1894,6 +2000,8 @@
 0.0.0.0 838fb531.api.splkmobile.com
 0.0.0.0 83929f59.api.splkmobile.com
 0.0.0.0 839976151784261.windows-display-service.com
+0.0.0.0 83c1389b.dr.youme.im
+0.0.0.0 83c1389b.rtc.youme.im
 0.0.0.0 83ndmix.work
 0.0.0.0 840152431935502.best-system-tools.com
 0.0.0.0 8406254.fls.doubleclick.net
@@ -1907,6 +2015,7 @@
 0.0.0.0 848304059770372.window-updates-service.com
 0.0.0.0 8498010386375903.best-system-tools.com
 0.0.0.0 84b898f0f5.com
+0.0.0.0 84fb1c2f.rtc.youme.im
 0.0.0.0 850a54dbd2398a2.com
 0.0.0.0 851382944318983.windows-display-service.com
 0.0.0.0 852807097964816.window-updates-service.com
@@ -1935,12 +2044,18 @@
 0.0.0.0 876u4-lx1pc.ads.tremorhub.com
 0.0.0.0 8777010105942357.best-system-tools.com
 0.0.0.0 879092905256483.windows-display-service.com
+0.0.0.0 87ad9bfd.dr.youme.im
 0.0.0.0 87afbf97c88.com
+0.0.0.0 87bde12c.dr.youme.im
+0.0.0.0 87cf85b1.dr.youme.im
+0.0.0.0 87cf85b1.rtc.youme.im
 0.0.0.0 87gw0fl0rc11.com
 0.0.0.0 88.nbryb.com
 0.0.0.0 8804842.fls.doubleclick.net
 0.0.0.0 880cf29383c9.bitsngo.net
 0.0.0.0 882646507687038.windows-display-service.com
+0.0.0.0 883107af.dr.youme.im
+0.0.0.0 883107af.rtc.youme.im
 0.0.0.0 885250674353705.windows-display-service.com
 0.0.0.0 8863906.fls.doubleclick.net
 0.0.0.0 888games.com
@@ -1978,6 +2093,7 @@
 0.0.0.0 8d1a3da1-b625-4b4a-872b-13622b855ae6.edge.permutive.app
 0.0.0.0 8dbd6efa69ae9bc571b667a876e6775a.safeframe.googlesyndication.com
 0.0.0.0 8dfaa2dc76855.com
+0.0.0.0 8e046a13.dr.youme.im
 0.0.0.0 8e3d.duckdns.org
 0.0.0.0 8e81f51f.api.splkmobile.com
 0.0.0.0 8ff01bde37db289d5.com
@@ -2071,20 +2187,27 @@
 0.0.0.0 96.nbryb.com
 0.0.0.0 961124155256483.window-updates-service.com
 0.0.0.0 962955209943983.window-updates-service.com
+0.0.0.0 9658758d.rtc.youme.im
 0.0.0.0 96660970b05417.com
 0.0.0.0 966942840152316.window-updates-service.com
 0.0.0.0 967rett6fzaf.com
 0.0.0.0 968014346228705.windows-display-service.com
 0.0.0.0 969696203867594.windows-display-service.com
+0.0.0.0 96bda238.rtc.youme.im
 0.0.0.0 96bspinadvisor.com
 0.0.0.0 96c9d297.api.splkmobile.com
+0.0.0.0 96df5c52.rtc.youme.im
+0.0.0.0 96e95b4a.dr.youme.im
 0.0.0.0 96fb0aa14404303c87d875c3291400a6.safeframe.googlesyndication.com
 0.0.0.0 97.nbryb.com
 0.0.0.0 9732244008729962.best-system-tools.com
 0.0.0.0 9743337.fls.doubleclick.net
 0.0.0.0 9750550.fls.doubleclick.net
 0.0.0.0 9752811.fls.doubleclick.net
+0.0.0.0 97cce81a.dr.youme.im
+0.0.0.0 97cce81a.rtc.youme.im
 0.0.0.0 97d73lsi.com
+0.0.0.0 97da66b7.dr.youme.im
 0.0.0.0 98.nbryb.com
 0.0.0.0 9816377.fls.doubleclick.net
 0.0.0.0 9822591.fls.doubleclick.net
@@ -2093,8 +2216,10 @@
 0.0.0.0 9864102.fls.doubleclick.net
 0.0.0.0 9873560961482832.best-system-tools.com
 0.0.0.0 9876643.fls.doubleclick.net
+0.0.0.0 988e9e09.rtc.youme.im
 0.0.0.0 98a67c3f.api.splkmobile.com
 0.0.0.0 98bf9h8jbg.com
+0.0.0.0 98c68d0e.rtc.youme.im
 0.0.0.0 98dba6326789eae01552e92f7b3e68d5.report-uri.io
 0.0.0.0 990407466888427.window-updates-service.com
 0.0.0.0 9919737.fls.doubleclick.net
@@ -2111,16 +2236,22 @@
 0.0.0.0 99miners.com
 0.0.0.0 9a24a1b3dcd5f4.com
 0.0.0.0 9a6fc4910639.bitsngo.net
+0.0.0.0 9aa42983.dr.youme.im
+0.0.0.0 9aa42983.rtc.youme.im
 0.0.0.0 9aaeea3094d8.com
 0.0.0.0 9ad16721d9d5c56.com
 0.0.0.0 9ads.mobi
 0.0.0.0 9ae7c9ffe8509b0.com
 0.0.0.0 9aow8j.edvfwlacluo.com
 0.0.0.0 9appslogger.las.uae.uc.cn
+0.0.0.0 9b80b1.rtc.youme.im
 0.0.0.0 9bb6fa4987e.com
 0.0.0.0 9c0181b4.api.splkmobile.com
 0.0.0.0 9c40a04e9732e6a6.com
+0.0.0.0 9c47291f.dr.youme.im
+0.0.0.0 9c47291f.rtc.youme.im
 0.0.0.0 9c603535.api.splkmobile.com
+0.0.0.0 9c8b0ae1.rtc.youme.im
 0.0.0.0 9c921e15c8d17.com
 0.0.0.0 9cd76b4462bb.com
 0.0.0.0 9content.com
@@ -2128,11 +2259,14 @@
 0.0.0.0 9dmnv9z0gtoh.com
 0.0.0.0 9e1486fffbec3.com
 0.0.0.0 9e1ba9d440afd54dc0c7979c3e8e9d14.safeframe.googlesyndication.com
+0.0.0.0 9e215c73.dr.youme.im
 0.0.0.0 9e5420f6be48ccc.com
 0.0.0.0 9e771bcbe91a702bbaa7c408be8aa767.safeframe.googlesyndication.com
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9ehy8a8u6b.com
+0.0.0.0 9f24fbd4.dr.youme.im
+0.0.0.0 9f24fbd4.rtc.youme.im
 0.0.0.0 9f38cd012c83.com
 0.0.0.0 9fcbacf708f2.com
 0.0.0.0 9itmr1lzaltn.com
@@ -2287,6 +2421,7 @@
 0.0.0.0 a15c5009bcbe272.com
 0.0.0.0 a1825.dscd.akamai.net
 0.0.0.0 a19282ff1fa0.bitsngo.net
+0.0.0.0 a1f5e918.dr.youme.im
 0.0.0.0 a2-38-65-20-18.adform.net
 0.0.0.0 a2-38-65-20-19.adform.net
 0.0.0.0 a2.adform.net
@@ -2307,9 +2442,12 @@
 0.0.0.0 a337b163a0bc.com
 0.0.0.0 a353364ec1bd19a.com
 0.0.0.0 a35c92d96766745.com
+0.0.0.0 a3989ab2.dr.youme.im
 0.0.0.0 a3artplay.com
 0.0.0.0 a3bwx220ks5p1x-ats.iot.ap-northeast-1.amazonaws.com
 0.0.0.0 a3cdn.contentabc.com
+0.0.0.0 a3ee32ed.dr.youme.im
+0.0.0.0 a3ee32ed.rtc.youme.im
 0.0.0.0 a3f6533dc6.4d3e6cda67.com
 0.0.0.0 a3m.io
 0.0.0.0 a3yqjsrczwwp.com
@@ -2433,6 +2571,7 @@
 0.0.0.0 abburmyer.com
 0.0.0.0 abc-ads.com
 0.0.0.0 abc.abcdserver.com
+0.0.0.0 abc.rtc.youme.im
 0.0.0.0 abc1.adtelligent.com
 0.0.0.0 abc1.feed-xml.com
 0.0.0.0 abc11.feed-xml.com
@@ -2962,6 +3101,8 @@
 0.0.0.0 ad4.banners.ero-advertising.com
 0.0.0.0 ad4.layerads.ero-advertising.com
 0.0.0.0 ad4.wpengine.com
+0.0.0.0 ad45c694.dr.youme.im
+0.0.0.0 ad45c694.rtc.youme.im
 0.0.0.0 ad4989.co.kr
 0.0.0.0 ad4game.com
 0.0.0.0 ad5.adriver.ru
@@ -2977,6 +3118,7 @@
 0.0.0.0 ad7.thumbs.ero-advertising.com
 0.0.0.0 ad8.api.ero-advertising.com
 0.0.0.0 ad8.banners.ero-advertising.com
+0.0.0.0 ad9d20e9.dr.youme.im
 0.0.0.0 adabdapi.ldmnq.com
 0.0.0.0 adacado.com
 0.0.0.0 adaction.se
@@ -3605,6 +3747,7 @@
 0.0.0.0 ads-click.com
 0.0.0.0 ads-collishop.adhese.com
 0.0.0.0 ads-colruytgroup.adhese.com
+0.0.0.0 ads-config.op-mobile.opera.com
 0.0.0.0 ads-corelio.adhese.com
 0.0.0.0 ads-dazn.adhese.com
 0.0.0.0 ads-demo.adhese.com
@@ -4839,6 +4982,7 @@
 0.0.0.0 adx-dra.op.hicloud.com
 0.0.0.0 adx-id-ads.realmemobile.com
 0.0.0.0 adx-in-ads.realmemobile.com
+0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx-t.com
 0.0.0.0 adx-tc.adform.net
 0.0.0.0 adx-tk.rayjump.com
@@ -4938,9 +5082,13 @@
 0.0.0.0 af.beap.bc.yahoo.com
 0.0.0.0 af.liveads.jp
 0.0.0.0 af.opera.com
+0.0.0.0 af38d249.dr.youme.im
+0.0.0.0 af38d249.rtc.youme.im
+0.0.0.0 af7d9927.dr.youme.im
 0.0.0.0 af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
 0.0.0.0 afa9bdfa63bf7.com
 0.0.0.0 afamedya.com
+0.0.0.0 afc59cca.dr.youme.im
 0.0.0.0 afclickoffers.com
 0.0.0.0 afcontent.net
 0.0.0.0 afcpatrk.com
@@ -5504,6 +5652,7 @@
 0.0.0.0 altrk.net
 0.0.0.0 altronopubacc.com
 0.0.0.0 altura.speedera.net
+0.0.0.0 aluslide-rection.icu
 0.0.0.0 alwayshashing.com
 0.0.0.0 alwayspainfully.com
 0.0.0.0 alwsbnvialll.com
@@ -5584,6 +5733,7 @@
 0.0.0.0 amplitudewassnap.com
 0.0.0.0 ampm.outbrain.com
 0.0.0.0 ampmetrics.engadget.com
+0.0.0.0 ampools-docking.icu
 0.0.0.0 amprtc.media.net
 0.0.0.0 amptrack.dailymail.co.uk
 0.0.0.0 ampugi334f.com
@@ -6228,6 +6378,7 @@
 0.0.0.0 andantask.online
 0.0.0.0 andbeyond.media
 0.0.0.0 andcanbere.fun
+0.0.0.0 anderest-newider.icu
 0.0.0.0 andohs.net
 0.0.0.0 andomedia.com
 0.0.0.0 andomediagroup.com
@@ -6533,6 +6684,7 @@
 0.0.0.0 api.nitropay.com
 0.0.0.0 api.offline.avazunativeads.com
 0.0.0.0 api.onesignal.com
+0.0.0.0 api.open.oppomobile.com
 0.0.0.0 api.open.uc.cn
 0.0.0.0 api.opmnstr.com
 0.0.0.0 api.optimizely.com
@@ -6725,6 +6877,7 @@
 0.0.0.0 apparentsav.club
 0.0.0.0 apparest.com
 0.0.0.0 appboy.com
+0.0.0.0 appboy.data.placeiq.com
 0.0.0.0 appcdn.tvpage.com
 0.0.0.0 appcelerator.com
 0.0.0.0 appcelerator.net
@@ -7698,6 +7851,7 @@
 0.0.0.0 b2385a31e6f8.bitsngo.net
 0.0.0.0 b2408e4e788280e.com
 0.0.0.0 b249edf9.api.splkmobile.com
+0.0.0.0 b257879c.rtc.youme.im
 0.0.0.0 b29f325f9383.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b2d7ba82-21e5-456c-bc98-05c7e0cd93de.edge.permutive.app
@@ -7715,12 +7869,16 @@
 0.0.0.0 b3z29k1uxb.com
 0.0.0.0 b400393baba7cd476a3.com
 0.0.0.0 b406c5590dc0f4b10d7793992b090d94.report-uri.io
+0.0.0.0 b40a05db.rtc.youme.im
 0.0.0.0 b42rracj.com
+0.0.0.0 b44313dc.rtc.youme.im
 0.0.0.0 b44a98d1901e5b7.com
 0.0.0.0 b451ee9d82c5dffaa60a8a74a158a712.safeframe.googlesyndication.com
 0.0.0.0 b487803339.216996b326.com
 0.0.0.0 b4adbc54.api.splkmobile.com
 0.0.0.0 b4b1094f63.de68f1d2b1.com
+0.0.0.0 b4be6fef.dr.youme.im
+0.0.0.0 b4be6fef.rtc.youme.im
 0.0.0.0 b4krd.trafficmagnates.com
 0.0.0.0 b4q982rbqdsw.com
 0.0.0.0 b54m4qbmt0b9.com
@@ -7732,6 +7890,8 @@
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 b6aa6257a22451c.com
 0.0.0.0 b73uszzq3g9h.com
+0.0.0.0 b7caafb8.dr.youme.im
+0.0.0.0 b7caafb8.rtc.youme.im
 0.0.0.0 b81oidrmy82w.com
 0.0.0.0 b8353989f898.bitsngo.net
 0.0.0.0 b8af8878e9a9565.com
@@ -7754,6 +7914,8 @@
 0.0.0.0 babanmak.com
 0.0.0.0 babanmas.com
 0.0.0.0 babanmat.com
+0.0.0.0 babddda1.dr.youme.im
+0.0.0.0 babddda1.rtc.youme.im
 0.0.0.0 babes-mansion.s3.amazonaws.com
 0.0.0.0 babkastilak.000webhostapp.com
 0.0.0.0 babkaumbriel.com
@@ -7993,10 +8155,12 @@
 0.0.0.0 barnabaslinger.com
 0.0.0.0 baronmathematics.com
 0.0.0.0 baronsoffers.com
+0.0.0.0 barrari-heingths.com
 0.0.0.0 barricadefurrydrinks.com
 0.0.0.0 barriercereals.com
 0.0.0.0 bars2show.com
 0.0.0.0 barscreative1.com
+0.0.0.0 base-tracker.com
 0.0.0.0 base.cmcm.com
 0.0.0.0 basebanner.com
 0.0.0.0 basepush.com
@@ -8061,6 +8225,7 @@
 0.0.0.0 bc.amanad.adtdp.com
 0.0.0.0 bc.coupons.com
 0.0.0.0 bc.popt.in
+0.0.0.0 bc0108e2.rtc.youme.im
 0.0.0.0 bcash4you.com
 0.0.0.0 bcdn.automatad.com
 0.0.0.0 bcdn.clickaine.com
@@ -8081,6 +8246,8 @@
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdc9uy.edvfwlacluo.com
+0.0.0.0 bde58fae.dr.youme.im
+0.0.0.0 bde58fae.rtc.youme.im
 0.0.0.0 bdl.cm.ksmobile.com
 0.0.0.0 bdrcr.nexage.com
 0.0.0.0 bdv.bidvertiser.com
@@ -8163,6 +8330,7 @@
 0.0.0.0 beead.net
 0.0.0.0 beeaimaid.com
 0.0.0.0 beeashale.club
+0.0.0.0 beebf386.rtc.youme.im
 0.0.0.0 beefraidmob.com
 0.0.0.0 beegmove.com
 0.0.0.0 beegotou.net
@@ -8361,6 +8529,7 @@
 0.0.0.0 bett2you.org
 0.0.0.0 betteradsystem.com
 0.0.0.0 bettercollective.rocks
+0.0.0.0 betterdates.co
 0.0.0.0 betterprovokesap.com
 0.0.0.0 bettin2you.com
 0.0.0.0 bettina-dagmara.de
@@ -8650,6 +8819,7 @@
 0.0.0.0 blckpodz.com
 0.0.0.0 blessgarments.com
 0.0.0.0 blessingpudding.com
+0.0.0.0 blidattlenoined.com
 0.0.0.0 bliink.io
 0.0.0.0 blingbucks.com
 0.0.0.0 blinkadr.com
@@ -9168,6 +9338,7 @@
 0.0.0.0 butalksuw9dj10.com
 0.0.0.0 butashasp.site
 0.0.0.0 butexythe.pro
+0.0.0.0 butoreeds-leatest.icu
 0.0.0.0 butrathakinrol.info
 0.0.0.0 butshesagirl.usesfathom.com
 0.0.0.0 butterflies-and-beetles.com
@@ -9324,6 +9495,7 @@
 0.0.0.0 c.y.qq.com
 0.0.0.0 c.zetadeo.com
 0.0.0.0 c0.pubmine.com
+0.0.0.0 c005f28e.rtc.youme.im
 0.0.0.0 c02o3mpych.com
 0.0.0.0 c03k4f.trafficmagnates.com
 0.0.0.0 c0918c210d42424be54e906e71357ca7.report-uri.io
@@ -9366,6 +9538,7 @@
 0.0.0.0 c3rh.net
 0.0.0.0 c3t-system-err.club
 0.0.0.0 c43a3cd8f99413891.com
+0.0.0.0 c4445cc4.rtc.youme.im
 0.0.0.0 c44wergiu87heghoconutdx.com
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 c4dm.adcolony.com
@@ -9383,6 +9556,8 @@
 0.0.0.0 c73186.com
 0.0.0.0 c79fca35.api.splkmobile.com
 0.0.0.0 c7a8067e.api.splkmobile.com
+0.0.0.0 c7ade110.dr.youme.im
+0.0.0.0 c7ade110.rtc.youme.im
 0.0.0.0 c7e4d34b2afc3.com
 0.0.0.0 c8.net.ua
 0.0.0.0 c80ec4a10820.bitsngo.net
@@ -9732,6 +9907,8 @@
 0.0.0.0 cd4348d1133.com
 0.0.0.0 cd490573c64f3f.com
 0.0.0.0 cd828.com
+0.0.0.0 cd936335.dr.youme.im
+0.0.0.0 cd95f6f7.rtc.youme.im
 0.0.0.0 cd96e8d067502a5ad9c92504eb700fe5.safeframe.googlesyndication.com
 0.0.0.0 cdas-01.trafficfabrik.com
 0.0.0.0 cdb.amanad.adtdp.com
@@ -10178,6 +10355,7 @@
 0.0.0.0 celeritascdn.com
 0.0.0.0 cellswallpaperstatements.com
 0.0.0.0 celltick.com
+0.0.0.0 celsoft-lessages.xyz
 0.0.0.0 celtra.com
 0.0.0.0 cemeta-ucads.ucweb.com
 0.0.0.0 cenceevent.club
@@ -10921,6 +11099,7 @@
 0.0.0.0 cn.app.chat.xiaomi.net
 0.0.0.0 cn.applovin.com
 0.0.0.0 cn.cmcm.com
+0.0.0.0 cn.dr.youme.im
 0.0.0.0 cn.support.appsflyer.com
 0.0.0.0 cn.taboola.com
 0.0.0.0 cnads.condenastdigital.com
@@ -11567,11 +11746,14 @@
 0.0.0.0 condles-temark.com
 0.0.0.0 condolencesinflamepoint.com
 0.0.0.0 conduit-banners.com
+0.0.0.0 conessedmorkers.com
+0.0.0.0 conf-in.dc.heytapmobi.com
 0.0.0.0 conf.lngtd.com
 0.0.0.0 conf.piojm.tech
 0.0.0.0 conf.splunk.com
 0.0.0.0 conference.cmcm.com
 0.0.0.0 conferencesing.com
+0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confident-clarke-6e461b.netlify.app
 0.0.0.0 config-canary.flurry.com
 0.0.0.0 config-junion-test.jpush.cn
@@ -12550,6 +12732,7 @@
 0.0.0.0 d37abonb6ucrhx.cloudfront.net
 0.0.0.0 d38itq6vdv6gr9.cloudfront.net
 0.0.0.0 d38optp29wd03m.cloudfront.net
+0.0.0.0 d39a16b8.rtc.youme.im
 0.0.0.0 d39ion77s0ucuz.cloudfront.net
 0.0.0.0 d39xxywi4dmut5.cloudfront.net
 0.0.0.0 d3b75cfc88a9.com
@@ -12589,12 +12772,14 @@
 0.0.0.0 d4a77d8bc81ae17.com
 0.0.0.0 d4c58932ad.91475d578d.com
 0.0.0.0 d4d48974197052ea.com
+0.0.0.0 d5465a28.dr.youme.im
 0.0.0.0 d58bf31082fa97.com
 0.0.0.0 d59fa492f75f520.com
 0.0.0.0 d5a1c9b03aea1ab39ffd446187b2abab.safeframe.googlesyndication.com
 0.0.0.0 d5g0nxmbdku6r.cloudfront.net
 0.0.0.0 d5g2f6.cfeucdn.com
 0.0.0.0 d602196786e42d.com
+0.0.0.0 d6586559.rtc.youme.im
 0.0.0.0 d6jfiirio372.com
 0.0.0.0 d7016uqa4s0lw.cloudfront.net
 0.0.0.0 d71e6dd31a026d45.com
@@ -12605,11 +12790,17 @@
 0.0.0.0 d7dc491d44.com
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 d7f0c3ee7442.bitsngo.net
+0.0.0.0 d7f18644.dr.youme.im
 0.0.0.0 d824d7f5cbcb0e00.com
 0.0.0.0 d82f7a30-751a-4689-b7e9-19336a89ab46.edge.permutive.app
+0.0.0.0 d84cb8f0.dr.youme.im
+0.0.0.0 d84cb8f0.rtc.youme.im
 0.0.0.0 d869381a42af33b.com
 0.0.0.0 d8d4ab7673.com
 0.0.0.0 d99666469a0d.bitsngo.net
+0.0.0.0 d9b80b1.rtc.youme.im
+0.0.0.0 d9f5b6bb.dr.youme.im
+0.0.0.0 d9f5b6bb.rtc.youme.im
 0.0.0.0 d9kvn70l4ogn.com
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 da-v-eu.amazon-adsystem.com
@@ -12868,6 +13059,7 @@
 0.0.0.0 dc-collection.com
 0.0.0.0 dc-storm.com
 0.0.0.0 dc.pxl.ace.advertising.com
+0.0.0.0 dc.stat.nearme.com.cn
 0.0.0.0 dc0p36lmtiqa.l.adsco.re
 0.0.0.0 dc0p36lmtiqa.n.adsco.re
 0.0.0.0 dc0p36lmtiqa.s.adsco.re
@@ -12921,6 +13113,7 @@
 0.0.0.0 de.justpremium.com
 0.0.0.0 de.openx.com
 0.0.0.0 de.rayjump.com
+0.0.0.0 de.rtc.youme.im
 0.0.0.0 de.xaxis.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 de17a.com
@@ -12943,6 +13136,7 @@
 0.0.0.0 deanmediagroup.com
 0.0.0.0 deanners.com
 0.0.0.0 dearbrotherinlaw.com
+0.0.0.0 deasenceloalserve.com
 0.0.0.0 deathrune-records.com
 0.0.0.0 deathsun1337.000webhostapp.com
 0.0.0.0 debadu.com
@@ -13130,6 +13324,7 @@
 0.0.0.0 derhavious.space
 0.0.0.0 derideshuttle.com
 0.0.0.0 derisivebark.com
+0.0.0.0 deriv.com
 0.0.0.0 derliesnot.club
 0.0.0.0 derowalius.com
 0.0.0.0 dersindical.xyz
@@ -13233,6 +13428,7 @@
 0.0.0.0 devilhimself.bounceme.net
 0.0.0.0 devilspanmute.com
 0.0.0.0 deviouscoupbrutally.com
+0.0.0.0 devisharpattalic.com
 0.0.0.0 devoidsagacious.com
 0.0.0.0 dewagg.com
 0.0.0.0 dewincubiatoll.com
@@ -13308,6 +13504,7 @@
 0.0.0.0 differenta.com
 0.0.0.0 difficerche.biz
 0.0.0.0 difficultydilapidationsodium.com
+0.0.0.0 dificated-penched.icu
 0.0.0.0 digestiontub.com
 0.0.0.0 digg.analytics.live.com
 0.0.0.0 diggedidope.de
@@ -13681,6 +13878,7 @@
 0.0.0.0 dosliggooor.com
 0.0.0.0 dostophog.com
 0.0.0.0 dosugcz.biz
+0.0.0.0 dot-a.op-mobile.opera.com
 0.0.0.0 dotandad.com
 0.0.0.0 dotardberet.com
 0.0.0.0 dothbognib.com
@@ -13781,10 +13979,12 @@
 0.0.0.0 dquanticw.top
 0.0.0.0 dqxo1d.edvfwlacluo.com
 0.0.0.0 dr.outbrain.com
+0.0.0.0 dr.youme.im
 0.0.0.0 dra-eu.amazon-adsystem.com
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 draatlanderpri.info
 0.0.0.0 dradvice.in
+0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 draggedgram.com
 0.0.0.0 dragonsniffcashmere.com
 0.0.0.0 drako2sha8de09.com
@@ -14119,13 +14319,17 @@
 0.0.0.0 e.thursailso.com
 0.0.0.0 e.watchmovie.fun
 0.0.0.0 e0663490cca0296f7.com
+0.0.0.0 e0967c0e.dr.youme.im
 0.0.0.0 e0a42e1a21669b.com
+0.0.0.0 e0f4e9b1.dr.youme.im
+0.0.0.0 e0f4e9b1.rtc.youme.im
 0.0.0.0 e1.addthis.com
 0.0.0.0 e1.adserver.yahoo.com
 0.0.0.0 e1.espncdn.shop
 0.0.0.0 e10.espncdn.shop
 0.0.0.0 e11100.g.akamaiedge.net
 0.0.0.0 e1151.e12.akamaiedge.net
+0.0.0.0 e11cd92f.dr.youme.im
 0.0.0.0 e13085e58935e6.com
 0.0.0.0 e18a97eee94d0f2519.com
 0.0.0.0 e1ed050f62.com
@@ -14147,7 +14351,12 @@
 0.0.0.0 e350570881272e.com
 0.0.0.0 e376ef28103177cc.com
 0.0.0.0 e3faa7803d6288dbfe01c1722d83ffae.safeframe.googlesyndication.com
+0.0.0.0 e3fdac95.rtc.youme.im
 0.0.0.0 e4.espncdn.shop
+0.0.0.0 e42dad15.dr.youme.im
+0.0.0.0 e42dad15.rtc.youme.im
+0.0.0.0 e4537bc9.dr.youme.im
+0.0.0.0 e4537bc9.rtc.youme.im
 0.0.0.0 e4b65f2ef47fb0.com
 0.0.0.0 e4npw6g7c9kk.com
 0.0.0.0 e5.espncdn.shop
@@ -14157,6 +14366,8 @@
 0.0.0.0 e5413.g.akamaiedge.net
 0.0.0.0 e5460.g.akamaiedge.net
 0.0.0.0 e5587c336be7.bitsngo.net
+0.0.0.0 e5611439.dr.youme.im
+0.0.0.0 e5611439.rtc.youme.im
 0.0.0.0 e5d944a25e468d.com
 0.0.0.0 e6.espncdn.shop
 0.0.0.0 e65386d3.api.splkmobile.com
@@ -14171,6 +14382,7 @@
 0.0.0.0 e7e776c1a8bf677.com
 0.0.0.0 e8.espncdn.shop
 0.0.0.0 e848fe0dd50d.bitsngo.net
+0.0.0.0 e84ef565.rtc.youme.im
 0.0.0.0 e85440ec98f04725.com
 0.0.0.0 e858fd44.api.splkmobile.com
 0.0.0.0 e8960.e2.akamaiedge.net
@@ -14252,6 +14464,7 @@
 0.0.0.0 eavesdroppingsickleemotionally.com
 0.0.0.0 eawp2ra7.top
 0.0.0.0 eb.technoratimedia.com
+0.0.0.0 eb350c8e.dr.youme.im
 0.0.0.0 eb948.bemobtrk.com
 0.0.0.0 ebahpya.com
 0.0.0.0 ebayadvertising.com
@@ -14409,6 +14622,8 @@
 0.0.0.0 efd3b86a5fbddda.com
 0.0.0.0 efeducationfirstlimi.tt.omtrdc.net
 0.0.0.0 effacerevealing.com
+0.0.0.0 effec6be.dr.youme.im
+0.0.0.0 effec6be.rtc.youme.im
 0.0.0.0 effectivecpmgate.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
@@ -14451,6 +14666,7 @@
 0.0.0.0 eip-ntt.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-tata.audio-ak.spotify.com.akahost.net
+0.0.0.0 eisenberglawgrouppc.com
 0.0.0.0 eiteratebef.top
 0.0.0.0 eithereda.fun
 0.0.0.0 eitherunkindvapour.com
@@ -14719,6 +14935,7 @@
 0.0.0.0 epnredirect.ru
 0.0.0.0 epoch-in.finzfin.com
 0.0.0.0 epoch-sg.finzfin.com
+0.0.0.0 epoch.cdo.oppomobile.com
 0.0.0.0 epoch.finzfin.com
 0.0.0.0 epochokaypeerless.com
 0.0.0.0 epodownload.mediatek.com
@@ -14845,6 +15062,7 @@
 0.0.0.0 essedaccur.info
 0.0.0.0 essiveowing.com
 0.0.0.0 estafair.com
+0.0.0.0 estalks-exempt.icu
 0.0.0.0 estat.zum.com
 0.0.0.0 esteephy.net
 0.0.0.0 estferdita.top
@@ -15261,17 +15479,20 @@
 0.0.0.0 f0577057.xsph.ru
 0.0.0.0 f0580154.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
+0.0.0.0 f09c54da.rtc.youme.im
 0.0.0.0 f1.cdn.ftd.agency
 0.0.0.0 f1.market.xiaomi.com
 0.0.0.0 f14972-530d-4235-a941-d79be44f229b.edge.permutive.app
 0.0.0.0 f17a5ff6bf31.com
 0.0.0.0 f18a35cc33ee29a.com
+0.0.0.0 f1c60ea5.rtc.youme.im
 0.0.0.0 f1f60d2ef1a4ed.com
 0.0.0.0 f1tbit.com
 0.0.0.0 f22c5b6c.api.splkmobile.com
 0.0.0.0 f23f026d-af06-45a2-8d42-9222f4656195.edge.permutive.app
 0.0.0.0 f23y4td4.com
 0.0.0.0 f2811099.api.splkmobile.com
+0.0.0.0 f2876637.rtc.youme.im
 0.0.0.0 f2pool.com
 0.0.0.0 f3476715c1f8.bitsngo.net
 0.0.0.0 f3551539d6565853.com
@@ -15298,9 +15519,11 @@
 0.0.0.0 f8260adbf8558d6.com
 0.0.0.0 f853150605ccb.com
 0.0.0.0 f87b88d3649456.com
+0.0.0.0 f952a08f.dr.youme.im
 0.0.0.0 f95nkry2nf8o.com
 0.0.0.0 f9h7zekgbfersapjj.ay.delivery
 0.0.0.0 f9k1iiwg.emltrk.com
+0.0.0.0 fa082167.dr.youme.im
 0.0.0.0 fa0dcbd1.api.splkmobile.com
 0.0.0.0 fa1c161dcae6.bitsngo.net
 0.0.0.0 fa1f96ab-b693-40e4-82d5-8698592ef9ac.edge.permutive.app
@@ -15430,6 +15653,7 @@
 0.0.0.0 fast2earn.com
 0.0.0.0 fastcdn.info
 0.0.0.0 fastclick.com
+0.0.0.0 fastclicktrack.com
 0.0.0.0 fastcooler.s.xoxknct.com
 0.0.0.0 fastcooler2017.s.xoxknct.com
 0.0.0.0 fastdld.com
@@ -15507,6 +15731,8 @@
 0.0.0.0 fd555b2faf5a40c.com
 0.0.0.0 fd6fq54s6df541q23sdxfg.eu
 0.0.0.0 fd7qz88ckd.com
+0.0.0.0 fd9b80b1.dr.youme.im
+0.0.0.0 fd9b80b1.rtc.youme.im
 0.0.0.0 fdbtvavxtfvpbx.com
 0.0.0.0 fderty.com
 0.0.0.0 fdf4.com
@@ -15892,6 +16118,9 @@
 0.0.0.0 fmsde0dv2j54.com
 0.0.0.0 fmstigat.online
 0.0.0.0 fmstitial.xyz
+0.0.0.0 fn1hxddz.syyx.com
+0.0.0.0 fn2hxddz.syyx.com
+0.0.0.0 fn3hxddz.syyx.com
 0.0.0.0 fnacgbik9v14.com
 0.0.0.0 fnatfee.ero-advertising.com
 0.0.0.0 fncash.com
@@ -16278,6 +16507,7 @@
 0.0.0.0 fufoatch.com
 0.0.0.0 fugger.ipage.com
 0.0.0.0 fujigar.com
+0.0.0.0 fulackerserally.com
 0.0.0.0 fulfilledcompensatedelightful.com
 0.0.0.0 full.indian.six.xxx.full.video.download.oillan.imzog.com
 0.0.0.0 full.video.download.oillan.imzog.com
@@ -16294,6 +16524,7 @@
 0.0.0.0 funklicks.com
 0.0.0.0 funkscar.com
 0.0.0.0 funmatrix.net
+0.0.0.0 funnelmeister.io
 0.0.0.0 funnwebs.com
 0.0.0.0 funnyairplane.com
 0.0.0.0 funpay1.000webhostapp.com
@@ -16877,6 +17108,8 @@
 0.0.0.0 gl-asia-east-astg.widerplanet.com
 0.0.0.0 gl-c30929ed.adroll.com
 0.0.0.0 gl-cash.com
+0.0.0.0 gl-epoch.oppomobile.com
+0.0.0.0 gl-epoch.realmemobile.com
 0.0.0.0 gl.ads.justpremium.com
 0.0.0.0 gl1117wh13.com
 0.0.0.0 gladawlvine.com
@@ -17651,6 +17884,7 @@
 0.0.0.0 hamsterresentful.com
 0.0.0.0 hamtugin.com
 0.0.0.0 hamwhatsappcom.imageshack.host
+0.0.0.0 hances-vistional.icu
 0.0.0.0 handfulattendservices.com
 0.0.0.0 handicap.central-messages.com
 0.0.0.0 handicaptacticrestoration.com
@@ -17811,6 +18045,7 @@
 0.0.0.0 healthaffiliatesnetwork.com
 0.0.0.0 healthcarestars.com
 0.0.0.0 healthdata.hicloud.com
+0.0.0.0 healthlifelove.net
 0.0.0.0 healthline-com.videoplayerhub.com
 0.0.0.0 healthsmd.com
 0.0.0.0 healthsupport24.com
@@ -18349,6 +18584,7 @@
 0.0.0.0 http.intuit.speedera.net
 0.0.0.0 http.trailers.brazzerstv.contentabc.com
 0.0.0.0 httpcenter.duckdns.org
+0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 httpool.com
 0.0.0.0 httporangeclickmedia-com.videoplayerhub.com
@@ -18513,6 +18749,7 @@
 0.0.0.0 i.p04.space
 0.0.0.0 i.skimresources.com
 0.0.0.0 i.smartclick.net
+0.0.0.0 i.snssdk.com
 0.0.0.0 i.spesgrt.com
 0.0.0.0 i.stage.kissmetrics.com
 0.0.0.0 i.t.webtracker.jp
@@ -18617,6 +18854,8 @@
 0.0.0.0 icynana.com
 0.0.0.0 icyyapemu.com
 0.0.0.0 id-activity.realmemobile.com
+0.0.0.0 id-epoch.oppomobile.com
+0.0.0.0 id-epoch.realmemobile.com
 0.0.0.0 id-ext-tf.rlcdn.com
 0.0.0.0 id-trending.ucweb.com
 0.0.0.0 id.adserver.yahoo.com
@@ -18748,6 +18987,7 @@
 0.0.0.0 illustcutesy.com
 0.0.0.0 illustrationmanlypageant.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 iloacmoam.com
 0.0.0.0 ilog.bytefence.com
 0.0.0.0 ilovemakingpics.com
 0.0.0.0 ilusors.com
@@ -18949,6 +19189,8 @@
 0.0.0.0 imwinnerkur.com
 0.0.0.0 imwinningtoday.com
 0.0.0.0 in-appadvertising.com
+0.0.0.0 in-epoch.oppomobile.com
+0.0.0.0 in-epoch.realmemobile.com
 0.0.0.0 in-fa.com
 0.0.0.0 in-gmtdmp.mookie1.com
 0.0.0.0 in-page-push.com
@@ -19330,6 +19572,7 @@
 0.0.0.0 intimidatingclinchwily.com
 0.0.0.0 intimidatinggodlessketchup.com
 0.0.0.0 intimlife.net
+0.0.0.0 intl-feedback.oppomobile.com
 0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 intnotif.club
 0.0.0.0 intopicmedia.com
@@ -19927,6 +20170,7 @@
 0.0.0.0 joinnowinstantly.com
 0.0.0.0 joinsafelyonline.com
 0.0.0.0 jointchoice.com
+0.0.0.0 joistic-comato.xyz
 0.0.0.0 jojolook.com
 0.0.0.0 jokehow.com
 0.0.0.0 jokelibellous.com
@@ -20963,6 +21207,7 @@
 0.0.0.0 legalledgtjuj.club
 0.0.0.0 legalonlinepharmacy.com
 0.0.0.0 legalovo.net
+0.0.0.0 legative.com
 0.0.0.0 legcatastrophetransmitted.com
 0.0.0.0 legedlunchar.top
 0.0.0.0 legendfrecklessfreckless.com
@@ -20978,6 +21223,7 @@
 0.0.0.0 lemonde-fr.videoplayerhub.com
 0.0.0.0 lemouwee.com
 0.0.0.0 lempoups.net
+0.0.0.0 lemverify.com
 0.0.0.0 lendumowers.com
 0.0.0.0 leneshedfrien.club
 0.0.0.0 leneshedhous.club
@@ -21366,6 +21612,7 @@
 0.0.0.0 lockingadmitted.com
 0.0.0.0 lockwoodsmarina.com
 0.0.0.0 locothet.com
+0.0.0.0 locretro-conald.icu
 0.0.0.0 locygruwo.com
 0.0.0.0 lodash.report-uri.io
 0.0.0.0 lodder6.biz
@@ -22422,6 +22669,7 @@
 0.0.0.0 mdlsite.com
 0.0.0.0 mdn1.phluantmobile.net
 0.0.0.0 mdn2015x1.com
+0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mdsmeds.com
 0.0.0.0 me-view.ioam.de
 0.0.0.0 me.ads.justpremium.com
@@ -22577,6 +22825,7 @@
 0.0.0.0 meetradar.com
 0.0.0.0 meetsexygirls.org
 0.0.0.0 meetsourhig.biz
+0.0.0.0 meetyoursoulmate.co
 0.0.0.0 meezauch.net
 0.0.0.0 mefagetobri.top
 0.0.0.0 mega-deals.mobi
@@ -23493,6 +23742,8 @@
 0.0.0.0 mxu.livejasmin.com
 0.0.0.0 mxuiso.com
 0.0.0.0 my-datonomy.de
+0.0.0.0 my-epoch.oppomobile.com
+0.0.0.0 my-epoch.realmemobile.com
 0.0.0.0 my.adaware.com
 0.0.0.0 my.adright.co
 0.0.0.0 my.adserver.yahoo.com
@@ -23582,6 +23833,7 @@
 0.0.0.0 myselfix.com
 0.0.0.0 myshop.glasgro.com
 0.0.0.0 myshopwala.com
+0.0.0.0 mysicitycomingary.com
 0.0.0.0 mysnap.cc
 0.0.0.0 mysnap.pw
 0.0.0.0 mysnap.top
@@ -23945,6 +24197,7 @@
 0.0.0.0 news-easy.com
 0.0.0.0 news-easy.org
 0.0.0.0 news-headlines.co
+0.0.0.0 news-in.feednews.com
 0.0.0.0 news-jupiter.com
 0.0.0.0 news-mars.com
 0.0.0.0 news-speaker.com
@@ -24277,6 +24530,7 @@
 0.0.0.0 nostrilsgovernmentclaw.com
 0.0.0.0 nostrilsterrifying.com
 0.0.0.0 notablemomentcohabit.com
+0.0.0.0 notablenews.org
 0.0.0.0 notchchatterboxdoor.com
 0.0.0.0 notchcollectormuffin.com
 0.0.0.0 notcotal.com
@@ -24955,6 +25209,7 @@
 0.0.0.0 oepodownload.mediatek.com
 0.0.0.0 oesfriences.fun
 0.0.0.0 oewa.at
+0.0.0.0 oewnalaye.xyz
 0.0.0.0 ofdittor.com
 0.0.0.0 ofeetles.pro
 0.0.0.0 ofertasfarmacias.es
@@ -25090,6 +25345,7 @@
 0.0.0.0 omclick.com
 0.0.0.0 omedcam.biz
 0.0.0.0 omenreally.com
+0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 omine.org
 0.0.0.0 omisingcur.fun
 0.0.0.0 omitbailey.com
@@ -26507,6 +26763,8 @@
 0.0.0.0 pgpartner.com
 0.0.0.0 pgpyce.com
 0.0.0.0 pgssl.com
+0.0.0.0 ph-epoch.oppomobile.com
+0.0.0.0 ph-epoch.realmemobile.com
 0.0.0.0 ph.adserver.yahoo.com
 0.0.0.0 phaboart.net
 0.0.0.0 phabsoun.net
@@ -29378,6 +29636,7 @@
 0.0.0.0 prebid.smilewanted.com
 0.0.0.0 precautionbuoy.com
 0.0.0.0 precisetackle.com
+0.0.0.0 prected-species.icu
 0.0.0.0 precursoruphill.com
 0.0.0.0 predicamentsorting.com
 0.0.0.0 predictableenliven.com
@@ -30743,6 +31002,7 @@
 0.0.0.0 ravaquinal.com
 0.0.0.0 ravaynore.com
 0.0.0.0 ravecloud.xyz
+0.0.0.0 ravengadgets.com
 0.0.0.0 rawasy.com
 0.0.0.0 rawchanger.com
 0.0.0.0 rawdata.appsflyer.com
@@ -31016,6 +31276,7 @@
 0.0.0.0 reflectionsforeground.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 refnippod.com
+0.0.0.0 reformcorelding.com
 0.0.0.0 reformexpectbeyond.com
 0.0.0.0 reformtomb.com
 0.0.0.0 refpa.top
@@ -31655,6 +31916,7 @@
 0.0.0.0 rpphme7qyhyrwwreh.ay.delivery
 0.0.0.0 rpst.page.link
 0.0.0.0 rq.adfox.ru
+0.0.0.0 rqghbbbbnewnmw.xyz
 0.0.0.0 rqhere.com
 0.0.0.0 rqhere2.com
 0.0.0.0 rqmob.com
@@ -31763,6 +32025,7 @@
 0.0.0.0 rtbtraffic.plugrush.com
 0.0.0.0 rtbvideobox.com
 0.0.0.0 rtbx.adgrx.com
+0.0.0.0 rtc.youme.im
 0.0.0.0 rtclocketsun.info
 0.0.0.0 rtclx.com
 0.0.0.0 rtg.liveads.jp
@@ -31905,6 +32168,7 @@
 0.0.0.0 rzpellets.com
 0.0.0.0 rzz.us
 0.0.0.0 s-110.algoply.com
+0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s-adzone.com
 0.0.0.0 s-beta-opf.amazon-adsystem.com
 0.0.0.0 s-beta.amazon-adsystem.com
@@ -31918,6 +32182,7 @@
 0.0.0.0 s-onetag.com
 0.0.0.0 s.1ts18.top
 0.0.0.0 s.ad6media.fr
+0.0.0.0 s.adk.ams.op-mobile.opera.com
 0.0.0.0 s.admaym.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s.adtelligent.com
@@ -32457,6 +32722,7 @@
 0.0.0.0 sea1b-ls.naiadsystems.com
 0.0.0.0 sea1c-ls.naiadsystems.com
 0.0.0.0 seaboblit.com
+0.0.0.0 seacideasstolice.com
 0.0.0.0 seacth.com
 0.0.0.0 seaofads.com
 0.0.0.0 search-cldellow.deployads.com
@@ -33836,6 +34102,7 @@
 0.0.0.0 splut.com
 0.0.0.0 spn-v1-origin.revampcdn.com
 0.0.0.0 spn-v1.revampcdn.com
+0.0.0.0 spolden-proping.com
 0.0.0.0 sponsor-pop.pro
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsoredtweets.com
@@ -33862,6 +34129,7 @@
 0.0.0.0 sportstreams.xyz
 0.0.0.0 sportstreamto.imageshack.host
 0.0.0.0 sportsyndicator.com
+0.0.0.0 sposesachases.com
 0.0.0.0 spositidonm.biz
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotforprizesthere1.com
@@ -34166,6 +34434,7 @@
 0.0.0.0 stalwartbucks.com
 0.0.0.0 stampseizeidly.com
 0.0.0.0 stampurt.com
+0.0.0.0 standinglover.com
 0.0.0.0 standnizati.fun
 0.0.0.0 standpointpreparation.com
 0.0.0.0 stankyrich.com
@@ -34200,6 +34469,7 @@
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stash.revcontent.com
 0.0.0.0 stashedaccel.cam
+0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat-rock.com
 0.0.0.0 stat.adlook.me
 0.0.0.0 stat.adxadserv.com
@@ -35095,6 +35365,7 @@
 0.0.0.0 sz-loc.wshareit.com
 0.0.0.0 sz-maga-upaas.uc.cn
 0.0.0.0 sznxdqqvjgam.com
+0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t-staging.clicktale.net
 0.0.0.0 t-test.adzerk.net
 0.0.0.0 t-ventas-h5.cmcm.com
@@ -35568,6 +35839,7 @@
 0.0.0.0 testdemo.pubmatic.com
 0.0.0.0 testdevices.appsflyer.com
 0.0.0.0 testdns.cmcm.com
+0.0.0.0 testen-und-behalten.club
 0.0.0.0 testeviron.content.ad
 0.0.0.0 testexemplify.com
 0.0.0.0 testfilter.com
@@ -35615,6 +35887,8 @@
 0.0.0.0 tgwidget.com
 0.0.0.0 tgwvi.bemobtrk.com
 0.0.0.0 tgzobwoutuwn.com
+0.0.0.0 th-epoch.oppomobile.com
+0.0.0.0 th-epoch.realmemobile.com
 0.0.0.0 th.adserver.yahoo.com
 0.0.0.0 thabookr.net
 0.0.0.0 thaibeco.com
@@ -37309,6 +37583,7 @@
 0.0.0.0 traitwarnfavorite.com
 0.0.0.0 traktrafficflow.com
 0.0.0.0 trakttv.videoplayerhub.com
+0.0.0.0 tralaxy-hunches.icu
 0.0.0.0 trampoline-jump.xyz
 0.0.0.0 trampreliablediligence.com
 0.0.0.0 trandlife.info
@@ -37490,6 +37765,7 @@
 0.0.0.0 trust.zone
 0.0.0.0 trustaffs.com
 0.0.0.0 trusted-click-host.com
+0.0.0.0 trusted.de
 0.0.0.0 trustednotice.news
 0.0.0.0 trustx.org
 0.0.0.0 trustyfine.com
@@ -37646,6 +37922,8 @@
 0.0.0.0 tvpage.com
 0.0.0.0 tvprocessing.com
 0.0.0.0 tvx.adgrx.com
+0.0.0.0 tw-epoch.oppomobile.com
+0.0.0.0 tw-epoch.realmemobile.com
 0.0.0.0 tw.adserver.yahoo.com
 0.0.0.0 tw1.af.beap.bc.yahoo.com
 0.0.0.0 tw2.adserver.yahoo.com
@@ -38452,6 +38730,7 @@
 0.0.0.0 valueclickmedia.com
 0.0.0.0 valuecommerce.com
 0.0.0.0 valuethemarkets.info
+0.0.0.0 vameter-grapted.icu
 0.0.0.0 vampireclerkthat.com
 0.0.0.0 vampiresfreak.de
 0.0.0.0 vamprumbasfear.com
@@ -38939,6 +39218,8 @@
 0.0.0.0 vmuid.com
 0.0.0.0 vmware.tt.omtrdc.net
 0.0.0.0 vmwareinc.demdex.net
+0.0.0.0 vn-epoch.oppomobile.com
+0.0.0.0 vn-epoch.realmemobile.com
 0.0.0.0 vn-gpack.org
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vn.adserver.yahoo.com
@@ -38954,6 +39235,7 @@
 0.0.0.0 voaroawo.net
 0.0.0.0 voastauz.net
 0.0.0.0 voawhooh.net
+0.0.0.0 vobyuipdv.xyz
 0.0.0.0 vocationethelsky.com
 0.0.0.0 vocento.demdex.net
 0.0.0.0 vod-cash.com
@@ -39450,6 +39732,7 @@
 0.0.0.0 webservice.tclmobile.cn
 0.0.0.0 webservices.cj.com
 0.0.0.0 websex.me
+0.0.0.0 websignalio.com
 0.0.0.0 website-assets.awin.com
 0.0.0.0 website.adsnative.com
 0.0.0.0 website.batmobi.net
@@ -39516,6 +39799,7 @@
 0.0.0.0 welllwrite.com
 0.0.0.0 wellmov.com
 0.0.0.0 wellness-dieband.de
+0.0.0.0 wellnessfully.com
 0.0.0.0 wellnesstyping.com
 0.0.0.0 wellnesszap.com
 0.0.0.0 welokygry.com
@@ -39535,6 +39819,7 @@
 0.0.0.0 weshuhori.com
 0.0.0.0 westerdayeol.site
 0.0.0.0 westerndigital.tt.omtrdc.net
+0.0.0.0 westry-allatex.icu
 0.0.0.0 westservicesfindlaw.tt.omtrdc.net
 0.0.0.0 westseven.media
 0.0.0.0 wethornsprecede.com
@@ -39919,6 +40204,7 @@
 0.0.0.0 worryextendingbrooch.com
 0.0.0.0 worsesprinterendless.com
 0.0.0.0 worsterring.com
+0.0.0.0 wortedkeebsd.com
 0.0.0.0 worthathousandwords.com
 0.0.0.0 worthersefim.club
 0.0.0.0 worthlessjeepphysician.com
@@ -40503,6 +40789,7 @@
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.dpbolvw.net
+0.0.0.0 www.dr.youme.im
 0.0.0.0 www.dragonawaken.com.de
 0.0.0.0 www.drivenetwork.ru
 0.0.0.0 www.driving-simulator.com
@@ -41151,6 +41438,7 @@
 0.0.0.0 www.rsafrwdr.com
 0.0.0.0 www.rtb-adsterra.flshtrk.store
 0.0.0.0 www.rtbpopd.com
+0.0.0.0 www.rtc.youme.im
 0.0.0.0 www.rtk.io
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.rubsayprelude.com
@@ -41206,6 +41494,7 @@
 0.0.0.0 www.senateindicator.com
 0.0.0.0 www.sentry.io
 0.0.0.0 www.servsave.com
+0.0.0.0 www.setsdowntown.com
 0.0.0.0 www.seure-update.fartit.com
 0.0.0.0 www.seventhfolder.com
 0.0.0.0 www.sewladilike.com
