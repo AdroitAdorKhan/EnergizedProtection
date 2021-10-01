@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.274
-# Release: 274
-# Entries: 49,006
+# Version: 21.10.275
+# Release: 275
+# Entries: 49,033
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 01 Oct 21 20:05:03
+# Updated: Sat, 02 Oct 21 00:05:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4339,6 +4339,7 @@
 0.0.0.0 ads.sexier.com
 0.0.0.0 ads.shoplove.com
 0.0.0.0 ads.shopstyle.com
+0.0.0.0 ads.shtranssion.com
 0.0.0.0 ads.simplyhired.com
 0.0.0.0 ads.sina.com.cn
 0.0.0.0 ads.singlescash.com
@@ -4883,6 +4884,7 @@
 0.0.0.0 adservice.google.xn--ngbrx
 0.0.0.0 adservice.google.xn--node
 0.0.0.0 adservice.sbs.co.kr
+0.0.0.0 adservice.sigmob.cn
 0.0.0.0 adservice.tohsoft.com
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adservices.google.com
@@ -5010,6 +5012,7 @@
 0.0.0.0 adssend.net
 0.0.0.0 adsstat.com
 0.0.0.0 adstaces.ero-advertising.com
+0.0.0.0 adstage.sigmob.cn
 0.0.0.0 adstarget.net
 0.0.0.0 adstargeting.com
 0.0.0.0 adstargets.com
@@ -5364,6 +5367,7 @@
 0.0.0.0 adx.hasmobi.net
 0.0.0.0 adx.luxup2.ru
 0.0.0.0 adx.otm-r.com
+0.0.0.0 adx.snipermob.com
 0.0.0.0 adx1.com
 0.0.0.0 adx1js.s3.amazonaws.com
 0.0.0.0 adx2.adform.net
@@ -7085,6 +7089,7 @@
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-sandbox.direct.yandex.com
 0.0.0.0 api-swagger.sophi.io
+0.0.0.0 api-test.hellay.net
 0.0.0.0 api-us-east-1.adsnative.com
 0.0.0.0 api.5nxam.xyz
 0.0.0.0 api.5rocks.io
@@ -7188,6 +7193,7 @@
 0.0.0.0 api.ilab.cmcm.com
 0.0.0.0 api.imotech.tech
 0.0.0.0 api.inmobi.com
+0.0.0.0 api.io.mi.com
 0.0.0.0 api.ip.sb
 0.0.0.0 api.ipdata.co
 0.0.0.0 api.ireaderm.net
@@ -8338,6 +8344,7 @@
 0.0.0.0 avazu.net
 0.0.0.0 avazudsp.net
 0.0.0.0 avazutracking.net
+0.0.0.0 avc.qcloud.com
 0.0.0.0 avencio.de
 0.0.0.0 avenseo.com
 0.0.0.0 avenuea.com
@@ -8388,6 +8395,7 @@
 0.0.0.0 aweinkbum.com
 0.0.0.0 awejmp.com
 0.0.0.0 awelessawelesscedar.com
+0.0.0.0 aweme.snssdk.com
 0.0.0.0 awempire.com
 0.0.0.0 awemwh.com
 0.0.0.0 awentw.com
@@ -8674,6 +8682,7 @@
 0.0.0.0 bacr.com.pk
 0.0.0.0 bactsumer-alaced.com
 0.0.0.0 bad5i8.edvfwlacluo.com
+0.0.0.0 badad.googleplex.com
 0.0.0.0 badgirlz.org
 0.0.0.0 badjocks.com
 0.0.0.0 badlybouncing.com
@@ -14872,6 +14881,7 @@
 0.0.0.0 deloton.com
 0.0.0.0 delta.adprime.com
 0.0.0.0 deltapool.net
+0.0.0.0 deltasec300gt.fun
 0.0.0.0 deltoidviragin.com
 0.0.0.0 deludesobbingdeliberately.com
 0.0.0.0 delusionrather.com
@@ -19015,6 +19025,7 @@
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 gchgao.com
+0.0.0.0 gcl-page.biz
 0.0.0.0 gcm-dev.wshareit.com
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.mediacategory.com
@@ -19890,6 +19901,7 @@
 0.0.0.0 grantorrent1com.imageshack.host
 0.0.0.0 grapefruitlifestyle.com
 0.0.0.0 grapeshot.co.uk
+0.0.0.0 graph-video.facebook.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.bustle.com
 0.0.0.0 graph.digiseller.ru
@@ -22434,6 +22446,7 @@
 0.0.0.0 iplan.tclmobile.cn
 0.0.0.0 iplocationtools.com
 0.0.0.0 iplogger.com
+0.0.0.0 iplogger.org
 0.0.0.0 iplua.api.xoxknct.com
 0.0.0.0 ipmeta.io
 0.0.0.0 ipominer.com
@@ -24198,6 +24211,7 @@
 0.0.0.0 lexusbiscuit.com
 0.0.0.0 lexusgx.tk
 0.0.0.0 lf.snssdk.com
+0.0.0.0 lffe394b.justinstalledpanel.com
 0.0.0.0 lfg5jnbi.com
 0.0.0.0 lflb001.batmobi.net
 0.0.0.0 lfov.net
@@ -24692,6 +24706,7 @@
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.resso.app
 0.0.0.0 log.rutube.ru
+0.0.0.0 log.sharemusic5.com
 0.0.0.0 log.sina.cn
 0.0.0.0 log.sitetag.us
 0.0.0.0 log.snapdeal.com
@@ -26199,6 +26214,7 @@
 0.0.0.0 metrics.pacsun.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.ryanair.com
+0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.smaato.net
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.telegraph.co.uk
@@ -27080,6 +27096,7 @@
 0.0.0.0 murdigie.com
 0.0.0.0 murkymeeting.com
 0.0.0.0 murkymouse.online
+0.0.0.0 murpic.com
 0.0.0.0 musakelep.com
 0.0.0.0 musclespuffyextraordinary.com
 0.0.0.0 muscularstraight.com
@@ -36716,6 +36733,7 @@
 0.0.0.0 safestteacherwaiting.com
 0.0.0.0 safety-system.club
 0.0.0.0 safeurl.maxthon.cn
+0.0.0.0 safialinks.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 saggrowledetc.com
 0.0.0.0 sagloops.com
@@ -39581,6 +39599,7 @@
 0.0.0.0 static3.zog.link
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticcfstg.adsafeprotected.com
+0.0.0.0 staticimg.youtuuee.com
 0.0.0.0 statics.audienceinsights.net
 0.0.0.0 statics.esputnik.com
 0.0.0.0 statics.letfap.com
@@ -39654,6 +39673,7 @@
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.justpremium.com
 0.0.0.0 stats.logger.pw
+0.0.0.0 stats.lptracker.ru
 0.0.0.0 stats.mainroll.com
 0.0.0.0 stats.migolive.com
 0.0.0.0 stats.mos.ru
@@ -40680,6 +40700,7 @@
 0.0.0.0 tag.targeting.unrulymedia.com
 0.0.0.0 tag.vlitag.com
 0.0.0.0 tag.wknd.ai
+0.0.0.0 tag.yoc-adserver.com
 0.0.0.0 tag4arm.com
 0.0.0.0 tagbom.com
 0.0.0.0 tagbucket.cc
@@ -43556,6 +43577,7 @@
 0.0.0.0 tutvp.com
 0.0.0.0 tutworkfraghan.cam
 0.0.0.0 tuvanxehoi.info
+0.0.0.0 tuvene.com
 0.0.0.0 tuvia.outbrain.com
 0.0.0.0 tuwhuthoru.com
 0.0.0.0 tuwuzaci.xyz
@@ -43887,6 +43909,7 @@
 0.0.0.0 um.eqads.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 um3.eqads.com
+0.0.0.0 umayaniela6.top
 0.0.0.0 umbel.com
 0.0.0.0 umbemonop.info
 0.0.0.0 umberabov.fun
@@ -43976,6 +43999,7 @@
 0.0.0.0 unify.media.net
 0.0.0.0 unify.tapad.com
 0.0.0.0 unifyaddition.com
+0.0.0.0 unilog.wostore.cn
 0.0.0.0 unimining.net
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 unionsformalclearance.com
@@ -45626,6 +45650,7 @@
 0.0.0.0 webminer.pro
 0.0.0.0 webmining.co
 0.0.0.0 webmobile.ws
+0.0.0.0 webmoney.exchange
 0.0.0.0 webodu.com
 0.0.0.0 weborama.fr
 0.0.0.0 weborama.io
@@ -46187,6 +46212,7 @@
 0.0.0.0 workplacehorse.com
 0.0.0.0 workshirty.club
 0.0.0.0 worlanned.pro
+0.0.0.0 world-news-filter.info
 0.0.0.0 worldactualstories.com
 0.0.0.0 worldcupstreamme.imageshack.host
 0.0.0.0 worldeconomicnews.xyz
@@ -47239,6 +47265,7 @@
 0.0.0.0 www.mtezigrrabk.com
 0.0.0.0 www.muathuocnam.com
 0.0.0.0 www.multileaguebookstore.com
+0.0.0.0 www.murpic.com
 0.0.0.0 www.muyoozrkkyr.com
 0.0.0.0 www.mx.ero-advertising.com
 0.0.0.0 www.my.adright.co
