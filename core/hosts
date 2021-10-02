@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.275
 # Release: 275
-# Entries: 49,110
+# Entries: 49,120
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Oct 21 12:05:02
+# Updated: Sat, 02 Oct 21 16:05:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15132,6 +15132,7 @@
 0.0.0.0 dh956.com
 0.0.0.0 dhb8psqhvz9a.com
 0.0.0.0 dhgate.com
+0.0.0.0 dhkwxpzgvqgr.com
 0.0.0.0 dhundora.com
 0.0.0.0 di-ext-tf.rlcdn.com
 0.0.0.0 di.rlcdn.com
@@ -15672,6 +15673,7 @@
 0.0.0.0 download-sistem.ru
 0.0.0.0 download.350.com
 0.0.0.0 download.appsflyer.com
+0.0.0.0 download.c3pool.com
 0.0.0.0 download.crashlytics.com
 0.0.0.0 download.net.ua
 0.0.0.0 download.newrelic.com
@@ -17503,6 +17505,7 @@
 0.0.0.0 f0425296.xsph.ru
 0.0.0.0 f0429316.xsph.ru
 0.0.0.0 f0528671.xsph.ru
+0.0.0.0 f0571088.xsph.ru
 0.0.0.0 f0577057.xsph.ru
 0.0.0.0 f0580154.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
@@ -36463,6 +36466,7 @@
 0.0.0.0 rufflycouncil.com
 0.0.0.0 ruftodru.net
 0.0.0.0 rugby1store.myshopify.com
+0.0.0.0 rugrukoca.com
 0.0.0.0 ruinedhang.com
 0.0.0.0 rujioimped.xyz
 0.0.0.0 rukiyesamagan.ml
@@ -38305,6 +38309,7 @@
 0.0.0.0 skkybrought.pro
 0.0.0.0 sknkwpvrkz.com
 0.0.0.0 skoovyads.com
+0.0.0.0 skoromoh.com
 0.0.0.0 skreighphotic.cam
 0.0.0.0 skullimpact.com
 0.0.0.0 sky777.cc
@@ -40166,6 +40171,7 @@
 0.0.0.0 substantialcarpenter.com
 0.0.0.0 substantialstraw.com
 0.0.0.0 subtherm.de
+0.0.0.0 subtractrelative.com
 0.0.0.0 suburbdiscernbreeder.com
 0.0.0.0 subwayjelly.com
 0.0.0.0 succeedkid.com
@@ -41249,6 +41255,7 @@
 0.0.0.0 tgtmedia.com
 0.0.0.0 tgwidget.com
 0.0.0.0 tgwvi.bemobtrk.com
+0.0.0.0 tgxcmcoikpgek.com
 0.0.0.0 tgzobwoutuwn.com
 0.0.0.0 th-epoch.oppomobile.com
 0.0.0.0 th-epoch.realmemobile.com
@@ -45300,6 +45307,7 @@
 0.0.0.0 vs.wshareit.com.cdn.jcloudcdn.com
 0.0.0.0 vserv.mobi
 0.0.0.0 vsexshop.ru
+0.0.0.0 vsjxqhfkccx.xyz
 0.0.0.0 vskoedps.com
 0.0.0.0 vsmokhklbw.com
 0.0.0.0 vst1ev.com
@@ -49111,7 +49119,9 @@
 0.0.0.0 zudrurta.com
 0.0.0.0 zugnogne.com
 0.0.0.0 zukapk01.top
+0.0.0.0 zukavp08.top
 0.0.0.0 zukelx03.top
+0.0.0.0 zuksav07.top
 0.0.0.0 zukutu02.top
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zum-ochsen-neuwied.de
