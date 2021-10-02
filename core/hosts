@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.275
-# Release: 275
-# Entries: 49,127
+# Version: 21.10.276
+# Release: 276
+# Entries: 49,131
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Oct 21 20:05:02
+# Updated: Sun, 03 Oct 21 00:05:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15954,6 +15954,7 @@
 0.0.0.0 dvbjcdhmpqkq.xyz
 0.0.0.0 dvdsetstore.com
 0.0.0.0 dvoyy3qexr.com
+0.0.0.0 dvtnrwppxk.com
 0.0.0.0 dvucdnv.com
 0.0.0.0 dw-eu.com.com
 0.0.0.0 dw-online.ksosoft.com
@@ -23033,6 +23034,7 @@
 0.0.0.0 jpush.binance.im
 0.0.0.0 jpush.cn
 0.0.0.0 jpxumaster.justpremium.com
+0.0.0.0 jpzwomhbxoalxu.com
 0.0.0.0 jqk72ugyl2pz.com
 0.0.0.0 jqqsqxmpxnlcxc.com
 0.0.0.0 jqueri-web.at
@@ -38283,6 +38285,7 @@
 0.0.0.0 sjourney.aarp.org
 0.0.0.0 sjsmartcontent.org
 0.0.0.0 sk-biografien.de
+0.0.0.0 sk.mplmnt.io
 0.0.0.0 skadnetwork.singular.net
 0.0.0.0 skadsdk.appsflyer.com
 0.0.0.0 skadsdkless.appsflyer.com
@@ -41776,6 +41779,7 @@
 0.0.0.0 tooolsapps.info
 0.0.0.0 toothbrushnote.com
 0.0.0.0 toothpasterabbits.com
+0.0.0.0 tooviolatesymptom.com
 0.0.0.0 top-apotheke.com
 0.0.0.0 top-backuphelper.com
 0.0.0.0 top-backupservice.com
