@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.276
 # Release: 276
-# Entries: 49,131
+# Entries: 49,135
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 03 Oct 21 00:05:03
+# Updated: Sun, 03 Oct 21 04:05:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6312,6 +6312,7 @@
 0.0.0.0 analytics.app.lithium.com
 0.0.0.0 analytics.appdynamics.com
 0.0.0.0 analytics.applicationinsights.io
+0.0.0.0 analytics.appsbnet.com.br
 0.0.0.0 analytics.appsgeyser.com
 0.0.0.0 analytics.appypie.com
 0.0.0.0 analytics.archive.org
@@ -11972,6 +11973,7 @@
 0.0.0.0 clck.mgid.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 clck.yandex.ru
+0.0.0.0 clcknipop.com
 0.0.0.0 clckysudks.com
 0.0.0.0 cldlr.com
 0.0.0.0 cldom.com
@@ -30451,6 +30453,7 @@
 0.0.0.0 peirs5tbakchios.com
 0.0.0.0 pejqoq4cafo3bg9yqqqtk5e6s6.com
 0.0.0.0 pekreecy.com
+0.0.0.0 peliculas3.me
 0.0.0.0 pelishd.us
 0.0.0.0 peltaush.click
 0.0.0.0 pendingvillashells.com
@@ -45151,6 +45154,7 @@
 0.0.0.0 vlitag.com
 0.0.0.0 vloerplan.com
 0.0.0.0 vlogexpert.com
+0.0.0.0 vlogoflife.com
 0.0.0.0 vlrzhoueyoxw.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vluki.info
