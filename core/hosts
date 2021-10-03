@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.276
 # Release: 276
-# Entries: 49,224
+# Entries: 49,262
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 03 Oct 21 12:05:02
+# Updated: Sun, 03 Oct 21 16:05:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2467,6 +2467,7 @@
 0.0.0.0 a.master98.com
 0.0.0.0 a.medialytics.com
 0.0.0.0 a.mgid.com
+0.0.0.0 a.miliated.xyz
 0.0.0.0 a.mktw.net
 0.0.0.0 a.moatads.com
 0.0.0.0 a.mobclix.com
@@ -2957,6 +2958,7 @@
 0.0.0.0 acticantly.club
 0.0.0.0 actiflex.org
 0.0.0.0 action.dislanelibrar.top
+0.0.0.0 action.miliated.xyz
 0.0.0.0 actioncutok.com
 0.0.0.0 actiondesk.com
 0.0.0.0 actions-am.taboola.com
@@ -3966,6 +3968,7 @@
 0.0.0.0 adportal.advertising.com
 0.0.0.0 adpredictive.com
 0.0.0.0 adpresenter.de
+0.0.0.0 adpresislect.space
 0.0.0.0 adpressi.com
 0.0.0.0 adpreview.mopub.com
 0.0.0.0 adprime.com
@@ -4243,6 +4246,7 @@
 0.0.0.0 ads.gazettes.com
 0.0.0.0 ads.genieessp.com
 0.0.0.0 ads.godaddy.com
+0.0.0.0 ads.gold
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.gridtechno.com
 0.0.0.0 ads.grindinggears.com
@@ -5753,6 +5757,7 @@
 0.0.0.0 airpush.com
 0.0.0.0 airship.com
 0.0.0.0 airsoubs.com
+0.0.0.0 airticmonsoa.com
 0.0.0.0 airyclub.com
 0.0.0.0 airydress.com
 0.0.0.0 airygal.com
@@ -8538,6 +8543,7 @@
 0.0.0.0 b.glcdn.co
 0.0.0.0 b.kavanga.ru
 0.0.0.0 b.kcolbda.com
+0.0.0.0 b.miliated.xyz
 0.0.0.0 b.montangop.top
 0.0.0.0 b.mugrikees.com
 0.0.0.0 b.ns.edm.cmcm.com
@@ -10534,6 +10540,7 @@
 0.0.0.0 c.medialytics.com
 0.0.0.0 c.mfstatic.cz
 0.0.0.0 c.mgid.com
+0.0.0.0 c.miliated.xyz
 0.0.0.0 c.morgdm.ru
 0.0.0.0 c.msn.com
 0.0.0.0 c.mugrikees.com
@@ -11397,6 +11404,8 @@
 0.0.0.0 cdn.wowtrk.com
 0.0.0.0 cdn.wshareit.com
 0.0.0.0 cdn.yourwebbars.com
+0.0.0.0 cdn.zarget.com
+0.0.0.0 cdn001.milotree.com
 0.0.0.0 cdn01.adfalcon.com
 0.0.0.0 cdn01.flashmediaportal.com
 0.0.0.0 cdn01.nativeroll.tv
@@ -14186,6 +14195,7 @@
 0.0.0.0 d.justpremium.com
 0.0.0.0 d.liadm.com
 0.0.0.0 d.maldini.xyz
+0.0.0.0 d.miliated.xyz
 0.0.0.0 d.mordi.xyz
 0.0.0.0 d.mugrikees.com
 0.0.0.0 d.mx.edm.cmcm.com
@@ -15853,6 +15863,7 @@
 0.0.0.0 dsandexpe.biz
 0.0.0.0 dsb.yahoo.co.jp
 0.0.0.0 dsbrowser.report-uri.io
+0.0.0.0 dscxcydgyj.com
 0.0.0.0 dsfjhfhyry2hh8jo09.com
 0.0.0.0 dsgretaillimited.tt.omtrdc.net
 0.0.0.0 dslladen.com
@@ -17599,6 +17610,7 @@
 0.0.0.0 fa1c161dcae6.bitsngo.net
 0.0.0.0 fa1f96ab-b693-40e4-82d5-8698592ef9ac.edge.permutive.app
 0.0.0.0 fa2ef05ff05bd008aece56be81336cc4.safeframe.googlesyndication.com
+0.0.0.0 fabricsdirect4you.com
 0.0.0.0 fabriefly.mobi
 0.0.0.0 fabrkrup.com
 0.0.0.0 fabrouter.com
@@ -19808,6 +19820,7 @@
 0.0.0.0 goo-access-analytics.appspot.com
 0.0.0.0 goo2anywhere.com
 0.0.0.0 goo4anywhere.com
+0.0.0.0 goobaiwy.com
 0.0.0.0 gooblesdd.com
 0.0.0.0 goodadvert.ru
 0.0.0.0 goodblock.gladly.io
@@ -21907,12 +21920,16 @@
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 in.clean-master-ultra.club
+0.0.0.0 in.cleaner-hub.club
 0.0.0.0 in.cuebiq.com
+0.0.0.0 in.fastcleanpro.club
 0.0.0.0 in.iflowh5.ucweb.com
 0.0.0.0 in.netdeliveryservice.com
 0.0.0.0 in.pdvacde.com
+0.0.0.0 in.profastclean.club
 0.0.0.0 in.stat.mi.com
 0.0.0.0 in.tubecorporate.com
+0.0.0.0 in.ultra-clean-master.club
 0.0.0.0 in.wzrkt.com
 0.0.0.0 in.zog.link
 0.0.0.0 in10.zog.link
@@ -23698,6 +23715,7 @@
 0.0.0.0 koora2live.com
 0.0.0.0 kopehngtragen.com
 0.0.0.0 kopsil.com
+0.0.0.0 koquarmc.com
 0.0.0.0 koradu.com
 0.0.0.0 korea.inmobi.com
 0.0.0.0 koreanpornmovie.xyz
@@ -26426,6 +26444,7 @@
 0.0.0.0 milesandmore.tt.omtrdc.net
 0.0.0.0 milestonequakingashes.com
 0.0.0.0 milestonetelephone.com
+0.0.0.0 miliated.xyz
 0.0.0.0 militaryverse.com
 0.0.0.0 milk.supertool.stunnermedia.com
 0.0.0.0 milkygoodness.xyz
@@ -27400,6 +27419,7 @@
 0.0.0.0 mywebstats.org
 0.0.0.0 mywondertrip.com
 0.0.0.0 mywot.net
+0.0.0.0 myzztv.xyz
 0.0.0.0 mz.ads.justpremium.com
 0.0.0.0 mzaugggxs.com
 0.0.0.0 mzfo2.bemobtrk.com
@@ -29559,6 +29579,7 @@
 0.0.0.0 ouphouch.com
 0.0.0.0 ouphowor.com
 0.0.0.0 ouplog.umeng.com
+0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
 0.0.0.0 our-internet.com
 0.0.0.0 ourauhoa.net
@@ -29706,6 +29727,7 @@
 0.0.0.0 ozfacts.com
 0.0.0.0 ozjga.top
 0.0.0.0 ozmifi.info
+0.0.0.0 ozobsaib.com
 0.0.0.0 ozodh.rdtk.io
 0.0.0.0 ozonemedia.com
 0.0.0.0 ozongees.com
@@ -29742,6 +29764,7 @@
 0.0.0.0 p.gazeta.pl
 0.0.0.0 p.gm99.com
 0.0.0.0 p.iople.com
+0.0.0.0 p.iwin.com
 0.0.0.0 p.jsapicdn.com
 0.0.0.0 p.kolplay.com
 0.0.0.0 p.liadm.com
@@ -34808,6 +34831,7 @@
 0.0.0.0 qfwjclpckrdehi.com
 0.0.0.0 qgaaaa2.admaym.com
 0.0.0.0 qgamsa.com
+0.0.0.0 qgenjqyvq.com
 0.0.0.0 qgepodownload.mediatek.com
 0.0.0.0 qgevavwyafjf.com
 0.0.0.0 qgnlbjkxrzb.com
@@ -34903,6 +34927,7 @@
 0.0.0.0 quantcast.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcount.com
+0.0.0.0 quantical.xyz
 0.0.0.0 quantomcoding.com
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantumads.com
@@ -36691,6 +36716,7 @@
 0.0.0.0 s.outbrain.com
 0.0.0.0 s.payserve.com
 0.0.0.0 s.perimeterx.net
+0.0.0.0 s.pixanalytics.com
 0.0.0.0 s.qualtrics.com
 0.0.0.0 s.remonti.org
 0.0.0.0 s.seedtag.com
@@ -36851,6 +36877,7 @@
 0.0.0.0 sadsoks.com
 0.0.0.0 saefirst.com
 0.0.0.0 saemaeul.mireene.com
+0.0.0.0 saervilohim.top
 0.0.0.0 safe.tclclouds.com
 0.0.0.0 safe.ucweb.com
 0.0.0.0 safeattributeexcept.com
@@ -38593,6 +38620,7 @@
 0.0.0.0 smr.snssdk.com
 0.0.0.0 smrtb.com
 0.0.0.0 smrtbnr.site
+0.0.0.0 smrtlnk18tds.com
 0.0.0.0 smrtpxl.advertising.com
 0.0.0.0 sms-xxx.com
 0.0.0.0 sms.central-messages.com
@@ -40369,8 +40397,11 @@
 0.0.0.0 supertop100.com
 0.0.0.0 supertrackingz.com
 0.0.0.0 supervisegoldfish.com
+0.0.0.0 supervisionuniversal.com
 0.0.0.0 suphelper.com
 0.0.0.0 supletcedintand.pro
+0.0.0.0 suporte01928492.redirectme.net
+0.0.0.0 suporte20082021.sytes.net
 0.0.0.0 supperopeningturnstile.com
 0.0.0.0 supply.upjers.com
 0.0.0.0 supplyframe.com
@@ -43228,6 +43259,7 @@
 0.0.0.0 tracot.com
 0.0.0.0 tractorhuskforeground.com
 0.0.0.0 tracyber-plarted.com
+0.0.0.0 tradbypass.com
 0.0.0.0 trade-comp.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -44761,6 +44793,7 @@
 0.0.0.0 ve0.popmonster.ru
 0.0.0.0 veanumb.biz
 0.0.0.0 vebadu.com
+0.0.0.0 veckoukr.net
 0.0.0.0 vectorstock.com
 0.0.0.0 vecturequotes.com
 0.0.0.0 veduy.com
@@ -45404,6 +45437,7 @@
 0.0.0.0 vst3mid.com
 0.0.0.0 vst4mid.com
 0.0.0.0 vst5mid.com
+0.0.0.0 vst6mid.com
 0.0.0.0 vstaner.com
 0.0.0.0 vstarstore.com
 0.0.0.0 vstatic.fastclick.net
@@ -46483,6 +46517,7 @@
 0.0.0.0 wserver.vidazoo.com
 0.0.0.0 wsgeoip.adaware.com
 0.0.0.0 wshareit.com
+0.0.0.0 wshsoft.company
 0.0.0.0 wsjlbbqemr23.com
 0.0.0.0 wslog.truecaller.com
 0.0.0.0 wsnotif.a4.tl
@@ -46522,6 +46557,7 @@
 0.0.0.0 wurtoosy.com
 0.0.0.0 wussucko.com
 0.0.0.0 wusths.com
+0.0.0.0 wutaszsuib.com
 0.0.0.0 wutipupi.xyz
 0.0.0.0 wutlar.fortumo.com
 0.0.0.0 wvahelphpfnhyx.com
@@ -48447,6 +48483,7 @@
 0.0.0.0 xpduiodbbsahewxtc.ay.delivery
 0.0.0.0 xpedime.top
 0.0.0.0 xpeeps.com
+0.0.0.0 xpicvrubu.xyz
 0.0.0.0 xpicw.top
 0.0.0.0 xplosion.de
 0.0.0.0 xpnscb.jpush.cn
@@ -49225,6 +49262,7 @@
 0.0.0.0 zukapk01.top
 0.0.0.0 zukavp08.top
 0.0.0.0 zukelx03.top
+0.0.0.0 zukotm09.top
 0.0.0.0 zuksav07.top
 0.0.0.0 zukutu02.top
 0.0.0.0 zukxd6fkxqn.com
