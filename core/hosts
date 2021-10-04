@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.277
-# Release: 277
-# Entries: 49,435
+# Version: 21.10.278
+# Release: 278
+# Entries: 49,441
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 04 Oct 21 20:05:03
+# Updated: Tue, 05 Oct 21 00:05:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5819,6 +5819,7 @@
 0.0.0.0 ak-vid.applovin.com
 0.0.0.0 ak.goodsblock.mgid.com
 0.0.0.0 ak.imgaft.com
+0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
@@ -8142,6 +8143,7 @@
 0.0.0.0 aulteeby.net
 0.0.0.0 aultewit.net
 0.0.0.0 aumpoabi.com
+0.0.0.0 aumsookr.com
 0.0.0.0 aunsajoa.com
 0.0.0.0 auntants.com
 0.0.0.0 auntietraumatizemobile.com
@@ -19003,6 +19005,7 @@
 0.0.0.0 gainmoneyfast.com
 0.0.0.0 gainoverprotective.com
 0.0.0.0 gainregister.com
+0.0.0.0 gaisteem.net
 0.0.0.0 gaitdrummerauto.com
 0.0.0.0 gaitheed.com
 0.0.0.0 gaitoath.com
@@ -28336,6 +28339,7 @@
 0.0.0.0 notiks.io
 0.0.0.0 notionnalisent.xyz
 0.0.0.0 notix.co
+0.0.0.0 notixio.com
 0.0.0.0 notmining.org
 0.0.0.0 notontherbabla.com
 0.0.0.0 notorietycheerypositively.com
@@ -34387,6 +34391,7 @@
 0.0.0.0 ptengine.com
 0.0.0.0 ptetchie.net
 0.0.0.0 ptewarin.net
+0.0.0.0 ptidsezi.com
 0.0.0.0 ptiftoud.com
 0.0.0.0 ptigjkkds.com
 0.0.0.0 ptilytiga.com
@@ -40197,6 +40202,7 @@
 0.0.0.0 stoneegn.net
 0.0.0.0 stonseeb.net
 0.0.0.0 stonybuck.serveirc.com
+0.0.0.0 stookoth.com
 0.0.0.0 stoolapostlecarbon.com
 0.0.0.0 stoopcram.com
 0.0.0.0 stooptobacco.com
