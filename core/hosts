@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.279
 # Release: 279
-# Entries: 49,549
+# Entries: 49,576
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 06 Oct 21 00:07:03
+# Updated: Wed, 06 Oct 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7213,6 +7213,7 @@
 0.0.0.0 api.fortumo.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.friendbuy.com
+0.0.0.0 api.g.micloud.xiaomi.net
 0.0.0.0 api.gameads.io
 0.0.0.0 api.gemini.yahoo.com
 0.0.0.0 api.getblueshift.com
@@ -10357,6 +10358,7 @@
 0.0.0.0 bugly.cros.wr.pvp.net
 0.0.0.0 bugly.qq.com
 0.0.0.0 bugputrescentdeliberately.com
+0.0.0.0 bugreport.xiaomi.net
 0.0.0.0 bugs-bunny-stage.sb.avast.com
 0.0.0.0 bugs-bunny-test.sb.avast.com
 0.0.0.0 bugs-bunny.sb.avast.com
@@ -15165,6 +15167,7 @@
 0.0.0.0 dev3.flurry.com
 0.0.0.0 dev8.supersonicads.com
 0.0.0.0 devaluationobserve.com
+0.0.0.0 devapi-takumi.mihoyo.com
 0.0.0.0 devastatingallothallucinate.com
 0.0.0.0 devcdn.popt.in
 0.0.0.0 devdisplay.popt.in
@@ -15196,6 +15199,7 @@
 0.0.0.0 devilspanmute.com
 0.0.0.0 deviouscoupbrutally.com
 0.0.0.0 devisharpattalic.com
+0.0.0.0 devlog-upload.mihoyo.com
 0.0.0.0 devoidsagacious.com
 0.0.0.0 devozuyu.xyz
 0.0.0.0 dewagg.com
@@ -15332,6 +15336,7 @@
 0.0.0.0 diminishkidnapping.com
 0.0.0.0 dimml.io
 0.0.0.0 dimpawlam.com
+0.0.0.0 dimpuxoh.net
 0.0.0.0 dingibley.pro
 0.0.0.0 dingoftoftedrob.info
 0.0.0.0 diningprefixmyself.com
@@ -16000,6 +16005,7 @@
 0.0.0.0 dtv5loup63fac.cloudfront.net
 0.0.0.0 dtyry4ejybx0.cloudfront.net
 0.0.0.0 dtzads.com
+0.0.0.0 dualaaldime.cam
 0.0.0.0 dualeotruyen.net
 0.0.0.0 dualizefriskin.com
 0.0.0.0 dualmarket.info
@@ -16787,6 +16793,7 @@
 0.0.0.0 emotersjervina.com
 0.0.0.0 emotificc.top
 0.0.0.0 emotionpiousconformity.com
+0.0.0.0 empirelayer.club
 0.0.0.0 empiremoney.com
 0.0.0.0 empirescooters.com
 0.0.0.0 employdearestspatter.com
@@ -17912,6 +17919,7 @@
 0.0.0.0 fbcd0e3a10e.com
 0.0.0.0 fbcdn2.com
 0.0.0.0 fbfd396918c60838.com
+0.0.0.0 fbfree89.info
 0.0.0.0 fbgdc.com
 0.0.0.0 fblaster.com
 0.0.0.0 fbooksluts.com
@@ -18427,6 +18435,7 @@
 0.0.0.0 foldupbriningjeanne.com
 0.0.0.0 folkoyster.com
 0.0.0.0 folksattunewig.com
+0.0.0.0 followan.xyz
 0.0.0.0 followclick.pro
 0.0.0.0 followercounter.com
 0.0.0.0 followmalnutritionjeanne.com
@@ -19722,6 +19731,7 @@
 0.0.0.0 glotchat.click
 0.0.0.0 glothouw.link
 0.0.0.0 gloumsee.net
+0.0.0.0 gloviphewhe.com
 0.0.0.0 glowdot.com
 0.0.0.0 gloxeept.com
 0.0.0.0 glpl4qp99ny4.com
@@ -20435,6 +20445,7 @@
 0.0.0.0 hadspmz.com
 0.0.0.0 haftobso.net
 0.0.0.0 haghalra.com
+0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hailoaja.net
 0.0.0.0 hailsserien.top
 0.0.0.0 haircarehot.ga
@@ -22916,6 +22927,7 @@
 0.0.0.0 jailershowmen.com
 0.0.0.0 jaimyworld.duckdns.org
 0.0.0.0 jaiptoch.net
+0.0.0.0 jairoowe.com
 0.0.0.0 jaistoom.net
 0.0.0.0 jaiwuzoo.net
 0.0.0.0 jaizouji.com
@@ -24753,6 +24765,7 @@
 0.0.0.0 ljcdn.comtucdncom.com
 0.0.0.0 ljecur.com
 0.0.0.0 ljja3ef63g.com
+0.0.0.0 ljrshdrbbmwae.xyz
 0.0.0.0 ljwmlw.xyz
 0.0.0.0 lk.vectoranalytics.ru
 0.0.0.0 lk1mft33pj2f.com
@@ -26666,6 +26679,8 @@
 0.0.0.0 minkglentriumphal.com
 0.0.0.0 minolily.com
 0.0.0.0 minologyhesia.site
+0.0.0.0 minor-api-os.mihoyo.com
+0.0.0.0 minor-api.mihoyo.com
 0.0.0.0 minorexportshopping.com
 0.0.0.0 minoritish.online
 0.0.0.0 minormeeting.com
@@ -27057,6 +27072,7 @@
 0.0.0.0 monitor.adups.cn
 0.0.0.0 monitor.channel4.com
 0.0.0.0 monitor.clickcease.com
+0.0.0.0 monitor.geetest.com
 0.0.0.0 monitor.jscssfunny.com
 0.0.0.0 monitor.outbrain.com
 0.0.0.0 monitor.purplepatch.online
@@ -29485,6 +29501,7 @@
 0.0.0.0 opetiv.com
 0.0.0.0 opgafj.com
 0.0.0.0 opgolan.com
+0.0.0.0 ophauwuy.com
 0.0.0.0 ophoahik.net
 0.0.0.0 ophttps.rayjump.com
 0.0.0.0 opienetwork.com
@@ -29637,6 +29654,7 @@
 0.0.0.0 orisapple.top
 0.0.0.0 orkonavariet.biz
 0.0.0.0 ornament-i.com
+0.0.0.0 orninedin.club
 0.0.0.0 oronsuuts.com
 0.0.0.0 orpheus-lyra.de
 0.0.0.0 orrecede.top
@@ -30545,6 +30563,7 @@
 0.0.0.0 paufx.000webhostapp.com
 0.0.0.0 paula-secundinus.com
 0.0.0.0 paumoogo.net
+0.0.0.0 paurif.com
 0.0.0.0 pauzajoo.net
 0.0.0.0 pavementinhumanabstain.com
 0.0.0.0 pawheatyous.com
@@ -33497,6 +33516,7 @@
 0.0.0.0 polldenunciationdeveloping.com
 0.0.0.0 pollscoopiffy.com
 0.0.0.0 polluxnetwork.com
+0.0.0.0 poltarimus.com
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
 0.0.0.0 polyhymnia-mar.com
@@ -34385,6 +34405,7 @@
 0.0.0.0 psoomeeg.com
 0.0.0.0 psoonsoa.net
 0.0.0.0 psoonsod.com
+0.0.0.0 psoorsen.com
 0.0.0.0 psootchu.net
 0.0.0.0 psoptopi.com
 0.0.0.0 psougrie.com
@@ -34465,6 +34486,7 @@
 0.0.0.0 ptiftoud.com
 0.0.0.0 ptigjkkds.com
 0.0.0.0 ptilytiga.com
+0.0.0.0 ptinouth.com
 0.0.0.0 ptipsixo.com
 0.0.0.0 ptipsout.net
 0.0.0.0 ptirgaux.com
@@ -35999,6 +36021,7 @@
 0.0.0.0 reporting-dashboard.rubiconproject.com
 0.0.0.0 reporting-gc.adgear.com
 0.0.0.0 reporting-ui.rakutenmarketing.com
+0.0.0.0 reporting-util.tutelatechnologies.com
 0.0.0.0 reporting-visualisation.rakutenmarketing.com
 0.0.0.0 reporting.adgear.com
 0.0.0.0 reporting.awin.com
@@ -36409,6 +36432,7 @@
 0.0.0.0 robin201.xyz
 0.0.0.0 robloxexploitnet.imageshack.host
 0.0.0.0 robocat.me
+0.0.0.0 robocop.oneaudience.com
 0.0.0.0 robotadserver.com
 0.0.0.0 robotreplay.com
 0.0.0.0 robsbogsrouse.com
@@ -37901,6 +37925,7 @@
 0.0.0.0 service-leader.com
 0.0.0.0 service-mopdf.wps.com
 0.0.0.0 service.cmp.oath.com
+0.0.0.0 service.fyber.com
 0.0.0.0 service.gz-data.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.newrelic.com
@@ -44808,6 +44833,7 @@
 0.0.0.0 utteredhandicappedsomebody.com
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 utteroccupied.com
+0.0.0.0 utxdtismojqk.xyz
 0.0.0.0 uuaajohul.com
 0.0.0.0 uubforbdc2om.com
 0.0.0.0 uue2.destinia.ir
@@ -45686,6 +45712,7 @@
 0.0.0.0 vst4mid.com
 0.0.0.0 vst5mid.com
 0.0.0.0 vst6mid.com
+0.0.0.0 vst7mid.com
 0.0.0.0 vstaner.com
 0.0.0.0 vstarstore.com
 0.0.0.0 vstatic.fastclick.net
