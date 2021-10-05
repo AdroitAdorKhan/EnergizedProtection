@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.278
-# Release: 278
-# Entries: 49,542
+# Version: 21.10.279
+# Release: 279
+# Entries: 49,549
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 05 Oct 21 20:07:04
+# Updated: Wed, 06 Oct 21 00:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7768,6 +7768,7 @@
 0.0.0.0 artg.widerplanet.com
 0.0.0.0 artgullyhep.com
 0.0.0.0 arthahoonte.biz
+0.0.0.0 arthyadtrack.online
 0.0.0.0 arthyredir.com
 0.0.0.0 articismstre.fun
 0.0.0.0 artifact-registry.service.newrelic.com
@@ -13169,6 +13170,7 @@
 0.0.0.0 comwww.listincode.com
 0.0.0.0 conapi.connatix.com
 0.0.0.0 conative.de
+0.0.0.0 conatr.com
 0.0.0.0 conbt.com
 0.0.0.0 concedefixfrench.com
 0.0.0.0 conceiveintentlybookie.com
@@ -22343,6 +22345,7 @@
 0.0.0.0 instaboom-hello.site
 0.0.0.0 instadatings-here.life
 0.0.0.0 instahookupclub4.com
+0.0.0.0 instahookupxxx.com
 0.0.0.0 install.convertmyvid.com
 0.0.0.0 install.ddns.info
 0.0.0.0 install.easy-pdf.com
@@ -24093,6 +24096,7 @@
 0.0.0.0 lamplosts.site
 0.0.0.0 lamplow.com
 0.0.0.0 lanchaeanly.pro
+0.0.0.0 land-flirtgirl1.com
 0.0.0.0 landelcut.com
 0.0.0.0 landindiscreet.com
 0.0.0.0 landing-review.admin.mgid.com
@@ -34411,6 +34415,7 @@
 0.0.0.0 psygruptuly.com
 0.0.0.0 psylefywha.pro
 0.0.0.0 psytupuny.com
+0.0.0.0 pt-xb.xyz
 0.0.0.0 pt.ads.justpremium.com
 0.0.0.0 pt.media.net
 0.0.0.0 pt.moatads.com
@@ -36400,6 +36405,7 @@
 0.0.0.0 robertprotectsyourpc-us1.com
 0.0.0.0 robi-prod.mife-aoc.com
 0.0.0.0 robi.mife-aoc.com
+0.0.0.0 robiaa.com
 0.0.0.0 robin201.xyz
 0.0.0.0 robloxexploitnet.imageshack.host
 0.0.0.0 robocat.me
@@ -43840,6 +43846,7 @@
 0.0.0.0 trusted.de
 0.0.0.0 trustedgatetocontent.com
 0.0.0.0 trustednotice.news
+0.0.0.0 trustmeiamcdn.com
 0.0.0.0 trustworthytopmost.com
 0.0.0.0 trustx.org
 0.0.0.0 trustyfine.com
