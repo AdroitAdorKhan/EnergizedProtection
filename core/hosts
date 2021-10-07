@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.281
 # Release: 281
-# Entries: 49,798
+# Entries: 49,800
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 08 Oct 21 00:07:02
+# Updated: Fri, 08 Oct 21 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -31160,6 +31160,7 @@
 0.0.0.0 piwik.ero-advertising.com
 0.0.0.0 piwik.everzones.com
 0.0.0.0 piwik.inria.fr
+0.0.0.0 piwik.myvpn.run
 0.0.0.0 piwik.opendesktop.org
 0.0.0.0 piwik.pro
 0.0.0.0 piwik.widerplanet.com
@@ -44287,6 +44288,7 @@
 0.0.0.0 txxx.ahcdn.com
 0.0.0.0 ty65xcc-smart-manatee.mybluemix.net
 0.0.0.0 tyboyyli.xyz
+0.0.0.0 tycoon-migration.tk
 0.0.0.0 tygafso.com
 0.0.0.0 tygmm3k9bjodzq9bg.ay.delivery
 0.0.0.0 tyjawhesu.com
