@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.280
 # Release: 280
-# Entries: 49,794
+# Entries: 49,870
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 07 Oct 21 12:07:02
+# Updated: Thu, 07 Oct 21 16:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -124,12 +124,14 @@
 0.0.0.0 070ba158d714f0799803d2ff78aba575.safeframe.googlesyndication.com
 0.0.0.0 072112277195639.rgverkqcpahaqcqtmpksxicmtno.com
 0.0.0.0 07aa0353cc.com
+0.0.0.0 07d0087b14.9f3a91e76f.com
 0.0.0.0 07fbd2a8.api.splkmobile.com
 0.0.0.0 07fe665dd33f.com
 0.0.0.0 08585052.dr.youme.im
 0.0.0.0 08585052.rtc.youme.im
 0.0.0.0 08629908194624347.best-system-tools.com
 0.0.0.0 0898hhh.com
+0.0.0.0 08d7882dfc.94bc29639b.com
 0.0.0.0 09092021.l9kfxu1c5x.com
 0.0.0.0 0926a687679d337e9d.com
 0.0.0.0 09306246599308743.best-system-tools.com
@@ -450,6 +452,7 @@
 0.0.0.0 13804983963932216.best-system-tools.com
 0.0.0.0 138655079735649.windows-display-service.com
 0.0.0.0 1397392647686002.best-system-tools.com
+0.0.0.0 13dd23ed42.ae88625f96.com
 0.0.0.0 13f63c65.dr.youme.im
 0.0.0.0 13hk5af.edvfwlacluo.com
 0.0.0.0 13p76nnir.de
@@ -828,6 +831,7 @@
 0.0.0.0 21736.xyz
 0.0.0.0 217403994666205.window-updates-service.com
 0.0.0.0 21791736.rtc.youme.im
+0.0.0.0 21a6bd33d7.8a78031439.com
 0.0.0.0 21c9a53484951.com
 0.0.0.0 21find.com
 0.0.0.0 21sexturycash.com
@@ -970,6 +974,7 @@
 0.0.0.0 2d11c8434d5f.bitsngo.net
 0.0.0.0 2d6c7d9c.rtc.youme.im
 0.0.0.0 2d757747652f.bitsngo.net
+0.0.0.0 2da6d8fae9.cc29bca73b.com
 0.0.0.0 2dbd87c7a091b.com
 0.0.0.0 2ds.ero-advertising.com
 0.0.0.0 2e0bd0d6cceb.bitsngo.net
@@ -983,6 +988,7 @@
 0.0.0.0 2fc.smartclick.net
 0.0.0.0 2fclk.tradedoubler.com
 0.0.0.0 2fclkuk.tradedoubler.com
+0.0.0.0 2fe5885777.b370db8cb7.com
 0.0.0.0 2fe8bc2ad50f.bitsngo.net
 0.0.0.0 2ffilter.adright.co
 0.0.0.0 2fib.adnxs.com
@@ -1375,6 +1381,7 @@
 0.0.0.0 43yagowe3y.com
 0.0.0.0 4410e790b790.bitsngo.net
 0.0.0.0 44168590494942106.best-system-tools.com
+0.0.0.0 441d65438d.b1f72fc1be.com
 0.0.0.0 444238897266907.best-system-tools.com
 0.0.0.0 447438716888427.window-updates-service.com
 0.0.0.0 447547223832872.window-updates-service.com
@@ -1445,9 +1452,11 @@
 0.0.0.0 4crot.com
 0.0.0.0 4d22ce6db7ea3bce76ea6850d59f2410.safeframe.googlesyndication.com
 0.0.0.0 4d2c431d6256d85b49be395855990a62.safeframe.googlesyndication.com
+0.0.0.0 4d3ab3ed3a.25a2143174.com
 0.0.0.0 4d3o4.rdtk.io
 0.0.0.0 4d5945c5.rtc.youme.im
 0.0.0.0 4d6fcd5c.rtc.youme.im
+0.0.0.0 4dbd367a0f.d4624d2bc2.com
 0.0.0.0 4dcdc.com
 0.0.0.0 4dsbanner.net
 0.0.0.0 4dsply.com
@@ -1613,6 +1622,7 @@
 0.0.0.0 59590d1e.dr.youme.im
 0.0.0.0 596ba1aa.rucwjxi.cn
 0.0.0.0 598c3e7fc74b.bitsngo.net
+0.0.0.0 599e7d6968.9ec1589ddb.com
 0.0.0.0 59a8e0d6fa2.com
 0.0.0.0 59cn7.com
 0.0.0.0 59e6ea7248001c.com
@@ -1621,6 +1631,8 @@
 0.0.0.0 5a9yl.bemobtrk.com
 0.0.0.0 5advertise.com
 0.0.0.0 5aea1fab.api.splkmobile.com
+0.0.0.0 5aee477148.e4ea9cb229.com
+0.0.0.0 5b22c85398.13e0df9b41.com
 0.0.0.0 5b5a93686577c13.com
 0.0.0.0 5baf1288cf.dl8.me
 0.0.0.0 5bf96f84.dr.youme.im
@@ -1727,6 +1739,7 @@
 0.0.0.0 644246cb.api.splkmobile.com
 0.0.0.0 645yvcj6c8rn.com
 0.0.0.0 6473577802856119.best-system-tools.com
+0.0.0.0 648668b914.ea1a7e5216.com
 0.0.0.0 648773352305094.windows-display-service.com
 0.0.0.0 648814042409261.windows-display-service.com
 0.0.0.0 64aa81cd247ea32d.com
@@ -1985,6 +1998,7 @@
 0.0.0.0 79zgycmr.com
 0.0.0.0 7a7bbe3bbcff5b254d9a817c096d340f.safeframe.googlesyndication.com
 0.0.0.0 7a8fe1c29493.com
+0.0.0.0 7b57b89ba1.a3f75e78e5.com
 0.0.0.0 7bb6692c.api.splkmobile.com
 0.0.0.0 7bd4a85b.dr.youme.im
 0.0.0.0 7bd4a85b.rtc.youme.im
@@ -2054,6 +2068,7 @@
 0.0.0.0 808414194318983.windows-display-service.com
 0.0.0.0 809933291541205.windows-display-service.com
 0.0.0.0 81.nbryb.com
+0.0.0.0 81035ddbf4.32c5637f3c.com
 0.0.0.0 813676781124538.windows-display-service.com
 0.0.0.0 814c60d7.dr.youme.im
 0.0.0.0 814c60d7.rtc.youme.im
@@ -2170,6 +2185,7 @@
 0.0.0.0 8993311.fls.doubleclick.net
 0.0.0.0 899817731645372.window-updates-service.com
 0.0.0.0 89tmolir.top
+0.0.0.0 8a4cba9e75.544e649ba3.com
 0.0.0.0 8b0b17dc1f9f8010.com
 0.0.0.0 8b0de172.api.splkmobile.com
 0.0.0.0 8baa3fd72a800f20306452a20559b2f1.safeframe.googlesyndication.com
@@ -2189,6 +2205,7 @@
 0.0.0.0 8dbd6efa69ae9bc571b667a876e6775a.safeframe.googlesyndication.com
 0.0.0.0 8dfaa2dc76855.com
 0.0.0.0 8e046a13.dr.youme.im
+0.0.0.0 8e15d1e530.551327fd36.com
 0.0.0.0 8e3d.duckdns.org
 0.0.0.0 8e81f51f.api.splkmobile.com
 0.0.0.0 8ff01bde37db289d5.com
@@ -2228,6 +2245,7 @@
 0.0.0.0 900bets10.com
 0.0.0.0 9012732.fls.doubleclick.net
 0.0.0.0 902149f45b2c02508d9587ab45c98de3.report-uri.io
+0.0.0.0 90447d62cf.f53d8e67f8.com
 0.0.0.0 9048f920.api.splkmobile.com
 0.0.0.0 9053fe03868ab.com
 0.0.0.0 906545162200927.window-updates-service.com
@@ -2547,6 +2565,7 @@
 0.0.0.0 a0581484.xsph.ru
 0.0.0.0 a0675c1160de6c6.com
 0.0.0.0 a0a18dc255.1772c9ffd2.com
+0.0.0.0 a0b24c83b8.3000f4e548.com
 0.0.0.0 a1.adform.net
 0.0.0.0 a157ad075fcb34c.com
 0.0.0.0 a15c5009bcbe272.com
@@ -2564,6 +2583,7 @@
 0.0.0.0 a26d31d5d6986cbe.com
 0.0.0.0 a280720a.api.splkmobile.com
 0.0.0.0 a289f5f0f2c.com
+0.0.0.0 a28ce9b7c0.2d56d0483a.com
 0.0.0.0 a2a5c7f9-3fa0-4182-889a-15aa61acf59b.edge.permutive.app
 0.0.0.0 a2c653c4d145fa5f96a.com
 0.0.0.0 a2dfp.net
@@ -2602,6 +2622,7 @@
 0.0.0.0 a6be07586bc4a7.com
 0.0.0.0 a6f2b691fdb01ea94725d56f6782917f.safeframe.googlesyndication.com
 0.0.0.0 a6f845e6c37b2833148.com
+0.0.0.0 a72d79c58b.33e429d29e.com
 0.0.0.0 a75-10-so.ssl.cdn13.com
 0.0.0.0 a79736f359f.com
 0.0.0.0 a7dc50fd.api.splkmobile.com
@@ -2619,6 +2640,7 @@
 0.0.0.0 aa.pornvideotop.com
 0.0.0.0 aa.trafficjunky.net
 0.0.0.0 aa4393f3.api.splkmobile.com
+0.0.0.0 aa446af0ed.75bb9a4031.com
 0.0.0.0 aa53df329975c325.com
 0.0.0.0 aaaaaco.com
 0.0.0.0 aaashoeschina.com
@@ -5463,6 +5485,7 @@
 0.0.0.0 ae.pubmatic.com
 0.0.0.0 ae1a1e258b8b016.com
 0.0.0.0 ae22000.pubmatic.com
+0.0.0.0 ae91ec2714.dc72b133f3.com
 0.0.0.0 ae9b6d844dcc4b498c00ec5ac9f7089c.report-uri.io
 0.0.0.0 aebadu.com
 0.0.0.0 aec40f9e073ba6.com
@@ -6923,6 +6946,7 @@
 0.0.0.0 anderest-newider.icu
 0.0.0.0 andersenit.dk
 0.0.0.0 andibringto.biz
+0.0.0.0 anding-strence.icu
 0.0.0.0 andohs.net
 0.0.0.0 andomedia.com
 0.0.0.0 andomediagroup.com
@@ -8652,6 +8676,7 @@
 0.0.0.0 b4b1094f63.de68f1d2b1.com
 0.0.0.0 b4be6fef.dr.youme.im
 0.0.0.0 b4be6fef.rtc.youme.im
+0.0.0.0 b4f91231ab.ea38b1fdc5.com
 0.0.0.0 b4krd.trafficmagnates.com
 0.0.0.0 b4q982rbqdsw.com
 0.0.0.0 b54m4qbmt0b9.com
@@ -10691,6 +10716,7 @@
 0.0.0.0 c43a3cd8f99413891.com
 0.0.0.0 c4445cc4.rtc.youme.im
 0.0.0.0 c44wergiu87heghoconutdx.com
+0.0.0.0 c4b2dbf3a0.040e9e6099.com
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 c4dm.adcolony.com
 0.0.0.0 c4owk.controlapplink.com
@@ -10858,6 +10884,7 @@
 0.0.0.0 camplacecash.com
 0.0.0.0 camprime.com
 0.0.0.0 campuscompositionzodiac.com
+0.0.0.0 cams-places2.com
 0.0.0.0 cams.com
 0.0.0.0 cams.enjoy.be
 0.0.0.0 cams.imgtaxi.com
@@ -11065,6 +11092,7 @@
 0.0.0.0 cb-content.com
 0.0.0.0 cb.ksmobile.com
 0.0.0.0 cb.mopub.com
+0.0.0.0 cb2d4d0a03.ce3fbb6bac.com
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbclickbank.com
@@ -13215,6 +13243,7 @@
 0.0.0.0 condemnwithgrandfather.com
 0.0.0.0 conderful.club
 0.0.0.0 conditionahastingy.com
+0.0.0.0 conditionchange.com
 0.0.0.0 conditioncrush.com
 0.0.0.0 conditionstray.com
 0.0.0.0 conditionwildest.com
@@ -14043,6 +14072,7 @@
 0.0.0.0 cu-cn-north00002.gala.convection.cn
 0.0.0.0 cu44307.tmweb.ru
 0.0.0.0 cu4wyv6vvpjknscag.ay.delivery
+0.0.0.0 cu85891.tmweb.ru
 0.0.0.0 cubanetestoon.com
 0.0.0.0 cubchannel.com
 0.0.0.0 cubec021.ioam.de
@@ -14364,6 +14394,7 @@
 0.0.0.0 d26adrx9c3n0mq.cloudfront.net
 0.0.0.0 d27gtglsu4f4y2.cloudfront.net
 0.0.0.0 d2850fafeb7.com
+0.0.0.0 d28a863f16.a6dbb52634.com
 0.0.0.0 d28n7yywqog3r7.cloudfront.net
 0.0.0.0 d28s7kbgrs6h2f.cloudfront.net
 0.0.0.0 d29gqcij.com
@@ -14831,6 +14862,7 @@
 0.0.0.0 dcznhkojghrl.com
 0.0.0.0 dd02b06e.api.splkmobile.com
 0.0.0.0 dd1e5dacb549658446f1c2cae11ab0bb.safeframe.googlesyndication.com
+0.0.0.0 dd77535fba.3901da0f4a.com
 0.0.0.0 dddomainccc.com
 0.0.0.0 ddfcash.com
 0.0.0.0 dditscdn.com
@@ -15914,6 +15946,7 @@
 0.0.0.0 dreamitsystems.com
 0.0.0.0 dreamlist.top
 0.0.0.0 dreamone.online
+0.0.0.0 dreamwoman-finder2.com
 0.0.0.0 drechselreich.de
 0.0.0.0 drentothem.biz
 0.0.0.0 dresscomes.com
@@ -15927,6 +15960,7 @@
 0.0.0.0 drinksco.report-uri.io
 0.0.0.0 dripappliance.com
 0.0.0.0 drippeddossers.casa
+0.0.0.0 driqhccjlmjvdk.xyz
 0.0.0.0 drive-boost.com
 0.0.0.0 drive-dwn.com
 0.0.0.0 drive-upd.com
@@ -16278,6 +16312,7 @@
 0.0.0.0 e.thursailso.com
 0.0.0.0 e.tw.cx
 0.0.0.0 e.watchmovie.fun
+0.0.0.0 e00a17117b.a5ee094155.com
 0.0.0.0 e0663490cca0296f7.com
 0.0.0.0 e0967c0e.dr.youme.im
 0.0.0.0 e0a42e1a21669b.com
@@ -16319,6 +16354,7 @@
 0.0.0.0 e4537bc9.dr.youme.im
 0.0.0.0 e4537bc9.rtc.youme.im
 0.0.0.0 e4b65f2ef47fb0.com
+0.0.0.0 e4c8e13238.bad8b2e252.com
 0.0.0.0 e4npw6g7c9kk.com
 0.0.0.0 e5.espncdn.shop
 0.0.0.0 e5019.e2.akamaiedge.net
@@ -16351,6 +16387,8 @@
 0.0.0.0 e91653e146b5e6235690276113cf9d67.safeframe.googlesyndication.com
 0.0.0.0 e94a941778d.com
 0.0.0.0 e9590c90a8.com
+0.0.0.0 e967749c76.1e546a4cc5.com
+0.0.0.0 e981646c2a.d131c7173a.com
 0.0.0.0 e9839.b.akamaiedge.net
 0.0.0.0 e9c1khhwn4uf.com
 0.0.0.0 e9d1f13c08d.com
@@ -16448,6 +16486,7 @@
 0.0.0.0 eawp2ra7.top
 0.0.0.0 eb.technoratimedia.com
 0.0.0.0 eb350c8e.dr.youme.im
+0.0.0.0 eb500d5e2b.cf031d45b5.com
 0.0.0.0 eb948.bemobtrk.com
 0.0.0.0 eba-amadeus.netdna-ssl.com
 0.0.0.0 ebahpya.com
@@ -16528,6 +16567,7 @@
 0.0.0.0 edd249a64b.com
 0.0.0.0 eddd6b75.api.splkmobile.com
 0.0.0.0 eddy.pro
+0.0.0.0 ede09a2eab.5150ab4aa5.com
 0.0.0.0 edenparkviews.com
 0.0.0.0 ederrassi.com
 0.0.0.0 edesia.co.uk
@@ -17648,6 +17688,7 @@
 0.0.0.0 f.w-x.co
 0.0.0.0 f.watchmovie.fun
 0.0.0.0 f.zgbmw.com.cn
+0.0.0.0 f00961160c.25391ebf69.com
 0.0.0.0 f01ed651eca.com
 0.0.0.0 f0362146.xsph.ru
 0.0.0.0 f0367026.xsph.ru
@@ -17691,6 +17732,7 @@
 0.0.0.0 f0429316.xsph.ru
 0.0.0.0 f0528671.xsph.ru
 0.0.0.0 f0571088.xsph.ru
+0.0.0.0 f0574407.xsph.ru
 0.0.0.0 f0577057.xsph.ru
 0.0.0.0 f0580154.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
@@ -17793,6 +17835,7 @@
 0.0.0.0 faglollstwo.com
 0.0.0.0 fagsheswad.com
 0.0.0.0 fagywalu.pro
+0.0.0.0 fahqrsgwjbslqn.xyz
 0.0.0.0 fahrradbekleidungdeu.com
 0.0.0.0 fahrschule-seefeldt.de
 0.0.0.0 faibl.org
@@ -21176,6 +21219,7 @@
 0.0.0.0 hoohavoa.com
 0.0.0.0 hooify.com
 0.0.0.0 hook-ups-here2.com
+0.0.0.0 hook4up.com
 0.0.0.0 hookhub.webcam
 0.0.0.0 hooktronic1.000webhostapp.com
 0.0.0.0 hookupsearch13.com
@@ -21256,6 +21300,7 @@
 0.0.0.0 hotelavlokan.com
 0.0.0.0 hotelfroma.fun
 0.0.0.0 hotelscombined.com.au
+0.0.0.0 hotflirt-for-sex.com
 0.0.0.0 hotgirl18.net
 0.0.0.0 hotgvibe.com
 0.0.0.0 hothomefuck.com
@@ -21264,6 +21309,7 @@
 0.0.0.0 hotjar.com
 0.0.0.0 hotjatt.com
 0.0.0.0 hotkeys.com
+0.0.0.0 hotladies-4you1.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotmovs.com
 0.0.0.0 hotong.store
@@ -22408,9 +22454,11 @@
 0.0.0.0 inspirationhistorical.com
 0.0.0.0 insta-cash.net
 0.0.0.0 insta-hookups1.com
+0.0.0.0 insta-hookups6.com
 0.0.0.0 instaahookuptoday1.com
 0.0.0.0 instaboom-hello.site
 0.0.0.0 instadatings-here.life
+0.0.0.0 instaflirt-book3.com
 0.0.0.0 instahookupclub4.com
 0.0.0.0 instahookupxxx.com
 0.0.0.0 install.convertmyvid.com
@@ -22424,6 +22472,7 @@
 0.0.0.0 installerleading.com
 0.0.0.0 installsbarefootedringer.com
 0.0.0.0 installssmashedbab.com
+0.0.0.0 instameet-match4.com
 0.0.0.0 instametall.de
 0.0.0.0 instana.io
 0.0.0.0 instancetour.info
@@ -22433,6 +22482,7 @@
 0.0.0.0 instantmadness.com
 0.0.0.0 instantpaydaynetwork.com
 0.0.0.0 instantresp.com
+0.0.0.0 instasexcontacts4.com
 0.0.0.0 instayp.yieldlab.net
 0.0.0.0 insteadridiculousdisguise.com
 0.0.0.0 insticator.com
@@ -22725,6 +22775,7 @@
 0.0.0.0 ipbc.io
 0.0.0.0 ipc.skimresources.com
 0.0.0.0 ipcheck.blogsys.jp
+0.0.0.0 ipcocubxho.xyz
 0.0.0.0 ipelucas.com
 0.0.0.0 iperceptions.com
 0.0.0.0 ipfrom.com
@@ -23172,6 +23223,7 @@
 0.0.0.0 jkjcoyeeglunz.com
 0.0.0.0 jkolp.com
 0.0.0.0 jlckey.000webhostapp.com
+0.0.0.0 jlefmanylihsba.xyz
 0.0.0.0 jlpjqekieb.xyz
 0.0.0.0 jm.moatads.com
 0.0.0.0 jmacs.maribacaberita.com
@@ -24601,6 +24653,7 @@
 0.0.0.0 lieblingstaschen.com
 0.0.0.0 liersmagne.club
 0.0.0.0 lieutenantsaviourtones.com
+0.0.0.0 lifeandsex-here2.com
 0.0.0.0 lifemymall.com
 0.0.0.0 lifepromo.biz
 0.0.0.0 lifeseatbird.com
@@ -24895,6 +24948,7 @@
 0.0.0.0 localdates4.com
 0.0.0.0 localdatingladies.com
 0.0.0.0 localedgemedia.com
+0.0.0.0 localflirtygirls.com
 0.0.0.0 localgirlsflirty.com
 0.0.0.0 locallyrivalliberal.com
 0.0.0.0 localmantra.com
@@ -27145,7 +27199,6 @@
 0.0.0.0 monitor.adups.cn
 0.0.0.0 monitor.channel4.com
 0.0.0.0 monitor.clickcease.com
-0.0.0.0 monitor.geetest.com
 0.0.0.0 monitor.jscssfunny.com
 0.0.0.0 monitor.outbrain.com
 0.0.0.0 monitor.purplepatch.online
@@ -27941,6 +27994,7 @@
 0.0.0.0 nesk.zzz.com.ua
 0.0.0.0 nessainy.net
 0.0.0.0 nestcook.com
+0.0.0.0 nestlex.tk
 0.0.0.0 nesystersp.club
 0.0.0.0 net-ad-vantage.com
 0.0.0.0 net-code.me
@@ -28023,6 +28077,7 @@
 0.0.0.0 new-collect.albacross.com
 0.0.0.0 new-incoming.email
 0.0.0.0 new-ladies-here.com
+0.0.0.0 new-lady-4you1.com
 0.0.0.0 new-lady-here12.com
 0.0.0.0 new-new-years.com
 0.0.0.0 new-real-dating12.com
@@ -28052,6 +28107,7 @@
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 newfind.cloudns.cl
 0.0.0.0 newhigee.net
+0.0.0.0 newhotmen.com
 0.0.0.0 newideasdaily.com
 0.0.0.0 newimads.rediff.com
 0.0.0.0 newjulads.com
@@ -30481,6 +30537,7 @@
 0.0.0.0 panelsave.com
 0.0.0.0 pangolin.snssdk.com
 0.0.0.0 pangolin16.sgsnssdk.com
+0.0.0.0 panic-struck-sand.000webhostapp.com
 0.0.0.0 panicshaggy.com
 0.0.0.0 panieswolf.club
 0.0.0.0 paniskbourdon.com
@@ -30837,6 +30894,7 @@
 0.0.0.0 perceuslok071.com
 0.0.0.0 perdej.000webhostapp.com
 0.0.0.0 perf.cdnads.com
+0.0.0.0 perfect-datinghere1.com
 0.0.0.0 perfect-match.org
 0.0.0.0 perfectaffairsevents.com
 0.0.0.0 perfectaudience.com
@@ -34176,6 +34234,7 @@
 0.0.0.0 preyjustly.com
 0.0.0.0 prf.hn
 0.0.0.0 prfctmney.com
+0.0.0.0 prg.amikon.cz
 0.0.0.0 prg.kargo.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prg8.smartadserver.com
@@ -38196,6 +38255,7 @@
 0.0.0.0 sewingfibber.com
 0.0.0.0 seword.com
 0.0.0.0 sex-and-flirt.com
+0.0.0.0 sex-dates5.com
 0.0.0.0 sex-right-here3.com
 0.0.0.0 sex1.party
 0.0.0.0 sex365.su
@@ -38227,6 +38287,8 @@
 0.0.0.0 sextracker.com
 0.0.0.0 sextubeweb.com
 0.0.0.0 sexual-meeting5.com
+0.0.0.0 sexual-partner-choice5.com
+0.0.0.0 sexual-partner5.com
 0.0.0.0 sexualpartner3.com
 0.0.0.0 sexualpitfall.com
 0.0.0.0 sexvertise.com
@@ -41835,6 +41897,7 @@
 0.0.0.0 the-adult-company.com
 0.0.0.0 the-adult-lovers1.com
 0.0.0.0 the-digital-market.net
+0.0.0.0 the-get-yourlady.com
 0.0.0.0 the-yourmen2.com
 0.0.0.0 theadex.com
 0.0.0.0 theadgateway.com
@@ -41847,6 +41910,7 @@
 0.0.0.0 theatrialmero.club
 0.0.0.0 theaustrian.org
 0.0.0.0 thebannerexchange.com
+0.0.0.0 thebest-dating4u.com
 0.0.0.0 thebest-datings.com
 0.0.0.0 thebestcam.life
 0.0.0.0 thebestfortech.com
@@ -42088,6 +42152,7 @@
 0.0.0.0 tiltgardenheadlight.com
 0.0.0.0 timbercooling.com
 0.0.0.0 timberlandusonlineoutlet.com
+0.0.0.0 time-for-dating-now2.com
 0.0.0.0 time4news.net
 0.0.0.0 timecrom.com
 0.0.0.0 timeinc.trc.taboola.com
@@ -42219,6 +42284,7 @@
 0.0.0.0 tmxhub.com
 0.0.0.0 tn.ads.justpremium.com
 0.0.0.0 tn.alphonso.tv
+0.0.0.0 tn.dporn.com
 0.0.0.0 tn.inporn.com
 0.0.0.0 tn.javdaddy.com
 0.0.0.0 tn.porngo.tube
@@ -44509,6 +44575,7 @@
 0.0.0.0 uk2kg.bemobtrk.com
 0.0.0.0 ukapp.cj.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ukcertcouncil.co.uk
 0.0.0.0 ukcoffe.com
 0.0.0.0 ukcomparends.pro
 0.0.0.0 ukfpibeyfjwhp.xyz
@@ -45597,6 +45664,7 @@
 0.0.0.0 violetdistasteful.com
 0.0.0.0 violetluck.com
 0.0.0.0 violetmagic.com
+0.0.0.0 vip-city-datesnow.com
 0.0.0.0 vip-flirtbooks2.com
 0.0.0.0 vip-lady-dreams.com
 0.0.0.0 vip-vip-vup.com
@@ -49085,6 +49153,7 @@
 0.0.0.0 xxxoh.com
 0.0.0.0 xxxrevpushclcdu.com
 0.0.0.0 xxxscenes.net
+0.0.0.0 xxxsexfinder-here2.com
 0.0.0.0 xxxsexfinder-here5.com
 0.0.0.0 xxxsexlocator-here2.com
 0.0.0.0 xxxvideos.su
@@ -49344,15 +49413,18 @@
 0.0.0.0 youporn.sexy
 0.0.0.0 youqunjx.com
 0.0.0.0 your-best-ladies-now.com
+0.0.0.0 your-best-sex2.com
 0.0.0.0 your-bestmen.com
 0.0.0.0 your-big-bonus.com
 0.0.0.0 your-casual-dating.com
 0.0.0.0 your-counter.be
+0.0.0.0 your-date-here2.com
 0.0.0.0 your-datingnow.com
 0.0.0.0 your-dreams-a-girls.com
 0.0.0.0 your-dreams-girls2.com
 0.0.0.0 your-men-zone.com
 0.0.0.0 your-notice.com
+0.0.0.0 your-pleasure2.com
 0.0.0.0 your-prizes.life
 0.0.0.0 your-profit-here.life
 0.0.0.0 your-romance.com
@@ -49365,6 +49437,7 @@
 0.0.0.0 youramigo.com
 0.0.0.0 yourbenefit-here.life
 0.0.0.0 yourbest-dating33.life
+0.0.0.0 yourbestcam.com
 0.0.0.0 yourbestdating13.com
 0.0.0.0 yourbestheal.com
 0.0.0.0 yourbigexplosivewin.life
@@ -49372,10 +49445,13 @@
 0.0.0.0 yourcommonfeed.com
 0.0.0.0 yourdatefortune.com
 0.0.0.0 yourdatelink.com
+0.0.0.0 yourdating-finder6.com
+0.0.0.0 yourdream-men.com
 0.0.0.0 yourfreshposts.com
 0.0.0.0 yourhealmyheal.com
 0.0.0.0 yourkadspunew.com
 0.0.0.0 yourlegacy.club
+0.0.0.0 yourpleasure3.com
 0.0.0.0 yourprivacy.icu
 0.0.0.0 yourprofitable-house.life
 0.0.0.0 yourquickads.com
