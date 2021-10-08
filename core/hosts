@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.281
-# Release: 281
-# Entries: 48,195
+# Version: 21.10.282
+# Release: 282
+# Entries: 48,205
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 08 Oct 21 20:07:02
+# Updated: Sat, 09 Oct 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2903,6 +2903,7 @@
 0.0.0.0 acme.top
 0.0.0.0 acmexxx.com
 0.0.0.0 acnetzteil.com
+0.0.0.0 acnqlsmfxf.xyz
 0.0.0.0 acofrnsr44es3954b.com
 0.0.0.0 acortame.xyz
 0.0.0.0 acousticairplane.com
@@ -3581,6 +3582,7 @@
 0.0.0.0 adilk.ilikecomix.com
 0.0.0.0 adimage.guardian.co.uk
 0.0.0.0 adimage.hankookilbo.com
+0.0.0.0 adimage.sphdigital.com
 0.0.0.0 adimages.carsoup.com
 0.0.0.0 adimages.go.com
 0.0.0.0 adimages.homestore.com
@@ -10743,6 +10745,7 @@
 0.0.0.0 caphaiks.com
 0.0.0.0 capitalaktiv.de
 0.0.0.0 capitalgroup.demdex.net
+0.0.0.0 capitalping00.online
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 cappens-dreperor.com
 0.0.0.0 capping.mgid.com
@@ -13566,6 +13569,7 @@
 0.0.0.0 creative.leojmp.com
 0.0.0.0 creative.mshago.com
 0.0.0.0 creative.skinstrip.net
+0.0.0.0 creative.sphdigital.com
 0.0.0.0 creative.stripchat.com
 0.0.0.0 creative.strpjmp.com
 0.0.0.0 creative.xxxjmp.com
@@ -15531,6 +15535,7 @@
 0.0.0.0 dq06u9lt5akr2.cloudfront.net
 0.0.0.0 dq3yxnlzwhcys.cloudfront.net
 0.0.0.0 dq95d35.com
+0.0.0.0 dqknaeqdjlbt.com
 0.0.0.0 dqnp8bdp95f7m.cloudfront.net
 0.0.0.0 dquanticw.top
 0.0.0.0 dqxo1d.edvfwlacluo.com
@@ -15760,6 +15765,7 @@
 0.0.0.0 dvaminusodin.net
 0.0.0.0 dvbjcdhmpqkq.xyz
 0.0.0.0 dvdsetstore.com
+0.0.0.0 dvmmdltsijw.xyz
 0.0.0.0 dvoyy3qexr.com
 0.0.0.0 dvucdnv.com
 0.0.0.0 dw-eu.com.com
@@ -20978,6 +20984,7 @@
 0.0.0.0 hustlernycstripclub.com
 0.0.0.0 hustlernystripclub.com
 0.0.0.0 hustlerstripclub.com
+0.0.0.0 hutfpjxlq.xyz
 0.0.0.0 hvato.info
 0.0.0.0 hvfzshrpfueb.com
 0.0.0.0 hvh.notifications.website
@@ -40219,6 +40226,7 @@
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tagmanager.toast.com
+0.0.0.0 tagrec.sphdigital.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.aljazeera.com
@@ -42846,6 +42854,7 @@
 0.0.0.0 tuiukltd.tt.omtrdc.net
 0.0.0.0 tujestimater.pro
 0.0.0.0 tujourda.net
+0.0.0.0 tukipasti.com
 0.0.0.0 tuksoocy.com
 0.0.0.0 tukunavi.com
 0.0.0.0 tulecheja.pro
@@ -47820,6 +47829,7 @@
 0.0.0.0 yqeuu.com
 0.0.0.0 yqezqofkb1nnmz.com
 0.0.0.0 yqmmjmjxdigdak.com
+0.0.0.0 yqsoxyhmumnn.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yref67.cfeucdn.com
 0.0.0.0 yrmkp.instagirlshub.com
