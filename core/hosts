@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.283
-# Release: 283
-# Entries: 48,512
+# Version: 21.10.284
+# Release: 284
+# Entries: 48,520
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 10 Oct 21 20:07:02
+# Updated: Mon, 11 Oct 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2788,6 +2788,7 @@
 0.0.0.0 absolstats.co.za
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absolutionbravery.com
+0.0.0.0 absorbedexistence.com
 0.0.0.0 absorbent-spokes.000webhostapp.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absorbingconstitution.com
@@ -2847,6 +2848,7 @@
 0.0.0.0 access.inmobi.com
 0.0.0.0 access.open.uc.cn
 0.0.0.0 accessi.it
+0.0.0.0 accessiblescopevisitor.com
 0.0.0.0 accessintel.com
 0.0.0.0 accessorymiddleirresponsible.com
 0.0.0.0 accessoryoppression.com
@@ -2976,6 +2978,7 @@
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 acuityads.com
+0.0.0.0 aculdi.com
 0.0.0.0 acweb.online
 0.0.0.0 acwyoynw.com
 0.0.0.0 ad-api.ehawk.com
@@ -21798,6 +21801,7 @@
 0.0.0.0 inclinationwitchcraftafresh.com
 0.0.0.0 inclk.com
 0.0.0.0 incloak.com
+0.0.0.0 include.canale.live
 0.0.0.0 includedcoherentteaching.com
 0.0.0.0 includemodal.com
 0.0.0.0 includepurple.com
@@ -27645,6 +27649,7 @@
 0.0.0.0 nexxor.de
 0.0.0.0 nexxxt.biz
 0.0.0.0 nezttolpyroty.com
+0.0.0.0 nfadiivfibqrk.com
 0.0.0.0 nfanxxuegzp.com
 0.0.0.0 nfc-bank.com
 0.0.0.0 nfcu.demdex.net
@@ -28614,6 +28619,7 @@
 0.0.0.0 odiousbunny.com
 0.0.0.0 odiumdrawlip.com
 0.0.0.0 odoscope.com
+0.0.0.0 odpdpzlvgufq.com
 0.0.0.0 oebadu.com
 0.0.0.0 oeclysutilufixgegpajbg.me
 0.0.0.0 oedlwhcqfpfup.xyz
@@ -40478,6 +40484,7 @@
 0.0.0.0 tagmanager.toast.com
 0.0.0.0 tagrec.sphdigital.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 tags.adnuntius.com
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.bkrtx.com
@@ -42365,6 +42372,7 @@
 0.0.0.0 track.wt-eu02.net
 0.0.0.0 track.wzeid.bemobtrk.com
 0.0.0.0 track.xapads.com
+0.0.0.0 track.xedo.me
 0.0.0.0 track.xiachufang.com
 0.0.0.0 track.xmax.jp
 0.0.0.0 track.xtrasize.co.uk
