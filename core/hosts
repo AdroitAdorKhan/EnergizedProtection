@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.284
 # Release: 284
-# Entries: 48,547
+# Entries: 48,553
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 11 Oct 21 08:07:01
+# Updated: Mon, 11 Oct 21 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3754,6 +3754,7 @@
 0.0.0.0 admdn3.cdn.mangomolo.com
 0.0.0.0 admdn5.cdn.mangomolo.com
 0.0.0.0 admdspc.com
+0.0.0.0 adme-net.com
 0.0.0.0 admedia.com
 0.0.0.0 admedit.net
 0.0.0.0 admedo.com
@@ -18581,6 +18582,7 @@
 0.0.0.0 frsuli.com
 0.0.0.0 frtya.com
 0.0.0.0 frtyb.com
+0.0.0.0 frtyd.com
 0.0.0.0 frtye.com
 0.0.0.0 frtyh.com
 0.0.0.0 frtyi.com
@@ -28637,6 +28639,7 @@
 0.0.0.0 odinstreamy.com
 0.0.0.0 odiousbunny.com
 0.0.0.0 odiumdrawlip.com
+0.0.0.0 odnkcbcsacab.com
 0.0.0.0 odoscope.com
 0.0.0.0 odpdpzlvgufq.com
 0.0.0.0 oebadu.com
@@ -38942,6 +38945,7 @@
 0.0.0.0 srtb.msn.com
 0.0.0.0 srtg.mobi
 0.0.0.0 srtrak.com
+0.0.0.0 srukdxvsk.com
 0.0.0.0 srv-1970-01-01-00.pixel.parsely.com
 0.0.0.0 srv-2020-07-30-18.pixel.parsely.com
 0.0.0.0 srv-2020-11-24-05.pixel.parsely.com
@@ -47780,6 +47784,7 @@
 0.0.0.0 xqogxlfsceftn.com
 0.0.0.0 xratfrd.duckdns.org
 0.0.0.0 xray.mail.ru
+0.0.0.0 xrdatsuclxrvpx.com
 0.0.0.0 xre.popmonster.ru
 0.0.0.0 xrea.com
 0.0.0.0 xrhobrrgwhtlu.com
@@ -48294,6 +48299,7 @@
 0.0.0.0 zadarma.com
 0.0.0.0 zagtertda.com
 0.0.0.0 zagvee.com
+0.0.0.0 zagxgmzmiledvh.com
 0.0.0.0 zaintrillet.com
 0.0.0.0 zairx.aroundably.website
 0.0.0.0 zaivikuk.com
