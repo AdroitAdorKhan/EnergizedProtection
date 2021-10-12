@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.285
-# Release: 285
-# Entries: 48,668
+# Version: 21.10.286
+# Release: 286
+# Entries: 48,671
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 12 Oct 21 20:07:02
+# Updated: Wed, 13 Oct 21 00:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2695,6 +2695,7 @@
 0.0.0.0 abadrease.top
 0.0.0.0 abakys.ru
 0.0.0.0 abandonedaction.com
+0.0.0.0 abasgimental.com
 0.0.0.0 abashcoppercocky.com
 0.0.0.0 abazelfan.com
 0.0.0.0 abbeyblog.me
@@ -7585,6 +7586,7 @@
 0.0.0.0 asdasdad.net
 0.0.0.0 asdpoi.com
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 aselink.guru
 0.0.0.0 asepurch.pro
 0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 asextube.net
@@ -39746,6 +39748,7 @@
 0.0.0.0 sthourselft.top
 0.0.0.0 sticixoju.com
 0.0.0.0 stickedsubset.cam
+0.0.0.0 stickervillain.com
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stickyharry.com
