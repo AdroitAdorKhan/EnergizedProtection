@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.288
-# Release: 288
-# Entries: 48,802
+# Version: 21.10.289
+# Release: 289
+# Entries: 48,808
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Oct 21 20:07:02
+# Updated: Sat, 16 Oct 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6392,6 +6392,7 @@
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kb.se
 0.0.0.0 analytics.kidoz.net
+0.0.0.0 analytics.kkb.com.tr
 0.0.0.0 analytics.kochava.com
 0.0.0.0 analytics.kongregate.io
 0.0.0.0 analytics.lagoondivers.be
@@ -10905,6 +10906,7 @@
 0.0.0.0 cashburners.com
 0.0.0.0 cashcave.net
 0.0.0.0 cashengines.com
+0.0.0.0 cashewsforlife208.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashier.shareitpay.in
 0.0.0.0 cashier.unetsafe.com
@@ -11984,6 +11986,7 @@
 0.0.0.0 clearninggl.fun
 0.0.0.0 clearonclick.com
 0.0.0.0 clearsettlementelegance.com
+0.0.0.0 cleavebitemonks.com
 0.0.0.0 clemencydifferenceslavishness.com
 0.0.0.0 cleriendsev.club
 0.0.0.0 clerrrep.com
@@ -14787,6 +14790,7 @@
 0.0.0.0 defiantrice.com
 0.0.0.0 deficiencypiecelark.com
 0.0.0.0 definedlaunching.com
+0.0.0.0 definitetransfer.com
 0.0.0.0 definitial.com
 0.0.0.0 definitionsbd.adaware.com
 0.0.0.0 defliressisto.top
@@ -18958,6 +18962,7 @@
 0.0.0.0 gamehouse.com
 0.0.0.0 gameparadies.com
 0.0.0.0 gamer.mmohuts.com
+0.0.0.0 gameragematt.com
 0.0.0.0 gamersad.com
 0.0.0.0 gamersbanner.com
 0.0.0.0 gamersterritory.com
@@ -46119,6 +46124,7 @@
 0.0.0.0 wunderloop.net
 0.0.0.0 wunderwahl.de
 0.0.0.0 wunderwand.shop
+0.0.0.0 wunteetoco.com
 0.0.0.0 wuphufti.com
 0.0.0.0 wurfl.io
 0.0.0.0 wurtoosy.com
