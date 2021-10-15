@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.288
 # Release: 288
-# Entries: 48,781
+# Entries: 48,785
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Oct 21 08:07:02
+# Updated: Fri, 15 Oct 21 12:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13832,6 +13832,7 @@
 0.0.0.0 csc.adserver.yahoo.com
 0.0.0.0 csdata1.com
 0.0.0.0 csdp.px-cdn.net
+0.0.0.0 cse.google.com
 0.0.0.0 cshkgktv.com
 0.0.0.0 csiasvapqrccq.com
 0.0.0.0 csm.cxpublic.com
@@ -15223,6 +15224,7 @@
 0.0.0.0 discawaivingamatremotely.pw
 0.0.0.0 disconnectedabsolutionjudged.com
 0.0.0.0 discordap.com
+0.0.0.0 discordsgift.com
 0.0.0.0 discoreafr.fun
 0.0.0.0 discount-zigaretten24.com
 0.0.0.0 discount.s3blog.org
@@ -19570,6 +19572,7 @@
 0.0.0.0 gloriouscracker.com
 0.0.0.0 gloriousexternal.com
 0.0.0.0 glory-panda.rocks
+0.0.0.0 glossarysack.com
 0.0.0.0 glossisobelhay.com
 0.0.0.0 glosslogics.com
 0.0.0.0 glossysense.com
@@ -34431,6 +34434,7 @@
 0.0.0.0 push.friendbuy.com
 0.0.0.0 push.hicloud.com
 0.0.0.0 push.house
+0.0.0.0 push.jadewits.com
 0.0.0.0 push.popcash.net
 0.0.0.0 push.revcontent.com
 0.0.0.0 push.soft-com.biz
