@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.289
 # Release: 289
-# Entries: 48,808
+# Entries: 48,809
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 16 Oct 21 00:07:02
+# Updated: Sat, 16 Oct 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16991,6 +16991,7 @@
 0.0.0.0 eteeleek.net
 0.0.0.0 etempoat.net
 0.0.0.0 etetdc4ed-exhausted-lizard-tc.mybluemix.net
+0.0.0.0 etetum.com
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.eu
