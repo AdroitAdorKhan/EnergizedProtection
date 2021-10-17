@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.290
 # Release: 290
-# Entries: 48,914
+# Entries: 48,968
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 17 Oct 21 16:07:02
+# Updated: Sun, 17 Oct 21 20:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2754,6 +2754,7 @@
 0.0.0.0 abilityviews.com
 0.0.0.0 abjectisassiez.xyz
 0.0.0.0 ablageshop.de
+0.0.0.0 ablatesgascon.cam
 0.0.0.0 ablebodiedcool.com
 0.0.0.0 ablehed.pro
 0.0.0.0 ablenctionalle.info
@@ -3052,6 +3053,7 @@
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.about.co.kr
 0.0.0.0 ad.aceplanet.co.kr
+0.0.0.0 ad.ad-arrow.com
 0.0.0.0 ad.adcash.com
 0.0.0.0 ad.adinc.kr
 0.0.0.0 ad.adnmore.co.kr
@@ -3995,6 +3997,7 @@
 0.0.0.0 adroll.com
 0.0.0.0 adrotate.de
 0.0.0.0 adrotic.girlonthenet.com
+0.0.0.0 adroute.focas.jp
 0.0.0.0 adrta.com
 0.0.0.0 adrunnr.com
 0.0.0.0 ads-01.301ads.com
@@ -4599,6 +4602,7 @@
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserveryo.xyz
+0.0.0.0 adserveryo2.xyz
 0.0.0.0 adservetx.media.net
 0.0.0.0 adservex-east.media.net
 0.0.0.0 adservex.media.net
@@ -7637,6 +7641,7 @@
 0.0.0.0 asicpool.com
 0.0.0.0 asicpool.info
 0.0.0.0 asicsreduceri.com
+0.0.0.0 asimad.com
 0.0.0.0 askallalb.club
 0.0.0.0 askaspalb.online
 0.0.0.0 askewpatienceblameless.com
@@ -9270,6 +9275,7 @@
 0.0.0.0 benthose.com
 0.0.0.0 benzemahaha.000webhostapp.com
 0.0.0.0 beonixom.com
+0.0.0.0 bephamema.com
 0.0.0.0 bepiletussar.casa
 0.0.0.0 bepolite.eu
 0.0.0.0 beqbox.com
@@ -10075,6 +10081,7 @@
 0.0.0.0 boutiqueignorancegeoffrey.com
 0.0.0.0 boutiquerestless.com
 0.0.0.0 bowcompetitionbesides.com
+0.0.0.0 bowdenbocal.cam
 0.0.0.0 bowerywill.com
 0.0.0.0 bowlpaternity.com
 0.0.0.0 bowmoolog.com
@@ -10449,6 +10456,7 @@
 0.0.0.0 bxcogl.edvfwlacluo.com
 0.0.0.0 bxdmnxui.xyz
 0.0.0.0 bxgjpocfz1g1jiwb.pro
+0.0.0.0 bxrjiqoajbbh.com
 0.0.0.0 by-clips.com
 0.0.0.0 by-content.adriver.ru
 0.0.0.0 by.adriver.ru
@@ -12211,6 +12219,8 @@
 0.0.0.0 clickzs.com
 0.0.0.0 clickzzs.nl
 0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 client-temp.perimeterx.net
+0.0.0.0 client-test.perimeterx.net
 0.0.0.0 client-uat.addthis.com
 0.0.0.0 client.addthis.com
 0.0.0.0 client.midosoo.com
@@ -12570,6 +12580,7 @@
 0.0.0.0 collector-239.newrelic.com
 0.0.0.0 collector-241.newrelic.com
 0.0.0.0 collector-262.newrelic.com
+0.0.0.0 collector-27m703hm.perimeterx.net
 0.0.0.0 collector-292.newrelic.com
 0.0.0.0 collector-293.newrelic.com
 0.0.0.0 collector-3.newrelic.com
@@ -12586,6 +12597,8 @@
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-px04kmklxi.pxchk.net
 0.0.0.0 collector-px09a9fhxa.perimeterx.net
+0.0.0.0 collector-px0cec5692.perimeterx.net
+0.0.0.0 collector-px0etyn5vq.perimeterx.net
 0.0.0.0 collector-px0f3091f3.px-cloud.net
 0.0.0.0 collector-px0iiey9lm.pxchk.net
 0.0.0.0 collector-px0lexgp95.pxchk.net
@@ -12601,9 +12614,11 @@
 0.0.0.0 collector-px12ew76qt.pxchk.net
 0.0.0.0 collector-px12xk43jk.perimeterx.net
 0.0.0.0 collector-px16ud0kof.pxchk.net
+0.0.0.0 collector-px1ct9c6g3.perimeterx.net
 0.0.0.0 collector-px1ct9c6g3.px-cdn.net
 0.0.0.0 collector-px1dk3430l.px-cloud.net
 0.0.0.0 collector-px1sfv6q6z.perimeterx.net
+0.0.0.0 collector-px1wqvvfc0.perimeterx.net
 0.0.0.0 collector-px1wqvvfc0.px-cdn.net
 0.0.0.0 collector-px1wqvvfc0.pxchk.net
 0.0.0.0 collector-px2001.pxchk.net
@@ -12630,13 +12645,17 @@
 0.0.0.0 collector-px41v9jz72.px-cdn.net
 0.0.0.0 collector-px49awyi8z.px-cdn.net
 0.0.0.0 collector-px49awyi8z.pxchk.net
+0.0.0.0 collector-px4hls1l20.perimeterx.net
 0.0.0.0 collector-px4hls1l20.pxchk.net
+0.0.0.0 collector-px4i06uv8m.perimeterx.net
+0.0.0.0 collector-px4uazuiai.perimeterx.net
 0.0.0.0 collector-px4uazuiai.px-cloud.net
 0.0.0.0 collector-px53qntki3.px-cdn.net
 0.0.0.0 collector-px551mn3nq.px-cdn.net
 0.0.0.0 collector-px58asv359.perimeterx.net
 0.0.0.0 collector-px58c3a4zy.px-cdn.net
 0.0.0.0 collector-px58c3a4zy.pxchk.net
+0.0.0.0 collector-px5abl7z6x.perimeterx.net
 0.0.0.0 collector-px5abl7z6x.px-cdn.net
 0.0.0.0 collector-px5abl7z6x.px-cloud.net
 0.0.0.0 collector-px5abl7z6x.pxchk.net
@@ -12647,6 +12666,8 @@
 0.0.0.0 collector-px5j5h9cc2.pxchk.net
 0.0.0.0 collector-px61wvsvi8.px-cloud.net
 0.0.0.0 collector-px61wvsvi8.pxchk.net
+0.0.0.0 collector-px68u10iqr.perimeterx.net
+0.0.0.0 collector-px6a5i7vr2.perimeterx.net
 0.0.0.0 collector-px6a5i7vr2.px-cdn.net
 0.0.0.0 collector-px6a5i7vr2.px-cloud.net
 0.0.0.0 collector-px6e3nghct.perimeterx.net
@@ -12655,10 +12676,12 @@
 0.0.0.0 collector-px6k5vcsug.px-cdn.net
 0.0.0.0 collector-px6tnjz910.px-cloud.net
 0.0.0.0 collector-px6tosdlh8.px-cloud.net
+0.0.0.0 collector-px6xnn2xkk.perimeterx.net
 0.0.0.0 collector-px72mv17er.perimeterx.net
 0.0.0.0 collector-px78vmo82c.px-cloud.net
 0.0.0.0 collector-px7ganow2g.perimeterx.net
 0.0.0.0 collector-px7ganow2g.px-cdn.net
+0.0.0.0 collector-px7idx3bvw.perimeterx.net
 0.0.0.0 collector-px7kitdq9i.px-cdn.net
 0.0.0.0 collector-px7kitdq9i.pxchk.net
 0.0.0.0 collector-px7nhy00fz.px-cdn.net
@@ -12668,40 +12691,51 @@
 0.0.0.0 collector-px8001.pxchk.net
 0.0.0.0 collector-px879tg0qa.px-cloud.net
 0.0.0.0 collector-px879tg0qa.pxchk.net
+0.0.0.0 collector-px87q7kx6y.perimeterx.net
 0.0.0.0 collector-px89p1cyql.px-cloud.net
 0.0.0.0 collector-px8fcgygk4.px-cdn.net
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-px8fuj6xh8.px-cdn.net
 0.0.0.0 collector-px8kq4ewfc.px-cloud.net
+0.0.0.0 collector-px8suhxpnm.perimeterx.net
 0.0.0.0 collector-px90h0dh6w.px-cloud.net
 0.0.0.0 collector-px963uiwkr.perimeterx.net
 0.0.0.0 collector-px963uiwkr.px-cdn.net
 0.0.0.0 collector-px963uiwkr.pxchk.net
 0.0.0.0 collector-px99qynk72.pxchk.net
 0.0.0.0 collector-px9avtnl6r.pxchk.net
+0.0.0.0 collector-px9ei9r7cy.perimeterx.net
 0.0.0.0 collector-px9ei9r7cy.px-cdn.net
 0.0.0.0 collector-px9ei9r7cy.pxchk.net
 0.0.0.0 collector-px9n5ebjj3.px-cloud.net
+0.0.0.0 collector-px9prmj5xx.perimeterx.net
 0.0.0.0 collector-px9qx3rve4.px-cdn.net
 0.0.0.0 collector-px_app_id.px-cloud.net
 0.0.0.0 collector-pxa1ydobo1.perimeterx.net
+0.0.0.0 collector-pxa44kxi5a.perimeterx.net
 0.0.0.0 collector-pxabo2yc8x.px-cloud.net
 0.0.0.0 collector-pxajdckzhd.px-cdn.net
 0.0.0.0 collector-pxakdjyq9g.perimeterx.net
+0.0.0.0 collector-pxaoit9cn0.perimeterx.net
 0.0.0.0 collector-pxaoit9cn0.px-cloud.net
 0.0.0.0 collector-pxasqjfz9w.px-cdn.net
 0.0.0.0 collector-pxasqjfz9w.px-cloud.net
 0.0.0.0 collector-pxasqjfz9w.pxchk.net
 0.0.0.0 collector-pxax4jnkvf.px-cdn.net
 0.0.0.0 collector-pxax4jnkvf.pxchk.net
+0.0.0.0 collector-pxbjzppg39.perimeterx.net
 0.0.0.0 collector-pxckonr9zg.pxchk.net
+0.0.0.0 collector-pxcnj12cyx.perimeterx.net
+0.0.0.0 collector-pxczdhf737.perimeterx.net
 0.0.0.0 collector-pxd62eqwow.pxchk.net
 0.0.0.0 collector-pxdfu0nb9z.px-cloud.net
+0.0.0.0 collector-pxdl6gosf9.perimeterx.net
 0.0.0.0 collector-pxdl6gosf9.pxchk.net
 0.0.0.0 collector-pxdybjdqo3.perimeterx.net
 0.0.0.0 collector-pxdybjdqo3.pxchk.net
 0.0.0.0 collector-pxe8b8e9vd.px-cloud.net
 0.0.0.0 collector-pxeaddh9qu.px-cdn.net
+0.0.0.0 collector-pxektvxkq2.perimeterx.net
 0.0.0.0 collector-pxektvxkq2.px-cloud.net
 0.0.0.0 collector-pxengygmc2.pxchk.net
 0.0.0.0 collector-pxeyndrtd4.px-cdn.net
@@ -12712,16 +12746,21 @@
 0.0.0.0 collector-pxg6p26otu.px-cdn.net
 0.0.0.0 collector-pxghhyv7jv.pxchk.net
 0.0.0.0 collector-pxgkkjoyni.pxchk.net
+0.0.0.0 collector-pxgm4fv3vc.perimeterx.net
 0.0.0.0 collector-pxgm4fv3vc.px-cloud.net
+0.0.0.0 collector-pxgnttli3a.perimeterx.net
 0.0.0.0 collector-pxgnttli3a.px-cdn.net
 0.0.0.0 collector-pxgnttli3a.px-cloud.net
 0.0.0.0 collector-pxgnttli3a.pxchk.net
 0.0.0.0 collector-pxgy5w79au.px-cloud.net
+0.0.0.0 collector-pxhbu9onsl.perimeterx.net
 0.0.0.0 collector-pxhbu9onsl.px-cdn.net
 0.0.0.0 collector-pxhd2cxrgh.px-cloud.net
+0.0.0.0 collector-pxhdpvz3pi.perimeterx.net
 0.0.0.0 collector-pxhdpvz3pi.px-cdn.net
 0.0.0.0 collector-pxhm3pxym0.pxchk.net
 0.0.0.0 collector-pxhp4b16gp.px-cdn.net
+0.0.0.0 collector-pxhsy3fa0i.perimeterx.net
 0.0.0.0 collector-pxhv1dpin4.px-cloud.net
 0.0.0.0 collector-pxhyx10rg3.px-cloud.net
 0.0.0.0 collector-pxhyx10rg3.pxchk.net
@@ -12734,6 +12773,7 @@
 0.0.0.0 collector-pxionjoia0.pxchk.net
 0.0.0.0 collector-pxitevy85i.perimeterx.net
 0.0.0.0 collector-pxitevy85i.px-cloud.net
+0.0.0.0 collector-pxixr9fraz.perimeterx.net
 0.0.0.0 collector-pxixr9fraz.px-cdn.net
 0.0.0.0 collector-pxixr9fraz.px-cloud.net
 0.0.0.0 collector-pxixr9fraz.pxchk.net
@@ -12752,17 +12792,22 @@
 0.0.0.0 collector-pxjqmocpg1.perimeterx.net
 0.0.0.0 collector-pxk0i9aqo3.pxchk.net
 0.0.0.0 collector-pxk266ff2d.px-cdn.net
+0.0.0.0 collector-pxk56wkc40.perimeterx.net
+0.0.0.0 collector-pxk56wkc4o.perimeterx.net
 0.0.0.0 collector-pxk56wkc4o.px-cdn.net
 0.0.0.0 collector-pxk56wkc4o.px-cloud.net
 0.0.0.0 collector-pxk56wkc4o.pxchk.net
 0.0.0.0 collector-pxkdrqnl15.px-cloud.net
+0.0.0.0 collector-pxkhczyfrg.perimeterx.net
 0.0.0.0 collector-pxkj3yf9nf.pxchk.net
 0.0.0.0 collector-pxkogoppbz.px-cdn.net
 0.0.0.0 collector-pxkogoppbz.px-cloud.net
 0.0.0.0 collector-pxkogoppbz.pxchk.net
+0.0.0.0 collector-pxkoyq37gh.perimeterx.net
 0.0.0.0 collector-pxkxodf6rk.px-cloud.net
 0.0.0.0 collector-pxkz1aizup.perimeterx.net
 0.0.0.0 collector-pxkz1aizup.px-cloud.net
+0.0.0.0 collector-pxkz8zzqmw.perimeterx.net
 0.0.0.0 collector-pxkz8zzqmw.px-cdn.net
 0.0.0.0 collector-pxlbrt3sxr.px-cdn.net
 0.0.0.0 collector-pxlgkho3by.px-cdn.net
@@ -12770,6 +12815,7 @@
 0.0.0.0 collector-pxliujcowl.px-cloud.net
 0.0.0.0 collector-pxljgaz44e.pxchk.net
 0.0.0.0 collector-pxljub4etb.cl6.perimeterx.net
+0.0.0.0 collector-pxlkxie7oj.perimeterx.net
 0.0.0.0 collector-pxlkxie7oj.px-cloud.net
 0.0.0.0 collector-pxlsxlyya5.px-cdn.net
 0.0.0.0 collector-pxlsxlyya5.pxchk.net
@@ -12789,6 +12835,7 @@
 0.0.0.0 collector-pxnslc0hv5.px-cdn.net
 0.0.0.0 collector-pxnslc0hv5.px-cloud.net
 0.0.0.0 collector-pxnszinyu0.px-cdn.net
+0.0.0.0 collector-pxnuo9ipln.perimeterx.net
 0.0.0.0 collector-pxo4wpdyyd.px-cdn.net
 0.0.0.0 collector-pxo4wpdyyd.px-cloud.net
 0.0.0.0 collector-pxo4wpdyyd.pxchk.net
@@ -12809,13 +12856,16 @@
 0.0.0.0 collector-pxpsnjj6i0.pxchk.net
 0.0.0.0 collector-pxq7o93831.px-cdn.net
 0.0.0.0 collector-pxqm4ecyhh.px-cloud.net
+0.0.0.0 collector-pxqqxm841a.perimeterx.net
 0.0.0.0 collector-pxqqxm841a.px-cdn.net
 0.0.0.0 collector-pxqqxm841a.px-cloud.net
 0.0.0.0 collector-pxqqxm841a.pxchk.net
 0.0.0.0 collector-pxqxtwmr91.px-cloud.net
 0.0.0.0 collector-pxr3pnvz1f.px-cloud.net
+0.0.0.0 collector-pxr424oqs0.perimeterx.net
 0.0.0.0 collector-pxr424oqs0.px-cdn.net
 0.0.0.0 collector-pxr424oqs0.pxchk.net
+0.0.0.0 collector-pxr50nd6ai.perimeterx.net
 0.0.0.0 collector-pxr50nd6ai.px-cloud.net
 0.0.0.0 collector-pxr50nd6ai.pxchk.net
 0.0.0.0 collector-pxrdut6ky7.px-cdn.net
@@ -12835,8 +12885,10 @@
 0.0.0.0 collector-pxslc3j22k.px-cloud.net
 0.0.0.0 collector-pxsmtpgl4l.px-cloud.net
 0.0.0.0 collector-pxsny1d9mw.px-cdn.net
+0.0.0.0 collector-pxsp9yp3kw.perimeterx.net
 0.0.0.0 collector-pxss13u803.px-cdn.net
 0.0.0.0 collector-pxss13u803.px-cloud.net
+0.0.0.0 collector-pxt6dy78t8.perimeterx.net
 0.0.0.0 collector-pxt6dy78t8.px-cloud.net
 0.0.0.0 collector-pxtafvwz61.px-cdn.net
 0.0.0.0 collector-pxtfwrrc9p.px-cloud.net
@@ -12850,15 +12902,21 @@
 0.0.0.0 collector-pxu6b0qd2s.px-cdn.net
 0.0.0.0 collector-pxu6b0qd2s.px-cloud.net
 0.0.0.0 collector-pxu6b0qd2s.pxchk.net
+0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.px-cdn.net
+0.0.0.0 collector-pxuh147tnd.perimeterx.net
 0.0.0.0 collector-pxumsss5ar.px-cdn.net
 0.0.0.0 collector-pxumsss5ar.pxchk.net
+0.0.0.0 collector-pxutd2ubms.perimeterx.net
 0.0.0.0 collector-pxuxoat7g7.pxchk.net
+0.0.0.0 collector-pxuy3r669n.perimeterx.net
 0.0.0.0 collector-pxv082ghzg.pxchk.net
 0.0.0.0 collector-pxv4z2u0t5.perimeterx.net
 0.0.0.0 collector-pxv8l5yo3y.pxchk.net
 0.0.0.0 collector-pxva6hkt61.px-cdn.net
 0.0.0.0 collector-pxva6hkt61.pxchk.net
+0.0.0.0 collector-pxvi2rjzgl.perimeterx.net
+0.0.0.0 collector-pxvtidnbtc.perimeterx.net
 0.0.0.0 collector-pxvtidnbtc.px-cdn.net
 0.0.0.0 collector-pxvtidnbtc.px-cloud.net
 0.0.0.0 collector-pxvtidnbtc.pxchk.net
@@ -12877,6 +12935,7 @@
 0.0.0.0 collector-pxxyqein1m.px-cdn.net
 0.0.0.0 collector-pxxyqein1m.pxchk.net
 0.0.0.0 collector-pxy4ahxga8.px-cdn.net
+0.0.0.0 collector-pxycad5fbr.perimeterx.net
 0.0.0.0 collector-pxycad5fbr.px-cdn.net
 0.0.0.0 collector-pxycad5fbr.px-cloud.net
 0.0.0.0 collector-pxyclnmhcq.px-cdn.net
@@ -12897,6 +12956,7 @@
 0.0.0.0 collector-pxzyvfoxac.px-cloud.net
 0.0.0.0 collector-pxzz3popav.px-cloud.net
 0.0.0.0 collector-soompi.viki.io
+0.0.0.0 collector-todo.perimeterx.net
 0.0.0.0 collector-undefined.perimeterx.net
 0.0.0.0 collector-undefined.px-cdn.net
 0.0.0.0 collector.appconsent.io
@@ -14285,6 +14345,7 @@
 0.0.0.0 d2x0118v5hofu3.cloudfront.net
 0.0.0.0 d2x19ia47o8gwm.cloudfront.net
 0.0.0.0 d2yz0oamomyxzv.cloudfront.net
+0.0.0.0 d2zgd5orehvssg.cloudfront.net
 0.0.0.0 d2zywfiolv4f83.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d302z9my8oligm.cloudfront.net
@@ -15926,6 +15987,7 @@
 0.0.0.0 durinsmine.com
 0.0.0.0 durlpx.moatads.com
 0.0.0.0 duroternout.info
+0.0.0.0 duskingdinars.casa
 0.0.0.0 dustyrabbits.com
 0.0.0.0 dustywave.com
 0.0.0.0 dutirtougaon.com
@@ -16372,7 +16434,6 @@
 0.0.0.0 edenparkviews.com
 0.0.0.0 ederrassi.com
 0.0.0.0 edesia.co.uk
-0.0.0.0 edestrathergo.club
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 edge.fullstory.com
@@ -16395,7 +16456,6 @@
 0.0.0.0 edibledisparagejockey.com
 0.0.0.0 ediccqynex.me
 0.0.0.0 edigitalsurvey.com
-0.0.0.0 edimpleteexce.club
 0.0.0.0 edinburghemotionalalive.com
 0.0.0.0 edioca.com
 0.0.0.0 edisonlee.net
@@ -16439,7 +16499,6 @@
 0.0.0.0 eelfadechi.com
 0.0.0.0 eeltaung.com
 0.0.0.0 eemoalie.com
-0.0.0.0 eemsaurt.com
 0.0.0.0 eenfertyred.top
 0.0.0.0 eengaums.com
 0.0.0.0 eensoans.com
@@ -16514,7 +16573,6 @@
 0.0.0.0 eighteenthservicehelper.com
 0.0.0.0 eighthservicehelper.com
 0.0.0.0 eikegolehem.com
-0.0.0.0 eilsrichaels.club
 0.0.0.0 einkaufende.com
 0.0.0.0 eip-ntt.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
@@ -16547,10 +16605,8 @@
 0.0.0.0 ekoocmujairt.com
 0.0.0.0 eksvideos.com
 0.0.0.0 ektmvpwa.top
-0.0.0.0 ekufogow.xyz
 0.0.0.0 ekwctppb.xyz
 0.0.0.0 ela-3-tnk.com
-0.0.0.0 elaojsiaff.com
 0.0.0.0 elastic1.justpremium.com
 0.0.0.0 elasticad.net
 0.0.0.0 elasticchange.com
@@ -16641,7 +16697,6 @@
 0.0.0.0 embedded.outbrain.com
 0.0.0.0 embeddedadventures.com
 0.0.0.0 embeddedanalytics.com
-0.0.0.0 embertogethe.club
 0.0.0.0 embesognassent.xyz
 0.0.0.0 embodimentabstain.com
 0.0.0.0 embodyheadlight.com
@@ -16694,7 +16749,6 @@
 0.0.0.0 encamionnerai.xyz
 0.0.0.0 encasedandelionhauled.com
 0.0.0.0 enceansom.club
-0.0.0.0 enceevenue.club
 0.0.0.0 enceouwill.club
 0.0.0.0 enchantedjudge.com
 0.0.0.0 enchantedtop.com
@@ -16764,7 +16818,6 @@
 0.0.0.0 enhancereviewpacket.com
 0.0.0.0 enhencer.com
 0.0.0.0 enhichej.xyz
-0.0.0.0 enhucherions.xyz
 0.0.0.0 eniousirre.top
 0.0.0.0 enjefiversityan.info
 0.0.0.0 enjoyhop.com
@@ -16835,7 +16888,6 @@
 0.0.0.0 eosads.com
 0.0.0.0 eossbuqccjrfs.com
 0.0.0.0 eouryfvioeurfoevri.xyz
-0.0.0.0 eovnezvotrnp.com
 0.0.0.0 eoweridus.com
 0.0.0.0 eowo.de
 0.0.0.0 eozoicairwave.cam
@@ -16861,7 +16913,6 @@
 0.0.0.0 epodownload.mediatek.com
 0.0.0.0 epom.com
 0.0.0.0 epool.io
-0.0.0.0 eportantin.club
 0.0.0.0 eppmedia.si
 0.0.0.0 eprb3xz6jwsdopjbm.ay.delivery
 0.0.0.0 eprice.demdex.net
@@ -16893,7 +16944,6 @@
 0.0.0.0 erceandblo.xyz
 0.0.0.0 ercredici.info
 0.0.0.0 erdecisesgeorg.info
-0.0.0.0 eredincreaso.club
 0.0.0.0 eredunass.club
 0.0.0.0 erektslim.com
 0.0.0.0 erenchinterried.pro
@@ -16903,10 +16953,8 @@
 0.0.0.0 erewasnos.xyz
 0.0.0.0 ergadx.com
 0.0.0.0 ergs4.com
-0.0.0.0 ericalmessar.club
 0.0.0.0 ericdress.com
 0.0.0.0 erihj.com
-0.0.0.0 eringassumpt.club
 0.0.0.0 eriniquep.club
 0.0.0.0 erkhxw.com
 0.0.0.0 ermitteedi.biz
@@ -16968,7 +17016,6 @@
 0.0.0.0 escleaner.s.xoxknct.com
 0.0.0.0 escorterosion.com
 0.0.0.0 escortso.com
-0.0.0.0 escriminimini.club
 0.0.0.0 escrowyez.com
 0.0.0.0 escuadrone.es
 0.0.0.0 escy55gxubl6.com
@@ -16977,7 +17024,6 @@
 0.0.0.0 esdipherecoordi.info
 0.0.0.0 esdorado.com
 0.0.0.0 esearchvision.com
-0.0.0.0 eseecmoa.com
 0.0.0.0 esellerate.net
 0.0.0.0 esethodsth.top
 0.0.0.0 esetnode32-antiviru.ydns.eu
@@ -16985,8 +17031,7 @@
 0.0.0.0 esf397vsf1nk.com
 0.0.0.0 esgkxhwneyx.xyz
 0.0.0.0 esheprice.online
-0.0.0.0 eshowever.club
-0.0.0.0 esidentioncoa.club
+0.0.0.0 eshezwwft.com
 0.0.0.0 esignificanvi.info
 0.0.0.0 eskimi.com
 0.0.0.0 esm1.net
@@ -17022,7 +17067,6 @@
 0.0.0.0 et.kissmetrics.com
 0.0.0.0 et.outbrain.com
 0.0.0.0 et.w.inmobi.com
-0.0.0.0 etacontralmi.club
 0.0.0.0 etargetnet.com
 0.0.0.0 etarynoneta.pro
 0.0.0.0 etcodes.com
@@ -17074,7 +17118,6 @@
 0.0.0.0 etruet.com
 0.0.0.0 ettilt.com
 0.0.0.0 etyper.com
-0.0.0.0 etzhporcxprf.com
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-ads.adpone.com
@@ -17108,6 +17151,7 @@
 0.0.0.0 euhfigepa.alphatecmfg.com
 0.0.0.0 eujlop.com
 0.0.0.0 eul.s.360.cn
+0.0.0.0 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 0.0.0.0 eulerian.belambra.be
 0.0.0.0 eulerian.belambra.fr
 0.0.0.0 eulerian.brandalley.fr
@@ -17158,7 +17202,6 @@
 0.0.0.0 evaly.pw
 0.0.0.0 evanescentedge.com
 0.0.0.0 evanetwork.com
-0.0.0.0 evantage.club
 0.0.0.0 evantative.top
 0.0.0.0 evaporatedisturbedbarrier.com
 0.0.0.0 evasi0njailbreak.com
@@ -18803,6 +18846,7 @@
 0.0.0.0 funyidence.xyz
 0.0.0.0 funzone.by
 0.0.0.0 fuqxpjxay.com
+0.0.0.0 furdlefathom.cam
 0.0.0.0 furladay.com
 0.0.0.0 furlsstealbilk.com
 0.0.0.0 furmnas.com
@@ -19472,7 +19516,6 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjqvujjc.tweb.sched.ovscdns.com
-0.0.0.0 gjrswtzjn.com
 0.0.0.0 gjslebmbiawh.com
 0.0.0.0 gjtrack.uc.cn
 0.0.0.0 gjtrack.ucweb.com
@@ -23140,6 +23183,7 @@
 0.0.0.0 js.monetize-ssp.com
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 js.natsdk.com
+0.0.0.0 js.octopuspop.com
 0.0.0.0 js.passaro-de-fogo.biz
 0.0.0.0 js.pmcontent.com
 0.0.0.0 js.ptengine.jp
@@ -25141,6 +25185,7 @@
 0.0.0.0 lumiz.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 lumreckle.fun
+0.0.0.0 lumses.com
 0.0.0.0 lunagyja.xyz
 0.0.0.0 lunarads.com
 0.0.0.0 lunaticcrushedtogether.com
@@ -29188,7 +29233,6 @@
 0.0.0.0 oogneenu.net
 0.0.0.0 oohingjap.com
 0.0.0.0 ookris.oferty-kredytowe.pl
-0.0.0.0 oolufhbdabqce.com
 0.0.0.0 oompilsa.com
 0.0.0.0 oomsoapt.net
 0.0.0.0 oopt.fr
@@ -29636,6 +29680,7 @@
 0.0.0.0 oxcash.com
 0.0.0.0 oxharmonysample.com
 0.0.0.0 oxidesloot.com
+0.0.0.0 oximsrhibia.casa
 0.0.0.0 oxsng.com
 0.0.0.0 oxtop.ru
 0.0.0.0 oxtracking.com
@@ -30100,7 +30145,6 @@
 0.0.0.0 painfullyneattide.com
 0.0.0.0 painlessassumedbeing.com
 0.0.0.0 painmidsummer.com
-0.0.0.0 painsko.com
 0.0.0.0 paintavoidwitty.com
 0.0.0.0 paintifiercute.club
 0.0.0.0 paintplantation.com
@@ -34690,8 +34734,10 @@
 0.0.0.0 pwrlkyotm.com
 0.0.0.0 pwrtds.com
 0.0.0.0 pwwghcyzsn.info
+0.0.0.0 px-conf-ipv.perimeterx.net
 0.0.0.0 px-intl.ucweb.com
 0.0.0.0 px.adhigh.net
+0.0.0.0 px.adroute.focas.jp
 0.0.0.0 px.britepool.com
 0.0.0.0 px.cdn.creative.medialytics.com
 0.0.0.0 px.dynamicyield.com
@@ -34850,7 +34896,6 @@
 0.0.0.0 qk5xf-rkfq2.ads.tremorhub.com
 0.0.0.0 qkntsnhypiesa.com
 0.0.0.0 qkspafpgg.com
-0.0.0.0 qlblpyslxciorl.com
 0.0.0.0 qlog.adap.tv
 0.0.0.0 qlqd5zqefmkcr34a.onion.pet
 0.0.0.0 qlzogd.edvfwlacluo.com
@@ -35073,6 +35118,7 @@
 0.0.0.0 r2---sn-5hnekn76.c.2mdn.net
 0.0.0.0 r2---sn-ab5szn7d.c.2mdn.net
 0.0.0.0 r2---sn-p5qs7n7z.c.2mdn.net
+0.0.0.0 r2.loccca.biz
 0.0.0.0 r24-rtb.factinform.net
 0.0.0.0 r3---sn-4g5e6nsk.c.2mdn.net
 0.0.0.0 r3---sn-4g5e6nze.c.2mdn.net
@@ -36015,6 +36061,7 @@
 0.0.0.0 rgttoipdr.com
 0.0.0.0 rgverkqcpahaqcqtmpksxicmtno.com
 0.0.0.0 rgvqcsxqge.com
+0.0.0.0 rh.liveworldtrending.video
 0.0.0.0 rh1hilm7j0ae.com
 0.0.0.0 rhein-entree.de
 0.0.0.0 rheinadler.com
@@ -38667,7 +38714,6 @@
 0.0.0.0 sofinpushpile.com
 0.0.0.0 soft-com.biz
 0.0.0.0 soft-plus.ru
-0.0.0.0 soft4dle.com
 0.0.0.0 softclick.com.br
 0.0.0.0 softenedimmortalityprocedure.com
 0.0.0.0 softenedprepare.com
@@ -39564,6 +39610,7 @@
 0.0.0.0 static.adclerks.com
 0.0.0.0 static.adkernel.com
 0.0.0.0 static.adright.co
+0.0.0.0 static.adroute.focas.jp
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.adtelligent.com
@@ -39652,6 +39699,7 @@
 0.0.0.0 static.sites.contentabc.com
 0.0.0.0 static.skimlinks.com
 0.0.0.0 static.sogolox.com
+0.0.0.0 static.sp-adroute.focas.jp
 0.0.0.0 static.sunmedia.tv
 0.0.0.0 static.supersonicads.com
 0.0.0.0 static.surfe.be
@@ -41085,6 +41133,7 @@
 0.0.0.0 telegraphmediagroupl.tt.omtrdc.net
 0.0.0.0 telemetric.dk
 0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry-ingest-prod.steelyard.ca
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.api.wmcdp.io
@@ -42829,6 +42878,7 @@
 0.0.0.0 tracking-dc6.cj.com
 0.0.0.0 tracking-i2.adsafety.net
 0.0.0.0 tracking-jmlink.jpush.cn
+0.0.0.0 tracking-prod.steelyard.ca
 0.0.0.0 tracking-sj2.cj.com
 0.0.0.0 tracking-sto.cj.com
 0.0.0.0 tracking-stvde.adsafety.net
@@ -43432,6 +43482,7 @@
 0.0.0.0 tubereplay.com
 0.0.0.0 tubetry.com
 0.0.0.0 tudotecnologia.site
+0.0.0.0 tudsxyhpn.com
 0.0.0.0 tuesdayfetidlit.com
 0.0.0.0 tufosex.com.br
 0.0.0.0 tugae2.com
@@ -46766,6 +46817,7 @@
 0.0.0.0 www.es.cj.com
 0.0.0.0 www.es.ero-advertising.com
 0.0.0.0 www.escort-galleries.com
+0.0.0.0 www.eshezwwft.com
 0.0.0.0 www.eskimi.com
 0.0.0.0 www.espncdn.shop
 0.0.0.0 www.evcknbym.com
@@ -47571,6 +47623,7 @@
 0.0.0.0 www.ttubusiness.com
 0.0.0.0 www.tubeadvertising.eu
 0.0.0.0 www.tubepick.com
+0.0.0.0 www.tudsxyhpn.com
 0.0.0.0 www.tutorials-ideas.info
 0.0.0.0 www.tvmds.tvpassport.com
 0.0.0.0 www.tvpage.com
@@ -47858,6 +47911,7 @@
 0.0.0.0 wxadmin.inmobi.com
 0.0.0.0 wxapp.cmcm.com
 0.0.0.0 wxbdfm.com
+0.0.0.0 wxbrdppfpr.com
 0.0.0.0 wxhiojortldjyegtkx.bid
 0.0.0.0 wxspfkln.com
 0.0.0.0 wxwoapfyuvwu.com
