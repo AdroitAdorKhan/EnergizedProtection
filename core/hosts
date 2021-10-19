@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.292
-# Release: 292
-# Entries: 49,112
+# Version: 21.10.293
+# Release: 293
+# Entries: 49,117
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 19 Oct 21 20:07:03
+# Updated: Wed, 20 Oct 21 00:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12559,6 +12559,7 @@
 0.0.0.0 coinworker.com
 0.0.0.0 coinzilla.io
 0.0.0.0 coinzillatag.com
+0.0.0.0 coiston.com
 0.0.0.0 cokeseeming.com
 0.0.0.0 cokz6dzzaxawzgang.ay.delivery
 0.0.0.0 cold-cold-freezing.com
@@ -13418,6 +13419,7 @@
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convilla.xyz
 0.0.0.0 convincedsponsorshipenemy.com
+0.0.0.0 convincingnotion.com
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 convrse.media
@@ -21344,6 +21346,7 @@
 0.0.0.0 hummingbird.mavencoalition.io
 0.0.0.0 humorshieldrecede.com
 0.0.0.0 humsoolt.net
+0.0.0.0 hunchbackimpulse.com
 0.0.0.0 hunchbacktransformation.com
 0.0.0.0 hunchmotherhooddefine.com
 0.0.0.0 hung.ch
@@ -34890,6 +34893,7 @@
 0.0.0.0 pyq6n.com
 0.0.0.0 pyreelsepipe.com
 0.0.0.0 pyrroylceriums.com
+0.0.0.0 pyxidiaimmerit.com
 0.0.0.0 pzhuzlwjiymfos.com
 0.0.0.0 q-counter.com
 0.0.0.0 q-digital.videoplayerhub.com
@@ -37083,6 +37087,7 @@
 0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 sandbox.livejasmin.com
 0.0.0.0 sandbox.outbrain.com
+0.0.0.0 sandelf.com
 0.0.0.0 sandrachen.de
 0.0.0.0 sandroprabratm.info
 0.0.0.0 sangogne.com
