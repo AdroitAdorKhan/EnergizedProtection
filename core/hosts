@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.296
 # Release: 296
-# Entries: 49,481
+# Entries: 49,483
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 23 Oct 21 16:07:02
+# Updated: Sat, 23 Oct 21 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6881,6 +6881,7 @@
 0.0.0.0 antecedentponderoverweight.com
 0.0.0.0 antennacountingfloor.com
 0.0.0.0 antg.widerplanet.com
+0.0.0.0 anti.allcryptoz.net
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 anticipatedlying.com
 0.0.0.0 anticipationbelieved.com
@@ -21706,6 +21707,7 @@
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.amobee.com
+0.0.0.0 ib.teicdn.com
 0.0.0.0 ibackupboost.com
 0.0.0.0 ibackupupdate.com
 0.0.0.0 ibackupview.com
