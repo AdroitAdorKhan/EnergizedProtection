@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.297
 # Release: 297
-# Entries: 49,501
+# Entries: 49,502
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 24 Oct 21 08:07:01
+# Updated: Sun, 24 Oct 21 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26805,6 +26805,7 @@
 0.0.0.0 minutesbitter.com
 0.0.0.0 minzo.com
 0.0.0.0 miraclemethod.report-uri.io
+0.0.0.0 miracslubs.com
 0.0.0.0 mirafaren.pw
 0.0.0.0 mirago.com
 0.0.0.0 mircrew-releases.com
