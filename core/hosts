@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.297
-# Release: 297
-# Entries: 49,511
+# Version: 21.10.298
+# Release: 298
+# Entries: 49,513
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 24 Oct 21 20:07:02
+# Updated: Mon, 25 Oct 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21718,6 +21718,7 @@
 0.0.0.0 ibackupboost.com
 0.0.0.0 ibackupupdate.com
 0.0.0.0 ibackupview.com
+0.0.0.0 ibancalculator-com.preview-domain.com
 0.0.0.0 ibannerexchange.com
 0.0.0.0 ibatom.com
 0.0.0.0 ibbkuhwgqawhvt.com
@@ -48551,6 +48552,7 @@
 0.0.0.0 xfbkg.bemobtrk.com
 0.0.0.0 xfgsdhgxg.myshopify.com
 0.0.0.0 xfileload.com
+0.0.0.0 xfnl-spspostit-online.preview-domain.com
 0.0.0.0 xg.hbcygs518.com
 0.0.0.0 xg084mgkfsfk.com
 0.0.0.0 xg4ken.com
