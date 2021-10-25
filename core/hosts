@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.298
 # Release: 298
-# Entries: 49,522
+# Entries: 49,523
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 25 Oct 21 08:07:02
+# Updated: Mon, 25 Oct 21 12:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10226,6 +10226,7 @@
 0.0.0.0 bravecalculator.com
 0.0.0.0 bravelywade.com
 0.0.0.0 bravenetmedianetwork.com
+0.0.0.0 bravestone.ru
 0.0.0.0 bravo-dog.com
 0.0.0.0 bravo-mining.com
 0.0.0.0 brayerspenta.com
