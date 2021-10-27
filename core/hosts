@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.300
-# Release: 300
-# Entries: 49,689
+# Version: 21.10.301
+# Release: 301
+# Entries: 49,697
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 27 Oct 21 20:07:03
+# Updated: Thu, 28 Oct 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12240,6 +12240,7 @@
 0.0.0.0 clickbigo.com
 0.0.0.0 clickbooth.com
 0.0.0.0 clickboothlnk.com
+0.0.0.0 clickbrainiacs.com
 0.0.0.0 clickbrokers.com
 0.0.0.0 clickc.admaster.com.cn
 0.0.0.0 clickcash.com
@@ -25577,6 +25578,7 @@
 0.0.0.0 luxuryys.com
 0.0.0.0 luzulabeguile.com
 0.0.0.0 lvecygampj.com
+0.0.0.0 lvjvremluuej.com
 0.0.0.0 lvntekpejrmtb.com
 0.0.0.0 lvodomo.info
 0.0.0.0 lvqnychauf.com
@@ -27291,6 +27293,7 @@
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
 0.0.0.0 monkposseacre.casa
+0.0.0.0 monopoly-drain.ga
 0.0.0.0 monopolypenitentiarynegligence.com
 0.0.0.0 monotonousincessant.com
 0.0.0.0 monotonoussurveytoxic.com
@@ -33575,6 +33578,7 @@
 0.0.0.0 plandiscriminationtakeout.com
 0.0.0.0 planet-v.amobee.com
 0.0.0.0 planetahappy.com
+0.0.0.0 planetheldpiggy.com
 0.0.0.0 planetupload.com
 0.0.0.0 planknutshell.com
 0.0.0.0 planktab.com
@@ -40460,6 +40464,7 @@
 0.0.0.0 statuscake.com
 0.0.0.0 statweb.egloos.com
 0.0.0.0 statwup.huya.com
+0.0.0.0 statwup.nimo.tv
 0.0.0.0 statxpress.com
 0.0.0.0 stauchie.com
 0.0.0.0 staulrut.net
@@ -44355,6 +44360,7 @@
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
 0.0.0.0 udash.umengcloud.com
+0.0.0.0 udbdf-v2.nimo.tv
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udinugoo.com
 0.0.0.0 udkcrj.com
@@ -46900,6 +46906,8 @@
 0.0.0.0 ws.sharethis.com
 0.0.0.0 ws.vdosupreme.com
 0.0.0.0 ws38.watashinonegai.ru
+0.0.0.0 wsapi-global.master.live
+0.0.0.0 wsapi.master.live
 0.0.0.0 wsapptrk.a4.tl
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wseqjbxn.com
