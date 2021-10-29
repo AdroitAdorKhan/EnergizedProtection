@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.302
-# Release: 302
-# Entries: 49,947
+# Version: 21.10.303
+# Release: 303
+# Entries: 49,982
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 29 Oct 21 20:07:02
+# Updated: Sat, 30 Oct 21 00:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -713,6 +713,7 @@
 0.0.0.0 1ex4oemg99mv.com
 0.0.0.0 1f58098dd54.com
 0.0.0.0 1f7de8569ea97f0614.com
+0.0.0.0 1firstofall1.com
 0.0.0.0 1freecounter.com
 0.0.0.0 1fwjpdwguvqs.com
 0.0.0.0 1gbsx.bemobtrk.com
@@ -3133,6 +3134,7 @@
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.ecplaza.net
 0.0.0.0 ad.edugram.com
+0.0.0.0 ad.endpo.in
 0.0.0.0 ad.entgroup.cn
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.es.doubleclick.net
@@ -5212,6 +5214,7 @@
 0.0.0.0 advertiser.authenticshows.com
 0.0.0.0 advertiser.cheetahgo.cmcm.com
 0.0.0.0 advertiser.flexoffers.com
+0.0.0.0 advertiser.taroads.com
 0.0.0.0 advertiser.wbtrk.net
 0.0.0.0 advertiser.xyou.com
 0.0.0.0 advertisers.adtrue.com
@@ -7181,6 +7184,7 @@
 0.0.0.0 api.supersonicads.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
+0.0.0.0 api.taroads.com
 0.0.0.0 api.test.v-mate.mobi
 0.0.0.0 api.tiledesk.com
 0.0.0.0 api.tinstall.xyz
@@ -7756,6 +7760,7 @@
 0.0.0.0 asset.bnz88.news
 0.0.0.0 asset.fwcdn1.com
 0.0.0.0 asset.pagefair.com
+0.0.0.0 asset.taroads.com
 0.0.0.0 assetize.com
 0.0.0.0 assets-news-bcdn.dailyhunt.in
 0.0.0.0 assets.applovin.com
@@ -7776,6 +7781,7 @@
 0.0.0.0 assets.sizedoesmatter.com
 0.0.0.0 assets.taboola.com
 0.0.0.0 assets.tapad.com
+0.0.0.0 assets.taroads.com
 0.0.0.0 assets.trafficfabrik.com
 0.0.0.0 assets.vlitag.com
 0.0.0.0 assets1.adroll.com
@@ -7909,6 +7915,7 @@
 0.0.0.0 atsfi.de
 0.0.0.0 att.demdex.net
 0.0.0.0 attacheastely.com
+0.0.0.0 attachtranquilizer.com
 0.0.0.0 attack.niggers.me
 0.0.0.0 attacketslovern.info
 0.0.0.0 attackscabbagevengeance.com
@@ -8056,6 +8063,7 @@
 0.0.0.0 auto60.in
 0.0.0.0 autoaffiliatenetwork.com
 0.0.0.0 autoaudience.com
+0.0.0.0 autoconfig.taroads.com
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autodisco.de
 0.0.0.0 autodiscover.ac
@@ -8368,6 +8376,7 @@
 0.0.0.0 autodiscover.supply
 0.0.0.0 autodiscover.surf
 0.0.0.0 autodiscover.systems
+0.0.0.0 autodiscover.taroads.com
 0.0.0.0 autodiscover.tattoo
 0.0.0.0 autodiscover.tax
 0.0.0.0 autodiscover.tc
@@ -9380,6 +9389,7 @@
 0.0.0.0 benthose.com
 0.0.0.0 benzemahaha.000webhostapp.com
 0.0.0.0 beonixom.com
+0.0.0.0 beparaspr.com
 0.0.0.0 bephamema.com
 0.0.0.0 bepiletussar.casa
 0.0.0.0 bepolite.eu
@@ -9832,6 +9842,7 @@
 0.0.0.0 bkcrelm8esyifef.ru
 0.0.0.0 bkembwdgujzp.com
 0.0.0.0 bkg.page.link
+0.0.0.0 bkl72.com
 0.0.0.0 bktr2-06hdl.ads.tremorhub.com
 0.0.0.0 bkvtrack.com
 0.0.0.0 bl.impresa.pt
@@ -11639,6 +11650,7 @@
 0.0.0.0 cdns.ws
 0.0.0.0 cdnspace.io
 0.0.0.0 cdnt.adclerks.com
+0.0.0.0 cdntestlp.info
 0.0.0.0 cdntrf.com
 0.0.0.0 cdnuz.adviad.com
 0.0.0.0 cdnvideo.mobi
@@ -15141,6 +15153,7 @@
 0.0.0.0 delivery.smashing.services
 0.0.0.0 delivery.staging.trafficjunky.net
 0.0.0.0 delivery.supersonicads.com
+0.0.0.0 delivery.taroads.com
 0.0.0.0 delivery.thebloggernetwork.com
 0.0.0.0 delivery.trafficfabrik.com
 0.0.0.0 delivery.trafficforce.com
@@ -15394,7 +15407,6 @@
 0.0.0.0 dh2xbuwg.com
 0.0.0.0 dh956.com
 0.0.0.0 dhb8psqhvz9a.com
-0.0.0.0 dhgate.com
 0.0.0.0 dhilyjdw.com
 0.0.0.0 dhundora.com
 0.0.0.0 di.rlcdn.com
@@ -15884,6 +15896,7 @@
 0.0.0.0 dosliggooor.com
 0.0.0.0 dostophog.com
 0.0.0.0 dosugcz.biz
+0.0.0.0 doswinuba.com
 0.0.0.0 dot-a.op-mobile.opera.com
 0.0.0.0 dot.texastribune.org
 0.0.0.0 dot.wp.pl
@@ -17591,6 +17604,7 @@
 0.0.0.0 evushuco.com
 0.0.0.0 ew-ph.rdtcdn.com
 0.0.0.0 ew.rdtcdn.com
+0.0.0.0 ewaglongoo.com
 0.0.0.0 ewebanalytics.com
 0.0.0.0 ewebse.com
 0.0.0.0 ewedivotsfop.com
@@ -22614,6 +22628,7 @@
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 inrdeals.com
 0.0.0.0 inrecsys.popin.cc
+0.0.0.0 inrhyhorntor.com
 0.0.0.0 inringtone.com
 0.0.0.0 insafe.ucweb.com
 0.0.0.0 insanestudiedrick.com
@@ -22680,6 +22695,7 @@
 0.0.0.0 installationtray.com
 0.0.0.0 installcdnfile.com
 0.0.0.0 installerleading.com
+0.0.0.0 installnow.pro
 0.0.0.0 installsbarefootedringer.com
 0.0.0.0 installssmashedbab.com
 0.0.0.0 instameet-match4.com
@@ -22743,6 +22759,7 @@
 0.0.0.0 inter1ads.com
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interactiveads.ai
+0.0.0.0 interads1.com
 0.0.0.0 interadv.net
 0.0.0.0 interakt.ru
 0.0.0.0 interaktiv-net.de
@@ -23106,6 +23123,7 @@
 0.0.0.0 italicwallids.com
 0.0.0.0 italy.scorecardresearch.com
 0.0.0.0 italyiimp.com
+0.0.0.0 itbasculina.com
 0.0.0.0 itblisseyer.com
 0.0.0.0 itcameruptr.com
 0.0.0.0 itcfnfi.com
@@ -24148,6 +24166,7 @@
 0.0.0.0 knutenegros.pro
 0.0.0.0 ko.taboola.com
 0.0.0.0 ko.wexmin.com
+0.0.0.0 koabukedosi.com
 0.0.0.0 koacojus.net
 0.0.0.0 koaptooh.net
 0.0.0.0 koashept.com
@@ -26224,6 +26243,7 @@
 0.0.0.0 maroodsu.com
 0.0.0.0 maroohost.online
 0.0.0.0 maroola.aditms.me
+0.0.0.0 marootrack.co
 0.0.0.0 marphezis.com
 0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 marsads.com
@@ -26303,6 +26323,7 @@
 0.0.0.0 mation.xyz
 0.0.0.0 mationen.club
 0.0.0.0 matiro.com
+0.0.0.0 matoakie.com
 0.0.0.0 matomo.darken.eu
 0.0.0.0 matomo.freeones.com
 0.0.0.0 matomo.gofile.io
@@ -26429,6 +26450,7 @@
 0.0.0.0 mcsoft365.com
 0.0.0.0 mct.etherscan.com
 0.0.0.0 mctqu.com
+0.0.0.0 mcuhinni.xyz
 0.0.0.0 mcw.ladesk.com
 0.0.0.0 mdcytqwnbr.com
 0.0.0.0 mdgzg.com
@@ -26451,6 +26473,7 @@
 0.0.0.0 meagplin.com
 0.0.0.0 mealassistants.com
 0.0.0.0 mealparameter.com
+0.0.0.0 mealplanningideas.com
 0.0.0.0 meaningevidentlygo.com
 0.0.0.0 meaninglessimpertinent.com
 0.0.0.0 meantfallroadmap.com
@@ -26583,6 +26606,7 @@
 0.0.0.0 medikamente-kaufen-24.net
 0.0.0.0 medikamente-rezeptfrei.net
 0.0.0.0 medikamente-rezeptfrei.shop
+0.0.0.0 mediuln.com
 0.0.0.0 mediuminsert.com
 0.0.0.0 mediumpimpin.com
 0.0.0.0 medizin-rezeptfrei.com
@@ -29639,6 +29663,7 @@
 0.0.0.0 omoaxaus.net
 0.0.0.0 omoonsih.net
 0.0.0.0 ompanythats.biz
+0.0.0.0 omporygonr.com
 0.0.0.0 omrtd.rdtk.io
 0.0.0.0 omshedinjaor.com
 0.0.0.0 omspacharlotte.com
@@ -29880,6 +29905,7 @@
 0.0.0.0 opootsoa.net
 0.0.0.0 oposisicerdas.com
 0.0.0.0 opotey.com
+0.0.0.0 oppersianor.com
 0.0.0.0 opportancen.info
 0.0.0.0 opportedag.top
 0.0.0.0 oppositehometowndrunken.com
@@ -33908,6 +33934,7 @@
 0.0.0.0 po.ponant.com
 0.0.0.0 poacawhe.net
 0.0.0.0 poagroul.com
+0.0.0.0 poaships.com
 0.0.0.0 poasotha.com
 0.0.0.0 pobliba.info
 0.0.0.0 pocitadlo.cz
@@ -34846,6 +34873,7 @@
 0.0.0.0 psaukrik.net
 0.0.0.0 psazamajy.pro
 0.0.0.0 psclicks.com
+0.0.0.0 pseekseecm.com
 0.0.0.0 pseepsie.com
 0.0.0.0 psekesheva.pro
 0.0.0.0 psensuds.net
@@ -41595,6 +41623,8 @@
 0.0.0.0 tag4arm.com
 0.0.0.0 tagbom.com
 0.0.0.0 tagbucket.cc
+0.0.0.0 tagcachedataxrt.com
+0.0.0.0 tagcachestaticx.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagcontrolapi.evidon.com
 0.0.0.0 tagcontrolcollector.evidon.com
@@ -42685,6 +42715,7 @@
 0.0.0.0 topeuro.biz
 0.0.0.0 topflownews.com
 0.0.0.0 topfox.co.uk
+0.0.0.0 topfreenewsfeed.com
 0.0.0.0 topfutureprofit.life
 0.0.0.0 topgamesites.net
 0.0.0.0 topgirls-here.com
@@ -44064,6 +44095,7 @@
 0.0.0.0 trends.taboola.com
 0.0.0.0 trendswa.com
 0.0.0.0 trendy-gadgets.net
+0.0.0.0 trenkrop.com
 0.0.0.0 trenpyle.com
 0.0.0.0 tretionsp.top
 0.0.0.0 trfcbooost.com
@@ -44411,6 +44443,7 @@
 0.0.0.0 twentycustomimprovement.com
 0.0.0.0 twentyhandful.com
 0.0.0.0 twentypassengerdiagram.com
+0.0.0.0 twfaebgpngpx.xyz
 0.0.0.0 twfilnym.com
 0.0.0.0 twiago.com
 0.0.0.0 twiki.cmcm.com
@@ -47545,6 +47578,7 @@
 0.0.0.0 www.cbpsdvozwsbf.com
 0.0.0.0 www.cdn.adblade.com
 0.0.0.0 www.cdn4ads.com
+0.0.0.0 www.cdnativepush.com
 0.0.0.0 www.cdnondemand.org
 0.0.0.0 www.cdnopw.com
 0.0.0.0 www.cdnreference.com
@@ -48493,6 +48527,7 @@
 0.0.0.0 www.taozgpkjzpdtgr.com
 0.0.0.0 www.tapad.com
 0.0.0.0 www.tapdaq.com
+0.0.0.0 www.taroads.com
 0.0.0.0 www.tato365.com
 0.0.0.0 www.tcm.optica.ero-advertising.com
 0.0.0.0 www.tct-teye.com
