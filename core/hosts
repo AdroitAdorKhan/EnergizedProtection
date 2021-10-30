@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.303
-# Release: 303
-# Entries: 50,054
+# Version: 21.10.304
+# Release: 304
+# Entries: 50,061
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 30 Oct 21 20:07:01
+# Updated: Sun, 31 Oct 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7857,6 +7857,7 @@
 0.0.0.0 at0.addthis.com
 0.0.0.0 at1hockey.net
 0.0.0.0 ata.ero-advertising.com
+0.0.0.0 atableofcup.com
 0.0.0.0 atadserver.com
 0.0.0.0 ataijeeg.net
 0.0.0.0 atakamul.com
@@ -9599,6 +9600,7 @@
 0.0.0.0 bfxuknchdic.duckdns.org
 0.0.0.0 bg6s0.com
 0.0.0.0 bgadx.com
+0.0.0.0 bgaxgjre.xyz
 0.0.0.0 bgd1.purplepatch.online
 0.0.0.0 bgmtracker.com
 0.0.0.0 bgrndi.com
@@ -13358,6 +13360,7 @@
 0.0.0.0 comwgi.com
 0.0.0.0 comwww.effectivedisplayformat.com
 0.0.0.0 comwww.listincode.com
+0.0.0.0 comwww.tooviolatesymptom.com
 0.0.0.0 conapi.connatix.com
 0.0.0.0 conative.de
 0.0.0.0 conatr.com
@@ -41569,6 +41572,7 @@
 0.0.0.0 t.mugrikees.com
 0.0.0.0 t.newrelic.com
 0.0.0.0 t.nitropay.com
+0.0.0.0 t.nvidpn.com
 0.0.0.0 t.ocmhood.com
 0.0.0.0 t.premii.com
 0.0.0.0 t.pubmatic.com
@@ -42054,6 +42058,7 @@
 0.0.0.0 tenauknun.online
 0.0.0.0 tend-new.com
 0.0.0.0 tendaisy.com
+0.0.0.0 tendencyexcavatornook.com
 0.0.0.0 tendents.club
 0.0.0.0 tendersugar.com
 0.0.0.0 tendertest.com
@@ -42714,6 +42719,7 @@
 0.0.0.0 toothbrushnote.com
 0.0.0.0 toothpasterabbits.com
 0.0.0.0 tooviolatesymptom.com
+0.0.0.0 tooviolatesymptom.comwww.tooviolatesymptom.com
 0.0.0.0 top-apotheke.com
 0.0.0.0 top-backuphelper.com
 0.0.0.0 top-backupservice.com
@@ -48957,6 +48963,7 @@
 0.0.0.0 wxbrdppfpr.com
 0.0.0.0 wxhiojortldjyegtkx.bid
 0.0.0.0 wxspfkln.com
+0.0.0.0 wxwkgxnemw.xyz
 0.0.0.0 wxwoapfyuvwu.com
 0.0.0.0 wxyn0o3xmora.com
 0.0.0.0 wycji.top
