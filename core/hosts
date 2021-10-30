@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.303
 # Release: 303
-# Entries: 50,040
+# Entries: 50,045
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 30 Oct 21 12:07:02
+# Updated: Sat, 30 Oct 21 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13354,6 +13354,7 @@
 0.0.0.0 comunicazio.com
 0.0.0.0 comupoll.umengcloud.com
 0.0.0.0 comwgi.com
+0.0.0.0 comwww.effectivedisplayformat.com
 0.0.0.0 comwww.listincode.com
 0.0.0.0 conapi.connatix.com
 0.0.0.0 conative.de
@@ -16822,6 +16823,7 @@
 0.0.0.0 effec6be.rtc.youme.im
 0.0.0.0 effectivecpmgate.com
 0.0.0.0 effectivedisplayformat.com
+0.0.0.0 effectivedisplayformat.comwww.effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 effectiveperformanceformat.com
@@ -33870,6 +33872,7 @@
 0.0.0.0 player.adtcdn.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player.avplayer.com
+0.0.0.0 player.ex.co
 0.0.0.0 playerseo.club
 0.0.0.0 playertraffic.com
 0.0.0.0 playgames-win.com
@@ -46842,6 +46845,7 @@
 0.0.0.0 widgets-3-omni-iframe.livetex.ru
 0.0.0.0 widgets.asdpoi.com
 0.0.0.0 widgets.binotel.com
+0.0.0.0 widgets.business.com
 0.0.0.0 widgets.comcontent.net
 0.0.0.0 widgets.cryptopicture.com
 0.0.0.0 widgets.fccinteractive.com
@@ -47784,6 +47788,7 @@
 0.0.0.0 www.eedclicks.ero-advertising.com
 0.0.0.0 www.effectivecpmgate.com
 0.0.0.0 www.effectivedisplayformat.com
+0.0.0.0 www.effectivedisplayformat.comwww.effectivedisplayformat.com
 0.0.0.0 www.effectiveperformanceformat.com
 0.0.0.0 www.effectiveperformancenetwork.com
 0.0.0.0 www.egfqtvewksktz.com
