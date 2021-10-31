@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.10.304
-# Release: 304
-# Entries: 49,427
+# Version: 21.11.305
+# Release: 305
+# Entries: 49,429
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 31 Oct 21 20:07:02
+# Updated: Mon, 01 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19414,6 +19414,7 @@
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geobanner.alt.com
 0.0.0.0 geobanner.blacksexmatch.com
+0.0.0.0 geobanner.friendfinder.com
 0.0.0.0 geobanner.fuckbookhookups.com
 0.0.0.0 geobanner.hornywife.com
 0.0.0.0 geobanner.passion.com
@@ -45437,6 +45438,7 @@
 0.0.0.0 vlexokrako.com
 0.0.0.0 vlgibhwkrhxltkkfm.me
 0.0.0.0 vliplatform.com
+0.0.0.0 vlnk.me
 0.0.0.0 vloerplan.com
 0.0.0.0 vlogexpert.com
 0.0.0.0 vlogoflife.com
