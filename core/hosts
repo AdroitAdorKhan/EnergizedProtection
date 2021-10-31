@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.10.304
 # Release: 304
-# Entries: 49,425
+# Entries: 49,427
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 31 Oct 21 16:07:01
+# Updated: Sun, 31 Oct 21 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19329,6 +19329,7 @@
 0.0.0.0 gdpr.eu.adjust.com
 0.0.0.0 gdpr.liadm.com
 0.0.0.0 gdpr.tr.adjust.com
+0.0.0.0 gdufpjrhran.com
 0.0.0.0 gdxisixdrk.com
 0.0.0.0 ge-ek.com
 0.0.0.0 ge.appcloudbox.net
@@ -31087,6 +31088,7 @@
 0.0.0.0 picsti.com
 0.0.0.0 picto-plasma.de
 0.0.0.0 picturesdeepertwinkle.com
+0.0.0.0 picturesgeneralizeflown.com
 0.0.0.0 picturesquebutcompassionate.com
 0.0.0.0 pictureturn.com
 0.0.0.0 pie.net.pk
