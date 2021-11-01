@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.305
-# Release: 305
-# Entries: 49,500
+# Version: 21.11.306
+# Release: 306
+# Entries: 49,509
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 01 Nov 21 20:07:02
+# Updated: Tue, 02 Nov 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10664,6 +10664,7 @@
 0.0.0.0 c.pleasurefindyou.info
 0.0.0.0 c.plerdy.com
 0.0.0.0 c.plyvst.com
+0.0.0.0 c.pravo.ru
 0.0.0.0 c.ptgncdn.com
 0.0.0.0 c.pub.network
 0.0.0.0 c.pubguru.com
@@ -15730,6 +15731,7 @@
 0.0.0.0 docs.newrelic.com
 0.0.0.0 docs.pipenv.org
 0.0.0.0 doctopdftech.com
+0.0.0.0 doctorhousing.com
 0.0.0.0 doctorwho.outbrain.com
 0.0.0.0 docucopies.report-uri.io
 0.0.0.0 dodgiercuvy.cam
@@ -18697,6 +18699,7 @@
 0.0.0.0 fp.kakaku.com
 0.0.0.0 fpa.ero-advertising.com
 0.0.0.0 fpba0.rdtk.io
+0.0.0.0 fpbnmoise.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fpctraffic3.com
@@ -37478,6 +37481,7 @@
 0.0.0.0 sber-host.000webhostapp.com
 0.0.0.0 sbfsdvc.com
 0.0.0.0 sbhc.portalhc.com
+0.0.0.0 sblimrvlco.xyz
 0.0.0.0 sbobet-info.com
 0.0.0.0 sbroughhig.info
 0.0.0.0 sbs.demdex.net
@@ -39904,6 +39908,7 @@
 0.0.0.0 stakeunited.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
+0.0.0.0 stakingsmile.com
 0.0.0.0 staleseat.com
 0.0.0.0 staleshow.com
 0.0.0.0 stalesummer.com
@@ -40761,6 +40766,7 @@
 0.0.0.0 superadbid.com
 0.0.0.0 superadexchange.com
 0.0.0.0 superbdolly.com
+0.0.0.0 superblackfriday.deals
 0.0.0.0 supercell.net
 0.0.0.0 superclix.de
 0.0.0.0 supercounters.com
@@ -46275,6 +46281,7 @@
 0.0.0.0 wheeshoo.net
 0.0.0.0 wheessoo.com
 0.0.0.0 whefungu.com
+0.0.0.0 wheglulyto.pro
 0.0.0.0 whegrads.com
 0.0.0.0 whenceforever.com
 0.0.0.0 wherabygry.com
@@ -46488,6 +46495,7 @@
 0.0.0.0 winr.online
 0.0.0.0 winsistakesme.site
 0.0.0.0 wintercomfy.com
+0.0.0.0 wipe.de
 0.0.0.0 wipedhypocrite.com
 0.0.0.0 wipedstuffed.com
 0.0.0.0 wipeneighbour.com
@@ -47490,6 +47498,7 @@
 0.0.0.0 www.hmkaydinlatma.com
 0.0.0.0 www.hnpvnnhzazkl.com
 0.0.0.0 www.hodlnaut.com
+0.0.0.0 www.homicidearousedhand.com
 0.0.0.0 www.hostingcloud.racing
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostmonster.com
