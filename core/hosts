@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.307
 # Release: 307
-# Entries: 49,642
+# Entries: 49,650
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 03 Nov 21 12:07:02
+# Updated: Wed, 03 Nov 21 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3558,6 +3558,8 @@
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adfunkyserver.com
 0.0.0.0 adfusion.com
+0.0.0.0 adg-data.kajicam.com
+0.0.0.0 adg.kajicam.com
 0.0.0.0 adgage.es
 0.0.0.0 adgainersolutions.com
 0.0.0.0 adgardener.com
@@ -11150,6 +11152,7 @@
 0.0.0.0 cbsi.report-uri.io
 0.0.0.0 cbt.whatcounts.net
 0.0.0.0 cbuacategic.xyz
+0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc.1clickcdn.ru
 0.0.0.0 cc.adserver.yahoo.com
 0.0.0.0 cc.calltracking.ru
@@ -12477,6 +12480,7 @@
 0.0.0.0 cloudvpsfiles.com
 0.0.0.0 cloudypotsincluded.com
 0.0.0.0 cloutbeliefphantom.com
+0.0.0.0 cloutingservicedb.su
 0.0.0.0 clprr.com
 0.0.0.0 clrstm.com
 0.0.0.0 clsapi.vivo.com.cn
@@ -17046,6 +17050,7 @@
 0.0.0.0 enlarget.com
 0.0.0.0 enlnks.com
 0.0.0.0 enmisindingat.info
+0.0.0.0 enoe.net
 0.0.0.0 enormitteen.pro
 0.0.0.0 enormouslyauditorium.com
 0.0.0.0 enoughts.info
@@ -20647,6 +20652,7 @@
 0.0.0.0 hairsthoughtfulgovernor.com
 0.0.0.0 haitabuh.net
 0.0.0.0 haithoaz.net
+0.0.0.0 hajezey10.top
 0.0.0.0 hajo-gutmann.de
 0.0.0.0 hajoopteg.com
 0.0.0.0 halaru.com
@@ -21373,6 +21379,7 @@
 0.0.0.0 hospice.maxone24.com
 0.0.0.0 hospitecor.top
 0.0.0.0 hospitecrew.club
+0.0.0.0 host-host-file6.com
 0.0.0.0 host.samegradually.com
 0.0.0.0 hostave.net
 0.0.0.0 hostave2.net
@@ -24399,6 +24406,7 @@
 0.0.0.0 lavender64369.com
 0.0.0.0 lavishvanish.com
 0.0.0.0 lavoz.report-uri.io
+0.0.0.0 lawareenolatman.com
 0.0.0.0 lawboplegs.com
 0.0.0.0 lawiersenadrey.webcam
 0.0.0.0 lawsaddthoroughfare.com
