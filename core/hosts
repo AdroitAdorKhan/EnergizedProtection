@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.309
-# Release: 309
-# Entries: 49,728
+# Version: 21.11.310
+# Release: 310
+# Entries: 49,732
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 05 Nov 21 20:07:02
+# Updated: Sat, 06 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3504,6 +3504,7 @@
 0.0.0.0 adengine.adfinix.com
 0.0.0.0 adengine.snigelweb.com
 0.0.0.0 adequality.xyz
+0.0.0.0 adequalitys.xyz
 0.0.0.0 adespresso.com
 0.0.0.0 adestore.online
 0.0.0.0 adeventtracker.spotify.com
@@ -10392,6 +10393,7 @@
 0.0.0.0 bsch.serving-sys.com
 0.0.0.0 bsdaban.com
 0.0.0.0 bse4usdqd52m.com
+0.0.0.0 bspwmmghrvoyqs.xyz
 0.0.0.0 bsrc.flurry.com
 0.0.0.0 bssp.zog.link
 0.0.0.0 bst-offers.com
@@ -22601,6 +22603,7 @@
 0.0.0.0 instaahookuptoday1.com
 0.0.0.0 instaboom-hello.site
 0.0.0.0 instadatings-here.life
+0.0.0.0 instadrama.site
 0.0.0.0 instaflirt-book3.com
 0.0.0.0 instahookupclub4.com
 0.0.0.0 instahookupxxx.com
@@ -41490,6 +41493,7 @@
 0.0.0.0 tags.h12-media.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.orquideassp.com
+0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.sprizzy.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.widerplanet.com
