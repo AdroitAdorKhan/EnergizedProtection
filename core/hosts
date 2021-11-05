@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.309
 # Release: 309
-# Entries: 49,718
+# Entries: 49,719
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 05 Nov 21 08:07:01
+# Updated: Fri, 05 Nov 21 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -47397,6 +47397,7 @@
 0.0.0.0 www.cnzz.com
 0.0.0.0 www.codedexchange.com
 0.0.0.0 www.coinjinja.com
+0.0.0.0 www.companionstormyhusk.com
 0.0.0.0 www.complimentsplywood.com
 0.0.0.0 www.computeterrifyingobdurate.com
 0.0.0.0 www.concealedtripssurgical.com
