@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.310
-# Release: 310
-# Entries: 49,771
+# Version: 21.11.311
+# Release: 311
+# Entries: 49,794
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 06 Nov 21 20:07:01
+# Updated: Sun, 07 Nov 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6646,6 +6646,7 @@
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.soup.io
 0.0.0.0 analytics.spankbang.com
+0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 analytics.spreadshirt.de
@@ -7691,6 +7692,7 @@
 0.0.0.0 asgh65tfsdxz.appspot.com
 0.0.0.0 asgorebysschan.com
 0.0.0.0 ashaidbit.club
+0.0.0.0 ashamedbirchpoorly.com
 0.0.0.0 asharbutdints.info
 0.0.0.0 ashcdn.com
 0.0.0.0 ashierbowler.com
@@ -9720,6 +9722,7 @@
 0.0.0.0 bip.presage.io
 0.0.0.0 birdnavy.com
 0.0.0.0 bireoeeifqmpay.com
+0.0.0.0 birevuth.com
 0.0.0.0 birkenstocksandalen.de
 0.0.0.0 birkiesdipyre.com
 0.0.0.0 birlerskababs.com
@@ -11947,6 +11950,7 @@
 0.0.0.0 chigloxixa.com
 0.0.0.0 childselect.com
 0.0.0.0 chiliadv.com
+0.0.0.0 chillypublishthird.com
 0.0.0.0 chiltogi.com
 0.0.0.0 chimachinenow.com
 0.0.0.0 chimaerason.com
@@ -13444,6 +13448,7 @@
 0.0.0.0 consentedconscientious.com
 0.0.0.0 consentrenovate.com
 0.0.0.0 consequence.technoratimedia.com
+0.0.0.0 consequentlyinmate.com
 0.0.0.0 conservesoy.com
 0.0.0.0 consideratepronouncedcar.com
 0.0.0.0 considerationcannotdelicatessen.com
@@ -13664,6 +13669,7 @@
 0.0.0.0 corneey.com
 0.0.0.0 cornerbut.com
 0.0.0.0 cornfloweramnesty.com
+0.0.0.0 cornflowershallow.com
 0.0.0.0 corona-virus-map.com
 0.0.0.0 corp-ldap.openx.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
@@ -14597,6 +14603,7 @@
 0.0.0.0 d3uc4wuqnt61m1.cloudfront.net
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d3vlmqse19ukgu.cloudfront.net
+0.0.0.0 d41.co
 0.0.0.0 d4216163.api.splkmobile.com
 0.0.0.0 d4a77d8bc81ae17.com
 0.0.0.0 d4c58932ad.91475d578d.com
@@ -15284,6 +15291,7 @@
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detecteddesigningspirited.com
 0.0.0.0 detectionrepresentationquasi.com
+0.0.0.0 detectivescalamity.com
 0.0.0.0 detectivesrecoilatmospheric.com
 0.0.0.0 detectorvenomouscutlery.com
 0.0.0.0 detektiv-agency.at
@@ -17536,6 +17544,7 @@
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events30.adcolony.com
 0.0.0.0 events3alt.adcolony.com
+0.0.0.0 eventsancientreject.com
 0.0.0.0 eventsapi.grocerkey.com
 0.0.0.0 eventstream.dodopizza.com
 0.0.0.0 eventtracking-log.services.video.ibm.com
@@ -18704,6 +18713,7 @@
 0.0.0.0 formalyzer.com
 0.0.0.0 formationconservation.com
 0.0.0.0 formationdenehurt.com
+0.0.0.0 formattortoise.com
 0.0.0.0 formerdrearybiopsy.com
 0.0.0.0 formisimo.com
 0.0.0.0 forms.trafficon.co
@@ -19360,6 +19370,7 @@
 0.0.0.0 gardourd.com
 0.0.0.0 garglesoon.com
 0.0.0.0 garlicpool.org
+0.0.0.0 garmentsdraught.com
 0.0.0.0 garmineoutlet.com
 0.0.0.0 garminproductstore4us.com
 0.0.0.0 garminworldmaps.com
@@ -20959,6 +20970,7 @@
 0.0.0.0 heefaith.net
 0.0.0.0 heellucent.com
 0.0.0.0 heeteefu.com
+0.0.0.0 heextending.com
 0.0.0.0 hegreeks.com
 0.0.0.0 hegrem.com
 0.0.0.0 hehraybryciyls.com
@@ -20970,6 +20982,7 @@
 0.0.0.0 heixbai.com
 0.0.0.0 heldenbuch.de
 0.0.0.0 helessenge.club
+0.0.0.0 helicopterskull.com
 0.0.0.0 helix.inmobi.com
 0.0.0.0 hellastyle.com
 0.0.0.0 hellersdunnage.com
@@ -23267,6 +23280,7 @@
 0.0.0.0 jcount.com
 0.0.0.0 jcxyensduaeed.info
 0.0.0.0 jdata.vidmatefilm.org
+0.0.0.0 jdclredir.com
 0.0.0.0 jdd01.198game.net
 0.0.0.0 jddjj4j4j.000webhostapp.com
 0.0.0.0 jdjjegellowd.duckdns.org
@@ -24443,6 +24457,7 @@
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
 0.0.0.0 laughdrum.com
+0.0.0.0 laughedaffront.com
 0.0.0.0 laughterpropel.com
 0.0.0.0 lauhefoo.com
 0.0.0.0 lauhoosh.net
@@ -24466,6 +24481,7 @@
 0.0.0.0 lavechefantast.com
 0.0.0.0 laveerscurf.com
 0.0.0.0 lavender64369.com
+0.0.0.0 lavishnessrealistic.com
 0.0.0.0 lavishvanish.com
 0.0.0.0 lavoz.report-uri.io
 0.0.0.0 lawareenolatman.com
@@ -27618,6 +27634,7 @@
 0.0.0.0 muffinyourself.com
 0.0.0.0 muffledgleeful.com
 0.0.0.0 mugaskems.com
+0.0.0.0 muggedlancemutilate.com
 0.0.0.0 mughaymil.site
 0.0.0.0 mugleafly.com
 0.0.0.0 mugpothop.com
@@ -28641,6 +28658,7 @@
 0.0.0.0 norep-layamazoon.wootraining.certificacion.cl
 0.0.0.0 noretia.com
 0.0.0.0 norkk.ga
+0.0.0.0 normallydemandedalter.com
 0.0.0.0 normandydeclare.com
 0.0.0.0 normkela.com
 0.0.0.0 normugtog.com
@@ -30640,6 +30658,7 @@
 0.0.0.0 paintifiercute.club
 0.0.0.0 paintplantation.com
 0.0.0.0 paiptoaz.com
+0.0.0.0 pairextent.com
 0.0.0.0 paishancho17.top
 0.0.0.0 paishuno.net
 0.0.0.0 pakistant.club
@@ -34184,6 +34203,7 @@
 0.0.0.0 powerfulrumbleshrewd.com
 0.0.0.0 powerlinks.com
 0.0.0.0 powermaster.s.xoxknct.com
+0.0.0.0 powermelting.com
 0.0.0.0 powersaver.s.xoxknct.com
 0.0.0.0 powersitemainservfjr.org
 0.0.0.0 powersol.de
@@ -38246,6 +38266,7 @@
 0.0.0.0 servedby.rlnads.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbysmart.com
+0.0.0.0 servedearest.com
 0.0.0.0 servehub.info
 0.0.0.0 servemeads.com
 0.0.0.0 server-0.sjose.uunet.speedera.net
@@ -41162,6 +41183,7 @@
 0.0.0.0 swiftlystudsteed.com
 0.0.0.0 swifty-cdn.perfops.io
 0.0.0.0 swimminghardworkingowners.com
+0.0.0.0 swimmingusersabout.com
 0.0.0.0 swimslope.com
 0.0.0.0 swiss-counter.com
 0.0.0.0 switch.atdmt.com
@@ -49263,6 +49285,7 @@
 0.0.0.0 yogascaldhighjack.com
 0.0.0.0 yogaworkout.page.link
 0.0.0.0 yogore-otoshitai.com
+0.0.0.0 yogurtrole.com
 0.0.0.0 yogyn.com
 0.0.0.0 yokeeroud.com
 0.0.0.0 yoku.pro
