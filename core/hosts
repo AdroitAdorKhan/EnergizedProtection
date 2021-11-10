@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.314
-# Release: 314
-# Entries: 49,968
+# Version: 21.11.315
+# Release: 315
+# Entries: 49,975
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 10 Nov 21 20:07:02
+# Updated: Thu, 11 Nov 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25456,6 +25456,7 @@
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.umengcloud.com
+0.0.0.0 logs.viadata.store
 0.0.0.0 logs.vlitag.com
 0.0.0.0 logs.xtremeserve.xyz
 0.0.0.0 logs.zedo.com
@@ -38569,6 +38570,7 @@
 0.0.0.0 sexual-meeting5.com
 0.0.0.0 sexual-partner-choice5.com
 0.0.0.0 sexual-partner5.com
+0.0.0.0 sexualg.host
 0.0.0.0 sexualpartner3.com
 0.0.0.0 sexualpitfall.com
 0.0.0.0 sexvertise.com
@@ -39296,6 +39298,7 @@
 0.0.0.0 smartest.click
 0.0.0.0 smarthouseforum.ru
 0.0.0.0 smartlnk.com
+0.0.0.0 smartmnews.pro
 0.0.0.0 smartnews-ads.com
 0.0.0.0 smartocto.com
 0.0.0.0 smartoffer.site
@@ -42230,6 +42233,7 @@
 0.0.0.0 theoceanroomsbirmingham.com
 0.0.0.0 theonecdn.com
 0.0.0.0 theonlygames.com
+0.0.0.0 theoreviver.cam
 0.0.0.0 thepattayanews.growadvertising.com
 0.0.0.0 thephones.net
 0.0.0.0 thephotostick.com
@@ -43852,6 +43856,7 @@
 0.0.0.0 tracking.sumatoad.com
 0.0.0.0 tracking.supreminor.com
 0.0.0.0 tracking.surveycheck.com
+0.0.0.0 tracking.swogo.net
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.taptica.com
 0.0.0.0 tracking.target2sell.com
@@ -45918,6 +45923,7 @@
 0.0.0.0 vltvservices.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vluki.info
+0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vmhzvqzx.com
 0.0.0.0 vmm-pixel.invitemedia.com
 0.0.0.0 vmmpxl.com
@@ -46206,6 +46212,7 @@
 0.0.0.0 wackotracko.com
 0.0.0.0 wadauthy.net
 0.0.0.0 waddlegrammind.com
+0.0.0.0 wadiryphi.pro
 0.0.0.0 wadsotch.com
 0.0.0.0 wafflesgenuine.com
 0.0.0.0 wafmedia6.com
