@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.315
 # Release: 315
-# Entries: 50,030
+# Entries: 50,031
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 11 Nov 21 08:07:02
+# Updated: Thu, 11 Nov 21 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -18651,6 +18651,7 @@
 0.0.0.0 flyertown.ca
 0.0.0.0 flyfuk.com
 0.0.0.0 flygo.ru
+0.0.0.0 flyingbuddhadesign.com
 0.0.0.0 flymining.cloud
 0.0.0.0 flymob.com
 0.0.0.0 flyrailwaydane.com
