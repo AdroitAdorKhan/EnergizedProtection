@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.320
-# Release: 320
-# Entries: 50,548
+# Version: 21.11.321
+# Release: 321
+# Entries: 50,550
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 16 Nov 21 20:07:02
+# Updated: Wed, 17 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19894,6 +19894,7 @@
 0.0.0.0 gfxa.sheetmusicplus.com
 0.0.0.0 gfycat-com.videoplayerhub.com
 0.0.0.0 gfyufuhhihioh17.site
+0.0.0.0 gg.bet
 0.0.0.0 gg.caixin.com
 0.0.0.0 ggafb.com
 0.0.0.0 ggbagsale.com
@@ -39759,6 +39760,7 @@
 0.0.0.0 snowbootdealss.club
 0.0.0.0 snowdayonline.xyz
 0.0.0.0 snowgear.com
+0.0.0.0 snowplow-pixel.tradingview.com
 0.0.0.0 snowsignal.com
 0.0.0.0 snwpqybkb.com
 0.0.0.0 snynbsgim.xyz
