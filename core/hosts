@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.322
 # Release: 322
-# Entries: 50,626
+# Entries: 50,628
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 18 Nov 21 00:07:02
+# Updated: Thu, 18 Nov 21 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12029,6 +12029,7 @@
 0.0.0.0 chewcoat.com
 0.0.0.0 chewdeadlocksummary.com
 0.0.0.0 chewsrompedhemp.com
+0.0.0.0 chezalice.co.za
 0.0.0.0 chi-insights-collector.newrelic.com
 0.0.0.0 chi-staging-collector-pool.newrelic.com
 0.0.0.0 chi.outbrain.com
@@ -50672,6 +50673,7 @@
 0.0.0.0 zz.trafficfabrik.com
 0.0.0.0 zz3r0.com
 0.0.0.0 zzdb5p4upiug.com
+0.0.0.0 zzghcckpzlhob.com
 0.0.0.0 zzoacwqfw.com
 0.0.0.0 zzomiuob.com
 0.0.0.0 zzz.onion.pet
