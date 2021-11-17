@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.321
-# Release: 321
-# Entries: 50,615
+# Version: 21.11.322
+# Release: 322
+# Entries: 50,626
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 17 Nov 21 20:07:02
+# Updated: Thu, 18 Nov 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4341,6 +4341,7 @@
 0.0.0.0 ads.sofcom.com.au
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.sonobi.com
+0.0.0.0 ads.sophiapoole.com
 0.0.0.0 ads.space.com
 0.0.0.0 ads.sparkflow.net
 0.0.0.0 ads.speakol.com
@@ -5827,6 +5828,7 @@
 0.0.0.0 aleassbun.site
 0.0.0.0 alefrfobkoxbgaf.com
 0.0.0.0 aleilu.com
+0.0.0.0 aleks-avto-rnd.ru
 0.0.0.0 alenty.com
 0.0.0.0 alephd.com
 0.0.0.0 alertafterthought.com
@@ -7426,6 +7428,7 @@
 0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 applebarq.com
 0.0.0.0 applicateco.space
+0.0.0.0 application-best-mine-installs.cyou
 0.0.0.0 applicationgrabb.net
 0.0.0.0 applifier.com
 0.0.0.0 applink.site
@@ -17520,6 +17523,7 @@
 0.0.0.0 ethamake.club
 0.0.0.0 ethemuseu.biz
 0.0.0.0 etheopportu.biz
+0.0.0.0 ether-give21.net
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
 0.0.0.0 ethereumads.com
@@ -18459,6 +18463,7 @@
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 feyl4mh5to.com
 0.0.0.0 feylibertad.org
+0.0.0.0 feyxyguwy.com
 0.0.0.0 ff.uc.cn
 0.0.0.0 ff1c0cc5.api.splkmobile.com
 0.0.0.0 ff382a55.api.splkmobile.com
@@ -22823,6 +22828,7 @@
 0.0.0.0 inoculatebroadlyduke.com
 0.0.0.0 inoculatemention.com
 0.0.0.0 inoplugs.com
+0.0.0.0 inoradde.com
 0.0.0.0 inorbitad.com
 0.0.0.0 inoughou.net
 0.0.0.0 inovatik.com
@@ -24359,6 +24365,7 @@
 0.0.0.0 kksmtuxwcdxdmy.xyz
 0.0.0.0 kl-westerntraining.de
 0.0.0.0 klakus.com
+0.0.0.0 klalin.com
 0.0.0.0 klamm-counter.de
 0.0.0.0 klapenlyidveln.stream
 0.0.0.0 klartext.me
@@ -37711,6 +37718,7 @@
 0.0.0.0 ruthlessmilk.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 ruthowhagi.com
+0.0.0.0 rutius.com
 0.0.0.0 rutorc6mqdinc4cz.onion.pet
 0.0.0.0 rutpunishsnitch.com
 0.0.0.0 rutrk.org
@@ -39096,6 +39104,7 @@
 0.0.0.0 shetarget.com
 0.0.0.0 shewop.com
 0.0.0.0 shexawhy.net
+0.0.0.0 shib-inu.cc
 0.0.0.0 shicywheze.com
 0.0.0.0 shieldof5adam.com
 0.0.0.0 shieldsecuritysolutions.ca
@@ -44612,6 +44621,7 @@
 0.0.0.0 trk.quite-bag-seed-catch.xyz
 0.0.0.0 trk.selection-foot-enough-pen.xyz
 0.0.0.0 trk.sensic.net
+0.0.0.0 trk.setting-nervous-steady-noted.xyz
 0.0.0.0 trk.shopstylecollective.com
 0.0.0.0 trk.stage.kissmetrics.com
 0.0.0.0 trk.stream-secure.stream
@@ -46872,6 +46882,7 @@
 0.0.0.0 webanalytics.btelligent.net
 0.0.0.0 webanalytics.cfapps.eu10.hana.ondemand.com
 0.0.0.0 webanalytics.tm00.com
+0.0.0.0 webapplicationminefree.cyou
 0.0.0.0 webassembly.stream
 0.0.0.0 webatam.com
 0.0.0.0 webcamonline.xyz
