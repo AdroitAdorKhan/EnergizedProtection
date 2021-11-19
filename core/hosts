@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.323
-# Release: 323
-# Entries: 50,849
+# Version: 21.11.324
+# Release: 324
+# Entries: 50,855
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 19 Nov 21 20:07:01
+# Updated: Sat, 20 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3379,6 +3379,7 @@
 0.0.0.0 adblock.plugrush.com
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adblockervideo.com
+0.0.0.0 adblockextension.online
 0.0.0.0 adblockstream.com
 0.0.0.0 adblockstrtape.link
 0.0.0.0 adblockstrtech.link
@@ -19204,6 +19205,7 @@
 0.0.0.0 freecouponbiz.com
 0.0.0.0 freedating-hookup.life
 0.0.0.0 freedirtygame.com
+0.0.0.0 freedownloadfiles.org
 0.0.0.0 freeevpn.info
 0.0.0.0 freefeds.click
 0.0.0.0 freefeds.com
@@ -39103,6 +39105,7 @@
 0.0.0.0 sextubeweb.com
 0.0.0.0 sexual-meeting5.com
 0.0.0.0 sexual-partner-choice5.com
+0.0.0.0 sexual-partner2.com
 0.0.0.0 sexual-partner5.com
 0.0.0.0 sexualg.host
 0.0.0.0 sexualpartner3.com
@@ -41908,6 +41911,7 @@
 0.0.0.0 sydneygfpink.com
 0.0.0.0 sydneyuni.demdex.net
 0.0.0.0 sydneyuni.tt.omtrdc.net
+0.0.0.0 syduzothu.pro
 0.0.0.0 sylewhywhe.com
 0.0.0.0 syllableperpetrator.com
 0.0.0.0 sylmyar.pw
@@ -44948,6 +44952,7 @@
 0.0.0.0 tube.ac
 0.0.0.0 tube.buzzoola.com
 0.0.0.0 tube.paperstreetcash.com
+0.0.0.0 tube911.com
 0.0.0.0 tubeadnetwork.com
 0.0.0.0 tubeadv.com
 0.0.0.0 tubeadvertising.eu
@@ -50436,6 +50441,7 @@
 0.0.0.0 ypaletdevelspe.info
 0.0.0.0 ypmadserver.com
 0.0.0.0 ypreferred.com
+0.0.0.0 yprocedent.co
 0.0.0.0 yps.link
 0.0.0.0 yqeuu.com
 0.0.0.0 yqezqofkb1nnmz.com
