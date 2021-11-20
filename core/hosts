@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.325
 # Release: 325
-# Entries: 50,943
+# Entries: 50,945
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 21 Nov 21 00:07:01
+# Updated: Sun, 21 Nov 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13783,6 +13783,7 @@
 0.0.0.0 coomosha.com
 0.0.0.0 coop.report-uri.io
 0.0.0.0 cooperatecleave.com
+0.0.0.0 cooperatetimes.com
 0.0.0.0 cooponline.de
 0.0.0.0 coordinatedbedroom.com
 0.0.0.0 coordinatedcoat.com
@@ -29129,6 +29130,7 @@
 0.0.0.0 nmywwgnnkmud.com
 0.0.0.0 nners.ero-advertising.com
 0.0.0.0 nnkeug.com
+0.0.0.0 nnpcgruops.com
 0.0.0.0 nnplk.bemobtrk.com
 0.0.0.0 nnvkh.com
 0.0.0.0 no-minimum.com
