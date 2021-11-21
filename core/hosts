@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.325
-# Release: 325
-# Entries: 51,028
+# Version: 21.11.326
+# Release: 326
+# Entries: 51,030
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 21 Nov 21 20:07:01
+# Updated: Mon, 22 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -40536,6 +40536,7 @@
 0.0.0.0 spellsalsa.com
 0.0.0.0 spendcrazy.net
 0.0.0.0 spendpest.com
+0.0.0.0 spent.com.pl
 0.0.0.0 spentforearmprovenance.com
 0.0.0.0 speop.com
 0.0.0.0 sperans-beactor.com
@@ -48113,6 +48114,7 @@
 0.0.0.0 www.30178855.com
 0.0.0.0 www.365097365.com
 0.0.0.0 www.365agen.org
+0.0.0.0 www.365huo.xyz
 0.0.0.0 www.3ds.ero-advertising.com
 0.0.0.0 www.4anners.ero-advertising.com
 0.0.0.0 www.5rocks.io
