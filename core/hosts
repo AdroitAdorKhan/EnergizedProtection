@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.327
-# Release: 327
-# Entries: 52,657
+# Version: 21.11.328
+# Release: 328
+# Entries: 52,661
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 23 Nov 21 20:07:01
+# Updated: Wed, 24 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -15499,6 +15499,7 @@
 0.0.0.0 ddfcash.com
 0.0.0.0 ddishucons.xyz
 0.0.0.0 dditscdn.com
+0.0.0.0 ddkakjxy.top
 0.0.0.0 ddl.okgoodmobi.com
 0.0.0.0 ddl8.data.hu
 0.0.0.0 ddlesswale.co
@@ -24760,6 +24761,7 @@
 0.0.0.0 json.moatads.com
 0.0.0.0 jsonip.com
 0.0.0.0 jsonp.moatads.com
+0.0.0.0 jsontdsexit.com
 0.0.0.0 jspassport.ssl.qhimg.com
 0.0.0.0 jsplayer.seedr.ru
 0.0.0.0 jsretra.com
@@ -36159,6 +36161,7 @@
 0.0.0.0 primechoice.ru
 0.0.0.0 primemed.shop
 0.0.0.0 primemoversynergies.com
+0.0.0.0 primerprizezone.life
 0.0.0.0 primeshe.com
 0.0.0.0 primetime.net
 0.0.0.0 primevalcherries.com
@@ -41989,6 +41992,7 @@
 0.0.0.0 srv.flixsport.co
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv.plerdy.com
+0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 srv.wfsdragon.ru
 0.0.0.0 srv26.adcash.com
 0.0.0.0 srv2trking.com
