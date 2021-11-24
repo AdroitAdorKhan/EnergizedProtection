@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.328
 # Release: 328
-# Entries: 52,720
+# Entries: 52,722
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 24 Nov 21 08:07:01
+# Updated: Wed, 24 Nov 21 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -48738,6 +48738,7 @@
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 webinstats.com
 0.0.0.0 webiqonline.com
+0.0.0.0 weblabor.com.br
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblist.de
@@ -50627,6 +50628,7 @@
 0.0.0.0 www.mopub.com
 0.0.0.0 www.mosece.com
 0.0.0.0 www.mosquedestitute.com
+0.0.0.0 www.movementsspentlist.com
 0.0.0.0 www.movieads.ero-advertising.com
 0.0.0.0 www.mpuls.ru
 0.0.0.0 www.msa.hinet.net
