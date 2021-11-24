@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.328
-# Release: 328
-# Entries: 52,757
+# Version: 21.11.329
+# Release: 329
+# Entries: 52,767
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 24 Nov 21 20:07:02
+# Updated: Thu, 25 Nov 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13608,6 +13608,7 @@
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.sophi.io
 0.0.0.0 collector.statowl.com
+0.0.0.0 collector.szlcsc.com
 0.0.0.0 collector.trendmd.com
 0.0.0.0 collector.unlockxh3.com
 0.0.0.0 collector.unsplash.com
@@ -14985,6 +14986,7 @@
 0.0.0.0 d1b240xv9h0q8y.cloudfront.net
 0.0.0.0 d1bi6hxlc51jjw.cloudfront.net
 0.0.0.0 d1c4d437f10.com
+0.0.0.0 d1cw0c50l8jv65.cloudfront.net
 0.0.0.0 d1cykymlllue3h.cloudfront.net
 0.0.0.0 d1d5p7uxjr4j28.cloudfront.net
 0.0.0.0 d1dagyb1ctngx1.cloudfront.net
@@ -18913,6 +18915,7 @@
 0.0.0.0 fcdnmkc.com
 0.0.0.0 fce5b73e36f094a6e20e98769770c004.safeframe.googlesyndication.com
 0.0.0.0 fclick.baidu.com
+0.0.0.0 fclog.baidu.com
 0.0.0.0 fcs.ovh
 0.0.0.0 fd555b2faf5a40c.com
 0.0.0.0 fd6fq54s6df541q23sdxfg.eu
@@ -22580,6 +22583,7 @@
 0.0.0.0 hq58.appsflyer.com
 0.0.0.0 hq61.appsflyer.com
 0.0.0.0 hqengremtucxtaj.xyz
+0.0.0.0 hqmdsobdb.top
 0.0.0.0 hqpass.com
 0.0.0.0 hqr9q6f30371.com
 0.0.0.0 hqs1.cnzz.com
@@ -27006,6 +27010,7 @@
 0.0.0.0 luvdaleschool.com
 0.0.0.0 luvmov.com
 0.0.0.0 luvnrybocrcgl.com
+0.0.0.0 luwiakgcxhclz.com
 0.0.0.0 lux39club.com
 0.0.0.0 luxadv.com
 0.0.0.0 luxins.net
@@ -37112,6 +37117,7 @@
 0.0.0.0 putrr8.com
 0.0.0.0 putrunsspawn.com
 0.0.0.0 putstairboor.com
+0.0.0.0 puturebraving.com
 0.0.0.0 puwpush.com
 0.0.0.0 puzatron.site
 0.0.0.0 puzzle-recomd.zenkube.com
@@ -39313,6 +39319,7 @@
 0.0.0.0 s.symcd.com
 0.0.0.0 s.thwpp.com
 0.0.0.0 s.umeng.com
+0.0.0.0 s.union.360.cn
 0.0.0.0 s.update.adroll.com
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.mopub.com
@@ -46042,6 +46049,7 @@
 0.0.0.0 trackingapi.cloudapp.net
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 trackingapi.meinprospekt.de
+0.0.0.0 trackingapproval.com
 0.0.0.0 trackingcn.rayjump.com
 0.0.0.0 trackingfield.info
 0.0.0.0 trackingsoft.com
@@ -47022,6 +47030,7 @@
 0.0.0.0 understandingharmoniousillegal.com
 0.0.0.0 understatementcrystal.com
 0.0.0.0 underthepresserfoot.com
+0.0.0.0 underthfeove.one
 0.0.0.0 undertone.com
 0.0.0.0 underwards.site
 0.0.0.0 underwearnavigable.com
@@ -47422,6 +47431,7 @@
 0.0.0.0 utarget.co.uk
 0.0.0.0 utarget.pro
 0.0.0.0 utarget.ru
+0.0.0.0 utcatholicycl.co
 0.0.0.0 utecer.com
 0.0.0.0 utenod.com
 0.0.0.0 utforsdenmarkas.tt.omtrdc.net
