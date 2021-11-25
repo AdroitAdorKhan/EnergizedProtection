@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.330
 # Release: 330
-# Entries: 52,866
+# Entries: 52,867
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Nov 21 00:07:01
+# Updated: Fri, 26 Nov 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5227,6 +5227,7 @@
 0.0.0.0 adventory.com
 0.0.0.0 adventurefeeds.com
 0.0.0.0 adventurelab.page.link
+0.0.0.0 adventurouscomprehendhold.com
 0.0.0.0 adver10.clickmon.co.kr
 0.0.0.0 adver11.clickmon.co.kr
 0.0.0.0 adver7.clickmon.co.kr
