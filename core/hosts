@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.331
 # Release: 331
-# Entries: 52,976
+# Entries: 52,979
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 27 Nov 21 00:07:01
+# Updated: Sat, 27 Nov 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -27894,6 +27894,7 @@
 0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 mcdp.outbrain.com
 0.0.0.0 mcdstorage.com
+0.0.0.0 mcdupe.com
 0.0.0.0 mci1.co.kr
 0.0.0.0 mcinnis.net
 0.0.0.0 mcjppoabgfa.top
@@ -40702,6 +40703,7 @@
 0.0.0.0 shadesconfrontsickle.com
 0.0.0.0 shadescustomwindowtinting.com
 0.0.0.0 shadowlegends.pro
+0.0.0.0 shadyclient.net
 0.0.0.0 shaexowi.com
 0.0.0.0 shaftalong.com
 0.0.0.0 shaidolt.com
@@ -48623,6 +48625,7 @@
 0.0.0.0 vvdccftbbquwbjwtbsvdrqxp.me
 0.0.0.0 vvdior.com
 0.0.0.0 vvip.cnzz.com
+0.0.0.0 vvqknwws.com
 0.0.0.0 vvvwalgkgnivoqg.top
 0.0.0.0 vw89vk.edvfwlacluo.com
 0.0.0.0 vware.duckdns.org
