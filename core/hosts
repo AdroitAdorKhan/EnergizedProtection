@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.11.331
-# Release: 331
-# Entries: 53,060
+# Version: 21.11.332
+# Release: 332
+# Entries: 53,066
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 27 Nov 21 20:07:02
+# Updated: Sun, 28 Nov 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12303,6 +12303,7 @@
 0.0.0.0 chatterboxtardy.com
 0.0.0.0 chaucha.cl
 0.0.0.0 chauksoa.net
+0.0.0.0 chaumsee.net
 0.0.0.0 chaussew.net
 0.0.0.0 chaussizers.cam
 0.0.0.0 chautcho.com
@@ -13006,6 +13007,7 @@
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cm.adskeeper.co.uk
 0.0.0.0 cm.adskeeper.com
+0.0.0.0 cm.bilibili.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cm.gcm.ksmobile.com
 0.0.0.0 cm.mgid.com
@@ -28653,6 +28655,7 @@
 0.0.0.0 mizonaelec.com
 0.0.0.0 mj23.eulerian.com
 0.0.0.0 mjbuuxt7l18r.com
+0.0.0.0 mjcybyhh.top
 0.0.0.0 mjgyxhlyjmqox.top
 0.0.0.0 mjp.zimad.com
 0.0.0.0 mjsqm.top
@@ -38942,6 +38945,7 @@
 0.0.0.0 rmndme.com
 0.0.0.0 rmtwnrwnhu.com
 0.0.0.0 rmuaabjkke.top
+0.0.0.0 rnakkaybh.com
 0.0.0.0 rnalismmin.biz
 0.0.0.0 rndchandelureon.com
 0.0.0.0 rndhaunteran.com
@@ -52637,6 +52641,7 @@
 0.0.0.0 yqqlupkasbhmdj.xyz
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yref67.cfeucdn.com
+0.0.0.0 yrhnlyshnnataoa.top
 0.0.0.0 yrmkp.instagirlshub.com
 0.0.0.0 yrqlopjae.top
 0.0.0.0 yrwoyfxmaonn.top
@@ -52697,6 +52702,7 @@
 0.0.0.0 yvoria.com
 0.0.0.0 yvtdjpxkq.top
 0.0.0.0 yvzgazds6d.com
+0.0.0.0 ywdvmodfua.top
 0.0.0.0 yx1.duckdns.org
 0.0.0.0 yxebuygicief.top
 0.0.0.0 yxgsmdnlmk.top
