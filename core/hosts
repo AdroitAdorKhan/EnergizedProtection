@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.11.331
 # Release: 331
-# Entries: 53,032
+# Entries: 53,033
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 27 Nov 21 08:07:01
+# Updated: Sat, 27 Nov 21 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -50428,6 +50428,7 @@
 0.0.0.0 www.dtcpdvnojquf.com
 0.0.0.0 www.duplichiamo.it
 0.0.0.0 www.durationmedia.net
+0.0.0.0 www.durationscuffle.com
 0.0.0.0 www.dutrag.com
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dynatech-int.com
