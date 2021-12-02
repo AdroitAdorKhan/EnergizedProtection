@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.336
-# Release: 336
-# Entries: 53,716
+# Version: 21.12.337
+# Release: 337
+# Entries: 53,724
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 02 Dec 21 20:07:01
+# Updated: Fri, 03 Dec 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2594,6 +2594,7 @@
 0.0.0.0 a2.contentabc.com
 0.0.0.0 a2.medialytics.com
 0.0.0.0 a22f0d8201ade09fa3.com
+0.0.0.0 a23-trk.xyz
 0.0.0.0 a24csp.report-uri.io
 0.0.0.0 a25e827a2f.3659a58891.com
 0.0.0.0 a26d31d5d6986cbe.com
@@ -14024,6 +14025,7 @@
 0.0.0.0 connectad.io
 0.0.0.0 connected-by.connectad.io
 0.0.0.0 connectedegoabrasive.com
+0.0.0.0 connectedit.co
 0.0.0.0 connectedsheets.page.link
 0.0.0.0 connectif.cloud
 0.0.0.0 connectignite.com
@@ -15203,6 +15205,7 @@
 0.0.0.0 d2g8ksx1za632p.cloudfront.net
 0.0.0.0 d2ga0x5nt7ml6e.cloudfront.net
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
+0.0.0.0 d2i4wzwe8j1np9.cloudfront.net
 0.0.0.0 d2ieqaiwehnqqp.cloudfront.net
 0.0.0.0 d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
@@ -16509,6 +16512,7 @@
 0.0.0.0 dlfvgndsdfsn.com
 0.0.0.0 dlgzith499dss.cloudfront.net
 0.0.0.0 dlhpxjshxibf.top
+0.0.0.0 dliketobe.co
 0.0.0.0 dlkfm8bqz0bpx.cloudfront.net
 0.0.0.0 dlmonitize.com
 0.0.0.0 dlnsjjyzvi1x.com
@@ -24826,6 +24830,7 @@
 0.0.0.0 jddjj4j4j.000webhostapp.com
 0.0.0.0 jdjjegellowd.duckdns.org
 0.0.0.0 jdk8m.bemobtrk.com
+0.0.0.0 jdufvnoytl.com
 0.0.0.0 jdzbcdnd.com
 0.0.0.0 je8fn.com
 0.0.0.0 jealousabstainhut.com
@@ -30099,6 +30104,7 @@
 0.0.0.0 navyembarrassment.com
 0.0.0.0 navyyanltd.com
 0.0.0.0 naytev.com
+0.0.0.0 nazarickol.com
 0.0.0.0 nazarvitalik.000webhostapp.com
 0.0.0.0 nbanownews.com
 0.0.0.0 nbastreamio.imageshack.host
@@ -36169,6 +36175,7 @@
 0.0.0.0 plsrcmp.com
 0.0.0.0 pltamaxr.com
 0.0.0.0 pluckypocket.com
+0.0.0.0 plucta.com
 0.0.0.0 plufdsa.com
 0.0.0.0 plufdsb.com
 0.0.0.0 plugerr.com
@@ -42071,6 +42078,7 @@
 0.0.0.0 sneakerspalette-de.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 sneakystew.com
+0.0.0.0 snealp.com
 0.0.0.0 snegol.com
 0.0.0.0 snessubsets.pro
 0.0.0.0 sngakyf.com
