@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.337
-# Release: 337
-# Entries: 53,824
+# Version: 21.12.338
+# Release: 338
+# Entries: 53,838
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 03 Dec 21 20:07:02
+# Updated: Sat, 04 Dec 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8772,6 +8772,7 @@
 0.0.0.0 awakenyourmusic.com
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awardpodstab.com
+0.0.0.0 awardpool.com
 0.0.0.0 awarealley.com
 0.0.0.0 awarentew.xyz
 0.0.0.0 awasete.com
@@ -12926,6 +12927,7 @@
 0.0.0.0 clicks-trf.adhese.com
 0.0.0.0 clicks-vrt.adhese.com
 0.0.0.0 clicks.about.com
+0.0.0.0 clicks.affstrack.com
 0.0.0.0 clicks.dichtbij.adhese.com
 0.0.0.0 clicks.enchante.adhese.com
 0.0.0.0 clicks.h.hepsiburada.com
@@ -12936,6 +12938,7 @@
 0.0.0.0 clickscloud.net
 0.0.0.0 clicksen.se
 0.0.0.0 clickserv.pixel.ad
+0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clickserver.googleads.com
 0.0.0.0 clicksgear.com
 0.0.0.0 clickshift.com
@@ -15309,6 +15312,7 @@
 0.0.0.0 d3ou4areduq72f.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
 0.0.0.0 d3p8w7to4066sy.cloudfront.net
+0.0.0.0 d3pel2vlstnlu9.cloudfront.net
 0.0.0.0 d3pk579obpqv7b.cloudfront.net
 0.0.0.0 d3ra9679oeq3gx.cloudfront.net
 0.0.0.0 d3uc4wuqnt61m1.cloudfront.net
@@ -18159,6 +18163,7 @@
 0.0.0.0 eptrulinebisc.xyz
 0.0.0.0 eptxgjnqrrfvao.top
 0.0.0.0 epu.sh
+0.0.0.0 eputfeable.co
 0.0.0.0 eq97f-tg2ee.ads.tremorhub.com
 0.0.0.0 eq97f.publishers.tremorhub.com
 0.0.0.0 eqads.com
@@ -19927,6 +19932,7 @@
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic3.com
 0.0.0.0 fpeiatypfcsthka.xyz
+0.0.0.0 fpkvvuaieo.top
 0.0.0.0 fprnt.com
 0.0.0.0 fprxfcch.top
 0.0.0.0 fpxiridje.top
@@ -21370,6 +21376,7 @@
 0.0.0.0 goawayn0w.com
 0.0.0.0 gobeerta.net
 0.0.0.0 gobicyice.com
+0.0.0.0 gobiidinshore.com
 0.0.0.0 gobmodfoe.com
 0.0.0.0 gobovoul.net
 0.0.0.0 gobrashop.com
@@ -23493,6 +23500,7 @@
 0.0.0.0 ihogaetw.com
 0.0.0.0 ihre-hausverwalter.de
 0.0.0.0 ihvdflxjtdsgnqb.xyz
+0.0.0.0 iijkqhjmuf.top
 0.0.0.0 iilab.cmcm.com
 0.0.0.0 iiprpq1bsedg.com
 0.0.0.0 iivt.com
@@ -30593,6 +30601,7 @@
 0.0.0.0 ngc.aliyunceng.com
 0.0.0.0 ngdp-staging.flurry.com
 0.0.0.0 ngdqifbomcpcju.xyz
+0.0.0.0 ngecauuks.co
 0.0.0.0 ngecity.com
 0.0.0.0 ngegas.files.im
 0.0.0.0 ngehochsi.fun
@@ -32408,6 +32417,7 @@
 0.0.0.0 our-internet.com
 0.0.0.0 ourauhoa.net
 0.0.0.0 ourbazzar.com
+0.0.0.0 ourcoolstories.com
 0.0.0.0 oureviewi.club
 0.0.0.0 ourfamilypastime.com
 0.0.0.0 ourhuhact.com
@@ -45117,6 +45127,7 @@
 0.0.0.0 the-best-datings.life
 0.0.0.0 the-digital-market.net
 0.0.0.0 the-get-yourlady.com
+0.0.0.0 the-real-girls.life
 0.0.0.0 the-yourmen2.com
 0.0.0.0 theabundanceshow.com
 0.0.0.0 theadex.com
@@ -46151,6 +46162,7 @@
 0.0.0.0 track.dailyhunt.in
 0.0.0.0 track.dalenetwork.com
 0.0.0.0 track.dannixxx.com
+0.0.0.0 track.date-secure.com
 0.0.0.0 track.dblol.com
 0.0.0.0 track.ddmanager.ru
 0.0.0.0 track.decideinteractive.com
@@ -48066,6 +48078,7 @@
 0.0.0.0 upccz.demdex.net
 0.0.0.0 upcountrypsychiatry.com
 0.0.0.0 upcum.com
+0.0.0.0 update-global.com
 0.0.0.0 update-incentives-rutidosis-pretenceless.xyz
 0.0.0.0 update-information.zzux.com
 0.0.0.0 update-phone-today.com
@@ -49890,6 +49903,7 @@
 0.0.0.0 welcome.espritgames.com
 0.0.0.0 welcomejohncena.pro
 0.0.0.0 welcomingprotective.com
+0.0.0.0 weledying-jessed.com
 0.0.0.0 weliketofuckstrangers.com
 0.0.0.0 wellensten.de
 0.0.0.0 wellensteynjacke.com
