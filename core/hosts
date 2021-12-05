@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.339
-# Release: 339
-# Entries: 54,237
+# Version: 21.12.340
+# Release: 340
+# Entries: 54,239
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Dec 21 20:07:01
+# Updated: Mon, 06 Dec 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11968,6 +11968,7 @@
 0.0.0.0 cdn.espritgames.ru
 0.0.0.0 cdn.exoticads.com
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 cdn.fedsy.xyz
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn.foxpush.net
@@ -41610,6 +41611,7 @@
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 sf9yvla26s5t.com
 0.0.0.0 sfapplog.uc.cn
+0.0.0.0 sfdecpromwjj.com
 0.0.0.0 sfepodownload.mediatek.com
 0.0.0.0 sffoxqnpra.top
 0.0.0.0 sffsdvc.com
