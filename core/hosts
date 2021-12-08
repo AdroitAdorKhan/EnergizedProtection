@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.342
-# Release: 342
-# Entries: 54,890
+# Version: 21.12.343
+# Release: 343
+# Entries: 54,901
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 08 Dec 21 20:07:01
+# Updated: Thu, 09 Dec 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9122,6 +9122,7 @@
 0.0.0.0 back.marketing
 0.0.0.0 back.xiaobao.cmcm.com
 0.0.0.0 backbeatmedia.com
+0.0.0.0 backbone.rossel.tech
 0.0.0.0 backend-ssp.adstudio.cloud
 0.0.0.0 backend.exoclick.com
 0.0.0.0 backend.turtlemobile.com.tw
@@ -18128,6 +18129,7 @@
 0.0.0.0 elsevier.demdex.net
 0.0.0.0 elsevierlimited.tt.omtrdc.net
 0.0.0.0 eltrafiko.com
+0.0.0.0 elvincom.com
 0.0.0.0 elxis-downloads.com
 0.0.0.0 elxont.com
 0.0.0.0 elyconsisterj.club
@@ -24770,6 +24772,7 @@
 0.0.0.0 investigatesupernatural.com
 0.0.0.0 investigatorpertinent.com
 0.0.0.0 investing-bank.com
+0.0.0.0 investing-institute.com
 0.0.0.0 investingchannel-co.videoplayerhub.com
 0.0.0.0 investmentstar.org
 0.0.0.0 investmeny.org
@@ -25807,6 +25810,7 @@
 0.0.0.0 juringupstage.com
 0.0.0.0 juriscope.org
 0.0.0.0 jurjgajux.xyz
+0.0.0.0 jurmus.com
 0.0.0.0 juroptyne.com
 0.0.0.0 juroudaw.com
 0.0.0.0 jursp.com
@@ -38551,6 +38555,7 @@
 0.0.0.0 pw.cnzz.com
 0.0.0.0 pw.gigazine.net
 0.0.0.0 pw.wpu.sh
+0.0.0.0 pwbvoofuoa.top
 0.0.0.0 pwc.tt.omtrdc.net
 0.0.0.0 pwdthucrneyc.top
 0.0.0.0 pweaatek.com
@@ -40086,6 +40091,7 @@
 0.0.0.0 rhinoseo.com
 0.0.0.0 rhinsk.com
 0.0.0.0 rhnanvhiacms3epyo.ay.delivery
+0.0.0.0 rholi.ru
 0.0.0.0 rhombusads.com
 0.0.0.0 rhopalium-convolve-mozettas.xyz
 0.0.0.0 rhqkduodhizrr.com
@@ -44744,6 +44750,7 @@
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 successionflimsy.com
 0.0.0.0 suchshame.com
+0.0.0.0 sucloe.com
 0.0.0.0 sucom.vn
 0.0.0.0 sucteding-regerson.icu
 0.0.0.0 suctioneliminatecongestion.com
@@ -45465,6 +45472,7 @@
 0.0.0.0 tam.outbrain.com
 0.0.0.0 tam.trkn1.com
 0.0.0.0 tamedia.ch
+0.0.0.0 tamgrt.com
 0.0.0.0 tamicytug.com
 0.0.0.0 tams.outbrain.com
 0.0.0.0 tandeperoblitt.info
@@ -48212,6 +48220,7 @@
 0.0.0.0 trusted.de
 0.0.0.0 trustedgatetocontent.com
 0.0.0.0 trustednotice.news
+0.0.0.0 trustiseverything.de
 0.0.0.0 trustmeiamcdn.com
 0.0.0.0 trustworthytopmost.com
 0.0.0.0 trustx.org
@@ -49661,6 +49670,7 @@
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfl81ea28aztw7y3.pro
 0.0.0.0 vfo.voyage-prive.co.uk
+0.0.0.0 vfonahowfakfsta.top
 0.0.0.0 vfptprod.amobee.com
 0.0.0.0 vfvdsati.com
 0.0.0.0 vfw-us.amazon-adsystem.com
@@ -51317,6 +51327,7 @@
 0.0.0.0 wolvescuckooship.com
 0.0.0.0 wolvespermanent.com
 0.0.0.0 womanear.com
+0.0.0.0 womanlimitless.com
 0.0.0.0 wombsaimscary.com
 0.0.0.0 womensvoicesmagazine.com
 0.0.0.0 wonder-ma.com
