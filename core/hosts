@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.344
 # Release: 344
-# Entries: 55,058
+# Entries: 55,061
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Dec 21 00:07:02
+# Updated: Fri, 10 Dec 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10469,6 +10469,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bluematt.me
 0.0.0.0 bluemaulpuffs.com
+0.0.0.0 blueoyster.click
 0.0.0.0 blueparrot.media
 0.0.0.0 blueprod.amobee.com
 0.0.0.0 bluerapport.speedera.net
@@ -26976,6 +26977,7 @@
 0.0.0.0 leadmanagerfx.com
 0.0.0.0 leadmediapartners.com
 0.0.0.0 leadnote.me
+0.0.0.0 leadrebel.io
 0.0.0.0 leadsius.com
 0.0.0.0 leadsleap.com
 0.0.0.0 leadsmonitor.io
@@ -54659,6 +54661,7 @@
 0.0.0.0 yul-delivery-1.sys.adgear.com
 0.0.0.0 yul-delivery-4.sys.adgear.com
 0.0.0.0 yuluna.name
+0.0.0.0 yulunanews.name
 0.0.0.0 yuluobo.com
 0.0.0.0 yum.anydesk.me
 0.0.0.0 yum.kissmetrics.com
