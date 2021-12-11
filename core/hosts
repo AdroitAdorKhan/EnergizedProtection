@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.345
 # Release: 345
-# Entries: 55,220
+# Entries: 55,223
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Dec 21 08:07:02
+# Updated: Sat, 11 Dec 21 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -27828,6 +27828,7 @@
 0.0.0.0 log16.byteoversea.com
 0.0.0.0 log2-useast2a.musical.ly
 0.0.0.0 log2.musical.ly
+0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
 0.0.0.0 log22.makeshop.co.kr
 0.0.0.0 log3.optimizely.com
@@ -45499,6 +45500,7 @@
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.invitemedia.com
+0.0.0.0 t.irtyc.com
 0.0.0.0 t.irtyf.com
 0.0.0.0 t.karte.io
 0.0.0.0 t.kck.st
@@ -53251,6 +53253,7 @@
 0.0.0.0 www.redirect.ero-advertising.com
 0.0.0.0 www.redshell.io
 0.0.0.0 www.redstagcasino.eu
+0.0.0.0 www.reefseasidejunkie.com
 0.0.0.0 www.regionalsuperstitiousfingerprint.com
 0.0.0.0 www.reliablespecified.com
 0.0.0.0 www.relomulnueka.tk
