@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.350
-# Release: 350
-# Entries: 55,813
+# Version: 21.12.351
+# Release: 351
+# Entries: 55,814
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 16 Dec 21 20:07:01
+# Updated: Fri, 17 Dec 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13236,6 +13236,7 @@
 0.0.0.0 clients-staging.adcolony.com
 0.0.0.0 clients.adcolony.com
 0.0.0.0 clientsviolet.com
+0.0.0.0 clifads.com
 0.0.0.0 cliffmuckswiz.com
 0.0.0.0 clik.global-trk.com
 0.0.0.0 climaxcreation.com
