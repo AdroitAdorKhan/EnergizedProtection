@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.352
 # Release: 352
-# Entries: 55,946
+# Entries: 55,948
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 18 Dec 21 12:07:01
+# Updated: Sat, 18 Dec 21 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21776,6 +21776,7 @@
 0.0.0.0 gloatwhisper.com
 0.0.0.0 global-beauty.shop
 0.0.0.0 global-dates-here.com
+0.0.0.0 global-dates-here.life
 0.0.0.0 global-ds.cloud.netacuity.com
 0.0.0.0 global-pushsdk.duowan.com
 0.0.0.0 global-survey-online.com
@@ -50604,6 +50605,7 @@
 0.0.0.0 viabagona.com
 0.0.0.0 viabeldumchan.com
 0.0.0.0 viadata.store
+0.0.0.0 viagraintl.com
 0.0.0.0 viajandocontaiger.com
 0.0.0.0 viajesexclusivos.club
 0.0.0.0 viamariller.com
