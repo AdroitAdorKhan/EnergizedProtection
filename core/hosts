@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.352
-# Release: 352
-# Entries: 55,997
+# Version: 21.12.353
+# Release: 353
+# Entries: 55,999
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 18 Dec 21 20:07:02
+# Updated: Sun, 19 Dec 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1330,6 +1330,7 @@
 0.0.0.0 3w-relevanc-com.videoplayerhub.com
 0.0.0.0 3wr110.net
 0.0.0.0 3wr110.xyz
+0.0.0.0 3www.bnhtml.com
 0.0.0.0 3wxm70.edvfwlacluo.com
 0.0.0.0 3xy1.dvv9dkv.site
 0.0.0.0 3yd48bbwbvrh4mxf8.ay.delivery
@@ -25312,6 +25313,7 @@
 0.0.0.0 iphumiki.com
 0.0.0.0 ipiech.com
 0.0.0.0 ipinyou.com.cn
+0.0.0.0 ipjvrkudtfxwodj.top
 0.0.0.0 iplan.tclmobile.cn
 0.0.0.0 iplocationtools.com
 0.0.0.0 iplogger.com
