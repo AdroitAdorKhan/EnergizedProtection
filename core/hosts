@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.354
 # Release: 354
-# Entries: 56,067
+# Entries: 56,068
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 20 Dec 21 00:07:02
+# Updated: Mon, 20 Dec 21 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26149,6 +26149,7 @@
 0.0.0.0 js.wpushsdk.com
 0.0.0.0 js.xtremeserve.xyz
 0.0.0.0 js.xz6d.com
+0.0.0.0 js7k.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.com
 0.0.0.0 jsc.dt00.net
