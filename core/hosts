@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.355
-# Release: 355
-# Entries: 56,304
+# Version: 21.12.356
+# Release: 356
+# Entries: 56,308
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 21 Dec 21 20:07:01
+# Updated: Wed, 22 Dec 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5754,6 +5754,7 @@
 0.0.0.0 agrarlandwirtschafts.de
 0.0.0.0 agreeablestew.com
 0.0.0.0 agreeabletouch.com
+0.0.0.0 agreedrunawaysalty.com
 0.0.0.0 agridept.nc.gov.lk
 0.0.0.0 agrolandtechnik.com
 0.0.0.0 agsgupei.top
@@ -25822,6 +25823,7 @@
 0.0.0.0 jardimgreen.com.br
 0.0.0.0 jarnvupwxaken.top
 0.0.0.0 jarproducercane.com
+0.0.0.0 jarror.com
 0.0.0.0 jarvisdigital-inv-eu.admixer.net
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jascondienterprisesltd.com
@@ -32579,6 +32581,7 @@
 0.0.0.0 nwlpjginvhor.top
 0.0.0.0 nwmitomy.com
 0.0.0.0 nwnfxiabeupd.top
+0.0.0.0 nwyufhrwa.top
 0.0.0.0 nxcount.com
 0.0.0.0 nxcxithvcoeh.com
 0.0.0.0 nxmsaiip.top
@@ -52747,6 +52750,7 @@
 0.0.0.0 wps.clickadilla.com
 0.0.0.0 wps.zog.link
 0.0.0.0 wpsapp.page.link
+0.0.0.0 wpsxsvecujankwd.top
 0.0.0.0 wptest.softwave.lk
 0.0.0.0 wptqkijndmit.top
 0.0.0.0 wptransmissions.com
