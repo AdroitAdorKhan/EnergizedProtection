@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.357
 # Release: 357
-# Entries: 56,455
+# Entries: 56,456
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 23 Dec 21 00:07:02
+# Updated: Thu, 23 Dec 21 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -38349,6 +38349,7 @@
 0.0.0.0 powersaver.s.xoxknct.com
 0.0.0.0 powersitemainservfjr.org
 0.0.0.0 powersol.de
+0.0.0.0 powferads.com
 0.0.0.0 poxaharap.com
 0.0.0.0 poxcldtepiulo.com
 0.0.0.0 poxeemso.com
