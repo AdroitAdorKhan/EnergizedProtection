@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.358
-# Release: 358
-# Entries: 56,691
+# Version: 21.12.359
+# Release: 359
+# Entries: 56,694
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 24 Dec 21 20:07:02
+# Updated: Sat, 25 Dec 21 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -27069,6 +27069,7 @@
 0.0.0.0 kmyrmdprynhsk9onq.ay.delivery
 0.0.0.0 knab.report-uri.io
 0.0.0.0 knbsccieud.top
+0.0.0.0 kncfevtckgci.top
 0.0.0.0 kneadbewitch.com
 0.0.0.0 knedow.com
 0.0.0.0 kneeansweras.com
@@ -41357,6 +41358,7 @@
 0.0.0.0 rich.worldpush.co
 0.0.0.0 richard-group.com
 0.0.0.0 richardenlightenfervent.com
+0.0.0.0 richaudience.com
 0.0.0.0 richcatis.com
 0.0.0.0 richinfo.co
 0.0.0.0 richmails.com
@@ -51668,6 +51670,7 @@
 0.0.0.0 vnacdnryl.com
 0.0.0.0 vndance.info
 0.0.0.0 vnhome.de
+0.0.0.0 vnkdlmsvbp.top
 0.0.0.0 vnlive4.com
 0.0.0.0 vnq33.com
 0.0.0.0 vnq53.com
