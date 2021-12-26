@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.360
 # Release: 360
-# Entries: 56,810
+# Entries: 56,811
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 26 Dec 21 08:07:02
+# Updated: Sun, 26 Dec 21 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -54468,6 +54468,7 @@
 0.0.0.0 www.mopub.com
 0.0.0.0 www.mosece.com
 0.0.0.0 www.mosquedestitute.com
+0.0.0.0 www.motorimperturbable.com
 0.0.0.0 www.movementsspentlist.com
 0.0.0.0 www.movieads.ero-advertising.com
 0.0.0.0 www.mpuls.ru
