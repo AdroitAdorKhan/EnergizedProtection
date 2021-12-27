@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 21.12.361
 # Release: 361
-# Entries: 56,879
+# Entries: 56,881
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 27 Dec 21 12:07:01
+# Updated: Mon, 27 Dec 21 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6279,6 +6279,7 @@
 0.0.0.0 altowriestwispy.com
 0.0.0.0 altpool.pro
 0.0.0.0 altpubli.com
+0.0.0.0 altriors.xyz
 0.0.0.0 altrk.net
 0.0.0.0 altronopubacc.com
 0.0.0.0 altura.speedera.net
@@ -19625,6 +19626,7 @@
 0.0.0.0 f0600164.xsph.ru
 0.0.0.0 f0600380.xsph.ru
 0.0.0.0 f0600404.xsph.ru
+0.0.0.0 f0611101.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
 0.0.0.0 f09c54da.rtc.youme.im
 0.0.0.0 f1.cdn.ftd.agency
