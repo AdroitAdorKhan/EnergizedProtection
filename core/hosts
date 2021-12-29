@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.363
-# Release: 363
-# Entries: 57,108
+# Version: 21.12.364
+# Release: 364
+# Entries: 57,117
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 29 Dec 21 20:07:02
+# Updated: Thu, 30 Dec 21 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7476,6 +7476,7 @@
 0.0.0.0 api.prod.notifier.manycomponents.com
 0.0.0.0 api.prsrvy.com
 0.0.0.0 api.pub.network
+0.0.0.0 api.pubfinity.com
 0.0.0.0 api.pubmine.com
 0.0.0.0 api.purpleads.io
 0.0.0.0 api.push.verizonmedia.com
@@ -12795,6 +12796,7 @@
 0.0.0.0 cheapencosmetics.com
 0.0.0.0 cheapestcial.com
 0.0.0.0 cheapshhot.com
+0.0.0.0 cheaterboss.com
 0.0.0.0 cheatingagricultural.com
 0.0.0.0 cheatingstiffen.com
 0.0.0.0 check-activity.com.ru
@@ -18499,6 +18501,7 @@
 0.0.0.0 ejectfeudburly.com
 0.0.0.0 ejectsurvivalfollower.com
 0.0.0.0 ejejlewaimmmoqvjggm.me
+0.0.0.0 ejjbvpwscui.top
 0.0.0.0 ejoonsoo.net
 0.0.0.0 ejp.rlcdn.com
 0.0.0.0 ejrhtmwm.com
@@ -27433,6 +27436,7 @@
 0.0.0.0 kscboeblingen.de
 0.0.0.0 ksdeptofrevenue.report-uri.io
 0.0.0.0 ksharu.com
+0.0.0.0 ksiafffpprfppa.top
 0.0.0.0 ksjrehefupsrkz.com
 0.0.0.0 ksqjlijauf.top
 0.0.0.0 ksqnrkhrvoxjclr.top
@@ -28746,6 +28750,7 @@
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
+0.0.0.0 logevt.pubfinity.com
 0.0.0.0 logfrefqnobwwat.top
 0.0.0.0 logger.admixer.co.kr
 0.0.0.0 logger.adotmob.com
@@ -33910,6 +33915,7 @@
 0.0.0.0 onetag-geo-grouping.s-onetag.com
 0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 onetaphack.one
 0.0.0.0 onetouch4.com
 0.0.0.0 onetouch6.com
 0.0.0.0 onetouch7.info
@@ -50180,6 +50186,7 @@
 0.0.0.0 turngrind.com
 0.0.0.0 turninted-suradios.icu
 0.0.0.0 turnipcontentmentlegalize.com
+0.0.0.0 turnipsoft.pubfinity.com
 0.0.0.0 turnsocial.com
 0.0.0.0 turnstilerecruit.com
 0.0.0.0 tursaf.org.tr
@@ -50794,6 +50801,7 @@
 0.0.0.0 unmxfkkjohd.xyz
 0.0.0.0 unnaturalcaption.com
 0.0.0.0 unoblotto.net
+0.0.0.0 unogames.site
 0.0.0.0 unoseconomin.xyz
 0.0.0.0 unosn.com
 0.0.0.0 unpackbanish.com
@@ -53581,6 +53589,7 @@
 0.0.0.0 wubsauth.net
 0.0.0.0 wuckaity.com
 0.0.0.0 wudr.net
+0.0.0.0 wudxocopvww.top
 0.0.0.0 wufayglgqojfm.top
 0.0.0.0 wufel.ml
 0.0.0.0 wufmyky.me
