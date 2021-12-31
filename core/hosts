@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 21.12.365
-# Release: 365
-# Entries: 57,506
+# Version: 22.01.001
+# Release: 001
+# Entries: 57,508
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 31 Dec 21 20:07:01
+# Updated: Sat, 01 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -48481,6 +48481,7 @@
 0.0.0.0 tjbuxltdsg.top
 0.0.0.0 tjdelivery20.trafficjunky.net
 0.0.0.0 tjdelivery50.trafficjunky.net
+0.0.0.0 tjdwclhujm.top
 0.0.0.0 tjfot.com
 0.0.0.0 tjgasbjinlx.xyz
 0.0.0.0 tjisenap.com
@@ -54807,6 +54808,7 @@
 0.0.0.0 www.gpbaru.net
 0.0.0.0 www.gpsindia.biz
 0.0.0.0 www.grabify.link
+0.0.0.0 www.granddadknitbravely.com
 0.0.0.0 www.graph.accountkit.com
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.greedhail.com
