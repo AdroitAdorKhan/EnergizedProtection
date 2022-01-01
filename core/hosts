@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.001
 # Release: 001
-# Entries: 57,555
+# Entries: 57,556
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 01 Jan 22 16:07:02
+# Updated: Sat, 01 Jan 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20691,6 +20691,7 @@
 0.0.0.0 flashclicks.com
 0.0.0.0 flashingactshrs.com
 0.0.0.0 flashinginvolvementmatches.com
+0.0.0.0 flashplayer-cn.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flashtest.ero-advertising.com
 0.0.0.0 flashymass.com
