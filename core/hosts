@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.005
 # Release: 005
-# Entries: 57,624
+# Entries: 57,625
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 05 Jan 22 04:07:02
+# Updated: Wed, 05 Jan 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -42071,6 +42071,7 @@
 0.0.0.0 richscherlitz.com
 0.0.0.0 richstring.com
 0.0.0.0 richwebmedia.com
+0.0.0.0 rickerrotal.com
 0.0.0.0 ridbvqquep.top
 0.0.0.0 ride-a-bike.club
 0.0.0.0 ride-a-bike.online
