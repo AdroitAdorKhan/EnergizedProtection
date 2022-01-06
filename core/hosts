@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.006
 # Release: 006
-# Entries: 57,640
+# Entries: 57,650
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 06 Jan 22 12:07:02
+# Updated: Thu, 06 Jan 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1350,6 +1350,7 @@
 0.0.0.0 360ads.com
 0.0.0.0 360adshost.com
 0.0.0.0 360adshost.net
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 360footwears.com
 0.0.0.0 360i.com
 0.0.0.0 360installer.com
@@ -19940,6 +19941,9 @@
 0.0.0.0 f0600380.xsph.ru
 0.0.0.0 f0600404.xsph.ru
 0.0.0.0 f0611101.xsph.ru
+0.0.0.0 f0615407.xsph.ru
+0.0.0.0 f0615959.xsph.ru
+0.0.0.0 f0616068.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
 0.0.0.0 f09c54da.rtc.youme.im
 0.0.0.0 f1.cdn.ftd.agency
@@ -29403,6 +29407,7 @@
 0.0.0.0 luciusjam.com
 0.0.0.0 lucky4wins.club
 0.0.0.0 luckybest.ru
+0.0.0.0 luckycarp.ru
 0.0.0.0 luckycat-ameboon.snssdk.com
 0.0.0.0 luckyforbet.com
 0.0.0.0 luckygain.life
@@ -32253,6 +32258,7 @@
 0.0.0.0 natm.hasmobi.net
 0.0.0.0 natpal.com
 0.0.0.0 naturabags.com
+0.0.0.0 naturalhealththings.com
 0.0.0.0 naturalseeds.eu
 0.0.0.0 naturaltracking.com
 0.0.0.0 naturdrogerieonline.de
@@ -39443,6 +39449,7 @@
 0.0.0.0 pritmpjmpu.top
 0.0.0.0 privacy-test.liadm.com
 0.0.0.0 privacy-tools-for-you-777.com
+0.0.0.0 privacy-tools-for-you-778.com
 0.0.0.0 privacy-toolz-for-you-5000.top
 0.0.0.0 privacy.adcolony.com
 0.0.0.0 privacy.tapad.com
@@ -43274,6 +43281,7 @@
 0.0.0.0 sbs.demdex.net
 0.0.0.0 sbscribeme.com
 0.0.0.0 sbscrma.com
+0.0.0.0 sbss.com.pk
 0.0.0.0 sc-static.net
 0.0.0.0 sc.3xdb.com
 0.0.0.0 sc.iasds01.com
@@ -56804,7 +56812,9 @@
 0.0.0.0 yapdqykkttuqdl.top
 0.0.0.0 yapfurniture.com
 0.0.0.0 yapgrubupper.com
+0.0.0.0 yapoqz03.top
 0.0.0.0 yapsetuptropical.com
+0.0.0.0 yapstn04.top
 0.0.0.0 yardchartsei.info
 0.0.0.0 yardgaosei.info
 0.0.0.0 yardperformedtraumatize.com
