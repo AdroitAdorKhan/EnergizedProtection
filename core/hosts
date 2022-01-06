@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.006
 # Release: 006
-# Entries: 57,650
+# Entries: 57,651
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 06 Jan 22 16:07:01
+# Updated: Thu, 06 Jan 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -45302,6 +45302,7 @@
 0.0.0.0 sopk.kz
 0.0.0.0 soprano.allow.support
 0.0.0.0 sorbuy.com
+0.0.0.0 sordidsmile.com
 0.0.0.0 sordidstir.com
 0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
