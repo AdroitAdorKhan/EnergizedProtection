@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.006
-# Release: 006
-# Entries: 57,651
+# Version: 22.01.007
+# Release: 007
+# Entries: 57,658
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 06 Jan 22 20:07:02
+# Updated: Fri, 07 Jan 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12689,6 +12689,7 @@
 0.0.0.0 cdn2.topdrama.net
 0.0.0.0 cdn2.wshareit.com
 0.0.0.0 cdn28786515.ahacdn.me
+0.0.0.0 cdn2reference.com
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.bestcontenttrade.top
 0.0.0.0 cdn3.ghosthis.review
@@ -17515,6 +17516,7 @@
 0.0.0.0 dolinaphtalic.com
 0.0.0.0 dollarade.com
 0.0.0.0 dollardelta.com
+0.0.0.0 dollarhene.com
 0.0.0.0 dollarsponsor.com
 0.0.0.0 dolldetail.com
 0.0.0.0 dolleddhaman.com
@@ -23187,6 +23189,7 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 gumapp.page.link
 0.0.0.0 gumbolersgthb.com
+0.0.0.0 gumett.com
 0.0.0.0 gumgum.com
 0.0.0.0 gumk.pro
 0.0.0.0 gumtree-com-uk.videoplayerhub.com
@@ -31815,6 +31818,7 @@
 0.0.0.0 mugwumptuum.casa
 0.0.0.0 mugyepsea.com
 0.0.0.0 muhaingi.com
+0.0.0.0 muhite.com
 0.0.0.0 mujilora.com
 0.0.0.0 mukuge.com
 0.0.0.0 multiadblock.com
@@ -34738,6 +34742,7 @@
 0.0.0.0 oulddev.biz
 0.0.0.0 oulddothesa.biz
 0.0.0.0 oultuwee.net
+0.0.0.0 oulukdltobepa.com
 0.0.0.0 oumbikcdwmjxqt.xyz
 0.0.0.0 oumtoujo.net
 0.0.0.0 ouncialliberte.site
@@ -41912,6 +41917,7 @@
 0.0.0.0 retaindeductionperformed.com
 0.0.0.0 retainreproofsnappy.com
 0.0.0.0 retainstorkloin.com
+0.0.0.0 retarget2core.com
 0.0.0.0 retargetcore.com
 0.0.0.0 retargeter.com
 0.0.0.0 retargeter.com.br
@@ -46540,6 +46546,7 @@
 0.0.0.0 stellaservice.com
 0.0.0.0 stellium.de
 0.0.0.0 stemboastfulrattle.com
+0.0.0.0 stenadewy.pro
 0.0.0.0 step-step-go.com
 0.0.0.0 stepfatherparamedicthem.com
 0.0.0.0 stepkeydo.com
