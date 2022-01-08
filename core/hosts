@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.008
 # Release: 008
-# Entries: 57,701
+# Entries: 57,702
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 08 Jan 22 16:07:01
+# Updated: Sat, 08 Jan 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -24318,6 +24318,7 @@
 0.0.0.0 hotchatdirect.com
 0.0.0.0 hotchedmothe.club
 0.0.0.0 hotcounter.de
+0.0.0.0 hotdates.life
 0.0.0.0 hoteisrio.com.br
 0.0.0.0 hotelavlokan.com
 0.0.0.0 hotelconcordia.org
