@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.008
-# Release: 008
-# Entries: 57,702
+# Version: 22.01.009
+# Release: 009
+# Entries: 57,705
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 08 Jan 22 20:07:01
+# Updated: Sun, 09 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10891,6 +10891,7 @@
 0.0.0.0 bnc4m.com
 0.0.0.0 bnc5m.com
 0.0.0.0 bncelgbt.top
+0.0.0.0 bndmh4.com
 0.0.0.0 bnewsblite.me
 0.0.0.0 bngpst.com
 0.0.0.0 bngpt.com
@@ -39266,6 +39267,7 @@
 0.0.0.0 prahfoleruna.com
 0.0.0.0 praiserevision.com
 0.0.0.0 prakritikoirala.com.np
+0.0.0.0 prakritinfixed.com
 0.0.0.0 prakswohlra.top
 0.0.0.0 praktischeidee.com
 0.0.0.0 pramdishevelledsquare.com
@@ -39421,6 +39423,7 @@
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
 0.0.0.0 previsibilisais.website
+0.0.0.0 prevotch.com
 0.0.0.0 prf.hn
 0.0.0.0 prfctmney.com
 0.0.0.0 prfdesk.pro
