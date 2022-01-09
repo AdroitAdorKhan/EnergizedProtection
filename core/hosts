@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.010
 # Release: 010
-# Entries: 57,712
+# Entries: 57,713
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Jan 22 00:07:02
+# Updated: Mon, 10 Jan 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8057,6 +8057,7 @@
 0.0.0.0 arabeak.com
 0.0.0.0 arabianpdfbooks.info
 0.0.0.0 aragontrack.com
+0.0.0.0 arahitojinja.or.jp
 0.0.0.0 aralego.com
 0.0.0.0 aralomomolachan.com
 0.0.0.0 aratyr.com
