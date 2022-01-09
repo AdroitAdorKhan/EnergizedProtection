@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.009
 # Release: 009
-# Entries: 57,706
+# Entries: 57,707
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 09 Jan 22 08:07:02
+# Updated: Sun, 09 Jan 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8564,6 +8564,7 @@
 0.0.0.0 attributedrelease.com
 0.0.0.0 atugtinidhers.info
 0.0.0.0 atwainbounce.com
+0.0.0.0 atyafonline.com
 0.0.0.0 atzekromchan.com
 0.0.0.0 au-pn1.adserver.yahoo.com
 0.0.0.0 au.ads.justpremium.com
