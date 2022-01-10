@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.010
-# Release: 010
-# Entries: 57,723
+# Version: 22.01.011
+# Release: 011
+# Entries: 57,738
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Jan 22 20:07:02
+# Updated: Tue, 11 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2419,6 +2419,7 @@
 0.0.0.0 8wflg.rdtk.io
 0.0.0.0 8wtkfxiss1o2.com
 0.0.0.0 8xu.rafilda.ru
+0.0.0.0 9-girls.ru
 0.0.0.0 9.1music-online.me
 0.0.0.0 9.1video-online.me
 0.0.0.0 9.adtrafficjam.com
@@ -4901,6 +4902,7 @@
 0.0.0.0 adserver01.de
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.mindshare.de
+0.0.0.0 adserver7.sbs
 0.0.0.0 adservercheck.net
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
@@ -7947,6 +7949,7 @@
 0.0.0.0 apportium.com
 0.0.0.0 apposing-preeing.icu
 0.0.0.0 appotlnal.ru
+0.0.0.0 appraisalaffable.com
 0.0.0.0 appreciationabjure.com
 0.0.0.0 appredeem.com
 0.0.0.0 apprefaculty.pro
@@ -10167,6 +10170,7 @@
 0.0.0.0 best-adultgames.com
 0.0.0.0 best-backup.com
 0.0.0.0 best-casual-dating.com
+0.0.0.0 best-chicks-here.life
 0.0.0.0 best-dates-here.life
 0.0.0.0 best-dating-new.com
 0.0.0.0 best-dating-spot-here4.com
@@ -12222,6 +12226,7 @@
 0.0.0.0 castoola.com
 0.0.0.0 castpallium.com
 0.0.0.0 casualdatingis-real.com
+0.0.0.0 cat02tuzik.online
 0.0.0.0 cata.ero-advertising.com
 0.0.0.0 catalogdiscovery.com
 0.0.0.0 cataractsallydeserves.com
@@ -14417,6 +14422,7 @@
 0.0.0.0 collector.lightstep.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.mediator.media
+0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.retailcrm.pro
@@ -16382,9 +16388,11 @@
 0.0.0.0 datfuture.com
 0.0.0.0 dating-banners.com
 0.0.0.0 dating-for-you1.com
+0.0.0.0 dating-herenow3.com
 0.0.0.0 dating-hotties-here2.com
 0.0.0.0 dating-hotties2.com
 0.0.0.0 dating-service.net
+0.0.0.0 dating-space.top
 0.0.0.0 dating.hdxvideos.ru
 0.0.0.0 dating2you.net
 0.0.0.0 dating2you.org
@@ -18902,6 +18910,7 @@
 0.0.0.0 embassychopassembled.com
 0.0.0.0 embaurutem.com.br
 0.0.0.0 embbxlmkjcl.top
+0.0.0.0 embed.comicbook.com
 0.0.0.0 embed.friendbuy.com
 0.0.0.0 embed.heavy-r.com
 0.0.0.0 embed.mystream.to
@@ -22515,6 +22524,7 @@
 0.0.0.0 glosslogics.com
 0.0.0.0 glossysense.com
 0.0.0.0 glothouw.link
+0.0.0.0 glothutastu.pro
 0.0.0.0 gloumsee.net
 0.0.0.0 gloviphewhe.com
 0.0.0.0 glowdot.com
@@ -32182,6 +32192,7 @@
 0.0.0.0 nacfuns.com
 0.0.0.0 nachogunj.cam
 0.0.0.0 nacht-kind.de
+0.0.0.0 nacief.com
 0.0.0.0 nadiaaestheticcosmeceuticals.com
 0.0.0.0 nads.io
 0.0.0.0 nadsoojo.net
@@ -35934,6 +35945,7 @@
 0.0.0.0 perfumespremium.es
 0.0.0.0 perfunctoryseathrilled.com
 0.0.0.0 perfunctorytalentcompute.com
+0.0.0.0 pergames.fun
 0.0.0.0 perhangeflets.site
 0.0.0.0 perienfcefot.top
 0.0.0.0 perigshfnon.com
@@ -38847,6 +38859,7 @@
 0.0.0.0 poenem.com
 0.0.0.0 poetryhonourable.com
 0.0.0.0 pohlibri.de
+0.0.0.0 poidup.com
 0.0.0.0 poifinsegg.com
 0.0.0.0 poignantcover.com
 0.0.0.0 poignantpersonnel.com
@@ -42649,6 +42662,7 @@
 0.0.0.0 rtmatcher.net
 0.0.0.0 rtnaticama.fun
 0.0.0.0 rtnqibskxry.top
+0.0.0.0 rtoukfareputf.com
 0.0.0.0 rtovehicle.page.link
 0.0.0.0 rtpdn10.com
 0.0.0.0 rtpdn11.com
@@ -45936,6 +45950,7 @@
 0.0.0.0 sscefsol.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssdkauth.hpplay.cn
+0.0.0.0 ssettoourm.com
 0.0.0.0 ssh.kissmetrics.com
 0.0.0.0 sshdiwiiqmm.top
 0.0.0.0 sshowads.pubmatic.com
