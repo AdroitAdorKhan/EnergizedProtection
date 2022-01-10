@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.010
 # Release: 010
-# Entries: 57,716
+# Entries: 57,719
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 10 Jan 22 12:07:01
+# Updated: Mon, 10 Jan 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19568,6 +19568,7 @@
 0.0.0.0 events-service.coinbase.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.brightline.tv
 0.0.0.0 events.busuu.com
 0.0.0.0 events.cardsmobile.ru
 0.0.0.0 events.connatix.com
@@ -47283,6 +47284,7 @@
 0.0.0.0 sykgxkjrdyjul.top
 0.0.0.0 sylewhywhe.com
 0.0.0.0 syllableperpetrator.com
+0.0.0.0 syllyntoya.xyz
 0.0.0.0 sylmyar.pw
 0.0.0.0 sylotepu.xyz
 0.0.0.0 sylviagreen.club
@@ -56875,6 +56877,7 @@
 0.0.0.0 yapdqykkttuqdl.top
 0.0.0.0 yapfurniture.com
 0.0.0.0 yapgrubupper.com
+0.0.0.0 yapkbc10.top
 0.0.0.0 yapome07.top
 0.0.0.0 yapoqz03.top
 0.0.0.0 yapsetuptropical.com
