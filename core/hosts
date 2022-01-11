@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.012
 # Release: 012
-# Entries: 57,800
+# Entries: 57,804
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 12 Jan 22 00:07:02
+# Updated: Wed, 12 Jan 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7292,6 +7292,8 @@
 0.0.0.0 androidads4-4.adcolony.com
 0.0.0.0 androidads4-5.adcolony.com
 0.0.0.0 androidapk.world
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 andworldwi.co
 0.0.0.0 andyhoppe.com
 0.0.0.0 anedew.com
@@ -24164,6 +24166,7 @@
 0.0.0.0 hledoziequt.com
 0.0.0.0 hlm-indonesia.com
 0.0.0.0 hlmiq.com
+0.0.0.0 hloprhawmswdb.com
 0.0.0.0 hlpnowp-c.com
 0.0.0.0 hls.raino.xyz
 0.0.0.0 hls05.filoadsto.com
@@ -46913,6 +46916,7 @@
 0.0.0.0 sts.si.advertising.microsoft.com
 0.0.0.0 stsunfulnoth.top
 0.0.0.0 stt.lenovo.com
+0.0.0.0 stt.nimbusweb.me
 0.0.0.0 sttewuugfnql.top
 0.0.0.0 stubantiquarianjury.com
 0.0.0.0 stucystymy.com
