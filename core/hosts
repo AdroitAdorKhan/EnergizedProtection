@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.012
-# Release: 012
-# Entries: 50,099
+# Version: 22.01.013
+# Release: 013
+# Entries: 50,107
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 12 Jan 22 20:07:01
+# Updated: Thu, 13 Jan 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12203,6 +12203,7 @@
 0.0.0.0 ciscolearningnetwork.demdex.net
 0.0.0.0 ciscosystemsin.tt.omtrdc.net
 0.0.0.0 ciscosystemsinc.tt.omtrdc.net
+0.0.0.0 cisheeng.com
 0.0.0.0 cisscrive.com
 0.0.0.0 cistamenise.com
 0.0.0.0 citaslocas.com
@@ -20501,6 +20502,7 @@
 0.0.0.0 grandparen.club
 0.0.0.0 grandpasgadgets.com
 0.0.0.0 grandslammedia.com
+0.0.0.0 grangilo.net
 0.0.0.0 graniteacquitcharacteristic.com
 0.0.0.0 graniteprint.co.uk
 0.0.0.0 grannynightmare.com
@@ -21639,6 +21641,7 @@
 0.0.0.0 hottest-dating-now.com
 0.0.0.0 hottest-insta-sex.life
 0.0.0.0 hottests-datings1.com
+0.0.0.0 hotzxgirl.com
 0.0.0.0 houdodoo.net
 0.0.0.0 houndcost.com
 0.0.0.0 houndfleetmule.com
@@ -25569,6 +25572,7 @@
 0.0.0.0 loopoohy.com
 0.0.0.0 looprapid.com
 0.0.0.0 loopredsglen.com
+0.0.0.0 loopybatl.site
 0.0.0.0 lophaszip.com
 0.0.0.0 lopley.com
 0.0.0.0 lopollos.com
@@ -26409,6 +26413,7 @@
 0.0.0.0 matiro.com
 0.0.0.0 matisaas.ac.ug
 0.0.0.0 matoakie.com
+0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.csaindo.id
 0.0.0.0 matomo.darken.eu
 0.0.0.0 matomo.freeones.com
@@ -39109,6 +39114,7 @@
 0.0.0.0 smartfiles.uploadbox.world
 0.0.0.0 smarthouseforum.ru
 0.0.0.0 smartlaw.ro
+0.0.0.0 smartlify.com
 0.0.0.0 smartlnk.com
 0.0.0.0 smartmnews.pro
 0.0.0.0 smartnews-ads.com
@@ -41732,6 +41738,7 @@
 0.0.0.0 technis.org
 0.0.0.0 technology.inmobi.com
 0.0.0.0 technolore.com
+0.0.0.0 technoob.info
 0.0.0.0 technoratimedia.com
 0.0.0.0 technoshadows.com
 0.0.0.0 technotology.com
@@ -42041,6 +42048,7 @@
 0.0.0.0 theerdax.com
 0.0.0.0 theesuites.com
 0.0.0.0 thefappening2015.com
+0.0.0.0 thefappeningpics.com
 0.0.0.0 thefastpush.com
 0.0.0.0 thefootpetso.com
 0.0.0.0 thefrees.com
