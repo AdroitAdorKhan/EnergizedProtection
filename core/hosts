@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.013
-# Release: 013
-# Entries: 50,213
+# Version: 22.01.014
+# Release: 014
+# Entries: 50,221
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 13 Jan 22 20:07:02
+# Updated: Fri, 14 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3016,6 +3016,7 @@
 0.0.0.0 acsseo.com
 0.0.0.0 acstatic-dun.126.net
 0.0.0.0 act.umeng.com
+0.0.0.0 actgames.site
 0.0.0.0 acticantly.club
 0.0.0.0 actiflex.org
 0.0.0.0 action.miliated.xyz
@@ -4670,6 +4671,7 @@
 0.0.0.0 adserver01.de
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.mindshare.de
+0.0.0.0 adserver5.sbs
 0.0.0.0 adserver7.sbs
 0.0.0.0 adservercheck.net
 0.0.0.0 adserverpub.com
@@ -13563,6 +13565,7 @@
 0.0.0.0 conditionahastingy.com
 0.0.0.0 conditionchange.com
 0.0.0.0 conditioncrush.com
+0.0.0.0 conditioning1.space
 0.0.0.0 conditionwildest.com
 0.0.0.0 condles-temark.com
 0.0.0.0 condolencesinflamepoint.com
@@ -22216,6 +22219,7 @@
 0.0.0.0 ijjiii.is
 0.0.0.0 ijr07.rdtk.io
 0.0.0.0 ijrah.top
+0.0.0.0 ijrotqhvnqd.xyz
 0.0.0.0 ijsprocode.com
 0.0.0.0 ik54l.bemobtrk.com
 0.0.0.0 ikaben.com
@@ -26521,6 +26525,7 @@
 0.0.0.0 may-js.github.io
 0.0.0.0 mayhemabjure.com
 0.0.0.0 maylnk.com
+0.0.0.0 maymooth-stopic.com
 0.0.0.0 maynadelices.com
 0.0.0.0 mayordiminution.com
 0.0.0.0 maze4aem56jf.com
@@ -26981,6 +26986,7 @@
 0.0.0.0 metrics6.dt.hicloud.com
 0.0.0.0 metricswpsh.com
 0.0.0.0 metrika-informer.com
+0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.lookmovie.io
 0.0.0.0 metrika.myseldon.com
 0.0.0.0 metrika.yandex.com
@@ -34954,6 +34960,7 @@
 0.0.0.0 psuhuchize.com
 0.0.0.0 psuphuns.net
 0.0.0.0 psurdoak.com
+0.0.0.0 psutwwdaneq.xyz
 0.0.0.0 psuzoxuma.com
 0.0.0.0 psv150-1.crazycloud.ru
 0.0.0.0 psvgnczo.com
@@ -42150,6 +42157,7 @@
 0.0.0.0 thegoldjewellers.com
 0.0.0.0 thehub7xbw4dc5r2.onion.pet
 0.0.0.0 thehun.net
+0.0.0.0 thehustlereconomyblueprint.com
 0.0.0.0 theirkelthuzad.com
 0.0.0.0 theirsvendor.com
 0.0.0.0 thejobandl.biz
