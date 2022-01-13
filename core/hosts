@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.013
 # Release: 013
-# Entries: 50,210
+# Entries: 50,213
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 13 Jan 22 16:07:02
+# Updated: Thu, 13 Jan 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7123,6 +7123,7 @@
 0.0.0.0 api-rssocks.youzicheng.net
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-sandbox.direct.yandex.com
+0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 api-swagger.sophi.io
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.5nxam.xyz
@@ -19730,6 +19731,7 @@
 0.0.0.0 ge.appcloudbox.net
 0.0.0.0 gebadu.com
 0.0.0.0 gecauuksehin.com
+0.0.0.0 gecko.me
 0.0.0.0 gecontentasap.com
 0.0.0.0 gee.ae
 0.0.0.0 geedoovu.net
@@ -21557,6 +21559,7 @@
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honeyluxstyles.com
 0.0.0.0 honeymoonhub.online
+0.0.0.0 honeyplaybox.com
 0.0.0.0 honghaotravel.com
 0.0.0.0 honorablehall.com
 0.0.0.0 honorableland.com
