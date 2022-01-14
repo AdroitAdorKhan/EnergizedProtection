@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.014
 # Release: 014
-# Entries: 50,239
+# Entries: 50,240
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 14 Jan 22 08:07:02
+# Updated: Fri, 14 Jan 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -36965,6 +36965,7 @@
 0.0.0.0 roiservice.com
 0.0.0.0 roispy.com
 0.0.0.0 roitesting.com
+0.0.0.0 roksa.sx
 0.0.0.0 rolegu.com
 0.0.0.0 rolerompchalked.com
 0.0.0.0 roling.000webhostapp.com
