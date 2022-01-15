@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.015
-# Release: 015
-# Entries: 50,413
+# Version: 22.01.016
+# Release: 016
+# Entries: 50,414
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 15 Jan 22 20:07:02
+# Updated: Sun, 16 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -48818,6 +48818,7 @@
 0.0.0.0 www.sewingfibber.com
 0.0.0.0 www.sewladilike.com
 0.0.0.0 www.sex-and-flirt.com
+0.0.0.0 www.sff3d.com
 0.0.0.0 www.sglala.com
 0.0.0.0 www.sgtrackingap.com
 0.0.0.0 www.shadesconfrontsickle.com
