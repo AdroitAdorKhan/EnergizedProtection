@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.017
 # Release: 017
-# Entries: 50,457
+# Entries: 50,459
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Jan 22 00:07:02
+# Updated: Mon, 17 Jan 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20321,6 +20321,7 @@
 0.0.0.0 gmodules.com
 0.0.0.0 gmyze.com
 0.0.0.0 gmzdaily.com
+0.0.0.0 gnatgrocery.com
 0.0.0.0 gnatneatlyembodiment.com
 0.0.0.0 gnawinstruct.com
 0.0.0.0 gnomicfun.com
@@ -28496,6 +28497,7 @@
 0.0.0.0 net.videoplayerhub.com
 0.0.0.0 net00.biz
 0.0.0.0 net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 net3media.com
 0.0.0.0 netaffiliation.com
 0.0.0.0 netagent.cz
 0.0.0.0 netapplications.com
