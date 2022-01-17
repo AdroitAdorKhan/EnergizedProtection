@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.017
-# Release: 017
-# Entries: 50,525
+# Version: 22.01.018
+# Release: 018
+# Entries: 50,532
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Jan 22 20:07:02
+# Updated: Tue, 18 Jan 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12840,6 +12840,7 @@
 0.0.0.0 coandroid.ru
 0.0.0.0 coaphauk.net
 0.0.0.0 coarsewary.com
+0.0.0.0 coastlineahead.com
 0.0.0.0 coastsoak.com
 0.0.0.0 coatfood.com
 0.0.0.0 coatoctopus.com
@@ -24421,6 +24422,7 @@
 0.0.0.0 knigum.ru
 0.0.0.0 knisz.rdtk.io
 0.0.0.0 knittedcourthouse.com
+0.0.0.0 knkkpmtdesg.com
 0.0.0.0 knl.mntzrlt.net
 0.0.0.0 knockedbenignitysqueeze.com
 0.0.0.0 knotkettle.com
@@ -35743,6 +35745,7 @@
 0.0.0.0 qepodownload.mediatek.com
 0.0.0.0 qfdn3gyfbs.com
 0.0.0.0 qfjherc.com
+0.0.0.0 qftgykroh.com
 0.0.0.0 qfwjclpckrdehi.com
 0.0.0.0 qgaaaa2.admaym.com
 0.0.0.0 qgamsa.com
@@ -41056,6 +41059,7 @@
 0.0.0.0 strapnetdisk.com
 0.0.0.0 strarwars.zzz.com.ua
 0.0.0.0 strategiccontroller.info
+0.0.0.0 strawberriescane.com
 0.0.0.0 strawberryinhabitcell.com
 0.0.0.0 strawdense.com
 0.0.0.0 strawldeli.biz
@@ -45086,6 +45090,7 @@
 0.0.0.0 unseenmms.com
 0.0.0.0 unshiftryr.com
 0.0.0.0 unsigilyphor.com
+0.0.0.0 unskilledanna.com
 0.0.0.0 unspeakablepurebeings.com
 0.0.0.0 unspiltbananas.com
 0.0.0.0 unsuccessfulpensive.com
@@ -45558,6 +45563,7 @@
 0.0.0.0 vasfxpribls.com
 0.0.0.0 vashebiwa.pro
 0.0.0.0 vashoot.com
+0.0.0.0 vassst1.com
 0.0.0.0 vassst12.com
 0.0.0.0 vassterboost.com
 0.0.0.0 vasstycom.com
@@ -49650,6 +49656,7 @@
 0.0.0.0 xl-co-uk.videoplayerhub.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xldcdnd.com
+0.0.0.0 xlhufubaul.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog-va.tiktokv.com
