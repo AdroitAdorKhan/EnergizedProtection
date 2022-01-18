@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.018
 # Release: 018
-# Entries: 50,620
+# Entries: 50,624
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 18 Jan 22 16:07:02
+# Updated: Tue, 18 Jan 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17356,6 +17356,7 @@
 0.0.0.0 embed.mystream.to
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tawk.to
+0.0.0.0 embed.usersmagic.com
 0.0.0.0 embedded.outbrain.com
 0.0.0.0 embeddedanalytics.com
 0.0.0.0 embodimentabstain.com
@@ -35382,6 +35383,7 @@
 0.0.0.0 pubnation.com
 0.0.0.0 pubnative.info
 0.0.0.0 pubnative.net
+0.0.0.0 pubpowerplatform.io
 0.0.0.0 pubrain.com
 0.0.0.0 pubreport.webeyemob.com
 0.0.0.0 pubs.contextads.live
@@ -43958,6 +43960,7 @@
 0.0.0.0 tracker.realclick.co.kr
 0.0.0.0 tracker.relaido.jp
 0.0.0.0 tracker.remp.impresa.pt
+0.0.0.0 tracker.remp.sme.sk
 0.0.0.0 tracker.secretescapes.com
 0.0.0.0 tracker.secureboxes.net
 0.0.0.0 tracker.shopclues.com
@@ -48121,6 +48124,7 @@
 0.0.0.0 www.elcast.it
 0.0.0.0 www.electricitylaxative.com
 0.0.0.0 www.electropixel.com
+0.0.0.0 www.elementsfertilisedfaithful.com
 0.0.0.0 www.eltrafiko.com
 0.0.0.0 www.embed.sendtonews.com
 0.0.0.0 www.embodimentabstain.com
