@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.018
-# Release: 018
-# Entries: 50,624
+# Version: 22.01.019
+# Release: 019
+# Entries: 50,632
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 18 Jan 22 20:07:01
+# Updated: Wed, 19 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6941,6 +6941,7 @@
 0.0.0.0 andohs.net
 0.0.0.0 andomedia.com
 0.0.0.0 andomediagroup.com
+0.0.0.0 andorapx.com
 0.0.0.0 andriesshied.com
 0.0.0.0 android-clear.com
 0.0.0.0 android-sys-cleaner.com
@@ -28063,6 +28064,7 @@
 0.0.0.0 mundodoingles.com.br
 0.0.0.0 mundoflorencia.com
 0.0.0.0 munityand.biz
+0.0.0.0 munori.com
 0.0.0.0 munterlyexation.com
 0.0.0.0 mupsytyzu.com
 0.0.0.0 muqson0kgr.com
@@ -34830,6 +34832,7 @@
 0.0.0.0 printmeantime.com
 0.0.0.0 printo-iso.com
 0.0.0.0 printpressplus.com
+0.0.0.0 prinue.com
 0.0.0.0 priordiameter.com
 0.0.0.0 priority.appsflyer.com
 0.0.0.0 prisacom.tt.omtrdc.net
@@ -35785,6 +35788,7 @@
 0.0.0.0 qatarairways.tt.omtrdc.net
 0.0.0.0 qaykb.com
 0.0.0.0 qbkzvophvva.com
+0.0.0.0 qbnorotyoo.com
 0.0.0.0 qbop.com
 0.0.0.0 qc.smartadserver.com
 0.0.0.0 qcb7o.bemobtrk.com
@@ -37001,6 +37005,7 @@
 0.0.0.0 rg3r2kgktwgr6m2ju.ay.delivery
 0.0.0.0 rgadvert.com
 0.0.0.0 rgahmllbgubakm.com
+0.0.0.0 rgcmgroup.com
 0.0.0.0 rgepodownload.mediatek.com
 0.0.0.0 rgphgvunjg.me
 0.0.0.0 rgverkqcpahaqcqtmpksxicmtno.com
@@ -37131,6 +37136,7 @@
 0.0.0.0 rjw4obbw.com
 0.0.0.0 rk.com
 0.0.0.0 rkdms.com
+0.0.0.0 rkllcrwtftx.com
 0.0.0.0 rkn5xz9kqmwbqzavl.ay.delivery
 0.0.0.0 rkomf.com
 0.0.0.0 rkpecade.com
@@ -42482,6 +42488,7 @@
 0.0.0.0 themeillogical.com
 0.0.0.0 themereplacebiopsy.com
 0.0.0.0 themoneytizer.com
+0.0.0.0 thenceafeard.com
 0.0.0.0 thenceextremeeyewitness.com
 0.0.0.0 theninechicago.com
 0.0.0.0 theolympic.co.nz
@@ -47181,6 +47188,7 @@
 0.0.0.0 wirelessannexwren.com
 0.0.0.0 wirelesseuropebalmy.com
 0.0.0.0 wirenth.com
+0.0.0.0 wirsauco.com
 0.0.0.0 wiseezab.com
 0.0.0.0 wisetrack.net
 0.0.0.0 wiseupload.com
