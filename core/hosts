@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.019
-# Release: 019
-# Entries: 50,772
+# Version: 22.01.020
+# Release: 020
+# Entries: 50,780
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Jan 22 20:07:02
+# Updated: Thu, 20 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6559,6 +6559,7 @@
 0.0.0.0 analytics.hayneedle.com
 0.0.0.0 analytics.headerbiddr.net
 0.0.0.0 analytics.hindustantimes.com
+0.0.0.0 analytics.histmag.org
 0.0.0.0 analytics.homebotapp.com
 0.0.0.0 analytics.hostyour.video
 0.0.0.0 analytics.hotcopper.com
@@ -16706,6 +16707,7 @@
 0.0.0.0 dwldvpn.adaware.com
 0.0.0.0 dwnm2295blvjq.cloudfront.net
 0.0.0.0 dwomentt.biz
+0.0.0.0 dwrxoufql.xyz
 0.0.0.0 dwww.yieldbird.com
 0.0.0.0 dwysckbnafnswa.xyz
 0.0.0.0 dwz.lefu.run
@@ -23191,6 +23193,7 @@
 0.0.0.0 inttraders.net
 0.0.0.0 intwelius.com
 0.0.0.0 inurneddoggish.com
+0.0.0.0 inurra.com
 0.0.0.0 inuvi.com
 0.0.0.0 inuvo.com
 0.0.0.0 inuxu.biz
@@ -25188,6 +25191,7 @@
 0.0.0.0 lgs-log.wapcar.com
 0.0.0.0 lgse.com
 0.0.0.0 lgsmartad.com
+0.0.0.0 lhedgelnha.com
 0.0.0.0 lhs-3844b.com
 0.0.0.0 li2meh6eni3tis.com
 0.0.0.0 lianlianxian-test.shareitgames.com
@@ -27317,6 +27321,7 @@
 0.0.0.0 midas-network.com
 0.0.0.0 midasatlas.com
 0.0.0.0 midastouchrt.com
+0.0.0.0 middlesswal.com
 0.0.0.0 midlandfeisty.com
 0.0.0.0 midnightimpressionperception.com
 0.0.0.0 midnightnosebleeddoorway.com
@@ -31145,6 +31150,7 @@
 0.0.0.0 pamphletrating.com
 0.0.0.0 pamsg.online
 0.0.0.0 panaretoscarservice.gr
+0.0.0.0 pancreasoblivion.com
 0.0.0.0 panda-devtest.novadine.com
 0.0.0.0 panda.network
 0.0.0.0 pandanetwork.club
@@ -37889,6 +37895,7 @@
 0.0.0.0 sa2m4buc5us.com
 0.0.0.0 saambaa.com
 0.0.0.0 saavn.deliveryengine.adswizz.com
+0.0.0.0 sabaistsubmit.com
 0.0.0.0 sabergood.com
 0.0.0.0 sablesmile.com
 0.0.0.0 saboo.in
@@ -47148,6 +47155,7 @@
 0.0.0.0 wholedailyfeed.com
 0.0.0.0 wholefreshposts.com
 0.0.0.0 wholehori.com
+0.0.0.0 wholewowblog.com
 0.0.0.0 whompsranch.com
 0.0.0.0 whoostoo.net
 0.0.0.0 whoppingcreativestudios.com
