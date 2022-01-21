@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.021
-# Release: 021
-# Entries: 51,085
+# Version: 22.01.022
+# Release: 022
+# Entries: 51,100
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 21 Jan 22 20:07:01
+# Updated: Sat, 22 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6364,6 +6364,7 @@
 0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
+0.0.0.0 analytics-api.statvoo.com
 0.0.0.0 analytics-impulse.contextads.live
 0.0.0.0 analytics-ingress.bitmovin.com
 0.0.0.0 analytics-sdk.yle.fi
@@ -10337,6 +10338,7 @@
 0.0.0.0 boilerstab.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingcredit.com
+0.0.0.0 boilingtruce.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 boilslashtasted.com
 0.0.0.0 boilstaircasehug.com
@@ -16038,6 +16040,7 @@
 0.0.0.0 disableadblock.com
 0.0.0.0 disagreeablepeninsula.com
 0.0.0.0 disappearanceinspiredscan.com
+0.0.0.0 disappearancetickfilth.com
 0.0.0.0 disappearpoliticalamoral.com
 0.0.0.0 disappointingbeef.com
 0.0.0.0 disapprovalhardwareenvy.com
@@ -19753,6 +19756,7 @@
 0.0.0.0 g9qnk89pd5ic.com
 0.0.0.0 ga-ads.com
 0.0.0.0 ga-analytics.com
+0.0.0.0 ga-bq-py-1.appspot.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.opmnstr.com
 0.0.0.0 ga87z2o.com
@@ -28393,6 +28397,7 @@
 0.0.0.0 mxuiso.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 mxyxgkuexjr.com
 0.0.0.0 my-epoch.oppomobile.com
 0.0.0.0 my-epoch.realmemobile.com
 0.0.0.0 my-hookup-clubs1.com
@@ -30280,6 +30285,7 @@
 0.0.0.0 onclicktraffic.com
 0.0.0.0 onclkds.com
 0.0.0.0 onclklnd.com
+0.0.0.0 oncomeannuals.com
 0.0.0.0 onctus.com
 0.0.0.0 ondeerlingan.com
 0.0.0.0 ondemand.bounceexchange.com
@@ -30758,6 +30764,7 @@
 0.0.0.0 outovenmusths.com
 0.0.0.0 outpacetochers.com
 0.0.0.0 outragedisgraceful.com
+0.0.0.0 outrodetops.com
 0.0.0.0 outrushfetor.cam
 0.0.0.0 outseeltor.com
 0.0.0.0 outseylor.com
@@ -35556,6 +35563,7 @@
 0.0.0.0 ptetchie.net
 0.0.0.0 ptewarin.net
 0.0.0.0 ptewauta.net
+0.0.0.0 ptezyluny.com
 0.0.0.0 ptgwebcampus.com
 0.0.0.0 ptidsezi.com
 0.0.0.0 ptigjkkds.com
@@ -38777,6 +38785,7 @@
 0.0.0.0 sehfdkfjvgn.xyz
 0.0.0.0 sehgalestates.co.in
 0.0.0.0 sehiba.com
+0.0.0.0 seinpounday.com
 0.0.0.0 seisinhinger.com
 0.0.0.0 seitentipp.com
 0.0.0.0 seitwert.de
@@ -39415,6 +39424,7 @@
 0.0.0.0 shrinkearn.com
 0.0.0.0 shrinktheweb.com
 0.0.0.0 shrugartisticelder.com
+0.0.0.0 shrugglefor.com
 0.0.0.0 shscrypto.net
 0.0.0.0 shu2yn24aaujkhwpp.ay.delivery
 0.0.0.0 shubad2u8ba09.com
@@ -39987,6 +39997,7 @@
 0.0.0.0 snoopytool.outbrain.com
 0.0.0.0 snoresmile.com
 0.0.0.0 snortedbingo.com
+0.0.0.0 snouft.com
 0.0.0.0 snow.snowdayonline.xyz
 0.0.0.0 snowads.net
 0.0.0.0 snowdayonline.xyz
@@ -43107,6 +43118,7 @@
 0.0.0.0 tioniaukmlas.one
 0.0.0.0 tionmodat.club
 0.0.0.0 tip.atdmt.com
+0.0.0.0 tipcatscarola.com
 0.0.0.0 tippledtalmud.com
 0.0.0.0 tir94wepsdxox.appspot.com
 0.0.0.0 tiresomethunder.com
@@ -44786,6 +44798,7 @@
 0.0.0.0 trigr.co
 0.0.0.0 trikehemanw.xyz
 0.0.0.0 trilema.com
+0.0.0.0 trillerseora.com
 0.0.0.0 trilliumindustrialsafety.com
 0.0.0.0 trimasjaya.com
 0.0.0.0 trimmeditate.com
@@ -46618,6 +46631,7 @@
 0.0.0.0 vnacdnryl.com
 0.0.0.0 vnlive4.com
 0.0.0.0 vnlmrfekgag.com
+0.0.0.0 vnmrftwe.xyz
 0.0.0.0 vnq33.com
 0.0.0.0 vnq53.com
 0.0.0.0 vnq73.com
@@ -50126,6 +50140,7 @@
 0.0.0.0 xdowl0adxd0wnloadx.com
 0.0.0.0 xdrig.com
 0.0.0.0 xdtraffic.com
+0.0.0.0 xdvsijtlhr.com
 0.0.0.0 xe.adserver.yahoo.com
 0.0.0.0 xebadu.com
 0.0.0.0 xegroxenu.com
