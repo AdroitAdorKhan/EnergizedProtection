@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.023
-# Release: 023
-# Entries: 51,214
+# Version: 22.01.024
+# Release: 024
+# Entries: 51,219
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 23 Jan 22 20:07:02
+# Updated: Mon, 24 Jan 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7562,6 +7562,7 @@
 0.0.0.0 appendad.com
 0.0.0.0 appendixwarmingauthors.com
 0.0.0.0 appeq.000webhostapp.com
+0.0.0.0 appfile.cc
 0.0.0.0 appflood.com
 0.0.0.0 appfloor.appcpi.net
 0.0.0.0 appfuedenough.xyz
@@ -10664,6 +10665,7 @@
 0.0.0.0 browserr.top
 0.0.0.0 browsers.support
 0.0.0.0 browserservice.zzux.com
+0.0.0.0 browsiprod.com
 0.0.0.0 browsobsolete.com
 0.0.0.0 brqvld0p.com
 0.0.0.0 brtsumthree.com
@@ -28031,6 +28033,7 @@
 0.0.0.0 moneymetric.rediff.com
 0.0.0.0 moneyplatform.biz
 0.0.0.0 moneytec.com
+0.0.0.0 monglitch.monster
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monitis.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
@@ -28242,6 +28245,7 @@
 0.0.0.0 mqnlgavonacoyturmede.me
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mqs.ioam.de
+0.0.0.0 mqssvkgeegvenq.xyz
 0.0.0.0 mr.media-bucket.com
 0.0.0.0 mr.trafficshop.com
 0.0.0.0 mr01.inmobi.com
@@ -45179,6 +45183,7 @@
 0.0.0.0 tuxbpnne.com
 0.0.0.0 tuxhagsol.com
 0.0.0.0 tuzdan.com.sa
+0.0.0.0 tuzik09cat.site
 0.0.0.0 tv.livejasmin.com
 0.0.0.0 tv.lz-pub-ads.com
 0.0.0.0 tv.muslimconnectiontv.org
