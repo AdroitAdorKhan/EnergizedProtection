@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.028
 # Release: 028
-# Entries: 51,670
+# Entries: 51,676
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Jan 22 08:07:01
+# Updated: Fri, 28 Jan 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5831,6 +5831,7 @@
 0.0.0.0 airport.id
 0.0.0.0 airpr.com
 0.0.0.0 airpush.com
+0.0.0.0 airsaurd.com
 0.0.0.0 airship.com
 0.0.0.0 airticmonsoa.com
 0.0.0.0 aistat.net
@@ -12467,6 +12468,7 @@
 0.0.0.0 cj.com
 0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjgg1m.edvfwlacluo.com
+0.0.0.0 cjkeiekf.com
 0.0.0.0 cjl58f3agc.com
 0.0.0.0 cjlog.com
 0.0.0.0 cjqncwfxrfrwbdd.com
@@ -21185,6 +21187,7 @@
 0.0.0.0 gtarpstore.ru
 0.0.0.0 gtcslt-di2.com
 0.0.0.0 gtherequ.club
+0.0.0.0 gtm.beiersdorf.com
 0.0.0.0 gtm.oasisfeng.com
 0.0.0.0 gtm.udemy.com
 0.0.0.0 gtnjebhahvfr.xyz
@@ -27747,6 +27750,7 @@
 0.0.0.0 mgepodownload.mediatek.com
 0.0.0.0 mgid.com
 0.0.0.0 mgmpyqsthffzb88cl.ay.delivery
+0.0.0.0 mgzupozfeltrv.com
 0.0.0.0 mh9dskj8jg.com
 0.0.0.0 mhbdezpwdq.com
 0.0.0.0 mhuijbkkwcz.com
@@ -47127,6 +47131,7 @@
 0.0.0.0 vn.adserver.yahoo.com
 0.0.0.0 vn6e8w2w92.com
 0.0.0.0 vnacdnryl.com
+0.0.0.0 vnaujncaeoygdw.com
 0.0.0.0 vnlive4.com
 0.0.0.0 vnlmrfekgag.com
 0.0.0.0 vnmrftwe.xyz
@@ -51372,6 +51377,7 @@
 0.0.0.0 z.cnzz.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z.mugrikees.com
+0.0.0.0 z.mumun.cn
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z0000g.yvmads.com
 0.0.0.0 z1.adultsmartlink.ga
