@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.028
 # Release: 028
-# Entries: 51,676
+# Entries: 51,683
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Jan 22 12:07:02
+# Updated: Fri, 28 Jan 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2496,6 +2496,7 @@
 0.0.0.0 a-test.addthis.com
 0.0.0.0 a-usa.applovin.com
 0.0.0.0 a-v2.presage.io
+0.0.0.0 a-z-riken.co.jp
 0.0.0.0 a.296944ca2c266cf432c634fdf665d2ab30f502aea9972e996dfee25f.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.ad.gt
@@ -7443,6 +7444,7 @@
 0.0.0.0 apicmp.adreach.co
 0.0.0.0 apicmsdl.loc89.fun
 0.0.0.0 apid.adfalcon.com
+0.0.0.0 apidev.sunworld.vn
 0.0.0.0 apiecelee.com
 0.0.0.0 apigate.centili.com
 0.0.0.0 apiinit.amap.com
@@ -8255,6 +8257,7 @@
 0.0.0.0 aukalerim.com
 0.0.0.0 aukana.jp
 0.0.0.0 aukarosizox.com
+0.0.0.0 aukoatow.com
 0.0.0.0 auksizox.com
 0.0.0.0 aulingimpora.club
 0.0.0.0 aulrains.com
@@ -12906,6 +12909,7 @@
 0.0.0.0 cloudvpsfiles.com
 0.0.0.0 cloudypotsincluded.com
 0.0.0.0 cloutbeliefphantom.com
+0.0.0.0 clovekwealth.com
 0.0.0.0 clprr.com
 0.0.0.0 clrstm.com
 0.0.0.0 clsapi.vivo.com.cn
@@ -17410,6 +17414,7 @@
 0.0.0.0 ef1b12de60273025953b769e4f192ff3.safeframe.googlesyndication.com
 0.0.0.0 ef3fd415.api.splkmobile.com
 0.0.0.0 ef9i0f3oev47.com
+0.0.0.0 efaxbox4document.crepsad.tg
 0.0.0.0 efd3b86a5fbddda.com
 0.0.0.0 efeducationfirstlimi.tt.omtrdc.net
 0.0.0.0 effacerevealing.com
@@ -19697,6 +19702,7 @@
 0.0.0.0 frolnk.com
 0.0.0.0 fromjamaicaqq.com
 0.0.0.0 fromjoytohappiness.com
+0.0.0.0 fromtofor.ca
 0.0.0.0 frontier.musical.ly
 0.0.0.0 frontierdough.com
 0.0.0.0 frookshop-winsive.com
@@ -30696,6 +30702,7 @@
 0.0.0.0 online-adnetwork.com
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online.cnzz.com
+0.0.0.0 online.libertyinvestmentbank.com
 0.0.0.0 online.rayjump.com
 0.0.0.0 online3130.000webhostapp.com
 0.0.0.0 onlinebusinessleichtgemacht.de
