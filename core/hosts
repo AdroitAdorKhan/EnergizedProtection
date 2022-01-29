@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.01.029
-# Release: 029
-# Entries: 51,822
+# Version: 22.01.030
+# Release: 030
+# Entries: 51,823
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 29 Jan 22 20:07:02
+# Updated: Sun, 30 Jan 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -42371,6 +42371,7 @@
 0.0.0.0 sur.telemetry.intel.com
 0.0.0.0 surecheapermoisture.com
 0.0.0.0 sureflashelusive.com
+0.0.0.0 surestlogs.xyz
 0.0.0.0 surf-bar-traffic.com
 0.0.0.0 surfaceimmature.com
 0.0.0.0 surfe.be
