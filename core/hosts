@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.01.031
 # Release: 031
-# Entries: 51,949
+# Entries: 51,950
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 31 Jan 22 08:07:01
+# Updated: Mon, 31 Jan 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -161,6 +161,7 @@
 0.0.0.0 0ra5eylno4zs.com
 0.0.0.0 0redirb.com
 0.0.0.0 0redirc.com
+0.0.0.0 0redirc.comwww.profitabledisplaycontent.com
 0.0.0.0 0s0vn.bemobtrk.com
 0.0.0.0 0s9dxlr07huu.com
 0.0.0.0 0sntp7dnrr.com
