@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.02.034
-# Release: 034
-# Entries: 52,313
+# Version: 22.02.035
+# Release: 035
+# Entries: 52,320
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 03 Feb 22 20:07:02
+# Updated: Fri, 04 Feb 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17304,6 +17304,7 @@
 0.0.0.0 eaoueopa.com
 0.0.0.0 earandmarketing.com
 0.0.0.0 eardepth-prisists.com
+0.0.0.0 earewi.com
 0.0.0.0 earlapspur.com
 0.0.0.0 earliestinspectprone.com
 0.0.0.0 earlinggea.info
@@ -18257,6 +18258,7 @@
 0.0.0.0 ev.kck.st
 0.0.0.0 ev.rdtcdn.com
 0.0.0.0 ev.tpocdm.com
+0.0.0.0 evadav.top
 0.0.0.0 evadavdsp.pro
 0.0.0.0 evaluateend.com
 0.0.0.0 evaluecrm.com
@@ -24664,6 +24666,7 @@
 0.0.0.0 jsfiz.com
 0.0.0.0 jsfuz.com
 0.0.0.0 jsg.mgid.com
+0.0.0.0 jsiwjgnq.com
 0.0.0.0 jskods.co
 0.0.0.0 jskyservices.com
 0.0.0.0 jsmcrptjmp.com
@@ -26555,6 +26558,7 @@
 0.0.0.0 logz.ru
 0.0.0.0 logziop.bytefence.com
 0.0.0.0 logziop.reasonsecurity.com
+0.0.0.0 lojapanelmo.com
 0.0.0.0 lojaunigracom1.com.br
 0.0.0.0 lojong.page.link
 0.0.0.0 lokalfed.ml
@@ -27536,6 +27540,7 @@
 0.0.0.0 maxhacks.pro
 0.0.0.0 maxhash.org
 0.0.0.0 maxiadv.com
+0.0.0.0 maximtoaster.com
 0.0.0.0 maximus.ge
 0.0.0.0 maxinsp.xyz
 0.0.0.0 maxlover.in
@@ -28411,6 +28416,7 @@
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobads4app.com
 0.0.0.0 mobalert.net
+0.0.0.0 mobalm.com
 0.0.0.0 mobbahjug.com
 0.0.0.0 mobcrummymow.com
 0.0.0.0 mobday.com
@@ -52121,6 +52127,7 @@
 0.0.0.0 zeasis.com
 0.0.0.0 zebestof.com
 0.0.0.0 zebra.umeng.com
+0.0.0.0 zebruisiacu.com
 0.0.0.0 zebuaridromps.com
 0.0.0.0 zedo.com
 0.0.0.0 zedo.sync.go.sonobi.com
