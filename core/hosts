@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.02.036
-# Release: 036
-# Entries: 52,515
+# Version: 22.02.037
+# Release: 037
+# Entries: 52,516
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 05 Feb 22 20:07:01
+# Updated: Sun, 06 Feb 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -52433,6 +52433,7 @@
 0.0.0.0 zm2k3v.edvfwlacluo.com
 0.0.0.0 zmedia.com
 0.0.0.0 zml.laneso.com
+0.0.0.0 zmyslowyklub.com
 0.0.0.0 zn01kcimngrmdi4qt-chegg.siteintercept.qualtrics.com
 0.0.0.0 zn0gukjd7tjtqjzrh-dtts.siteintercept.qualtrics.com
 0.0.0.0 zn1fdmrst7jsai9mt-customer.siteintercept.qualtrics.com
