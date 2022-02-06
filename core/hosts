@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.02.037
-# Release: 037
-# Entries: 52,540
+# Version: 22.02.038
+# Release: 038
+# Entries: 52,546
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 06 Feb 22 20:07:01
+# Updated: Mon, 07 Feb 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5787,6 +5787,7 @@
 0.0.0.0 ahsanulalam.buet.ac.bd
 0.0.0.0 ahscdn.com
 0.0.0.0 ahstrelgnh.com
+0.0.0.0 ahurmtx9dnwwxa.ru
 0.0.0.0 ahvclick.com
 0.0.0.0 ahwrin88tl.com
 0.0.0.0 ai-cf.addthis.com
@@ -6928,6 +6929,7 @@
 0.0.0.0 analytics.valuepotion.com
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
+0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.vewd.com
 0.0.0.0 analytics.virginmobileusa.com
@@ -9128,6 +9130,7 @@
 0.0.0.0 bahag.demdex.net
 0.0.0.0 bahar669.com
 0.0.0.0 baharestanco.com
+0.0.0.0 bahfhgfdibgbcegbgg.ru
 0.0.0.0 bahmemohod.com
 0.0.0.0 baifendian.com
 0.0.0.0 baileyadopted.com
@@ -11321,6 +11324,7 @@
 0.0.0.0 cajaps.net
 0.0.0.0 cakemixturereview.xyz
 0.0.0.0 cakesinventory.com
+0.0.0.0 calabeshes.xyz
 0.0.0.0 calameo-beacon.global.ssl.fastly.net
 0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calamos.collect.igodigital.com
@@ -13006,6 +13010,7 @@
 0.0.0.0 cloudimagesb.com
 0.0.0.0 cloudioo.net
 0.0.0.0 cloudlessmajesty.com
+0.0.0.0 cloudlogobox.com
 0.0.0.0 cloudlucky.xyz
 0.0.0.0 cloudsc1s2.com
 0.0.0.0 cloudsdestruction.com
@@ -14806,6 +14811,7 @@
 0.0.0.0 cu-cn-north00001.gala.convection.cn
 0.0.0.0 cu-cn-north00002.gala.convection.cn
 0.0.0.0 cu4wyv6vvpjknscag.ay.delivery
+0.0.0.0 cuabufkg.com
 0.0.0.0 cubanetestoon.com
 0.0.0.0 cubchannel.com
 0.0.0.0 cubdwcrenloyxnv.com
