@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.040
 # Release: 040
-# Entries: 52,729
+# Entries: 52,730
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 09 Feb 22 08:07:02
+# Updated: Wed, 09 Feb 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -46140,6 +46140,7 @@
 0.0.0.0 tripthaithai.com
 0.0.0.0 trisxisys.com
 0.0.0.0 tritionstration.com
+0.0.0.0 triumphantplace.com
 0.0.0.0 triumphgeorgianaselfcontrol.com
 0.0.0.0 trix.net
 0.0.0.0 trixyapieces.com
