@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.041
 # Release: 041
-# Entries: 52,814
+# Entries: 52,818
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 10 Feb 22 12:07:01
+# Updated: Thu, 10 Feb 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2720,6 +2720,7 @@
 0.0.0.0 aa53df329975c325.com
 0.0.0.0 aaaaaco.com
 0.0.0.0 aab-check.me
+0.0.0.0 aab-proxy-tests.top
 0.0.0.0 aab41d9395207e98b9217e5e27065d1d.safeframe.googlesyndication.com
 0.0.0.0 aabmxezph.com
 0.0.0.0 aad342etr.000webhostapp.com
@@ -25604,6 +25605,7 @@
 0.0.0.0 kutuheca.com
 0.0.0.0 kv3oznwdqkzdfttay.ay.delivery
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 kvoyqpxsirr.com
 0.0.0.0 kvtrck.com
 0.0.0.0 kw.ads.justpremium.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
@@ -52011,6 +52013,7 @@
 0.0.0.0 xtremetop100.com
 0.0.0.0 xtremline.com
 0.0.0.0 xts7fgss.com
+0.0.0.0 xtssfsmpfdgyrw.com
 0.0.0.0 xtycflpacoqopt.xyz
 0.0.0.0 xu2.com
 0.0.0.0 xu5ctufltn.com
@@ -52678,6 +52681,7 @@
 0.0.0.0 zhongmaifangwu.com
 0.0.0.0 zhulik2ne1voruy1d.com
 0.0.0.0 zi8ivy4b0c7l.com
+0.0.0.0 ziccardia.com
 0.0.0.0 zicyqbpqsg.com
 0.0.0.0 zidedge.com
 0.0.0.0 zidoudsa.net
