@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.046
 # Release: 046
-# Entries: 53,282
+# Entries: 53,283
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 15 Feb 22 16:07:02
+# Updated: Tue, 15 Feb 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -52494,6 +52494,7 @@
 0.0.0.0 xxx.full.video.download.oillan.imzog.com
 0.0.0.0 xxx2019.pro
 0.0.0.0 xxxadu.com
+0.0.0.0 xxxadv.com
 0.0.0.0 xxxbannerswap.com
 0.0.0.0 xxxblackbook.com
 0.0.0.0 xxxc2c.org
