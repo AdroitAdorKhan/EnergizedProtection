@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.02.050
-# Release: 050
-# Entries: 53,712
+# Version: 22.02.051
+# Release: 051
+# Entries: 53,732
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 19 Feb 22 20:07:02
+# Updated: Sun, 20 Feb 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2658,6 +2658,7 @@
 0.0.0.0 a1825.dscd.akamai.net
 0.0.0.0 a19282ff1fa0.bitsngo.net
 0.0.0.0 a1f5e918.dr.youme.im
+0.0.0.0 a1webstrategy.com
 0.0.0.0 a2-38-65-20-18.adform.net
 0.0.0.0 a2-38-65-20-19.adform.net
 0.0.0.0 a2.adform.net
@@ -5617,6 +5618,7 @@
 0.0.0.0 affex.org
 0.0.0.0 affifix.com
 0.0.0.0 affilae.com
+0.0.0.0 affilbox.cz
 0.0.0.0 affili.net
 0.0.0.0 affili.st
 0.0.0.0 affiliate-b.com
@@ -10539,6 +10541,7 @@
 0.0.0.0 bnserving.com
 0.0.0.0 bnsjb1ab1e.com
 0.0.0.0 bnster.com
+0.0.0.0 bnyvjglvdnkhh.xyz
 0.0.0.0 bo2ffe45ss4gie.com
 0.0.0.0 bo4news.biz
 0.0.0.0 boacheeb.com
@@ -15276,6 +15279,7 @@
 0.0.0.0 d.haberler.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 d.justpremium.com
+0.0.0.0 d.k3r.jp
 0.0.0.0 d.liadm.com
 0.0.0.0 d.maldini.xyz
 0.0.0.0 d.miliated.xyz
@@ -20999,6 +21003,7 @@
 0.0.0.0 getvottak.com
 0.0.0.0 getyour-ladyshere.com
 0.0.0.0 getyourbest-profit.life
+0.0.0.0 geuninebd.com
 0.0.0.0 geverythingr.biz
 0.0.0.0 geyan.gepush.com
 0.0.0.0 gezinti.com
@@ -24762,6 +24767,7 @@
 0.0.0.0 iyi.net
 0.0.0.0 iynwlojaay.com
 0.0.0.0 iyotvideos.com
+0.0.0.0 iytjyslqmjovl.xyz
 0.0.0.0 iz.rollerads.com
 0.0.0.0 izea.com
 0.0.0.0 izearanks.com
@@ -25007,6 +25013,7 @@
 0.0.0.0 jigsawhybrid.com
 0.0.0.0 jigsawpopcorn.com
 0.0.0.0 jigsawthirsty.com
+0.0.0.0 jihteacma.xyz
 0.0.0.0 jikicotho.pro
 0.0.0.0 jikkiaderwa.top
 0.0.0.0 jill.fc.yahoo.com
@@ -28751,6 +28758,7 @@
 0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 metrics6.dt.hicloud.com
+0.0.0.0 metricskey.com
 0.0.0.0 metricswpsh.com
 0.0.0.0 metrika-informer.com
 0.0.0.0 metrika.kontur.ru
@@ -29780,6 +29788,7 @@
 0.0.0.0 mx.ero-advertising.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxauevhape.xyz
+0.0.0.0 mxcdjcbssmdok.com
 0.0.0.0 mxcdn.net
 0.0.0.0 mxd.livejasmin.com
 0.0.0.0 mxnwpveqxugfue.com
@@ -33825,6 +33834,7 @@
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixeljs-ads.pubmatic.com
 0.0.0.0 pixellitomedia.com
+0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pixels.ingbank.com.tr
 0.0.0.0 pixels.mparticle.com
@@ -37804,6 +37814,7 @@
 0.0.0.0 qcb7o.bemobtrk.com
 0.0.0.0 qcdnxq.com
 0.0.0.0 qctop.com
+0.0.0.0 qcwhbopbqubunl.xyz
 0.0.0.0 qcykoulh.xyz
 0.0.0.0 qd3u5eeuos.com
 0.0.0.0 qdatasales.com
@@ -39023,6 +39034,8 @@
 0.0.0.0 retargetcore.com
 0.0.0.0 retargeter.com
 0.0.0.0 retargeter.com.br
+0.0.0.0 retargeting.biz
+0.0.0.0 retargeting.newsmanapp.com
 0.0.0.0 retargetly.com
 0.0.0.0 retcyy.com
 0.0.0.0 retdaz.fun
@@ -42976,6 +42989,7 @@
 0.0.0.0 static-ru.plista.com
 0.0.0.0 static-test.outbrain.com
 0.0.0.0 static-trackers.adtarget.me
+0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static-web.likeevideo.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 static.adclerks.com
@@ -44285,6 +44299,7 @@
 0.0.0.0 tagging5.truecaller.com
 0.0.0.0 taghaugh.com
 0.0.0.0 tagjunction.com
+0.0.0.0 tagman.britishairways.com
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tagmanager.toast.com
@@ -46000,6 +46015,7 @@
 0.0.0.0 track.latinasex.com
 0.0.0.0 track.latinatranny.com
 0.0.0.0 track.leadhit.io
+0.0.0.0 track.leadhit.ru
 0.0.0.0 track.leadnationmedia.com
 0.0.0.0 track.leady.cz
 0.0.0.0 track.leanlab.co
@@ -46475,6 +46491,7 @@
 0.0.0.0 tracker.tfile.me
 0.0.0.0 tracker.the-other-store.net
 0.0.0.0 tracker.therubberclinic.com
+0.0.0.0 tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.tubecj.com
@@ -46498,6 +46515,7 @@
 0.0.0.0 tracking-i2.adsafety.net
 0.0.0.0 tracking-jmlink.jpush.cn
 0.0.0.0 tracking-prod.steelyard.ca
+0.0.0.0 tracking-sap.frodx.com
 0.0.0.0 tracking-sj2.cj.com
 0.0.0.0 tracking-sto.cj.com
 0.0.0.0 tracking-stvde.adsafety.net
@@ -46593,6 +46611,7 @@
 0.0.0.0 tracking.shopback.com
 0.0.0.0 tracking.shopstylecollective.com
 0.0.0.0 tracking.shoptogether.buy.com
+0.0.0.0 tracking.smartselling.cz
 0.0.0.0 tracking.socketlabs.com
 0.0.0.0 tracking.softwareprojects.com
 0.0.0.0 tracking.stackpath.com
@@ -52727,6 +52746,7 @@
 0.0.0.0 xmhxptpyphagq.xyz
 0.0.0.0 xminingpool.com
 0.0.0.0 xminxnaioxnwiau.com
+0.0.0.0 xmkniejb.xyz
 0.0.0.0 xml-api.online
 0.0.0.0 xml-eu.adright.co
 0.0.0.0 xml-us.adright.co
