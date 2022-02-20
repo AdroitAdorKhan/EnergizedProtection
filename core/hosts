@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.052
 # Release: 052
-# Entries: 53,797
+# Entries: 53,798
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 21 Feb 22 00:07:02
+# Updated: Mon, 21 Feb 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -47044,6 +47044,7 @@
 0.0.0.0 trk.setting-nervous-steady-noted.xyz
 0.0.0.0 trk.shopstylecollective.com
 0.0.0.0 trk.stage.kissmetrics.com
+0.0.0.0 trk.storyly.io
 0.0.0.0 trk.stream-secure.stream
 0.0.0.0 trk.stroeermediabrands.de
 0.0.0.0 trk.sudden-prepare-faster-send.xyz
