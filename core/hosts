@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.052
 # Release: 052
-# Entries: 53,833
+# Entries: 53,834
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 21 Feb 22 12:07:02
+# Updated: Mon, 21 Feb 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6086,6 +6086,7 @@
 0.0.0.0 alleypersonally.com
 0.0.0.0 allgates.uk
 0.0.0.0 allhotfeed.com
+0.0.0.0 allhottoss.cam
 0.0.0.0 allhugeblog.com
 0.0.0.0 allhugenewz.com
 0.0.0.0 alli-ti-cod.com
