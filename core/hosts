@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.052
 # Release: 052
-# Entries: 53,830
+# Entries: 53,833
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 21 Feb 22 08:07:02
+# Updated: Mon, 21 Feb 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9056,6 +9056,7 @@
 0.0.0.0 b11stop.com
 0.0.0.0 b12stop.com
 0.0.0.0 b13481647cf775c5.com
+0.0.0.0 b13stop.com
 0.0.0.0 b16.nakanohito.jp
 0.0.0.0 b174.s240.meetrics.net
 0.0.0.0 b18a21ab3c9cb53.com
@@ -22598,6 +22599,7 @@
 0.0.0.0 hipma.unikom.ac.id
 0.0.0.0 hippchapter.com
 0.0.0.0 hiprofitnetworks.com
+0.0.0.0 hipsarda.net
 0.0.0.0 hiqubonenete.tk
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hiro-media-inv-eu.admixer.net
@@ -53599,6 +53601,7 @@
 0.0.0.0 zathytycho.com
 0.0.0.0 zatythygre.pro
 0.0.0.0 zauglomo.net
+0.0.0.0 zaugroaw.net
 0.0.0.0 zavrotfro.com
 0.0.0.0 zavunuve.pro
 0.0.0.0 zayac2volk11.com
