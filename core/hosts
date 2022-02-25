@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.02.056
 # Release: 056
-# Entries: 54,257
+# Entries: 54,261
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 25 Feb 22 12:07:02
+# Updated: Fri, 25 Feb 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -30715,6 +30715,7 @@
 0.0.0.0 news.uc.cn
 0.0.0.0 news.uposit.me
 0.0.0.0 news02.biz
+0.0.0.0 news07.biz
 0.0.0.0 news19.biz
 0.0.0.0 news2day.me
 0.0.0.0 news98.biz
@@ -40101,6 +40102,7 @@
 0.0.0.0 rusenov.com
 0.0.0.0 rusepastryblocks.com
 0.0.0.0 rusinsonatas.cam
+0.0.0.0 russedpriv.one
 0.0.0.0 russellipm-storedproductsinsects.com
 0.0.0.0 russianlovematch.com
 0.0.0.0 rusticprice.com
@@ -47021,6 +47023,7 @@
 0.0.0.0 tracking.netdoktor.at
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.noen.at
+0.0.0.0 tracking.nw.de
 0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tracking.oneclicklink.com
 0.0.0.0 tracking.openx.com
@@ -54055,6 +54058,7 @@
 0.0.0.0 zeasis.com
 0.0.0.0 zebestof.com
 0.0.0.0 zebra.umeng.com
+0.0.0.0 zebruisia.one
 0.0.0.0 zebruisiacu.com
 0.0.0.0 zebuaridromps.com
 0.0.0.0 zedo.com
