@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.02.058
-# Release: 058
-# Entries: 54,483
+# Version: 22.02.059
+# Release: 059
+# Entries: 54,489
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 27 Feb 22 20:07:01
+# Updated: Mon, 28 Feb 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17849,6 +17849,7 @@
 0.0.0.0 eblastengine.com
 0.0.0.0 ebmegpahti.com
 0.0.0.0 ebmspa.cl
+0.0.0.0 ebnlsigphtumyyd.com
 0.0.0.0 ebocornac.com
 0.0.0.0 ebooksdaddy.com
 0.0.0.0 ebooksfriend.com
@@ -29428,6 +29429,7 @@
 0.0.0.0 mlcmjxbpgsmq.com
 0.0.0.0 mlds.go.th
 0.0.0.0 mlegwhnrnljbw.xyz
+0.0.0.0 mllyrwrkuvajo.com
 0.0.0.0 mlm.de
 0.0.0.0 mlmixpqwivsxftw.xyz
 0.0.0.0 mlnadvertising.com
@@ -29453,6 +29455,7 @@
 0.0.0.0 mmlugurcxv.xyz
 0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mmnetwork.mobi
+0.0.0.0 mmnfrlxqknv.com
 0.0.0.0 mmoframes.com
 0.0.0.0 mmotraffic.com
 0.0.0.0 mmp.inmobi.com
@@ -43248,6 +43251,7 @@
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssdkauth.hpplay.cn
 0.0.0.0 ssettoourm.com
+0.0.0.0 ssgxiiibyeo.xyz
 0.0.0.0 ssh.kissmetrics.com
 0.0.0.0 sshomeo.com
 0.0.0.0 sshowads.pubmatic.com
@@ -48160,6 +48164,7 @@
 0.0.0.0 uidsync.net
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uigruwtql.com
+0.0.0.0 uiikxuesenpuy.xyz
 0.0.0.0 uinames.com
 0.0.0.0 uiqahwspwtya.com
 0.0.0.0 uitabletublis.info
@@ -49812,6 +49817,7 @@
 0.0.0.0 vutudm.com
 0.0.0.0 vuuivogfhs.xyz
 0.0.0.0 vuukle-bigquery.appspot.com
+0.0.0.0 vuurnfmp.xyz
 0.0.0.0 vuuwd.com
 0.0.0.0 vuwomoby.pro
 0.0.0.0 vuzzi.com
