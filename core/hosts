@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.03.062
 # Release: 062
-# Entries: 54,809
+# Entries: 54,810
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 03 Mar 22 04:07:01
+# Updated: Thu, 03 Mar 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -46378,6 +46378,7 @@
 0.0.0.0 tophatstudio.com.au
 0.0.0.0 tophelio.com
 0.0.0.0 tophits4u.de
+0.0.0.0 tophotladies-4you.com
 0.0.0.0 topichawaii.com
 0.0.0.0 topline36.xyz
 0.0.0.0 toplist.cz
