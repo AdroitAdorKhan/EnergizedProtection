@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.066
-# Release: 066
-# Entries: 55,353
+# Version: 22.03.067
+# Release: 067
+# Entries: 55,357
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 07 Mar 22 20:07:01
+# Updated: Tue, 08 Mar 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16109,6 +16109,7 @@
 0.0.0.0 dcdn.adnxs.com
 0.0.0.0 dcdz5xfv4nws.com
 0.0.0.0 dce7c291c498.bitsngo.net
+0.0.0.0 dcesxdvixnrwlu.com
 0.0.0.0 dcflmhmba.xyz
 0.0.0.0 dcfnihzg81pa.com
 0.0.0.0 dch.kz
@@ -25688,6 +25689,7 @@
 0.0.0.0 jivosite.com
 0.0.0.0 jivox.com
 0.0.0.0 jixiangrong.com
+0.0.0.0 jiyfhqhrjaklwq.xyz
 0.0.0.0 jizzensirrah.com
 0.0.0.0 jizzy.org
 0.0.0.0 jjgmcgajg.xyz
@@ -30702,6 +30704,7 @@
 0.0.0.0 mydas.mobi
 0.0.0.0 mydash.yieldlab.net
 0.0.0.0 mydating-partner2.com
+0.0.0.0 mydirtytinders.com
 0.0.0.0 mydiskm.uc.cn
 0.0.0.0 mydisuho.pro
 0.0.0.0 myetherwailet.com
@@ -50899,6 +50902,7 @@
 0.0.0.0 webatam.com
 0.0.0.0 webcamonline.xyz
 0.0.0.0 webcampromo.com
+0.0.0.0 webcams-chat.com
 0.0.0.0 webcams.h-bid.com
 0.0.0.0 webcash.nl
 0.0.0.0 webchain.network
