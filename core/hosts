@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.071
-# Release: 071
-# Entries: 55,801
+# Version: 22.03.072
+# Release: 072
+# Entries: 55,803
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 12 Mar 22 20:07:01
+# Updated: Sun, 13 Mar 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -41145,6 +41145,7 @@
 0.0.0.0 rufflycouncil.com
 0.0.0.0 ruftodru.net
 0.0.0.0 rugby1store.myshopify.com
+0.0.0.0 rugefinu.net
 0.0.0.0 ruggownsawlog.cam
 0.0.0.0 rughters-knicals.com
 0.0.0.0 rugrukoca.com
@@ -49527,6 +49528,7 @@
 0.0.0.0 untruecitycheater.com
 0.0.0.0 untruehypothesiseconomy.com
 0.0.0.0 untruewring.com
+0.0.0.0 untvwqvrk.com
 0.0.0.0 unumbonum.com
 0.0.0.0 unurbs.com
 0.0.0.0 unusedquestion.com
