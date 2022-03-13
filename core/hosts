@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.03.072
 # Release: 072
-# Entries: 55,840
+# Entries: 55,846
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 13 Mar 22 12:07:01
+# Updated: Sun, 13 Mar 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8272,6 +8272,7 @@
 0.0.0.0 astat.nikkei.co.jp
 0.0.0.0 astat.nikkei.com
 0.0.0.0 astatech-cn.com
+0.0.0.0 astcarbinkom.com
 0.0.0.0 asterilivestream.com
 0.0.0.0 asterpix.com
 0.0.0.0 astertour.fun
@@ -17417,6 +17418,7 @@
 0.0.0.0 downloadonlyfree.com
 0.0.0.0 downloadpangu.org
 0.0.0.0 downloadphone.info
+0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 downloads.dd.com.mt
 0.0.0.0 downloads.mjrxf0.cn
 0.0.0.0 downloads.pagefair.com
@@ -23907,6 +23909,7 @@
 0.0.0.0 hvhboss.000webhostapp.com
 0.0.0.0 hvhcsgo.000webhostapp.com
 0.0.0.0 hvhlegendpro.000webhostapp.com
+0.0.0.0 hvlhgitge.com
 0.0.0.0 hvrhqjynw.xyz
 0.0.0.0 hvsmdpkhmjju.xyz
 0.0.0.0 hvufseudljnr.com
@@ -25352,6 +25355,7 @@
 0.0.0.0 iphumiki.com
 0.0.0.0 ipiech.com
 0.0.0.0 ipinyou.com.cn
+0.0.0.0 ipiyblrhcbgbtk.com
 0.0.0.0 iplan.tclmobile.cn
 0.0.0.0 iplocationtools.com
 0.0.0.0 iplogger.com
@@ -42385,6 +42389,7 @@
 0.0.0.0 server.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 server.durationmedia.net
+0.0.0.0 server.easysalepage.in.th
 0.0.0.0 server.mpnrs.com
 0.0.0.0 server20.duckdns.org
 0.0.0.0 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
@@ -55857,6 +55862,7 @@
 0.0.0.0 zurges.com
 0.0.0.0 zurieskinclinic.com
 0.0.0.0 zurilito.online
+0.0.0.0 zusepe.xyz
 0.0.0.0 zvatrswtsrw.ml
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zvideo-live.com
