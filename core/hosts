@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.073
-# Release: 073
-# Entries: 56,057
+# Version: 22.03.074
+# Release: 074
+# Entries: 56,064
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 14 Mar 22 20:07:02
+# Updated: Tue, 15 Mar 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13110,6 +13110,7 @@
 0.0.0.0 cldlr.com
 0.0.0.0 cldom.com
 0.0.0.0 cldrck.com
+0.0.0.0 cldup.com
 0.0.0.0 clean-protection.xyz
 0.0.0.0 clean.gg
 0.0.0.0 clean4app.xyz
@@ -20466,6 +20467,7 @@
 0.0.0.0 flysoothingate.com
 0.0.0.0 flytag.store
 0.0.0.0 fmebili.info
+0.0.0.0 fmlodpskbybfu.xyz
 0.0.0.0 fmm-tracking.appsdemo.xyz
 0.0.0.0 fmnetwork.nl
 0.0.0.0 fmnybwjmkfpoqdm.xyz
@@ -33552,6 +33554,7 @@
 0.0.0.0 osbb.lviv.ua
 0.0.0.0 oscartordoya.com
 0.0.0.0 oscdn.batmobi.net
+0.0.0.0 osdimdvykhcb.xyz
 0.0.0.0 osdsoft.com
 0.0.0.0 osearch.media.net
 0.0.0.0 osg.bet
@@ -35106,6 +35109,7 @@
 0.0.0.0 pinballpublishernetwork.com
 0.0.0.0 pindenspat.com
 0.0.0.0 pinedacryptos.com
+0.0.0.0 pineycaids.com
 0.0.0.0 ping-fast.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.hungama.com
@@ -43137,6 +43141,7 @@
 0.0.0.0 signup-way.com
 0.0.0.0 signup.taboola.com
 0.0.0.0 signupservice.appsflyer.com
+0.0.0.0 siiuuwam.xyz
 0.0.0.0 sikelypleaste.site
 0.0.0.0 sikhscaid.com
 0.0.0.0 siklgmjs.com
@@ -47132,6 +47137,7 @@
 0.0.0.0 tk.w3.eyeteam.vn
 0.0.0.0 tk6if76q.ab1n.net
 0.0.0.0 tkcatwalk.aotter.net
+0.0.0.0 tkdyvyxhkxmkbt.xyz
 0.0.0.0 tkgcldjmegxn.com
 0.0.0.0 tkickhhylnvm.com
 0.0.0.0 tkixajgd.com
@@ -51450,6 +51456,7 @@
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wcbpcsoks.xyz
 0.0.0.0 wcdny.com
+0.0.0.0 wcefkyvwachxdd.com
 0.0.0.0 wcfievwwtai.xyz
 0.0.0.0 wcfjfsjtlkha.com
 0.0.0.0 wcitianka.com
