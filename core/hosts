@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.075
-# Release: 075
-# Entries: 56,449
+# Version: 22.03.076
+# Release: 076
+# Entries: 56,459
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 16 Mar 22 20:07:01
+# Updated: Thu, 17 Mar 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12329,6 +12329,7 @@
 0.0.0.0 cdn.contentabc.com
 0.0.0.0 cdn.contentsitesrv.com
 0.0.0.0 cdn.contextads.live
+0.0.0.0 cdn.ddmanager.ru
 0.0.0.0 cdn.dianomi.com
 0.0.0.0 cdn.digiad.co
 0.0.0.0 cdn.digitalpush.org
@@ -14575,6 +14576,7 @@
 0.0.0.0 congestdiscreditwithdrew.com
 0.0.0.0 congestionwithdrew.com
 0.0.0.0 congestit.com
+0.0.0.0 congoesld.com
 0.0.0.0 congratulatedreside.com
 0.0.0.0 congressaffrayghosts.com
 0.0.0.0 conhive.com
@@ -28688,6 +28690,7 @@
 0.0.0.0 lowremoraidon.com
 0.0.0.0 lowseelan.com
 0.0.0.0 lowtyroguer.com
+0.0.0.0 lowtyruntor.com
 0.0.0.0 lowvktopldry.com
 0.0.0.0 loxbeelid.com
 0.0.0.0 loxedchazan.com
@@ -31128,6 +31131,7 @@
 0.0.0.0 muhite.com
 0.0.0.0 mujilora.com
 0.0.0.0 mukuge.com
+0.0.0.0 mulleysnutmeg.com
 0.0.0.0 multiadblock.com
 0.0.0.0 multielectrical.net
 0.0.0.0 multifarewell.com
@@ -39438,6 +39442,7 @@
 0.0.0.0 pvipgaj.com
 0.0.0.0 pviqynsyx.xyz
 0.0.0.0 pvk.jp
+0.0.0.0 pvobumsfxacarh.com
 0.0.0.0 pvpmobyix.xyz
 0.0.0.0 pvptwhhkfmog.com
 0.0.0.0 pvrtx.net
@@ -41471,6 +41476,7 @@
 0.0.0.0 rt.seedtag.com
 0.0.0.0 rt6qb.xyz
 0.0.0.0 rta2.metro.co.uk
+0.0.0.0 rta2.newzit.com
 0.0.0.0 rtantventu.biz
 0.0.0.0 rtapakistan.com
 0.0.0.0 rtapi.abbi.io
@@ -44257,6 +44263,7 @@
 0.0.0.0 sp.dnj.com
 0.0.0.0 sp.dpgmedia.net
 0.0.0.0 sp.fdlreporter.com
+0.0.0.0 sp.flocktory.com
 0.0.0.0 sp.floridatoday.com
 0.0.0.0 sp.freep.com
 0.0.0.0 sp.fsunews.com
@@ -49913,6 +49920,7 @@
 0.0.0.0 unazumarillan.com
 0.0.0.0 unbearablemessyammunition.com
 0.0.0.0 unbecominghall.com
+0.0.0.0 unblestrustic.com
 0.0.0.0 unblockedapi.com
 0.0.0.0 unblockia.com
 0.0.0.0 unbodypestis.com
@@ -52778,6 +52786,7 @@
 0.0.0.0 wurfl.io
 0.0.0.0 wutipupi.xyz
 0.0.0.0 wutlar.fortumo.com
+0.0.0.0 wuyizhqrappxeq.com
 0.0.0.0 wvdmwvsjfrojq.xyz
 0.0.0.0 wvekmgxyfnja.xyz
 0.0.0.0 wvgupahjyvq.xyz
@@ -54166,6 +54175,7 @@
 0.0.0.0 www.pamphletrating.com
 0.0.0.0 www.pamsg.online
 0.0.0.0 www.panp.top
+0.0.0.0 www.partieseclipse.com
 0.0.0.0 www.partyguarantee.com
 0.0.0.0 www.pasionportufuturo.pe
 0.0.0.0 www.passeura.com
