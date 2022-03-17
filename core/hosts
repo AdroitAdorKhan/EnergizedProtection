@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.03.077
 # Release: 077
-# Entries: 56,542
+# Entries: 56,544
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 18 Mar 22 00:07:01
+# Updated: Fri, 18 Mar 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20459,6 +20459,7 @@
 0.0.0.0 fk-k8s-setting.rayjump.com
 0.0.0.0 fk-old-setting.rayjump.com
 0.0.0.0 fk-setting.rayjump.com
+0.0.0.0 fkblytfcmeqkty.xyz
 0.0.0.0 fkbwtoopwg.com
 0.0.0.0 fkd.derpcity.ru
 0.0.0.0 fkehg.com
@@ -22022,6 +22023,7 @@
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 gkmriksh.xyz
+0.0.0.0 gkpohvff.com
 0.0.0.0 gkpvoebupht.com
 0.0.0.0 gksportshub.com
 0.0.0.0 gkxxobikjtruc8wq7.ay.delivery
