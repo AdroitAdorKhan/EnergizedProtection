@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.03.076
 # Release: 076
-# Entries: 56,476
+# Entries: 56,477
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 17 Mar 22 12:07:01
+# Updated: Thu, 17 Mar 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13553,6 +13553,7 @@
 0.0.0.0 cloud.setupad.com
 0.0.0.0 cloud.uc.cn
 0.0.0.0 cloud2.appcelerator.net
+0.0.0.0 cloudaaaa.com
 0.0.0.0 cloudbase-media.de
 0.0.0.0 cloudera.demdex.net
 0.0.0.0 cloudflareinsights.com
