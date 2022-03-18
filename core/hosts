@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.077
-# Release: 077
-# Entries: 56,595
+# Version: 22.03.078
+# Release: 078
+# Entries: 56,600
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 18 Mar 22 20:07:01
+# Updated: Sat, 19 Mar 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9667,6 +9667,7 @@
 0.0.0.0 basepainters.com
 0.0.0.0 basepush.com
 0.0.0.0 basest-rooms.000webhostapp.com
+0.0.0.0 basfol.com
 0.0.0.0 basheighthnumerous.com
 0.0.0.0 bashfulweaponsscratch.com
 0.0.0.0 basicpossibility.com
@@ -15838,6 +15839,7 @@
 0.0.0.0 d21rudljp9n1rr.cloudfront.net
 0.0.0.0 d21y75miwcfqoq.cloudfront.net
 0.0.0.0 d227cncaprzd7y.cloudfront.net
+0.0.0.0 d22ffr6srkd9zx.cloudfront.net
 0.0.0.0 d22xmn10vbouk4.cloudfront.net
 0.0.0.0 d23xhr62nxa8qo.cloudfront.net
 0.0.0.0 d24ak3f2b.top
@@ -16839,6 +16841,7 @@
 0.0.0.0 dewagg.com
 0.0.0.0 dewapsithi.pro
 0.0.0.0 dewbkwortyc.xyz
+0.0.0.0 dewiestsards.com
 0.0.0.0 dewincubiatoll.com
 0.0.0.0 dexchangeinc.com
 0.0.0.0 deximedia.com
@@ -28196,6 +28199,7 @@
 0.0.0.0 liveprivates.com
 0.0.0.0 liverail.sync.go.sonobi.com
 0.0.0.0 liveramp.sync.go.sonobi.com
+0.0.0.0 liveredwilton.com
 0.0.0.0 liversely.com
 0.0.0.0 liversely.net
 0.0.0.0 liversimply.com
@@ -41412,6 +41416,7 @@
 0.0.0.0 rorserdy.com
 0.0.0.0 rortyshavian.com
 0.0.0.0 rosafun.com
+0.0.0.0 rosalscrite.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselinlin.com
 0.0.0.0 roseltoatoa.cam
