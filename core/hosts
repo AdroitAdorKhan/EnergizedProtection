@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.078
-# Release: 078
-# Entries: 56,665
+# Version: 22.03.079
+# Release: 079
+# Entries: 56,668
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 19 Mar 22 20:07:02
+# Updated: Sun, 20 Mar 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17577,6 +17577,7 @@
 0.0.0.0 download-performance.com
 0.0.0.0 download-readynow.com
 0.0.0.0 download-sistem.ru
+0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download-step1.com
 0.0.0.0 download.350.com
 0.0.0.0 download.appsflyer.com
@@ -34134,6 +34135,7 @@
 0.0.0.0 oviparaatalan.com
 0.0.0.0 ovoute.com
 0.0.0.0 ovrnevnriuen20.site
+0.0.0.0 ovtiqqwfl.xyz
 0.0.0.0 ovulgmeo.com
 0.0.0.0 ovyopwovq.xyz
 0.0.0.0 ovz3.skazkatut2222.px7zm.vps.myjino.ru
@@ -53855,6 +53857,7 @@
 0.0.0.0 www.gbhbl.com
 0.0.0.0 www.gcm.ksmobile.com
 0.0.0.0 www.geeks-guides.info
+0.0.0.0 www.generalizationtrifling.com
 0.0.0.0 www.generouslivelinessevidence.com
 0.0.0.0 www.germanexpecting.com
 0.0.0.0 www.germania-bietigheim.de
