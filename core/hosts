@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.03.087
 # Release: 087
-# Entries: 57,726
+# Entries: 57,728
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 28 Mar 22 08:07:02
+# Updated: Mon, 28 Mar 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5549,6 +5549,7 @@
 0.0.0.0 adx.atnext.com
 0.0.0.0 adx.com.ru
 0.0.0.0 adx.hasmobi.net
+0.0.0.0 adx.io
 0.0.0.0 adx.luxup2.ru
 0.0.0.0 adx.otm-r.com
 0.0.0.0 adx.snipermob.com
@@ -30883,6 +30884,7 @@
 0.0.0.0 mg.mgid.com
 0.0.0.0 mg.steepto.com
 0.0.0.0 mg.traffic-media.co.uk
+0.0.0.0 mg4s1.com
 0.0.0.0 mgage.com
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
