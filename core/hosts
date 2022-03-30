@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.03.089
-# Release: 089
-# Entries: 58,193
+# Version: 22.03.090
+# Release: 090
+# Entries: 58,202
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 30 Mar 22 20:07:01
+# Updated: Thu, 31 Mar 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12322,6 +12322,7 @@
 0.0.0.0 catsys.jp
 0.0.0.0 cattishhooliganmemorable.com
 0.0.0.0 cattlepartners.com
+0.0.0.0 cattlepilot.com
 0.0.0.0 catverticalposterity.com
 0.0.0.0 catwenbat.com
 0.0.0.0 catwrite.com
@@ -14125,6 +14126,7 @@
 0.0.0.0 coll.v00yvd.xyz
 0.0.0.0 collaboratedog.com
 0.0.0.0 collaborateinstructorgrow.com
+0.0.0.0 collaboratemedaltrips.com
 0.0.0.0 collaborranto.casa
 0.0.0.0 collabplumify.com
 0.0.0.0 collarchefrage.com
@@ -19570,6 +19572,7 @@
 0.0.0.0 erp.cmcm.com
 0.0.0.0 erraticreaction.com
 0.0.0.0 errcarsvex.casa
+0.0.0.0 errcritical.com
 0.0.0.0 errednickhail.com
 0.0.0.0 erringcrambly.com
 0.0.0.0 errlog.amanad.adtdp.com
@@ -34182,6 +34185,7 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odbcacher.outbrain.com
 0.0.0.0 oddertabrhino.com
+0.0.0.0 oddsresemble.com
 0.0.0.0 oddsshitfixes.com
 0.0.0.0 odemoda.com
 0.0.0.0 odepfnhxq.xyz
@@ -34977,6 +34981,7 @@
 0.0.0.0 oughtbuilding.com
 0.0.0.0 ougribot.net
 0.0.0.0 ouhastay.net
+0.0.0.0 ouiawdkfgukdy.xyz
 0.0.0.0 ouiruslemylupci.com
 0.0.0.0 oujouniw.com
 0.0.0.0 oukruque.com
@@ -41905,6 +41910,7 @@
 0.0.0.0 religionrush.com
 0.0.0.0 relistinfo.com
 0.0.0.0 relivesovereign.com
+0.0.0.0 relkconka.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 relogotd.com
 0.0.0.0 reluctanceearplumb.com
@@ -51508,6 +51514,7 @@
 0.0.0.0 unseamlocrian.com
 0.0.0.0 unseen2020.com
 0.0.0.0 unseenmms.com
+0.0.0.0 unseenreport.com
 0.0.0.0 unshiftryr.com
 0.0.0.0 unsigilyphor.com
 0.0.0.0 unskilledanna.com
@@ -53912,6 +53919,7 @@
 0.0.0.0 windows-secureit.com
 0.0.0.0 windows333.info
 0.0.0.0 windows401.info
+0.0.0.0 windowsastronomyfading.com
 0.0.0.0 windowsphishingalert158.s3.amazonaws.com
 0.0.0.0 windowspieceencumber.com
 0.0.0.0 windscreenimplacable.com
@@ -57593,6 +57601,7 @@
 0.0.0.0 yoho.love
 0.0.0.0 yokeeroud.com
 0.0.0.0 yoku.pro
+0.0.0.0 yolkvisited.com
 0.0.0.0 yomaza.net
 0.0.0.0 yomedia.vn
 0.0.0.0 yomeno.xyz
