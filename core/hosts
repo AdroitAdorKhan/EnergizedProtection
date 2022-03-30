@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.03.089
 # Release: 089
-# Entries: 58,010
+# Entries: 58,013
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 30 Mar 22 12:07:02
+# Updated: Wed, 30 Mar 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6625,6 +6625,7 @@
 0.0.0.0 analytics-impulse.contextads.live
 0.0.0.0 analytics-ingress.bitmovin.com
 0.0.0.0 analytics-sdk.yle.fi
+0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-sm.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-test.ff.avast.com
@@ -26323,6 +26324,7 @@
 0.0.0.0 ipybrqiqafc.com
 0.0.0.0 iq.ads.justpremium.com
 0.0.0.0 iq5media.com
+0.0.0.0 iqawibvqldtvwg.xyz
 0.0.0.0 iqbkxlja.com
 0.0.0.0 iqcivddok.com
 0.0.0.0 iqdabbfslkj.com
@@ -28031,6 +28033,7 @@
 0.0.0.0 kukumbara.com
 0.0.0.0 kukury2hf8nd09.com
 0.0.0.0 kuludelo.com
+0.0.0.0 kumamxmmrmc.com
 0.0.0.0 kumanaun.net
 0.0.0.0 kumarsteels.net
 0.0.0.0 kuminaluna.xyz
