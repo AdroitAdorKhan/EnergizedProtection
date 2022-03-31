@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.091
 # Release: 091
-# Entries: 58,372
+# Entries: 58,373
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 01 Apr 22 00:07:02
+# Updated: Fri, 01 Apr 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -45618,6 +45618,7 @@
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 sonacorp.com.pk
 0.0.0.0 sonadhbpes.com
+0.0.0.0 sonagerthrou.com
 0.0.0.0 sonar.semantiqo.com
 0.0.0.0 sonet-rp.swaxis.com
 0.0.0.0 sonet.demdex.net
