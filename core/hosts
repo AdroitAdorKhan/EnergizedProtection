@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.091
-# Release: 091
-# Entries: 58,485
+# Version: 22.04.092
+# Release: 092
+# Entries: 58,488
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 01 Apr 22 20:07:01
+# Updated: Sat, 02 Apr 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6253,6 +6253,7 @@
 0.0.0.0 allowsuccess.org
 0.0.0.0 allowtoplay.com
 0.0.0.0 alloydigital.com
+0.0.0.0 allprofitsurvey.top
 0.0.0.0 allpurposefrigilityfrigility.com
 0.0.0.0 allseotoolskit.com
 0.0.0.0 allsports4free.live
@@ -39192,6 +39193,7 @@
 0.0.0.0 plutusads.com
 0.0.0.0 plx.porndig.com
 0.0.0.0 plxbrlukcqrfw.xyz
+0.0.0.0 plydtsnsetubtn.xyz
 0.0.0.0 plyserosal.com
 0.0.0.0 plywoodenchant.com
 0.0.0.0 plywoodso.com
@@ -51693,6 +51695,7 @@
 0.0.0.0 unimining.net
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 uninua.com
+0.0.0.0 unioch.com
 0.0.0.0 unionssoothe.com
 0.0.0.0 uniqodo.com
 0.0.0.0 uniquecaptcha.com
