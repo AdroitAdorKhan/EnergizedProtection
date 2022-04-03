@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.094
 # Release: 094
-# Entries: 58,663
+# Entries: 58,665
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 04 Apr 22 00:07:02
+# Updated: Mon, 04 Apr 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -54450,6 +54450,7 @@
 0.0.0.0 wlmarketing.com
 0.0.0.0 wlneteller.adsrv.eacdn.com
 0.0.0.0 wlog.kuaishou.com
+0.0.0.0 wlog.tmon.co.kr
 0.0.0.0 wlskyinfopartners.adsrv.eacdn.com
 0.0.0.0 wltqfaeeiexixp.com
 0.0.0.0 wlvupulqadyuhr.xyz
@@ -57751,6 +57752,7 @@
 0.0.0.0 xylansudra.cam
 0.0.0.0 xymusyy.ru
 0.0.0.0 xyn1d4bjg4vr4m2qwypvuj.com
+0.0.0.0 xypcghuh.xyz
 0.0.0.0 xyphgxllfnj.com
 0.0.0.0 xyppemerstsppbs.xyz
 0.0.0.0 xysrsvrimxryveypmlvf.me
