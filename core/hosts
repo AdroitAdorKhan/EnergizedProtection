@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.093
 # Release: 093
-# Entries: 58,614
+# Entries: 58,616
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 03 Apr 22 08:07:02
+# Updated: Sun, 03 Apr 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13414,6 +13414,7 @@
 0.0.0.0 cisheeng.com
 0.0.0.0 cisscrive.com
 0.0.0.0 cistamenise.com
+0.0.0.0 cistusbram.website
 0.0.0.0 citaslocas.com
 0.0.0.0 citationsherbe.at
 0.0.0.0 citheekr.com
@@ -48769,6 +48770,7 @@
 0.0.0.0 thecontroversialfiles.net
 0.0.0.0 thecorporatetailors.com.au
 0.0.0.0 thecounter.com
+0.0.0.0 thecred.info
 0.0.0.0 thecrites.com
 0.0.0.0 thedailymeal.media.net
 0.0.0.0 thedefinitiveweb.com
