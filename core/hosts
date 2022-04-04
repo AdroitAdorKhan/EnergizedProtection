@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.094
-# Release: 094
-# Entries: 58,795
+# Version: 22.04.095
+# Release: 095
+# Entries: 58,805
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 04 Apr 22 20:07:02
+# Updated: Tue, 05 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7581,6 +7581,7 @@
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.conversant.mgr.consensu.org
+0.0.0.0 api.data.ciceksepeti.com
 0.0.0.0 api.dataroid.com
 0.0.0.0 api.datatrics.com
 0.0.0.0 api.direct.yandex.com
@@ -15847,6 +15848,7 @@
 0.0.0.0 ctrhub.com
 0.0.0.0 ctrlaltdel99.com
 0.0.0.0 ctrmanager.com
+0.0.0.0 ctrons.com
 0.0.0.0 ctrsrgnlvsne.xyz
 0.0.0.0 cttfemdig.xyz
 0.0.0.0 cttghjfhsw.com
@@ -17957,6 +17959,7 @@
 0.0.0.0 donlot.xyz
 0.0.0.0 donnaandlord.com
 0.0.0.0 donttbeevils.de
+0.0.0.0 doobinooby.com
 0.0.0.0 doobyyooby.com
 0.0.0.0 doohs.000webhostapp.com
 0.0.0.0 doohs1111.000webhostapp.com
@@ -20685,6 +20688,7 @@
 0.0.0.0 fathuntsgall.com
 0.0.0.0 fatlossremedies.com
 0.0.0.0 fatsosjogs.com
+0.0.0.0 fatstepn.click
 0.0.0.0 fattykettleinexpedient.com
 0.0.0.0 fattymadmanquestions.com
 0.0.0.0 fatwalkinger.club
@@ -28689,6 +28693,7 @@
 0.0.0.0 landlordmanoeuvre.com
 0.0.0.0 landlordmexicansole.com
 0.0.0.0 landmarkbahrain.com
+0.0.0.0 landnewseasy.com
 0.0.0.0 landscapeuproar.com
 0.0.0.0 landsend.tt.omtrdc.net
 0.0.0.0 landslidechoreloft.com
@@ -32068,6 +32073,7 @@
 0.0.0.0 mojialamala.com
 0.0.0.0 mojqwggw.xyz
 0.0.0.0 mokedirect.xyz
+0.0.0.0 mokierokiloki.com
 0.0.0.0 mokklachookla.com
 0.0.0.0 mokonocdn.com
 0.0.0.0 mokuz.ru
@@ -44953,6 +44959,7 @@
 0.0.0.0 sherwinclothing.com
 0.0.0.0 shestrozo.com
 0.0.0.0 shesubscriptions.com
+0.0.0.0 shevrinavis.website
 0.0.0.0 shewop.com
 0.0.0.0 shexawhy.net
 0.0.0.0 shghcqgnyjn.com
@@ -48537,6 +48544,7 @@
 0.0.0.0 tech.noel.events
 0.0.0.0 tech24bd.xyz
 0.0.0.0 tech4yougadgets.com
+0.0.0.0 techahv.com
 0.0.0.0 techblog.outbrain.com
 0.0.0.0 techclicks.net
 0.0.0.0 techcrunchman.com
@@ -53420,6 +53428,7 @@
 0.0.0.0 vplserv.duckdns.org
 0.0.0.0 vpn-freeproxy.com
 0.0.0.0 vpn-offers.com
+0.0.0.0 vpn-offers.org
 0.0.0.0 vpn.adotmob.com
 0.0.0.0 vpn.appsflyer.com
 0.0.0.0 vpn.cloudtraff.com
@@ -54732,6 +54741,7 @@
 0.0.0.0 worthylighteravert.com
 0.0.0.0 worthyrid.com
 0.0.0.0 wosork.com
+0.0.0.0 wotythowe.pro
 0.0.0.0 woudepib.net
 0.0.0.0 wouijfcfouiewb.com
 0.0.0.0 woujoami.com
