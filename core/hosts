@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.097
-# Release: 097
-# Entries: 59,257
+# Version: 22.04.098
+# Release: 098
+# Entries: 59,267
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 07 Apr 22 20:07:01
+# Updated: Fri, 08 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11657,6 +11657,7 @@
 0.0.0.0 buildsintellecttweak.com
 0.0.0.0 buildsvolumedejection.com
 0.0.0.0 builfico.de
+0.0.0.0 builip.com
 0.0.0.0 builtchangeable.com
 0.0.0.0 bujogradba.com
 0.0.0.0 bukash2jf8jfpw09.com
@@ -13533,6 +13534,7 @@
 0.0.0.0 cju.cj.com
 0.0.0.0 cjuk.cj.com
 0.0.0.0 cjvdfw.com
+0.0.0.0 cjwyvwbxpbo.com
 0.0.0.0 ck-cdn.com
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 ck.jads.co
@@ -18654,6 +18656,7 @@
 0.0.0.0 dynamicyield.com
 0.0.0.0 dynamitedata.com
 0.0.0.0 dynamitedepressionweapons.com
+0.0.0.0 dynatrace-managed.com
 0.0.0.0 dyndyn.duckdns.org
 0.0.0.0 dynmsol.com
 0.0.0.0 dynpaa.com
@@ -19877,6 +19880,7 @@
 0.0.0.0 escleaner.s.xoxknct.com
 0.0.0.0 escorterosion.com
 0.0.0.0 escortso.com
+0.0.0.0 escris.com
 0.0.0.0 escrowyez.com
 0.0.0.0 escthermae.com
 0.0.0.0 escudotagalog.com
@@ -28324,6 +28328,7 @@
 0.0.0.0 kindeargrain.com
 0.0.0.0 kindercenter.com.ua
 0.0.0.0 kindertagespflege-arcoiris.de
+0.0.0.0 kindjalvitalic.com
 0.0.0.0 kindleloving.com
 0.0.0.0 kindlyfeebleremembered.com
 0.0.0.0 kindnessmarshalping.com
@@ -32434,6 +32439,7 @@
 0.0.0.0 moonify.io
 0.0.0.0 moonmedias.biz
 0.0.0.0 moontuftboy.com
+0.0.0.0 moooginnumit.com
 0.0.0.0 mooptaps.com
 0.0.0.0 mootermedia.com
 0.0.0.0 moowouzy.net
@@ -41859,6 +41865,7 @@
 0.0.0.0 qygknhwaweqpy.xyz
 0.0.0.0 qyhshcrwqvaft.com
 0.0.0.0 qykjfvogfdbyqgh.com
+0.0.0.0 qykpirfgcqw.xyz
 0.0.0.0 qylaocktrnoqwev.com
 0.0.0.0 qyowcbdlkgthb.xyz
 0.0.0.0 qyti8.xyz
@@ -45685,6 +45692,7 @@
 0.0.0.0 sistema.consegecu.com
 0.0.0.0 sisterdating-club.com
 0.0.0.0 sistheberth.xyz
+0.0.0.0 sitdoobly.com
 0.0.0.0 site-kaiseki-tool.com
 0.0.0.0 site-recommend.ucweb.com
 0.0.0.0 site-submit.com.ua
@@ -50210,6 +50218,7 @@
 0.0.0.0 trace-this.newrelic.com
 0.0.0.0 trace.events
 0.0.0.0 trace.intl.iqiyi.com
+0.0.0.0 trace.popin.cc
 0.0.0.0 trace21.dsb-ebusiness.com
 0.0.0.0 traceadmanager.com
 0.0.0.0 tracehere.page.link
@@ -58874,6 +58883,7 @@
 0.0.0.0 yxaxputilmfpyke.com
 0.0.0.0 yxcblckd.com
 0.0.0.0 yxedahltbcuyyh.com
+0.0.0.0 yxhkonfmbe.com
 0.0.0.0 yxkhpk.com
 0.0.0.0 yxlcwwtx.com
 0.0.0.0 yxmhguxt.xyz
