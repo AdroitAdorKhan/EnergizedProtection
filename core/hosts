@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.098
-# Release: 098
-# Entries: 59,351
+# Version: 22.04.099
+# Release: 099
+# Entries: 59,357
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 08 Apr 22 20:07:02
+# Updated: Sat, 09 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6038,6 +6038,7 @@
 0.0.0.0 aj2178.online
 0.0.0.0 aj2204.online
 0.0.0.0 aj2208.online
+0.0.0.0 aj2373.online
 0.0.0.0 aj2392.online
 0.0.0.0 ajagrofy.com
 0.0.0.0 ajansreklam.net
@@ -8186,6 +8187,7 @@
 0.0.0.0 armoneandwa.pro
 0.0.0.0 armpitappreciationeighty.com
 0.0.0.0 armpitarticle.com
+0.0.0.0 armpitstamnos.com
 0.0.0.0 armsites.info
 0.0.0.0 armsteels.com
 0.0.0.0 armstrong.technoratimedia.com
@@ -12117,6 +12119,7 @@
 0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calamos.collect.igodigital.com
 0.0.0.0 calcch.com
+0.0.0.0 calcoh.com
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatingtoothbrush.com
 0.0.0.0 calculatorcamera.com
@@ -27890,6 +27893,7 @@
 0.0.0.0 jtuvdnqygxpidds.xyz
 0.0.0.0 jua05myfbe.com
 0.0.0.0 juancarloshernandez.us
+0.0.0.0 jubish.com
 0.0.0.0 jubna.com
 0.0.0.0 jubnaadserve.com
 0.0.0.0 jubsouth.com
@@ -42362,6 +42366,7 @@
 0.0.0.0 readnotify.com
 0.0.0.0 readnow.central-messages.com
 0.0.0.0 readpeak.com
+0.0.0.0 readserv.com
 0.0.0.0 readserver.net
 0.0.0.0 readwithyasmineandyassin.com
 0.0.0.0 ready-to-download.com
@@ -58707,6 +58712,7 @@
 0.0.0.0 ymzrrizntbhde.com
 0.0.0.0 ynbujkim.com
 0.0.0.0 yngxavvql.com
+0.0.0.0 ynklendr.online
 0.0.0.0 ynnhiuosst.xyz
 0.0.0.0 ynnpmcpswews.com
 0.0.0.0 ynntbsyydcte.xyz
