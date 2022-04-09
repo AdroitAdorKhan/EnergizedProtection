@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.100
 # Release: 100
-# Entries: 59,460
+# Entries: 59,461
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 10 Apr 22 00:07:01
+# Updated: Sun, 10 Apr 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -32683,6 +32683,7 @@
 0.0.0.0 mpiamyanmar.com
 0.0.0.0 mpispain.demdex.net
 0.0.0.0 mpk01.com
+0.0.0.0 mpkdoyrcprdutpj.xyz
 0.0.0.0 mpliedancia.info
 0.0.0.0 mplusseguros.com.br
 0.0.0.0 mpmcash.com
