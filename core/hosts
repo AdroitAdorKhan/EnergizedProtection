@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.100
 # Release: 100
-# Entries: 59,468
+# Entries: 59,469
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 10 Apr 22 08:07:02
+# Updated: Sun, 10 Apr 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12315,6 +12315,7 @@
 0.0.0.0 capture-api.autopilotapp.com
 0.0.0.0 capture.trackjs.com
 0.0.0.0 capyestern.com
+0.0.0.0 car.srmwheels.in
 0.0.0.0 carabidshooter.com
 0.0.0.0 caraganaarborescenspendula.com
 0.0.0.0 carasalegres.org
