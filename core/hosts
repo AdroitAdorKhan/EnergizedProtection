@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.100
-# Release: 100
-# Entries: 59,510
+# Version: 22.04.101
+# Release: 101
+# Entries: 59,511
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 10 Apr 22 20:07:02
+# Updated: Mon, 11 Apr 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -48684,6 +48684,7 @@
 0.0.0.0 t.nitropay.com
 0.0.0.0 t.nvidpn.com
 0.0.0.0 t.ocmhood.com
+0.0.0.0 t.powerreviews.com
 0.0.0.0 t.premii.com
 0.0.0.0 t.prpbns.com
 0.0.0.0 t.prpbnt.com
