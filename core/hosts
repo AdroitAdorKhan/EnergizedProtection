@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.101
 # Release: 101
-# Entries: 59,525
+# Entries: 59,527
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 11 Apr 22 12:07:02
+# Updated: Mon, 11 Apr 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3371,6 +3371,7 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.masteranime.es
+0.0.0.0 ad.mediaf.media
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.monetate.net
 0.0.0.0 ad.mox.tv
@@ -32547,6 +32548,7 @@
 0.0.0.0 monstersquad.analytics.nexonm.com
 0.0.0.0 monsterworldwide.tt.omtrdc.net
 0.0.0.0 monsy.com
+0.0.0.0 montelena-rcv.gmarket.co.kr
 0.0.0.0 monthlyindirectelsewhere.com
 0.0.0.0 montikolti.com
 0.0.0.0 montrealgazette.stats.com
