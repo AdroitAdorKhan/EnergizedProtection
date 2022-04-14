@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.104
-# Release: 104
-# Entries: 59,943
+# Version: 22.04.105
+# Release: 105
+# Entries: 59,952
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 14 Apr 22 20:07:02
+# Updated: Fri, 15 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6485,6 +6485,8 @@
 0.0.0.0 alwsbnvialll.com
 0.0.0.0 alxa.ca
 0.0.0.0 alxc.addlv.smt.docomo.ne.jp
+0.0.0.0 alxd.addlv.smt.docomo.ne.jp
+0.0.0.0 alxm.addlv.smt.docomo.ne.jp
 0.0.0.0 alxsite.com
 0.0.0.0 alxzes.com
 0.0.0.0 alypremistand.xyz
@@ -10655,6 +10657,7 @@
 0.0.0.0 bilsyndication.com
 0.0.0.0 bimathyphy.com
 0.0.0.0 bimber.bringthepixel.com
+0.0.0.0 bimbim.com
 0.0.0.0 bimedia.nl
 0.0.0.0 bimlocal.com
 0.0.0.0 bimpagno.com
@@ -10856,6 +10859,7 @@
 0.0.0.0 blackcurrantfootballsimilarly.com
 0.0.0.0 blackforce.club
 0.0.0.0 blacklabel.naiadsystems.com
+0.0.0.0 blacklinknowss.co
 0.0.0.0 blackmailingpanic.com
 0.0.0.0 blackmode.vip
 0.0.0.0 blackname.biz
@@ -15716,6 +15720,7 @@
 0.0.0.0 crazyhell.com
 0.0.0.0 crazylead.com
 0.0.0.0 crb.kargo.com
+0.0.0.0 crbbgate.com
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
 0.0.0.0 crcom.livejasmin.com
@@ -19263,6 +19268,7 @@
 0.0.0.0 edoutoam.net
 0.0.0.0 edrone.me
 0.0.0.0 edsadesigns.co.uk
+0.0.0.0 edstever.com
 0.0.0.0 edstrastco.com
 0.0.0.0 edstylistepro.xyz
 0.0.0.0 edt02.net
@@ -34643,6 +34649,7 @@
 0.0.0.0 numbers.md
 0.0.0.0 numberspenguinveto.com
 0.0.0.0 numbgradualassertive.com
+0.0.0.0 numbtoobly.com
 0.0.0.0 numeralembody.com
 0.0.0.0 numerarysols.com
 0.0.0.0 numerino.cz
@@ -43198,6 +43205,7 @@
 0.0.0.0 repbowdew.com
 0.0.0.0 repdata.usatoday.com
 0.0.0.0 repeatsweater.com
+0.0.0.0 repene.com
 0.0.0.0 repetitiongeneticallypresidential.com
 0.0.0.0 rephartertonelin.info
 0.0.0.0 repixel.co
@@ -43764,6 +43772,7 @@
 0.0.0.0 rocketmedia24.com
 0.0.0.0 rocketyield.com
 0.0.0.0 rockoncollectibles.com
+0.0.0.0 rockphil.ac.ug
 0.0.0.0 rockporn.pro
 0.0.0.0 rocks.io
 0.0.0.0 rockstorageplace.com
