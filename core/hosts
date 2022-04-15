@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.105
-# Release: 105
-# Entries: 60,034
+# Version: 22.04.106
+# Release: 106
+# Entries: 60,042
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Apr 22 20:07:02
+# Updated: Sat, 16 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2824,6 +2824,7 @@
 0.0.0.0 ab-platinum.kz
 0.0.0.0 ab.advertiserurl.com
 0.0.0.0 ab.batmobi.net
+0.0.0.0 ab.blogs.es
 0.0.0.0 ab.cmcm.com
 0.0.0.0 ab.mopub.com
 0.0.0.0 ab3yssin4i6an.com
@@ -5828,6 +5829,7 @@
 0.0.0.0 africaewgrhdtb.com
 0.0.0.0 africanhiddenchampions.com
 0.0.0.0 africawin.com
+0.0.0.0 afriev.com
 0.0.0.0 afriflatry.co
 0.0.0.0 afrikad.com
 0.0.0.0 afrimedspecialist.com
@@ -6079,6 +6081,7 @@
 0.0.0.0 ajohfnwk.com
 0.0.0.0 ajoo.zioncityonline.net
 0.0.0.0 ajoqysuc.xyz
+0.0.0.0 ajorinryeso.com
 0.0.0.0 ajqsdnwcrpp.com
 0.0.0.0 ajrequestion.xyz
 0.0.0.0 ajshjbmircwlh.me
@@ -10498,6 +10501,7 @@
 0.0.0.0 betvision88.net
 0.0.0.0 betweendigital.com
 0.0.0.0 beusable.net
+0.0.0.0 beveledcorkir.com
 0.0.0.0 bevolley.eu
 0.0.0.0 bewailbeforelibrarian.com
 0.0.0.0 bewailconsistedmembers.com
@@ -16568,6 +16572,7 @@
 0.0.0.0 d3nq5jrakcyw1w.cloudfront.net
 0.0.0.0 d3numuoibysgi8.cloudfront.net
 0.0.0.0 d3ou4areduq72f.cloudfront.net
+0.0.0.0 d3oy68whu51rnt.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
 0.0.0.0 d3p8w7to4066sy.cloudfront.net
 0.0.0.0 d3pel2vlstnlu9.cloudfront.net
@@ -17146,6 +17151,7 @@
 0.0.0.0 deeplink.umeng.com
 0.0.0.0 deepmetrix.com
 0.0.0.0 deeprootedpotion.com
+0.0.0.0 deewansturacin.com
 0.0.0.0 deezer.page.link
 0.0.0.0 def-platform.com
 0.0.0.0 defaceproudlybarnacle.com
@@ -32904,6 +32910,7 @@
 0.0.0.0 motocarbrasil.org
 0.0.0.0 motominer.com
 0.0.0.0 motonews.club
+0.0.0.0 motoriesm.com
 0.0.0.0 motorimperturbable.com
 0.0.0.0 motorpresse-statistik.de
 0.0.0.0 motorwaypuffybribery.com
@@ -54424,6 +54431,7 @@
 0.0.0.0 vodaupdatepayment.com
 0.0.0.0 vodlgaarknlkfxh.xyz
 0.0.0.0 vodobyve.pro
+0.0.0.0 vogeto.com
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 vogosita.com
 0.0.0.0 vogueoatgap.com
