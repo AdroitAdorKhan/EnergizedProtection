@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.107
-# Release: 107
-# Entries: 60,192
+# Version: 22.04.108
+# Release: 108
+# Entries: 60,194
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 17 Apr 22 20:07:01
+# Updated: Mon, 18 Apr 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3002,6 +3002,7 @@
 0.0.0.0 ac.batmobi.net
 0.0.0.0 ac.ecai-report.com
 0.0.0.0 ac.miovp.com
+0.0.0.0 ac.prism-world.jp.net
 0.0.0.0 ac0c95f18a59.com
 0.0.0.0 ac7d539d732.com
 0.0.0.0 ac85-5199-4024-a555-397c3d825d95.edge.permutive.app
@@ -6946,6 +6947,7 @@
 0.0.0.0 analytics.lisnr.com
 0.0.0.0 analytics.live-panorama.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.liveact.cri-mw.jp
 0.0.0.0 analytics.livefyre.com
 0.0.0.0 analytics.livesense.marketing
 0.0.0.0 analytics.livestream.com
