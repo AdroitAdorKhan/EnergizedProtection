@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.108
-# Release: 108
-# Entries: 60,252
+# Version: 22.04.109
+# Release: 109
+# Entries: 60,260
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 18 Apr 22 20:07:02
+# Updated: Tue, 19 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7023,6 +7023,7 @@
 0.0.0.0 analytics.novanet.vn
 0.0.0.0 analytics.ns1.ff.avast.com
 0.0.0.0 analytics.nznweb.com.br
+0.0.0.0 analytics.octaglobal.com
 0.0.0.0 analytics.omniscientai.com
 0.0.0.0 analytics.onesearch.id
 0.0.0.0 analytics.onlyonlinemarketing.com
@@ -23501,6 +23502,7 @@
 0.0.0.0 gluwhoas.com
 0.0.0.0 glxmnews.pro
 0.0.0.0 glxtest.site
+0.0.0.0 glyphas.com
 0.0.0.0 glyptaptone.pro
 0.0.0.0 glzyw.com
 0.0.0.0 gm.demdex.net
@@ -28387,6 +28389,7 @@
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwvwak1a.com
 0.0.0.0 jwxrbpxtn.xyz
+0.0.0.0 jx.qingdaosheng.com
 0.0.0.0 jxboqkguvkolk.com
 0.0.0.0 jxfctnjqpeiwimj.xyz
 0.0.0.0 jxldsesiiljktp.xyz
@@ -33586,6 +33589,7 @@
 0.0.0.0 myzztv.xyz
 0.0.0.0 mz.ads.justpremium.com
 0.0.0.0 mzadvertising.com
+0.0.0.0 mzaugggxs.com
 0.0.0.0 mzcsuuuwox.com
 0.0.0.0 mzfo2.bemobtrk.com
 0.0.0.0 mzol7lbm.com
@@ -47422,6 +47426,7 @@
 0.0.0.0 spklmis.com
 0.0.0.0 spkrth.scw.systems
 0.0.0.0 spl.ztvx8.com
+0.0.0.0 splaim.com
 0.0.0.0 splakesmutty.com
 0.0.0.0 splash.unity.cn
 0.0.0.0 splashfloating.com
@@ -50388,6 +50393,7 @@
 0.0.0.0 tightsaturdayi.com
 0.0.0.0 tightslowingpredictable.com
 0.0.0.0 tiglesoshi.pro
+0.0.0.0 tigoinari.tk
 0.0.0.0 tikepdxu.xyz
 0.0.0.0 tikmhoryegsj.com
 0.0.0.0 tilanalytics.timesinternet.in
@@ -50592,6 +50598,7 @@
 0.0.0.0 tn.ads.justpremium.com
 0.0.0.0 tn.alphonso.tv
 0.0.0.0 tn.dporn.com
+0.0.0.0 tn.flashb.id
 0.0.0.0 tn.inporn.com
 0.0.0.0 tn.javdaddy.com
 0.0.0.0 tn.porngo.tube
@@ -58122,6 +58129,7 @@
 0.0.0.0 www.sizmek.com
 0.0.0.0 www.skenqaamefeoncfegrytbuvksebpefer.com
 0.0.0.0 www.skilfulbags.com
+0.0.0.0 www.skillravageintrusive.com
 0.0.0.0 www.skimlinks.com
 0.0.0.0 www.skimresources.com
 0.0.0.0 www.skinstrip.net
