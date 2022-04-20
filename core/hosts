@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.110
 # Release: 110
-# Entries: 60,372
+# Entries: 60,378
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 20 Apr 22 08:07:01
+# Updated: Wed, 20 Apr 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -253,6 +253,7 @@
 0.0.0.0 102vod-adaptive.akamaized.net
 0.0.0.0 103-136-41-111.hosted-by-worldstream.net
 0.0.0.0 103-136-42-153.hosted-by-worldstream.net
+0.0.0.0 103-136-42-186.hosted-by-worldstream.net
 0.0.0.0 103.98.133.66.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 103092804.com
 0.0.0.0 10319705.fls.doubleclick.net
@@ -18002,6 +18003,7 @@
 0.0.0.0 djrcfpresent.in
 0.0.0.0 djsfyephu.com
 0.0.0.0 djthhnqhdj.xyz
+0.0.0.0 djunreal.co.uk
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 djvbrdydmuito.com
 0.0.0.0 dk-chic.com
@@ -20824,6 +20826,7 @@
 0.0.0.0 f0630998.xsph.ru
 0.0.0.0 f0649032.xsph.ru
 0.0.0.0 f0649033.xsph.ru
+0.0.0.0 f0662140.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
 0.0.0.0 f09c54da.rtc.youme.im
 0.0.0.0 f1.cdn.ftd.agency
@@ -23914,6 +23917,7 @@
 0.0.0.0 gradygrydi.com
 0.0.0.0 grafana.appsflyer.com
 0.0.0.0 grafana.outbrain.com
+0.0.0.0 grafischer.ch
 0.0.0.0 graft.network
 0.0.0.0 graftaub.com
 0.0.0.0 grafthivecrocus.cam
@@ -28060,6 +28064,7 @@
 0.0.0.0 johalf.com
 0.0.0.0 johays.co
 0.0.0.0 johgiatbx.xyz
+0.0.0.0 johnsonsmedia.it
 0.0.0.0 joicky.com
 0.0.0.0 join.xlgirls.com
 0.0.0.0 joinads.me
@@ -58080,6 +58085,7 @@
 0.0.0.0 www.rescuephrase.com
 0.0.0.0 www.residebroadly.com
 0.0.0.0 www.residelikingminister.com
+0.0.0.0 www.residenceseeingstanding.com
 0.0.0.0 www.residentialsize.com
 0.0.0.0 www.resolvedweighpasswords.com
 0.0.0.0 www.restaurantbubblerub.com
