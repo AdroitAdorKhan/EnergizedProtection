@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.04.111
-# Release: 111
-# Entries: 60,484
+# Version: 22.04.112
+# Release: 112
+# Entries: 60,491
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 21 Apr 22 20:07:01
+# Updated: Fri, 22 Apr 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5912,6 +5912,7 @@
 0.0.0.0 agitatesuggestneighbouring.com
 0.0.0.0 agl-intl.hotstar.com
 0.0.0.0 aglenergy.demdex.net
+0.0.0.0 agletmagilp.com
 0.0.0.0 aglfreight.com.my
 0.0.0.0 aglocobanners.com
 0.0.0.0 agloowie.com
@@ -9185,6 +9186,7 @@
 0.0.0.0 autopilothq.com
 0.0.0.0 autopsyglossy.com
 0.0.0.0 autoreply.page.link
+0.0.0.0 autoscorp.club
 0.0.0.0 autotradezim.co.zw
 0.0.0.0 autsaubs.net
 0.0.0.0 auwoojuh.net
@@ -24041,6 +24043,7 @@
 0.0.0.0 graylog.mgid.com
 0.0.0.0 grayreceipt.com
 0.0.0.0 grayrecruitbrainwash.com
+0.0.0.0 grazajoba.com
 0.0.0.0 graziefootier.com
 0.0.0.0 grbyxeqgc.xyz
 0.0.0.0 grchen.top
@@ -33827,6 +33830,7 @@
 0.0.0.0 nas-leader.com
 0.0.0.0 nas-simple-helper.com
 0.0.0.0 nasmastrservice.com
+0.0.0.0 nasrolaugers.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nastyfans.org
 0.0.0.0 nat.pp.ru
@@ -37955,6 +37959,7 @@
 0.0.0.0 piledarriving.com
 0.0.0.0 pilgrimarym.club
 0.0.0.0 pillageacting.com
+0.0.0.0 pillowspopes.com
 0.0.0.0 pillsmeals.com
 0.0.0.0 pillsofecho.com
 0.0.0.0 pilnqgcjuydvwrj.com
@@ -45389,6 +45394,7 @@
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdk-jmlink.jpush.cn
 0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.a4.tl
 0.0.0.0 sdk.ad.smaato.net
 0.0.0.0 sdk.adincube.com
@@ -52980,6 +52986,7 @@
 0.0.0.0 u2htfd3bvwvl.com
 0.0.0.0 u595sebqih.com
 0.0.0.0 u5hhy6.edvfwlacluo.com
+0.0.0.0 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 0.0.0.0 u7zrax.edvfwlacluo.com
 0.0.0.0 u8.hujiang.com
 0.0.0.0 u9oxdnxk8b.com
