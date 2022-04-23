@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.114
 # Release: 114
-# Entries: 60,572
+# Entries: 60,573
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 24 Apr 22 00:07:01
+# Updated: Sun, 24 Apr 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -28479,6 +28479,7 @@
 0.0.0.0 junhe.media
 0.0.0.0 junipe3rus4virginiana.com
 0.0.0.0 junipernetworks.tt.omtrdc.net
+0.0.0.0 junk-cleaner.org
 0.0.0.0 junkcleaner2017.r.xoxknct.com
 0.0.0.0 junkcleaner2017.s.xoxknct.com
 0.0.0.0 junkremoval.r.xoxknct.com
