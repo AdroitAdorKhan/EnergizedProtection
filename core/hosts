@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.113
 # Release: 113
-# Entries: 60,547
+# Entries: 60,548
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 23 Apr 22 04:07:01
+# Updated: Sat, 23 Apr 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -24123,6 +24123,7 @@
 0.0.0.0 greensuy.net
 0.0.0.0 greentopperer.online
 0.0.0.0 greetallergic.com
+0.0.0.0 greetham.net
 0.0.0.0 greetingsyoungqq.com
 0.0.0.0 greetpanda.info
 0.0.0.0 greetpanda.org
