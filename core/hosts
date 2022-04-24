@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.114
 # Release: 114
-# Entries: 60,583
+# Entries: 60,585
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 24 Apr 22 16:07:01
+# Updated: Sun, 24 Apr 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19161,6 +19161,7 @@
 0.0.0.0 eacdn.com
 0.0.0.0 eachuniverse.com
 0.0.0.0 eads.to
+0.0.0.0 eadwhiwax.com
 0.0.0.0 eae5daf052d2673b.com
 0.0.0.0 eaes.2track.info
 0.0.0.0 eaesie.com
@@ -32432,6 +32433,7 @@
 0.0.0.0 mg.traffic-media.co.uk
 0.0.0.0 mg4s1.com
 0.0.0.0 mgage.com
+0.0.0.0 mgbid.net
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
 0.0.0.0 mgdxsqypqtv.com
