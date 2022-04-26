@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.116
 # Release: 116
-# Entries: 60,652
+# Entries: 60,653
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 26 Apr 22 04:07:02
+# Updated: Tue, 26 Apr 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19788,6 +19788,7 @@
 0.0.0.0 ematrix.filmipop.com
 0.0.0.0 embaurutem.com.br
 0.0.0.0 embed.comicbook.com
+0.0.0.0 embed.ex.co
 0.0.0.0 embed.friendbuy.com
 0.0.0.0 embed.heavy-r.com
 0.0.0.0 embed.mystream.to
