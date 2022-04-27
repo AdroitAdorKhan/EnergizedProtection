@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.117
 # Release: 117
-# Entries: 60,709
+# Entries: 60,719
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 27 Apr 22 08:07:02
+# Updated: Wed, 27 Apr 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -252,6 +252,7 @@
 0.0.0.0 10251107.fls.doubleclick.net
 0.0.0.0 102vod-adaptive.akamaized.net
 0.0.0.0 103-136-41-111.hosted-by-worldstream.net
+0.0.0.0 103-136-41-159.hosted-by-worldstream.net
 0.0.0.0 103-136-42-153.hosted-by-worldstream.net
 0.0.0.0 103-136-42-186.hosted-by-worldstream.net
 0.0.0.0 103-136-42-192.hosted-by-worldstream.net
@@ -7391,6 +7392,7 @@
 0.0.0.0 anj.adnxs.com
 0.0.0.0 anja.prometheusx.pl
 0.0.0.0 ankaonvqf.xyz
+0.0.0.0 ankaradagundem.com
 0.0.0.0 ankingwit.one
 0.0.0.0 ankusamtv.com
 0.0.0.0 anlcld.com
@@ -11098,6 +11100,7 @@
 0.0.0.0 blueconic.net
 0.0.0.0 bluecore.com
 0.0.0.0 bluecounter.de
+0.0.0.0 bluecovertrading.com
 0.0.0.0 bluedawning.com
 0.0.0.0 bluedict.com
 0.0.0.0 blueflamemarket.com
@@ -19147,6 +19150,7 @@
 0.0.0.0 e5611439.dr.youme.im
 0.0.0.0 e5611439.rtc.youme.im
 0.0.0.0 e5asyhilodice.com
+0.0.0.0 e5web.com.br
 0.0.0.0 e6.espncdn.shop
 0.0.0.0 e65386d3.api.splkmobile.com
 0.0.0.0 e6603.g.akamaiedge.net
@@ -20404,6 +20408,7 @@
 0.0.0.0 euctah.com
 0.0.0.0 eudhghxcgag.xyz
 0.0.0.0 eue.d-teknoloji.com.tr
+0.0.0.0 eugenemask.com
 0.0.0.0 eugenerhachi.com
 0.0.0.0 eugway.com
 0.0.0.0 euhfigepa.alphatecmfg.com
@@ -23054,6 +23059,7 @@
 0.0.0.0 gefmbrbvkql.com
 0.0.0.0 gegenhartz.de
 0.0.0.0 geggegegegegeg.000webhostapp.com
+0.0.0.0 geiger.si
 0.0.0.0 geijdhbappsenqb.xyz
 0.0.0.0 geil.com.co
 0.0.0.0 geilid.com
@@ -29363,6 +29369,7 @@
 0.0.0.0 kumteerg.com
 0.0.0.0 kuntzenyt.club
 0.0.0.0 kupona.de
+0.0.0.0 kupondigital.stormapp.in
 0.0.0.0 kuptabachy.com
 0.0.0.0 kuqgrgitdniruulxg.me
 0.0.0.0 kurlichan.com
@@ -56152,6 +56159,7 @@
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wikia-inc-com.videoplayerhub.com
+0.0.0.0 wikidreamers.com
 0.0.0.0 wikihow-com.videoplayerhub.com
 0.0.0.0 wikipediapush.com
 0.0.0.0 wilburn.prometheusx.pl
@@ -57401,6 +57409,7 @@
 0.0.0.0 www.dive-logs.com
 0.0.0.0 www.diversity-fund.biz
 0.0.0.0 www.dl.masoudtato.ir
+0.0.0.0 www.dnautik.com
 0.0.0.0 www.dnuocc.com
 0.0.0.0 www.dobreprogramy.pro
 0.0.0.0 www.doctorcasenave.com
@@ -59943,6 +59952,7 @@
 0.0.0.0 yhmtech.co.il
 0.0.0.0 yhqyb.rdtk.io
 0.0.0.0 yhxgwhpvxc.com
+0.0.0.0 yibozf108.com
 0.0.0.0 yicodmalawi.org
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yield.app
