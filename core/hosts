@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.118
 # Release: 118
-# Entries: 60,752
+# Entries: 60,753
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 28 Apr 22 00:07:01
+# Updated: Thu, 28 Apr 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -33004,6 +33004,7 @@
 0.0.0.0 mobile.imzog.com
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobile.mng-ads.com
+0.0.0.0 mobile.slgnt.eu
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.trafficjunky.net
 0.0.0.0 mobile.umeng.com
