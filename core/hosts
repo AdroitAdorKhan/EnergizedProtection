@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.118
 # Release: 118
-# Entries: 60,791
+# Entries: 60,794
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 28 Apr 22 16:07:02
+# Updated: Thu, 28 Apr 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20531,6 +20531,7 @@
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.afreecatv.com
 0.0.0.0 eventapi.libring.com
+0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventhousekk.com.my
 0.0.0.0 eventifiederik.pro
 0.0.0.0 eventlog.inspsearchapi.com
@@ -21113,6 +21114,7 @@
 0.0.0.0 family-simulators.com
 0.0.0.0 familyborn.com
 0.0.0.0 familyclick.info
+0.0.0.0 familysimulatorgame.com
 0.0.0.0 familysimulators.com
 0.0.0.0 famisafe.page.link
 0.0.0.0 famousletterss.fun
@@ -60653,6 +60655,7 @@
 0.0.0.0 zinmnubj1cfr.com
 0.0.0.0 zinrora.pw
 0.0.0.0 zion-telemetry.api.cnn.io
+0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 zionismscarrow.com
 0.0.0.0 ziphentai.com
 0.0.0.0 ziphoumt.net
