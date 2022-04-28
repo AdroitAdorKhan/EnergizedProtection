@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.118
 # Release: 118
-# Entries: 60,786
+# Entries: 60,791
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 28 Apr 22 12:07:01
+# Updated: Thu, 28 Apr 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6713,6 +6713,7 @@
 0.0.0.0 analytics-api.statvoo.com
 0.0.0.0 analytics-impulse.contextads.live
 0.0.0.0 analytics-ingress.bitmovin.com
+0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-sdk.yle.fi
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-sm.com
@@ -25596,6 +25597,7 @@
 0.0.0.0 hostgrater.com
 0.0.0.0 hostileconductive.com
 0.0.0.0 hostilepetulant.com
+0.0.0.0 hosting.photobucket.com
 0.0.0.0 hostingbolivia.com
 0.0.0.0 hostingcloud.party
 0.0.0.0 hostingcloud.racing
@@ -45960,6 +45962,7 @@
 0.0.0.0 sensorcyclegloves.com
 0.0.0.0 sensors.binance.cloud
 0.0.0.0 sensors.ibreader.com
+0.0.0.0 sentedstrasence.com
 0.0.0.0 sentexoticoncoming.com
 0.0.0.0 sentifi.com
 0.0.0.0 sentimenthypocrisy.com
@@ -49589,6 +49592,7 @@
 0.0.0.0 syndromeseasidecontainer.com
 0.0.0.0 synergy-e.com
 0.0.0.0 synesisit.info
+0.0.0.0 synkd.life
 0.0.0.0 synotionmonsional.com
 0.0.0.0 synsads.com
 0.0.0.0 syntaxtruckspoons.com
@@ -58351,6 +58355,7 @@
 0.0.0.0 www.portserratic.com
 0.0.0.0 www.porvootransitioncare.com
 0.0.0.0 www.posehind.com
+0.0.0.0 www.poshhateful.com
 0.0.0.0 www.postureconstituent.com
 0.0.0.0 www.potnormal.com
 0.0.0.0 www.potteryhuman.com
