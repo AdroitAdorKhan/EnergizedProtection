@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.119
 # Release: 119
-# Entries: 60,809
+# Entries: 60,813
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 29 Apr 22 00:07:02
+# Updated: Fri, 29 Apr 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9365,6 +9365,7 @@
 0.0.0.0 awsurveys.com
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 awtvnrgwxletd.com
+0.0.0.0 awwhdxzen.com
 0.0.0.0 awwoeoevxnvt.com
 0.0.0.0 awwtkisfm.com
 0.0.0.0 awxecggixh.xyz
@@ -30089,6 +30090,7 @@
 0.0.0.0 libraryst.com
 0.0.0.0 librateam.net
 0.0.0.0 librato-collector.genius.com
+0.0.0.0 libs.aseads.com
 0.0.0.0 libs.outbrain.com
 0.0.0.0 libstat.com
 0.0.0.0 licallycompicity.com
@@ -33939,6 +33941,7 @@
 0.0.0.0 n4flb.net
 0.0.0.0 n4p-rus.redtram.com
 0.0.0.0 n69.com
+0.0.0.0 n730.timesunion.com
 0.0.0.0 n7zru.bemobtrk.com
 0.0.0.0 na.hasmobi.net
 0.0.0.0 na.nawpush.com
@@ -38259,6 +38262,7 @@
 0.0.0.0 piwqiapyusvnih.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.eads.com
+0.0.0.0 pix.hyj.mobi
 0.0.0.0 pix.sniperlog.ru
 0.0.0.0 pix.spot.im
 0.0.0.0 pix.ssp.otm-r.com
