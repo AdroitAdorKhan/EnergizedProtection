@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.04.120
 # Release: 120
-# Entries: 60,964
+# Entries: 60,965
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 30 Apr 22 16:07:02
+# Updated: Sat, 30 Apr 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -18901,6 +18901,7 @@
 0.0.0.0 duroomtoa.com
 0.0.0.0 duroternout.info
 0.0.0.0 dusangerzicgera.com
+0.0.0.0 dusee.baidu.com
 0.0.0.0 dushorgy.com
 0.0.0.0 duskingdinars.casa
 0.0.0.0 dustymural.com
