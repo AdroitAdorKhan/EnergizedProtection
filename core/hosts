@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.123
 # Release: 123
-# Entries: 61,044
+# Entries: 61,045
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 03 May 22 12:07:01
+# Updated: Tue, 03 May 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -57968,6 +57968,7 @@
 0.0.0.0 www.gmial.com
 0.0.0.0 www.gmodules.com
 0.0.0.0 www.goatassociateraces.com
+0.0.0.0 www.godmotherelectricity.com
 0.0.0.0 www.goodblock.gladly.io
 0.0.0.0 www.goodhandsappliances.com
 0.0.0.0 www.google-analytics.com
