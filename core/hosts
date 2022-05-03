@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.123
 # Release: 123
-# Entries: 61,045
+# Entries: 61,046
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 03 May 22 16:07:02
+# Updated: Tue, 03 May 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21905,6 +21905,7 @@
 0.0.0.0 flippantreprehensiblecharming.com
 0.0.0.0 flipper.outbrain.com
 0.0.0.0 flippersticktribute.com
+0.0.0.0 flippingcharts.com
 0.0.0.0 flirt.com
 0.0.0.0 flirt4e.com
 0.0.0.0 flirt4free.com
