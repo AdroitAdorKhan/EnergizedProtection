@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.124
 # Release: 124
-# Entries: 61,089
+# Entries: 61,090
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 04 May 22 16:07:02
+# Updated: Wed, 04 May 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9289,6 +9289,7 @@
 0.0.0.0 avkyu1tesnwy.com
 0.0.0.0 avlxcbdohfqs.xyz
 0.0.0.0 avnkkdvvdpjnks.xyz
+0.0.0.0 avo.app
 0.0.0.0 avrworks.com
 0.0.0.0 avto-pro.hostenko.com
 0.0.0.0 avtolady.od.ua
