@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.125
-# Release: 125
-# Entries: 61,162
+# Version: 22.05.126
+# Release: 126
+# Entries: 61,169
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 05 May 22 20:07:01
+# Updated: Fri, 06 May 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5989,6 +5989,7 @@
 0.0.0.0 ahvclick.com
 0.0.0.0 ahwhihes.xyz
 0.0.0.0 ahwjtvxeyoqe.com
+0.0.0.0 ahwqsczvsi.com
 0.0.0.0 ahwrin88tl.com
 0.0.0.0 ai-cf.addthis.com
 0.0.0.0 ai-embedded.addthis.com
@@ -19192,6 +19193,7 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 e.skimresources.com
 0.0.0.0 e.tw.cx
+0.0.0.0 e.viously.com
 0.0.0.0 e.zpesport.com
 0.0.0.0 e0967c0e.dr.youme.im
 0.0.0.0 e0a42e1a21669b.com
@@ -31042,6 +31044,7 @@
 0.0.0.0 loralana.com
 0.0.0.0 lorenfreeman.xyz
 0.0.0.0 lorenzourban.com
+0.0.0.0 loreps.com
 0.0.0.0 loreto.apiperu.net.pe
 0.0.0.0 loricalreach.info
 0.0.0.0 lorimakafrica.com
@@ -33264,6 +33267,7 @@
 0.0.0.0 mobitracker.info
 0.0.0.0 mobiv2l.ccdnss.com
 0.0.0.0 mobivity.com
+0.0.0.0 mobixc.vnfjsus.xyz
 0.0.0.0 mobiyield.com
 0.0.0.0 mobnatives.com
 0.0.0.0 moboapi.task-lite.com
@@ -33546,6 +33550,7 @@
 0.0.0.0 mountainouspear.com
 0.0.0.0 mountasd.com
 0.0.0.0 mountries.xyz
+0.0.0.0 mous9.biz
 0.0.0.0 mouse3k.com
 0.0.0.0 mousecatzilla.com
 0.0.0.0 mouseflow.com
@@ -51707,6 +51712,7 @@
 0.0.0.0 tp-alborz.ir
 0.0.0.0 tp1jcgl644jk.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
+0.0.0.0 tp4sul.jwzd.com.cn
 0.0.0.0 tpa7.iahorro.com
 0.0.0.0 tpaoaobrd.xyz
 0.0.0.0 tpbid.com
@@ -54053,6 +54059,7 @@
 0.0.0.0 unreshiramor.com
 0.0.0.0 unresolveddrama.com
 0.0.0.0 unrestgrits.com
+0.0.0.0 unripedredwud.com
 0.0.0.0 unrootpteroid.cam
 0.0.0.0 unrotomon.com
 0.0.0.0 unrrahyena.com
