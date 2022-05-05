@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.125
 # Release: 125
-# Entries: 61,160
+# Entries: 61,162
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 05 May 22 16:07:01
+# Updated: Thu, 05 May 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11130,6 +11130,7 @@
 0.0.0.0 blue-ribbon.site
 0.0.0.0 blue.fox8.com
 0.0.0.0 blue.ktla.com
+0.0.0.0 blue.thehill.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 blueblack.website
 0.0.0.0 bluebonnetconsulting.com
@@ -12724,6 +12725,7 @@
 0.0.0.0 ccma.demdex.net
 0.0.0.0 ccmasheville.com
 0.0.0.0 ccminer.org
+0.0.0.0 ccmiocw.com
 0.0.0.0 cconseent.info
 0.0.0.0 ccqecqbdstaxc.com
 0.0.0.0 ccs.livejasmin.com
