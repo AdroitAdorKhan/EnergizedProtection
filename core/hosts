@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.125
 # Release: 125
-# Entries: 61,107
+# Entries: 61,109
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 05 May 22 04:07:02
+# Updated: Thu, 05 May 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -844,6 +844,7 @@
 0.0.0.0 2.bereallylongblue.icu
 0.0.0.0 2.download-app.net
 0.0.0.0 2.express-news.me
+0.0.0.0 2.indexsinas.me
 0.0.0.0 2.kinobot.pw
 0.0.0.0 2.kinohd.pw
 0.0.0.0 2.kinohot.pw
@@ -24157,6 +24158,7 @@
 0.0.0.0 gq1.flurry.com
 0.0.0.0 gqhamipmmwf.com
 0.0.0.0 gqqdlckj8y.com
+0.0.0.0 gqtffirr.com
 0.0.0.0 gqyqvrnfp.com
 0.0.0.0 gr.ads.justpremium.com
 0.0.0.0 gr.adserver.yahoo.com
