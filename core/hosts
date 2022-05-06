@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.126
 # Release: 126
-# Entries: 61,177
+# Entries: 61,179
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 06 May 22 16:07:02
+# Updated: Fri, 06 May 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26120,6 +26120,7 @@
 0.0.0.0 hycikesty.pro
 0.0.0.0 hydracdn.network
 0.0.0.0 hydragrouge.com
+0.0.0.0 hydrahydra.ir
 0.0.0.0 hydramedia.com
 0.0.0.0 hydraulic.am
 0.0.0.0 hydromet.gov.bz
@@ -37642,6 +37643,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 part-co.org
+0.0.0.0 part-time-job.biz
 0.0.0.0 partage-facile.com
 0.0.0.0 parth2enerocis9tsust2ricus7pidata.com
 0.0.0.0 parthanonstatue.com
