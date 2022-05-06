@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.127
 # Release: 127
-# Entries: 61,202
+# Entries: 61,205
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 07 May 22 00:07:01
+# Updated: Sat, 07 May 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5684,6 +5684,7 @@
 0.0.0.0 aeffe3nhrua5hua.com
 0.0.0.0 aegis.pubmatic.com
 0.0.0.0 aegis.qq.com
+0.0.0.0 aehjtauekqjtvc.com
 0.0.0.0 aehxakmyyejqcyf.com
 0.0.0.0 aejwebjah.xyz
 0.0.0.0 aelick.com
@@ -6726,6 +6727,7 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 analytics-api.statvoo.com
+0.0.0.0 analytics-coletor-site.ojc.com.br
 0.0.0.0 analytics-impulse.contextads.live
 0.0.0.0 analytics-ingress.bitmovin.com
 0.0.0.0 analytics-production.hapyak.com
@@ -48347,6 +48349,7 @@
 0.0.0.0 srcu.com
 0.0.0.0 srdeveloperltd.com
 0.0.0.0 srenurvvd.xyz
+0.0.0.0 srfhtrjzvf.com
 0.0.0.0 srfreporturicsponly.report-uri.io
 0.0.0.0 srghsmpyvvko.com
 0.0.0.0 srigbxxv.com
