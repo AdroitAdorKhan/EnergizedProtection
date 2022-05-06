@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.126
 # Release: 126
-# Entries: 61,175
+# Entries: 61,177
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 06 May 22 12:07:02
+# Updated: Fri, 06 May 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -31895,6 +31895,7 @@
 0.0.0.0 maps.newrelic.com
 0.0.0.0 mapuchesystem.com
 0.0.0.0 maquiags.com
+0.0.0.0 maquimport.cf
 0.0.0.0 maramelhomes.ca
 0.0.0.0 marapcana.online
 0.0.0.0 marashmara.dx.am
@@ -32946,6 +32947,7 @@
 0.0.0.0 mintexapparel.com
 0.0.0.0 mintyswirl.com
 0.0.0.0 minusdumpling.com
+0.0.0.0 minute.ly
 0.0.0.0 miodtuoiktemgj.com
 0.0.0.0 miotsukushi.tokyo
 0.0.0.0 mipujomo.pro
