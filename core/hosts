@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.127
-# Release: 127
-# Entries: 61,240
+# Version: 22.05.128
+# Release: 128
+# Entries: 61,242
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 07 May 22 20:07:01
+# Updated: Sun, 08 May 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -27492,6 +27492,7 @@
 0.0.0.0 inurneddoggish.com
 0.0.0.0 inuropag.tk
 0.0.0.0 inurra.com
+0.0.0.0 inuuhtznjglmm.com
 0.0.0.0 inuvi.com
 0.0.0.0 inuvo.com
 0.0.0.0 inuxu.biz
@@ -29120,6 +29121,7 @@
 0.0.0.0 kevypeta.com
 0.0.0.0 kewhexethe.com
 0.0.0.0 kewholypti.com
+0.0.0.0 kewhulawi.com
 0.0.0.0 kewo.org
 0.0.0.0 kewqasdeqa.com
 0.0.0.0 kexumq.bn.files.1drv.com
