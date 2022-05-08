@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.128
-# Release: 128
-# Entries: 61,254
+# Version: 22.05.129
+# Release: 129
+# Entries: 61,256
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 08 May 22 20:07:01
+# Updated: Mon, 09 May 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -59176,6 +59176,7 @@
 0.0.0.0 www.stoolapostlecarbon.com
 0.0.0.0 www.stoppedauditioningneed.com
 0.0.0.0 www.stopsrenewalcold.com
+0.0.0.0 www.stopzoology.com
 0.0.0.0 www.store.com
 0.0.0.0 www.streetmonumentemulate.com
 0.0.0.0 www.stressfulbrag.com
@@ -59712,6 +59713,7 @@
 0.0.0.0 wyojnsttfnfhw.com
 0.0.0.0 wyont.queensiteforapp.com
 0.0.0.0 wyorrmuftjp.com
+0.0.0.0 wyphawhity.com
 0.0.0.0 wypovuwu.pro
 0.0.0.0 wyrtaxbhappt.com
 0.0.0.0 wysasys.com
