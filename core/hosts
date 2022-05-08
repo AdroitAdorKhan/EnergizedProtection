@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.128
 # Release: 128
-# Entries: 61,250
+# Entries: 61,251
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 08 May 22 12:07:01
+# Updated: Sun, 08 May 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13674,6 +13674,7 @@
 0.0.0.0 chpopesco.com
 0.0.0.0 chproxy.mgid.com
 0.0.0.0 chrelisa.com
+0.0.0.0 chrif8kdstie.com
 0.0.0.0 chrigm.com
 0.0.0.0 chrishrabalek.com
 0.0.0.0 christianchapman.com
