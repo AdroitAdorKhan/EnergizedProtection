@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.130
 # Release: 130
-# Entries: 61,283
+# Entries: 61,288
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 10 May 22 00:07:02
+# Updated: Tue, 10 May 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3240,6 +3240,7 @@
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-score.com
+0.0.0.0 ad-serve.b-cdn.net
 0.0.0.0 ad-server.co.za
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-slot.ru
@@ -33558,6 +33559,7 @@
 0.0.0.0 morganstanleyandco.tt.omtrdc.net
 0.0.0.0 morguecountryportray.com
 0.0.0.0 moriaxmr.com
+0.0.0.0 moriceprich.com
 0.0.0.0 morishim.com
 0.0.0.0 moritaka.com.my
 0.0.0.0 moritava.com
@@ -38045,6 +38047,7 @@
 0.0.0.0 pelangi.kim.banjarbarukota.go.id
 0.0.0.0 pelayoacctg.org.ph
 0.0.0.0 peliculas3.me
+0.0.0.0 pelis.click
 0.0.0.0 pendingvillashells.com
 0.0.0.0 pendulumtemporary.com
 0.0.0.0 penetrateinstalmentfacial.com
@@ -48227,6 +48230,7 @@
 0.0.0.0 spleniafallows.com
 0.0.0.0 splicky.com
 0.0.0.0 splinky.com
+0.0.0.0 splitcursednagging.com
 0.0.0.0 splitroute.adserver.yahoo.com
 0.0.0.0 splitter.trafficon.co
 0.0.0.0 splittingpick.com
@@ -59689,6 +59693,7 @@
 0.0.0.0 wwwindishareorg.imageshack.host
 0.0.0.0 wwwkooora2daycom.imageshack.host
 0.0.0.0 wwwkoraextracom.imageshack.host
+0.0.0.0 wwwowww.xyz
 0.0.0.0 wwwpapahdml.imageshack.host
 0.0.0.0 wwwpls.personal168.com
 0.0.0.0 wwwpromoter.com
