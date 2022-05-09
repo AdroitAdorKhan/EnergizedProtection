@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.129
-# Release: 129
-# Entries: 61,278
+# Version: 22.05.130
+# Release: 130
+# Entries: 61,283
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 09 May 22 20:07:02
+# Updated: Tue, 10 May 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10483,6 +10483,7 @@
 0.0.0.0 bestbuycanada.demdex.net
 0.0.0.0 bestbuylocal.com
 0.0.0.0 bestcasinopartner.com
+0.0.0.0 bestchoicevpn.com
 0.0.0.0 bestclevercaptcha.top
 0.0.0.0 bestcond1tions.com
 0.0.0.0 bestcontentcompany.top
@@ -13585,6 +13586,7 @@
 0.0.0.0 chi-staging-collector-pool.newrelic.com
 0.0.0.0 chi.outbrain.com
 0.0.0.0 chi2only.outbrain.com
+0.0.0.0 chiarascanavino.de
 0.0.0.0 chiasephim.xyz
 0.0.0.0 chicagocloudgroup.com
 0.0.0.0 chichayen.com
@@ -33117,6 +33119,7 @@
 0.0.0.0 mlegwhnrnljbw.xyz
 0.0.0.0 mlgwigjfllydvna.com
 0.0.0.0 mlikggydbymcnbt.com
+0.0.0.0 mlimgmxn.com
 0.0.0.0 mllxdihqs.com
 0.0.0.0 mllyathrqh.com
 0.0.0.0 mllyrwrkuvajo.com
@@ -35278,6 +35281,7 @@
 0.0.0.0 nrpytlwohljfjgc.xyz
 0.0.0.0 nrteam.hu
 0.0.0.0 nruwpejsrauky.com
+0.0.0.0 nrvkwqaatl.com
 0.0.0.0 nryceuula.com
 0.0.0.0 ns-715.awsdns-25.net
 0.0.0.0 ns-d01.mopub.com
@@ -37896,6 +37900,7 @@
 0.0.0.0 pbs.alfasense.com
 0.0.0.0 pbs.getpublica.com
 0.0.0.0 pbs.publishers.tremorhub.com
+0.0.0.0 pbsdutufp.com
 0.0.0.0 pbterra.com
 0.0.0.0 pbujybjmtchvihc.xyz
 0.0.0.0 pbvfakenkssrjr.xyz
