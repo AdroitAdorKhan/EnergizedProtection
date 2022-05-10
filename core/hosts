@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.131
 # Release: 131
-# Entries: 61,334
+# Entries: 61,336
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 May 22 00:07:01
+# Updated: Wed, 11 May 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16613,6 +16613,7 @@
 0.0.0.0 d11hjbdxxtogg5.cloudfront.net
 0.0.0.0 d12czbu0tltgqq.cloudfront.net
 0.0.0.0 d12ysuoljjyfqa.cloudfront.net
+0.0.0.0 d135aysof2oufc.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d13nu0oomnx5ti.cloudfront.net
 0.0.0.0 d13qwbj37sfx89.cloudfront.net
@@ -23168,6 +23169,7 @@
 0.0.0.0 gbotvisit.com
 0.0.0.0 gbs-nettetal.de
 0.0.0.0 gbttxmatf.com
+0.0.0.0 gbvqblkpxmzji.com
 0.0.0.0 gbwess.com
 0.0.0.0 gbwydbpvyo.xyz
 0.0.0.0 gbyanlrtee.xyz
