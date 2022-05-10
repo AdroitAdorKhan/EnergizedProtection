@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.130
 # Release: 130
-# Entries: 61,314
+# Entries: 61,325
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 10 May 22 12:07:02
+# Updated: Tue, 10 May 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6910,6 +6910,7 @@
 0.0.0.0 analytics.flipboard.com
 0.0.0.0 analytics.flurry-cdn.com
 0.0.0.0 analytics.fontanka.ru
+0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.fortinet.com
 0.0.0.0 analytics.fosrv.com
 0.0.0.0 analytics.fotoable.net
@@ -15139,6 +15140,7 @@
 0.0.0.0 communityi.biz
 0.0.0.0 comorw.com
 0.0.0.0 compactyunker.com
+0.0.0.0 compan.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 companionstormyhusk.com
 0.0.0.0 company.report-uri.io
 0.0.0.0 companycouncilbreeze.com
@@ -20682,6 +20684,7 @@
 0.0.0.0 events-api.outfit7.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-dra.op.hicloud.com
+0.0.0.0 events-jp.splash-screen.net
 0.0.0.0 events-regional.tremorhub.com
 0.0.0.0 events-service.coinbase.com
 0.0.0.0 events.air.tv
@@ -20705,6 +20708,7 @@
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 events.samsungads.com
 0.0.0.0 events.sd-nbb.de
+0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
 0.0.0.0 events.startappservice.com
 0.0.0.0 events.taboola.com
@@ -24666,6 +24670,7 @@
 0.0.0.0 gwb8a.rdtk.io
 0.0.0.0 gwiza1988.hopto.org
 0.0.0.0 gwmcjcdxldt.xyz
+0.0.0.0 gwmtracking.com
 0.0.0.0 gwpfepafxruc.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
 0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
@@ -28146,6 +28151,7 @@
 0.0.0.0 java8.xyz
 0.0.0.0 javacript.ga
 0.0.0.0 javacript.tk
+0.0.0.0 javbob.live
 0.0.0.0 javbucks.com
 0.0.0.0 javbuzz.com
 0.0.0.0 javelincleanliness.com
@@ -28463,6 +28469,7 @@
 0.0.0.0 jnynosyqnuoxeod.com
 0.0.0.0 jo.ads.justpremium.com
 0.0.0.0 joannalawoffice.com
+0.0.0.0 joao-gabriel.be
 0.0.0.0 joapsiro.com
 0.0.0.0 joastous.com
 0.0.0.0 joawapti.net
@@ -43675,6 +43682,7 @@
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 rdrceting.com
 0.0.0.0 rdrtrk.com
+0.0.0.0 rds-co.ga
 0.0.0.0 rdsa2012.com
 0.0.0.0 rdsb2.club
 0.0.0.0 rdsb21.club
@@ -44417,6 +44425,7 @@
 0.0.0.0 reviabiliseriez.site
 0.0.0.0 reviewdollars.com
 0.0.0.0 reviewedreads.com
+0.0.0.0 reviewhotline.co.za
 0.0.0.0 reviewhowed.com
 0.0.0.0 revimedia.com
 0.0.0.0 revincenizam.com
@@ -50469,6 +50478,7 @@
 0.0.0.0 tateuniver.club
 0.0.0.0 tatevowel.com
 0.0.0.0 tatic.audienceinsights.net
+0.0.0.0 tatlub.com
 0.0.0.0 tato365.info
 0.0.0.0 tattepush.com
 0.0.0.0 tattid.com
@@ -57582,6 +57592,7 @@
 0.0.0.0 www.auditude.com
 0.0.0.0 www.aulavirtualapecc.com
 0.0.0.0 www.aurjueeh.com
+0.0.0.0 www.ausvanlines.com.au
 0.0.0.0 www.automatad.com
 0.0.0.0 www.automatic-taps.com
 0.0.0.0 www.avantlink.com
