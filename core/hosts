@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.131
 # Release: 131
-# Entries: 61,337
+# Entries: 61,340
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 May 22 08:07:02
+# Updated: Wed, 11 May 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19064,6 +19064,7 @@
 0.0.0.0 dwz.lefu.run
 0.0.0.0 dx.applock.com
 0.0.0.0 dx.dett.cn
+0.0.0.0 dx.mountain.com
 0.0.0.0 dx.qqyewu.com
 0.0.0.0 dxaempvs.xyz
 0.0.0.0 dxbptjyj.xyz
@@ -24532,6 +24533,7 @@
 0.0.0.0 grvhjsexg.com
 0.0.0.0 grygrothapi.pro
 0.0.0.0 gs.andriod.co
+0.0.0.0 gs.mountain.com
 0.0.0.0 gs.umengcloud.com
 0.0.0.0 gs80.ronatorda.com
 0.0.0.0 gsasd.info
@@ -42777,6 +42779,7 @@
 0.0.0.0 px.gfycat.com
 0.0.0.0 px.juicyads.com
 0.0.0.0 px.moatads.com
+0.0.0.0 px.mountain.com
 0.0.0.0 px.sharethis.com
 0.0.0.0 px.staticfiles.at
 0.0.0.0 px.trafficshop.com
