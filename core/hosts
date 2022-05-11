@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.131
-# Release: 131
-# Entries: 61,373
+# Version: 22.05.132
+# Release: 132
+# Entries: 61,375
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 May 22 20:07:02
+# Updated: Thu, 12 May 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25928,6 +25928,7 @@
 0.0.0.0 howebeautiful.com
 0.0.0.0 howeve.com
 0.0.0.0 howledmintier.com
+0.0.0.0 howmanyview.com
 0.0.0.0 howstroll.com
 0.0.0.0 howtoremoveadblock.com
 0.0.0.0 howtubray.com
@@ -36263,6 +36264,7 @@
 0.0.0.0 okubuxtfij.xyz
 0.0.0.0 okupsudd.work
 0.0.0.0 okvrrgiwxdqoicg.com
+0.0.0.0 okytgxmxonxim.com
 0.0.0.0 ol.at.atwola.com
 0.0.0.0 ol.jp.at.atwola.com
 0.0.0.0 ol.uk.at.atwola.com
