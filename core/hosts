@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.131
 # Release: 131
-# Entries: 61,336
+# Entries: 61,337
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 11 May 22 04:07:01
+# Updated: Wed, 11 May 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -46983,6 +46983,7 @@
 0.0.0.0 shoungak.net
 0.0.0.0 shoustiz.net
 0.0.0.0 shoutcha.net
+0.0.0.0 shoutchu.net
 0.0.0.0 shoutsop.com
 0.0.0.0 shouxaum.net
 0.0.0.0 shovedrailwaynurse.com
