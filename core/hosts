@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.132
-# Release: 132
-# Entries: 61,425
+# Version: 22.05.133
+# Release: 133
+# Entries: 61,429
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 May 22 20:07:02
+# Updated: Fri, 13 May 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -29486,6 +29486,7 @@
 0.0.0.0 knotkettle.com
 0.0.0.0 knottysticks.com
 0.0.0.0 knoure.com
+0.0.0.0 knowctr.com
 0.0.0.0 knowd.com
 0.0.0.0 knowfloor.com
 0.0.0.0 knowhowcontrivancerelive.com
@@ -41967,6 +41968,7 @@
 0.0.0.0 profilesnitch.com
 0.0.0.0 profitablecpmnetwork.com
 0.0.0.0 profitabledisplaycontent.com
+0.0.0.0 profitabledisplaycontent.comwww.profitabledisplaycontent.com
 0.0.0.0 profitablegate.com
 0.0.0.0 profitabletoothbrushseduce.com
 0.0.0.0 profitabletrustednetwork.com
@@ -52514,6 +52516,7 @@
 0.0.0.0 track.recreativ.ru
 0.0.0.0 track.requestresults.com
 0.0.0.0 track.reson8.com
+0.0.0.0 track.rheinpfalz.de
 0.0.0.0 track.right-ads.com
 0.0.0.0 track.robee.tech
 0.0.0.0 track.roinattrack.com
@@ -58982,6 +58985,7 @@
 0.0.0.0 www.producingdestroyer.com
 0.0.0.0 www.profitablecpmnetwork.com
 0.0.0.0 www.profitabledisplaycontent.com
+0.0.0.0 www.profitabledisplaycontent.comwww.profitabledisplaycontent.com
 0.0.0.0 www.profitablegate.com
 0.0.0.0 www.profitabletrustednetwork.com
 0.0.0.0 www.program-io.com
