@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.132
 # Release: 132
-# Entries: 61,421
+# Entries: 61,425
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 12 May 22 16:07:01
+# Updated: Thu, 12 May 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2526,6 +2526,7 @@
 0.0.0.0 9vuq3.bemobtrk.com
 0.0.0.0 _mboxedge26.tt.omtrdc.net
 0.0.0.0 a-ads.com
+0.0.0.0 a-b-c-d.xyz
 0.0.0.0 a-counters.com
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a-new.ru
@@ -11417,6 +11418,7 @@
 0.0.0.0 boolevool.com
 0.0.0.0 boom-boom-vroom.com
 0.0.0.0 boomads.com
+0.0.0.0 boomselljamwelunch.com
 0.0.0.0 boomtownroi.page.link
 0.0.0.0 boomtrain.com
 0.0.0.0 booraipa.com
@@ -17657,6 +17659,7 @@
 0.0.0.0 descobriraurora.com.br
 0.0.0.0 descrepush.com
 0.0.0.0 descz.ovh
+0.0.0.0 desekansr.com
 0.0.0.0 desembobelinons.site
 0.0.0.0 desertedbreath.com
 0.0.0.0 desertedrat.com
@@ -55755,6 +55758,7 @@
 0.0.0.0 vplserv.duckdns.org
 0.0.0.0 vpn-freeproxy.com
 0.0.0.0 vpn-offers.com
+0.0.0.0 vpn-offers.info
 0.0.0.0 vpn-offers.org
 0.0.0.0 vpn.adotmob.com
 0.0.0.0 vpn.appsflyer.com
