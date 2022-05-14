@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.134
 # Release: 134
-# Entries: 61,488
+# Entries: 61,489
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 14 May 22 04:07:01
+# Updated: Sat, 14 May 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -56065,6 +56065,7 @@
 0.0.0.0 w88.go.com
 0.0.0.0 wa.and.co.uk
 0.0.0.0 wa.appsflyer.com
+0.0.0.0 wa.gmx.net
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wa.web.de
 0.0.0.0 wa4y.com
