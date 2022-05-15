@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.135
 # Release: 135
-# Entries: 61,540
+# Entries: 61,542
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 15 May 22 12:07:01
+# Updated: Sun, 15 May 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25806,6 +25806,7 @@
 0.0.0.0 hookhub.webcam
 0.0.0.0 hooktronic1.000webhostapp.com
 0.0.0.0 hookupsearch13.com
+0.0.0.0 hooliganmedia.com
 0.0.0.0 hooligapps.com
 0.0.0.0 hoolyfy.com
 0.0.0.0 hoophaub.com
@@ -57419,6 +57420,7 @@
 0.0.0.0 wtvertnet.com
 0.0.0.0 wtvuhodbndlwv.xyz
 0.0.0.0 wtwfvcqhet.xyz
+0.0.0.0 wtyjqpaszl-torjan.oss-cn-beijing.aliyuncs.com
 0.0.0.0 wtzgaa.com
 0.0.0.0 wuaqylinoy.xyz
 0.0.0.0 wubsauth.net
