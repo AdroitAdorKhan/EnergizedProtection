@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.137
 # Release: 137
-# Entries: 61,660
+# Entries: 61,664
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 17 May 22 16:07:01
+# Updated: Tue, 17 May 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -43542,6 +43542,7 @@
 0.0.0.0 r.online-metrix.net
 0.0.0.0 r.popin.cc
 0.0.0.0 r.randomnew.com
+0.0.0.0 r.razer.com
 0.0.0.0 r.rbc.ru
 0.0.0.0 r.routemob.com
 0.0.0.0 r.skimresources.com
@@ -48997,6 +48998,7 @@
 0.0.0.0 stankyrich.com
 0.0.0.0 stanleyestatespublishing.com
 0.0.0.0 stansoam.com
+0.0.0.0 stantsantional.com
 0.0.0.0 star-advertising.com
 0.0.0.0 star.adcash.com
 0.0.0.0 starcoins.ws
@@ -51966,6 +51968,7 @@
 0.0.0.0 topcpmnetwork.com
 0.0.0.0 topdealad.com
 0.0.0.0 topdepo.com
+0.0.0.0 topdica.com
 0.0.0.0 topdisplaycontent.com
 0.0.0.0 topdisplaynetwork.com
 0.0.0.0 topdrama.net
@@ -53607,6 +53610,7 @@
 0.0.0.0 trustedpeach.com
 0.0.0.0 trusterejecta.com
 0.0.0.0 trustiseverything.de
+0.0.0.0 trustmeiamcdn.com
 0.0.0.0 trustworthytopmost.com
 0.0.0.0 trustx.org
 0.0.0.0 trustyfine.com
