@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.139
 # Release: 139
-# Entries: 61,799
+# Entries: 61,800
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 19 May 22 04:07:02
+# Updated: Thu, 19 May 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3143,6 +3143,7 @@
 0.0.0.0 acousticairplane.com
 0.0.0.0 acquaintedexpectations.com
 0.0.0.0 acquaintedpostman.com
+0.0.0.0 acquawes.xyz
 0.0.0.0 acquireattention.com
 0.0.0.0 acquirethem.com
 0.0.0.0 acredtrow.com
