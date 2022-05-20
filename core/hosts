@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.140
-# Release: 140
-# Entries: 61,978
+# Version: 22.05.141
+# Release: 141
+# Entries: 61,979
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 May 22 20:07:02
+# Updated: Sat, 21 May 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -43900,6 +43900,7 @@
 0.0.0.0 radverdirect.com
 0.0.0.0 raenfh9tkuka.com
 0.0.0.0 raeybwva.com
+0.0.0.0 raf.overwolf.com
 0.0.0.0 rafflereticence.com
 0.0.0.0 raftcomposuremeals.com
 0.0.0.0 rafvertizing.crazygames.com
