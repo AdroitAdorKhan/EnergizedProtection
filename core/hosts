@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.140
 # Release: 140
-# Entries: 61,973
+# Entries: 61,976
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 20 May 22 12:07:02
+# Updated: Fri, 20 May 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -52090,6 +52090,7 @@
 0.0.0.0 toecircle.com
 0.0.0.0 toedrawer.com
 0.0.0.0 toemowwbvf.com
+0.0.0.0 toenaillab.com
 0.0.0.0 toenailtrishaw.com
 0.0.0.0 toeschistache.com
 0.0.0.0 toffeehierarchy.com
@@ -52437,6 +52438,7 @@
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.suedkurier.de
+0.0.0.0 tr.vitals.co
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr1.admeira.ch
 0.0.0.0 tr226.adaware.com
@@ -61665,6 +61667,7 @@
 0.0.0.0 z929.fuelfix.com
 0.0.0.0 z9q9kj37oy.kameleoon.eu
 0.0.0.0 za.ads.justpremium.com
+0.0.0.0 za.zingnews.vn
 0.0.0.0 zabanit.xyz
 0.0.0.0 zadarma.com
 0.0.0.0 zadelm.com
