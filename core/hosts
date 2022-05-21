@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.141
-# Release: 141
-# Entries: 62,013
+# Version: 22.05.142
+# Release: 142
+# Entries: 62,020
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 21 May 22 20:07:02
+# Updated: Sun, 22 May 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8821,6 +8821,7 @@
 0.0.0.0 audioarctic.com
 0.0.0.0 audioknigi.club
 0.0.0.0 audionews.fm
+0.0.0.0 audiosech.xyz
 0.0.0.0 audioserve.adswizz.com
 0.0.0.0 audit.webinform.hu
 0.0.0.0 auditioneasterhelm.com
@@ -13906,6 +13907,7 @@
 0.0.0.0 ckddwjriosdg.com
 0.0.0.0 ckeckstatus.biz
 0.0.0.0 ckfoods.net
+0.0.0.0 ckgroundan.xyz
 0.0.0.0 ckickdiller.com
 0.0.0.0 cknfdvto.com
 0.0.0.0 ckpool.org
@@ -16774,6 +16776,7 @@
 0.0.0.0 d1xkyo9j4r7vnn.cloudfront.net
 0.0.0.0 d1ybdlg8aoufn.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
+0.0.0.0 d1zw85ny9dtn37.cloudfront.net
 0.0.0.0 d20903hof2l33q.cloudfront.net
 0.0.0.0 d20l1z9qfxwqa3.cloudfront.net
 0.0.0.0 d213cc9tw38vai.cloudfront.net
@@ -17678,6 +17681,7 @@
 0.0.0.0 demo34.ckg.hk
 0.0.0.0 democracyendlesslyzoo.com
 0.0.0.0 demoney.club
+0.0.0.0 demonware.online
 0.0.0.0 demotesusceptible.com
 0.0.0.0 dempeepi.com
 0.0.0.0 demurcobsoho.com
@@ -22211,6 +22215,7 @@
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 fltbqfjsbrj.com
 0.0.0.0 fluencecutins.cam
 0.0.0.0 fluencydepressing.com
 0.0.0.0 fluencymister.com
@@ -47812,6 +47817,7 @@
 0.0.0.0 sitteesovkhoz.com
 0.0.0.0 sittingfoot.com
 0.0.0.0 sittrust.org
+0.0.0.0 situmn.com
 0.0.0.0 siuyohsfpli.com
 0.0.0.0 sivian-ebe.com
 0.0.0.0 sivpnnmpppmor.xyz
@@ -61492,6 +61498,7 @@
 0.0.0.0 yqhmxdpeyw.com
 0.0.0.0 yqinoppkab.com
 0.0.0.0 yqlpyqmqffbt.xyz
+0.0.0.0 yqmlfnlifjp.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 yqttykxcmap.com
 0.0.0.0 yqyeopoqvnjk.com
