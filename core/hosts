@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.144
-# Release: 144
-# Entries: 62,144
+# Version: 22.05.145
+# Release: 145
+# Entries: 62,147
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 24 May 22 20:07:02
+# Updated: Wed, 25 May 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12720,6 +12720,7 @@
 0.0.0.0 casinogames.com
 0.0.0.0 casinojackpotking.com
 0.0.0.0 casinorewards.com
+0.0.0.0 casleygkqvkx.com
 0.0.0.0 casoruamc.com.ng
 0.0.0.0 caspion.com
 0.0.0.0 casprix.com
@@ -13417,6 +13418,7 @@
 0.0.0.0 ceoillwdcc.com
 0.0.0.0 ceorlsrajasic.com
 0.0.0.0 cephalanthuseoccidu4entalis.com
+0.0.0.0 cephidelixed.com
 0.0.0.0 ceppartner.com
 0.0.0.0 ceqmuhkawv.xyz
 0.0.0.0 ceraitoa.com
@@ -27483,6 +27485,7 @@
 0.0.0.0 ingoomychan.com
 0.0.0.0 ingpercent.biz
 0.0.0.0 ingrammicro.tt.omtrdc.net
+0.0.0.0 ingramony.com
 0.0.0.0 ingratitudefunctions.com
 0.0.0.0 ingredient.restorepainful.xyz
 0.0.0.0 ingress.linktr.ee
