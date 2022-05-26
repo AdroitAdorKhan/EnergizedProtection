@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.146
-# Release: 146
-# Entries: 62,233
+# Version: 22.05.147
+# Release: 147
+# Entries: 62,241
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 26 May 22 20:07:02
+# Updated: Fri, 27 May 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5939,6 +5939,7 @@
 0.0.0.0 agenciadesarrollorivera.com.uy
 0.0.0.0 agenciaml.com.br
 0.0.0.0 agencianavegue.com.br
+0.0.0.0 agenduret.com
 0.0.0.0 agent.cmcm.com
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 agentinteractive.com
@@ -8525,6 +8526,7 @@
 0.0.0.0 aspignitean.com
 0.0.0.0 aspirantgobetweenvary.com
 0.0.0.0 aspirantsleepover.com
+0.0.0.0 aspiredcapitol.com
 0.0.0.0 aspiringattempt.com
 0.0.0.0 aspirinsuicide.com
 0.0.0.0 aspservice.jp
@@ -20608,6 +20610,7 @@
 0.0.0.0 esauwoan.com
 0.0.0.0 escalatenetwork.com
 0.0.0.0 escape.insites.eu
+0.0.0.0 escapeeelapid.com
 0.0.0.0 escapegamenc.fr
 0.0.0.0 escgayrimenkul.com
 0.0.0.0 eschoolchil.biz
@@ -28114,6 +28117,7 @@
 0.0.0.0 iratelyveinlet.com
 0.0.0.0 irc.service-exec.net
 0.0.0.0 irc2022.com
+0.0.0.0 irchincsp.com
 0.0.0.0 ircmawdeighxjn.xyz
 0.0.0.0 irecentlym.club
 0.0.0.0 iredhljm.xyz
@@ -48632,6 +48636,7 @@
 0.0.0.0 sortsail.com
 0.0.0.0 sortstructure.com
 0.0.0.0 sortsummer.com
+0.0.0.0 sortyrails.com
 0.0.0.0 sorucall.com
 0.0.0.0 sos-staging.adaware.com
 0.0.0.0 sos.adaware.com
@@ -50319,6 +50324,7 @@
 0.0.0.0 suhalyxi.com
 0.0.0.0 suidiancippus.com
 0.0.0.0 suined.com
+0.0.0.0 suinglygaggler.com
 0.0.0.0 suite6ixty6ix.com
 0.0.0.0 suitedeadlockhandsome.com
 0.0.0.0 suitesbahrag.icu
@@ -51856,6 +51862,7 @@
 0.0.0.0 thinker.allow.support
 0.0.0.0 thinknear.com
 0.0.0.0 thinksabashmolly.com
+0.0.0.0 thinnerconcha.com
 0.0.0.0 thiptumuce.com
 0.0.0.0 third-tracking.com
 0.0.0.0 thirdrespect.com
@@ -56999,6 +57006,7 @@
 0.0.0.0 web-boosting.net
 0.0.0.0 web-counter.net
 0.0.0.0 web-frontend-dot-sc-analytics.appspot.com
+0.0.0.0 web-guardian.xyz
 0.0.0.0 web-redirecting.com
 0.0.0.0 web-security.cloud
 0.0.0.0 web-shoppingmall.net
