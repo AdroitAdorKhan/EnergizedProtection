@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 62,319
+# Entries: 62,325
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 May 22 16:07:02
+# Updated: Fri, 27 May 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25452,6 +25452,7 @@
 0.0.0.0 heathertravelledpast.com
 0.0.0.0 heathrow.tt.omtrdc.net
 0.0.0.0 heatical-upleview.icu
+0.0.0.0 heatmap.emma.tools
 0.0.0.0 heatmap.it
 0.0.0.0 heatso.com
 0.0.0.0 heauty-viesected.com
@@ -27662,6 +27663,7 @@
 0.0.0.0 insights-collector.gog.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights-embed.newrelic.com
+0.0.0.0 insights.algolia.io
 0.0.0.0 insights.alphonso.tv
 0.0.0.0 insights.cj.com
 0.0.0.0 insights.digitalcontent.sky
@@ -37664,6 +37666,7 @@
 0.0.0.0 ovh-cdn.perfops.io
 0.0.0.0 ovhddcesev.xyz
 0.0.0.0 ovibospeseta.com
+0.0.0.0 ovinspecutions.com
 0.0.0.0 oviparaatalan.com
 0.0.0.0 ovoute.com
 0.0.0.0 ovrnevnriuen20.site
@@ -42958,6 +42961,7 @@
 0.0.0.0 ptongouh.net
 0.0.0.0 ptookaih.net
 0.0.0.0 ptoosteg.com
+0.0.0.0 ptorykida.com
 0.0.0.0 ptoulsey.com
 0.0.0.0 ptoumsid.net
 0.0.0.0 ptoushoa.com
@@ -51560,6 +51564,7 @@
 0.0.0.0 ter.zglive.ksmobile.net
 0.0.0.0 terabytemedia.com
 0.0.0.0 teracreative.com
+0.0.0.0 teralog.techhub.co.kr
 0.0.0.0 terats.com
 0.0.0.0 terdiparcalpe.info
 0.0.0.0 teresa.karmel.lublin.pl
@@ -61093,6 +61098,7 @@
 0.0.0.0 xn----ymcb3alct9kvacg09m.com
 0.0.0.0 xn--2000-f4dm3ea0a4b.xn--p1ai
 0.0.0.0 xn--21-hmca7a.xn--p1ai
+0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--32-vlci2e.xn--p1ai
 0.0.0.0 xn--80aadeo0bkmb7a6j.xn--p1ai
 0.0.0.0 xn--80aaewcawie.xn--p1ai
