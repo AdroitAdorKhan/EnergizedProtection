@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 62,245
+# Entries: 62,246
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 27 May 22 04:07:02
+# Updated: Fri, 27 May 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17913,6 +17913,7 @@
 0.0.0.0 dev.trafficshop.com
 0.0.0.0 dev.umeng.com
 0.0.0.0 dev.wide.adr.pt.ksmobile.com
+0.0.0.0 dev0.buzz
 0.0.0.0 dev1.flurry.com
 0.0.0.0 dev2.flurry.com
 0.0.0.0 dev2pub.com
