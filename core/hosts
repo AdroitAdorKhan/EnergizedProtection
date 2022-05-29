@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.149
-# Release: 149
-# Entries: 62,398
+# Version: 22.05.150
+# Release: 150
+# Entries: 62,399
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 29 May 22 20:07:02
+# Updated: Mon, 30 May 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6558,6 +6558,7 @@
 0.0.0.0 alternativeprofitablegate.com
 0.0.0.0 alterupholdcinema.com
 0.0.0.0 altg.widerplanet.com
+0.0.0.0 althef.com
 0.0.0.0 altheqa.policyfest.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 altogethergreedy.com
