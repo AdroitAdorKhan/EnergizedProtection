@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.150
 # Release: 150
-# Entries: 62,399
+# Entries: 62,400
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 30 May 22 00:07:02
+# Updated: Mon, 30 May 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -51159,6 +51159,7 @@
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.catapultx.com
+0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.deployads.com
 0.0.0.0 tags.expo9.exponential.com
