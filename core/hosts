@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.150
 # Release: 150
-# Entries: 62,400
+# Entries: 62,401
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 30 May 22 08:07:02
+# Updated: Mon, 30 May 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -54987,6 +54987,7 @@
 0.0.0.0 undens.com
 0.0.0.0 underarmour.tt.omtrdc.net
 0.0.0.0 underclick.ru
+0.0.0.0 undercoversimplicity.com
 0.0.0.0 underdog.media
 0.0.0.0 underdohag.ac.ug
 0.0.0.0 underdohg.ac.ug
