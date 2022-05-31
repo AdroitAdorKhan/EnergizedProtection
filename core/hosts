@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.05.151
-# Release: 151
-# Entries: 62,475
+# Version: 22.06.152
+# Release: 152
+# Entries: 62,486
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 31 May 22 20:07:01
+# Updated: Wed, 01 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2869,6 +2869,7 @@
 0.0.0.0 abasgimental.com
 0.0.0.0 abashcoppercocky.com
 0.0.0.0 abasir.com
+0.0.0.0 abateall.com
 0.0.0.0 abattoirpleatsprinkle.com
 0.0.0.0 abazelfan.com
 0.0.0.0 abbeyblog.me
@@ -3129,6 +3130,7 @@
 0.0.0.0 achievehardboiledheap.com
 0.0.0.0 achingmercury.com
 0.0.0.0 achyrepeatitchy.com
+0.0.0.0 acidacorn.com
 0.0.0.0 acidlikenessdejected.com
 0.0.0.0 acidpigs.com
 0.0.0.0 acint.net
@@ -6456,6 +6458,7 @@
 0.0.0.0 alshamselectrodxb.com
 0.0.0.0 alshankyo.biz
 0.0.0.0 alshurooqae.com
+0.0.0.0 alskillsexkce.xyz
 0.0.0.0 alspearowa.com
 0.0.0.0 alstrome9riya10.com
 0.0.0.0 alsyedonline.com
@@ -18077,6 +18080,7 @@
 0.0.0.0 dhtmesmxjblb.com
 0.0.0.0 dhundora.com
 0.0.0.0 di.rlcdn.com
+0.0.0.0 di028lywwye7s.cloudfront.net
 0.0.0.0 di7stero.com
 0.0.0.0 diabasewoodhouse.xyz
 0.0.0.0 diag.atdmt.com
@@ -21977,6 +21981,7 @@
 0.0.0.0 fi.adserver.yahoo.com
 0.0.0.0 fi.advertising.com
 0.0.0.0 fi.oclean.com
+0.0.0.0 fibfever.com
 0.0.0.0 fibpeeode.site
 0.0.0.0 ficinvesses.com
 0.0.0.0 fictiongroin.com
@@ -30741,6 +30746,7 @@
 0.0.0.0 lesawilson.com
 0.0.0.0 lesburghmoloki.site
 0.0.0.0 leserservice-tracking.de
+0.0.0.0 lessalle.com
 0.0.0.0 lessite.pro
 0.0.0.0 lesslizardfastened.com
 0.0.0.0 lessonsociety.com
@@ -33205,6 +33211,7 @@
 0.0.0.0 mentionedabjection.com
 0.0.0.0 mentionedannulmentsuperstition.com
 0.0.0.0 mentionedrubbing.com
+0.0.0.0 mentwren.xyz
 0.0.0.0 menuhivewomb.com
 0.0.0.0 meo257na3rch.com
 0.0.0.0 meowboltadequate.com
@@ -35930,6 +35937,7 @@
 0.0.0.0 nowtrending.buzz
 0.0.0.0 nowtrk.com
 0.0.0.0 noxagile.duapp.com
+0.0.0.0 noxiousjet.com
 0.0.0.0 noxtqhqorftmoql.com
 0.0.0.0 noxttlle.com
 0.0.0.0 nozzorli.com
@@ -45303,6 +45311,7 @@
 0.0.0.0 rhabas.com
 0.0.0.0 rhcusweojokcb.com
 0.0.0.0 rhearthinkchlo.xyz
+0.0.0.0 rhelog.com
 0.0.0.0 rhendam.com
 0.0.0.0 rhetoricalloss.com
 0.0.0.0 rheuewuw.duckdns.org
@@ -52392,6 +52401,7 @@
 0.0.0.0 tlngnashes.com
 0.0.0.0 tlootas.org
 0.0.0.0 tlpblwipcipgmtd.com
+0.0.0.0 tlprxzujk.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tlsilusbu.com
@@ -53909,6 +53919,7 @@
 0.0.0.0 traffic.megaphone.fm
 0.0.0.0 traffic.moportals.com
 0.0.0.0 traffic.mpnrs.com
+0.0.0.0 traffic.name
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 traffic.pinklabel.com
 0.0.0.0 traffic.ru
