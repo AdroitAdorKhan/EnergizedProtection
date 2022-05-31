@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.05.151
 # Release: 151
-# Entries: 62,463
+# Entries: 62,464
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 31 May 22 12:07:01
+# Updated: Tue, 31 May 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14529,6 +14529,7 @@
 0.0.0.0 cnc.ecstasycode.de
 0.0.0.0 cnc.krakenbit.net
 0.0.0.0 cnc.pinklander.com
+0.0.0.0 cncflpfw.com
 0.0.0.0 cneeittlirec.club
 0.0.0.0 cnet.ie
 0.0.0.0 cnetcontentsolutions.com
