@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.152
-# Release: 152
-# Entries: 62,555
+# Version: 22.06.153
+# Release: 153
+# Entries: 62,571
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 01 Jun 22 20:07:01
+# Updated: Thu, 02 Jun 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3079,6 +3079,8 @@
 0.0.0.0 accidentrepeat.com
 0.0.0.0 accio.ai
 0.0.0.0 acclaimrecommendation.com
+0.0.0.0 acclog001.shop-pro.jp
+0.0.0.0 acclog002.shop-pro.jp
 0.0.0.0 accoladethoroughly.com
 0.0.0.0 accomment.pro
 0.0.0.0 accommodationinfractructuretwo.com
@@ -16889,6 +16891,7 @@
 0.0.0.0 d227cncaprzd7y.cloudfront.net
 0.0.0.0 d22ffr6srkd9zx.cloudfront.net
 0.0.0.0 d22xmn10vbouk4.cloudfront.net
+0.0.0.0 d23spca806c5fu.cloudfront.net
 0.0.0.0 d23xhr62nxa8qo.cloudfront.net
 0.0.0.0 d24ak3f2b.top
 0.0.0.0 d24g87zbxr4yiz.cloudfront.net
@@ -19388,6 +19391,7 @@
 0.0.0.0 dynamitedata.com
 0.0.0.0 dynamitedepressionweapons.com
 0.0.0.0 dynatrace-managed.com
+0.0.0.0 dynatrace.att.com
 0.0.0.0 dyndyn.duckdns.org
 0.0.0.0 dynmsol.com
 0.0.0.0 dynpaa.com
@@ -20079,6 +20083,7 @@
 0.0.0.0 ejejlewaimmmoqvjggm.me
 0.0.0.0 ejgbylkk.xyz
 0.0.0.0 ejgsltd.com
+0.0.0.0 ejjlrijh.com
 0.0.0.0 ejktsqripwks.xyz
 0.0.0.0 ejkwgeanhw.com
 0.0.0.0 ejoonsoo.net
@@ -21804,6 +21809,7 @@
 0.0.0.0 fdrckondxucy.xyz
 0.0.0.0 fdrgtt9edmej010.com
 0.0.0.0 fdrnffuh.xyz
+0.0.0.0 fdvewptkqfnrok.com
 0.0.0.0 fe-service.jscssfunny.com
 0.0.0.0 fe68d1f7-c9f4-45b3-8905-7cda73d3fd74.edge.permutive.app
 0.0.0.0 fe7qygqi2p2h.com
@@ -29101,6 +29107,7 @@
 0.0.0.0 jrhjhybb.xyz
 0.0.0.0 jrhkxsvw.com
 0.0.0.0 jrkcyoor.xyz
+0.0.0.0 jrmixnjsc.com
 0.0.0.0 jrnciibouc.com
 0.0.0.0 jrpkizae.com
 0.0.0.0 jrplytmsrowjslr.com
@@ -30594,6 +30601,7 @@
 0.0.0.0 lcs.modoo.at
 0.0.0.0 lct.addthis.com
 0.0.0.0 lcvegvphdoe.com
+0.0.0.0 lcvtgvcod.com
 0.0.0.0 lcwfab1.com
 0.0.0.0 lcwfab2.com
 0.0.0.0 lcwfab3.com
@@ -31234,6 +31242,7 @@
 0.0.0.0 llbapvoave.com
 0.0.0.0 llcceptinh.club
 0.0.0.0 lld2q.com
+0.0.0.0 llentmatchw.xyz
 0.0.0.0 llgomnhfdpd.com
 0.0.0.0 llhwcusn.xyz
 0.0.0.0 llink.site
@@ -34549,6 +34558,7 @@
 0.0.0.0 mundanepollution.com
 0.0.0.0 mundodoingles.com.br
 0.0.0.0 mundoflorencia.com
+0.0.0.0 municalcurit.xyz
 0.0.0.0 munityand.biz
 0.0.0.0 munori.com
 0.0.0.0 munsterduke.com
@@ -45319,6 +45329,7 @@
 0.0.0.0 reza-khalaj.com
 0.0.0.0 reztrack.com
 0.0.0.0 rf9480.bomj.xyz
+0.0.0.0 rfauvovecqlmii.com
 0.0.0.0 rfbrceyxthpj.bid
 0.0.0.0 rfckhjmrccmopv.xyz
 0.0.0.0 rffcmmmkavdhko.com
@@ -50037,6 +50048,7 @@
 0.0.0.0 stats.someecards.com
 0.0.0.0 stats.speedclicks.ero-advertising.com
 0.0.0.0 stats.streamhub.io
+0.0.0.0 stats.tipser.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.travelask.ru
 0.0.0.0 stats.tubecup.net
@@ -52919,6 +52931,7 @@
 0.0.0.0 tr.marsflag.com
 0.0.0.0 tr.namu.wiki
 0.0.0.0 tr.outbrain.com
+0.0.0.0 tr.slvrbullet.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.suedkurier.de
 0.0.0.0 tr.vitals.co
@@ -57088,6 +57101,7 @@
 0.0.0.0 wanaka-portal.uat.lk
 0.0.0.0 wanderlustphtravel.com
 0.0.0.0 wangfenxi.com
+0.0.0.0 waniks.com
 0.0.0.0 waninusty.com
 0.0.0.0 wannabyby.000webhostapp.com
 0.0.0.0 wannos.127.net
@@ -59552,6 +59566,7 @@
 0.0.0.0 www.ipuss.tv
 0.0.0.0 www.irbis.cat
 0.0.0.0 www.irksomeshamefarrier.com
+0.0.0.0 www.irresponsibilityadvertiseanthony.com
 0.0.0.0 www.isatechnology.com
 0.0.0.0 www.iscleanone.com
 0.0.0.0 www.ismarttechnologies.com
@@ -61517,6 +61532,7 @@
 0.0.0.0 xxsweety.com
 0.0.0.0 xxttlvqbbye.com
 0.0.0.0 xxtxjxxvdnccc.xyz
+0.0.0.0 xxvism.com
 0.0.0.0 xxx.full.video.download.oillan.imzog.com
 0.0.0.0 xxx2019.pro
 0.0.0.0 xxxadu.com
