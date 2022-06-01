@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.152
 # Release: 152
-# Entries: 62,529
+# Entries: 62,530
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 01 Jun 22 12:07:01
+# Updated: Wed, 01 Jun 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6815,6 +6815,7 @@
 0.0.0.0 analytics.ad4screen.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.adkernel.com
+0.0.0.0 analytics.adoffice.11st.co.kr
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.adsertor.co.uk
 0.0.0.0 analytics.adskeeper.co.uk
