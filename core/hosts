@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.153
-# Release: 153
-# Entries: 62,617
+# Version: 22.06.154
+# Release: 154
+# Entries: 62,621
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 02 Jun 22 20:07:01
+# Updated: Fri, 03 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6198,6 +6198,7 @@
 0.0.0.0 akashavilla.fr
 0.0.0.0 akashdayalgroups.com
 0.0.0.0 akavita.com
+0.0.0.0 akdbr.com
 0.0.0.0 akdnetwork.com
 0.0.0.0 akeasignifica.biz
 0.0.0.0 akemeast.club
@@ -18099,6 +18100,7 @@
 0.0.0.0 dhjrjqgclb.com
 0.0.0.0 dhlkbdndj.com
 0.0.0.0 dhnotykaukt.com
+0.0.0.0 dhonon.com
 0.0.0.0 dhrdbylrvccj.com
 0.0.0.0 dhrhzii89gpwo.cloudfront.net
 0.0.0.0 dhtmesmxjblb.com
@@ -20107,6 +20109,7 @@
 0.0.0.0 ejurzsax.com
 0.0.0.0 ejvnqlvp.xyz
 0.0.0.0 ejvxpadplvdci.com
+0.0.0.0 ejwxiuhjxep.com
 0.0.0.0 ejxvdjnd.xyz
 0.0.0.0 ejyymghi.com
 0.0.0.0 ekamjewels.com
@@ -30073,6 +30076,7 @@
 0.0.0.0 koucerie.com
 0.0.0.0 koudaiyundong.com
 0.0.0.0 koudas.alphonso.tv
+0.0.0.0 koudooze.net
 0.0.0.0 koukomol.com
 0.0.0.0 koulanpols.website
 0.0.0.0 koutisurprise.com
