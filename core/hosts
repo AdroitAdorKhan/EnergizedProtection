@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.153
 # Release: 153
-# Entries: 62,610
+# Entries: 62,611
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 02 Jun 22 12:07:02
+# Updated: Thu, 02 Jun 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2957,6 +2957,7 @@
 0.0.0.0 abnegationbanquet.com
 0.0.0.0 abnewslive.in
 0.0.0.0 abnormalwidth.com
+0.0.0.0 aboage.com
 0.0.0.0 aboardamusement.com
 0.0.0.0 aboardfork.com
 0.0.0.0 aboardlevel.com
