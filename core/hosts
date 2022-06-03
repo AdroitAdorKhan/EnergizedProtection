@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.154
 # Release: 154
-# Entries: 62,649
+# Entries: 62,651
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 03 Jun 22 12:07:02
+# Updated: Fri, 03 Jun 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14439,6 +14439,7 @@
 0.0.0.0 cloud.uc.cn
 0.0.0.0 cloud2.appcelerator.net
 0.0.0.0 cloudaaaa.com
+0.0.0.0 cloudads.tv
 0.0.0.0 cloudbase-media.de
 0.0.0.0 cloudera.demdex.net
 0.0.0.0 cloudflareinsights.com
@@ -57266,6 +57267,7 @@
 0.0.0.0 watson.telemetry.microsoft.comuser.ora.tv
 0.0.0.0 watson2.alpha.telemetry.microsoft.com
 0.0.0.0 watson7.alpha.telemetry.microsoft.com
+0.0.0.0 watwait.com
 0.0.0.0 watyourcon.fun
 0.0.0.0 waudit.cz
 0.0.0.0 waugeboa.net
