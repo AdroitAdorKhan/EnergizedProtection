@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.156
 # Release: 156
-# Entries: 62,732
+# Entries: 62,733
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Jun 22 00:07:01
+# Updated: Sun, 05 Jun 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -59685,6 +59685,7 @@
 0.0.0.0 www.information-update.dynamic-dns.net
 0.0.0.0 www.informsnobstephen.com
 0.0.0.0 www.ingonherbal.com
+0.0.0.0 www.ingratitudefunctions.com
 0.0.0.0 www.initiallogical.com
 0.0.0.0 www.inlingua-bourgogne.com
 0.0.0.0 www.inmobi.com
