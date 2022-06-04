@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.155
 # Release: 155
-# Entries: 62,724
+# Entries: 62,725
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 04 Jun 22 16:07:02
+# Updated: Sat, 04 Jun 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -45191,6 +45191,7 @@
 0.0.0.0 repsrowedpay.com
 0.0.0.0 reptilefightearn.com
 0.0.0.0 reptileimut.id
+0.0.0.0 reptilescript.com
 0.0.0.0 reptilesire.com
 0.0.0.0 republer.com
 0.0.0.0 reputedaytrade.com
