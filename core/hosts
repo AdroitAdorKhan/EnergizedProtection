@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.156
-# Release: 156
-# Entries: 62,777
+# Version: 22.06.157
+# Release: 157
+# Entries: 62,779
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Jun 22 20:07:01
+# Updated: Mon, 06 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10392,6 +10392,7 @@
 0.0.0.0 becominggland.com
 0.0.0.0 becoquin.com
 0.0.0.0 becorsolaom.com
+0.0.0.0 becrustleom.com
 0.0.0.0 becuboneor.com
 0.0.0.0 bedbwgjjpxiuox.com
 0.0.0.0 beddingcadetexploded.com
@@ -54904,6 +54905,7 @@
 0.0.0.0 tytheglupy.com
 0.0.0.0 tytsolutions.com
 0.0.0.0 tyxsulttmyk.com
+0.0.0.0 tzegilo.com
 0.0.0.0 tzp7li.edvfwlacluo.com
 0.0.0.0 u-9204.onetouch6.com
 0.0.0.0 u-on.eu
