@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.156
 # Release: 156
-# Entries: 62,759
+# Entries: 62,777
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 05 Jun 22 16:07:01
+# Updated: Sun, 05 Jun 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5234,6 +5234,7 @@
 0.0.0.0 adsnative.com
 0.0.0.0 adsnearme.com
 0.0.0.0 adsnetworkserver.com
+0.0.0.0 adsninja.ca
 0.0.0.0 adsniper.ru
 0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsomi.com
@@ -6710,6 +6711,7 @@
 0.0.0.0 amorluv.com
 0.0.0.0 amountdonutproxy.com
 0.0.0.0 amountinsulation.com
+0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp-service.addthis.com
 0.0.0.0 amp-test.adzerk.net
@@ -7836,6 +7838,7 @@
 0.0.0.0 api.opmnstr.com
 0.0.0.0 api.optimizely.com
 0.0.0.0 api.otclick-adv.ru
+0.0.0.0 api.panda.boosters.company
 0.0.0.0 api.parsely.com
 0.0.0.0 api.perfectaudience.com
 0.0.0.0 api.piclick.kr
@@ -16333,6 +16336,7 @@
 0.0.0.0 crptgate.com
 0.0.0.0 crrepo.com
 0.0.0.0 crrintyfgnohux.com
+0.0.0.0 crs-event.line.me
 0.0.0.0 crt.livejasmin.com
 0.0.0.0 crt.sectigo.com
 0.0.0.0 crta.dailymail.co.uk
@@ -17618,6 +17622,7 @@
 0.0.0.0 decemberpedalunfair.com
 0.0.0.0 decenthat.com
 0.0.0.0 dechauffersnough.xyz
+0.0.0.0 decide.dev
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decidedrum.com
 0.0.0.0 decideinteractive.com
@@ -20107,6 +20112,7 @@
 0.0.0.0 eighteenthservicehelper.com
 0.0.0.0 eighthservicehelper.com
 0.0.0.0 eigisxuxehc.xyz
+0.0.0.0 eignal.com
 0.0.0.0 eiipskos.com
 0.0.0.0 eikegolehem.com
 0.0.0.0 eilaf.org
@@ -23747,6 +23753,7 @@
 0.0.0.0 geo.eu.h-bid.com
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
+0.0.0.0 geo.instagram.com
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.mattel163.com
 0.0.0.0 geo.metronews.ca
@@ -27727,6 +27734,7 @@
 0.0.0.0 ingramony.com
 0.0.0.0 ingratitudefunctions.com
 0.0.0.0 ingredient.restorepainful.xyz
+0.0.0.0 ingress-public.brown.line-apps.com
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 inhaletorchesoffended.com
 0.0.0.0 inheart.ru
@@ -29121,6 +29129,7 @@
 0.0.0.0 joredi.com
 0.0.0.0 joredii.com
 0.0.0.0 jorhtrovhk.xyz
+0.0.0.0 josannastudio.co
 0.0.0.0 josephantecedentsick.com
 0.0.0.0 josephcalculatedsewer.com
 0.0.0.0 josephgrief.000webhostapp.com
@@ -30818,6 +30827,7 @@
 0.0.0.0 legistrike.pro
 0.0.0.0 legolas-media.com
 0.0.0.0 legropack.eu
+0.0.0.0 legy-jp-addr.line.naver.jp
 0.0.0.0 lehanusepardo.info
 0.0.0.0 lehechapunevent.com
 0.0.0.0 lehnhausen.nl
@@ -34055,6 +34065,7 @@
 0.0.0.0 mobileads.indiatimes.com
 0.0.0.0 mobileadspopup.com
 0.0.0.0 mobileapi.advertising.com
+0.0.0.0 mobileapi.usebutton.com
 0.0.0.0 mobilebanner.ru
 0.0.0.0 mobilecore.com
 0.0.0.0 mobilecrashreporting.googleapis.com
@@ -35308,6 +35319,7 @@
 0.0.0.0 neitherentrailsrim.com
 0.0.0.0 nelberk.com
 0.0.0.0 nellads.com
+0.0.0.0 nelo2-col.linecorp.com
 0.0.0.0 nelo2-col.navercorp.com
 0.0.0.0 nelson.world
 0.0.0.0 neltac.com
@@ -44126,6 +44138,7 @@
 0.0.0.0 query2.finance.yahoo.com
 0.0.0.0 query7.hicloud.com
 0.0.0.0 querylead.com
+0.0.0.0 quesid.com
 0.0.0.0 question-mgr-test.cmcm.com
 0.0.0.0 questionablethird.com
 0.0.0.0 questionfly.com
@@ -45058,6 +45071,7 @@
 0.0.0.0 relationshipregard.com
 0.0.0.0 relativefraudulentprop.com
 0.0.0.0 relaxtime24.biz
+0.0.0.0 relay-sentry-fp.line-apps.com
 0.0.0.0 relead.com
 0.0.0.0 releasedfinish.com
 0.0.0.0 releasedrewardexcitedly.com
@@ -47396,6 +47410,8 @@
 0.0.0.0 sentimenthypocrisy.com
 0.0.0.0 sentineldiscordmm.com
 0.0.0.0 sentphysically.com
+0.0.0.0 sentry-tw.line-apps.com
+0.0.0.0 sentry-uit.line-apps.com
 0.0.0.0 sentry.deepl.com
 0.0.0.0 sentry.friendbuy.com
 0.0.0.0 sentry.io
@@ -48758,6 +48774,7 @@
 0.0.0.0 snitswaspshaft.com
 0.0.0.0 snmghcbtpw.com
 0.0.0.0 snodlycaccias.com
+0.0.0.0 snonoz.com
 0.0.0.0 snonsy.com
 0.0.0.0 snoobi.com
 0.0.0.0 snoopytool.outbrain.com
@@ -55703,6 +55720,7 @@
 0.0.0.0 use-sync.adhese.com
 0.0.0.0 use.cc.loginfra.com
 0.0.0.0 use1-match.justpremium.com
+0.0.0.0 usebutton.com
 0.0.0.0 usecatoutlet.com.br
 0.0.0.0 usedexample.com
 0.0.0.0 usefirst.xyz
