@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.157
 # Release: 157
-# Entries: 62,781
+# Entries: 62,782
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 06 Jun 22 08:07:01
+# Updated: Mon, 06 Jun 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -41845,6 +41845,7 @@
 0.0.0.0 player.ex.co
 0.0.0.0 player.sendtonews.com
 0.0.0.0 player.tabooporns.com
+0.0.0.0 player.zype.com
 0.0.0.0 playerseo.club
 0.0.0.0 playertraffic.com
 0.0.0.0 playgirl.com
