@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.158
-# Release: 158
-# Entries: 62,855
+# Version: 22.06.159
+# Release: 159
+# Entries: 62,861
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 07 Jun 22 20:07:02
+# Updated: Wed, 08 Jun 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2997,6 +2997,7 @@
 0.0.0.0 abskursin.com
 0.0.0.0 absolstats.co.za
 0.0.0.0 absoluteclickscom.com
+0.0.0.0 absoluteroute.com
 0.0.0.0 absolutionbravery.com
 0.0.0.0 absolveparticlesanti.com
 0.0.0.0 absorbedexistence.com
@@ -28619,6 +28620,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 iyfsearch.com
 0.0.0.0 iyi.net
+0.0.0.0 iykiuacppty.com
 0.0.0.0 iymqlsiqdxu.com
 0.0.0.0 iynwlojaay.com
 0.0.0.0 iyoewrxubefkrq.xyz
@@ -38963,6 +38965,7 @@
 0.0.0.0 pecqjgomt.com
 0.0.0.0 pecukirom.com
 0.0.0.0 peculiaritiesfrequencymedicine.com
+0.0.0.0 pecult.com
 0.0.0.0 pedagogicobilingue.edu.pe
 0.0.0.0 pedcentral.com.br
 0.0.0.0 pedestalstall.com
@@ -46945,6 +46948,7 @@
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredoutillicit.com
 0.0.0.0 scatteredstream.com
+0.0.0.0 scaupyfeuwmaxxt.com
 0.0.0.0 scblqvoiypcoy.com
 0.0.0.0 scdn.cxense.com
 0.0.0.0 scdn.eclick.vn
@@ -50630,6 +50634,7 @@
 0.0.0.0 stripedburst.com
 0.0.0.0 stripsaver.com
 0.0.0.0 stripseamanacknowledge.com
+0.0.0.0 strivefoetus.com
 0.0.0.0 strivegasreases.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 stroeerdigitalmedia.de
@@ -56427,6 +56432,7 @@
 0.0.0.0 vibll-tv.uc.cn
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vibsouss.net
+0.0.0.0 vibuin.com
 0.0.0.0 vic.welcome-to.com
 0.0.0.0 vice-publishers-cdn.vice.com
 0.0.0.0 vice.demdex.net
