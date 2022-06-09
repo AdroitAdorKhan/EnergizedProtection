@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.160
 # Release: 160
-# Entries: 62,941
+# Entries: 62,971
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 09 Jun 22 08:07:02
+# Updated: Thu, 09 Jun 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5478,6 +5478,7 @@
 0.0.0.0 advard.com
 0.0.0.0 advarkads.com
 0.0.0.0 advast.sibnet.ru
+0.0.0.0 advb.org
 0.0.0.0 advcash.com
 0.0.0.0 advconversion.com
 0.0.0.0 adve.hasmobi.net
@@ -5584,6 +5585,7 @@
 0.0.0.0 advhelp.rakutenmarketing.com
 0.0.0.0 adviad.com
 0.0.0.0 adviator.com
+0.0.0.0 adviceme.gr
 0.0.0.0 advices-ost.xyz
 0.0.0.0 advideo.startappservice.com
 0.0.0.0 advideo.uimserv.net
@@ -10634,6 +10636,7 @@
 0.0.0.0 bestbuycanada.demdex.net
 0.0.0.0 bestbuylocal.com
 0.0.0.0 bestcasinopartner.com
+0.0.0.0 bestcdnforbusiness.com
 0.0.0.0 bestchoicevpn.com
 0.0.0.0 bestclevercaptcha.top
 0.0.0.0 bestcond1tions.com
@@ -23170,6 +23173,7 @@
 0.0.0.0 ftp.dns-info.dyndns.pro
 0.0.0.0 ftp.mahimeta.com
 0.0.0.0 ftp.moatads.com
+0.0.0.0 ftp.yuecmr.org
 0.0.0.0 ftrace.rayjump.com
 0.0.0.0 ftte.fun
 0.0.0.0 ftte.xyz
@@ -30468,6 +30472,7 @@
 0.0.0.0 l7.net
 0.0.0.0 l7ywz7.edvfwlacluo.com
 0.0.0.0 l936.expressnews.com
+0.0.0.0 l96.org
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 l99l.org
 0.0.0.0 la-csi.com
@@ -30483,6 +30488,7 @@
 0.0.0.0 label.cmcm.com
 0.0.0.0 labeldollars.com
 0.0.0.0 labferour.club
+0.0.0.0 labfitouts.com
 0.0.0.0 labo-m.org
 0.0.0.0 laborates.com
 0.0.0.0 labourpushed.com
@@ -35280,6 +35286,7 @@
 0.0.0.0 nazarickol.com
 0.0.0.0 nazarvitalik.000webhostapp.com
 0.0.0.0 nazoid.com
+0.0.0.0 nazreghadir.ir
 0.0.0.0 nazrultheking.com
 0.0.0.0 nbanownews.com
 0.0.0.0 nbastreamio.imageshack.host
@@ -38603,6 +38610,7 @@
 0.0.0.0 paleoleap.usesfathom.com
 0.0.0.0 paletteadulatory.com
 0.0.0.0 palettebackgroundentire.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 palibs.tech
 0.0.0.0 pallorvain.com
 0.0.0.0 pallxylophone.xyz
@@ -46270,6 +46278,7 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 rubiestagaty.com
 0.0.0.0 rubiginose.com
+0.0.0.0 rubikas-otp.ml
 0.0.0.0 rubird.ru
 0.0.0.0 rubsayprelude.com
 0.0.0.0 rubylife.go2cloud.org
@@ -46572,6 +46581,7 @@
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 s24hc8xzag.com
 0.0.0.0 s25.cnzz.com
+0.0.0.0 s26.filetransfer.io
 0.0.0.0 s2block.com
 0.0.0.0 s2blosh.com
 0.0.0.0 s2jo9g.edvfwlacluo.com
@@ -58402,6 +58412,7 @@
 0.0.0.0 wokfirsax.com
 0.0.0.0 wokm8isd4zit.com
 0.0.0.0 wolaufie.com
+0.0.0.0 wolle.pl
 0.0.0.0 wolqundera.com
 0.0.0.0 wolutaqmvroto.xyz
 0.0.0.0 wolve.pro
@@ -58492,6 +58503,7 @@
 0.0.0.0 worldfreshblog.com
 0.0.0.0 worldgravity.com
 0.0.0.0 worldlogger.com
+0.0.0.0 worldmedicsky.info
 0.0.0.0 worldpile.com
 0.0.0.0 worldpush.co
 0.0.0.0 worldsbestcams.com
@@ -61082,6 +61094,7 @@
 0.0.0.0 www.vwuyuahqf.com
 0.0.0.0 www.vyprcnoverthewall.com
 0.0.0.0 www.vzikntliefc.com
+0.0.0.0 www.wahkiulogistics.com.hk
 0.0.0.0 www.waiteddeplore.com
 0.0.0.0 www.waitressinaugurate.com
 0.0.0.0 www.waitressunequal.com
@@ -61175,7 +61188,9 @@
 0.0.0.0 www.xzgest.am
 0.0.0.0 www.yahoo-news.co
 0.0.0.0 www.yasmwesikz.com
+0.0.0.0 www.yedirenkajans.com
 0.0.0.0 www.yeegsxcwbnn.com
+0.0.0.0 www.yell.ge
 0.0.0.0 www.yes8sg.com
 0.0.0.0 www.yesterdayscancautiously.com
 0.0.0.0 www.yestole.com
@@ -61192,6 +61207,7 @@
 0.0.0.0 www.yz1998.com
 0.0.0.0 www.yzlwuuzzehjh.com
 0.0.0.0 www.zamora.axiatraders.com
+0.0.0.0 www.zardamarine.com
 0.0.0.0 www.zarget.com
 0.0.0.0 www.zdajdudqfq.com
 0.0.0.0 www.zedo.com
@@ -61201,6 +61217,7 @@
 0.0.0.0 www.zerodestructive.com
 0.0.0.0 www.zfresh-news.com
 0.0.0.0 www.zifjgjddpy.com
+0.0.0.0 www.zigorat.us
 0.0.0.0 www.zipshare.com
 0.0.0.0 www.zjkypuacaawx.com
 0.0.0.0 www.zodertracker.com
@@ -61209,6 +61226,7 @@
 0.0.0.0 www.zrvnhlwypqpwjw.com
 0.0.0.0 www.zsxqjjobfb.com
 0.0.0.0 www.zupa-duha-svetoga-sb.hr
+0.0.0.0 www.zvdesign.info
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zxgroymagqu.com
 0.0.0.0 www02.clicktale.net
@@ -61498,6 +61516,7 @@
 0.0.0.0 xeminer.net
 0.0.0.0 xemtivi24h.com
 0.0.0.0 xenadq7ytg97sk4wh.ay.delivery
+0.0.0.0 xenangifc.vn
 0.0.0.0 xenergi.net
 0.0.0.0 xentracking.com
 0.0.0.0 xeoliders.com
@@ -61506,6 +61525,7 @@
 0.0.0.0 xertive.com
 0.0.0.0 xesigyno.pro
 0.0.0.0 xev2o.com
+0.0.0.0 xevis.net
 0.0.0.0 xexex.duckdns.org
 0.0.0.0 xf-1304509675.file.myqcloud.com
 0.0.0.0 xf.futurespice.ru
@@ -61990,11 +62010,13 @@
 0.0.0.0 yaflihhbtfoq.com
 0.0.0.0 yagolocal.com
 0.0.0.0 yahblemable.com
+0.0.0.0 yahir-fz.com
 0.0.0.0 yahoo-news.co
 0.0.0.0 yahoo.adtrackers.net
 0.0.0.0 yahoo.uservoice.com
 0.0.0.0 yahoojp.taboola.com
 0.0.0.0 yahoosandbox.com
+0.0.0.0 yakosurf.com
 0.0.0.0 yallboen.com
 0.0.0.0 yalma.kz
 0.0.0.0 yamada-shoshi.main.jp
@@ -62072,6 +62094,7 @@
 0.0.0.0 yebadu.com
 0.0.0.0 yebtcayv.com
 0.0.0.0 yedfg.jelikob.ru
+0.0.0.0 yedirenkajans.com
 0.0.0.0 yeegsxcwbnn.com
 0.0.0.0 yeesshh.com
 0.0.0.0 yefbmjqdjkpr.com
@@ -62395,6 +62418,7 @@
 0.0.0.0 yovoads.com
 0.0.0.0 yoweszincoid.com
 0.0.0.0 yoyadsdom.com
+0.0.0.0 yoymanajemen.id
 0.0.0.0 yoyxjxdqgg.xyz
 0.0.0.0 ypa.focusoftime.com
 0.0.0.0 ypaletdevelspe.info
@@ -62480,6 +62504,7 @@
 0.0.0.0 yucatanentiemporeal.com
 0.0.0.0 yuccasswears.com
 0.0.0.0 yucwqrqlf.com
+0.0.0.0 yudaisuzuki.jp
 0.0.0.0 yudexjr.com
 0.0.0.0 yufovqvrkugs.com
 0.0.0.0 yuhfdwesaa.appspot.com
@@ -62507,6 +62532,7 @@
 0.0.0.0 yuppyads.com
 0.0.0.0 yuriaftereleven.com
 0.0.0.0 yurivideo.com
+0.0.0.0 yusufkarpak.com.tr
 0.0.0.0 yusukgbirmwi.com
 0.0.0.0 yuubuslvsqhopkk.com
 0.0.0.0 yuvmnujuxxu.xyz
@@ -62825,6 +62851,7 @@
 0.0.0.0 zjkypuacaawx.com
 0.0.0.0 zjo0tjqpm1.com
 0.0.0.0 zk2csysgrehc6d4rv.ay.delivery
+0.0.0.0 zktecovn.com
 0.0.0.0 zlacraft.com
 0.0.0.0 zlajnpfqgsleo.com
 0.0.0.0 zlfgedpuxrbpgm.com
@@ -62862,10 +62889,12 @@
 0.0.0.0 zociwodi.com
 0.0.0.0 zoe-major.com
 0.0.0.0 zoeaegyral.com
+0.0.0.0 zoelake.co.uk
 0.0.0.0 zofkhbbjw.com
 0.0.0.0 zog.link
 0.0.0.0 zogleshewi.com
 0.0.0.0 zolrauls.net
+0.0.0.0 zonainformatica.es
 0.0.0.0 zonasertaneja.com.br
 0.0.0.0 zonbon.xyz
 0.0.0.0 zonealta.com
@@ -62933,6 +62962,7 @@
 0.0.0.0 zsadvocacia.com
 0.0.0.0 zsjcl.bemobtrk.com
 0.0.0.0 zsolo.bid
+0.0.0.0 zspwolawiazowa.pl
 0.0.0.0 zss22.com
 0.0.0.0 zswxrfwnapgg.com
 0.0.0.0 zsxqjjobfb.com
