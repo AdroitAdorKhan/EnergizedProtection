@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.160
 # Release: 160
-# Entries: 62,971
+# Entries: 62,974
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 09 Jun 22 12:07:02
+# Updated: Thu, 09 Jun 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8028,6 +8028,7 @@
 0.0.0.0 app.eu.adjust.com
 0.0.0.0 app.flurry.com
 0.0.0.0 app.igodigital.com
+0.0.0.0 app.leadsrx.com
 0.0.0.0 app.marc-concours.com
 0.0.0.0 app.mopub.com
 0.0.0.0 app.northerntrader.net
@@ -20206,6 +20207,7 @@
 0.0.0.0 ekansovi.com
 0.0.0.0 ekareqif.xyz
 0.0.0.0 ekcrvvokodrlg.com
+0.0.0.0 ekdj30.com
 0.0.0.0 ekeide.com
 0.0.0.0 ekexsztsgm.com
 0.0.0.0 ekfvtddmqcgmqc.xyz
@@ -33117,6 +33119,7 @@
 0.0.0.0 mclean.uk.cloud.360safe.com
 0.0.0.0 mclinic.by
 0.0.0.0 mcmillanshakespeare.tt.omtrdc.net
+0.0.0.0 mcmo22.com
 0.0.0.0 mcning.com
 0.0.0.0 mco-1-apex.go.sonobi.com
 0.0.0.0 mco-1-sync.go.sonobi.com
