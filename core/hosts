@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.161
-# Release: 161
-# Entries: 63,031
+# Version: 22.06.162
+# Release: 162
+# Entries: 63,039
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 10 Jun 22 20:07:01
+# Updated: Sat, 11 Jun 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13884,9 +13884,11 @@
 0.0.0.0 chokedsmelt.com
 0.0.0.0 chokefirmbeauty.com
 0.0.0.0 chokertraffic.com
+0.0.0.0 choksail.com
 0.0.0.0 chokupsupto.com
 0.0.0.0 chonametrix.bounceme.net
 0.0.0.0 chonenusi.com
+0.0.0.0 choobinoobi.com
 0.0.0.0 choogeet.net
 0.0.0.0 chookamookla.com
 0.0.0.0 choonamoona.com
@@ -19437,6 +19439,7 @@
 0.0.0.0 dwfoxvfktkqmf.com
 0.0.0.0 dwgygyln.xyz
 0.0.0.0 dwigwltjera.com
+0.0.0.0 dwirow.com
 0.0.0.0 dwjciwppn.xyz
 0.0.0.0 dwldpccleaner.adaware.com
 0.0.0.0 dwldprotect.adaware.com
@@ -22525,6 +22528,7 @@
 0.0.0.0 flow.concord.systems
 0.0.0.0 flower-power-mariendorf.com
 0.0.0.0 flowerbedfedpoultry.com
+0.0.0.0 floweryflavor.com
 0.0.0.0 floweryoperation.com
 0.0.0.0 flowln.com
 0.0.0.0 flownabbot.com
@@ -43629,6 +43633,7 @@
 0.0.0.0 purelyrics.com
 0.0.0.0 puresinew.com
 0.0.0.0 purevideo.com
+0.0.0.0 purgma.com
 0.0.0.0 purgrobi.com
 0.0.0.0 puroraw.com
 0.0.0.0 purpleads.io
@@ -53187,6 +53192,7 @@
 0.0.0.0 totalwownews.com
 0.0.0.0 totemcash.com
 0.0.0.0 totentacruelor.com
+0.0.0.0 totfrvpotdp.com
 0.0.0.0 tothisimpo.biz
 0.0.0.0 totlnkbn.com
 0.0.0.0 totlnkcl.com
@@ -58628,6 +58634,7 @@
 0.0.0.0 wpajwlhti.xyz
 0.0.0.0 wpdev.myprojectstaging.com
 0.0.0.0 wperadnbfaodt.xyz
+0.0.0.0 wpfc.ml
 0.0.0.0 wpfukdvchi.com
 0.0.0.0 wpgwonline.com
 0.0.0.0 wpiybvppvemk.xyz
@@ -62219,6 +62226,7 @@
 0.0.0.0 yhkrtmeblmcdk.com
 0.0.0.0 yhlbswgllngr.com
 0.0.0.0 yhmamvbqiyhamu.xyz
+0.0.0.0 yhmgqevtybbku.com
 0.0.0.0 yhmtech.co.il
 0.0.0.0 yhqyb.rdtk.io
 0.0.0.0 yhxgwhpvxc.com
