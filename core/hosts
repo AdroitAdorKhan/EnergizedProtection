@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.163
 # Release: 163
-# Entries: 63,108
+# Entries: 63,110
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 12 Jun 22 00:07:01
+# Updated: Sun, 12 Jun 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21679,6 +21679,7 @@
 0.0.0.0 fadsatz.com
 0.0.0.0 fadsecs.com
 0.0.0.0 fadsims.com
+0.0.0.0 fadsimz.com
 0.0.0.0 fadsips.com
 0.0.0.0 fadsipz.com
 0.0.0.0 fadskis.com
@@ -26951,6 +26952,7 @@
 0.0.0.0 i864ekhq.com
 0.0.0.0 i937g.bemobtrk.com
 0.0.0.0 i99i.org
+0.0.0.0 ia.51.la
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 ia4.notifications.website
 0.0.0.0 iab-imp-gateway.supersonicads.com
