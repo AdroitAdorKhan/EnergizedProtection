@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.162
 # Release: 162
-# Entries: 63,103
+# Entries: 63,105
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 11 Jun 22 16:07:01
+# Updated: Sat, 11 Jun 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5193,6 +5193,7 @@
 0.0.0.0 adshell.net
 0.0.0.0 adshexa.com
 0.0.0.0 adshop.infolinks.com
+0.0.0.0 adshoper.com
 0.0.0.0 adshopping.com
 0.0.0.0 adshort.media
 0.0.0.0 adshort.space
@@ -14024,6 +14025,7 @@
 0.0.0.0 citrusad.com
 0.0.0.0 city-ads.de
 0.0.0.0 cityadspix.com
+0.0.0.0 citydsp.com
 0.0.0.0 citygrid.com
 0.0.0.0 citylifedns.com
 0.0.0.0 citysammy.casacam.net
