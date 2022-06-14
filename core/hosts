@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.165
 # Release: 165
-# Entries: 63,224
+# Entries: 63,230
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 14 Jun 22 16:07:02
+# Updated: Tue, 14 Jun 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -38290,6 +38290,7 @@
 0.0.0.0 p.brid.tv
 0.0.0.0 p.cpx.to
 0.0.0.0 p.d.1emn.com
+0.0.0.0 p.data.cctv.com
 0.0.0.0 p.dlx.addthis.com
 0.0.0.0 p.gazeta.pl
 0.0.0.0 p.gm99.com
@@ -54265,6 +54266,7 @@
 0.0.0.0 tracker.tubecj.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.videoeva.com
+0.0.0.0 tracker.xgen.dev
 0.0.0.0 tracker.yhd.com
 0.0.0.0 tracker1.ep-solutions.at
 0.0.0.0 trackerads.com
@@ -55340,6 +55342,7 @@
 0.0.0.0 ublock.org
 0.0.0.0 ubn3k2x9bfd2yw3n3.ay.delivery
 0.0.0.0 ubrvrmdfslpemf.com
+0.0.0.0 ubt-sin.tripcdn.com
 0.0.0.0 ubtnqmonurmor.com
 0.0.0.0 ubuntu-inc.com
 0.0.0.0 ubuyanalytics.ubuy.com.kw
@@ -55718,6 +55721,7 @@
 0.0.0.0 unhdeagqmq.com
 0.0.0.0 unhorseaa.com
 0.0.0.0 unhtoyqpqnkakt.com
+0.0.0.0 unibots.in
 0.0.0.0 uniby.app
 0.0.0.0 unic11m.top
 0.0.0.0 unicaondemand.com
@@ -56622,6 +56626,7 @@
 0.0.0.0 veritynova.com
 0.0.0.0 verizontelecom.tt.omtrdc.net
 0.0.0.0 vernehepet.info
+0.0.0.0 vernetlaredit.com
 0.0.0.0 vernmentbasily.com
 0.0.0.0 verotezzz.com
 0.0.0.0 versahq.com
@@ -57709,6 +57714,7 @@
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 warumbistdusoarm.space
 0.0.0.0 warungpencar.com
+0.0.0.0 warvernonroodights.com
 0.0.0.0 waryfog.com
 0.0.0.0 washabeach.com
 0.0.0.0 washedinmate.com
