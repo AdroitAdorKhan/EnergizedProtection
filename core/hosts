@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.166
-# Release: 166
-# Entries: 63,329
+# Version: 22.06.167
+# Release: 167
+# Entries: 63,337
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 15 Jun 22 20:07:02
+# Updated: Thu, 16 Jun 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17019,6 +17019,7 @@
 0.0.0.0 d1fee48c.api.splkmobile.com
 0.0.0.0 d1fs2ef81chg3.cloudfront.net
 0.0.0.0 d1g1f25tn8m2e6.cloudfront.net
+0.0.0.0 d1hnmxbg6rp2o6.cloudfront.net
 0.0.0.0 d1igp3oop3iho5.cloudfront.net
 0.0.0.0 d1izuvv2qy7hel.cloudfront.net
 0.0.0.0 d1jcj9gy98l90g.cloudfront.net
@@ -21328,6 +21329,7 @@
 0.0.0.0 ewritingchamps.in
 0.0.0.0 ewruuqe5p8ca.com
 0.0.0.0 ewsrwvkiniiqir.com
+0.0.0.0 ewtdjgsaip.com
 0.0.0.0 ewzsfpskdfuip.com
 0.0.0.0 ex.resourcecdns.com
 0.0.0.0 ex.umengcloud.com
@@ -24157,6 +24159,7 @@
 0.0.0.0 ggimg.tapas.net
 0.0.0.0 ggjcswb4rln4.com
 0.0.0.0 ggjqcdnmnno.com
+0.0.0.0 ggklheppngros.com
 0.0.0.0 ggltrck.com
 0.0.0.0 gglx.me
 0.0.0.0 ggmail.top
@@ -47199,6 +47202,7 @@
 0.0.0.0 sbc7wfnaakau.com
 0.0.0.0 sbcpower.com
 0.0.0.0 sbeacon.sina.com.cn
+0.0.0.0 sbeforeuka.xyz
 0.0.0.0 sber-host.000webhostapp.com
 0.0.0.0 sbfsdvc.com
 0.0.0.0 sbgjnnvbhlyhfl.xyz
@@ -52452,6 +52456,7 @@
 0.0.0.0 tfbvyeiumtte.com
 0.0.0.0 tfdftbasnm.com
 0.0.0.0 tfdjxpntv.com
+0.0.0.0 tfdnncmhx.com
 0.0.0.0 tfeicmij.xyz
 0.0.0.0 tffavlypd.xyz
 0.0.0.0 tfiph.com
@@ -54515,6 +54520,7 @@
 0.0.0.0 trackingapproval.com
 0.0.0.0 trackingboost.com
 0.0.0.0 trackingcn.rayjump.com
+0.0.0.0 trackingnotification.com
 0.0.0.0 trackingsoft.com
 0.0.0.0 trackinguser.com
 0.0.0.0 trackingzen.com
@@ -55025,6 +55031,7 @@
 0.0.0.0 tsg.tdatamaster.com
 0.0.0.0 tsgfsocco.com
 0.0.0.0 tsis.jpush.cn
+0.0.0.0 tsiwoulukdli.xyz
 0.0.0.0 tsiwqtng8huauw30n.com
 0.0.0.0 tsj0.madeindesign.com
 0.0.0.0 tsk4.com
@@ -61757,6 +61764,7 @@
 0.0.0.0 x.pathtrk.com
 0.0.0.0 x.protagcdn.com
 0.0.0.0 x.rune-spectrals.com
+0.0.0.0 x.sexhd.pics
 0.0.0.0 x.shopsavvy.com
 0.0.0.0 x.skimresources.com
 0.0.0.0 x.trc81.com
