@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.166
 # Release: 166
-# Entries: 63,258
+# Entries: 63,268
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 15 Jun 22 08:07:01
+# Updated: Wed, 15 Jun 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -552,6 +552,7 @@
 0.0.0.0 166378604041205.window-updates-service.com
 0.0.0.0 1673333600.rsc.cdn77.org
 0.0.0.0 1675450967.rsc.cdn77.org
+0.0.0.0 167f8c4133.bar
 0.0.0.0 168.92.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 168385982513427.windows-display-service.com
 0.0.0.0 16899901002917495.best-system-tools.com
@@ -750,6 +751,7 @@
 0.0.0.0 1d656317582.trccmpndmn.com
 0.0.0.0 1d657f527a2.trccmpndmn.com
 0.0.0.0 1d68ee53a2e.happygadgets.net
+0.0.0.0 1dd10808b3.world
 0.0.0.0 1dece427d89.com
 0.0.0.0 1delovoydom.ru
 0.0.0.0 1dmp.io
@@ -5545,6 +5547,7 @@
 0.0.0.0 advertisespace.com
 0.0.0.0 advertiseworld.com
 0.0.0.0 advertiseyourgame.com
+0.0.0.0 advertising-cdn.com
 0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 advertising-eu.amazon.com
 0.0.0.0 advertising.amazon.com
@@ -6063,6 +6066,7 @@
 0.0.0.0 ahurmtx9dnwwxa.ru
 0.0.0.0 ahuygpusfbywl.xyz
 0.0.0.0 ahvclick.com
+0.0.0.0 ahvfast.com
 0.0.0.0 ahwhihes.xyz
 0.0.0.0 ahwjtvxeyoqe.com
 0.0.0.0 ahwqsczvsi.com
@@ -14065,6 +14069,7 @@
 0.0.0.0 ciwvjvhuhdabm.xyz
 0.0.0.0 cixaelqq.xyz
 0.0.0.0 cixawobu.com
+0.0.0.0 cixaxuyu.xyz
 0.0.0.0 cj.com
 0.0.0.0 cjayeqmk.com
 0.0.0.0 cjenxpjxxhdwtp.xyz
@@ -19735,6 +19740,7 @@
 0.0.0.0 e4.espncdn.shop
 0.0.0.0 e42dad15.dr.youme.im
 0.0.0.0 e42dad15.rtc.youme.im
+0.0.0.0 e44150775e.site
 0.0.0.0 e4537bc9.dr.youme.im
 0.0.0.0 e4537bc9.rtc.youme.im
 0.0.0.0 e4b65f2ef47fb0.com
@@ -22537,6 +22543,7 @@
 0.0.0.0 flexnoseassist.com
 0.0.0.0 flexytalk.net
 0.0.0.0 flfnlvwlmp.xyz
+0.0.0.0 flibao.com
 0.0.0.0 flickerblissgrand.com
 0.0.0.0 fliedridgin.com
 0.0.0.0 flight-manager.outbrain.com
@@ -29010,6 +29017,7 @@
 0.0.0.0 jemkcar.com
 0.0.0.0 jemkon.com
 0.0.0.0 jemmgroup.com
+0.0.0.0 jemock.com
 0.0.0.0 jendelabook.pinusdev.com
 0.0.0.0 jenicdntc.com
 0.0.0.0 jennyunfit.com
@@ -43452,6 +43460,7 @@
 0.0.0.0 psulsobi.net
 0.0.0.0 psuphuns.net
 0.0.0.0 psurdoak.com
+0.0.0.0 psurigrabi.com
 0.0.0.0 psutwwdaneq.xyz
 0.0.0.0 psuzoxuma.com
 0.0.0.0 psv150-1.crazycloud.ru
@@ -58461,6 +58470,7 @@
 0.0.0.0 wimmergroup.com
 0.0.0.0 wimpmustsyllabus.com
 0.0.0.0 wimsocou.com
+0.0.0.0 win-bidding.com
 0.0.0.0 win-media-ams5.fastclick.net
 0.0.0.0 win-media-dc6.fastclick.net
 0.0.0.0 win-media-sj2.fastclick.net
