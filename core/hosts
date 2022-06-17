@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.168
-# Release: 168
-# Entries: 63,452
+# Version: 22.06.169
+# Release: 169
+# Entries: 63,463
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 17 Jun 22 20:07:02
+# Updated: Sat, 18 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12649,6 +12649,7 @@
 0.0.0.0 callswayroofco.com
 0.0.0.0 calltrackingmetrics.com
 0.0.0.0 calltracks.com
+0.0.0.0 callyourinformer.com
 0.0.0.0 calmcactus.com
 0.0.0.0 calmcough.com
 0.0.0.0 calmlydung.com
@@ -14691,6 +14692,7 @@
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 cmp1.adreach.co
 0.0.0.0 cmpgns.net
+0.0.0.0 cmprotraf.club
 0.0.0.0 cmptch.com
 0.0.0.0 cmrdr.com
 0.0.0.0 cmrproperties.co.uk
@@ -16914,6 +16916,7 @@
 0.0.0.0 cya2.net
 0.0.0.0 cyad1.nate.com
 0.0.0.0 cyan92010.com
+0.0.0.0 cyber-guard.me
 0.0.0.0 cyberaircraftcast.com
 0.0.0.0 cyberanalytics.nl
 0.0.0.0 cyberbounty.com
@@ -34193,6 +34196,7 @@
 0.0.0.0 mixturecoverageinfo.com
 0.0.0.0 mixturehopeful.com
 0.0.0.0 mixunderax.com
+0.0.0.0 mixwevri.com
 0.0.0.0 miylt.org
 0.0.0.0 miyyixci.xyz
 0.0.0.0 mizdoc.com
@@ -35939,6 +35943,7 @@
 0.0.0.0 newsatads.com
 0.0.0.0 newsbest.org
 0.0.0.0 newsbreakshere.com
+0.0.0.0 newscadence.com
 0.0.0.0 newschanel.biz
 0.0.0.0 newscorpau.demdex.net
 0.0.0.0 newscredentialrelative.com
@@ -35949,6 +35954,7 @@
 0.0.0.0 newsformuse.com
 0.0.0.0 newsforyourmood.com
 0.0.0.0 newsforyoy.com
+0.0.0.0 newsfrompluto.com
 0.0.0.0 newsherb.info
 0.0.0.0 newshour.online
 0.0.0.0 newshuis.info
@@ -35959,6 +35965,7 @@
 0.0.0.0 newsletter.outbrain.com
 0.0.0.0 newsletter2.livejasmin.com
 0.0.0.0 newslettermeasure.com
+0.0.0.0 newslikemeds.com
 0.0.0.0 newsm247.online
 0.0.0.0 newsmagic.net
 0.0.0.0 newsmaxfeednetwork.com
@@ -35975,6 +35982,7 @@
 0.0.0.0 newssisiv.info
 0.0.0.0 newssocial.org
 0.0.0.0 newstarads.com
+0.0.0.0 newstemptation.com
 0.0.0.0 newstogram.com
 0.0.0.0 newsubscribes.com
 0.0.0.0 newsunads.com
@@ -45372,6 +45380,7 @@
 0.0.0.0 reductionslapsensation.com
 0.0.0.0 redundancyphilosophicalwest.com
 0.0.0.0 reduxmedia.com
+0.0.0.0 redwingmagazine.com
 0.0.0.0 reeboksportsclub.com
 0.0.0.0 reechokelvin.casa
 0.0.0.0 reedbusiness.com
@@ -56573,6 +56582,7 @@
 0.0.0.0 vaivafie.net
 0.0.0.0 vaizoufa.com
 0.0.0.0 vak345.com
+0.0.0.0 vakagdnj.com
 0.0.0.0 vakantie-bodrum.nl
 0.0.0.0 vakantiealicante.nl
 0.0.0.0 vakantieshanghai.nl
@@ -61511,6 +61521,7 @@
 0.0.0.0 www.updateongoingdiving.com
 0.0.0.0 www.uplooder.net
 0.0.0.0 www.uprimp.com
+0.0.0.0 www.upsidejolly.com
 0.0.0.0 www.urlsec.qq.com
 0.0.0.0 www.us.ads.justpremium.com
 0.0.0.0 www.users.ero-advertising.com
