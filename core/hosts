@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.169
 # Release: 169
-# Entries: 63,467
+# Entries: 63,468
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 18 Jun 22 04:07:02
+# Updated: Sat, 18 Jun 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -18553,6 +18553,7 @@
 0.0.0.0 discord.foundation
 0.0.0.0 discordap.com
 0.0.0.0 discordclosure.com
+0.0.0.0 discoreafr.fun
 0.0.0.0 discorx.gift
 0.0.0.0 discount.s3blog.org
 0.0.0.0 discountclick.com
