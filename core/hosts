@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.169
 # Release: 169
-# Entries: 63,468
+# Entries: 63,469
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 18 Jun 22 08:07:01
+# Updated: Sat, 18 Jun 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -61341,6 +61341,7 @@
 0.0.0.0 www.swacal.com
 0.0.0.0 www.swaong.com
 0.0.0.0 www.swaylieutenant.com
+0.0.0.0 www.sweepprolong.com
 0.0.0.0 www.swellknife.com
 0.0.0.0 www.sweptcircuit.com
 0.0.0.0 www.sxhxrj.com
