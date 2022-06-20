@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.171
-# Release: 171
-# Entries: 63,550
+# Version: 22.06.172
+# Release: 172
+# Entries: 63,558
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 20 Jun 22 20:07:02
+# Updated: Tue, 21 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2563,6 +2563,7 @@
 0.0.0.0 a-z-riken.co.jp
 0.0.0.0 a.296944ca2c266cf432c634fdf665d2ab30f502aea9972e996dfee25f.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.ad.gtrw9bj24c2j.s.ad6media.fr
 0.0.0.0 a.adk2x.com
@@ -13368,6 +13369,7 @@
 0.0.0.0 cdn.srxy.xyz
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.streamroot.io
+0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.targetpush.co.kr
 0.0.0.0 cdn.tax
@@ -48071,6 +48073,7 @@
 0.0.0.0 serverscurtain.com
 0.0.0.0 serversfrenchruse.com
 0.0.0.0 serviameddom.com
+0.0.0.0 service-59v6fwm9-1307868367.sh.apigw.tencentcs.com
 0.0.0.0 service-booster.com
 0.0.0.0 service-boosterr.com
 0.0.0.0 service-boosts.com
@@ -56194,6 +56197,7 @@
 0.0.0.0 upgulpinon.www.madcpms.com
 0.0.0.0 uphovelodha.com
 0.0.0.0 upisdklogs.axisbank.co.in
+0.0.0.0 uplift-platform.com
 0.0.0.0 upliftsearch.com
 0.0.0.0 upload-center.byethost4.com
 0.0.0.0 upload.luckyorange.net
@@ -60992,6 +60996,7 @@
 0.0.0.0 www.prekag.biz
 0.0.0.0 www.premiumvertising.com
 0.0.0.0 www.prepareacquitmeaningless.com
+0.0.0.0 www.preposterousdecidedfollowing.com
 0.0.0.0 www.press-here-to-continue.com
 0.0.0.0 www.prestasicash.com.ar
 0.0.0.0 www.previouslyawokestale.com
@@ -61414,6 +61419,7 @@
 0.0.0.0 www.supportmg.com
 0.0.0.0 www.supposefright.com
 0.0.0.0 www.supposeperfumebread.com
+0.0.0.0 www.surelyconvinced.com
 0.0.0.0 www.surroundpassed.com
 0.0.0.0 www.surveillancelandmorgue.com
 0.0.0.0 www.surveyedbelieves.com
@@ -61611,6 +61617,7 @@
 0.0.0.0 www.upsidejolly.com
 0.0.0.0 www.urlsec.qq.com
 0.0.0.0 www.us.ads.justpremium.com
+0.0.0.0 www.usadheffreas.top
 0.0.0.0 www.users.ero-advertising.com
 0.0.0.0 www.uujdthyg.com
 0.0.0.0 www.uulvtpbx.com
@@ -61954,6 +61961,7 @@
 0.0.0.0 wzrkt.com
 0.0.0.0 x-adservice.com
 0.0.0.0 x-bet.mobi
+0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-stat.de
 0.0.0.0 x-storage-a1.cir.io
 0.0.0.0 x-traceur.com
