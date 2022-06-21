@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.172
-# Release: 172
-# Entries: 63,623
+# Version: 22.06.173
+# Release: 173
+# Entries: 63,626
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 21 Jun 22 20:07:02
+# Updated: Wed, 22 Jun 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -45088,6 +45088,7 @@
 0.0.0.0 rapt.com
 0.0.0.0 raptapee.com
 0.0.0.0 raqehufa.xyz
+0.0.0.0 rareghoa.net
 0.0.0.0 rareinsane.com
 0.0.0.0 rarelyassortpanel.com
 0.0.0.0 rareru.ru
@@ -58680,6 +58681,7 @@
 0.0.0.0 whouledu.com
 0.0.0.0 whourgie.com
 0.0.0.0 whouseem.com
+0.0.0.0 whoutsiy.net
 0.0.0.0 whoutsog.net
 0.0.0.0 whowhipi.net
 0.0.0.0 whozuxoko.com
@@ -59744,6 +59746,7 @@
 0.0.0.0 www.beaconadnetwork.com
 0.0.0.0 www.beamedshipwreck.com
 0.0.0.0 www.beamingworked.com
+0.0.0.0 www.beauhoneycomb.com
 0.0.0.0 www.beautyenderma.nl
 0.0.0.0 www.becomesnerveshobble.com
 0.0.0.0 www.bedbwgjjpxiuox.com
