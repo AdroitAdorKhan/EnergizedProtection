@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.173
 # Release: 173
-# Entries: 63,679
+# Entries: 63,680
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 22 Jun 22 12:07:02
+# Updated: Wed, 22 Jun 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25685,6 +25685,7 @@
 0.0.0.0 handsomedisadvantageglued.com
 0.0.0.0 handsomeher.com.au
 0.0.0.0 handsomeindustry.com
+0.0.0.0 handsomelyhealth.com
 0.0.0.0 handtub.com
 0.0.0.0 handy-tab.com
 0.0.0.0 handyfield.com
