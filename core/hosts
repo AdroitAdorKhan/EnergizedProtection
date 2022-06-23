@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.174
-# Release: 174
-# Entries: 63,780
+# Version: 22.06.175
+# Release: 175
+# Entries: 63,785
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 23 Jun 22 20:07:01
+# Updated: Fri, 24 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25290,6 +25290,7 @@
 0.0.0.0 grobido.info
 0.0.0.0 groguzoo.net
 0.0.0.0 groinmonsieur.com
+0.0.0.0 gromairt.net
 0.0.0.0 grooksom.com
 0.0.0.0 groomaffections.com
 0.0.0.0 groomoub.com
@@ -31638,6 +31639,7 @@
 0.0.0.0 linux2.googlerenewals.net
 0.0.0.0 liofypwnko.com
 0.0.0.0 liondignify.com
+0.0.0.0 liondownload.com
 0.0.0.0 lionessjivaro.com
 0.0.0.0 liongetme.com
 0.0.0.0 lionquerychord.com
@@ -50415,6 +50417,7 @@
 0.0.0.0 ssvttlmmsrbhv.com
 0.0.0.0 sswmmjpiiqreswb.xyz
 0.0.0.0 sswqanwnxdmz.com
+0.0.0.0 ssyajuhvf.com
 0.0.0.0 st-florenceacademy.com
 0.0.0.0 st-n.pc3ads.com
 0.0.0.0 st-n.pc5ads.com
@@ -51297,6 +51300,7 @@
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 strikeadulteryresound.com
 0.0.0.0 strikeiron.com
+0.0.0.0 strikeoffer.com
 0.0.0.0 stripe.rs-1028-a.com
 0.0.0.0 stripedburst.com
 0.0.0.0 stripsaver.com
@@ -60800,6 +60804,7 @@
 0.0.0.0 www.linkedgraceless.com
 0.0.0.0 www.linkonclick.com
 0.0.0.0 www.liofypwnko.com
+0.0.0.0 www.liondownload.com
 0.0.0.0 www.listincode.com
 0.0.0.0 www.littercipher.com
 0.0.0.0 www.littleplanetclass.com
