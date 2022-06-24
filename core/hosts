@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.175
 # Release: 175
-# Entries: 63,838
+# Entries: 63,842
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 24 Jun 22 12:07:02
+# Updated: Fri, 24 Jun 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13324,6 +13324,7 @@
 0.0.0.0 cdn.lustseek.com
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cdn.mediagrumft.com
+0.0.0.0 cdn.memo.co
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.midas-network.com
 0.0.0.0 cdn.mmstat.com
@@ -20581,6 +20582,7 @@
 0.0.0.0 eloquencer.com
 0.0.0.0 elovisboy.com
 0.0.0.0 elq.am
+0.0.0.0 elsa.memoinsights.com
 0.0.0.0 elsevier.demdex.net
 0.0.0.0 elsevierlimited.tt.omtrdc.net
 0.0.0.0 eltex.co.jp
@@ -47628,6 +47630,7 @@
 0.0.0.0 schmelzleiter.de
 0.0.0.0 schmoozemag.com
 0.0.0.0 schoenmann.at
+0.0.0.0 schoic.com
 0.0.0.0 scholarshipidol.com
 0.0.0.0 schoolyeargo.com
 0.0.0.0 schtickshalier.cam
@@ -57030,6 +57033,7 @@
 0.0.0.0 vcdn.rivertraffic.com
 0.0.0.0 vcdn.tsyndicate.com
 0.0.0.0 vcdn1.pornhits.com
+0.0.0.0 vcdnads.ru.com
 0.0.0.0 vcdnc.com
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 vchsxhecjorrmi.com
