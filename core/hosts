@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.176
 # Release: 176
-# Entries: 63,853
+# Entries: 63,855
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 25 Jun 22 04:07:02
+# Updated: Sat, 25 Jun 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11598,6 +11598,7 @@
 0.0.0.0 bojebyze.com
 0.0.0.0 boji.nl
 0.0.0.0 bokeden.com
+0.0.0.0 bokrelri.com
 0.0.0.0 bolch.la
 0.0.0.0 bold-win-inv-eu.admixer.net
 0.0.0.0 boldudroned.com
@@ -16707,6 +16708,7 @@
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ctrhub.com
+0.0.0.0 ctrip.com
 0.0.0.0 ctrlaltdel99.com
 0.0.0.0 ctrmanager.com
 0.0.0.0 ctrons.com
