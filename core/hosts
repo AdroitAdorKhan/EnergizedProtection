@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.177
-# Release: 177
-# Entries: 63,935
+# Version: 22.06.178
+# Release: 178
+# Entries: 63,936
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 26 Jun 22 20:07:02
+# Updated: Mon, 27 Jun 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6981,6 +6981,7 @@
 0.0.0.0 analytics.civicplus.com
 0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.clickdimensions.com
+0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cn.ru
