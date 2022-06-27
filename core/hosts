@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.178
 # Release: 178
-# Entries: 63,940
+# Entries: 63,947
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 27 Jun 22 12:07:02
+# Updated: Mon, 27 Jun 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7060,6 +7060,7 @@
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.gandi.net
 0.0.0.0 analytics.ganji.com
+0.0.0.0 analytics.gate.co.id
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 analytics.getshogun.com
@@ -44421,6 +44422,7 @@
 0.0.0.0 pwdxedmuutaok.com
 0.0.0.0 pweaatek.com
 0.0.0.0 pwk.pandora.tv
+0.0.0.0 pwkrakanmet.met.gov.my
 0.0.0.0 pwmctl.com
 0.0.0.0 pwnlukodsynwds.xyz
 0.0.0.0 pwnwiltpear.com
@@ -45149,6 +45151,7 @@
 0.0.0.0 radiusfellowship.com
 0.0.0.0 radiusmarketing.com
 0.0.0.0 radiusproceedings.com
+0.0.0.0 radull.com
 0.0.0.0 radust.com
 0.0.0.0 radverdirect.com
 0.0.0.0 raenfh9tkuka.com
@@ -50983,6 +50986,7 @@
 0.0.0.0 stats.cliqz.com
 0.0.0.0 stats.condenastdigital.com
 0.0.0.0 stats.coronalabs.com
+0.0.0.0 stats.coursepad.com
 0.0.0.0 stats.data2.ero-advertising.com
 0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.dev2021.com
@@ -52286,6 +52290,7 @@
 0.0.0.0 tag.sp.advertising.com
 0.0.0.0 tag.targeting.unrulymedia.com
 0.0.0.0 tag.vlitag.com
+0.0.0.0 tag.winister.app
 0.0.0.0 tag.wknd.ai
 0.0.0.0 tag.yoc-adserver.com
 0.0.0.0 tag4arm.com
@@ -56706,6 +56711,7 @@
 0.0.0.0 usenetnl.download
 0.0.0.0 user-center-pre.ucweb.com
 0.0.0.0 user-rating.burda-forward.de
+0.0.0.0 user-shield-check.com
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user-sync-mannenmedia.adhese.com
 0.0.0.0 user-sync-mycujoo.adhese.com
@@ -58648,6 +58654,7 @@
 0.0.0.0 webstats.channel4.com
 0.0.0.0 webstats.com
 0.0.0.0 webstats.gnome.org
+0.0.0.0 webstats.pixcell.ch
 0.0.0.0 webstats.zecken.de
 0.0.0.0 webstats4u.com
 0.0.0.0 webstream.jp
