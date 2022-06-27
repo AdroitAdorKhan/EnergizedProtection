@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.178
-# Release: 178
-# Entries: 63,953
+# Version: 22.06.179
+# Release: 179
+# Entries: 63,973
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 27 Jun 22 20:07:02
+# Updated: Tue, 28 Jun 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7110,6 +7110,7 @@
 0.0.0.0 analytics.jiuzhilan.com
 0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.justuno.com
+0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kb.se
 0.0.0.0 analytics.kemlu.go.id
@@ -7217,6 +7218,7 @@
 0.0.0.0 analytics.orbee.co
 0.0.0.0 analytics.orenshmu.com
 0.0.0.0 analytics.osvaldo.pt
+0.0.0.0 analytics.ouc.ac.cy
 0.0.0.0 analytics.ovative.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
@@ -7367,6 +7369,7 @@
 0.0.0.0 analytics.tochka-tech.com
 0.0.0.0 analytics.tokosia.com
 0.0.0.0 analytics.torguard.net
+0.0.0.0 analytics.touchnote.io
 0.0.0.0 analytics.trackerstatus.info
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.traderlink.com
@@ -8432,6 +8435,7 @@
 0.0.0.0 arin-edu.education
 0.0.0.0 arinpmxwal.xyz
 0.0.0.0 arintube.com
+0.0.0.0 aripplebeluga.com
 0.0.0.0 ariseboundary.com
 0.0.0.0 arisonoping.club
 0.0.0.0 arithmeticadjustment.com
@@ -10832,6 +10836,7 @@
 0.0.0.0 betarget.de
 0.0.0.0 betasapmiddle.cmcm.com
 0.0.0.0 betemolgar.com
+0.0.0.0 beterrakionan.com
 0.0.0.0 betflippant.com
 0.0.0.0 betgorebysson.club
 0.0.0.0 beticithy.com
@@ -13587,6 +13592,7 @@
 0.0.0.0 cebadu.com
 0.0.0.0 ceboidbusting.com
 0.0.0.0 cebupsefi.com
+0.0.0.0 cebygijy.pro
 0.0.0.0 cec4a8b8d683b9adb504b8ee3f4c6878.safeframe.googlesyndication.com
 0.0.0.0 cecadesayu.corazondelcielo.mx
 0.0.0.0 ceciliamakeup.com
@@ -17225,6 +17231,7 @@
 0.0.0.0 d2ieqaiwehnqqp.cloudfront.net
 0.0.0.0 d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
+0.0.0.0 d2juccxzu13rax.cloudfront.net
 0.0.0.0 d2k487jakgs1mb.cloudfront.net
 0.0.0.0 d2kadvyeq051an.cloudfront.net
 0.0.0.0 d2kd9y1bp4zc6.cloudfront.net
@@ -21250,6 +21257,7 @@
 0.0.0.0 etruet.com
 0.0.0.0 ets-touristic.com
 0.0.0.0 ettilt.com
+0.0.0.0 ettlingnidana.com
 0.0.0.0 ettnrrkg.xyz
 0.0.0.0 etxxghkel.com
 0.0.0.0 etyper.com
@@ -22016,6 +22024,7 @@
 0.0.0.0 familyclick.info
 0.0.0.0 familysimulatorgame.com
 0.0.0.0 familysimulators.com
+0.0.0.0 faminedealergirl.com
 0.0.0.0 famisafe.page.link
 0.0.0.0 famousletterss.fun
 0.0.0.0 famousletterss.online
@@ -25161,6 +25170,7 @@
 0.0.0.0 grafthivecrocus.cam
 0.0.0.0 graftpool.net
 0.0.0.0 graftsefford.com
+0.0.0.0 grahamsbandbox.com
 0.0.0.0 grahisiwhu.com
 0.0.0.0 grahma.com
 0.0.0.0 grahtfguqc.com
@@ -26201,6 +26211,7 @@
 0.0.0.0 herepackagine.info
 0.0.0.0 herespepla.com
 0.0.0.0 hereyouwillhavedate.com
+0.0.0.0 hernialbriefer.com
 0.0.0.0 heroinnever.com
 0.0.0.0 herringtons.co.uk
 0.0.0.0 herscryptia.info
@@ -27169,6 +27180,7 @@
 0.0.0.0 hyinlegvghul.com
 0.0.0.0 hyker.000webhostapp.com
 0.0.0.0 hyloistmithan.com
+0.0.0.0 hymenalwiring.com
 0.0.0.0 hynteroforion.com
 0.0.0.0 hynugphqaekm.xyz
 0.0.0.0 hyo7fd.cfeucdn.com
@@ -32753,6 +32765,7 @@
 0.0.0.0 lyrtestc-nyc.pubmatic.com
 0.0.0.0 lyrtestc-sfo.pubmatic.com
 0.0.0.0 lysarbopaysage.fr
+0.0.0.0 lyssapebble.com
 0.0.0.0 lystma.com
 0.0.0.0 lyta.redigy.cz
 0.0.0.0 lythonefa.com
@@ -33475,11 +33488,14 @@
 0.0.0.0 matisaas.ac.ug
 0.0.0.0 matoakie.com
 0.0.0.0 matomo.a1.by
+0.0.0.0 matomo.aksorn.com
 0.0.0.0 matomo.csaindo.id
 0.0.0.0 matomo.darken.eu
 0.0.0.0 matomo.freeones.com
 0.0.0.0 matomo.hellohi.me
+0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.tarnkappe.info
+0.0.0.0 matomo.unicaf.org
 0.0.0.0 matomy.com
 0.0.0.0 matrimoniale3x.ro
 0.0.0.0 matrimonyfiles.com
@@ -34786,6 +34802,7 @@
 0.0.0.0 moid.mediacategory.com
 0.0.0.0 moirst.com
 0.0.0.0 moistblank.com
+0.0.0.0 moitrrhiza.com
 0.0.0.0 mojialamala.com
 0.0.0.0 mojqwggw.xyz
 0.0.0.0 mokedirect.xyz
@@ -40177,6 +40194,7 @@
 0.0.0.0 piwik.everzones.com
 0.0.0.0 piwik.inria.fr
 0.0.0.0 piwik.myvpn.run
+0.0.0.0 piwik.onlinecasino-thai.com
 0.0.0.0 piwik.onlinecasino321.com
 0.0.0.0 piwik.opendesktop.org
 0.0.0.0 piwik.pro
@@ -43268,6 +43286,7 @@
 0.0.0.0 preesah.com
 0.0.0.0 prefaceinventorgrouping.com
 0.0.0.0 preferablycompletion.com
+0.0.0.0 preferenceforfeit.com
 0.0.0.0 preferredain.com
 0.0.0.0 prefixpatriot.com
 0.0.0.0 prefleks.com
@@ -49271,6 +49290,7 @@
 0.0.0.0 skumuphopuhkun.com
 0.0.0.0 skxifvtfdbnwdf.com
 0.0.0.0 sky777.cc
+0.0.0.0 skyblockqolhub.com
 0.0.0.0 skycheats.com
 0.0.0.0 skyexegypt.com
 0.0.0.0 skyglue.com
