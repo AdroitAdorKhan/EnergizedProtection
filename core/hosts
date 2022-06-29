@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.181
 # Release: 181
-# Entries: 64,088
+# Entries: 64,091
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jun 22 00:07:02
+# Updated: Thu, 30 Jun 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5473,6 +5473,7 @@
 0.0.0.0 adv-banner.libero.it
 0.0.0.0 adv-ettoday.cdn.hinet.net
 0.0.0.0 adv-feedback.adsterra.com
+0.0.0.0 adv-front.devpnd.com
 0.0.0.0 adv-id-data.startappservice.com
 0.0.0.0 adv-links.com
 0.0.0.0 adv-sv-stat.focus.cn
@@ -7894,6 +7895,7 @@
 0.0.0.0 api.ipdata.co
 0.0.0.0 api.ireaderm.net
 0.0.0.0 api.iterative.ly
+0.0.0.0 api.itpub.cloud
 0.0.0.0 api.jpush.cn
 0.0.0.0 api.juicyads.com
 0.0.0.0 api.justpremium.com
@@ -11454,6 +11456,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bluematt.me
 0.0.0.0 bluemaulpuffs.com
+0.0.0.0 blueomatic.com
 0.0.0.0 blueoyster.click
 0.0.0.0 blueparrot.media
 0.0.0.0 blueprod.amobee.com
