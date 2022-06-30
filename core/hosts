@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.181
 # Release: 181
-# Entries: 64,120
+# Entries: 64,121
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jun 22 12:07:02
+# Updated: Thu, 30 Jun 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16635,6 +16635,7 @@
 0.0.0.0 crtv.wbidder.online
 0.0.0.0 crtv.wbidr.com
 0.0.0.0 crtxbebfhp.com
+0.0.0.0 cruced.com
 0.0.0.0 crudeartfulrecreate.com
 0.0.0.0 crudenergyllc.com
 0.0.0.0 crudesoothing.com
