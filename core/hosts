@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.06.181
-# Release: 181
-# Entries: 64,122
+# Version: 22.07.182
+# Release: 182
+# Entries: 64,125
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jun 22 20:07:02
+# Updated: Fri, 01 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6521,6 +6521,7 @@
 0.0.0.0 alphabird.com
 0.0.0.0 alphatransus.com
 0.0.0.0 alphonso.tv
+0.0.0.0 alpidoveon.com
 0.0.0.0 alpinedrct.com
 0.0.0.0 alpinehandlingsystems.com
 0.0.0.0 alpixtrack.com
@@ -22327,6 +22328,7 @@
 0.0.0.0 feastoffortuna.com
 0.0.0.0 featassuage.com
 0.0.0.0 featbooksterile.com
+0.0.0.0 feathr.co
 0.0.0.0 feature.fm
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 featurelink.com
@@ -56408,6 +56410,7 @@
 0.0.0.0 uncoverherbal.com
 0.0.0.0 uncovershotexcept.com
 0.0.0.0 undailysnout.com
+0.0.0.0 undard.com
 0.0.0.0 undedfracted.club
 0.0.0.0 undens.com
 0.0.0.0 underarmour.tt.omtrdc.net
