@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.181
 # Release: 181
-# Entries: 64,121
+# Entries: 64,122
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jun 22 16:07:01
+# Updated: Thu, 30 Jun 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -31194,6 +31194,7 @@
 0.0.0.0 lashquivercakes.com
 0.0.0.0 lashsketch.com
 0.0.0.0 lasinka.000webhostapp.com
+0.0.0.0 lassampy.com
 0.0.0.0 lasticalsdeb.xyz
 0.0.0.0 lastminutehotelbooking.com
 0.0.0.0 latam.adspecs.yahoo.com
