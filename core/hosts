@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.06.181
 # Release: 181
-# Entries: 64,091
+# Entries: 64,094
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 30 Jun 22 04:07:02
+# Updated: Thu, 30 Jun 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17813,6 +17813,7 @@
 0.0.0.0 dca-tg.com
 0.0.0.0 dca.ads.nexage.com
 0.0.0.0 dca.as.nexage.com
+0.0.0.0 dcai7bdiz5toz.cloudfront.net
 0.0.0.0 dcaingenieria.com.co
 0.0.0.0 dcba.popcash.net
 0.0.0.0 dcbnameapneas.com
@@ -33209,6 +33210,7 @@
 0.0.0.0 mainad-codpp.com
 0.0.0.0 mainadv.com
 0.0.0.0 mainapiary.com
+0.0.0.0 mainauko.net
 0.0.0.0 mainclc.com
 0.0.0.0 mainmainncjnrjpbn.fr
 0.0.0.0 mainpbnpower.info
@@ -51779,6 +51781,7 @@
 0.0.0.0 sunwardamoraic.com
 0.0.0.0 sunyftlaoiiy.com
 0.0.0.0 suocloud.com
+0.0.0.0 suomicgeyser.com
 0.0.0.0 suozmtcc.com
 0.0.0.0 sup.adfox.ru
 0.0.0.0 supatazo.xyz
