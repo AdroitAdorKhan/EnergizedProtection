@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.182
-# Release: 182
-# Entries: 64,182
+# Version: 22.07.183
+# Release: 183
+# Entries: 64,183
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 01 Jul 22 20:07:01
+# Updated: Sat, 02 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10509,6 +10509,7 @@
 0.0.0.0 beautystorree.com
 0.0.0.0 beaverads.com
 0.0.0.0 beavertron.com
+0.0.0.0 beaxewr.com
 0.0.0.0 bebadu.com
 0.0.0.0 bebasads.com
 0.0.0.0 bebaytowns.com
