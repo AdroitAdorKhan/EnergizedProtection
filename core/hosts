@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.182
 # Release: 182
-# Entries: 64,151
+# Entries: 64,153
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 01 Jul 22 12:07:02
+# Updated: Fri, 01 Jul 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20362,6 +20362,7 @@
 0.0.0.0 educivesakti.com
 0.0.0.0 edueway.com
 0.0.0.0 edufinder.alakmalak.ca
+0.0.0.0 edukky.com
 0.0.0.0 edvfwlacluo.com
 0.0.0.0 edw.edmunds.com
 0.0.0.0 edwhitnes.info
@@ -43181,6 +43182,7 @@
 0.0.0.0 postback.supersonicads.com
 0.0.0.0 postclickmarketing.com
 0.0.0.0 poster.rapphimhd.com
+0.0.0.0 posthog.tarnkappe.info
 0.0.0.0 postitial.com
 0.0.0.0 postlnk.com
 0.0.0.0 postmanguardweasel.com
