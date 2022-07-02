@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.183
-# Release: 183
-# Entries: 64,218
+# Version: 22.07.184
+# Release: 184
+# Entries: 64,219
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Jul 22 20:07:02
+# Updated: Sun, 03 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6075,6 +6075,7 @@
 0.0.0.0 ahdtgsdmc.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahedsply.com
+0.0.0.0 ahejtw.onelink.me
 0.0.0.0 aheqavqfhxkatpu.xyz
 0.0.0.0 ahfdsply.com
 0.0.0.0 ahfikbtuayuol.com
