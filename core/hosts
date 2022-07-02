@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.183
 # Release: 183
-# Entries: 64,217
+# Entries: 64,218
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 02 Jul 22 16:07:02
+# Updated: Sat, 02 Jul 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -33438,6 +33438,7 @@
 0.0.0.0 marezzocorke.cam
 0.0.0.0 marfeel.com
 0.0.0.0 margarinedifferencequick.com
+0.0.0.0 margarinereverend.com
 0.0.0.0 margaritabusiness.com
 0.0.0.0 mariabrowseattending.com
 0.0.0.0 mariabunitta.com.br
