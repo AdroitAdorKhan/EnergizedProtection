@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.184
 # Release: 184
-# Entries: 64,225
+# Entries: 64,230
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 03 Jul 22 08:07:02
+# Updated: Sun, 03 Jul 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21770,6 +21770,7 @@
 0.0.0.0 exrtbsrv.com
 0.0.0.0 exru.website
 0.0.0.0 exrwtakvtlsh.com
+0.0.0.0 exsite.pt
 0.0.0.0 ext-cns-ade.widerplanet.com
 0.0.0.0 ext.adaware.com
 0.0.0.0 ext.goguardian.com
@@ -25777,6 +25778,7 @@
 0.0.0.0 h.zedo.com
 0.0.0.0 h12-media.com
 0.0.0.0 h145197.s27.test-hf.su
+0.0.0.0 h163995.srv11.test-hf.su
 0.0.0.0 h1g6u-g6nfk.ads.tremorhub.com
 0.0.0.0 h250p-ajijp.ads.tremorhub.com
 0.0.0.0 h250p-gxfa9.ads.tremorhub.com
@@ -44698,6 +44700,7 @@
 0.0.0.0 pxzd817sic.perimeterx.net
 0.0.0.0 pxzkfhwd1c.perimeterx.net
 0.0.0.0 py.moatads.com
+0.0.0.0 py.tgdl.cf
 0.0.0.0 pyaxybieljph.xyz
 0.0.0.0 pybbyqvoe.com
 0.0.0.0 pyebmseclll.xyz
@@ -54656,6 +54659,7 @@
 0.0.0.0 track.msadcenter.cclu.com
 0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 track.msadcenter.emee.com
+0.0.0.0 track.msadcenter.etvz.com
 0.0.0.0 track.msadcenter.hih.com
 0.0.0.0 track.msadcenter.hnsl.com
 0.0.0.0 track.msadcenter.igzr.com
@@ -60589,6 +60593,7 @@
 0.0.0.0 www.dexpredict.com
 0.0.0.0 www.dfdjilnzqgtow.com
 0.0.0.0 www.dianomi.com
+0.0.0.0 www.diarioaldia.com.ar
 0.0.0.0 www.diddaisycuff.com
 0.0.0.0 www.die13weizen.at
 0.0.0.0 www.digiad.co
