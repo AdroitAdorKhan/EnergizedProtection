@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.185
-# Release: 185
-# Entries: 64,278
+# Version: 22.07.186
+# Release: 186
+# Entries: 64,282
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 04 Jul 22 20:07:02
+# Updated: Tue, 05 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20023,6 +20023,7 @@
 0.0.0.0 e3.espncdn.shop
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e335udnv6drg78b7.com
+0.0.0.0 e346ab6c68.click
 0.0.0.0 e350570881272e.com
 0.0.0.0 e376ef28103177cc.com
 0.0.0.0 e3commerce.net
@@ -29407,6 +29408,7 @@
 0.0.0.0 jayruinblocked.com
 0.0.0.0 jaysautos.co.uk
 0.0.0.0 jazojucy.xyz
+0.0.0.0 jazygesforeday.website
 0.0.0.0 jazzharder.com
 0.0.0.0 jazzspeechlessarena.com
 0.0.0.0 jb7hvcksstar.com
@@ -37862,6 +37864,7 @@
 0.0.0.0 ogt.jp
 0.0.0.0 ogtcwsqeejrfom.xyz
 0.0.0.0 oguvshpcydkj.xyz
+0.0.0.0 ohaaobhvnztj.com
 0.0.0.0 ohamburguer.com.br
 0.0.0.0 ohbayersbur.pro
 0.0.0.0 ohchateauominous.com
@@ -55866,6 +55869,7 @@
 0.0.0.0 ttrailwaysint.com
 0.0.0.0 ttspikbeglki.com
 0.0.0.0 ttwitter.com
+0.0.0.0 ttwscqlqmbcb.com
 0.0.0.0 ttxwtsygfxbk.com
 0.0.0.0 ttzmedia.com
 0.0.0.0 tu.moatads.com
