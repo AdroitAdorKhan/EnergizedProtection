@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.186
 # Release: 186
-# Entries: 64,323
+# Entries: 64,325
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 05 Jul 22 12:07:01
+# Updated: Tue, 05 Jul 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -57053,6 +57053,7 @@
 0.0.0.0 userapps.truecaller.com
 0.0.0.0 usercash.com
 0.0.0.0 userdata.andrcool.com
+0.0.0.0 userexperience.thehut.net
 0.0.0.0 userheat.com
 0.0.0.0 userlook.com
 0.0.0.0 usermatch.targeting.unrulymedia.com
@@ -58600,6 +58601,7 @@
 0.0.0.0 wakiupswacken.com
 0.0.0.0 walgreens.demdex.net
 0.0.0.0 walgreens.sc.omtrdc.net
+0.0.0.0 walkedcreak.com
 0.0.0.0 walkinghonoured.com
 0.0.0.0 walkingtutor.com
 0.0.0.0 wall.vgr.com
