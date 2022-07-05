@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.186
-# Release: 186
-# Entries: 64,329
+# Version: 22.07.187
+# Release: 187
+# Entries: 64,336
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 05 Jul 22 20:07:01
+# Updated: Wed, 06 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8318,6 +8318,7 @@
 0.0.0.0 aptantasp.site
 0.0.0.0 aptimorph.com
 0.0.0.0 aptociudadamuralladacartagena.com
+0.0.0.0 aptonnerv.buzz
 0.0.0.0 aptrk.connatix.com
 0.0.0.0 apture.com
 0.0.0.0 apublishingc.biz
@@ -17284,6 +17285,7 @@
 0.0.0.0 d26p9ecwyy9zqv.cloudfront.net
 0.0.0.0 d26yfyk0ym2k1u.cloudfront.net
 0.0.0.0 d276.ourmidland.com
+0.0.0.0 d27genukseznht.cloudfront.net
 0.0.0.0 d27gtglsu4f4y2.cloudfront.net
 0.0.0.0 d27qffx6rqb3qm.cloudfront.net
 0.0.0.0 d28n7yywqog3r7.cloudfront.net
@@ -24213,6 +24215,7 @@
 0.0.0.0 gdxsbbtgtxcimw.xyz
 0.0.0.0 gdzmqquwkuzw.com
 0.0.0.0 ge.appcloudbox.net
+0.0.0.0 gearsora.com
 0.0.0.0 geaxfxxjck.com
 0.0.0.0 gebadu.com
 0.0.0.0 gecauuksehin.com
@@ -25246,6 +25249,7 @@
 0.0.0.0 govahiilnlqd.com
 0.0.0.0 govaj.com
 0.0.0.0 govbusi.info
+0.0.0.0 govels.com
 0.0.0.0 governessarson.com
 0.0.0.0 governorofrhodeisland.com
 0.0.0.0 governorofri.com
@@ -27558,6 +27562,7 @@
 0.0.0.0 icepbns.com
 0.0.0.0 icepey.com
 0.0.0.0 icetraffic.com
+0.0.0.0 icewaterhou.xyz
 0.0.0.0 icfcdn.com
 0.0.0.0 icgirls.com
 0.0.0.0 ichaichat.xyz
@@ -45543,6 +45548,7 @@
 0.0.0.0 rapidtrk.net
 0.0.0.0 rapinesnifter.com
 0.0.0.0 rapirasa.com
+0.0.0.0 rapite.com
 0.0.0.0 rapt.com
 0.0.0.0 raptapee.com
 0.0.0.0 raqehufa.xyz
@@ -58098,6 +58104,7 @@
 0.0.0.0 vlogerads.com
 0.0.0.0 vlogexpert.com
 0.0.0.0 vlogoflife.com
+0.0.0.0 vlry5l4j5gbn.com
 0.0.0.0 vlrzhoueyoxw.com
 0.0.0.0 vltava-design.com
 0.0.0.0 vltvservices.com
