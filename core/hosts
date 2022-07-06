@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.187
 # Release: 187
-# Entries: 64,382
+# Entries: 64,384
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 06 Jul 22 16:07:02
+# Updated: Wed, 06 Jul 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -50020,6 +50020,7 @@
 0.0.0.0 sofire.bdstatic.com
 0.0.0.0 soft-com.biz
 0.0.0.0 soft-plus.ru
+0.0.0.0 soft-you.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softaromas.com.ar
 0.0.0.0 softballwaiting.com
@@ -54047,6 +54048,7 @@
 0.0.0.0 tollholdmeg.cam
 0.0.0.0 tollywoodace.com
 0.0.0.0 tolyafbnjt9dedjj10.com
+0.0.0.0 tomantyker.com
 0.0.0.0 tomatoreach.com
 0.0.0.0 tomawilea.com
 0.0.0.0 tombola.olfactive.net
