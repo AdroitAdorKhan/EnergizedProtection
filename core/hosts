@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.187
-# Release: 187
-# Entries: 64,384
+# Version: 22.07.188
+# Release: 188
+# Entries: 64,389
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 06 Jul 22 20:07:01
+# Updated: Thu, 07 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26604,6 +26604,7 @@
 0.0.0.0 hit.acstat.com
 0.0.0.0 hit.analytics.nexonm.com
 0.0.0.0 hit.api.useinsider.com
+0.0.0.0 hit.c97.org
 0.0.0.0 hit.darmoweliczniki.pl
 0.0.0.0 hit.demirorenteknoloji.com
 0.0.0.0 hit.duhnet.tv
@@ -30106,6 +30107,7 @@
 0.0.0.0 jugerfowells.com
 0.0.0.0 juggledcample.website
 0.0.0.0 jugojndgyggjdwo.xyz
+0.0.0.0 jugust.com
 0.0.0.0 juiceads.net
 0.0.0.0 juicebooster.info
 0.0.0.0 juicedmarketing.co.uk
@@ -56308,6 +56310,7 @@
 0.0.0.0 ubt-sin.tripcdn.com
 0.0.0.0 ubtnqmonurmor.com
 0.0.0.0 ubuntu-inc.com
+0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 ubuyanalytics.ubuy.com.kw
 0.0.0.0 uc.cmcm.com
 0.0.0.0 uc.rayjump.com
@@ -59378,6 +59381,7 @@
 0.0.0.0 wibengineering.com
 0.0.0.0 wickedlongingbelfry.com
 0.0.0.0 wickoolt.com
+0.0.0.0 widaimty.com
 0.0.0.0 widenceaudges.com
 0.0.0.0 widenetworks.net
 0.0.0.0 wideorganiz.xyz
@@ -59611,6 +59615,7 @@
 0.0.0.0 wjvdnjccnytp.com
 0.0.0.0 wjyxi.wnerofro.online
 0.0.0.0 wk123.97sk.vip
+0.0.0.0 wka4jursurf6.com
 0.0.0.0 wkacpqtl.com
 0.0.0.0 wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
