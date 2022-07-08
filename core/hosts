@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 64,489
+# Entries: 64,490
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 08 Jul 22 12:07:01
+# Updated: Fri, 08 Jul 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -53419,6 +53419,7 @@
 0.0.0.0 thaibaoanhmarble.com
 0.0.0.0 thaibeco.com
 0.0.0.0 thaickoo.net
+0.0.0.0 thaiguxu.com
 0.0.0.0 thaihats.net
 0.0.0.0 thaiksee.com
 0.0.0.0 thaililyrestaurant.com
