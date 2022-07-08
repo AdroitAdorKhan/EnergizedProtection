@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 64,473
+# Entries: 64,474
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 08 Jul 22 04:07:01
+# Updated: Fri, 08 Jul 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26408,6 +26408,7 @@
 0.0.0.0 hentaigold.net
 0.0.0.0 hentaimotel.com
 0.0.0.0 hentaimx.com
+0.0.0.0 hentaionline.net
 0.0.0.0 henwilkson.com
 0.0.0.0 hepatologiaonline.com.mx
 0.0.0.0 hepmtevjrcynfr.xyz
