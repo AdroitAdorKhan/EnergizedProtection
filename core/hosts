@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.190
-# Release: 190
-# Entries: 64,536
+# Version: 22.07.191
+# Release: 191
+# Entries: 64,538
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 09 Jul 22 20:07:02
+# Updated: Sun, 10 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25290,6 +25290,7 @@
 0.0.0.0 goshooph.com
 0.0.0.0 gospecularavch.site
 0.0.0.0 gosquared.com
+0.0.0.0 gossipcase.com
 0.0.0.0 gostats.com
 0.0.0.0 gostats.pl
 0.0.0.0 gostats.ro
@@ -58863,6 +58864,7 @@
 0.0.0.0 wasprenovate.com
 0.0.0.0 wasshimundme.ru
 0.0.0.0 wastedclassmatemay.com
+0.0.0.0 wastedperk.com
 0.0.0.0 wastedposterapostrophe.com
 0.0.0.0 wastefulmeanwhileboss.com
 0.0.0.0 wastesshimssat.world
