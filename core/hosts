@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.191
-# Release: 191
-# Entries: 64,553
+# Version: 22.07.192
+# Release: 192
+# Entries: 64,556
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 10 Jul 22 20:07:01
+# Updated: Mon, 11 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14421,6 +14421,7 @@
 0.0.0.0 clearac.com
 0.0.0.0 clearadnetwork.com
 0.0.0.0 clearant.club
+0.0.0.0 clearblueline.com
 0.0.0.0 clearcabbage.com
 0.0.0.0 clearchannel.demdex.net
 0.0.0.0 cleardexchange.com
@@ -15017,6 +15018,7 @@
 0.0.0.0 coffeemildness.com
 0.0.0.0 coffeeuphold.com
 0.0.0.0 coffemokko.com
+0.0.0.0 cofounderspecials.com
 0.0.0.0 cogentpathway.com
 0.0.0.0 cogitateseparated.com
 0.0.0.0 cogleapad.com
@@ -18595,6 +18597,7 @@
 0.0.0.0 di.rlcdn.com
 0.0.0.0 di02.biz
 0.0.0.0 di028lywwye7s.cloudfront.net
+0.0.0.0 di5.biz
 0.0.0.0 di7stero.com
 0.0.0.0 diabasewoodhouse.xyz
 0.0.0.0 diag.atdmt.com
