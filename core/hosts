@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.192
-# Release: 192
-# Entries: 64,562
+# Version: 22.07.193
+# Release: 193
+# Entries: 64,572
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 11 Jul 22 20:07:01
+# Updated: Tue, 12 Jul 22 00:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10366,6 +10366,7 @@
 0.0.0.0 bbaannrr05.com
 0.0.0.0 bbaannrr11.com
 0.0.0.0 bbb.demdex.net
+0.0.0.0 bbcrgate.com
 0.0.0.0 bbde7862c8c3.bitsngo.net
 0.0.0.0 bbelements.com
 0.0.0.0 bbg.az
@@ -17268,6 +17269,7 @@
 0.0.0.0 d188m5xxcpvuue.cloudfront.net
 0.0.0.0 d18e74vjvmvza1.cloudfront.net
 0.0.0.0 d18t35yyry2k49.cloudfront.net
+0.0.0.0 d192r5l88wrng7.cloudfront.net
 0.0.0.0 d1a3jb5hjny5s4.cloudfront.net
 0.0.0.0 d1ac2du043ydir.cloudfront.net
 0.0.0.0 d1aznprfp4xena.cloudfront.net
@@ -18795,6 +18797,7 @@
 0.0.0.0 directrix.ru
 0.0.0.0 directspecial.biz
 0.0.0.0 directuklye.co
+0.0.0.0 directuklyecon.pics
 0.0.0.0 directvideos.com
 0.0.0.0 diresaapurimac.gob.pe
 0.0.0.0 diresozines.com
@@ -24037,6 +24040,7 @@
 0.0.0.0 gaigroak.com
 0.0.0.0 gaihethu.net
 0.0.0.0 gaijiglo.net
+0.0.0.0 gaimoupy.net
 0.0.0.0 gaindemeanourimprovise.com
 0.0.0.0 gainedcluerelief.com
 0.0.0.0 gainmoneyfast.com
@@ -26940,6 +26944,7 @@
 0.0.0.0 honestlyvicinityscene.com
 0.0.0.0 honestpeaceable.com
 0.0.0.0 honestycrustdisagreement.com
+0.0.0.0 honey-date4u.life
 0.0.0.0 honeybulb.com
 0.0.0.0 honeycombastrayabound.com
 0.0.0.0 honeycombdoggie.com
@@ -35520,6 +35525,7 @@
 0.0.0.0 msa.hinet.net
 0.0.0.0 msapi.appsflyer.com
 0.0.0.0 msbuacjorxgq.com
+0.0.0.0 mscoldness.com
 0.0.0.0 msdhyexj.com
 0.0.0.0 msdvc.com
 0.0.0.0 msdwrhwt.com
@@ -35740,6 +35746,7 @@
 0.0.0.0 mwiwcyiri.com
 0.0.0.0 mwobbgfcxiaxg.com
 0.0.0.0 mwojcelivfturh.com
+0.0.0.0 mworkh.buzz
 0.0.0.0 mworkhovd.com
 0.0.0.0 mworx-sia.com
 0.0.0.0 mwoukrkskills.xyz
@@ -36268,12 +36275,14 @@
 0.0.0.0 necklaceelevatorneatly.com
 0.0.0.0 neckshrinevastly.com
 0.0.0.0 nectarine.restorepainful.xyz
+0.0.0.0 nedassiu.buzz
 0.0.0.0 nedestablish.com
 0.0.0.0 nedmppiilnld.com
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedtewksxn.xyz
 0.0.0.0 nedtvigpmwsigf.com
 0.0.0.0 nedukeratio.com
+0.0.0.0 nedukeratio.lol
 0.0.0.0 neechube.net
 0.0.0.0 neechuce.net
 0.0.0.0 needfulforesightharness.com
@@ -48506,6 +48515,7 @@
 0.0.0.0 sedotracker.de
 0.0.0.0 sedresum.club
 0.0.0.0 seduceboozeblackmail.com
+0.0.0.0 seductivegirls.cyou
 0.0.0.0 see-what-is-trending.com
 0.0.0.0 seeawhale.com
 0.0.0.0 seebait.com
