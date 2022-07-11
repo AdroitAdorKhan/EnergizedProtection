@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.192
 # Release: 192
-# Entries: 64,561
+# Entries: 64,562
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 11 Jul 22 16:07:01
+# Updated: Mon, 11 Jul 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23221,6 +23221,7 @@
 0.0.0.0 foramoongussor.com
 0.0.0.0 forarchenchan.com
 0.0.0.0 forbearcorrectinvolving.com
+0.0.0.0 forbeshey.com
 0.0.0.0 force.cmcm.com
 0.0.0.0 force24.co.uk
 0.0.0.0 forced-lose.de
