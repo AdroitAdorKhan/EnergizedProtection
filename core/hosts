@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.194
-# Release: 194
-# Entries: 64,681
+# Version: 22.07.195
+# Release: 195
+# Entries: 64,688
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 13 Jul 22 20:07:02
+# Updated: Thu, 14 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14197,6 +14197,7 @@
 0.0.0.0 chpopesco.com
 0.0.0.0 chproxy.mgid.com
 0.0.0.0 chrainalgousion.com
+0.0.0.0 chrantary-vocking.com
 0.0.0.0 chrelisa.com
 0.0.0.0 chrif8kdstie.com
 0.0.0.0 chrigm.com
@@ -14378,6 +14379,7 @@
 0.0.0.0 clanggrewsweaty.com
 0.0.0.0 clankallegation.com
 0.0.0.0 clanwatson.co.uk
+0.0.0.0 clap.blogcms.jp
 0.0.0.0 clapdistributionexample.com
 0.0.0.0 clarify.allow.support
 0.0.0.0 clarifysuper.com
@@ -24757,6 +24759,7 @@
 0.0.0.0 girl-51-w.com
 0.0.0.0 girlend.com
 0.0.0.0 girls.xyz
+0.0.0.0 girls2date.club
 0.0.0.0 girlsoncam.info
 0.0.0.0 girlstofap.ga
 0.0.0.0 girnedsline.cam
@@ -30808,6 +30811,7 @@
 0.0.0.0 kipwdbcyagb.xyz
 0.0.0.0 kirgeemo.com
 0.0.0.0 kirnscraps.com
+0.0.0.0 kirov1.xyz
 0.0.0.0 kischartsrelimit.pro
 0.0.0.0 kisfjbewlqdt.xyz
 0.0.0.0 kishypece.com
@@ -44056,6 +44060,7 @@
 0.0.0.0 prognosisshallowpliant.com
 0.0.0.0 program-io.com
 0.0.0.0 program3.com
+0.0.0.0 programattik.com
 0.0.0.0 programma-di-fidelizzazione.top
 0.0.0.0 programming-link.info
 0.0.0.0 programminghonourable.com
@@ -49774,6 +49779,7 @@
 0.0.0.0 skilfulbags.com
 0.0.0.0 skillbetogether.eu
 0.0.0.0 skilledmonger.in
+0.0.0.0 skillfuldrop.com
 0.0.0.0 skillpropulsion.com
 0.0.0.0 skillravageintrusive.com
 0.0.0.0 skilyake.net
@@ -55632,6 +55638,7 @@
 0.0.0.0 trackyouraccount.com
 0.0.0.0 trackyourlinks.com
 0.0.0.0 trackyourstats.com
+0.0.0.0 trackytrack02.com
 0.0.0.0 tracot.com
 0.0.0.0 tractorandinas.com
 0.0.0.0 tractorhuskforeground.com
