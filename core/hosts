@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.196
 # Release: 196
-# Entries: 64,747
+# Entries: 64,749
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 15 Jul 22 00:07:01
+# Updated: Fri, 15 Jul 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3703,6 +3703,7 @@
 0.0.0.0 adc5272a.api.splkmobile.com
 0.0.0.0 adcalm.com
 0.0.0.0 adcamp.ru
+0.0.0.0 adcarousel.pl
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adcastplus.net
@@ -62299,6 +62300,7 @@
 0.0.0.0 www.rtk.io
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.rubsayprelude.com
+0.0.0.0 www.ruleconnectexpire.com
 0.0.0.0 www.rummycircle.com
 0.0.0.0 www.runative.com
 0.0.0.0 www.running-bike.com
