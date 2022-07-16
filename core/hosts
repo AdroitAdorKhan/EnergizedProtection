@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.197
-# Release: 197
-# Entries: 64,810
+# Version: 22.07.198
+# Release: 198
+# Entries: 64,813
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 16 Jul 22 20:07:01
+# Updated: Sun, 17 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7820,6 +7820,7 @@
 0.0.0.0 api-sandbox.direct.yandex.com
 0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 api-swagger.sophi.io
+0.0.0.0 api.300624.com
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.5nxam.xyz
 0.0.0.0 api.5rocks.io
@@ -21617,6 +21618,7 @@
 0.0.0.0 euros4click.de
 0.0.0.0 eurowingsaviationgmb.tt.omtrdc.net
 0.0.0.0 eurtb.adtelligent.com
+0.0.0.0 eus-recoverit-data-collect.oss-us-west-1.aliyuncs.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 euscaroversing.com
 0.0.0.0 eusouchio.com.br
@@ -40734,6 +40736,7 @@
 0.0.0.0 pix.boursorama.com
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.hyj.mobi
+0.0.0.0 pix.pub
 0.0.0.0 pix.sniperlog.ru
 0.0.0.0 pix.spot.im
 0.0.0.0 pix.ssp.otm-r.com
