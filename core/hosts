@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.198
-# Release: 198
-# Entries: 64,901
+# Version: 22.07.199
+# Release: 199
+# Entries: 64,902
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 17 Jul 22 20:07:01
+# Updated: Mon, 18 Jul 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -18810,6 +18810,7 @@
 0.0.0.0 dikkoplida.cam
 0.0.0.0 dilateneedybeyond.com
 0.0.0.0 dilemmaemergencyleisure.com
+0.0.0.0 dilemmafreakish.com
 0.0.0.0 dilemmatryingless.com
 0.0.0.0 dilnvwrohyq.com
 0.0.0.0 dilruwha.net
