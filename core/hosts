@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.199
 # Release: 199
-# Entries: 64,902
+# Entries: 64,903
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 18 Jul 22 00:07:02
+# Updated: Mon, 18 Jul 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -27368,6 +27368,7 @@
 0.0.0.0 hrmglobalschool.in
 0.0.0.0 hrmts.report-uri.io
 0.0.0.0 hrojhwrbpkgacs.com
+0.0.0.0 hrsankgo.com
 0.0.0.0 hrsstrokecocoon.com
 0.0.0.0 hrtarsko.com
 0.0.0.0 hruk.afguk.top
