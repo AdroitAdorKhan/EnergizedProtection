@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.200
 # Release: 200
-# Entries: 65,019
+# Entries: 65,020
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 19 Jul 22 16:07:02
+# Updated: Tue, 19 Jul 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -32838,6 +32838,7 @@
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.umengcloud.com
+0.0.0.0 logs.unchecky.com
 0.0.0.0 logs.viadata.store
 0.0.0.0 logs.vlitag.com
 0.0.0.0 logs.xtremeserve.xyz
