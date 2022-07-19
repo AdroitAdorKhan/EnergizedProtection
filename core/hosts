@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.200
 # Release: 200
-# Entries: 64,990
+# Entries: 64,992
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 19 Jul 22 04:07:02
+# Updated: Tue, 19 Jul 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7535,6 +7535,7 @@
 0.0.0.0 andecam.com.ar
 0.0.0.0 anderest-newider.icu
 0.0.0.0 andersenit.dk
+0.0.0.0 andersonlegalltn.com
 0.0.0.0 andibringto.biz
 0.0.0.0 anding-strence.icu
 0.0.0.0 andinterpers.com
@@ -37564,6 +37565,7 @@
 0.0.0.0 nuseek.com
 0.0.0.0 nutaku.net
 0.0.0.0 nutatesthreip.com
+0.0.0.0 nutattorneyjack.com
 0.0.0.0 nutcropbrute.com
 0.0.0.0 nutensport-wezep.nl
 0.0.0.0 nutlonging.com
