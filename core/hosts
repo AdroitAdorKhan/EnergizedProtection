@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.201
 # Release: 201
-# Entries: 65,053
+# Entries: 65,057
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 20 Jul 22 12:07:02
+# Updated: Wed, 20 Jul 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13619,6 +13619,7 @@
 0.0.0.0 cdn.wshareit.com
 0.0.0.0 cdn.yourwebbars.com
 0.0.0.0 cdn.zarget.com
+0.0.0.0 cdn.zx-adnet.com
 0.0.0.0 cdn001.milotree.com
 0.0.0.0 cdn01.adfalcon.com
 0.0.0.0 cdn01.nativeroll.tv
@@ -15626,6 +15627,7 @@
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.faphouse.com
 0.0.0.0 collector.getyourguide.com
+0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
@@ -16238,6 +16240,7 @@
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie.co1linesu.ru
 0.0.0.0 cookie.green-red.com
+0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookieinformation.mgr.consensu.org
 0.0.0.0 cookiematch-ap-northeast-1.prod.justpremium.com
 0.0.0.0 cookiematch-eu-central-1.prod.justpremium.com
@@ -44634,6 +44637,7 @@
 0.0.0.0 psytupuny.com
 0.0.0.0 pt-xb.xyz
 0.0.0.0 pt.ads.justpremium.com
+0.0.0.0 pt.appirits.com
 0.0.0.0 pt.media.net
 0.0.0.0 pt.moatads.com
 0.0.0.0 pt.protoawe.com
