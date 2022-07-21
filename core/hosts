@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.202
 # Release: 202
-# Entries: 65,131
+# Entries: 65,134
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 21 Jul 22 12:07:01
+# Updated: Thu, 21 Jul 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2579,6 +2579,7 @@
 0.0.0.0 a.296944ca2c266cf432c634fdf665d2ab30f502aea9972e996dfee25f.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
+0.0.0.0 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.ad.gtrw9bj24c2j.s.ad6media.fr
 0.0.0.0 a.adk2x.com
@@ -14912,6 +14913,7 @@
 0.0.0.0 clrstm.com
 0.0.0.0 clrteryixfoaow.xyz
 0.0.0.0 clsapi.vivo.com.cn
+0.0.0.0 clt.banggood.com
 0.0.0.0 club.cmcm.com
 0.0.0.0 clubaero.nl
 0.0.0.0 clubcollector.com
@@ -15216,6 +15218,7 @@
 0.0.0.0 collationstrend.com
 0.0.0.0 collect-ap-east-1.tealiumiq.com
 0.0.0.0 collect-test.arabam.com
+0.0.0.0 collect.banggood.com
 0.0.0.0 collect.blishtech.co
 0.0.0.0 collect.feefo.com
 0.0.0.0 collect.installeranalytics.com
