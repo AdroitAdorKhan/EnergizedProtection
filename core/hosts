@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.202
-# Release: 202
-# Entries: 65,153
+# Version: 22.07.203
+# Release: 203
+# Entries: 65,154
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 21 Jul 22 20:07:01
+# Updated: Fri, 22 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6762,6 +6762,7 @@
 0.0.0.0 amazingjokes.com
 0.0.0.0 amazon.partners.tremorhub.com
 0.0.0.0 amazonas.apiperu.net.pe
+0.0.0.0 amazonclix.com
 0.0.0.0 amazonco.uk
 0.0.0.0 amazy.ru
 0.0.0.0 ambaab.com
