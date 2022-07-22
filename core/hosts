@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.203
 # Release: 203
-# Entries: 65,178
+# Entries: 65,179
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 22 Jul 22 12:07:02
+# Updated: Fri, 22 Jul 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23690,6 +23690,7 @@
 0.0.0.0 fra93.ib.adnxs.com
 0.0.0.0 frablettenatoes.com
 0.0.0.0 fractionwhatsoever.com
+0.0.0.0 fractureboyishherring.com
 0.0.0.0 fractureexperience.com
 0.0.0.0 frafinomoney01.fun
 0.0.0.0 fragba.com
