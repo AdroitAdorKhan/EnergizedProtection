@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.203
-# Release: 203
-# Entries: 65,186
+# Version: 22.07.204
+# Release: 204
+# Entries: 65,191
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 22 Jul 22 20:07:01
+# Updated: Sat, 23 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19274,6 +19274,7 @@
 0.0.0.0 dmp.amoad.com.rs.adtdp.com
 0.0.0.0 dmp.citiservi.es
 0.0.0.0 dmp.mgid.com
+0.0.0.0 dmp.sbermarketing.ru
 0.0.0.0 dmpcloud.net
 0.0.0.0 dmpprof.com
 0.0.0.0 dmpr.adform.net
@@ -19950,6 +19951,7 @@
 0.0.0.0 dukeendorsement.com
 0.0.0.0 dukimo.com
 0.0.0.0 dukirliaon.com
+0.0.0.0 dulatiosa.com
 0.0.0.0 dulillipupan.com
 0.0.0.0 dulogav.com
 0.0.0.0 dulombwwfm.com
@@ -38580,6 +38582,7 @@
 0.0.0.0 ompokubrak.com
 0.0.0.0 omporygonr.com
 0.0.0.0 omrtd.rdtk.io
+0.0.0.0 omsawkan.com
 0.0.0.0 omshedinjaor.com
 0.0.0.0 omshellderom.com
 0.0.0.0 omspacharlotte.com
@@ -52821,6 +52824,7 @@
 0.0.0.0 svdhyjuwbyfxivp.com
 0.0.0.0 sve1.it
 0.0.0.0 svggraf.com
+0.0.0.0 svi.online.sberbank.ru
 0.0.0.0 sviter2s1olenyami1.com
 0.0.0.0 svkxlfhrdrn.com
 0.0.0.0 svnvowmuhi.com
@@ -54124,6 +54128,7 @@
 0.0.0.0 thepunchlineexpose.com
 0.0.0.0 thequin.ai
 0.0.0.0 therapistpopulationcommentary.com
+0.0.0.0 therapistpresumegooseberry.com
 0.0.0.0 therecyclingmachine.com
 0.0.0.0 thereforetreadvoluntarily.com
 0.0.0.0 thereissomegoodqq.com
