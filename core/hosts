@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.206
 # Release: 206
-# Entries: 65,442
+# Entries: 65,443
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 25 Jul 22 16:07:02
+# Updated: Mon, 25 Jul 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -63362,6 +63362,7 @@
 0.0.0.0 www.transfervmadrid.com
 0.0.0.0 www.transparenttextures.com
 0.0.0.0 www.trappedpump.com
+0.0.0.0 www.trappedtree.com
 0.0.0.0 www.travala.com
 0.0.0.0 www.travellers-autobarnrv.com
 0.0.0.0 www.treasuredata.com
