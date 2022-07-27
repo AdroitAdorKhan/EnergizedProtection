@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.208
-# Release: 208
-# Entries: 65,538
+# Version: 22.07.209
+# Release: 209
+# Entries: 65,540
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 27 Jul 22 20:07:02
+# Updated: Thu, 28 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6403,6 +6403,7 @@
 0.0.0.0 alexacdn.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alexandredekerchove.com
+0.0.0.0 alexatracker.com
 0.0.0.0 alexfaye.testing.virvazir.com
 0.0.0.0 alexius-ber.com
 0.0.0.0 alexochemicals.cf
@@ -31294,6 +31295,7 @@
 0.0.0.0 klfbrslv.com
 0.0.0.0 klh.notifications.website
 0.0.0.0 klickdealer.com
+0.0.0.0 klickly.com
 0.0.0.0 klija.net
 0.0.0.0 klik.nrc.nl
 0.0.0.0 klikadu.com
