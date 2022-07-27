@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.208
 # Release: 208
-# Entries: 65,514
+# Entries: 65,521
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 27 Jul 22 12:07:02
+# Updated: Wed, 27 Jul 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2729,6 +2729,7 @@
 0.0.0.0 a0614303.xsph.ru
 0.0.0.0 a0617224.xsph.ru
 0.0.0.0 a0621686.xsph.ru
+0.0.0.0 a0669976.xsph.ru
 0.0.0.0 a0675c1160de6c6.com
 0.0.0.0 a0678230.xsph.ru
 0.0.0.0 a0684980.xsph.ru
@@ -26279,6 +26280,7 @@
 0.0.0.0 h12-media.com
 0.0.0.0 h145197.s27.test-hf.su
 0.0.0.0 h163995.srv11.test-hf.su
+0.0.0.0 h164211.srv11.test-hf.su
 0.0.0.0 h1g6u-g6nfk.ads.tremorhub.com
 0.0.0.0 h250p-ajijp.ads.tremorhub.com
 0.0.0.0 h250p-gxfa9.ads.tremorhub.com
@@ -29460,6 +29462,7 @@
 0.0.0.0 ipc-nena.net
 0.0.0.0 ipc.skimresources.com
 0.0.0.0 ipcc-vnp1.vnptmedia.vn
+0.0.0.0 ipcc.vnpt.com.vn
 0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 ipcity.gr
 0.0.0.0 ipeckcuxtkfoih.xyz
@@ -33215,6 +33218,7 @@
 0.0.0.0 lorimakafrica.com
 0.0.0.0 lorimertoned.com
 0.0.0.0 lornardchr.club
+0.0.0.0 lorritroughton.com
 0.0.0.0 lorybnfh.com
 0.0.0.0 los.2hisnd.com
 0.0.0.0 losecounter.de
@@ -51379,6 +51383,7 @@
 0.0.0.0 splicky.com
 0.0.0.0 splinky.com
 0.0.0.0 splintergrazescald.com
+0.0.0.0 splitbee.io
 0.0.0.0 splitcursednagging.com
 0.0.0.0 splitroute.adserver.yahoo.com
 0.0.0.0 splitter.trafficon.co
@@ -58582,6 +58587,7 @@
 0.0.0.0 verificacionvml.com.mx
 0.0.0.0 verified-extensions.com
 0.0.0.0 verifier.live
+0.0.0.0 verify-info-session3043.gq
 0.0.0.0 verify.stc.tools
 0.0.0.0 verifychocolate.com
 0.0.0.0 verifyvegetable.com
@@ -62516,6 +62522,7 @@
 0.0.0.0 www.matchmyip.com
 0.0.0.0 www.matevictim.com
 0.0.0.0 www.matrimonyfiles.com
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mayanmonkey.es
 0.0.0.0 www.mbctxigml.com
 0.0.0.0 www.mbo4d.co
