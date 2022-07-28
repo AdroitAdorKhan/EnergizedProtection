@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.209
-# Release: 209
-# Entries: 65,572
+# Version: 22.07.210
+# Release: 210
+# Entries: 65,579
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 28 Jul 22 20:07:01
+# Updated: Fri, 29 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -34305,6 +34305,7 @@
 0.0.0.0 masstech.info
 0.0.0.0 massuplementos.cl
 0.0.0.0 master-sad.ru
+0.0.0.0 master-shopify-tracker.s3.amazonaws.com
 0.0.0.0 master.ads.contentabc.com
 0.0.0.0 masterbate.pro
 0.0.0.0 mastercenter.livejasmin.com
@@ -34481,6 +34482,7 @@
 0.0.0.0 mc-ya.ru
 0.0.0.0 mc.admetrica.ru
 0.0.0.0 mc.mmkkhhnn.cn
+0.0.0.0 mc.mwgpg.cn
 0.0.0.0 mc.speakol.com
 0.0.0.0 mc.umeng.com
 0.0.0.0 mc.webvisor.org
@@ -35058,6 +35060,7 @@
 0.0.0.0 mg.mgid.com
 0.0.0.0 mg.steepto.com
 0.0.0.0 mg.traffic-media.co.uk
+0.0.0.0 mg.xhkvff.cn
 0.0.0.0 mg4s1.com
 0.0.0.0 mgage.com
 0.0.0.0 mgbid.net
@@ -35132,6 +35135,7 @@
 0.0.0.0 middestkarsha.com
 0.0.0.0 middleagedbabysitting.com
 0.0.0.0 middlesswal.com
+0.0.0.0 middleware.p7s1.io
 0.0.0.0 mideastclinicsea.us
 0.0.0.0 midgerelativelyhoax.com
 0.0.0.0 midgetincidentally.com
@@ -43594,6 +43598,7 @@
 0.0.0.0 playbuzzmm.ads.tremorhub.com
 0.0.0.0 playcam.s.xoxknct.com
 0.0.0.0 player-feedback-v1.glomex.com
+0.0.0.0 player-feedback.p7s1video.net
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.adtcdn.com
 0.0.0.0 player.adtelligent.com
@@ -43708,6 +43713,7 @@
 0.0.0.0 plywoodso.com
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 pm.adsafeprotected.com
+0.0.0.0 pm.poqwua.cn
 0.0.0.0 pm0.net
 0.0.0.0 pm4wv.dx.am
 0.0.0.0 pmc-com.videoplayerhub.com
@@ -52294,6 +52300,7 @@
 0.0.0.0 stats.propellerads.com
 0.0.0.0 stats.revenuecat.com
 0.0.0.0 stats.rubiconproject.com
+0.0.0.0 stats.rustica.fr
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.slideshare.net
