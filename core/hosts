@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.209
 # Release: 209
-# Entries: 65,568
+# Entries: 65,572
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 28 Jul 22 16:07:01
+# Updated: Thu, 28 Jul 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7096,6 +7096,7 @@
 0.0.0.0 analytics.dsyqt.com
 0.0.0.0 analytics.dugun.com
 0.0.0.0 analytics.dvidshub.net
+0.0.0.0 analytics.e1.ru
 0.0.0.0 analytics.easyjet.com
 0.0.0.0 analytics.eclick.vn
 0.0.0.0 analytics.ecosia.org
@@ -7223,6 +7224,7 @@
 0.0.0.0 analytics.lucidpress.com
 0.0.0.0 analytics.luckypool.io
 0.0.0.0 analytics.m2.ai
+0.0.0.0 analytics.m7g.twitch.tv
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.maileon.com
 0.0.0.0 analytics.mailmunch.co
@@ -18810,6 +18812,7 @@
 0.0.0.0 dgmaxinteractive.com
 0.0.0.0 dgpcdn.org
 0.0.0.0 dgwbfgadwkxthd.com
+0.0.0.0 dgxmvglp.com
 0.0.0.0 dgyu536ds.appspot.com
 0.0.0.0 dgzhbvifnjo.com
 0.0.0.0 dh.serving-sys.com
@@ -31641,6 +31644,7 @@
 0.0.0.0 kvhttt.top
 0.0.0.0 kvhuxqatip.xyz
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 kvjkkwyomjrx.com
 0.0.0.0 kvjlujtw.xyz
 0.0.0.0 kvkddd.top
 0.0.0.0 kvlakmbfox.com
