@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.210
 # Release: 210
-# Entries: 65,579
+# Entries: 65,580
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 29 Jul 22 00:07:01
+# Updated: Fri, 29 Jul 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -56253,6 +56253,7 @@
 0.0.0.0 tracking.diginetica.net
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.dramaticules.fr
+0.0.0.0 tracking.emerse.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.ero-advertising.com
 0.0.0.0 tracking.etapestry.com
