@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.07.210
-# Release: 210
-# Entries: 65,607
+# Version: 22.07.211
+# Release: 211
+# Entries: 65,610
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 29 Jul 22 20:07:01
+# Updated: Sat, 30 Jul 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7099,6 +7099,7 @@
 0.0.0.0 analytics.dugun.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.e1.ru
+0.0.0.0 analytics.e2estudios.com
 0.0.0.0 analytics.easyjet.com
 0.0.0.0 analytics.eclick.vn
 0.0.0.0 analytics.ecosia.org
@@ -23567,6 +23568,7 @@
 0.0.0.0 foowhauh.net
 0.0.0.0 fopushegi.com
 0.0.0.0 foqbjnsrl.com
+0.0.0.0 for-soft.com
 0.0.0.0 forafinan.club
 0.0.0.0 foramoongussor.com
 0.0.0.0 forarchenchan.com
@@ -38564,6 +38566,7 @@
 0.0.0.0 oeqsmndcf.xyz
 0.0.0.0 oewa.at
 0.0.0.0 oeyiamwpj.com
+0.0.0.0 of-soft.com
 0.0.0.0 ofapsrvepx.com
 0.0.0.0 ofbgkwdgwcu.xyz
 0.0.0.0 ofchristandmen.orgnpl17372836.profitablecpmgate.comnwww.topdisplayformat.com
