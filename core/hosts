@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.211
 # Release: 211
-# Entries: 65,612
+# Entries: 65,613
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 30 Jul 22 16:07:01
+# Updated: Sat, 30 Jul 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23039,6 +23039,7 @@
 0.0.0.0 file-coin-coin-10.com
 0.0.0.0 file-hoster-cluster-1.com
 0.0.0.0 file.runespectrals.com
+0.0.0.0 file.soft98.ir
 0.0.0.0 file155.gofile.io
 0.0.0.0 file170.gofile.io
 0.0.0.0 file23hscontarsr.000webhostapp.com
