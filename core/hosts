@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.211
 # Release: 211
-# Entries: 65,610
+# Entries: 65,611
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 30 Jul 22 08:07:01
+# Updated: Sat, 30 Jul 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9876,6 +9876,7 @@
 0.0.0.0 b.gemini.yahoo.com
 0.0.0.0 b.glcdn.co
 0.0.0.0 b.gogameb.com
+0.0.0.0 b.isbnrs.com
 0.0.0.0 b.kavanga.ru
 0.0.0.0 b.kcolbda.com
 0.0.0.0 b.link
