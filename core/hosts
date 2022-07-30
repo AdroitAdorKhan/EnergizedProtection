@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.211
 # Release: 211
-# Entries: 65,611
+# Entries: 65,612
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 30 Jul 22 12:07:01
+# Updated: Sat, 30 Jul 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -54014,6 +54014,7 @@
 0.0.0.0 technoshadows.com
 0.0.0.0 technotology.com
 0.0.0.0 techoykd.com
+0.0.0.0 techsidea.website
 0.0.0.0 techthematter.xyz
 0.0.0.0 techtricksworld.com
 0.0.0.0 techxim.com
