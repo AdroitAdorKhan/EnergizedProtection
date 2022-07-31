@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.07.212
 # Release: 212
-# Entries: 65,613
+# Entries: 65,614
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 31 Jul 22 04:07:01
+# Updated: Sun, 31 Jul 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -29991,6 +29991,7 @@
 0.0.0.0 jaugloup.com
 0.0.0.0 jaumevie.com
 0.0.0.0 jaunithuw.com
+0.0.0.0 jautouze.net
 0.0.0.0 java8.xyz
 0.0.0.0 javacript.ga
 0.0.0.0 javacript.tk
