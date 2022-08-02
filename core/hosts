@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.214
 # Release: 214
-# Entries: 65,664
+# Entries: 65,665
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 02 Aug 22 04:07:01
+# Updated: Tue, 02 Aug 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -28031,6 +28031,7 @@
 0.0.0.0 i62e2b4mfy.com
 0.0.0.0 i7ece0xrg4nx.com
 0.0.0.0 i864ekhq.com
+0.0.0.0 i884.info
 0.0.0.0 i8xkjci7nd.com
 0.0.0.0 i937g.bemobtrk.com
 0.0.0.0 i99i.org
