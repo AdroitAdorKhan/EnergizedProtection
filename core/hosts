@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.215
 # Release: 215
-# Entries: 65,720
+# Entries: 65,721
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 03 Aug 22 00:07:01
+# Updated: Wed, 03 Aug 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8053,6 +8053,7 @@
 0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.runative.com
 0.0.0.0 api.scorecardresearch.com
+0.0.0.0 api.sdffwef11.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.shareasale.com
 0.0.0.0 api.sharetrace.com
