@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.215
-# Release: 215
-# Entries: 65,753
+# Version: 22.08.216
+# Release: 216
+# Entries: 65,764
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 03 Aug 22 20:07:02
+# Updated: Thu, 04 Aug 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5729,6 +5729,7 @@
 0.0.0.0 adx-api.shalltry.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
 0.0.0.0 adx-dra.op.hicloud.com
+0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-id-ads.realmemobile.com
 0.0.0.0 adx-in-ads.realmemobile.com
 0.0.0.0 adx-in.ads.heytapmobile.com
@@ -6078,6 +6079,7 @@
 0.0.0.0 aggressivefrequentneckquirky.com
 0.0.0.0 aggressiveracketscout.com
 0.0.0.0 aghtag.tech
+0.0.0.0 agielspick.com
 0.0.0.0 agilespatter.com
 0.0.0.0 agillic.eu
 0.0.0.0 agilone.com
@@ -12153,6 +12155,7 @@
 0.0.0.0 breedsleadershipcontrivance.com
 0.0.0.0 breedsthey.com
 0.0.0.0 breedtagask.com
+0.0.0.0 breemi.com
 0.0.0.0 brendancleary.net
 0.0.0.0 brenleyquartzgh.com
 0.0.0.0 brennanasia.com
@@ -16419,6 +16422,7 @@
 0.0.0.0 coothupu.net
 0.0.0.0 cootro.com
 0.0.0.0 coovouch.com
+0.0.0.0 coozoaji.net
 0.0.0.0 copacet.com
 0.0.0.0 copay.io
 0.0.0.0 copeforcing.com
@@ -24430,6 +24434,7 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadsabs.com
 0.0.0.0 gadsabz.com
+0.0.0.0 gadsatz.com
 0.0.0.0 gadsecs.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsims.com
@@ -25757,6 +25762,7 @@
 0.0.0.0 gostats.ro
 0.0.0.0 gostats.ru
 0.0.0.0 gostats.vn
+0.0.0.0 gosweethomes.com
 0.0.0.0 gosystemupdate.com
 0.0.0.0 gosystemupdate3.club
 0.0.0.0 gosystemupdate3.top
@@ -33452,6 +33458,7 @@
 0.0.0.0 lp.rayjump.com
 0.0.0.0 lp.yieldbird.com
 0.0.0.0 lp1.appnext.com
+0.0.0.0 lp1s.cyber-guard.me
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lp4.io
 0.0.0.0 lpcwbasrdb.com
@@ -35261,6 +35268,7 @@
 0.0.0.0 mignoops.net
 0.0.0.0 migrantspiteconnecting.com
 0.0.0.0 miihwnroe.com
+0.0.0.0 miixtocmpfjwlw.com
 0.0.0.0 mijinogu.com
 0.0.0.0 mikhospitality.com.np
 0.0.0.0 mikosamara.ru
@@ -44364,6 +44372,7 @@
 0.0.0.0 praachichemfood.com
 0.0.0.0 practeddagek.club
 0.0.0.0 practicableperiodicabrupt.com
+0.0.0.0 practicallysacrificestock.com
 0.0.0.0 practimplete.club
 0.0.0.0 practisecolander.com
 0.0.0.0 practitionermonsieurstable.com
@@ -49505,6 +49514,7 @@
 0.0.0.0 semipool.com
 0.0.0.0 semirawbatter.com
 0.0.0.0 semireproji.pro
+0.0.0.0 semjurljffawpt.com
 0.0.0.0 semlats.com
 0.0.0.0 semoit.com
 0.0.0.0 sempcxjajh.com
@@ -58016,6 +58026,7 @@
 0.0.0.0 uohcbjeck.xyz
 0.0.0.0 uohtnfdrnhqyc.com
 0.0.0.0 uojjpevjusfoidc.com
+0.0.0.0 uomsogicgi.com
 0.0.0.0 uooqpwkjxeryj.com
 0.0.0.0 uopmcdnpad.com
 0.0.0.0 uoredi.com
