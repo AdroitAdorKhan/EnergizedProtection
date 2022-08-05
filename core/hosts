@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.218
 # Release: 218
-# Entries: 65,885
+# Entries: 65,886
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 06 Aug 22 00:07:01
+# Updated: Sat, 06 Aug 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -30999,6 +30999,7 @@
 0.0.0.0 kaiheeci.com
 0.0.0.0 kaikmumms.com
 0.0.0.0 kairaliagencies.com
+0.0.0.0 kaisaimy.net
 0.0.0.0 kaiseki-website.com
 0.0.0.0 kaiu-marketing.com
 0.0.0.0 kaiwiciy.net
