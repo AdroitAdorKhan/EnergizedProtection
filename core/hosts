@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.217
-# Release: 217
-# Entries: 65,883
+# Version: 22.08.218
+# Release: 218
+# Entries: 65,885
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 05 Aug 22 20:07:01
+# Updated: Sat, 06 Aug 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -35244,6 +35244,7 @@
 0.0.0.0 mgbid.net
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
+0.0.0.0 mgcicjfqyfik.com
 0.0.0.0 mgcpakistan.com
 0.0.0.0 mgdxsqypqtv.com
 0.0.0.0 mgepodownload.mediatek.com
@@ -39249,6 +39250,7 @@
 0.0.0.0 ootrnfigisoiheohlochidml.me
 0.0.0.0 oouggjayokzx.com
 0.0.0.0 oovoarsy.net
+0.0.0.0 oovofcsyxayy.com
 0.0.0.0 ooxoatse.com
 0.0.0.0 ooxvlnoxugx.com
 0.0.0.0 oozyunmix.com
