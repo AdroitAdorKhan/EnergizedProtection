@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.221
 # Release: 221
-# Entries: 66,011
+# Entries: 66,013
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 09 Aug 22 12:07:02
+# Updated: Tue, 09 Aug 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -22953,6 +22953,7 @@
 0.0.0.0 federallissimus.casa
 0.0.0.0 fedethezo.pro
 0.0.0.0 fedex.demdex.net
+0.0.0.0 fedistelsfloungela.com
 0.0.0.0 fedrocou.net
 0.0.0.0 fedsit.com
 0.0.0.0 feduthobi.com
@@ -44048,6 +44049,7 @@
 0.0.0.0 pobliba.info
 0.0.0.0 pocitadlo.cz
 0.0.0.0 pocitadlo.sk
+0.0.0.0 pocketfaucet.com
 0.0.0.0 pocketgeekauto.page.link
 0.0.0.0 pocketsonic.com
 0.0.0.0 pockhopatone.com
