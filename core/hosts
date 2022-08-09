@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.221
-# Release: 221
-# Entries: 66,017
+# Version: 22.08.222
+# Release: 222
+# Entries: 66,020
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 09 Aug 22 20:07:02
+# Updated: Wed, 10 Aug 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7510,6 +7510,7 @@
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 analytics.vodafone.co.uk
 0.0.0.0 analytics.vodgc.net
+0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 analytics.vyrl.co
 0.0.0.0 analytics.wanmei.com
 0.0.0.0 analytics.webads.eu
@@ -26474,6 +26475,7 @@
 0.0.0.0 h.df-srv.de
 0.0.0.0 h.epelcdn.com
 0.0.0.0 h.mugrikees.com
+0.0.0.0 h.seznam.cz
 0.0.0.0 h.zedo.com
 0.0.0.0 h12-media.com
 0.0.0.0 h145197.s27.test-hf.su
@@ -52342,6 +52344,7 @@
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 stat.botdetector.ru
 0.0.0.0 stat.cliche.se
+0.0.0.0 stat.cncenter.cz
 0.0.0.0 stat.coedcherry.com
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.eagleplatform.com
