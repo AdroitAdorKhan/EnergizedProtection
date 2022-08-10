@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.223
 # Release: 223
-# Entries: 66,035
+# Entries: 66,038
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 11 Aug 22 00:07:01
+# Updated: Thu, 11 Aug 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4429,6 +4429,7 @@
 0.0.0.0 ads-game-configuration.unityads.unity3d.com
 0.0.0.0 ads-imp.adhese.com
 0.0.0.0 ads-inmobi-com-tm.trafficmanager.net
+0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-ipm.adhese.com
 0.0.0.0 ads-lannoo.adhese.com
 0.0.0.0 ads-leaseweb.appsgeyser.com
@@ -4888,6 +4889,7 @@
 0.0.0.0 adsapi.adsymptotic.com
 0.0.0.0 adsapi.chartbeat.com
 0.0.0.0 adsapi.manhuaren.com
+0.0.0.0 adsapi.snapchat.com
 0.0.0.0 adsb4track.com
 0.0.0.0 adsb4trk.com
 0.0.0.0 adsbb.depositfiles.com
@@ -8916,6 +8918,7 @@
 0.0.0.0 astertour.fun
 0.0.0.0 astespurra.com
 0.0.0.0 astg.widerplanet.com
+0.0.0.0 astivysauran.com
 0.0.0.0 astkyureman.com
 0.0.0.0 astmjdeyhwxf.xyz
 0.0.0.0 astoecia.com
