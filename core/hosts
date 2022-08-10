@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.222
-# Release: 222
-# Entries: 66,034
+# Version: 22.08.223
+# Release: 223
+# Entries: 66,035
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 10 Aug 22 20:07:01
+# Updated: Thu, 11 Aug 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -58369,6 +58369,7 @@
 0.0.0.0 upskittyan.com
 0.0.0.0 upsnap.com
 0.0.0.0 upsoozoa.net
+0.0.0.0 upspinarakor.com
 0.0.0.0 upstats.ru
 0.0.0.0 uptightpercyplug.com
 0.0.0.0 uptime.monitorus.ru
