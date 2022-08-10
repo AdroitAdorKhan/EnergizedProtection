@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.222
 # Release: 222
-# Entries: 66,022
+# Entries: 66,023
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 10 Aug 22 04:07:02
+# Updated: Wed, 10 Aug 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -53111,6 +53111,7 @@
 0.0.0.0 stuneoapp.page.link
 0.0.0.0 stunninglover.com
 0.0.0.0 stunsbarbola.website
+0.0.0.0 stunthedge.com
 0.0.0.0 stupendouspeacock.com
 0.0.0.0 stupendousselection.com
 0.0.0.0 stupendoussleet.com
