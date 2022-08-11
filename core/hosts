@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.223
 # Release: 223
-# Entries: 66,065
+# Entries: 66,066
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 11 Aug 22 16:07:02
+# Updated: Thu, 11 Aug 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -35482,6 +35482,7 @@
 0.0.0.0 minderreconnect.com
 0.0.0.0 mindicoat.page.link
 0.0.0.0 mindlessmark.com
+0.0.0.0 mindlessslogan.com
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmapgallery.morelib.com
 0.0.0.0 mindmemobile.com
