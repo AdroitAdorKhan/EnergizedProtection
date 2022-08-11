@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.223
-# Release: 223
-# Entries: 66,066
+# Version: 22.08.224
+# Release: 224
+# Entries: 66,068
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 11 Aug 22 20:07:02
+# Updated: Fri, 12 Aug 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21302,6 +21302,7 @@
 0.0.0.0 emerizeculler.com
 0.0.0.0 emerodsours.cam
 0.0.0.0 emesconcontabil.com.br
+0.0.0.0 emesestoneagniates.com
 0.0.0.0 emetriq.de
 0.0.0.0 emett.com
 0.0.0.0 emi.by
@@ -28486,6 +28487,7 @@
 0.0.0.0 igmgsugiulcny.xyz
 0.0.0.0 igniterads.com
 0.0.0.0 ignitioninstaller.com
+0.0.0.0 ignoblebeings.com
 0.0.0.0 ignobleinnovationcollateral.com
 0.0.0.0 ignoringbest.com
 0.0.0.0 ignup.com
