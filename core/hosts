@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.224
 # Release: 224
-# Entries: 66,070
+# Entries: 66,071
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 12 Aug 22 08:07:02
+# Updated: Fri, 12 Aug 22 12:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -47097,6 +47097,7 @@
 0.0.0.0 reddogzone.com
 0.0.0.0 reddsdainful.com
 0.0.0.0 redeemcodes.me
+0.0.0.0 redeemspectacular.com
 0.0.0.0 redewdit.pro
 0.0.0.0 redferngallery.com
 0.0.0.0 redgame.appcpi.net
