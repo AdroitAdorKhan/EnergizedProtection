@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.225
 # Release: 225
-# Entries: 66,119
+# Entries: 66,120
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 13 Aug 22 12:07:02
+# Updated: Sat, 13 Aug 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26065,6 +26065,7 @@
 0.0.0.0 grauwaiw.com
 0.0.0.0 gravellocus.com
 0.0.0.0 gravelringer.com
+0.0.0.0 graveltemper.com
 0.0.0.0 gravelycontainsstruggle.com
 0.0.0.0 gravelyelectricthicket.com
 0.0.0.0 gravelyweakeraboriginal.com
