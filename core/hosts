@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.225
 # Release: 225
-# Entries: 66,120
+# Entries: 66,124
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 13 Aug 22 16:07:01
+# Updated: Sat, 13 Aug 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23387,8 +23387,12 @@
 0.0.0.0 fitgirl-repack.os.tc
 0.0.0.0 fitgirl-repacks.cc
 0.0.0.0 fitgirl-repacks.com
+0.0.0.0 fitgirl-repacks.info
 0.0.0.0 fitgirl-repacks.website
+0.0.0.0 fitgirlrepack.games
 0.0.0.0 fitgirlrepacks.co
+0.0.0.0 fitgirlrepacks.pro
+0.0.0.0 fitgirls-repack.com
 0.0.0.0 fitrahhanniah.sch.id
 0.0.0.0 fitter.beedevstaging.com
 0.0.0.0 fitthings.info
