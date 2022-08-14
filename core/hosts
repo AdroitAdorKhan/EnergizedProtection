@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.227
 # Release: 227
-# Entries: 66,135
+# Entries: 66,136
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 15 Aug 22 00:07:01
+# Updated: Mon, 15 Aug 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20245,6 +20245,7 @@
 0.0.0.0 dustymural.com
 0.0.0.0 dustyrabbits.com
 0.0.0.0 dustywave.com
+0.0.0.0 dustywrenchdesigned.com
 0.0.0.0 dutapp.wisolve.co.za
 0.0.0.0 dutirtougaon.com
 0.0.0.0 dutorterraom.com
