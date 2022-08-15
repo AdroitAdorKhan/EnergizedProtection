@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.227
 # Release: 227
-# Entries: 66,142
+# Entries: 66,144
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 15 Aug 22 16:07:01
+# Updated: Mon, 15 Aug 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -52804,6 +52804,7 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsforads.com
 0.0.0.0 statsforever.com
+0.0.0.0 statsigapi.net
 0.0.0.0 statsinsight.com
 0.0.0.0 statsit.com
 0.0.0.0 statsmachine.com
@@ -54119,6 +54120,7 @@
 0.0.0.0 tags.h12-media.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.orquideassp.com
+0.0.0.0 tags.refinery89.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.sprizzy.com
 0.0.0.0 tags.tiqcdn.com
