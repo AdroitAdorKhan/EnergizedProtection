@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.227
 # Release: 227
-# Entries: 66,140
+# Entries: 66,142
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 15 Aug 22 12:07:02
+# Updated: Mon, 15 Aug 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -35230,6 +35230,7 @@
 0.0.0.0 metanetwork.com
 0.0.0.0 metartmoney.com
 0.0.0.0 metatestruck.com
+0.0.0.0 metaversn.site
 0.0.0.0 metavertising.com
 0.0.0.0 metavertizer.com
 0.0.0.0 metcon.hulu.com
@@ -41087,6 +41088,7 @@
 0.0.0.0 percussivepuncture.com
 0.0.0.0 perdej.000webhostapp.com
 0.0.0.0 perf.cdnads.com
+0.0.0.0 perf.hsforms.com
 0.0.0.0 perfect-datinghere1.com
 0.0.0.0 perfect-match.org
 0.0.0.0 perfectaffairsevents.com
