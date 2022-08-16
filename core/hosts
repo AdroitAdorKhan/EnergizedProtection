@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.228
 # Release: 228
-# Entries: 66,144
+# Entries: 66,147
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 16 Aug 22 04:07:01
+# Updated: Tue, 16 Aug 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23400,6 +23400,7 @@
 0.0.0.0 fitter.beedevstaging.com
 0.0.0.0 fitthings.info
 0.0.0.0 fittingcentermonday.com
+0.0.0.0 fittingcentermondaysunday.com
 0.0.0.0 fittravisd.com
 0.0.0.0 fivace.com.vn
 0.0.0.0 five.fivedimensiongold.com
@@ -41279,6 +41280,7 @@
 0.0.0.0 ph-epoch.oppomobile.com
 0.0.0.0 ph-epoch.realmemobile.com
 0.0.0.0 ph.adserver.yahoo.com
+0.0.0.0 phaboart.net
 0.0.0.0 phabsoun.net
 0.0.0.0 phabycebe.com
 0.0.0.0 phabys.com
@@ -54515,6 +54517,7 @@
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry-ingest-prod.steelyard.ca
+0.0.0.0 telemetry.acronis.com
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.api.wmcdp.io
