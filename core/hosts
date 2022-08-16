@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.228
 # Release: 228
-# Entries: 66,149
+# Entries: 66,152
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 16 Aug 22 12:07:02
+# Updated: Tue, 16 Aug 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23580,6 +23580,7 @@
 0.0.0.0 flow.concord.systems
 0.0.0.0 flower-power-mariendorf.com
 0.0.0.0 flowerbedfedpoultry.com
+0.0.0.0 flowerstreatment.com
 0.0.0.0 floweryflavor.com
 0.0.0.0 floweryoperation.com
 0.0.0.0 flowln.com
@@ -49033,6 +49034,7 @@
 0.0.0.0 sam.msn.com
 0.0.0.0 samage-bility.icu
 0.0.0.0 samane-sana.com
+0.0.0.0 samazd.com
 0.0.0.0 samegradually.com
 0.0.0.0 samestretch.com
 0.0.0.0 samghasps.com
@@ -50632,6 +50634,7 @@
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signal-metrics-collector-dev.s-onetag.com
 0.0.0.0 signal.cdnbye.com
+0.0.0.0 signalayer.com
 0.0.0.0 signanravell.info
 0.0.0.0 signeanddat.top
 0.0.0.0 signetmuffaha.com
