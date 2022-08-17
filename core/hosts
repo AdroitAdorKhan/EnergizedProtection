@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.229
 # Release: 229
-# Entries: 66,200
+# Entries: 66,202
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 17 Aug 22 04:07:02
+# Updated: Wed, 17 Aug 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -27784,6 +27784,7 @@
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 houseatthebeachinoc.com
+0.0.0.0 housecardsummerbutton.com
 0.0.0.0 houseencircledisguised.com
 0.0.0.0 housejomadkc.com
 0.0.0.0 housekeeperemptiness.com
@@ -61000,6 +61001,7 @@
 0.0.0.0 whstatics.cdntrex.com
 0.0.0.0 whtslqpgrhfriy.com
 0.0.0.0 whugesto.net
+0.0.0.0 whughesh.com
 0.0.0.0 whukroal.net
 0.0.0.0 whuptaiz.net
 0.0.0.0 whusebsu.com
