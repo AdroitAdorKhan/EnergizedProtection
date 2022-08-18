@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.230
 # Release: 230
-# Entries: 66,257
+# Entries: 66,260
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 18 Aug 22 12:07:01
+# Updated: Thu, 18 Aug 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14622,6 +14622,7 @@
 0.0.0.0 clanfog.co.uk
 0.0.0.0 clanggrewsweaty.com
 0.0.0.0 clankallegation.com
+0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clanwatson.co.uk
 0.0.0.0 clap.blogcms.jp
 0.0.0.0 clapdistributionexample.com
@@ -22077,6 +22078,7 @@
 0.0.0.0 evengledritrophap.pro
 0.0.0.0 event-action.popinfo.jp
 0.0.0.0 event-collector.analytics.onedio.com
+0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 event-stream.spot.im
@@ -30422,6 +30424,7 @@
 0.0.0.0 jerkywings.com
 0.0.0.0 jerredsite.pro
 0.0.0.0 jerseysale.info
+0.0.0.0 jerunamendary.xyz
 0.0.0.0 jerusalemembryo.com
 0.0.0.0 jesaifie.com
 0.0.0.0 jesaniclubhouse.com
