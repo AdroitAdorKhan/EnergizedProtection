@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.231
-# Release: 231
-# Entries: 66,306
+# Version: 22.08.232
+# Release: 232
+# Entries: 66,309
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 19 Aug 22 20:07:01
+# Updated: Sat, 20 Aug 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -21420,6 +21420,7 @@
 0.0.0.0 encara2.com
 0.0.0.0 encasedandelionhauled.com
 0.0.0.0 enceansom.club
+0.0.0.0 encesprincipl.one
 0.0.0.0 enchantedjudge.com
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantmenthopeless.com
@@ -28655,6 +28656,7 @@
 0.0.0.0 il119.com
 0.0.0.0 ilcwiwepmrofgrg.xyz
 0.0.0.0 ilead.itrack.it
+0.0.0.0 ileesidesu.hair
 0.0.0.0 ilemkgdar.xyz
 0.0.0.0 ilfammncpdkx.com
 0.0.0.0 ilfmhmenrdsqhgc.me
@@ -47643,6 +47645,7 @@
 0.0.0.0 reportinghosieryniche.com
 0.0.0.0 reportionbreedy.pro
 0.0.0.0 reportlog.cocos.com
+0.0.0.0 reports-tsi.tangerine.io
 0.0.0.0 reports.amobee.com
 0.0.0.0 reports.koalametrics.com
 0.0.0.0 reports.nexage.com
