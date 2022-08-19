@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.231
 # Release: 231
-# Entries: 66,284
+# Entries: 66,285
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 19 Aug 22 12:07:01
+# Updated: Fri, 19 Aug 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -13855,6 +13855,7 @@
 0.0.0.0 cdna.adgrx.com
 0.0.0.0 cdna.clicktale.net
 0.0.0.0 cdnads.com
+0.0.0.0 cdnads.geeksforgeeks.org
 0.0.0.0 cdnads.msads.net
 0.0.0.0 cdnap.airpush.com
 0.0.0.0 cdnapi.net
