@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.232
 # Release: 232
-# Entries: 66,315
+# Entries: 66,316
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 20 Aug 22 12:07:02
+# Updated: Sat, 20 Aug 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7206,6 +7206,7 @@
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.ihbsoft.com
 0.0.0.0 analytics.ihgip.net
+0.0.0.0 analytics.ikyu.com
 0.0.0.0 analytics.in-tend.co.uk
 0.0.0.0 analytics.industriemagazin.net
 0.0.0.0 analytics.infobae.com
