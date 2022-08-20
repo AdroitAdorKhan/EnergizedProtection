@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.232
-# Release: 232
-# Entries: 66,319
+# Version: 22.08.233
+# Release: 233
+# Entries: 66,321
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 20 Aug 22 20:07:02
+# Updated: Sun, 21 Aug 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8595,6 +8595,7 @@
 0.0.0.0 arisedammiral.com
 0.0.0.0 arisonoping.club
 0.0.0.0 arithmeticadjustment.com
+0.0.0.0 arizona-golf-vacations.com
 0.0.0.0 arizonapuzzle.com
 0.0.0.0 arizonawindowtinting.com
 0.0.0.0 arkadium.technoratimedia.com
@@ -40929,6 +40930,7 @@
 0.0.0.0 pattedmanlyunits.com
 0.0.0.0 pattentinevec.site
 0.0.0.0 patternclockwiserape.com
+0.0.0.0 pattyheadlong.com
 0.0.0.0 paualbert.com
 0.0.0.0 pauewr4cw2xs5q.com
 0.0.0.0 paufx.000webhostapp.com
