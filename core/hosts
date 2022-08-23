@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.235
 # Release: 235
-# Entries: 66,379
+# Entries: 66,380
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 23 Aug 22 12:07:02
+# Updated: Tue, 23 Aug 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -57073,6 +57073,7 @@
 0.0.0.0 tracksmart.se
 0.0.0.0 trackspeeder.com
 0.0.0.0 tracksrv.zdf.de
+0.0.0.0 tracksystem.online
 0.0.0.0 trackthatad.com
 0.0.0.0 tracktraf.com
 0.0.0.0 trackuity.com
