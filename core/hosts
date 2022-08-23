@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.235
-# Release: 235
-# Entries: 66,386
+# Version: 22.08.236
+# Release: 236
+# Entries: 66,389
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 23 Aug 22 20:07:02
+# Updated: Wed, 24 Aug 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -10894,6 +10894,7 @@
 0.0.0.0 bemusic.xyz
 0.0.0.0 ben.crxmouse.com
 0.0.0.0 benaughty.com
+0.0.0.0 benaughty.fun
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 bench.uc.cn
 0.0.0.0 benchastonishingstudying.com
@@ -45373,6 +45374,7 @@
 0.0.0.0 protracologistics.com
 0.0.0.0 proudprose.com
 0.0.0.0 prough-veridated.icu
+0.0.0.0 proveexclusionaye.com
 0.0.0.0 provenpixel.com
 0.0.0.0 proverballegationenergy.com
 0.0.0.0 proverbiae-iuris.de
@@ -49037,6 +49039,7 @@
 0.0.0.0 s3pe5ye7ri8a.com
 0.0.0.0 s3s-main.net
 0.0.0.0 s3t3d2y7.ackcdn.net
+0.0.0.0 s3t3d2y8.afcdn.net
 0.0.0.0 s400.mxcdn.net
 0.0.0.0 s42.cnzz.com
 0.0.0.0 s4block.com
