@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.237
 # Release: 237
-# Entries: 66,452
+# Entries: 66,457
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 25 Aug 22 16:07:02
+# Updated: Thu, 25 Aug 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3507,6 +3507,7 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.masteranime.es
 0.0.0.0 ad.mediaf.media
+0.0.0.0 ad.mediaprimaplus.com.my
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.monetate.net
 0.0.0.0 ad.mox.tv
@@ -20356,6 +20357,7 @@
 0.0.0.0 dvrhstqgmhc.xyz
 0.0.0.0 dvrqkqgdgr.xyz
 0.0.0.0 dvucdnv.com
+0.0.0.0 dvunyhdjacox.com
 0.0.0.0 dvypar.com
 0.0.0.0 dw-eu.com.com
 0.0.0.0 dw-online.ksosoft.com
@@ -44986,6 +44988,7 @@
 0.0.0.0 prepenseprepensedefiance.com
 0.0.0.0 preplbslog.umeng.com
 0.0.0.0 preponderantbasisbutterfly.com
+0.0.0.0 preponderanttemple.com
 0.0.0.0 prepositioncamouflage.com
 0.0.0.0 preposterousdecidedfollowing.com
 0.0.0.0 preposterousgoody.com
@@ -52967,6 +52970,7 @@
 0.0.0.0 stats.condenastdigital.com
 0.0.0.0 stats.coronalabs.com
 0.0.0.0 stats.coursepad.com
+0.0.0.0 stats.darkreader.app
 0.0.0.0 stats.data2.ero-advertising.com
 0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.dev2021.com
@@ -63414,6 +63418,7 @@
 0.0.0.0 www.matchmyip.com
 0.0.0.0 www.matevictim.com
 0.0.0.0 www.matrimonyfiles.com
+0.0.0.0 www.maximtoaster.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mayanmonkey.es
 0.0.0.0 www.mbctxigml.com
