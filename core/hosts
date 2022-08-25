@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.238
 # Release: 238
-# Entries: 66,491
+# Entries: 66,494
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Aug 22 00:07:01
+# Updated: Fri, 26 Aug 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16231,6 +16231,7 @@
 0.0.0.0 config.samsungads.com
 0.0.0.0 config.seedtag.com
 0.0.0.0 config.tremorhub.com
+0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 config2.mparticle.com
@@ -19090,6 +19091,7 @@
 0.0.0.0 didchinosdub.cam
 0.0.0.0 diddaisycuff.com
 0.0.0.0 didit.com
+0.0.0.0 didna-d.openx.net
 0.0.0.0 didna.io
 0.0.0.0 didpuprat.com
 0.0.0.0 didtheyreadit.com
@@ -44907,6 +44909,7 @@
 0.0.0.0 prchecker.info
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 prd-lender.cdp.internal.unity3d.com
 0.0.0.0 prdredir.com
 0.0.0.0 pre-deeplink.umeng.com
 0.0.0.0 pre-slc.wshareit.com
