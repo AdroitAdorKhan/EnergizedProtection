@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.238
-# Release: 238
-# Entries: 66,531
+# Version: 22.08.239
+# Release: 239
+# Entries: 66,542
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 26 Aug 22 20:07:01
+# Updated: Sat, 27 Aug 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3899,6 +3899,7 @@
 0.0.0.0 adforgames.com
 0.0.0.0 adforgeinc.com
 0.0.0.0 adform.com
+0.0.0.0 adforyounews.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
 0.0.0.0 adfox.ru
 0.0.0.0 adfox.yandex.ru
@@ -11300,6 +11301,7 @@
 0.0.0.0 bighot.ru
 0.0.0.0 bighticeate.com
 0.0.0.0 biglineint.com
+0.0.0.0 biglittleday.com
 0.0.0.0 biglru.com
 0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigmining.com
@@ -13980,6 +13982,7 @@
 0.0.0.0 ceeglagu.net
 0.0.0.0 ceeglousaud.com
 0.0.0.0 ceehimur.uk
+0.0.0.0 ceeleeca.com
 0.0.0.0 cees-ease.com
 0.0.0.0 ceesty.com
 0.0.0.0 ceeviwep.com
@@ -14659,6 +14662,7 @@
 0.0.0.0 cl.canva.com
 0.0.0.0 cl.qualaroo.com
 0.0.0.0 cl0udh0st1ng.com
+0.0.0.0 clackavarian.com
 0.0.0.0 clade.de
 0.0.0.0 claean-app.xyz
 0.0.0.0 claimbit.tk
@@ -17891,6 +17895,7 @@
 0.0.0.0 d3p.trafficmagnates.com
 0.0.0.0 d3p8w7to4066sy.cloudfront.net
 0.0.0.0 d3pel2vlstnlu9.cloudfront.net
+0.0.0.0 d3phzb7fk3uhin.cloudfront.net
 0.0.0.0 d3pk579obpqv7b.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
 0.0.0.0 d3qilfrpqzfrg4.cloudfront.net
@@ -30055,6 +30060,7 @@
 0.0.0.0 irs09.com
 0.0.0.0 irsbcddjenqwcjr.xyz
 0.0.0.0 irsrsuasgjlfod.com
+0.0.0.0 irvate.com
 0.0.0.0 irvuyekrdga.com
 0.0.0.0 irxcm.com
 0.0.0.0 is-gateway.supersonicads.com
@@ -37344,6 +37350,7 @@
 0.0.0.0 ncanat.com
 0.0.0.0 ncbaebwp.edu.pk
 0.0.0.0 ncdnunc.com
+0.0.0.0 ncecafvdeu.shop
 0.0.0.0 nceicurrently.biz
 0.0.0.0 nceinbutiwo.biz
 0.0.0.0 ncepwelcjwdejj.com
@@ -48219,6 +48226,7 @@
 0.0.0.0 riluaneth.com
 0.0.0.0 rilukirkqruemo.com
 0.0.0.0 rimediapush.com
+0.0.0.0 rimefatling.com
 0.0.0.0 rimhpxsxow.xyz
 0.0.0.0 riminghoggoofy.com
 0.0.0.0 rimpirbtmxg.com
@@ -57662,6 +57670,7 @@
 0.0.0.0 trupir-asia.info
 0.0.0.0 trust.zone
 0.0.0.0 trustaffs.com
+0.0.0.0 trustbummler.com
 0.0.0.0 trustclinics-eg.com
 0.0.0.0 trustdispel.com
 0.0.0.0 trusted-click-host.com
@@ -61587,6 +61596,7 @@
 0.0.0.0 wks.ero-advertising.com
 0.0.0.0 wkulynjo.com
 0.0.0.0 wkxdaqojx.com
+0.0.0.0 wkyfgxxabvu.xyz
 0.0.0.0 wl.yna.co.kr
 0.0.0.0 wlbectvt.com
 0.0.0.0 wlbetboo.adsrv.eacdn.com
@@ -66228,6 +66238,7 @@
 0.0.0.0 zasewartefiko.top
 0.0.0.0 zasheeca.com
 0.0.0.0 zathytycho.com
+0.0.0.0 zationserv.one
 0.0.0.0 zatythygre.pro
 0.0.0.0 zaubawhe.com
 0.0.0.0 zauglomo.net
