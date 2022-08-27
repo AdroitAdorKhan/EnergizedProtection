@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.239
 # Release: 239
-# Entries: 66,565
+# Entries: 66,566
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 27 Aug 22 12:07:01
+# Updated: Sat, 27 Aug 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12025,6 +12025,7 @@
 0.0.0.0 borbajardinagem.com.br
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 borderoffenseantenna.com
+0.0.0.0 bordsnewsjule.com
 0.0.0.0 boreasinflash.com
 0.0.0.0 boreateam.com
 0.0.0.0 boredactress.com
