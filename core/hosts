@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.241
-# Release: 241
-# Entries: 66,604
+# Version: 22.08.242
+# Release: 242
+# Entries: 66,623
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 29 Aug 22 20:07:02
+# Updated: Tue, 30 Aug 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2894,6 +2894,7 @@
 0.0.0.0 aax-vx-us-us-west-2.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 ab-config.propellerads.com
+0.0.0.0 ab-log.datahou.se
 0.0.0.0 ab-machine.forbes.com
 0.0.0.0 ab-platinum.kz
 0.0.0.0 ab.advertiserurl.com
@@ -7987,6 +7988,7 @@
 0.0.0.0 api.atdmt.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.awin.com
+0.0.0.0 api.axept.io
 0.0.0.0 api.bitp.it
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.brs.intl.miui.com
@@ -8828,6 +8830,7 @@
 0.0.0.0 aslaironer.com
 0.0.0.0 aslaprason.com
 0.0.0.0 aslecorp.pe
+0.0.0.0 aslmyoxscfr.com
 0.0.0.0 asmaanaturals.com
 0.0.0.0 asmaxim.duckdns.org
 0.0.0.0 asmc.ugal.ro
@@ -9894,6 +9897,7 @@
 0.0.0.0 ayeboagnu.com
 0.0.0.0 ayechecker.com
 0.0.0.0 ayelet.binamix.com
+0.0.0.0 ayelpacle.com
 0.0.0.0 aygqfmuysxg.com
 0.0.0.0 aynacidenizcilik.com
 0.0.0.0 aynalfahadboursa.com
@@ -11861,6 +11865,7 @@
 0.0.0.0 boacheeb.com
 0.0.0.0 boahoupi.com
 0.0.0.0 boajagoar.com
+0.0.0.0 boakauso.com
 0.0.0.0 boammbygywvsx.xyz
 0.0.0.0 boaphaps.net
 0.0.0.0 boardingschoolsoftware.com
@@ -14199,6 +14204,7 @@
 0.0.0.0 chainandpyle.com
 0.0.0.0 chaindedicated.com
 0.0.0.0 chaineky.com
+0.0.0.0 chainerunca.com
 0.0.0.0 chaingab.net
 0.0.0.0 chaintopdom.nl
 0.0.0.0 chairmanfreelancetravelling.com
@@ -14560,6 +14566,7 @@
 0.0.0.0 cigarregistersheriff.com
 0.0.0.0 cightsnating.com
 0.0.0.0 cihakawkngiamu.com
+0.0.0.0 ciihjhyfoddflhy.xyz
 0.0.0.0 cijexuthi.com
 0.0.0.0 ciksolre.net
 0.0.0.0 cilcountee.top
@@ -19646,6 +19653,7 @@
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dnecvuucmmabd.com
 0.0.0.0 dnfmiwlcinfauit.com
+0.0.0.0 dngqrlcxesropm.xyz
 0.0.0.0 dnh523js9661q.cloudfront.net
 0.0.0.0 dnhxmrrsykewvst.com
 0.0.0.0 dnk2wr2ch6zxa.cloudfront.net
@@ -23372,6 +23380,7 @@
 0.0.0.0 filecabinet.digitalechoes.co.uk
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filedrive.uploadbox.world
+0.0.0.0 filegrab.xyz
 0.0.0.0 filekeeper.nocoshop.ru
 0.0.0.0 filekeeper.topupload.ru
 0.0.0.0 filelox.com
@@ -24377,6 +24386,7 @@
 0.0.0.0 frontierdough.com
 0.0.0.0 frontlinehealthnews.com
 0.0.0.0 frookshop-winsive.com
+0.0.0.0 frooter.xyz
 0.0.0.0 frosmo.com
 0.0.0.0 frothadditions.com
 0.0.0.0 frowzyvibex.com
@@ -28326,6 +28336,7 @@
 0.0.0.0 hypocritedesistsplendid.com
 0.0.0.0 hypogeeinial.com
 0.0.0.0 hypoot.com
+0.0.0.0 hypota.com
 0.0.0.0 hypothesisalternate.com
 0.0.0.0 hyrewusha.pro
 0.0.0.0 hyseallng.com
@@ -30630,6 +30641,7 @@
 0.0.0.0 jgmsmetr.com
 0.0.0.0 jgnocofmf.xyz
 0.0.0.0 jgoomiqrgad.xyz
+0.0.0.0 jgqskdjkorwvh.xyz
 0.0.0.0 jgsjlbrhwax.com
 0.0.0.0 jgxultur.xyz
 0.0.0.0 jgyanmysofgs.com
@@ -33260,6 +33272,7 @@
 0.0.0.0 lklgmglmmirvwla.com
 0.0.0.0 lklrmjbmnhnn.com
 0.0.0.0 lkogfucm.com
+0.0.0.0 lkojioq.org
 0.0.0.0 lkoovwlmpueaom.xyz
 0.0.0.0 lkoqbgyin.com
 0.0.0.0 lkpksjtvjbw.xyz
@@ -33513,6 +33526,7 @@
 0.0.0.0 log.newsbreak.jp
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.ohmynews.com
+0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
@@ -38266,6 +38280,7 @@
 0.0.0.0 notificationsacademy.com
 0.0.0.0 notifscreen.com
 0.0.0.0 notifstar.com
+0.0.0.0 notiftravel.com
 0.0.0.0 notiftrigger.adaware.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 notify-guru.com
@@ -38948,6 +38963,7 @@
 0.0.0.0 oaffolksy.cam
 0.0.0.0 oaftaijo.net
 0.0.0.0 oagnatch.com
+0.0.0.0 oagudole.net
 0.0.0.0 oagvqdwgeiyq.xyz
 0.0.0.0 oahaurti.com
 0.0.0.0 oahipoas.com
@@ -48492,6 +48508,7 @@
 0.0.0.0 romagetukio.xyz
 0.0.0.0 romalitod.com
 0.0.0.0 romance-net.com
+0.0.0.0 romanceally.com
 0.0.0.0 romancemind.com
 0.0.0.0 romanticmonuments.com
 0.0.0.0 romashk9arfk10.com
@@ -65337,6 +65354,7 @@
 0.0.0.0 xoredi.com
 0.0.0.0 xorides.com
 0.0.0.0 xotpunwcabeijft.xyz
+0.0.0.0 xotwqnjinpnaul.com
 0.0.0.0 xovilumium.space
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xowcdbxmfam.xyz
@@ -65598,6 +65616,7 @@
 0.0.0.0 yahoosandbox.com
 0.0.0.0 yajlpetccbodq.com
 0.0.0.0 yakosurf.com
+0.0.0.0 yakqgvuxijveh.com
 0.0.0.0 yallboen.com
 0.0.0.0 yalma.kz
 0.0.0.0 yamada-shoshi.main.jp
