@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.08.243
 # Release: 243
-# Entries: 66,671
+# Entries: 66,672
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 31 Aug 22 00:07:02
+# Updated: Wed, 31 Aug 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6483,6 +6483,7 @@
 0.0.0.0 alightbornbell.com
 0.0.0.0 alignclamstram.com
 0.0.0.0 alignerpliers.com
+0.0.0.0 alignmentflattery.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 alikearm.com
 0.0.0.0 alimama.com
