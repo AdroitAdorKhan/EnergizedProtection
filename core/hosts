@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.08.243
-# Release: 243
-# Entries: 66,926
+# Version: 22.09.244
+# Release: 244
+# Entries: 66,938
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 31 Aug 22 20:07:01
+# Updated: Thu, 01 Sep 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3140,6 +3140,7 @@
 0.0.0.0 accedebuzz.com
 0.0.0.0 accedednews.com
 0.0.0.0 accedenonre.club
+0.0.0.0 accedenonre.xyz
 0.0.0.0 accelacomm.com
 0.0.0.0 accelerationirreproachabledonation.com
 0.0.0.0 accentneglectporter.com
@@ -8750,6 +8751,7 @@
 0.0.0.0 arthyredir.com
 0.0.0.0 arthyredir2.com
 0.0.0.0 articlegarlandferment.com
+0.0.0.0 articlepawn.com
 0.0.0.0 articlesteakmoth.com
 0.0.0.0 artifact-registry.service.newrelic.com
 0.0.0.0 artifactory.amobee.com
@@ -18020,6 +18022,7 @@
 0.0.0.0 d3qinhqny4thfo.cloudfront.net
 0.0.0.0 d3ra9679oeq3gx.cloudfront.net
 0.0.0.0 d3rjndf2qggsna.cloudfront.net
+0.0.0.0 d3t16rotvvsanj.cloudfront.net
 0.0.0.0 d3t3bxixsojwre.cloudfront.net
 0.0.0.0 d3t3z4teexdk2r.cloudfront.net
 0.0.0.0 d3tozt7si7bmf7.cloudfront.net
@@ -20431,6 +20434,7 @@
 0.0.0.0 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 0.0.0.0 dufai4b1ap33z.cloudfront.net
 0.0.0.0 dufibepe.com
+0.0.0.0 dugentocentury.com
 0.0.0.0 dughault.com
 0.0.0.0 duginamis.com
 0.0.0.0 dugothitachan.com
@@ -21785,6 +21789,7 @@
 0.0.0.0 entaehttydaugt.xyz
 0.0.0.0 entailcurrantreflect.com
 0.0.0.0 entailresponded.com
+0.0.0.0 entalsindust.one
 0.0.0.0 entamedeprave.casa
 0.0.0.0 entdeaded.xyz
 0.0.0.0 enterads.com
@@ -35274,6 +35279,7 @@
 0.0.0.0 mcsoft365.com
 0.0.0.0 mct.etherscan.com
 0.0.0.0 mctqu.com
+0.0.0.0 mcurrentlyse.shop
 0.0.0.0 mcvvhacopov.com
 0.0.0.0 mcw.ladesk.com
 0.0.0.0 mda-frette.fr
@@ -39015,6 +39021,7 @@
 0.0.0.0 o359598.ingest.sentry.io
 0.0.0.0 o359746.ingest.sentry.io
 0.0.0.0 o362410.ingest.sentry.io
+0.0.0.0 o365diagtelemetry.trafficmanager.net
 0.0.0.0 o36975.ingest.sentry.io
 0.0.0.0 o374015.ingest.sentry.io
 0.0.0.0 o377365.ingest.sentry.io
@@ -45834,6 +45841,7 @@
 0.0.0.0 psairurg.net
 0.0.0.0 psajxqdklvu.com
 0.0.0.0 psalisverbate.com
+0.0.0.0 psapsiph.net
 0.0.0.0 psarecommendas.com
 0.0.0.0 psargoud.com
 0.0.0.0 psasadupto.com
@@ -48401,6 +48409,7 @@
 0.0.0.0 rgverkqcpahaqcqtmpksxicmtno.com
 0.0.0.0 rgvqcsxqge.com
 0.0.0.0 rgyui.top
+0.0.0.0 rgyxispegu.xyz
 0.0.0.0 rh.liveworldtrending.video
 0.0.0.0 rh1hilm7j0ae.com
 0.0.0.0 rhabas.com
@@ -51811,6 +51820,7 @@
 0.0.0.0 smolensk.tdhimservis.ru
 0.0.0.0 smoochsodso.com
 0.0.0.0 smoothbestialityteam.com
+0.0.0.0 smopon.com
 0.0.0.0 smothere.pro
 0.0.0.0 smotherlameoven.com
 0.0.0.0 smotherpeeves.com
@@ -58699,6 +58709,7 @@
 0.0.0.0 uknsyenerg.co
 0.0.0.0 ukoffzeh.com
 0.0.0.0 ukqhsgbmorghr.com
+0.0.0.0 ukrauw.com
 0.0.0.0 ukrnment.one
 0.0.0.0 ukwqpfpnaytj.com
 0.0.0.0 ul.cdn946.net
@@ -60981,6 +60992,7 @@
 0.0.0.0 waqool.com
 0.0.0.0 warden.arc.io
 0.0.0.0 wardgrazeunarmed.com
+0.0.0.0 wardrobecontingent.com
 0.0.0.0 waredscots.casa
 0.0.0.0 warehouselao.com
 0.0.0.0 warezcrack.net
