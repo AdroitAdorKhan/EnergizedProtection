@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.245
 # Release: 245
-# Entries: 67,065
+# Entries: 67,073
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 02 Sep 22 16:07:01
+# Updated: Fri, 02 Sep 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3594,6 +3594,7 @@
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.vfnetwork.it
+0.0.0.0 ad.vhls.ru.com
 0.0.0.0 ad.virtual-nights.com
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.wanfangdata.com.cn
@@ -25815,6 +25816,7 @@
 0.0.0.0 gligluzotho.com
 0.0.0.0 glihelethy.com
 0.0.0.0 glikrooz.net
+0.0.0.0 gliksekr.net
 0.0.0.0 glimmerswiftlyforgery.com
 0.0.0.0 glimpse.allow.support
 0.0.0.0 glimpsemankind.com
@@ -26328,6 +26330,8 @@
 0.0.0.0 gplinks.co
 0.0.0.0 gplinks.in
 0.0.0.0 gplog.snssdk.com
+0.0.0.0 gpm-mon-sg.bytegsdk.com
+0.0.0.0 gpm-mon-sg.byteoversea.com
 0.0.0.0 gpovaeosjtsst.xyz
 0.0.0.0 gppovfqtsuhykcq.com
 0.0.0.0 gpppxwvwco.com
@@ -33688,6 +33692,7 @@
 0.0.0.0 log-legacy.core.cloud.vewd.com
 0.0.0.0 log-mva.isnssdk.com
 0.0.0.0 log-player.arte.tv
+0.0.0.0 log-sg.bytegsdk.com
 0.0.0.0 log-stats.weathercn.com
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload-os.mihoyo.com
@@ -35827,6 +35832,7 @@
 0.0.0.0 metrics6.dt.hicloud.com
 0.0.0.0 metricskey.com
 0.0.0.0 metricswpsh.com
+0.0.0.0 metricus.artlebedev.ru
 0.0.0.0 metrika-informer.com
 0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.lookmovie.io
@@ -42094,6 +42100,7 @@
 0.0.0.0 pignuwoa.com
 0.0.0.0 pigspie.com
 0.0.0.0 pigtre.com
+0.0.0.0 piguiqproxy.com
 0.0.0.0 pigwinspath.icu
 0.0.0.0 pihiukyrcdmel.com
 0.0.0.0 pijventures.org
@@ -47097,6 +47104,7 @@
 0.0.0.0 quunoxprk.xyz
 0.0.0.0 quurylstyirk.com
 0.0.0.0 quwasd.com
+0.0.0.0 quwecgjiibsq.com
 0.0.0.0 qvlsnqrb.xyz
 0.0.0.0 qvohjjghjdgimr.xyz
 0.0.0.0 qvtlgvemqvipdf.xyz
