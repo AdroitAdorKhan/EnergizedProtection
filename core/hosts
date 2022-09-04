@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.247
 # Release: 247
-# Entries: 67,263
+# Entries: 67,271
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 04 Sep 22 12:07:02
+# Updated: Sun, 04 Sep 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2766,6 +2766,8 @@
 0.0.0.0 a0697413.xsph.ru
 0.0.0.0 a06bbd98194c252.com
 0.0.0.0 a0710963.xsph.ru
+0.0.0.0 a0711460.xsph.ru
+0.0.0.0 a0712355.xsph.ru
 0.0.0.0 a0712758.xsph.ru
 0.0.0.0 a1.adform.net
 0.0.0.0 a157ad075fcb34c.com
@@ -16217,6 +16219,7 @@
 0.0.0.0 commonswing.com
 0.0.0.0 commonvivacious.com
 0.0.0.0 commonwealthentitledactress.com
+0.0.0.0 commsecs.info
 0.0.0.0 commune-ariana.tn
 0.0.0.0 communicationads.net
 0.0.0.0 community.appsflyer.com
@@ -16461,6 +16464,7 @@
 0.0.0.0 connect.bounceexchange.com
 0.0.0.0 connect.formerdrearybiopsy.com
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 connect2me.hopto.org
 0.0.0.0 connectad.io
 0.0.0.0 connected-by.connectad.io
 0.0.0.0 connectedegoabrasive.com
@@ -22924,6 +22928,7 @@
 0.0.0.0 f0699616.xsph.ru
 0.0.0.0 f0699618.xsph.ru
 0.0.0.0 f06b3af9.api.splkmobile.com
+0.0.0.0 f0705635.xsph.ru
 0.0.0.0 f09c54da.rtc.youme.im
 0.0.0.0 f1.cdn.ftd.agency
 0.0.0.0 f1.market.xiaomi.com
@@ -25733,6 +25738,7 @@
 0.0.0.0 github.com.cnpmjs.org
 0.0.0.0 gitishcreasu.info
 0.0.0.0 gitlab.adotmob.com
+0.0.0.0 gitlab2022.oss-cn-beijing.aliyuncs.com
 0.0.0.0 gitoku.com
 0.0.0.0 gitpw.com
 0.0.0.0 give-me-coins.com
@@ -26787,6 +26793,7 @@
 0.0.0.0 gtqwvrqefenhidd.xyz
 0.0.0.0 gtraff.com
 0.0.0.0 gtructinde.xyz
+0.0.0.0 gts-dz.com
 0.0.0.0 gts-egy.com
 0.0.0.0 gtsads.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
@@ -64609,6 +64616,7 @@
 0.0.0.0 www.qqqformula.co.za
 0.0.0.0 www.qsbinternational.com
 0.0.0.0 www.qslychhjeo.com
+0.0.0.0 www.quadrantmeasurements.com
 0.0.0.0 www.qualificationrestriction.com
 0.0.0.0 www.qualitydestructionhouse.com
 0.0.0.0 www.queryly.com
