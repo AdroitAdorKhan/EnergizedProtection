@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.09.249
-# Release: 249
-# Entries: 67,421
+# Version: 22.09.250
+# Release: 250
+# Entries: 67,430
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 06 Sep 22 20:07:01
+# Updated: Wed, 07 Sep 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7314,6 +7314,7 @@
 0.0.0.0 analytics.kkb.com.tr
 0.0.0.0 analytics.kochava.com
 0.0.0.0 analytics.kongregate.io
+0.0.0.0 analytics.kurocore.com
 0.0.0.0 analytics.lagoondivers.be
 0.0.0.0 analytics.landolsi.de
 0.0.0.0 analytics.languagetoolplus.com
@@ -17896,6 +17897,7 @@
 0.0.0.0 d185y8fkx3tp2z.cloudfront.net
 0.0.0.0 d188m5xxcpvuue.cloudfront.net
 0.0.0.0 d18e74vjvmvza1.cloudfront.net
+0.0.0.0 d18myvrsrzjrd7.cloudfront.net
 0.0.0.0 d18t35yyry2k49.cloudfront.net
 0.0.0.0 d192r5l88wrng7.cloudfront.net
 0.0.0.0 d1a3jb5hjny5s4.cloudfront.net
@@ -30215,6 +30217,7 @@
 0.0.0.0 ioniaukmla.xyz
 0.0.0.0 ionisestriller.com
 0.0.0.0 ionnmjdsf.com
+0.0.0.0 ionseleaukses.autos
 0.0.0.0 ioptia.adups.cn
 0.0.0.0 ioredi.com
 0.0.0.0 iorqaexyqic.xyz
@@ -32469,6 +32472,7 @@
 0.0.0.0 ktipanama.com
 0.0.0.0 ktkgpcstqooan.xyz
 0.0.0.0 ktmhomrvhaolx.com
+0.0.0.0 ktobedirectu.autos
 0.0.0.0 ktrackdata.com
 0.0.0.0 kts.visitstats.com
 0.0.0.0 ktteklov.com
@@ -36180,6 +36184,7 @@
 0.0.0.0 milhojas.is
 0.0.0.0 miliated.xyz
 0.0.0.0 miliatedvictions.xyz
+0.0.0.0 milips.com
 0.0.0.0 militanttrial.com
 0.0.0.0 militaryverse.com
 0.0.0.0 milk.supertool.stunnermedia.com
@@ -36397,6 +36402,7 @@
 0.0.0.0 mkontakt.az
 0.0.0.0 mkqiqfjh.com
 0.0.0.0 mkrxgcyfqr.com
+0.0.0.0 mksovmhlxfnd.com
 0.0.0.0 mkt.digitalhouse.com
 0.0.0.0 mkt3261.com
 0.0.0.0 mkt51.net
@@ -44979,6 +44985,7 @@
 0.0.0.0 poetryhonourable.com
 0.0.0.0 pofqlldhpkvvh.com
 0.0.0.0 pogan.ro
+0.0.0.0 pogothere.xyz
 0.0.0.0 pohlibri.de
 0.0.0.0 poiasj5.tk
 0.0.0.0 poidup.com
@@ -50248,6 +50255,7 @@
 0.0.0.0 schoic.com
 0.0.0.0 scholarovertakealimony.com
 0.0.0.0 scholarshipidol.com
+0.0.0.0 schond.com
 0.0.0.0 schoolofspanish.co.za
 0.0.0.0 schoolyeargo.com
 0.0.0.0 schtickshalier.cam
@@ -55527,6 +55535,7 @@
 0.0.0.0 teenytinytongue.com
 0.0.0.0 teenyvolcano.com
 0.0.0.0 teethfan.com
+0.0.0.0 tefections.xyz
 0.0.0.0 tegkgqbhp.xyz
 0.0.0.0 tehilsir.com
 0.0.0.0 teindsrangier.com
