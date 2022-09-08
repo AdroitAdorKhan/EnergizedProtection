@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.251
 # Release: 251
-# Entries: 67,531
+# Entries: 67,540
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 08 Sep 22 16:07:02
+# Updated: Thu, 08 Sep 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5594,6 +5594,7 @@
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.adfox.ru
 0.0.0.0 adv.adups.cn
+0.0.0.0 adv.bandi.so
 0.0.0.0 adv.bullguard.com
 0.0.0.0 adv.ettoday.net
 0.0.0.0 adv.freeonline.it
@@ -7055,6 +7056,8 @@
 0.0.0.0 analyticcdn.wlmediahub.com
 0.0.0.0 analytics-api.a-f.io
 0.0.0.0 analytics-api.dvdfab.cn
+0.0.0.0 analytics-api.dvdfab.co.jp
+0.0.0.0 analytics-api.dvdfab.fr
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 analytics-api.statvoo.com
@@ -23389,6 +23392,7 @@
 0.0.0.0 fcs.ovh
 0.0.0.0 fcsrnbjfmhikea.com
 0.0.0.0 fcxqklfuxouooyc.xyz
+0.0.0.0 fcxueeiwtqip.com
 0.0.0.0 fd.uqidong.com
 0.0.0.0 fd.ushendu.com
 0.0.0.0 fd555b2faf5a40c.com
@@ -29014,6 +29018,7 @@
 0.0.0.0 idmgroup-com.videoplayerhub.com
 0.0.0.0 idn.adreach.co
 0.0.0.0 idntfy.ru
+0.0.0.0 idntsoohucg.com
 0.0.0.0 ido8d-8f8ql.ads.tremorhub.com
 0.0.0.0 idolbucks.com
 0.0.0.0 idolevran.com
@@ -50173,6 +50178,7 @@
 0.0.0.0 saucesenseless.com
 0.0.0.0 saucilytalwood.cam
 0.0.0.0 saudifollows.com
+0.0.0.0 saumeechoa.com
 0.0.0.0 saumonpipidae.com
 0.0.0.0 saumooly.net
 0.0.0.0 saunaloathe.com
@@ -56345,6 +56351,7 @@
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 timeone.pro
 0.0.0.0 timeoutcommunications.demdex.net
+0.0.0.0 timeoutsalaryhaphazard.com
 0.0.0.0 timeoutshelter.org
 0.0.0.0 timerobstacle.com
 0.0.0.0 timerseeming.com
@@ -59954,6 +59961,7 @@
 0.0.0.0 utubeconverter.com
 0.0.0.0 utuypsohjvuf.com
 0.0.0.0 utxdfwxkgdkfghf.com
+0.0.0.0 utzrtyfefawyuk.com
 0.0.0.0 uuaajohul.com
 0.0.0.0 uubforbdc2om.com
 0.0.0.0 uudtxecqda.xyz
@@ -65204,6 +65212,7 @@
 0.0.0.0 www.sterilecute.com
 0.0.0.0 www.stewclove.com
 0.0.0.0 www.stichtingdearrenslee.nl
+0.0.0.0 www.stickssurelyhomesick.com
 0.0.0.0 www.sticksurroundingsconstitutional.com
 0.0.0.0 www.stinkwailingbalk.com
 0.0.0.0 www.stircalculatormetric.com
