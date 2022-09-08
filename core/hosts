@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.252
 # Release: 252
-# Entries: 67,556
+# Entries: 67,557
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 09 Sep 22 00:07:01
+# Updated: Fri, 09 Sep 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -37427,6 +37427,7 @@
 0.0.0.0 mxcdjcbssmdok.com
 0.0.0.0 mxcdn.net
 0.0.0.0 mxd.livejasmin.com
+0.0.0.0 mxdztgstli.com
 0.0.0.0 mxeinvwitjitk.com
 0.0.0.0 mxgxvyxlnufx.xyz
 0.0.0.0 mxnwpveqxugfue.com
