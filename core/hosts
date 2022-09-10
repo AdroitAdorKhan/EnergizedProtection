@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.09.253
-# Release: 253
-# Entries: 67,716
+# Version: 22.09.254
+# Release: 254
+# Entries: 67,717
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 10 Sep 22 20:07:01
+# Updated: Sun, 11 Sep 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23805,6 +23805,7 @@
 0.0.0.0 fimserve.com
 0.0.0.0 finalizeforce.com
 0.0.0.0 finallyoverworktwin.com
+0.0.0.0 finance-hot-news.com
 0.0.0.0 finance.business-empire.com-articles.comm-news.com
 0.0.0.0 finance2you.org
 0.0.0.0 financemonk.net
