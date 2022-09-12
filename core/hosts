@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.09.255
-# Release: 255
-# Entries: 67,832
+# Version: 22.09.256
+# Release: 256
+# Entries: 67,845
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 12 Sep 22 20:07:02
+# Updated: Tue, 13 Sep 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1171,6 +1171,7 @@
 0.0.0.0 2tomp.rdtk.io
 0.0.0.0 2tothepollo.top
 0.0.0.0 2tpwcqot22mb.com
+0.0.0.0 2track.info
 0.0.0.0 2udyyw4mx9hmf3enh.ay.delivery
 0.0.0.0 2xdoubles.com
 0.0.0.0 2znp09oa.com
@@ -22224,6 +22225,7 @@
 0.0.0.0 ereportz.com
 0.0.0.0 ereseavch.biz
 0.0.0.0 erewasnos.xyz
+0.0.0.0 erg.ihclam.cn
 0.0.0.0 ergadx.com
 0.0.0.0 ergdungalga.cam
 0.0.0.0 ergs4.com
@@ -27081,6 +27083,7 @@
 0.0.0.0 guq9.vente-unique.it
 0.0.0.0 gurimix.com
 0.0.0.0 guro2.com
+0.0.0.0 guroshied.com
 0.0.0.0 gurrfwsscwda.com
 0.0.0.0 gurunanakinternational.com
 0.0.0.0 gururevenue.com
@@ -28184,12 +28187,14 @@
 0.0.0.0 hnabdooyiwj.com
 0.0.0.0 hnemfejqh.com
 0.0.0.0 hniifrpqj.xyz
+0.0.0.0 hnl.ijgocb.cn
 0.0.0.0 hnnpaaarfe.com
 0.0.0.0 hnntube.com
 0.0.0.0 hnnywtxvmcyaagp.xyz
 0.0.0.0 hnoyvsuytxwhtee.xyz
 0.0.0.0 hnpvnnhzazkl.com
 0.0.0.0 hnqyfpkkjhbc.com
+0.0.0.0 hnr.wwxhba.xyz
 0.0.0.0 ho280319001.hogibo.net
 0.0.0.0 hoachoug.com
 0.0.0.0 hoanoola.net
@@ -32636,6 +32641,7 @@
 0.0.0.0 krorsimh.com
 0.0.0.0 krrhxalokf.com
 0.0.0.0 krsaautocareoffers.in
+0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krtiesuuhvmbnomirtoba.me
 0.0.0.0 krum.vsct.fr
 0.0.0.0 krwupofi.com
@@ -34455,6 +34461,7 @@
 0.0.0.0 lover-date.com
 0.0.0.0 loveradar.life
 0.0.0.0 lovercash.com
+0.0.0.0 loverevenue.com
 0.0.0.0 loversagobearable.com
 0.0.0.0 lovesingle.xyz
 0.0.0.0 lovetv.co.za
@@ -36177,6 +36184,7 @@
 0.0.0.0 metrics.backtrace.io
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.beyondwords.io
+0.0.0.0 metrics.biletino.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
@@ -40180,6 +40188,7 @@
 0.0.0.0 onautcatholi.xyz
 0.0.0.0 oncavst.com
 0.0.0.0 oncerensky.cam
+0.0.0.0 oncertaino.xyz
 0.0.0.0 oncesivesonrasi.com
 0.0.0.0 onclarck.com
 0.0.0.0 onclasrv.com
@@ -49013,6 +49022,7 @@
 0.0.0.0 rgahmllbgubakm.com
 0.0.0.0 rgcmgroup.com
 0.0.0.0 rgcogasi.xyz
+0.0.0.0 rgentssep.xyz
 0.0.0.0 rgepodownload.mediatek.com
 0.0.0.0 rgfftupf.com
 0.0.0.0 rgfmlmgpx.com
@@ -49270,6 +49280,7 @@
 0.0.0.0 rnorlexanderly.info
 0.0.0.0 rnotraff.com
 0.0.0.0 rnptiyji.com
+0.0.0.0 rnv.life
 0.0.0.0 ro.ads.justpremium.com
 0.0.0.0 ro.adserver.yahoo.com
 0.0.0.0 ro4.biz
@@ -56564,6 +56575,7 @@
 0.0.0.0 tiiavxsnffqh.com
 0.0.0.0 tikepdxu.xyz
 0.0.0.0 tikmhoryegsj.com
+0.0.0.0 tikstok.fun
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tilbud-tilbud-tilbud.dk
 0.0.0.0 tilbudssko.dk
@@ -59254,6 +59266,7 @@
 0.0.0.0 uccricket.ucweb.com
 0.0.0.0 ucdc-upaas.uc.cn
 0.0.0.0 ucdn.website
+0.0.0.0 ucetnictvi-liberec.eu
 0.0.0.0 ucfngqxpe.com
 0.0.0.0 ucfvmwbfcoghtp.xyz
 0.0.0.0 ucgwtnxkcjk.xyz
