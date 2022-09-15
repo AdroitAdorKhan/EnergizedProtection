@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.259
 # Release: 259
-# Entries: 68,001
+# Entries: 68,002
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 16 Sep 22 00:07:01
+# Updated: Fri, 16 Sep 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -23893,6 +23893,7 @@
 0.0.0.0 fimserve.com
 0.0.0.0 finalizeforce.com
 0.0.0.0 finallyoverworktwin.com
+0.0.0.0 financcesurv.com
 0.0.0.0 finance-hot-news.com
 0.0.0.0 finance.business-empire.com-articles.comm-news.com
 0.0.0.0 finance2you.org
