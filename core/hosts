@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.09.262
-# Release: 262
-# Entries: 68,300
+# Version: 22.09.263
+# Release: 263
+# Entries: 68,304
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 19 Sep 22 20:07:01
+# Updated: Tue, 20 Sep 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -64186,6 +64186,7 @@
 0.0.0.0 www.citybridgesc.at
 0.0.0.0 www.citycar-altenstadt.de
 0.0.0.0 www.cj.com
+0.0.0.0 www.clanklastingfur.com
 0.0.0.0 www.clarity.ms
 0.0.0.0 www.claroadsclick.com
 0.0.0.0 www.clasite.com
@@ -64775,6 +64776,7 @@
 0.0.0.0 www.hallucinatepromise.com
 0.0.0.0 www.handymansurrender.com
 0.0.0.0 www.hangaryapi.com.tr
+0.0.0.0 www.hangoverineffectivecorners.com
 0.0.0.0 www.happeningturbandisorganized.com
 0.0.0.0 www.harmonycanyon.com
 0.0.0.0 www.harnesssuccessorspray.com
@@ -64887,6 +64889,7 @@
 0.0.0.0 www.inelmsur.com.ec
 0.0.0.0 www.inexhaustiblepatient.com
 0.0.0.0 www.inexorabledemocracycurly.com
+0.0.0.0 www.infectedrepentearl.com
 0.0.0.0 www.infinity-tracking.net
 0.0.0.0 www.infirmaryglare.com
 0.0.0.0 www.inflamesplittingmotel.com
@@ -64895,6 +64898,7 @@
 0.0.0.0 www.information-security.zzux.com
 0.0.0.0 www.information-update.dynamic-dns.net
 0.0.0.0 www.informsnobstephen.com
+0.0.0.0 www.informsrelic.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.ingratitudefunctions.com
 0.0.0.0 www.ingroupconsult.com
