@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.266
 # Release: 266
-# Entries: 68,467
+# Entries: 68,468
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 23 Sep 22 12:07:02
+# Updated: Fri, 23 Sep 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -53455,6 +53455,7 @@
 0.0.0.0 sp.thetimesherald.com
 0.0.0.0 sp.thetowntalk.com
 0.0.0.0 sp.timesrecordnews.com
+0.0.0.0 sp.tinymce.com
 0.0.0.0 sp.vcstar.com
 0.0.0.0 sp.visaliatimesdelta.com
 0.0.0.0 sp.wausaudailyherald.com
