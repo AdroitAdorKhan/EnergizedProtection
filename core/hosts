@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.267
 # Release: 267
-# Entries: 68,551
+# Entries: 68,552
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 24 Sep 22 16:07:02
+# Updated: Sat, 24 Sep 22 20:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12843,6 +12843,7 @@
 0.0.0.0 buncoswosh.com
 0.0.0.0 buncounsel.com
 0.0.0.0 bundhammam.com
+0.0.0.0 bungalowlame.com
 0.0.0.0 bunintruder.com
 0.0.0.0 bunionstopper.com
 0.0.0.0 bunkirling.co
