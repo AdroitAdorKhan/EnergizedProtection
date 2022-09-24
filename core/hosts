@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.267
 # Release: 267
-# Entries: 68,527
+# Entries: 68,530
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sat, 24 Sep 22 04:07:01
+# Updated: Sat, 24 Sep 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -24189,7 +24189,9 @@
 0.0.0.0 fitgirl-repacks.cc
 0.0.0.0 fitgirl-repacks.com
 0.0.0.0 fitgirl-repacks.info
+0.0.0.0 fitgirl-repacks.to
 0.0.0.0 fitgirl-repacks.website
+0.0.0.0 fitgirlrepack.cc
 0.0.0.0 fitgirlrepack.games
 0.0.0.0 fitgirlrepacks.co
 0.0.0.0 fitgirlrepacks.pro
@@ -42764,6 +42766,7 @@
 0.0.0.0 phabys.com
 0.0.0.0 phagueq.cn
 0.0.0.0 phaickan.com
+0.0.0.0 phaignoo.com
 0.0.0.0 phaihoaw.net
 0.0.0.0 phaikroo.net
 0.0.0.0 phaiksul.net
