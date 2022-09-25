@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.09.268
-# Release: 268
-# Entries: 68,559
+# Version: 22.09.269
+# Release: 269
+# Entries: 68,561
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 25 Sep 22 20:07:02
+# Updated: Mon, 26 Sep 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19507,6 +19507,7 @@
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
 0.0.0.0 df8c5028a1fad1.com
 0.0.0.0 dfb79196408612f1.com
+0.0.0.0 dfbfgngnghdn.yachts
 0.0.0.0 dfbvccwdlsl.com
 0.0.0.0 dfcenter.apidec.org
 0.0.0.0 dfdjilnzqgtow.com
@@ -22696,6 +22697,7 @@
 0.0.0.0 euconsalting.com
 0.0.0.0 euctah.com
 0.0.0.0 eudhghxcgag.xyz
+0.0.0.0 eudoxia-myr.com
 0.0.0.0 eue.d-teknoloji.com.tr
 0.0.0.0 eugenemask.com
 0.0.0.0 eugenerhachi.com
