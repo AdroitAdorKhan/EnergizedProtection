@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.268
 # Release: 268
-# Entries: 68,552
+# Entries: 68,553
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 25 Sep 22 04:07:01
+# Updated: Sun, 25 Sep 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -38133,6 +38133,7 @@
 0.0.0.0 mypushz.com
 0.0.0.0 myqservice.com.ar
 0.0.0.0 myqualifica.fun
+0.0.0.0 myquotespro.com
 0.0.0.0 myramark.com
 0.0.0.0 myrdrcts.com
 0.0.0.0 myroitracking.com
