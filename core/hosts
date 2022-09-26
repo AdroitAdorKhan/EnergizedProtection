@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.270
 # Release: 270
-# Entries: 68,614
+# Entries: 68,618
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 27 Sep 22 00:07:02
+# Updated: Tue, 27 Sep 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -4494,6 +4494,7 @@
 0.0.0.0 ads-config.op-mobile.opera.com
 0.0.0.0 ads-corelio.adhese.com
 0.0.0.0 ads-dazn.adhese.com
+0.0.0.0 ads-delivery.b-cdn.net
 0.0.0.0 ads-demo.adhese.com
 0.0.0.0 ads-doc.adhese.com
 0.0.0.0 ads-dot-fbc-web-2018.uc.r.appspot.com
@@ -52301,6 +52302,7 @@
 0.0.0.0 shopusuallyvirtue.com
 0.0.0.0 shopworld.info
 0.0.0.0 shopzyapp.com
+0.0.0.0 shorantonto.com
 0.0.0.0 shoreexi.net
 0.0.0.0 shoresmmrnews.com
 0.0.0.0 short.adnet.cash
@@ -60171,6 +60173,7 @@
 0.0.0.0 umkjohgjhhffm.xyz
 0.0.0.0 umnruwtrfjyp.com
 0.0.0.0 umpackpc.ucweb.com
+0.0.0.0 umpirenuphar.digital
 0.0.0.0 umpweefuyfgxlei.com
 0.0.0.0 umtnycoscl.xyz
 0.0.0.0 umukfuyianwuqn.com
@@ -67067,6 +67070,7 @@
 0.0.0.0 xgvyjjguxvxmr.xyz
 0.0.0.0 xgwqjjgwhgke.com
 0.0.0.0 xgxjpmie.xyz
+0.0.0.0 xgzyfpmfkxa.com
 0.0.0.0 xh.video
 0.0.0.0 xhamster-deutsch.biz
 0.0.0.0 xhamstercams.com
