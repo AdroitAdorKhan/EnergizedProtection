@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.269
 # Release: 269
-# Entries: 68,569
+# Entries: 68,570
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 26 Sep 22 12:07:02
+# Updated: Mon, 26 Sep 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -66119,6 +66119,7 @@
 0.0.0.0 www.snitchcompany.com
 0.0.0.0 www.snkre.com
 0.0.0.0 www.snoreempire.com
+0.0.0.0 www.snorefamiliarsiege.com
 0.0.0.0 www.sobalf.com
 0.0.0.0 www.socalleddemocratstripe.com
 0.0.0.0 www.soccerjumbotv1.me
