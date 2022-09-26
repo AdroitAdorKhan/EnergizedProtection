@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.269
 # Release: 269
-# Entries: 68,563
+# Entries: 68,564
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 26 Sep 22 04:07:01
+# Updated: Mon, 26 Sep 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20245,6 +20245,7 @@
 0.0.0.0 dognme.com
 0.0.0.0 dogolurkr.com
 0.0.0.0 dogsshoes.com
+0.0.0.0 dogwoodjoshed.digital
 0.0.0.0 dogwrite.com
 0.0.0.0 dohealforyou.com
 0.0.0.0 doigtepyramid.com
