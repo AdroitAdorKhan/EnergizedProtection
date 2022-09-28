@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.271
 # Release: 271
-# Entries: 68,681
+# Entries: 68,683
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 28 Sep 22 04:07:02
+# Updated: Wed, 28 Sep 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7072,6 +7072,7 @@
 0.0.0.0 amuletsld.com
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
+0.0.0.0 amusedcoating.digital
 0.0.0.0 amusementmorning.com
 0.0.0.0 amusemystic.com
 0.0.0.0 amwoukrks.autos
@@ -47249,6 +47250,7 @@
 0.0.0.0 publpush.com
 0.0.0.0 publy-static.aquaplatform.com
 0.0.0.0 publy.net
+0.0.0.0 publzuza.live
 0.0.0.0 pubmaner5.com
 0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmatic.com
