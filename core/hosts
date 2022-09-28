@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.272
 # Release: 272
-# Entries: 68,718
+# Entries: 68,719
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 29 Sep 22 00:07:02
+# Updated: Thu, 29 Sep 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19292,6 +19292,7 @@
 0.0.0.0 dentaltogether.com
 0.0.0.0 dentofinauk.shop
 0.0.0.0 dentoshine.com
+0.0.0.0 dentpaniccheeky.com
 0.0.0.0 denunciator.dimenxion.es
 0.0.0.0 denza.pro
 0.0.0.0 deorganizati.co
