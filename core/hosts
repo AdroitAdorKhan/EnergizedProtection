@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.09.272
-# Release: 272
-# Entries: 68,986
+# Version: 22.09.273
+# Release: 273
+# Entries: 69,002
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 29 Sep 22 20:07:02
+# Updated: Fri, 30 Sep 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6216,6 +6216,7 @@
 0.0.0.0 agitasi.id
 0.0.0.0 agitatesuggestneighbouring.com
 0.0.0.0 agl-intl.hotstar.com
+0.0.0.0 aglaulou.com
 0.0.0.0 agle21xe2anfddirite.com
 0.0.0.0 aglenergy.demdex.net
 0.0.0.0 agletmagilp.com
@@ -6255,6 +6256,7 @@
 0.0.0.0 agusanplantation.com
 0.0.0.0 aguttfdnoipmlv.xyz
 0.0.0.0 agyak.com
+0.0.0.0 agytmylvjkbac.com
 0.0.0.0 agzfxovg.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahacdn.me
@@ -7347,6 +7349,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gorillanation.com
 0.0.0.0 analytics.groupe-seb.com
+0.0.0.0 analytics.growthphysics.com
 0.0.0.0 analytics.grupogodo.com-v1.edgekey.net
 0.0.0.0 analytics.hansel.io
 0.0.0.0 analytics.hapyak.com
@@ -18260,6 +18263,7 @@
 0.0.0.0 d1j47wsepxe9u2.cloudfront.net
 0.0.0.0 d1jcj9gy98l90g.cloudfront.net
 0.0.0.0 d1jow6p6g37b9u.cloudfront.net
+0.0.0.0 d1jwpd11ofhd5g.cloudfront.net
 0.0.0.0 d1mdhw23tj9j17.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
 0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
@@ -22657,6 +22661,7 @@
 0.0.0.0 es.pubguru.com
 0.0.0.0 es54i9g7p7xh.com
 0.0.0.0 esakip.dev.semarangkab.go.id
+0.0.0.0 esathyaspsu.xyz
 0.0.0.0 esatsjvxcdqch.xyz
 0.0.0.0 esauwoan.com
 0.0.0.0 escalatenetwork.com
@@ -23217,6 +23222,7 @@
 0.0.0.0 exomonyf.com
 0.0.0.0 exoner.com
 0.0.0.0 exoprsdds.com
+0.0.0.0 exopthassar.com
 0.0.0.0 exoticads.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 exp6m7soyor.com
@@ -25942,6 +25948,7 @@
 0.0.0.0 geebicom.net
 0.0.0.0 geedoovu.net
 0.0.0.0 geehizie.com
+0.0.0.0 geejooji.com
 0.0.0.0 geek-gadget.net
 0.0.0.0 geekcash.org
 0.0.0.0 geekjosh.com
@@ -30811,6 +30818,7 @@
 0.0.0.0 intermediarymarkswe.com
 0.0.0.0 intermediarypurchaser.com
 0.0.0.0 intermediatetonightsituation.com
+0.0.0.0 internal-analytics.odoo.com
 0.0.0.0 internalsink.com
 0.0.0.0 internebula.net
 0.0.0.0 internet.elcorreo.com
@@ -36081,6 +36089,7 @@
 0.0.0.0 marktcom.h-bid.com
 0.0.0.0 marktest.pt
 0.0.0.0 marktplaats.demdex.net
+0.0.0.0 marlpitbucku.com
 0.0.0.0 marmaris.com.br
 0.0.0.0 marnersstyler.ug
 0.0.0.0 maroohost.online
@@ -39499,6 +39508,7 @@
 0.0.0.0 noawhaub.net
 0.0.0.0 noawhupt.net
 0.0.0.0 nobbutaaru.com
+0.0.0.0 nobiol.com
 0.0.0.0 nobius.org
 0.0.0.0 noblefun.net
 0.0.0.0 noblemandrovebreeches.com
@@ -50418,6 +50428,7 @@
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
 0.0.0.0 rsalchk.com
+0.0.0.0 rsationhesaid.xyz
 0.0.0.0 rsbyksjtejlhhlr.xyz
 0.0.0.0 rsc-host.com
 0.0.0.0 rscomponentsltd.tt.omtrdc.net
@@ -50622,6 +50633,7 @@
 0.0.0.0 rukoval.com
 0.0.0.0 rukplaza.com
 0.0.0.0 ruleconnectexpire.com
+0.0.0.0 rulefloor.com
 0.0.0.0 rulejanuary.com
 0.0.0.0 rulemonster.com
 0.0.0.0 rules.quantcount.com
@@ -57564,6 +57576,7 @@
 0.0.0.0 timteen.com
 0.0.0.0 timull.com
 0.0.0.0 tinbuadserv.com
+0.0.0.0 tincalsamiably.website
 0.0.0.0 tindocumentary.com
 0.0.0.0 tineriibucuresteni.ro
 0.0.0.0 tingdepaar.space
@@ -60883,6 +60896,7 @@
 0.0.0.0 uporods.com
 0.0.0.0 uposit.me
 0.0.0.0 uppababy.pro
+0.0.0.0 uppardjets.com
 0.0.0.0 uppcf.org
 0.0.0.0 uppftnaqefi.com
 0.0.0.0 uppilt.com
@@ -61113,6 +61127,7 @@
 0.0.0.0 usinesmycete.xyz
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 usingstrikingindoors.com
+0.0.0.0 usingswhoring.com
 0.0.0.0 usitausinagem.com.br
 0.0.0.0 uslioert.com
 0.0.0.0 uslmatroer.com
@@ -67684,6 +67699,7 @@
 0.0.0.0 xptlogin.ksmobile.com
 0.0.0.0 xpx7heciz9.com
 0.0.0.0 xpxye.rdtk.io
+0.0.0.0 xpyqoxxnrwookj.com
 0.0.0.0 xqbervetkiq.com
 0.0.0.0 xqcnldtnwosanbn.com
 0.0.0.0 xqgvniijrpjctj.com
