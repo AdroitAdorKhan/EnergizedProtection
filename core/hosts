@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 69,032
+# Entries: 69,033
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 30 Sep 22 12:07:02
+# Updated: Fri, 30 Sep 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9282,6 +9282,7 @@
 0.0.0.0 atom-log.3.cn
 0.0.0.0 atombearable.com
 0.0.0.0 atomex.net
+0.0.0.0 atomheal.live
 0.0.0.0 atomic-soft.com
 0.0.0.0 atomlines.top
 0.0.0.0 atonato.de
