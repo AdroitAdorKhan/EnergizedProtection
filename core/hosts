@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.275
-# Release: 275
-# Entries: 69,382
+# Version: 22.10.276
+# Release: 276
+# Entries: 69,387
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 02 Oct 22 20:07:01
+# Updated: Mon, 03 Oct 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20464,6 +20464,7 @@
 0.0.0.0 dogilar.com
 0.0.0.0 dognme.com
 0.0.0.0 dogolurkr.com
+0.0.0.0 dogshipuniate.live
 0.0.0.0 dogsshoes.com
 0.0.0.0 dogwoodjoshed.digital
 0.0.0.0 dogwrite.com
@@ -43121,6 +43122,7 @@
 0.0.0.0 percephonefruit70.com
 0.0.0.0 perceuslok071.com
 0.0.0.0 perchapocalypse.com
+0.0.0.0 percidupdos.guru
 0.0.0.0 percussivepuncture.com
 0.0.0.0 perdej.000webhostapp.com
 0.0.0.0 perf.cdnads.com
@@ -51280,6 +51282,7 @@
 0.0.0.0 saensuwaan.com
 0.0.0.0 saervilohim.top
 0.0.0.0 safaa.net.in
+0.0.0.0 safarlysins.com
 0.0.0.0 safe.tclclouds.com
 0.0.0.0 safe.ucweb.com
 0.0.0.0 safeattributeexcept.com
@@ -54510,6 +54513,7 @@
 0.0.0.0 spug-lhr.pubmatic.com
 0.0.0.0 spug22000nf.pubmatic.com
 0.0.0.0 spug44000c.pubmatic.com
+0.0.0.0 spuggysorbol.website
 0.0.0.0 spunkycash.com
 0.0.0.0 spuobvix.com
 0.0.0.0 spuriousbase.com
@@ -63348,6 +63352,7 @@
 0.0.0.0 weaselfundamental.com
 0.0.0.0 weather2db.cmcm.com
 0.0.0.0 weatherbarbecue.com
+0.0.0.0 weatherplllatform.com
 0.0.0.0 weaveconcretefreakish.com
 0.0.0.0 weavehermichermicstuffy.com
 0.0.0.0 weaveradrenaline.com
