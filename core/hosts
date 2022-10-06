@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.279
 # Release: 279
-# Entries: 69,702
+# Entries: 69,704
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 06 Oct 22 12:07:02
+# Updated: Thu, 06 Oct 22 16:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12107,6 +12107,7 @@
 0.0.0.0 blrvpn.inmobi.com
 0.0.0.0 bls.adalliance.io
 0.0.0.0 blsrs.shop
+0.0.0.0 blsrsr.shop
 0.0.0.0 bltclub.page.link
 0.0.0.0 bltqihelan.xyz
 0.0.0.0 blu5fdclr.com
@@ -24326,7 +24327,6 @@
 0.0.0.0 ffvanmqnpuilqv.xyz
 0.0.0.0 ffwjkbruvypv.com
 0.0.0.0 ffwsikuftgfhs.xyz
-0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fgafkk.com
 0.0.0.0 fgaqwtr.com
 0.0.0.0 fgbmylbc.com
@@ -34326,6 +34326,7 @@
 0.0.0.0 lehechapunevent.com
 0.0.0.0 lehnhausen.nl
 0.0.0.0 lehtymns.com
+0.0.0.0 leig.shop
 0.0.0.0 leigunfax.com
 0.0.0.0 leisengr.com
 0.0.0.0 leisurebrain.com
@@ -55533,6 +55534,7 @@
 0.0.0.0 stats.ivpn.net
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.justpremium.com
+0.0.0.0 stats.landingi.com
 0.0.0.0 stats.lptracker.ru
 0.0.0.0 stats.mainroll.com
 0.0.0.0 stats.migolive.com
