@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.280
-# Release: 280
-# Entries: 69,838
+# Version: 22.10.281
+# Release: 281
+# Entries: 69,845
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 07 Oct 22 20:07:02
+# Updated: Sat, 08 Oct 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -2968,6 +2968,7 @@
 0.0.0.0 abakys.ru
 0.0.0.0 abandonedaction.com
 0.0.0.0 abandonrecommendationwars.com
+0.0.0.0 abange.com
 0.0.0.0 abasgimental.com
 0.0.0.0 abashcoppercocky.com
 0.0.0.0 abasir.com
@@ -14528,6 +14529,7 @@
 0.0.0.0 celeritascdn.com
 0.0.0.0 celeryisolatedproject.com
 0.0.0.0 celhocortofilmfestival.stream
+0.0.0.0 celign.com
 0.0.0.0 celikkapici.gen.tr
 0.0.0.0 cellaraudacityslack.com
 0.0.0.0 cellarretro.com
@@ -21173,6 +21175,7 @@
 0.0.0.0 dti-ranker.com
 0.0.0.0 dtiserv2.com
 0.0.0.0 dtlavleen.online
+0.0.0.0 dtmm9h2satghl.cloudfront.net
 0.0.0.0 dtnpyvmqqvvgq.com
 0.0.0.0 dtoo1.space
 0.0.0.0 dtprofit.com
@@ -31746,6 +31749,7 @@
 0.0.0.0 itsup.com
 0.0.0.0 itsupport.outbrain.com
 0.0.0.0 ittehad-electric.com
+0.0.0.0 itthatsheis.one
 0.0.0.0 ittogepiom.com
 0.0.0.0 ittorchicer.com
 0.0.0.0 ituqqdepo.com
@@ -38648,6 +38652,7 @@
 0.0.0.0 mummypepdye.com
 0.0.0.0 mumosy.com
 0.0.0.0 mumsimso.net
+0.0.0.0 mumuendakuthyfo.xyz
 0.0.0.0 munbrand.com
 0.0.0.0 munchenviableski.com
 0.0.0.0 mundanenail.com
@@ -54895,6 +54900,7 @@
 0.0.0.0 spurioussteam.com
 0.0.0.0 spuriousstranger.com
 0.0.0.0 spurproteinopaque.com
+0.0.0.0 spursg.shop
 0.0.0.0 spv-nydc1.outbrain.com
 0.0.0.0 spvideos.bitsngo.net
 0.0.0.0 spxgstpkghmsxg.com
@@ -55671,6 +55677,7 @@
 0.0.0.0 stats.rustica.fr
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.seedr.com
+0.0.0.0 stats.seotraff.team
 0.0.0.0 stats.slideshare.net
 0.0.0.0 stats.snaptasti.cc
 0.0.0.0 stats.someecards.com
