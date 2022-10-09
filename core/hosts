@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.282
-# Release: 282
-# Entries: 69,918
+# Version: 22.10.283
+# Release: 283
+# Entries: 69,922
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 09 Oct 22 20:07:02
+# Updated: Mon, 10 Oct 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -12008,6 +12008,7 @@
 0.0.0.0 blck4d.com
 0.0.0.0 blckrnbw.com
 0.0.0.0 ble33n.shop
+0.0.0.0 ble3ds2.shop
 0.0.0.0 bleaborahm.one
 0.0.0.0 bleachfamouszinc.com
 0.0.0.0 bleandworld.xyz
@@ -20475,6 +20476,7 @@
 0.0.0.0 dmdagents.com.au
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dmdxhrne.com
+0.0.0.0 dmefzwha.com
 0.0.0.0 dmeq7blex6x1u.cloudfront.net
 0.0.0.0 dmerwehdd.com
 0.0.0.0 dmevolution.com
@@ -28450,6 +28452,7 @@
 0.0.0.0 hdrboiromo.com
 0.0.0.0 hdtvcloud.com
 0.0.0.0 hdvcode.com
+0.0.0.0 hdvhmdred.com
 0.0.0.0 hdvideosnet.com
 0.0.0.0 hdzog.ahcdn.com
 0.0.0.0 he.adar-and-ido.com
@@ -69640,6 +69643,7 @@
 0.0.0.0 zealousfield.com
 0.0.0.0 zealousquickly.com
 0.0.0.0 zeasis.com
+0.0.0.0 zebcqbxbtw.com
 0.0.0.0 zebestof.com
 0.0.0.0 zebra.umeng.com
 0.0.0.0 zebraicrudista.com
