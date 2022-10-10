@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.284
 # Release: 284
-# Entries: 70,009
+# Entries: 70,010
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 11 Oct 22 00:07:02
+# Updated: Tue, 11 Oct 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -25198,6 +25198,7 @@
 0.0.0.0 formularapida.com.br
 0.0.0.0 formulationdrugstore.com
 0.0.0.0 formulawire.com
+0.0.0.0 forognal.com
 0.0.0.0 forre.st
 0.0.0.0 forsage-tour.com
 0.0.0.0 forsakevanished.com
