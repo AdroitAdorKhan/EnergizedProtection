@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.284
 # Release: 284
-# Entries: 70,010
+# Entries: 70,011
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 11 Oct 22 04:07:01
+# Updated: Tue, 11 Oct 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -9476,6 +9476,7 @@
 0.0.0.0 audio4-akp.spotify.com.edgesuite.net
 0.0.0.0 audioarctic.com
 0.0.0.0 audioexaminationearl.com
+0.0.0.0 audiograb.net
 0.0.0.0 audioknigi.club
 0.0.0.0 audionews.fm
 0.0.0.0 audiosech.xyz
