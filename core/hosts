@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.287
 # Release: 287
-# Entries: 70,519
+# Entries: 70,521
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 14 Oct 22 16:07:02
+# Updated: Fri, 14 Oct 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17743,6 +17743,7 @@
 0.0.0.0 crash.snssdk.com
 0.0.0.0 crash.steampowered.com
 0.0.0.0 crash.tiki.video
+0.0.0.0 crashchance.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlogs.mobilegame.woniu.com
 0.0.0.0 crashlogs.whatsapp.net
@@ -28398,6 +28399,7 @@
 0.0.0.0 handlingfaster.com
 0.0.0.0 handsomedisadvantageglued.com
 0.0.0.0 handsomeher.com.au
+0.0.0.0 handsomehose.com
 0.0.0.0 handsomeindustry.com
 0.0.0.0 handsomelyhealth.com
 0.0.0.0 handtub.com
