@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.289
 # Release: 289
-# Entries: 70,961
+# Entries: 70,962
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 16 Oct 22 16:07:02
+# Updated: Sun, 16 Oct 22 20:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -11135,6 +11135,7 @@
 0.0.0.0 beacon.9165619.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.digima.com
+0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.flipboard.com
 0.0.0.0 beacon.gutefrage.net
 0.0.0.0 beacon.kmi-us.com
