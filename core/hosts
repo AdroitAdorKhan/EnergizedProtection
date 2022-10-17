@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.290
 # Release: 290
-# Entries: 70,966
+# Entries: 70,968
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Oct 22 08:07:02
+# Updated: Mon, 17 Oct 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -35880,6 +35880,7 @@
 0.0.0.0 log5-applog-lq.ixigua.com
 0.0.0.0 log5-applog.ixigua.com
 0.0.0.0 logaholic.com
+0.0.0.0 loganfeels.com
 0.0.0.0 loganlogisticss.com
 0.0.0.0 logapi.tv.naver.com
 0.0.0.0 logapi.zhipin.com
@@ -54198,6 +54199,7 @@
 0.0.0.0 shuptiwywhu.com
 0.0.0.0 shusacem.net
 0.0.0.0 shustuxyxe.com
+0.0.0.0 shutesaroph.com
 0.0.0.0 shutplumptravels.com
 0.0.0.0 shutseashore.com
 0.0.0.0 shuttlezonebt.com
