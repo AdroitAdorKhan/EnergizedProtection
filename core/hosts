@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.290
-# Release: 290
-# Entries: 71,003
+# Version: 22.10.291
+# Release: 291
+# Entries: 71,008
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 17 Oct 22 20:07:08
+# Updated: Tue, 18 Oct 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -5625,6 +5625,7 @@
 0.0.0.0 adtrack.voicestar.com
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtrackers.net
+0.0.0.0 adtracking.smartmediarep.com
 0.0.0.0 adtrackingflow.pro
 0.0.0.0 adtraction.com
 0.0.0.0 adtrade.net
@@ -7627,6 +7628,7 @@
 0.0.0.0 analytics.ouc.ac.cy
 0.0.0.0 analytics.ovative.com
 0.0.0.0 analytics.ovh.com
+0.0.0.0 analytics.oyorooms.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.partcommunity.com
 0.0.0.0 analytics.performable.com
@@ -26567,6 +26569,7 @@
 0.0.0.0 gateway-banner.eravage.com
 0.0.0.0 gateway.answerscloud.com
 0.0.0.0 gateway.arc.io
+0.0.0.0 gateway.cloud.sbs.co.kr
 0.0.0.0 gateway.fortunelounge.com
 0.0.0.0 gateway.speedera.net
 0.0.0.0 gateway.ttpsdk.info
@@ -42012,6 +42015,7 @@
 0.0.0.0 ol.jp.at.atwola.com
 0.0.0.0 ol.uk.at.atwola.com
 0.0.0.0 ol5iz.bemobtrk.com
+0.0.0.0 olaplog.smartmediarep.com
 0.0.0.0 olarshalrolli.com
 0.0.0.0 olasconsulting.com
 0.0.0.0 olatumal.com
@@ -48757,6 +48761,7 @@
 0.0.0.0 ptwmjmp.com
 0.0.0.0 ptystuthyglo.com
 0.0.0.0 ptywajofa.pro
+0.0.0.0 ptztvpremium.com
 0.0.0.0 pu.trafficshop.com
 0.0.0.0 pu.vuer.net
 0.0.0.0 pu1.biz
