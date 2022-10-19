@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.292
 # Release: 292
-# Entries: 71,131
+# Entries: 71,132
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 19 Oct 22 16:07:08
+# Updated: Wed, 19 Oct 22 20:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -35403,6 +35403,7 @@
 0.0.0.0 linkclicks.com
 0.0.0.0 linkconnector.com
 0.0.0.0 linkdoni.soft98.ir
+0.0.0.0 linkedassassin.com
 0.0.0.0 linkedexperienceddistant.com
 0.0.0.0 linkedgraceless.com
 0.0.0.0 linkedprepenseprepense.com
