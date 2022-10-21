@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.294
-# Release: 294
-# Entries: 71,380
+# Version: 22.10.295
+# Release: 295
+# Entries: 71,394
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 21 Oct 22 20:07:02
+# Updated: Sat, 22 Oct 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -16822,6 +16822,7 @@
 0.0.0.0 collector.cloudmosa.net
 0.0.0.0 collector.eqads.com
 0.0.0.0 collector.faphouse.com
+0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
@@ -18329,6 +18330,7 @@
 0.0.0.0 cts.tradepub.com
 0.0.0.0 cttfemdig.xyz
 0.0.0.0 cttghjfhsw.com
+0.0.0.0 ctuklyeconnec.xyz
 0.0.0.0 ctureperform.info
 0.0.0.0 ctvnjawmj.com
 0.0.0.0 ctvoxmcmkefid.xyz
@@ -19413,6 +19415,7 @@
 0.0.0.0 datingmaniavip.com
 0.0.0.0 datingmatcher.life
 0.0.0.0 datingsexmeet2.com
+0.0.0.0 datingshall.life
 0.0.0.0 datingspot.life
 0.0.0.0 datingstyle.top
 0.0.0.0 datingtoday.top
@@ -20849,6 +20852,7 @@
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm0qx8t0i9gc9.cloudfront.net
+0.0.0.0 dm62uysn32ppt.cloudfront.net
 0.0.0.0 dmaaxglcr.com
 0.0.0.0 dmaicinnovations.com
 0.0.0.0 dmanalytics1.com
@@ -26740,6 +26744,7 @@
 0.0.0.0 gc.zgo.at
 0.0.0.0 gcafdhiacibjafajadi.ru
 0.0.0.0 gcbldxsq.xyz
+0.0.0.0 gccadrqbswqrxij.com
 0.0.0.0 gccon.in
 0.0.0.0 gcd-s2s.appsflyer.com
 0.0.0.0 gcdecxcibmsv.com
@@ -42149,6 +42154,7 @@
 0.0.0.0 ohcohz.stroeerdp.de
 0.0.0.0 ohdsugcylb.xyz
 0.0.0.0 ohelloguyzzqq.com
+0.0.0.0 oherhome.xyz
 0.0.0.0 ohiyweskmejil.xyz
 0.0.0.0 ohkccfnljddsao.com
 0.0.0.0 ohkdsplu.com
@@ -42731,6 +42737,7 @@
 0.0.0.0 optiads.org
 0.0.0.0 opticalavenue.net
 0.0.0.0 optickscdn-d88f.kxcdn.com
+0.0.0.0 optidownloader.com
 0.0.0.0 optiforce.optimizely.com
 0.0.0.0 optify.net
 0.0.0.0 optihealthwellness.com
@@ -44198,6 +44205,7 @@
 0.0.0.0 pbkqidejmes.ru
 0.0.0.0 pbndswdswyhdjfn.com
 0.0.0.0 pbnet.ru
+0.0.0.0 pbniuvctybu.com
 0.0.0.0 pbnkcnjfnikjserv.org
 0.0.0.0 pbox.photobox.de
 0.0.0.0 pbprof.com
@@ -44524,6 +44532,7 @@
 0.0.0.0 pertersacstyli.com
 0.0.0.0 pertfair.com
 0.0.0.0 pertyvaluati.com
+0.0.0.0 pertyvaluationia.monster
 0.0.0.0 perukesoorial.com
 0.0.0.0 peruseinvitation.com
 0.0.0.0 peruviancultures.com
@@ -51042,6 +51051,7 @@
 0.0.0.0 relativefraudulentprop.com
 0.0.0.0 relaxtime24.biz
 0.0.0.0 relay-sentry-fp.line-apps.com
+0.0.0.0 relay.fiverr.com
 0.0.0.0 relead.com
 0.0.0.0 releasedfinish.com
 0.0.0.0 releasedrewardexcitedly.com
@@ -52454,6 +52464,7 @@
 0.0.0.0 rxehwaddupxlmlx.com
 0.0.0.0 rxfttmmtljpt.xyz
 0.0.0.0 rxhrlimarwdw.com
+0.0.0.0 rxjfsewuypfcco.com
 0.0.0.0 rxkmahwjvb.com
 0.0.0.0 rxthdr.com
 0.0.0.0 rxtun.bemobtrk.com
@@ -62712,6 +62723,7 @@
 0.0.0.0 ungratefulnaivenearest.com
 0.0.0.0 ungroudonchan.com
 0.0.0.0 ungstlateriag.club
+0.0.0.0 unhabi.com
 0.0.0.0 unhappywaxdamaging.com
 0.0.0.0 unhdeagqmq.com
 0.0.0.0 unhelerrevoke.website
@@ -63684,6 +63696,7 @@
 0.0.0.0 vegendgeouties.com
 0.0.0.0 vehavings.biz
 0.0.0.0 vehemenceclung.com
+0.0.0.0 vehese.com
 0.0.0.0 vehicle-insurance-quote.com
 0.0.0.0 veih8bee.xhcdn.com
 0.0.0.0 veilingchaufer.life
@@ -66405,6 +66418,7 @@
 0.0.0.0 wuihplrxyhht.com
 0.0.0.0 wuksaiho.net
 0.0.0.0 wulspyjcye.xyz
+0.0.0.0 wumpeeps.net
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderloop.net
 0.0.0.0 wunteetoco.com
