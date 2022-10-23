@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.296
-# Release: 296
-# Entries: 71,589
+# Version: 22.10.297
+# Release: 297
+# Entries: 71,600
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 23 Oct 22 20:07:02
+# Updated: Mon, 24 Oct 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -14235,6 +14235,7 @@
 0.0.0.0 cbleads.com
 0.0.0.0 cbmetrics.clickbank.com
 0.0.0.0 cbmiocw.com
+0.0.0.0 cbmseahfxf.com
 0.0.0.0 cboauggxskf.xyz
 0.0.0.0 cbqhscpjgopxe.com
 0.0.0.0 cbsi.report-uri.io
@@ -19033,6 +19034,7 @@
 0.0.0.0 d3nel6rcmq5lzw.cloudfront.net
 0.0.0.0 d3nq5jrakcyw1w.cloudfront.net
 0.0.0.0 d3numuoibysgi8.cloudfront.net
+0.0.0.0 d3ohee25hhsn8j.cloudfront.net
 0.0.0.0 d3ou4areduq72f.cloudfront.net
 0.0.0.0 d3oy68whu51rnt.cloudfront.net
 0.0.0.0 d3p.trafficmagnates.com
@@ -28313,6 +28315,7 @@
 0.0.0.0 gripelive.com
 0.0.0.0 gripemail.com
 0.0.0.0 gripetravel.com
+0.0.0.0 gripqueer.com
 0.0.0.0 grirault.net
 0.0.0.0 griseldaferreyra.com
 0.0.0.0 gristleupanaya.com
@@ -31904,6 +31907,7 @@
 0.0.0.0 intelcorporation.tt.omtrdc.net
 0.0.0.0 intelensafrete.stream
 0.0.0.0 intelherbpharm.com
+0.0.0.0 intellectualcarlaintended.com
 0.0.0.0 intellectualcontradictstuck.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelliad.de
@@ -43078,6 +43082,7 @@
 0.0.0.0 otevebvuq.com
 0.0.0.0 otgservices.com
 0.0.0.0 oth.mgid.com
+0.0.0.0 othandhadb.xyz
 0.0.0.0 othbhe2.com
 0.0.0.0 othecheb.net
 0.0.0.0 othepbuttit.com
@@ -49379,6 +49384,7 @@
 0.0.0.0 purposeparking.com
 0.0.0.0 purpreine.co
 0.0.0.0 pursediscern.com
+0.0.0.0 pursedistraught.com
 0.0.0.0 pursuitnauseousinvalid.com
 0.0.0.0 pusatbahasa.unsyiah.ac.id
 0.0.0.0 puscxnhsksnunxs.com
@@ -51255,6 +51261,7 @@
 0.0.0.0 removertillo.top
 0.0.0.0 renaissancealoof.com
 0.0.0.0 renaissanceregretfulpupil.com
+0.0.0.0 renaissancewednesday.com
 0.0.0.0 renaissanto.com
 0.0.0.0 renamedineffective.com
 0.0.0.0 renatoraquetes.com.br
@@ -54509,6 +54516,7 @@
 0.0.0.0 shockingstrategynovelty.com
 0.0.0.0 shocucache.com
 0.0.0.0 shodcryoft.com
+0.0.0.0 shoecamep.one
 0.0.0.0 shoescreak.com
 0.0.0.0 shoesica.com
 0.0.0.0 shoesvalley.cn
@@ -57187,6 +57195,7 @@
 0.0.0.0 stemgthrop.one
 0.0.0.0 stempelcosier.com
 0.0.0.0 stenadewy.pro
+0.0.0.0 stenchdaltonrunaway.com
 0.0.0.0 step-step-go.com
 0.0.0.0 stepfatherparamedicthem.com
 0.0.0.0 stepkeydo.com
@@ -63211,6 +63220,7 @@
 0.0.0.0 upv4.moatads.com
 0.0.0.0 upwardsdecreasecommitment.com
 0.0.0.0 upwardsearnest.com
+0.0.0.0 upwate.com
 0.0.0.0 upwelf.com
 0.0.0.0 upwportugal.com
 0.0.0.0 upyfmtqvgsh.com
@@ -70914,6 +70924,7 @@
 0.0.0.0 yourprivacy.icu
 0.0.0.0 yourprofitable-house.life
 0.0.0.0 yourquickads.com
+0.0.0.0 yourselfprudence.com
 0.0.0.0 yourselpercale.website
 0.0.0.0 yoursexpartner5.com
 0.0.0.0 yoursexydream12.com
