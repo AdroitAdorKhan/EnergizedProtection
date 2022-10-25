@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.299
 # Release: 299
-# Entries: 71,716
+# Entries: 71,718
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 26 Oct 22 00:07:01
+# Updated: Wed, 26 Oct 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -49460,6 +49460,7 @@
 0.0.0.0 purposedesigns.net
 0.0.0.0 purposelynextbinary.com
 0.0.0.0 purposeparking.com
+0.0.0.0 purposephantomalways.com
 0.0.0.0 purpreine.co
 0.0.0.0 pursediscern.com
 0.0.0.0 pursedistraught.com
@@ -61520,6 +61521,7 @@
 0.0.0.0 tracking.tomshardware.com
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 tracking.ukwm.co.uk
+0.0.0.0 tracking.univtec.com
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.venturify.at
 0.0.0.0 tracking.vprtrk.com
