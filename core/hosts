@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.298
 # Release: 298
-# Entries: 71,701
+# Entries: 71,702
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 25 Oct 22 16:07:02
+# Updated: Tue, 25 Oct 22 20:07:07
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17771,6 +17771,7 @@
 0.0.0.0 counter.personyze.com
 0.0.0.0 counter.pixplug.in
 0.0.0.0 counter.rambler.ru
+0.0.0.0 counter.sberbank.ru
 0.0.0.0 counter.scribblelive.com
 0.0.0.0 counter.sibnet.ru
 0.0.0.0 counter.snackly.co
