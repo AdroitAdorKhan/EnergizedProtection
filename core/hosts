@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.299
 # Release: 299
-# Entries: 71,718
+# Entries: 71,720
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 26 Oct 22 04:07:02
+# Updated: Wed, 26 Oct 22 08:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -19005,6 +19005,7 @@
 0.0.0.0 d33fc9uy0cnxl9.cloudfront.net
 0.0.0.0 d347b8264a61d229bec175972d08ae24.report-uri.io
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
+0.0.0.0 d35kbxc0t24sp8.cloudfront.net
 0.0.0.0 d35uxhjf90umnp.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
@@ -65757,6 +65758,7 @@
 0.0.0.0 wemql.bemobtrk.com
 0.0.0.0 wemsacker.com
 0.0.0.0 wencollection.com
+0.0.0.0 wengesog.net
 0.0.0.0 wengservice.com.br
 0.0.0.0 wensoono.com
 0.0.0.0 wentwidespread.com
