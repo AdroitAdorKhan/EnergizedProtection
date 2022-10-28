@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.10.301
-# Release: 301
-# Entries: 71,919
+# Version: 22.10.302
+# Release: 302
+# Entries: 71,925
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 28 Oct 22 20:07:02
+# Updated: Sat, 29 Oct 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7424,6 +7424,7 @@
 0.0.0.0 analytics.comunio.de
 0.0.0.0 analytics.comunio.net
 0.0.0.0 analytics.constant.co
+0.0.0.0 analytics.contentexchange.me
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.copyright.com
@@ -26931,6 +26932,7 @@
 0.0.0.0 gcxufcvwtiq.com
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gdblhuaqevoh.xyz
+0.0.0.0 gddghktygtmc.com
 0.0.0.0 gdeua.hit.gemius.pl
 0.0.0.0 gdggdceehihgbgigadj.ru
 0.0.0.0 gdh4szx.appspot.com
@@ -27906,6 +27908,7 @@
 0.0.0.0 goclick.info
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 gocut.com
+0.0.0.0 goddamnhowks.tech
 0.0.0.0 goddessclad.com
 0.0.0.0 goddessrig.com
 0.0.0.0 godentalcare.com.au
@@ -28628,6 +28631,7 @@
 0.0.0.0 gucfrhedyaehoit.xyz
 0.0.0.0 guchihyfa.pro
 0.0.0.0 gueigdtqfrcdvo.com
+0.0.0.0 guemalsutu.tech
 0.0.0.0 guerreroalinstante.com.mx
 0.0.0.0 guesswow.com
 0.0.0.0 guesteaten.com
@@ -40558,6 +40562,7 @@
 0.0.0.0 neighchurch.com
 0.0.0.0 neitherentrailsrim.com
 0.0.0.0 nelberk.com
+0.0.0.0 nelkennere.uno
 0.0.0.0 nellads.com
 0.0.0.0 nellydwiputri.co.id
 0.0.0.0 nelo2-col.linecorp.com
@@ -55661,6 +55666,7 @@
 0.0.0.0 snarecathedrallipstick.com
 0.0.0.0 snaretoeburp.work
 0.0.0.0 snarlleadenpsychology.com
+0.0.0.0 snasteewery.uno
 0.0.0.0 snat.goguardian.com
 0.0.0.0 snatchweedswimsuit.com
 0.0.0.0 snatyofenvkl.com
