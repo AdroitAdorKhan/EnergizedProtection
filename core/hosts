@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.304
 # Release: 304
-# Entries: 72,097
+# Entries: 72,098
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 31 Oct 22 00:07:01
+# Updated: Mon, 31 Oct 22 04:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -59126,6 +59126,7 @@
 0.0.0.0 taspectsofcu.com
 0.0.0.0 taspinarli-logistik.com
 0.0.0.0 tassa.mx
+0.0.0.0 tassercrang.space
 0.0.0.0 tassira.com
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tastelesstrees.com
