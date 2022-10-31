@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.10.304
 # Release: 304
-# Entries: 72,098
+# Entries: 72,100
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 31 Oct 22 04:07:01
+# Updated: Mon, 31 Oct 22 08:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -6714,6 +6714,7 @@
 0.0.0.0 algothitaon.com
 0.0.0.0 alhist.com
 0.0.0.0 alhypnoom.com
+0.0.0.0 ali-crm.ru
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 aliadvert.ru
 0.0.0.0 aliascagesboxer.com
@@ -25715,6 +25716,7 @@
 0.0.0.0 foalbasement.com
 0.0.0.0 foamidsputt.com
 0.0.0.0 foamyfood.com
+0.0.0.0 foapoopt.com
 0.0.0.0 foapsovi.net
 0.0.0.0 foavistu.net
 0.0.0.0 foazasis.com
