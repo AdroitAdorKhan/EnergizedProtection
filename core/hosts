@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.305
-# Release: 305
-# Entries: 72,201
+# Version: 22.11.306
+# Release: 306
+# Entries: 72,203
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 01 Nov 22 20:07:02
+# Updated: Wed, 02 Nov 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -26706,6 +26706,7 @@
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.opmnstr.com
 0.0.0.0 ga87z2o.com
+0.0.0.0 gab0r1.shop
 0.0.0.0 gabbleplacidcelery.com
 0.0.0.0 gabblerpawners.com
 0.0.0.0 gabldeghtixkur.me
@@ -30581,6 +30582,7 @@
 0.0.0.0 hungerundo.com
 0.0.0.0 hunggiang.vn
 0.0.0.0 hungrylongingtile.com
+0.0.0.0 hungryrise.com
 0.0.0.0 huniandijual.com
 0.0.0.0 hunniumvarted.com
 0.0.0.0 hunoso.com
