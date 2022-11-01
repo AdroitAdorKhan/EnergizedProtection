@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.11.305
 # Release: 305
-# Entries: 72,180
+# Entries: 72,185
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 01 Nov 22 12:07:01
+# Updated: Tue, 01 Nov 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -20969,6 +20969,7 @@
 0.0.0.0 dkhomedesign.com
 0.0.0.0 dkitikosi.com
 0.0.0.0 dkiylncurkt.xyz
+0.0.0.0 dkjrvgfozzhc.com
 0.0.0.0 dkkdlfrl.beget.tech
 0.0.0.0 dkksrclpfqmmtp.com
 0.0.0.0 dkkypggviv.com
@@ -28923,6 +28924,7 @@
 0.0.0.0 h2o.adaware.com
 0.0.0.0 h2oapi.adaware.com
 0.0.0.0 h2ocdn.adaware.com
+0.0.0.0 h2omedrano.com.ar
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h3helgf2g7k8.com
 0.0.0.0 h3lw971ym6.com
@@ -36375,6 +36377,7 @@
 0.0.0.0 log.dzen.ru
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.enuri.com
+0.0.0.0 log.etoday.co.kr
 0.0.0.0 log.europacash.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.g-enews.com
@@ -62893,6 +62896,7 @@
 0.0.0.0 u.mugrikees.com
 0.0.0.0 u.outbrain.com
 0.0.0.0 u.w-x.co
+0.0.0.0 u.zhugeapi.net
 0.0.0.0 u002f5b2b2c78a8ccc4d6e18982e5708075e9.report-uri.io
 0.0.0.0 u002fz.moatads.com
 0.0.0.0 u0054.com
@@ -71966,6 +71970,7 @@
 0.0.0.0 zfrnzzkpwjb.com
 0.0.0.0 zgc.com.cn
 0.0.0.0 zget-sites.com
+0.0.0.0 zgsdk.zhugeio.com
 0.0.0.0 zh-cn.ime.cootek.com
 0.0.0.0 zh.yomobi.net
 0.0.0.0 zhash.pro
