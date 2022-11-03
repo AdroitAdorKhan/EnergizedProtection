@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.11.307
 # Release: 307
-# Entries: 72,359
+# Entries: 72,361
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Thu, 03 Nov 22 12:07:02
+# Updated: Thu, 03 Nov 22 16:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -7625,6 +7625,7 @@
 0.0.0.0 analytics.maileon.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.makewebbetter.com
+0.0.0.0 analytics.mall.tv
 0.0.0.0 analytics.map.qq.com
 0.0.0.0 analytics.mapline.com
 0.0.0.0 analytics.marketingpiper.com.re.getclicky.com
@@ -31735,6 +31736,7 @@
 0.0.0.0 incentivesnetwork.net
 0.0.0.0 incerageatherein.com
 0.0.0.0 incessantbizarrelick.com
+0.0.0.0 inchexplicitwindfall.com
 0.0.0.0 incidentbunchludicrous.com
 0.0.0.0 incingevakemon.com
 0.0.0.0 incisivellc.com
