@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.308
-# Release: 308
-# Entries: 72,512
+# Version: 22.11.309
+# Release: 309
+# Entries: 72,517
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 04 Nov 22 20:07:02
+# Updated: Sat, 05 Nov 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -32536,6 +32536,7 @@
 0.0.0.0 ioptia.adups.cn
 0.0.0.0 ioredi.com
 0.0.0.0 iorqaexyqic.xyz
+0.0.0.0 iortnhooping.website
 0.0.0.0 ios.adgear.com
 0.0.0.0 ios.rqd.qq.com
 0.0.0.0 ios.splkmobile.com
@@ -45597,6 +45598,7 @@
 0.0.0.0 pilotscience.com
 0.0.0.0 piloxia.com
 0.0.0.0 pilpulbagmen.com
+0.0.0.0 pimlicoouranos.space
 0.0.0.0 pimpmypr.de
 0.0.0.0 pimpoopo.com
 0.0.0.0 pimproll.com
@@ -68058,6 +68060,7 @@
 0.0.0.0 www.chipmania.it
 0.0.0.0 www.chipsleapt.com
 0.0.0.0 www.chokefirmbeauty.com
+0.0.0.0 www.chopperarena.com
 0.0.0.0 www.chotdonhang.com
 0.0.0.0 www.chrelisa.com
 0.0.0.0 www.cicerosd.com
@@ -69610,8 +69613,10 @@
 0.0.0.0 www.qualificationrestriction.com
 0.0.0.0 www.qualitydestructionhouse.com
 0.0.0.0 www.quarrelaimless.com
+0.0.0.0 www.quarrelconfidentmane.com
 0.0.0.0 www.queryly.com
 0.0.0.0 www.questionsadjournasleep.com
+0.0.0.0 www.quickieboilingplayground.com
 0.0.0.0 www.quietlyrosebudagreeing.com
 0.0.0.0 www.quiltshiverpowerless.com
 0.0.0.0 www.quinni.cyou
