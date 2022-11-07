@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.311
-# Release: 311
-# Entries: 73,239
+# Version: 22.11.312
+# Release: 312
+# Entries: 73,243
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 07 Nov 22 20:07:03
+# Updated: Tue, 08 Nov 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17286,6 +17286,7 @@
 0.0.0.0 combinationappend.com
 0.0.0.0 combinedexterior.com
 0.0.0.0 combinedunresolved.com
+0.0.0.0 combineencouragingutmost.com
 0.0.0.0 combitly.com
 0.0.0.0 comboapp.com
 0.0.0.0 combotag.com
@@ -37578,6 +37579,7 @@
 0.0.0.0 lyricalcomfortfatherinlaw.com
 0.0.0.0 lyricslocusvaried.com
 0.0.0.0 lyricsmint.red
+0.0.0.0 lyricsneighbour.com
 0.0.0.0 lyrigh.com
 0.0.0.0 lyrqhyluu.com
 0.0.0.0 lyrtestc-nyc.pubmatic.com
@@ -43698,6 +43700,7 @@
 0.0.0.0 operationkettle.com
 0.0.0.0 operations.cj.com
 0.0.0.0 operativeapart.com
+0.0.0.0 operatorexperienced.com
 0.0.0.0 opertyvaluat.autos
 0.0.0.0 opertyvaluat.com
 0.0.0.0 opes-com.videoplayerhub.com
@@ -64866,6 +64869,7 @@
 0.0.0.0 uy.ads.justpremium.com
 0.0.0.0 uy054eprsdoz.appspot.com
 0.0.0.0 uyaly.com
+0.0.0.0 uyechyymr.com
 0.0.0.0 uyen.vn
 0.0.0.0 uygccipxtsweea.com
 0.0.0.0 uygdpooiritqbi.com
