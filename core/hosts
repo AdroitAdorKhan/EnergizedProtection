@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.11.315
 # Release: 315
-# Entries: 73,495
+# Entries: 73,496
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 11 Nov 22 00:07:02
+# Updated: Fri, 11 Nov 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -64102,6 +64102,7 @@
 0.0.0.0 uidsync.net
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uigruwtql.com
+0.0.0.0 uihkayqthgnfr.com
 0.0.0.0 uihxtyagqysh.com
 0.0.0.0 uiikxuesenpuy.xyz
 0.0.0.0 uinames.com
