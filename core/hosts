@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.11.318
 # Release: 318
-# Entries: 73,839
+# Entries: 73,840
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Mon, 14 Nov 22 00:07:02
+# Updated: Mon, 14 Nov 22 04:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -68776,6 +68776,7 @@
 0.0.0.0 www.ama.cu
 0.0.0.0 www.amarktflow.com
 0.0.0.0 www.amazementcoronation.com
+0.0.0.0 www.amenityleisurelydays.com
 0.0.0.0 www.amplitudewassnap.com
 0.0.0.0 www.amuseglide.com
 0.0.0.0 www.anagramme.net
