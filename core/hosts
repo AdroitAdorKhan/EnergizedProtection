@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.322
-# Release: 322
-# Entries: 74,363
+# Version: 22.11.323
+# Release: 323
+# Entries: 74,375
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 18 Nov 22 20:07:02
+# Updated: Sat, 19 Nov 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -1409,6 +1409,7 @@
 0.0.0.0 360protected.com
 0.0.0.0 360s-style.com
 0.0.0.0 360tag.com
+0.0.0.0 360tradeoption.com
 0.0.0.0 360yield.com
 0.0.0.0 361229949527316.window-updates-service.com
 0.0.0.0 362003061506483.windows-display-service.com
@@ -4713,6 +4714,7 @@
 0.0.0.0 ads-weborama.adhese.com
 0.0.0.0 ads-website.ytsservice.com
 0.0.0.0 ads-wetransfer.adhese.com
+0.0.0.0 ads-yallo-production.imgix.net
 0.0.0.0 ads.123net.jp
 0.0.0.0 ads.1997media.com
 0.0.0.0 ads.20m.es
@@ -6348,6 +6350,7 @@
 0.0.0.0 againd.name
 0.0.0.0 againedam.com
 0.0.0.0 againirksomefutile.com
+0.0.0.0 againponderous.com
 0.0.0.0 againstperfectlywrench.com
 0.0.0.0 agakoffingan.com
 0.0.0.0 agalarvitaran.com
@@ -11808,6 +11811,7 @@
 0.0.0.0 benzemahaha.000webhostapp.com
 0.0.0.0 benzolescabrin.com
 0.0.0.0 beonixom.com
+0.0.0.0 beoshawottor.com
 0.0.0.0 bepaabqwg.com
 0.0.0.0 beparaspr.com
 0.0.0.0 bephamema.com
@@ -21983,6 +21987,7 @@
 0.0.0.0 download-step1.com
 0.0.0.0 download.350.com
 0.0.0.0 download.appsflyer.com
+0.0.0.0 download.awootism.club
 0.0.0.0 download.c3pool.com
 0.0.0.0 download.caihong.com
 0.0.0.0 download.game.yy.com
@@ -30932,6 +30937,7 @@
 0.0.0.0 hopefullyadults.com
 0.0.0.0 hopefullyapricot.com
 0.0.0.0 hopefulserversnecklace.com
+0.0.0.0 hopelandltd.com
 0.0.0.0 hopelessna.xyz
 0.0.0.0 hopeorganconstructive.com
 0.0.0.0 hopfeed.com
@@ -37720,6 +37726,7 @@
 0.0.0.0 lowlilyamex.com
 0.0.0.0 lowlocket.com
 0.0.0.0 lowrance.top
+0.0.0.0 lowregirocka.com
 0.0.0.0 lowremoraidon.com
 0.0.0.0 lowrihouston.pro
 0.0.0.0 lowseelan.com
@@ -69362,6 +69369,7 @@
 0.0.0.0 www.beamedshipwreck.com
 0.0.0.0 www.beamingworked.com
 0.0.0.0 www.bearingpreoccupationadmonish.com
+0.0.0.0 www.bearware.org
 0.0.0.0 www.beauhoneycomb.com
 0.0.0.0 www.beautyenderma.nl
 0.0.0.0 www.becomesnerveshobble.com
@@ -71183,6 +71191,7 @@
 0.0.0.0 www.policyinmateblare.com
 0.0.0.0 www.polishrefreshment.com
 0.0.0.0 www.politicianbusplate.com
+0.0.0.0 www.pollingsmallercondom.com
 0.0.0.0 www.ponderouscentigradecredit.com
 0.0.0.0 www.poorapparel.com
 0.0.0.0 www.popacs.ero-advertising.com
@@ -71819,6 +71828,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.sunflowerlaboratory.in
 0.0.0.0 www.sunglassesmentallyproficient.com
+0.0.0.0 www.sunglassesninja.com
 0.0.0.0 www.sunnyseries.com
 0.0.0.0 www.suozmtcc.com
 0.0.0.0 www.supera.com.br
@@ -72165,6 +72175,7 @@
 0.0.0.0 www.wardgrazeunarmed.com
 0.0.0.0 www.warfareblameless.com
 0.0.0.0 www.warilyaggregation.com
+0.0.0.0 www.warpvariabilityluxuriant.com
 0.0.0.0 www.washingfueltorn.com
 0.0.0.0 www.wasoffspring.com
 0.0.0.0 www.wastedclassmatemay.com
@@ -72594,6 +72605,7 @@
 0.0.0.0 xcijdafqxll.xyz
 0.0.0.0 xclaimwords.net
 0.0.0.0 xclpnclplgeom.com
+0.0.0.0 xclusivelogistic.com
 0.0.0.0 xcnqpwbeqanijjb.com
 0.0.0.0 xcoolwunmigroups.com.ng
 0.0.0.0 xcounter.ch
