@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.327
-# Release: 327
-# Entries: 74,742
+# Version: 22.11.328
+# Release: 328
+# Entries: 74,755
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Wed, 23 Nov 22 20:07:02
+# Updated: Thu, 24 Nov 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -8267,6 +8267,7 @@
 0.0.0.0 anonymousads.com
 0.0.0.0 anopportuni.lol
 0.0.0.0 anormal-tracker.de
+0.0.0.0 anorrecenturybr.com
 0.0.0.0 anothere.club
 0.0.0.0 anpklfny.com
 0.0.0.0 anrlttkketcdw.com
@@ -16171,6 +16172,7 @@
 0.0.0.0 cldrck.com
 0.0.0.0 cldup.com
 0.0.0.0 clean-1-clean.club
+0.0.0.0 clean-blocker.com
 0.0.0.0 clean-protection.xyz
 0.0.0.0 clean.gg
 0.0.0.0 clean4app.xyz
@@ -19418,6 +19420,7 @@
 0.0.0.0 d12ylqdkzgcup5.cloudfront.net
 0.0.0.0 d12ysuoljjyfqa.cloudfront.net
 0.0.0.0 d135aysof2oufc.cloudfront.net
+0.0.0.0 d13gni3sfor862.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d13nu0oomnx5ti.cloudfront.net
 0.0.0.0 d13qwbj37sfx89.cloudfront.net
@@ -28373,6 +28376,7 @@
 0.0.0.0 gjixgqlkuitie.com
 0.0.0.0 gjjvkmngeo.com
 0.0.0.0 gjnbhvnbmxxv.com
+0.0.0.0 gjofwbjtvdfylt.com
 0.0.0.0 gjonfartyb.com
 0.0.0.0 gjqvujjc.tweb.sched.ovscdns.com
 0.0.0.0 gjrjwqotfx.xyz
@@ -36777,6 +36781,7 @@
 0.0.0.0 lgkwytmgkcwgsa.com
 0.0.0.0 lgncal.media.net
 0.0.0.0 lgpihaml.com
+0.0.0.0 lgpjasye.com
 0.0.0.0 lgqgrsbjh.com
 0.0.0.0 lgs-log.wapcar.com
 0.0.0.0 lgse.com
@@ -41176,6 +41181,7 @@
 0.0.0.0 musicaptest.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 musicgo.s.xoxknct.com
+0.0.0.0 musicinmysoul.biz
 0.0.0.0 musicmuskolino.top
 0.0.0.0 musicnote.info
 0.0.0.0 musicnote.soundcast.me
@@ -42318,6 +42324,7 @@
 0.0.0.0 ngacorporat.biz
 0.0.0.0 ngaous.com
 0.0.0.0 ngastatic.com
+0.0.0.0 ngazi.co.tz
 0.0.0.0 ngbn.net
 0.0.0.0 ngbwyygn.com
 0.0.0.0 ngc.aliyunceng.com
@@ -42475,6 +42482,7 @@
 0.0.0.0 nisperodonax.com
 0.0.0.0 nissan-automotorsport.com
 0.0.0.0 nissancantho3s.com
+0.0.0.0 nitheemp.net
 0.0.0.0 nitmus.com
 0.0.0.0 nitrogendetestable.com
 0.0.0.0 nitrogenpleahierarchy.com
@@ -61626,6 +61634,7 @@
 0.0.0.0 therapistpresumegooseberry.com
 0.0.0.0 theraprecramp.com
 0.0.0.0 therealestate.vip
+0.0.0.0 therebelfasters.com
 0.0.0.0 thereclinerrepairkenya.co.ke
 0.0.0.0 therecyclingmachine.com
 0.0.0.0 thereforetreadvoluntarily.com
@@ -66506,6 +66515,7 @@
 0.0.0.0 video-stats.l.google.com
 0.0.0.0 video-streaming.ezoic.com
 0.0.0.0 video-vcdn.fastclick.net
+0.0.0.0 video-watch1.com
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video.admixer.net
 0.0.0.0 video.adtelligent.com
@@ -67570,6 +67580,7 @@
 0.0.0.0 warezcrack.net
 0.0.0.0 warfareblameless.com
 0.0.0.0 wargerda.com
+0.0.0.0 warhui.com
 0.0.0.0 warilyaggregation.com
 0.0.0.0 wariveredhampuests.com
 0.0.0.0 warlockstallioniso.com
@@ -68251,6 +68262,7 @@
 0.0.0.0 whilar.com
 0.0.0.0 whilefitsaltered.com
 0.0.0.0 whillfortis.life
+0.0.0.0 whilol.com
 0.0.0.0 whilot.com
 0.0.0.0 whimsoplynx.com
 0.0.0.0 whingewost.com
@@ -73340,6 +73352,7 @@
 0.0.0.0 xrntfafnuxr.com
 0.0.0.0 xrpevent.help
 0.0.0.0 xrtojbhhei.com
+0.0.0.0 xruonpmunan.com
 0.0.0.0 xryecggeczcvpk.com
 0.0.0.0 xs.instreamatic.com
 0.0.0.0 xsa5x.bemobtrk.com
