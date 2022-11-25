@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.11.329
 # Release: 329
-# Entries: 74,820
+# Entries: 74,821
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 25 Nov 22 08:07:02
+# Updated: Fri, 25 Nov 22 12:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -71812,6 +71812,7 @@
 0.0.0.0 www.report-uri.io
 0.0.0.0 www.reportsnail.com
 0.0.0.0 www.reporttk.com
+0.0.0.0 www.reproductiontape.com
 0.0.0.0 www.reptilesire.com
 0.0.0.0 www.requiresfamoushometown.com
 0.0.0.0 www.rescuephrase.com
