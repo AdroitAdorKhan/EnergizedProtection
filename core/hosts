@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.329
-# Release: 329
-# Entries: 69,169
+# Version: 22.11.330
+# Release: 330
+# Entries: 69,104
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Fri, 25 Nov 22 20:07:02
+# Updated: Sat, 26 Nov 22 00:07:01
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -3479,7 +3479,6 @@
 0.0.0.0 activeoffbracelet.com
 0.0.0.0 activeprospects.com
 0.0.0.0 actividades.laforetlanguages.com
-0.0.0.0 activisionblizzardin.demdex.net
 0.0.0.0 activity.bigo.tv
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 activity.cubetvgame.com
@@ -4394,9 +4393,7 @@
 0.0.0.0 admidainsight.com
 0.0.0.0 admin-imgg.mgid.com
 0.0.0.0 admin-imgn.mgid.com
-0.0.0.0 admin.flurry.com
 0.0.0.0 admin.huoshui.cmcm.com
-0.0.0.0 admin.mgid.com
 0.0.0.0 admin.sattaking-real.com
 0.0.0.0 admin121.com
 0.0.0.0 adminder.com
@@ -7504,7 +7501,6 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.apotheken-finder.at
 0.0.0.0 analytics.app-adforce.jp
-0.0.0.0 analytics.app.lithium.com
 0.0.0.0 analytics.applicationinsights.io
 0.0.0.0 analytics.appsbnet.com.br
 0.0.0.0 analytics.appservice.tech
@@ -8130,7 +8126,6 @@
 0.0.0.0 android-clear.com
 0.0.0.0 android-sys-cleaner.com
 0.0.0.0 android.adgear.com
-0.0.0.0 android.bugly.qq.com
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads20staging.adcolony.com
 0.0.0.0 androidads21.adcolony.com
@@ -12665,13 +12660,7 @@
 0.0.0.0 blog-stat.com
 0.0.0.0 blog-webkatalog.de
 0.0.0.0 blog.aapgsuez.net
-0.0.0.0 blog.adcash.com
-0.0.0.0 blog.adcolony.com
-0.0.0.0 blog.addthis.com
-0.0.0.0 blog.adhese.com
-0.0.0.0 blog.admixer.net
 0.0.0.0 blog.aeromus.com
-0.0.0.0 blog.applovin.com
 0.0.0.0 blog.centerking.top
 0.0.0.0 blog.eduelects.com
 0.0.0.0 blog.embluemail.com
@@ -12681,14 +12670,9 @@
 0.0.0.0 blog.manipalinn.com
 0.0.0.0 blog.mazda.co.il
 0.0.0.0 blog.mgid.com
-0.0.0.0 blog.newrelic.com
 0.0.0.0 blog.nilbt.com
-0.0.0.0 blog.outbrain.com
-0.0.0.0 blog.pagefair.com
 0.0.0.0 blog.pensiveweb.com
-0.0.0.0 blog.revcontent.com
 0.0.0.0 blog.stetgzs.cn
-0.0.0.0 blog.taboola.com
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 blog.uposit.me
 0.0.0.0 blog104.com
@@ -19431,7 +19415,6 @@
 0.0.0.0 d10nkw6w2k1o10.cloudfront.net
 0.0.0.0 d10wfab8zt419p.cloudfront.net
 0.0.0.0 d119hs7863lat.cloudfront.net
-0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11hjbdxxtogg5.cloudfront.net
 0.0.0.0 d11p7gi4d9x2s0.cloudfront.net
 0.0.0.0 d12czbu0tltgqq.cloudfront.net
@@ -21562,7 +21545,6 @@
 0.0.0.0 djsfyephu.com
 0.0.0.0 djthhnqhdj.xyz
 0.0.0.0 djunreal.co.uk
-0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 djvbrdydmuito.com
 0.0.0.0 djvby0s5wa7p7.cloudfront.net
 0.0.0.0 djxfar6.com
@@ -30407,11 +30389,6 @@
 0.0.0.0 helodesdhoni.com
 0.0.0.0 helooworld.us
 0.0.0.0 help-test.openx.com
-0.0.0.0 help.content.ad
-0.0.0.0 help.juicyads.com
-0.0.0.0 help.mopub.com
-0.0.0.0 help.taboola.com
-0.0.0.0 help.tapad.com
 0.0.0.0 helpbattery1.ksmobile.com
 0.0.0.0 helpedmockerydrop.com
 0.0.0.0 helperate.net
@@ -31350,7 +31327,6 @@
 0.0.0.0 hr.ads.justpremium.com
 0.0.0.0 hrahdmon.com
 0.0.0.0 hrbyvijqlgwdou.com
-0.0.0.0 href.li
 0.0.0.0 hretabbtgrutmxp.com
 0.0.0.0 hrfnnhtwtvscv.com
 0.0.0.0 hrlcrbbraq.xyz
@@ -34843,7 +34819,6 @@
 0.0.0.0 judiciousbloke.com
 0.0.0.0 judithabusufaitdyg.duckdns.org
 0.0.0.0 judjetheminos.com
-0.0.0.0 judua3rtinpst0s.xyz
 0.0.0.0 juegos.lz-pub-ads.com
 0.0.0.0 juergeninez.com
 0.0.0.0 jugcounsellor.com
@@ -38015,7 +37990,6 @@
 0.0.0.0 ltgollersftr.com
 0.0.0.0 ltgpywylxh.xyz
 0.0.0.0 ltkmufhru.xyz
-0.0.0.0 ltlxvxjjmvhn.me
 0.0.0.0 ltp2qzteb4.s.ad6media.fr
 0.0.0.0 ltrpphqxvu.com
 0.0.0.0 ltsvdgipwd.com
@@ -38624,18 +38598,11 @@
 0.0.0.0 maikashu.net
 0.0.0.0 maikuque.net
 0.0.0.0 mail-ads.google.com
-0.0.0.0 mail.adcolony.com
-0.0.0.0 mail.admaym.com
-0.0.0.0 mail.applovin.com
 0.0.0.0 mail.domsearch.net
 0.0.0.0 mail.emilyanncain.com
-0.0.0.0 mail.ero-advertising.com
 0.0.0.0 mail.ezexfzek.com
 0.0.0.0 mail.lz-pub-ads.com
 0.0.0.0 mail.magnolya.ir
-0.0.0.0 mail.moatads.com
-0.0.0.0 mail.outbrain.com
-0.0.0.0 mail.revcontent.com
 0.0.0.0 mail.shahnazsiddiqa.com
 0.0.0.0 mail.tapdaq.com
 0.0.0.0 mail.x6ud86o8664ey.duckdns.org
@@ -39535,7 +39502,6 @@
 0.0.0.0 mega-fla.com
 0.0.0.0 mega-stats.com
 0.0.0.0 megabaratovariedades.com.br
-0.0.0.0 megablogme.com
 0.0.0.0 megabyte-xtnegocios.com
 0.0.0.0 megacdn.top
 0.0.0.0 megadeliveryn.com
@@ -41312,9 +41278,6 @@
 0.0.0.0 mwvqwyyewhvb.com
 0.0.0.0 mwwsbsexg.com
 0.0.0.0 mwyqxgant.xyz
-0.0.0.0 mx.admaym.com
-0.0.0.0 mx.adserver.yahoo.com
-0.0.0.0 mx.ero-advertising.com
 0.0.0.0 mxabetogiycjdp.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxauevhape.xyz
@@ -42968,33 +42931,14 @@
 0.0.0.0 ns.mgid.com
 0.0.0.0 ns.mpnrs.com
 0.0.0.0 ns003.com
-0.0.0.0 ns1.audienceinsights.net
 0.0.0.0 ns1.facilitategovernor.com
-0.0.0.0 ns1.inmobi.com
-0.0.0.0 ns1.uc.cn
-0.0.0.0 ns1.ucweb.com
 0.0.0.0 ns1002250.ip-51-81-245.us
 0.0.0.0 ns1p.net
-0.0.0.0 ns2.audienceinsights.net
-0.0.0.0 ns2.inmobi.com
-0.0.0.0 ns2.mgid.com
-0.0.0.0 ns2.uc.cn
-0.0.0.0 ns2.ucweb.com
 0.0.0.0 ns2.whirlpoolwashingmachinerepair.xyz
-0.0.0.0 ns3.inmobi.com
-0.0.0.0 ns3.mgid.com
-0.0.0.0 ns3.uc.cn
-0.0.0.0 ns3.ucweb.com
 0.0.0.0 ns3196520.anonimayzer.site
 0.0.0.0 ns336739.ip-37-187-249.eu
 0.0.0.0 ns4.bitsngo.net
-0.0.0.0 ns4.inmobi.com
-0.0.0.0 ns4.uc.cn
-0.0.0.0 ns4.ucweb.com
-0.0.0.0 ns5.ucweb.com
 0.0.0.0 ns56pcyesbnazklda.ay.delivery
-0.0.0.0 ns7.ucweb.com
-0.0.0.0 ns8469rfvth42.xyz
 0.0.0.0 nsa-tengshe-anqusec-hacker-google-baidu-apt-c-61.com
 0.0.0.0 nsa.adxadserv.com
 0.0.0.0 nsaudience.pl
@@ -53238,6 +53182,7 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.mopub.com
 0.0.0.0 s.mugrikees.com
+0.0.0.0 s.news.naver.com
 0.0.0.0 s.nitropay.com
 0.0.0.0 s.o333o.com
 0.0.0.0 s.openinstall.io
@@ -57633,16 +57578,7 @@
 0.0.0.0 suppoc.com
 0.0.0.0 support-developer.applovin.com
 0.0.0.0 support-legacy.newrelic.com
-0.0.0.0 support.adcolony.com
-0.0.0.0 support.addthis.com
-0.0.0.0 support.applovin.com
-0.0.0.0 support.appsflyer.com
 0.0.0.0 support.exucom.com
-0.0.0.0 support.flurry.com
-0.0.0.0 support.inmobi.com
-0.0.0.0 support.mgid.com
-0.0.0.0 support.newrelic.com
-0.0.0.0 support.pagefair.com
 0.0.0.0 support.streamjav.top
 0.0.0.0 support.tapdaq.com
 0.0.0.0 supportaeon.com
@@ -58015,7 +57951,6 @@
 0.0.0.0 t.karte.io
 0.0.0.0 t.kck.st
 0.0.0.0 t.lidyana.com
-0.0.0.0 t.lpf.ninja
 0.0.0.0 t.melhorplano.net
 0.0.0.0 t.metrilo.com
 0.0.0.0 t.mtagmonetizationb.com
@@ -59425,6 +59360,7 @@
 0.0.0.0 tompool.org
 0.0.0.0 tomsoldmansionkochi.com
 0.0.0.0 tonapplaudfreak.com
+0.0.0.0 tonefuse.com
 0.0.0.0 tonesprotectioncard.com
 0.0.0.0 tonic.moportals.com
 0.0.0.0 tonicelement.digital
@@ -60460,6 +60396,7 @@
 0.0.0.0 tracker.datatrics.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.doodstream.com
+0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
 0.0.0.0 tracker.emailaptitude.com
 0.0.0.0 tracker.ero-advertising.com
@@ -62137,7 +62074,6 @@
 0.0.0.0 usa.ime.cootek.com
 0.0.0.0 usabilitytools.com
 0.0.0.0 usabilla.com
-0.0.0.0 usage.trackjs.com
 0.0.0.0 usageanalytics.coveo.com
 0.0.0.0 usagedoser.live
 0.0.0.0 usapglobal.usapglobal.org
@@ -62169,6 +62105,7 @@
 0.0.0.0 usenetnl.download
 0.0.0.0 user-center-pre.ucweb.com
 0.0.0.0 user-rating.burda-forward.de
+0.0.0.0 user-shield-check.com
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user-sync-mannenmedia.adhese.com
 0.0.0.0 user-sync-mycujoo.adhese.com
@@ -64142,8 +64079,6 @@
 0.0.0.0 wignewsee.club
 0.0.0.0 wijsneusmedia.nl
 0.0.0.0 wiki.alonsofontanero.com
-0.0.0.0 wiki.ero-advertising.com
-0.0.0.0 wiki.flurry.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikia-d.openx.net
@@ -67378,6 +67313,7 @@
 0.0.0.0 www.system-notify.app
 0.0.0.0 www.system-protection-required.com
 0.0.0.0 www.systemhostess.com
+0.0.0.0 www.syxcwxur.com
 0.0.0.0 www.t.skimresources.com
 0.0.0.0 www.tablescontribution.com
 0.0.0.0 www.tabloidquantitycosts.com
@@ -69195,7 +69131,6 @@
 0.0.0.0 zwnoeqzsuz.com
 0.0.0.0 zwqpqrtpjt.com
 0.0.0.0 zww.ero-advertising.com
-0.0.0.0 zwyr157wwiu6eior.com
 0.0.0.0 zxcdn.com
 0.0.0.0 zxptw.cn
 0.0.0.0 zxr9gpxf7j.com
@@ -69218,8 +69153,3 @@
 0.0.0.0 zzghcckpzlhob.com
 0.0.0.0 zzhengre.com
 0.0.0.0 zzz.onion.pet
-# --------------------------------------------
-# E N E R G I Z E D  E N D S
-# --------------------------------------------
-#
-# - - - -  S T A Y  E N E R G I Z E D  - - - -
