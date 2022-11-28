@@ -24,12 +24,12 @@
 # Package: Energized Core Hosts
 # Description: Core Energized Blacklist.
 # Format: hosts
-# Version: 22.11.331
-# Release: 331
-# Entries: 40,572
+# Version: 22.11.333
+# Release: 333
+# Entries: 35,250
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Sun, 27 Nov 22 20:07:02
+# Updated: Tue, 29 Nov 22 00:07:02
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -381,7 +381,6 @@
 0.0.0.0 123hpcom.site
 0.0.0.0 123lnk.com
 0.0.0.0 123movies-to.org
-0.0.0.0 123movies.to
 0.0.0.0 123vidz.com
 0.0.0.0 124.106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 125.61.29.122.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
