@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 22.11.333
 # Release: 333
-# Entries: 24,269
+# Entries: 17,095
 # Pack Code: EC0R3-P
 # License: CC BY-NC-SA 4.0, https://energized.pro/license
-# Updated: Tue, 29 Nov 22 04:07:01
+# Updated: Tue, 29 Nov 22 16:07:03
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # --------------------------------------------
 #
@@ -17141,3 +17141,6 @@
 0.0.0.0 coedmediagroup.com
 0.0.0.0 coefficientforeverhandshake.com
 0.0.0.0 coefficientpayslipssuicide.c
+0.0.0.0 heartbeats.prd.data.s.joyn.de
+0.0.0.0 letchooz.net
+0.0.0.0 pushamir.com
